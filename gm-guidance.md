@@ -1,0 +1,512 @@
+# GM Guidance
+
+**Inspired by:** Dungeon World 2, PbtA principles, and narrative-first design
+
+---
+
+## GM Agendas
+
+Your overarching goals as GM:
+
+1. **Portray a dangerous, wondrous world** — Make the world feel alive, reactive, and full of possibility
+2. **Fill the characters' lives with adventure** — Create drama, stakes, and meaningful choices
+3. **Play to find out what happens** — You're not writing the story alone; discover it with the players
+
+---
+
+## GM Principles
+
+Specific techniques to achieve your agendas:
+
+### **Be a fan of the characters**
+- Set up situations where their abilities shine
+- Make them look cool when they succeed
+- Don't try to "beat" them — challenge them so their victories feel earned
+
+### **Ask questions and build on answers**
+- "Who taught you to fight?" "What do you fear most?" "Why do you owe the merchant guild?"
+- Use answers to create NPCs, locations, and plot threads
+- Collaborative worldbuilding makes players invested
+
+### **Telegraph danger, then follow through**
+- **Soft moves** = setup, warning ("The dragon inhales deeply, flames flickering in its throat")
+- **Hard moves** = consequence ("Flames engulf you, mark 3 Stress")
+- Never surprise players with sudden death; give them chance to react
+
+### **Make every roll matter**
+- Only call for rolls when outcome uncertain and both success/failure interesting
+- If failure would just stall progress, don't roll — let them succeed or reframe the situation
+- "What do you do?" should always have meaningful stakes
+
+### **Embrace the fiction**
+- Stats and mechanics serve the fiction, not the other way around
+- If something doesn't make fictional sense, it can't happen (pixie can't wield greatsword unless magic explains it)
+- When in doubt, ask "Does this make sense in the world?"
+
+### **Think off-screen too**
+- The world moves even when PCs aren't watching
+- Villains advance plans, factions clash, disasters unfold
+- Create living world, not static video game map
+
+---
+
+## GM Moves (Three Tiers)
+
+**Inspired by Grimwild's Story/Suspense/Impact taxonomy**
+
+### **Story Moves** (Always Available, No Cost)
+These are your default GM actions. Use anytime to:
+- Describe the environment
+- Introduce NPCs
+- Frame scenes
+- Ask questions
+- Show off-screen events
+
+Examples:
+- "The merchant eyes you suspiciously"
+- "You hear distant thunder"
+- "The tavern is packed with nervous townsfolk"
+
+**When:** Anytime. No trigger needed. No resource cost.
+
+---
+
+### **Suspense Moves** (Setup / Telegraph)
+
+These escalate tension and telegraph danger. Use when:
+- PC rolls Conflict (7-9 / 1 Hit / 11-15)
+- You want to create pressure
+- Building to bigger consequence
+- **Optional:** Spend 1 Threat (if using Threat Pool)
+
+Examples:
+- **Show signs of approaching threat** — "You hear heavy footsteps echoing down the hall"
+- **Put someone in a spot** — "The bridge is collapsing. Do you jump or grab your ally?"
+- **Offer an opportunity, with or without cost** — "You could grab the artifact, but the guardian is turning toward you..."
+- **Reveal an unwelcome truth** — "You recognize the bandit leader — it's your brother"
+- **Entangle** — "The vines wrap around your legs, slowing you"
+- **Bridge** — "The ritual is halfway complete. Dark energy swirls."
+
+**When:** PC Conflict result, or when building tension. These are *setups* for Impact Moves.
+
+---
+
+### **Impact Moves** (Consequence / Follow-Through)
+
+These deliver hard consequences. Use when:
+- PC rolls Failure (6- / 0 Hits / ≤10)
+- Suspense move was ignored/failed
+- Fiction demands immediate consequence
+- Challenge fail-state triggered
+
+Examples:
+- **Deal damage** — "The orc's axe bites deep. Mark 2 Stress."
+- **Use up their resources** — "Your armor strap snaps. Lose 1 armor use."
+- **Separate them** — "The cave-in splits the party. Kael, you're alone in the dark."
+- **Take away their stuff** — "The thief cuts your belt pouch and vanishes into the crowd"
+- **Inflict Condition** — "The dragon's roar fills you with terror. Mark Condition: Frightened (Moderate)"
+- **Advance threat clock** — "The ritual completes. The demon manifests."
+
+**When:** PC Failure result, or when Suspense Move's threat follows through.
+
+### **Important:** Name the move in your head, describe in fiction
+
+Don't say "I'm using 'Deal Damage' on you."
+
+Say "The orc's axe slams into your shield, splintering it. Mark 2 Stress."
+
+---
+
+## Vigilance: Telegraph Danger (Grimwild Pattern)
+
+**Problem:** "Roll Perception to spot the trap" gates information on luck. If players fail, they walk into ambush blindly.
+
+**Solution:** Use **Hint → Reveal → Strike** escalation instead.
+
+### **Hint** (Subtle Clue)
+- Foreshadow danger without spelling it out
+- Gives attentive players chance to investigate
+- No roll required
+
+Examples:
+- "The corridor ahead is oddly silent"
+- "Scratch marks on the door, like claws"
+- "The merchant's smile doesn't reach his eyes"
+
+### **Reveal** (Obvious Danger)
+- Make threat clear and present
+- Players know danger exists, must respond
+- Call for rolls if they act
+
+Examples:
+- "The tripwire glints in your torchlight"
+- "You hear growling from the darkness ahead"
+- "The merchant's hand moves to his dagger"
+
+### **Strike** (Threat Acts)
+- Danger follows through
+- Triggered by player inaction or failure
+- This is when Impact Move happens
+
+Examples:
+- "The trap triggers. Defy with Grace or mark 2 Stress."
+- "The beast lunges from the shadows. What do you do?"
+- "The merchant draws and stabs. Roll Defy!"
+
+**Golden Rule:** Never skip Hint or Reveal unless surprise is narratively justified (ambush, invisible enemy, etc.). Escalate through stages based on player attention and actions.
+
+This eliminates "gotcha" moments while maintaining tension.
+
+---
+
+## Spotlight Management
+
+### **"What Do You Do?"**
+
+This is your key question. After presenting situation (danger, opportunity, complication), ask this to prompt player response.
+
+**Good framing:**
+- "The captain charges at you, sword raised. What do you do?"
+- "The merchant eyes you suspiciously. What do you do?"
+- "The ritual begins, dark energy swirling. What do you do?"
+
+**Poor framing:**
+- "Roll Defy" (prescribing action)
+- "You get hit for 2 damage" (no choice)
+- "What do you do?" (without context/stakes)
+
+### **Spotlight Rotation**
+
+**Default:** Ask individual PCs "What do you do?" based on fiction
+- Who's in danger?
+- Who just acted?
+- Whose turn feels right dramatically?
+
+**When uncertain:** Go clockwise around table
+
+**When urgent:** Interrupt with enemy action, then ask "What do you do?"
+
+**Players can seize spotlight:** Spend 1 Momentum to act immediately
+
+---
+
+## Setting Difficulty
+
+### **For Dice Pool System (Xd6):**
+
+| Difficulty | Success On | Use When |
+|------------|------------|----------|
+| **Easy** | 4, 5, 6 | Task within character competence, favorable conditions |
+| **Moderate** | 5, 6 | Standard challenge, neutral conditions (MOST COMMON) |
+| **Hard** | 6 only | Task at edge of capability, poor conditions |
+
+**Default to Moderate.** Only use Easy when PCs have clear advantage or expertise. Reserve Hard for dramatic moments.
+
+### **For 2d10 System:**
+
+Thresholds are static (11/16/21). Modulate difficulty via **Edge and Bane:**
+
+| Difficulty | Modifier | Use When |
+|------------|----------|----------|
+| **Easy** | Grant 1 Edge | Favorable conditions, clear advantage |
+| **Standard** | No modifier | Neutral conditions (MOST COMMON) |
+| **Hard** | Impose 1 Bane | Unfavorable conditions, disadvantage |
+| **Very Hard** | Impose 2 Banes | Nearly impossible, stacked disadvantages |
+
+---
+
+## When to Roll vs. When to Say Yes
+
+### **Call for Roll When:**
+- Outcome uncertain
+- Both success and failure interesting
+- Risk or danger present
+- Dramatic moment
+
+### **Say Yes When:**
+- Success trivial for character
+- Failure would just stall progress
+- No time pressure or danger
+- Routine action
+
+### **Say No When:**
+- Action makes no fictional sense
+- Impossible given established facts
+- Would break core fiction/tone
+
+**Example:**
+- "I climb the ladder" → Say yes (unless ladder is trapped, rickety, or under fire)
+- "I jump across the 30-foot chasm" → Call for roll (dangerous, outcome uncertain)
+- "I flap my arms and fly" → Say no (you're not magical, fiction doesn't support it)
+
+---
+
+## Failure is Not a Wall
+
+When PC fails, **the situation changes**. Never leave them in the same spot with no progress.
+
+**Bad failure:**
+- "You fail to pick the lock." (stall)
+- "The guard doesn't believe you." (no consequence)
+
+**Good failure:**
+- "You trigger the trap. Mark 2 Stress and the alarm rings." (consequence + new situation)
+- "The guard believes you're lying and calls for backup. What do you do?" (escalation)
+
+---
+
+## Conditions: Fiction First
+
+Conditions are **narrative consequences**, not just penalties.
+
+### **When to Inflict Conditions:**
+
+**Minor Conditions** (Shaken, Bruised, Embarrassed):
+- Conflict results that demand cost
+- Non-fatal but meaningful consequences
+- Social/mental setbacks
+
+**Moderate Conditions** (Wounded, Frightened, Discredited):
+- Failure against serious threats
+- Dramatic fictional triggers (dragon's roar, betrayal)
+- Escalation of Minor Conditions
+
+**Severe Conditions** (Maimed, Terrified, Cursed):
+- Critical failures
+- Major story events (witnessing death, cursed by witch)
+- Escalation of Moderate Conditions
+
+**Critical Conditions** (Dying, Broken, Petrified):
+- Pushing through at max Stress
+- Catastrophic failures
+- Epic-level threats
+
+### **Clearing Conditions:**
+
+Tie to fiction, not just rest:
+- **Shaken** → clears when you face fear successfully
+- **Wounded** → requires medical attention or rest
+- **Frightened** → clears when you confront source of fear
+- **Cursed** → requires quest to lift curse
+
+---
+
+## Pacing Combat
+
+### **Mooks** (1 HP)
+- Fast, disposable
+- Use in groups (3-6)
+- Descriptive defeats ("You cut through the goblins")
+
+### **Standard Foes** (2-3 HP)
+- Competent opposition
+- Use in small groups (2-4)
+- Each gets moment to act/react
+
+### **Elite Warriors** (4-5 HP)
+- Dangerous individuals
+- Use solo or pairs
+- Describe injuries as they accumulate ("He's bleeding but still dangerous")
+
+### **Epic Foes / Bosses** (6-8+ HP)
+- Centerpiece encounters
+- Give special abilities (see combat-design.md)
+- Multi-phase (tactics change at 50% HP)
+- Describe escalation ("The dragon, enraged, takes flight...")
+
+---
+
+## Threat Pool (Optional)
+
+If using Threat Pool (recommended for structured tension):
+
+**Start combat with Threat = number of PCs (2-5)**
+
+**Earn Threat:**
+- PC rolls Failure: +1 Threat
+
+**Spend Threat:**
+- **Seize initiative (1 Threat):** Enemy acts immediately
+- **Activate ability (1-3 Threat):** Trigger special move
+- **Reinforce (2 Threat):** More enemies arrive
+
+**Don't hoard Threat.** Spend it to create drama and pressure.
+
+---
+
+## Common Pitfalls to Avoid
+
+### **1. Rolling for Everything**
+Not every action needs a roll. Save rolls for meaningful moments.
+
+### **2. Ignoring Soft Moves**
+Always telegraph danger before hard moves. Give players chance to react.
+
+### **3. Arbitrary Consequences**
+"You take damage because I said so" feels unfair. Hard moves should follow from fiction.
+
+### **4. Stalling on Failure**
+"You fail" is not a move. Change the situation when they fail.
+
+### **5. Railroading**
+Players make choices, you respond. Don't force predetermined outcomes.
+
+### **6. Letting Momentum/Stress Bookkeeping Slow Play**
+Trust players to track their own resources. Audit occasionally, don't micromanage.
+
+### **7. Making Every Fight Epic**
+Mooks should go down fast. Reserve complex fights for bosses.
+
+---
+
+## Session Structure
+
+### **Opening**
+- Recap previous session (2-3 minutes)
+- Frame first scene (in media res or natural follow-up)
+- Ask "What do you do?"
+
+### **Middle**
+- Alternate between action/tension and breathing room
+- Use soft moves to build tension
+- Use hard moves to deliver consequences
+- Ask clarifying questions, build on answers
+
+### **Closing**
+- Find natural breaking point (not mid-combat!)
+- Preview next session if appropriate
+- **End of Session Move** (optional advancement mechanic):
+  - "Did we learn something important about the world?"
+  - "Did we overcome a significant threat?"
+  - "Did a character relationship change meaningfully?"
+  - Answer yes = 1 XP (or Momentum, or advancement point)
+
+---
+
+## Challenges: Structured Complex Scenes (Grimwild Pattern)
+
+When PCs face complex situations (escape, heist, ritual, negotiation), use the **Challenge** structure:
+
+### **Challenge Template:**
+
+**Name:** [Brief descriptor, e.g., "Escape the Collapsing Mine"]
+
+**Goal:** What PCs are trying to accomplish
+
+**Obstacles:** 2-3 complications (use as Suspense Moves)
+- Example: "Falling rubble," "Rising water," "Poisonous gas"
+
+**Threats:** 2-3 dangers that can escalate (use as Impact Moves if PCs fail)
+- Example: "Buried alive," "Trapped," "Suffocated"
+
+**Fail-State:** What happens if they don't succeed
+- Example: "The mine collapses entirely. Mark 3 Stress and gain Condition: Trapped (Severe)"
+
+**Success Conditions:** How they win
+- Example: "Reach the exit before 3 failures accumulate" or "Fill 6-segment progress clock"
+
+### **Running a Challenge:**
+
+1. Frame the situation, describe Goal and Obstacles
+2. Ask "What do you do?"
+3. PC acts → roll appropriate Action
+4. **Success/Triumph:** Mark progress (1-2 segments) or overcome Obstacle
+5. **Conflict:** Mark progress but trigger Suspense Move (Obstacle activates)
+6. **Failure:** No progress, trigger Impact Move (Threat activates)
+7. Repeat until Success Conditions met or Fail-State triggered
+
+**Example Challenge:**
+
+> **Ritual Interruption**
+> - **Goal:** Stop the cult's summoning before demon manifests
+> - **Progress Clock:** 6 segments to interrupt
+> - **Obstacles:** "Zealous cultists," "Arcane wards," "Complex ritual circle"
+> - **Threats:** "Demon partially manifests," "Cultists call reinforcements"
+> - **Fail-State:** Demon fully manifests (becomes boss fight)
+> 
+> **Ritual Progress (Threat):** 8-segment clock tracking ritual completion. Each failed PC roll marks 1 segment. At 8, demon appears.
+
+---
+
+## Battlegrounds: Tactical Variety Without Maps (Grimwild Pattern)
+
+Instead of drawing grids, define combat areas with **Features** and **Threats**:
+
+### **Features** (Tactical Elements)
+Terrain or objects PCs can use:
+- "Crumbling pillars" (cover, can be toppled)
+- "Chandelier" (can be dropped on enemies)
+- "Narrow bridge" (limits movement, risk of falling)
+- "High ground" (grants Edge when attacking from above)
+
+### **Threats** (Environmental Hazards)
+Dangers that can be triggered (Suspense/Impact Moves):
+- "Lava pits" (fall in = mark 3 Stress, Condition: Burned)
+- "Unstable floor" (collapses if too many combatants)
+- "Swinging blades" (automated trap, triggers on Failure)
+
+### **Example Battleground:**
+
+> **The Burning Library**
+> - **Features:** Shelves (cover, can push onto enemies), Balcony (high ground), Spiral staircase (choke point)
+> - **Threats:** Spreading fire (marks 1 Stress per round in affected zones), Smoke (Complication: -1d to all rolls), Collapsing ceiling (Impact Move: mark 2 Stress, zone becomes impassable)
+> 
+> **GM Move:** On Conflict results, fire spreads (mark new zone as "burning"). On Failure, trigger Threat (falling beam, smoke inhalation, floor collapse).
+
+This creates rich tactical combat without needing minis or maps.
+
+---
+
+## Tangles: Player-Authored Complications (Optional)
+
+**Inspired by Grimwild's proactive failure economy**
+
+During character creation or downtime, players can define **Tangles** — complications their character brings with them:
+
+### **Creating a Tangle:**
+- Must be specific, not generic ("I owe the Thieves Guild a blood debt" not "I have a troubled past")
+- Must be something that can realistically come up in play
+- Player describes when/how it might bite them
+
+### **Triggering a Tangle:**
+- Player chooses to invoke their Tangle (with GM approval)
+- "The Thieves Guild catches up to me here"
+- "My unstable magic flares up at the worst moment"
+- GM can suggest Tangle trigger, player can accept or refuse
+
+### **Reward:**
+When Tangle complicates the scene:
+- Earn 1 Momentum immediately
+- Tangle creates narrative complication (NPC appears, situation worsens, etc.)
+
+### **Example Tangles:**
+- "Wanted by the City Guard" (bounty hunters show up)
+- "Cursed weapon hungers for blood" (weapon tries to force violence)
+- "Owe debt to dangerous merchant" (creditor calls in favor at bad time)
+- "Haunted by dead sibling's ghost" (ghost appears, demands attention)
+
+**Design Note:** Tangles shift spotlight control to players. They author their own trouble for mechanical reward. This only works if:
+1. Tangles are specific enough to matter regularly
+2. Players actually invoke them (not ignored)
+3. GM respects player timing choices (doesn't force Tangles)
+
+---
+
+## Final Advice
+
+**Trust the system.** The mechanics support the fiction. When you're unsure, ask:
+1. What makes fictional sense?
+2. What would create drama?
+3. What would be most interesting?
+
+**Be generous with success.** When PCs succeed, let them feel heroic. Make failures interesting, not punishing.
+
+**Fail forward.** Never say "nothing happens." Every roll changes the situation.
+
+**Play to find out.** You don't know how the story ends. Discover it with your players.
+
+**Telegraph danger.** Use Vigilance (Hint/Reveal/Strike) to build tension without unfair surprises.
+
+**Structure complex scenes.** Use Challenges when standard rolls feel insufficient.
+
+**Make environments matter.** Define Battlegrounds with Features and Threats, not just "empty room with enemies."

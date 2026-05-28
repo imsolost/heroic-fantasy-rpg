@@ -29,9 +29,24 @@ Specific techniques to achieve your agendas:
 - Collaborative worldbuilding makes players invested
 
 ### **Telegraph danger, then follow through**
-- **Soft moves** = setup, warning ("The dragon inhales deeply, flames flickering in its throat")
-- **Hard moves** = consequence ("Flames engulf you, mark 3 Stress")
-- Never surprise players with sudden death; give them chance to react
+
+GM moves fall into two categories based on their fictional impact:
+
+**Soft Moves** (Setup, Warning, Telegraph):
+- Show signs of danger without immediate mechanical consequence
+- Give players opportunity to react before harm occurs
+- Examples: "The dragon inhales deeply, flames flickering in its throat", "The bridge creaks ominously under your weight", "The guard's hand moves to his sword hilt"
+- **When to use:** After Conflict results (7-9 / 1 Hit / 11-15), when building tension, or anytime you want to create pressure without forcing consequences
+- Soft moves are your "setup" — they promise danger is coming and give players a chance to act
+
+**Hard Moves** (Consequence, Follow-Through):
+- Deliver immediate mechanical or narrative consequences
+- Follow through on threatened danger
+- Examples: "Flames engulf you, mark 3 Stress", "The bridge collapses, you're falling", "The guard draws and attacks, roll Defy!"
+- **When to use:** After Failure results (6- / 0 Hits / ≤10), when a soft move was ignored or failed, or when the fiction demands immediate consequence
+- Hard moves are your "payoff" — danger that was telegraphed now arrives
+
+**Golden Rule:** Never go straight to hard moves without telegraphing first (unless surprise is narratively justified). Soft move → player response → hard move if they fail or ignore the warning. This eliminates "gotcha" moments while maintaining tension.
 
 ### **Make every roll matter**
 - Only call for rolls when outcome uncertain and both success/failure interesting

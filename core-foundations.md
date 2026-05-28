@@ -8,17 +8,29 @@ This document contains the foundational mechanics shared by both resolution syst
 
 ---
 
+## The Action Roll
+
+When a character faces a risky, difficult, or dramatically significant situation, make an **Action Roll**.
+
+**When to roll:** Only when an action is *difficult*, *dangerous*, or *dramatic*. Trivial actions and uncontested tasks do not require a roll.
+
+The specific mechanics of how you build your roll and read the results depend on your chosen resolution system (see [resolution-Xd6.md](resolution-Xd6.md) or [resolution-2d10.md](resolution-2d10.md)).
+
+---
+
 ## Actions (Fictional Triggers)
 
 Actions are **PbtA-style move triggers**, not rated stats. When you take action in the fiction, identify which Action you're performing, then roll using the appropriate Approach.
 
+Actions describe *what* a character is doing.
+
 **The Five Actions:**
 
-1. **Defy** — Overcome obstacles, resist harm, push through adversity, create advantages
-2. **Clash** — Engage in combat, inflict harm, compete physically
-3. **Talk** — Influence, persuade, deceive, negotiate, command
-4. **Sense** — Observe, perceive, read intentions, discern weaknesses
-5. **Know** — Recall lore, analyze situations, solve problems, understand magic
+1. **Defy** — Resist pressure, power through adversity, act under duress. Use when dodging, enduring, strongarming through an obstacle, or acting despite an imminent threat.
+2. **Clash** — Engage in combat or direct physical conflict, at range or up close. Use when exchanging blows, incapacitating with violence, or engaging in direct opposition.
+3. **Talk** — Persuade, deceive, intimidate, perform, charm. Use when convincing someone to do something, using words or presence to get your way, or navigating social conflict.
+4. **Sense** — Read people and situations, perceive the world, trust instinct. Use when assessing a charged situation, noticing danger before it strikes, or reading someone's emotions and intent.
+5. **Know** — Apply ingenuity, recall knowledge, figure things out. Use when recalling lore, solving problems, gathering information, or applying expertise.
 
 **Characters do not have Action ratings.** All Action-specific bonuses come from **Talents** (contextual, not universal). For example, a Talent might grant a bonus when you Clash with a two-handed weapon, but not a blanket bonus to all Clash rolls.
 
@@ -28,13 +40,15 @@ Actions are **PbtA-style move triggers**, not rated stats. When you take action 
 
 Approaches are your **rated stats**, describing your method. When you make an Action roll, choose the Approach that describes **how** you're acting.
 
+Approaches describe *how* a character acts. They form the foundation of your roll.
+
 **The Five Approaches:**
 
-- **Daring** — Bold, direct, forceful action
-- **Grace** — Fluid, precise, finesse-driven action
-- **Charm** — Warm, open, heart-led action
-- **Cunning** — Clever, indirect, tactical action
-- **Spirit** — Intuitive, resolute, spiritually-grounded action
+- **Daring** — Determination and steel in the face of danger. Forceful, aggressive, courageous.
+- **Grace** — Elegance, poise, and agility. Precise, swift, controlled.
+- **Charm** — Warmth, social presence, and force of personality. Empathic, magnetic, persuasive.
+- **Cunning** — Wit, guile, and subterfuge. Clever, deceptive, analytical.
+- **Spirit** — Mental resolve, concentration, and inner strength. Focused, tenacious, willful.
 
 **Example:** When you Clash (the Action) in combat, you might use Daring (charging headlong), Grace (precise strikes), or Cunning (feinting and exploiting openings).
 
@@ -57,26 +71,35 @@ The specific thresholds for these outcomes depend on your resolution system.
 
 ## Traits
 
-Traits represent expertise, background, or signature capabilities. Each character has 3–5 Traits.
-
-**Function:** When a Trait is narratively relevant to your action, it provides a mechanical benefit (only one Trait per roll).
+Traits are evocative narrative descriptors defining who your character is — their history, identity, reputation, and expertise. They are statements of fictional fact, not skill ratings.
 
 **Examples:**
-- "Veteran of the Iron Wars" (relevant when fighting soldiers or recalling military tactics)
-- "Silver Tongue" (relevant when persuading nobility)
-- "Shadowborn" (relevant when acting in darkness)
+- "Cavalier Primary of House Erebus"
+- "Raised by wolves in the Ashen Wood"
+- "Former spymaster of the collapsed empire"
+- "Veteran of the Iron Wars"
+- "Silver Tongue"
+- "Shadowborn"
+
+Each character has **3–5 Traits** (exact number varies by character creation choices and advancement).
+
+**Mechanical Function:** When a Trait is narratively relevant to your action, it provides a mechanical benefit (only one Trait per roll).
 
 **Mechanical Benefit:** See your chosen resolution system — Xd6 grants +1d, 2d10 grants Edge.
 
-**Design Note:** Traits may evolve at higher tiers to allow **Invocation** (spending Momentum for special effects) similar to Fate Aspects or Daggerheart Experiences.
+**Design Note:** Early-game Traits make you more *consistent*. At higher tiers, Traits may evolve to allow **Invocation** (spending Momentum for special effects) similar to Fate Aspects or Daggerheart Experiences — making your successes *mean more*. Traits growing through play mirrors the heroic arc of a character becoming who they are.
 
 ---
 
 ## Momentum (Single Currency)
 
-Momentum is the primary player-facing metacurrency. It represents dramatic control, heroic momentum, and narrative leverage.
+**Momentum** represents heroic drive, accumulated skill, and narrative weight behind a character in their element. It is the primary player-facing metacurrency.
 
 **Starting Momentum:** 2 (refreshes between sessions or at story beats)
+
+**Momentum Cap:** 2 by default. Some Talents can raise this to 3.
+
+**Design Note:** The cap creates real spend pressure and prevents snowballing. Strategic spending is crucial.
 
 ### Earning Momentum
 
@@ -157,29 +180,37 @@ When Stress overflows or specific narrative triggers occur, you gain a **Conditi
 
 ## Talents (Character Abilities)
 
-Talents are your special abilities, representing training, heritage, or supernatural gifts. Each character has 3–5 starting Talents (more gained through advancement).
+Talents are discrete mechanical abilities that modify how the base rules apply to your character. They change *how* you interact with the system, not just add flat bonuses.
+
+Talents represent training, heritage, or supernatural gifts. Each character has 3–5 starting Talents (more gained through advancement).
 
 **Types of Talents:**
 
 1. **Favored Actions:** Grant bonus when using a specific Action in specific circumstances
    - Example: "Bladedancer" — Bonus when you Clash with a sword in melee
+   - Some Favored Actions grant **Momentum-on-Failure** — when you fail using that Action, gain 1 Momentum (learning from adversity)
 2. **Unique Moves:** Unlock new actions or special maneuvers
    - Example: "Whirlwind Strike" — When you Clash, you may target multiple adjacent foes
 3. **Passive Effects:** Ongoing benefits or modifications
    - Example: "Iron Will" — You have +1 Stress box
+   - Example: "Relentless" — Raise your Momentum cap from 2 to 3
 4. **Triggered Effects:** Activate in response to specific fiction
    - Example: "Parry and Riposte" — When an enemy misses you in melee, you may immediately Clash against them
+5. **Resource Manipulation:** Change how Momentum, Stress, or Opportunities work
+   - Example: "Battle Trance" — Clear Stress in-scene without spending Momentum
+   - Example: "Opportunist" — Unlock additional Opportunity effects within a Trait's domain
 
-**Design Note:** All Action-specific bonuses come from Talents. There are no universal bonuses to Actions — all bonuses are contextual (weapon type, situation, enemy type, etc.).
+**Design Note:** All Action-specific bonuses come from Talents. There are no universal bonuses to Actions — all bonuses are contextual (weapon type, situation, enemy type, etc.). Talents are the primary customization layer and a main reward of advancement.
 
 ---
 
 ## Design Pillars
 
-1. **Heroic fantasy with cost** — You can attempt the impossible, but nothing comes free
-2. **Narrative-first resolution** — Fiction determines which Action/Approach applies, not optimization
-3. **Elegant resource economy** — One primary currency (Momentum), one harm track (Stress), clean spend options
-4. **Meaningful failure** — Failure drives drama and earns Momentum (when using Favored Actions)
+1. **Heroic Scale** — PCs are exceptional, larger-than-life figures capable of feats well beyond ordinary people. Mechanics should reinforce this feeling without veering into superhero territory.
+2. **Narrative First** — Closer to PbtA than D&D. Fiction drives the mechanics; mechanics shape the fiction. Rules exist to create drama, not simulate reality.
+3. **Failure Drives Story** — Even failure is forward motion. There is no result that simply stops the narrative cold. Every outcome, including disaster, opens a new door.
+4. **Momentum and Consequence** — Actions have weight in both directions. Success builds momentum; failure extracts a cost. The tension between the two is the engine of play.
+5. **Elegant Simplicity** — Fewer, cleaner rules that do more work. Each mechanic must earn its place.
 
 ---
 
@@ -195,6 +226,34 @@ Talents are your special abilities, representing training, heritage, or supernat
 | **Opportunities/Complications** | Situational bonuses/penalties (not currency) |
 | **Stress** | Unified harm buffer (4–5 boxes) |
 | **Conditions** | Tiered lasting penalties (Minor/Moderate/Severe/Critical) |
+
+---
+
+## Character Creation
+
+Characters are built on an **Archetype** — a loose chassis defining general role, starting Talents, Favored Actions, and suggested Approach spread. Archetypes are starting points, not cages.
+
+**Character creation provides:**
+- Choice of Archetype (starting Talents, Favored Actions)
+- Approach ratings (see your resolution system for starting arrays)
+- 3–5 Traits (player-written, GM-approved)
+- Starting Stress: 4–5 boxes (may vary by Archetype or system)
+- Starting Momentum cap: 2
+
+**Note:** Full Archetype list and character creation rules TBD.
+
+---
+
+## Advancement — Milestones
+
+Characters advance when the story reaches a **Milestone** — a significant narrative beat such as completing a major quest, resolving a personal arc, or defeating a powerful antagonist.
+
+**At a Milestone, a character may choose one:**
+- Gain a new Talent
+- Raise one Approach rating by 1 (maximum varies by system)
+- Write a new Trait (growing from 3–5 toward higher tier play)
+- Raise Momentum cap from 2 to 3 (requires specific Talent)
+- Gain an additional Stress box
 
 ---
 

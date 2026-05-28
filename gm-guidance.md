@@ -507,6 +507,81 @@ When Tangle complicates the scene:
 
 ---
 
+## Clocks and Tracks
+
+Segmented progress indicators representing ongoing situations, threats, and effort.
+
+**Clock Types:**
+
+- **Countdown Clocks** — Something bad happens when this fills. Example: "The ritual completes" (8 segments), "Reinforcements arrive" (4 segments)
+- **Progress Tracks** — PCs fill this through effort. Example: "Navigate the labyrinth" (6 segments), "Earn the merchant's trust" (4 segments)
+- **Threat Clocks** — A threat grows more dangerous over time. Example: "The dragon's rage" (starts at 0, each PC wound adds 1 segment, at 6 it goes berserk)
+
+**How to Use:**
+- Mark segments when fiction demands it (typically on Conflict/Failure results, or when time passes)
+- Clock size = how long you want the situation to last (4 = short, 6 = medium, 8 = long)
+- Multiple clocks can run simultaneously (ritual clock vs. escape clock creates tension)
+
+**Diminishing Pools (Alternative):**
+
+Roll a pool of dice; drop dice on low results. When the pool empties, something changes.
+
+Example: Boss enemy has Morale 5d6. When PCs deal significant blow, roll the pool. For each 1-3, remove a die. At 0d, enemy flees or surrenders.
+
+**When to use:** Dramatic unpredictability matters more than a steady march. Creates sudden tipping points.
+
+---
+
+## Consequences as GM Moves
+
+When a roll produces a consequence, narrate it as a *move* — an action the world takes in response. Consequences should always make the fiction more interesting, open new problems, and be proportional to the risk of the roll.
+
+**Consequence Menu:**
+
+**The character is hurt:**
+- An NPC attacks them
+- They fall unconscious
+- They become cursed or diseased
+- Mark Stress or take Condition
+
+**Their standing is harmed:**
+- They offend someone important
+- They break the law
+- They lose an ally's trust
+- They gain unwanted attention
+
+**They lose something:**
+- An item is stolen or lost
+- An item breaks or becomes unusable
+- A costly demand is made
+- Resources are depleted
+
+**The environment shifts:**
+- A storm makes travel difficult
+- A disaster strikes
+- A mishap creates an impasse
+- Escape route closes
+
+**Their enemies advance:**
+- A villain gains power or completes a step
+- An ally loses resources or position
+- Danger spreads to innocents
+- Threat clock advances
+
+**Tough Choices (for Conflict results):**
+
+Offer two equally undesirable consequences, player chooses one:
+- Deal reduced effect or mark Stress
+- Take a Condition or lose/break an item
+- Betray a friend or make an enemy
+- Retreat to safety or let innocents suffer
+- Save one ally but not another
+- Accomplish goal but alert guards
+
+**Design Note:** Tough choices turn Conflict from "success minus 10%" into dramatic decisions. The player chooses *which* consequence, not whether there's a consequence.
+
+---
+
 ## Final Advice
 
 **Trust the system.** The mechanics support the fiction. When you're unsure, ask:

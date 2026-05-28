@@ -363,6 +363,46 @@ Based on design answers:
 
 ---
 
+### Combat Maneuvers
+
+Beyond dealing damage, PCs can attempt tactical maneuvers. These can be implemented as **Opportunity effects** (spend Momentum for effect) or **Talent-gated moves** (requires specific Talent).
+
+**Standard Maneuvers:**
+
+**Disarm** — Remove enemy's weapon
+- **Trigger:** Clash or Defy with intent to disarm
+- **Effect (on Success/Triumph):** Enemy drops weapon, must spend action to retrieve or draw backup
+- **Better as:** Opportunity effect (costs 1 Momentum) or Triumph bonus
+
+**Knockdown** — Put enemy on ground
+- **Trigger:** Clash with intent to trip/shove
+- **Effect (on Success/Triumph):** Enemy falls prone, gains Complication "Prone" (-1 to relevant actions, must spend movement to stand)
+- **Better as:** Triumph bonus or Talent-enhanced Clash
+
+**Pin Down** — Restrict movement
+- **Trigger:** Clash or Defy with intent to grapple/entangle
+- **Effect (on Success/Triumph):** Enemy can't move zones without Defying (Conflict = breaks free but you gain Edge, Success = breaks free cleanly)
+- **Better as:** Sustained action (you're also pinned until one of you breaks free)
+
+**Pull / Push** — Reposition enemy
+- **Trigger:** Clash or Defy with intent to shove/pull
+- **Effect (on Success/Triumph):** Move enemy one zone (into hazard, off ledge, away from ally)
+- **Better as:** Opportunity effect or environmental combo
+
+**Sunder** — Damage gear to reduce effectiveness
+- **Trigger:** Clash targeting enemy's weapon/armor/shield
+- **Effect (on Triumph):** Reduce enemy armor uses by 1, or impose Complication on their attacks (weapon damaged)
+- **Better as:** Talent-gated move (requires weapon expertise)
+
+**Feint / Create Opening** — Set up ally
+- **Trigger:** Sense or Clash with intent to create advantage
+- **Effect (on Success/Triumph):** Ally gains Edge on next action against that enemy
+- **Better as:** Default Triumph option or Sense result
+
+**Design Note:** Don't create separate rolls for each maneuver. Use existing Actions (Clash, Defy, Sense) with declared intent. Success/Triumph produces the maneuver effect based on fiction. Talents can make specific maneuvers more reliable or powerful.
+
+---
+
 ### Enemy Durability
 
 **Mooks (1 HP):**
@@ -654,13 +694,40 @@ Design enemies with **Role** and **Tier** to create variety:
 
 ## Enemy Quick Reference
 
-### **Creating Enemies Fast:**
+### **Creating Enemies Fast (Simple Method):**
 
 1. **Choose Role:** Brute, Defender, Blaster, Controller, or Skirmisher
 2. **Choose Tier:** Mook (1 HP), Tough (2-3), Elite (4-5), Boss (6-8+)
 3. **Add 1-2 descriptive traits:** "Heavily armored," "Bloodthirsty," "Cowardly"
 4. **Define damage:** Mook/Tough = 1 Harm, Elite/Boss = 2 Harm, special attacks = 2-3 Harm
 5. **For Bosses:** Add 2-3 special abilities
+
+### **Enemy Stat Block Template (Structured Method):**
+
+For more complex enemies or published adventures, use this template:
+
+| Field | Description |
+|-------|-------------|
+| **Danger** | Threat level (1-3+); informs consequence severity and how many PCs needed |
+| **HP / Resolve** | How much punishment before defeated (1 for mooks, 8+ for bosses) |
+| **Harm** | Damage dealt on successful attacks (1-3) |
+| **Traits** | Passive abilities (e.g., *Thick Hide — Reduce incoming Harm by 1*) |
+| **Reactions** | Triggered abilities (e.g., *Regeneration — Recover 1 HP at end of round*) |
+| **Weaknesses** | Vulnerabilities PCs can discover with Sense (e.g., "Vulnerable to fire") |
+
+**Example Stat Block:**
+
+> **Cave Troll**
+> - **Danger:** 2 (requires 2-3 PCs to engage safely)
+> - **HP:** 5
+> - **Harm:** 2 (club smash), 1 to all Close (sweep)
+> - **Traits:**
+>   - *Thick Hide* — Reduce incoming Harm by 1 (minimum 1)
+>   - *Dull-witted* — Vulnerable to Cunning approaches (PCs using Cunning gain Edge)
+> - **Reactions:**
+>   - *Regeneration* — Recover 1 HP at end of each round
+>   - *Sweep* — When surrounded, may attack all Close targets for 1 Harm each
+> - **Weaknesses:** Fire prevents regeneration for one round; bright light imposes Complication on troll
 
 **Example:**
 > **Orc Raider** (Tough, Brute)

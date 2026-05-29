@@ -86,11 +86,7 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 ## Momentum Spends (Xd6 Effects)
 
-**Boost (1/2/3 Momentum):** Gain Edge before rolling (before rolling).
-- First Edge (+1d) costs 1 Momentum
-- Second Edge (+1d) costs 2 Momentum (total 3 spent)
-- Third Edge (+1d) costs 3 Momentum (total 6 spent)
-- Maximum: +3 Edges (+3d) per roll
+**Boost (1 Momentum):** Gain Edge before rolling (before rolling).
 
 **Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes from task difficulty (keep Banes from other sources like injuries). On Triumph, choose two options from Triumph menu instead of one.
 

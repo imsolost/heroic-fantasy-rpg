@@ -2,8 +2,9 @@
 
 **System-Agnostic Elements**
 
-This document contains the foundational mechanics shared by both resolution systems (Xd6 Dice Pool and 2d10+Modifier). For system-specific rules, see:
-- **Xd6 Dice Pool:** [resolution-Xd6.md](resolution-Xd6.md)
+This document contains the foundational mechanics shared by all resolution systems. For system-specific rules, see:
+- **Xd6 Count-Successes:** [resolution-Xd6.md](resolution-Xd6.md)
+- **Forged in the Dark (Highest Die):** [resolution-fitd.md](resolution-fitd.md)
 - **2d10+Modifier:** [resolution-2d10.md](resolution-2d10.md)
 
 ---
@@ -97,8 +98,9 @@ Each character has **2–5 Traits** (exact number varies by character creation c
 **Mechanical Function:** When a Trait is narratively relevant to your action, it provides a mechanical benefit (only one Trait per roll).
 
 **Mechanical Benefit:** See your chosen resolution system:
-- **Xd6:** Grant 1 Edge (+1d to your pool)
-- **2d10:** Grant +2 to your roll
+- **Xd6 Count-Successes:** Grant 1 Edge (+1d to your pool)
+- **Forged in the Dark:** Grant +1d to your pool
+- **2d10+Modifier:** Grant +2 to your roll
 
 **Design Note:** Early-game Traits make you more *consistent*. At higher tiers, Traits may evolve to allow **Invocation** (spending Momentum for special effects) similar to Fate Aspects or Daggerheart Experiences — making your successes *mean more*. Traits growing through play mirrors the heroic arc of a character becoming who they are.
 
@@ -124,15 +126,12 @@ Each character has **2–5 Traits** (exact number varies by character creation c
 
 ### Spending Momentum
 
-- **Boost (1/2/3 Momentum):** Add a bonus to an upcoming roll (before rolling). First boost costs 1, second costs 2, third costs 3 (max +3 per roll, total 6 Momentum). See your resolution system for specific boost effects.
+- **Boost (1 Momentum):** Add a bonus to an upcoming roll (before rolling). See your resolution system for specific boost effects.
 - **Act with Potency (2 Momentum):** Gain Potency on this roll (see Potency below). Allows you to attempt normally impossible tasks and ignore Complications from difficulty.
-- **Escalate (2 Momentum):** After rolling, shift your outcome tier up one step (Failure → Conflict, Conflict → Success, Success → Triumph)
 - **Aid Ally (1 Momentum):** Grant a bonus to an ally's upcoming roll (see resolution system)
-- **Recover (2 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
+- **Recover (1 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
 - **Negate Complication (1 Momentum):** Cancel a Complication before it takes effect
 - **Invoke Trait (Cost TBD, Tier 3+ only):** Use a Trait for a special effect beyond normal benefit (future design space)
-
-**Design Note:** Escalating Boost costs (1/2/3) create meaningful "how confident am I?" decisions. Spending 6 Momentum for maximum boost is desperate and expensive, but occasionally necessary.
 
 ---
 

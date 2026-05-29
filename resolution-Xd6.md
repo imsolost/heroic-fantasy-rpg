@@ -29,7 +29,7 @@ Count your successes (Hits):
 - **0 Hits:** Failure — Things go wrong, situation worsens
 - **1 Hit:** Conflict — Partial success with cost, complication, or lesser effect
 - **2 Hits:** Success — You accomplish your intent cleanly
-- **3+ Hits:** Triumph — Success with added benefit (earn 1 Momentum)
+- **3+ Hits:** Triumph — Success with added benefit (earn 1 Momentum + choose one from Triumph menu in [core-foundations.md](core-foundations.md#triumph-menu))
 
 ---
 
@@ -74,7 +74,7 @@ Opportunities and Complications cancel 1:1 before applying.
 
 ---
 
-## Momentum Boost
+## Momentum Spends (Xd6 Effects)
 
 **Boost (1/2/3 Momentum):** Add +1d per boost spent (before rolling).
 - First +1d costs 1 Momentum
@@ -82,7 +82,11 @@ Opportunities and Complications cancel 1:1 before applying.
 - Third +1d costs 3 Momentum (total 6 spent)
 - Maximum: +3d per roll
 
+**Act with Potency (2 Momentum):** Gain Potency on this roll. Treat Hard difficulty as Moderate. On Triumph, choose two options from Triumph menu instead of one.
+
 **Aid Ally (1 Momentum):** Grant +1d to an ally's upcoming roll.
+
+See [core-foundations.md](core-foundations.md#momentum-single-currency) for full Momentum spending options.
 
 ---
 

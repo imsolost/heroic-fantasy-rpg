@@ -19,7 +19,7 @@ Your modifier = Approach rating + situational bonuses (from Edge, flat bonuses).
 | **10 or less** | Failure | Things go wrong, situation worsens |
 | **11–15** | Conflict | Partial success with cost, complication, or lesser effect |
 | **16–20** | Success | You accomplish your intent cleanly |
-| **21+** | Triumph | Success with added benefit (earn 1 Momentum) |
+| **21+** | Triumph | Success with added benefit (earn 1 Momentum + choose one from Triumph menu in [core-foundations.md](core-foundations.md#triumph-menu)) |
 
 **Range:** 2d10 gives 2-20 base roll, modifiers add +1 to +6 (starting characters +2, experienced +4 to +6).
 
@@ -90,14 +90,18 @@ Opportunities and Complications cancel 1:1 before applying as Edge/Bane.
 
 **Momentum Cap:** 2 (can be increased to 3 with specific Talent)
 
-### Momentum Boost
+### Momentum Spends (2d10 Effects)
 
 **Boost (1/2/3 Momentum):** Gain Edge before rolling.
 - First Edge costs 1 Momentum
 - Second Edge costs 2 Momentum (total 3 spent, grants 2 Edges = 4d10 drop 2)
 - Third Edge costs 3 Momentum but provides no additional benefit beyond 2 Edges (rarely used)
 
+**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by difficulty (keep Banes from other sources). On Triumph, choose two options from Triumph menu instead of one.
+
 **Aid Ally (1 Momentum):** Grant 1 Edge to an ally's upcoming roll.
+
+See [core-foundations.md](core-foundations.md#momentum-single-currency) for full Momentum spending options.
 
 **Design Note:** With Momentum cap of 2, players typically cannot afford multiple boosts on a single roll. Strategic spending is crucial.
 

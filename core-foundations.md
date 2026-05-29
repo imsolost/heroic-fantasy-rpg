@@ -63,9 +63,20 @@ All rolls produce one of four outcomes:
 - **Failure** — Things go wrong, situation worsens
 - **Conflict** — Partial success with cost, complication, or lesser effect
 - **Success** — You accomplish your intent cleanly
-- **Triumph** — Success with added benefit (earn 1 Momentum)
+- **Triumph** — Success with added benefit (earn 1 Momentum + choose one from Triumph menu)
 
 The specific thresholds for these outcomes depend on your resolution system.
+
+### Triumph Menu
+
+When you achieve a Triumph, you gain 1 Momentum AND choose one of the following:
+
+- **Greater Effect** — Your success accomplishes significantly more than expected. Affect a larger area, multiple targets, longer duration, or greater magnitude.
+- **Secondary Effect** — Your success creates an additional consequence. Deal extra Harm, inflict a Condition, create an advantage for an ally, or introduce a beneficial complication for enemies.
+- **Setup** — Create an opening for a follow-up action. Grant Edge (2d10) or +1d (Xd6) to yourself or an ally on the next action against the same target or related to this situation.
+- **Influence the Narrative** — Introduce a beneficial fact or circumstance into the scene. You notice a useful detail, remember a crucial connection, or the environment provides unexpected aid. GM has final say on scope, but should be generous.
+
+**Design Note:** The menu turns "success with added benefit" from vague guidance into concrete player choice. This reduces table negotiation and ensures Triumphs feel consistently impactful.
 
 ---
 
@@ -112,14 +123,68 @@ Each character has **3–5 Traits** (exact number varies by character creation c
 ### Spending Momentum
 
 - **Boost (1/2/3 Momentum):** Add a bonus to an upcoming roll (before rolling). First boost costs 1, second costs 2, third costs 3 (max +3 per roll, total 6 Momentum). See your resolution system for specific boost effects.
+- **Act with Potency (2 Momentum):** Gain Potency on this roll (see Potency below). Allows you to attempt normally impossible tasks and ignore Complications from difficulty.
 - **Escalate (2 Momentum):** After rolling, shift your outcome tier up one step (Failure → Conflict, Conflict → Success, Success → Triumph)
-- **Increased Effect (1 Momentum):** Your success accomplishes more, affects a larger area, or has greater impact
 - **Aid Ally (1 Momentum):** Grant a bonus to an ally's upcoming roll (see resolution system)
 - **Recover (2 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
 - **Negate Complication (1 Momentum):** Cancel a Complication before it takes effect
 - **Invoke Trait (Cost TBD, Tier 3+ only):** Use a Trait for a special effect beyond normal benefit (future design space)
 
 **Design Note:** Escalating Boost costs (1/2/3) create meaningful "how confident am I?" decisions. Spending 6 Momentum for maximum boost is desperate and expensive, but occasionally necessary.
+
+---
+
+## Potency (Heroic Permission)
+
+**Potency** represents the ability to pull off jaw-dropping, heroic feats beyond normal human capability. When you have Potency on a task, you gain three benefits:
+
+### 1. Attempt the Impossible
+
+You can attempt tasks normally beyond capability:
+- **Group Actions:** Feats that would normally require a team — lift a boulder, shoot a volley of arrows simultaneously, incite a riot single-handedly
+- **Stretching Limits:** Feats just beyond normal human limitations — leap a 30-foot chasm, endure dragonfire briefly, tell utterly ridiculous lies convincingly
+- **Mystical Feats:** Heroic acts that defy normal logic — befriend a wild tiger through force of will, use echoes to trigger a rockslide, sense danger through walls
+
+### 2. Ignore Difficulty Complications
+
+Remove all Complications imposed by task difficulty (but NOT Complications from other sources like injuries, hostile environment, or Conditions).
+
+- **Xd6 system:** If difficulty is Hard (6 only), treat as Moderate (5-6) when you have Potency
+- **2d10 system:** If GM imposed Bane due to difficulty, remove those Banes (keep Banes from other sources)
+
+### 3. Enhanced Triumph
+
+When you achieve Triumph while acting with Potency, choose **two options** from the Triumph menu instead of one (still only gain 1 Momentum).
+
+### Gaining Potency
+
+**From Talents (Narrow Domain):**
+Most Talents grant Potency in a specific domain:
+- "Herculean Strength" — Potency on feats of physical might (lifting, breaking, throwing)
+- "Cat's Grace" — Potency on feats of agility (leaping, balancing, dodging)
+- "Silver Tongue" — Potency on feats of persuasion (convincing, deceiving, inspiring)
+- "Arcane Mastery" — Potency when wielding your signature school of magic
+
+**From Momentum (Broad):**
+- Spend 2 Momentum to gain Potency on any single roll
+- This allows any character to attempt heroic feats in desperate moments
+
+**From Fiction (GM Granted):**
+- Righteous fury (avenging a loved one)
+- Divine blessing (acting in service of your god)
+- Perfect conditions (exactly the right tool, leverage, or circumstance)
+- Magic items or rituals
+
+### Limits
+
+- **+3 Complications** (Very Hard / 2 Banes) becomes achievable with Potency
+- **+4 Complications or more** is still beyond reach — there IS a limit to heroism
+- Potency doesn't ignore Complications from sources other than difficulty:
+  - Injuries (Conditions) still impose penalties
+  - Environmental hazards still apply
+  - Enemy abilities still create problems
+
+**Design Note:** Potency systematizes "heroic characters can attempt the impossible" without relying on GM fiat. It gives players clear permission to try jaw-dropping feats while maintaining reasonable limits.
 
 ---
 
@@ -189,16 +254,20 @@ Talents represent training, heritage, or supernatural gifts. Each character has 
 1. **Favored Actions:** Grant bonus when using a specific Action in specific circumstances
    - Example: "Bladedancer" — Bonus when you Clash with a sword in melee
    - Some Favored Actions grant **Momentum-on-Failure** — when you fail using that Action, gain 1 Momentum (learning from adversity)
-2. **Unique Moves:** Unlock new actions or special maneuvers
+2. **Potency Talents:** Grant Potency in a specific domain
+   - Example: "Herculean Strength" — Potency on feats of physical might
+   - Example: "Cat's Grace" — Potency on feats of agility and acrobatics
+   - Example: "Arcane Mastery" — Potency when wielding your signature school of magic
+3. **Unique Moves:** Unlock new actions or special maneuvers
    - Example: "Whirlwind Strike" — When you Clash, you may target multiple adjacent foes
-3. **Passive Effects:** Ongoing benefits or modifications
+4. **Passive Effects:** Ongoing benefits or modifications
    - Example: "Iron Will" — You have +1 Stress box
    - Example: "Relentless" — Raise your Momentum cap from 2 to 3
-4. **Triggered Effects:** Activate in response to specific fiction
+5. **Triggered Effects:** Activate in response to specific fiction
    - Example: "Parry and Riposte" — When an enemy misses you in melee, you may immediately Clash against them
-5. **Resource Manipulation:** Change how Momentum, Stress, or Opportunities work
+6. **Resource Manipulation:** Change how Momentum, Stress, or Opportunities work
    - Example: "Battle Trance" — Clear Stress in-scene without spending Momentum
-   - Example: "Opportunist" — Unlock additional Opportunity effects within a Trait's domain
+   - Example: "Opportunist" — Unlock additional options from the Triumph menu
 
 **Design Note:** All Action-specific bonuses come from Talents. There are no universal bonuses to Actions — all bonuses are contextual (weapon type, situation, enemy type, etc.). Talents are the primary customization layer and a main reward of advancement.
 

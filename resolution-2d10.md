@@ -21,25 +21,29 @@ Your modifier = Approach rating + situational bonuses (from Edge, flat bonuses).
 | **16–20** | Success | You accomplish your intent cleanly |
 | **21+** | Triumph | Success with added benefit (earn 1 Momentum + choose one from Triumph menu in [core-foundations.md](core-foundations.md#triumph-menu)) |
 
-**Range:** 2d10 gives 2-20 base roll, modifiers add +1 to +6 (starting characters +2, experienced +4 to +6).
+**Range:** 2d10 gives 2-20 base roll, modifiers add +1 to +6 (starting characters +3 with Trait, experienced +6 to +6).
+
+**Design Note:** 2d10 creates a **triangular distribution** (flatter bell curve than 2d6), making extreme results more common than 2d6 but still clustering toward the middle. 
+
+**Trait as +2 flat bonus:** This design choice means Traits don't consume Edge "budget" — all Edge sources (Opportunities, Momentum, Talents) stack meaningfully up to the 2 Edge cap (4d10 drop 2). This produces high Triumph rates (14.9-59.8% with stacked advantages) and a sustainable Momentum economy, while avoiding the "wasted Edge" problem that occurs when Trait grants Edge instead.
 
 ---
 
 ## Approaches
 
-**Starting Array:** 2/1/1/0/-1 (assign as desired)
+**Starting Array:** 1/0/0/-1/-2 (assign as desired)
 
-**Advancement:** Can increase to 3 (exceptional) at mid-tier, or 4 (legendary) at heroic tier. Maximum: 4.
+**Advancement:** Can increase to 2 (competent) at low-mid tier, 3 (exceptional) at mid-high tier, or 4 (legendary) at heroic tier. Maximum: 4.
 
-**Your modifier starts with your Approach rating.**
+**Your base modifier = Approach rating.** Add +2 when a Trait applies.
 
 ---
 
 ## Traits
 
-**Mechanic:** When a Trait is narratively relevant, **gain Edge on your roll** (only one Trait per roll).
+**Mechanic:** When a Trait is narratively relevant, **gain +2 to your roll** (only one Trait per roll).
 
-**Edge = roll 3d10, drop the lowest, add your modifier.**
+Your total modifier = Approach rating + Trait bonus (+2) + any other situational bonuses.
 
 ---
 
@@ -50,7 +54,7 @@ Edge and Bane represent advantage and disadvantage in this system.
 **Edge (Advantage):**
 - **1 Edge:** Roll 3d10, drop lowest
 - **2+ Edges:** Roll 4d10, drop 2 lowest (maximum, no further stacking)
-- Sources: Traits, Opportunities, Talents, tactical positioning
+- Sources: Opportunities, Talents, Momentum, tactical positioning, easy tasks
 
 **Bane (Disadvantage):**
 - **1 Bane:** Roll 3d10, drop highest
@@ -113,6 +117,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 | Modifier | Conflict+ (11+) | Success+ (16+) | Triumph (21+) |
 |----------|-----------------|----------------|---------------|
+| +1 | 66% | 21% | 1% |
 | +2 | 72% | 28% | 3% |
 | +3 | 79% | 36% | 6% |
 | +4 | 85% | 45% | 10% |
@@ -123,25 +128,29 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 | Modifier | Conflict+ (11+) | Success+ (16+) | Triumph (21+) |
 |----------|-----------------|----------------|---------------|
-| +2 | 91.8% | 58.9% | 7.9% |
-| +4 | 96.7% | 71.1% | 23.3% |
-| +6 | 99.1% | 84.1% | 42.9% |
+| +1 | 85.4% | 42.1% | 2.8% |
+| +3 | 93.0% | 62.2% | 14.9% |
+| +5 | 97.7% | 78.5% | 32.8% |
 
 ### With 2 Edges (4d10 drop 2 lowest)
 
 | Modifier | Conflict+ (11+) | Success+ (16+) | Triumph (21+) |
 |----------|-----------------|----------------|---------------|
-| +2 | 97.01% | 75.79% | 13.91% |
-| +4 | 99.19% | 87.45% | 36.68% |
-| +6 | 99.9%+ | 95.2% | 60.3% |
+| +1 | 93.4% | 59.8% | 5.2% |
+| +3 | 97.8% | 80.3% | 24.9% |
+| +5 | 99.5% | 90.3% | 48.8% |
 
-**Starting Character (Approach 2, Trait grants Edge = 3d10 drop lowest +2):**
-- 91.8% Conflict+, 58.9% Success+, 7.9% Triumph
-- Consistent and competent with rare Triumphs
+**Starting Character (Approach 1, Trait +2 = 2d10 +3):**
+- 79% Conflict+, 36% Success+, 6% Triumph
+- Competent with occasional Triumphs
 
-**Experienced Character (Approach 3 or 4, Trait Edge, Talent Edge = 4d10 drop 2 +4):**
-- 99.19% Conflict+, 87.45% Success+, 36.68% Triumph
-- Heroic with frequent Success, meaningful Triumph rate
+**With 1 Edge (Approach 1, Trait +2, Momentum = 3d10 drop lowest +3):**
+- 93.0% Conflict+, 62.2% Success+, 14.9% Triumph
+- Reliable with meaningful Triumph rate
+
+**Experienced Character (Approach 4, Trait +2, 2 Edges = 4d10 drop 2 +6):**
+- 99.9%+ Conflict+, 93.6% Success+, 59.8% Triumph
+- Heroic with routine Triumphs
 
 ---
 
@@ -160,24 +169,25 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 ## Advancement Structure
 
-**Starting Power Level:** 3d10 drop lowest +2 (Approach 2 + Trait Edge)
-- 91.8% Conflict+, 58.9% Success+, 7.9% Triumph
-- Consistent with rare heroic moments
+**Starting Power Level:** 2d10 +3 (Approach 1 + Trait +2)
+- 79% Conflict+, 36% Success+, 6% Triumph
+- Competent with occasional Triumphs
 
-**Tier 1 (Early Game):** Increase to +3 or +4 through Approach advancement
-- Gain situational Talents that grant Edge or flat bonuses
-- Target: 3d10 drop lowest +3 or +4
+**Tier 1 (Early Game):** Increase Approach to 2
+- Gain situational Talents that grant Edge or other effects
+- Target: 2d10 +4 or 3d10 drop lowest +3 (with Edge)
+- 85% Conflict+, 45% Success+, 10% Triumph (base) or 93% Conflict+, 62% Success+, 15% Triumph (with 1 Edge)
 
-**Tier 2 (Mid Game):** Stack multiple Edge sources
-- Trait Edge + Talent Edge + situational Opportunity = 4d10 drop 2
-- Target: 4d10 drop 2 +4 (99.19% Conflict+, 87.45% Success+, 36.68% Triumph)
+**Tier 2 (Mid Game):** Approach 3, stack multiple Edge sources
+- Trait +2 + Talent Edge + Momentum Edge = 4d10 drop 2 +5
+- Target: 4d10 drop 2 +5 (99.5% Conflict+, 90.3% Success+, 48.8% Triumph)
 
-**Tier 3 (Heroic Tier):** Capstone Approaches at 4, multiple Edge sources, powerful Talents
+**Tier 3 (Heroic Tier):** Capstone Approach 4, multiple Edge sources, powerful Talents
 - Unlock Trait Invocation mechanics
 - Frequent double-Edge scenarios
-- Target: 4d10 drop 2 +6 (99.9%+ Conflict+, 95.2% Success+, 60.3% Triumph)
+- Target: 4d10 drop 2 +6 (99.9%+ Conflict+, 93.6% Success+, 59.8% Triumph)
 
-**Maximum Modifier:** +6 (Approach 4 + situational bonuses), 4d10 drop 2
+**Maximum Modifier:** +6 (Approach 4 + Trait +2), 4d10 drop 2
 
 ---
 
@@ -189,29 +199,42 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 - **Longer advancement runway:** Can scale from +2 to +6 over multiple tiers
 - **Triangular distribution:** Flatter bell curve than 2d6, making extreme results more common but still clustering toward middle
 
-**Edge vs. Flat Bonuses:** This system uses Edge (extra dice, drop lowest) as the primary bonus mechanism to preserve the triangular distribution feel. Flat bonuses (+1, +2) are reserved for permanent advancement (Approach increases) and rare situational effects.
+**Edge vs. Flat Bonuses:** Trait grants +2 flat bonus (doesn't consume Edge budget), while situational advantages grant Edge (extra dice, drop lowest). This preserves the triangular distribution feel while allowing all Edge sources to stack meaningfully.
 
-**Momentum Economy:** With cap of 2, players face tight resource decisions. 13.91% Triumph rate with double Edge keeps Momentum generation sustainable but not abundant.
+**Momentum Economy:** With cap of 2, players face tight resource decisions. Triumph rates of 14.9-59.8% (depending on Edge stacking and tier) create a sustainable Momentum generation cycle. The flat +2 from Trait significantly improves Triumph rates compared to Edge-based Traits.
 
 **Talent Design:** Talents should avoid bonus bloat. Focus on:
 - Failure mitigation (turn Failure into Conflict)
 - Edge grants in specific circumstances
 - Unique moves and special techniques
-- Passive effects (extra Stress box, etc.)
+- Passive effects (extra Stress box, raise Momentum cap to 3, etc.)
 - Triggered effects (when X happens, you may Y)
+- Situational flat bonuses (narrow contexts only)
 
 ---
 
 ## Quick Reference
 
-**Typical Starting Roll:** 3d10 drop lowest +2
-- 10 or less = Failure (8.2%)
-- 11-15 = Conflict (32.9%)
-- 16-20 = Success (51%)
-- 21+ = Triumph (7.9%)
+**Roll 2d10 + Approach + Trait bonus, compare to thresholds (11/16/21)**
 
-**Spending Momentum for Edge:** 1 Edge for 1 Momentum (before rolling)
+**Typical Starting Roll:** 2d10 +3 (Approach 1 + Trait +2)
+- ≤10 = Failure (21%)
+- 11-15 = Conflict (43%)
+- 16-20 = Success (30%)
+- 21+ = Triumph (6%, gain 1 Momentum + choose from Triumph menu)
 
-**Using a Trait:** Gain 1 Edge when narratively relevant
+**With 1 Edge (from Momentum/Opportunity):** 3d10 drop lowest +3
+- ≤10 = Failure (7%)
+- 11-15 = Conflict (31%)
+- 16-20 = Success (47%)
+- 21+ = Triumph (15%)
+
+**Spending Momentum for Edge:** 1 Edge for 1 Momentum (before rolling) = roll 3d10 drop lowest
+
+**Using a Trait:** +2 to your roll when narratively relevant
+
+**Easy Tasks:** Grant 1 Edge (3d10 drop lowest)
+
+**Hard Tasks:** Impose 1 Bane (3d10 drop highest)
 
 **Opportunities/Complications:** Convert to Edge or Bane (max 2 Edges or 2 Banes)

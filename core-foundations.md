@@ -92,11 +92,13 @@ Traits are evocative narrative descriptors defining who your character is — th
 - "Silver Tongue"
 - "Shadowborn"
 
-Each character has **3–5 Traits** (exact number varies by character creation choices and advancement).
+Each character has **2–5 Traits** (exact number varies by character creation choices and advancement).
 
 **Mechanical Function:** When a Trait is narratively relevant to your action, it provides a mechanical benefit (only one Trait per roll).
 
-**Mechanical Benefit:** See your chosen resolution system — both grant Edge (Xd6: +1d, 2d10: roll 3d10 drop lowest).
+**Mechanical Benefit:** See your chosen resolution system:
+- **Xd6:** Grant 1 Edge (+1d to your pool)
+- **2d10:** Grant +2 to your roll
 
 **Design Note:** Early-game Traits make you more *consistent*. At higher tiers, Traits may evolve to allow **Invocation** (spending Momentum for special effects) similar to Fate Aspects or Daggerheart Experiences — making your successes *mean more*. Traits growing through play mirrors the heroic arc of a character becoming who they are.
 

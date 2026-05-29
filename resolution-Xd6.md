@@ -8,19 +8,23 @@ For shared foundational mechanics (Actions, Approaches, Momentum, Stress, Talent
 
 ## Resolution Mechanic
 
-**Roll Xd6, count successes based on difficulty.**
+**Roll Xd6, count successes. Each die showing 5 or 6 is a success (Hit).**
 
-Your dice pool = Approach rating + modifiers (Traits, Opportunities, Talents, Momentum boosts).
+Your dice pool = Approach rating + modifiers (Traits, Edge/Bane, Talents, Momentum boosts).
 
-### Difficulty Levels
+### Difficulty & Edge/Bane
 
-| Difficulty | Success on... | Hit Rate per Die |
-|---|---|---|
-| **Easy** | 4, 5, 6 | 50% |
-| **Moderate** | 5, 6 | 33% (most common) |
-| **Hard** | 6 only | 16.67% |
+**Standard Difficulty:** Always count 5s and 6s as successes (33% per die).
 
-**GM Note:** Default to Moderate difficulty. Use Easy when PCs have clear advantage. Reserve Hard for dramatic moments at edge of capability.
+**Easy Tasks:** Grant **1 Edge** (+1d to your pool)
+- Task within character competence, favorable conditions
+- Examples: Climbing a ladder with good handholds, persuading a friendly NPC, fighting distracted enemies
+
+**Hard Tasks:** Impose **1 Bane** (-1d from your pool)
+- Task at edge of capability, unfavorable conditions
+- Examples: Leaping across a wide chasm, negotiating with hostile faction, fighting in pitch darkness
+
+**GM Note:** Default to standard difficulty (no Edge or Bane). Use Edge when PCs have clear advantage. Reserve Bane for dramatic moments where conditions work against them.
 
 ### Outcome Tiers
 
@@ -45,21 +49,27 @@ Count your successes (Hits):
 
 ## Traits
 
-**Mechanic:** When a Trait is narratively relevant, add **+1d** to your pool (only one Trait per roll).
+**Mechanic:** When a Trait is narratively relevant, gain **1 Edge** (+1d to your pool). Only one Trait per roll.
 
 ---
 
-## Opportunities & Complications
+## Edge & Bane
 
-**Opportunities:**
-- **1 Opportunity:** +1d to your pool
-- **2+ Opportunities:** +1d per Opportunity (stack)
+Edge and Bane represent advantage and disadvantage in this system.
 
-**Complications:**
-- **1 Complication:** -1d from your pool
-- **2+ Complications:** -1d per Complication (stack)
+**Edge (Advantage):**
+- **1 Edge:** +1d to your pool
+- **2+ Edges:** +1d per Edge (stack)
+- Sources: Easy tasks, Traits, Opportunities, Talents, tactical positioning
 
-Opportunities and Complications cancel 1:1 before applying.
+**Bane (Disadvantage):**
+- **1 Bane:** -1d from your pool
+- **2+ Banes:** -1d per Bane (stack)
+- Sources: Hard tasks, Complications, Conditions, hostile environment
+
+**Cancellation:** Edge and Bane cancel each other 1:1 before applying to your pool.
+
+**Design Note:** Unlike 2d10 where Edge/Bane changes how many dice you roll and drop, in Xd6 they simply add or remove dice from your pool directly. Both systems achieve the same goal (modulate success chance) through parallel mechanics.
 
 ---
 
@@ -67,24 +77,24 @@ Opportunities and Complications cancel 1:1 before applying.
 
 | Tier | Penalty |
 |---|---|
-| **Minor** | -1d to relevant rolls |
-| **Moderate** | -2d to relevant rolls |
-| **Severe** | -3d to relevant rolls, fictional restrictions |
+| **Minor** | 1 Bane (-1d) to relevant rolls |
+| **Moderate** | 2 Banes (-2d) to relevant rolls |
+| **Severe** | 3 Banes (-3d) to relevant rolls, fictional restrictions |
 | **Critical** | Cannot act in specific ways, may force Taken Out |
 
 ---
 
 ## Momentum Spends (Xd6 Effects)
 
-**Boost (1/2/3 Momentum):** Add +1d per boost spent (before rolling).
-- First +1d costs 1 Momentum
-- Second +1d costs 2 Momentum (total 3 spent)
-- Third +1d costs 3 Momentum (total 6 spent)
-- Maximum: +3d per roll
+**Boost (1/2/3 Momentum):** Gain Edge before rolling (before rolling).
+- First Edge (+1d) costs 1 Momentum
+- Second Edge (+1d) costs 2 Momentum (total 3 spent)
+- Third Edge (+1d) costs 3 Momentum (total 6 spent)
+- Maximum: +3 Edges (+3d) per roll
 
-**Act with Potency (2 Momentum):** Gain Potency on this roll. Treat Hard difficulty as Moderate. On Triumph, choose two options from Triumph menu instead of one.
+**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes from task difficulty (keep Banes from other sources like injuries). On Triumph, choose two options from Triumph menu instead of one.
 
-**Aid Ally (1 Momentum):** Grant +1d to an ally's upcoming roll.
+**Aid Ally (1 Momentum):** Grant 1 Edge to an ally's upcoming roll.
 
 See [core-foundations.md](core-foundations.md#momentum-single-currency) for full Momentum spending options.
 
@@ -92,7 +102,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 ## Probability Tables
 
-### Expected Outcomes at Moderate Difficulty (5-6 succeeds)
+### Expected Outcomes (Count 5-6 as successes)
 
 | Pool Size | Avg Hits | Failure % | Conflict % | Success % | Triumph % |
 |-----------|----------|-----------|------------|-----------|-----------|
@@ -102,17 +112,22 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 | 6d6 | 2.0 | 8.8% | 26.3% | 32.9% | 32.0% |
 | 7d6 | 2.33 | 5.9% | 23.4% | 28.1% | 42.6% |
 
-**Starting Character (Approach 3 + Trait = 4d6):**
+**Starting Character (Approach 3 + Trait Edge = 4d6):**
 - 19.8% Failure, 39.5% Conflict, 29.6% Success, 11.1% Triumph
 - Competent but still facing frequent costs/complications
 
-**Experienced Character (Approach 4 + Trait = 5d6):**
+**Experienced Character (Approach 4 + Trait Edge = 5d6):**
 - 13.2% Failure, 32.9% Conflict, 32.9% Success, 21.0% Triumph
 - Success and Conflict roughly equal, Triumphs more common
 
-**Heroic Character (Approach 4 + Trait + Opportunity = 6d6):**
+**Heroic Character (Approach 4 + Trait Edge + 2nd Edge = 6d6):**
 - 8.8% Failure, 26.3% Conflict, 32.9% Success, 32.0% Triumph
 - Success/Triumph combined = 65%, failures rare
+
+**Edge/Bane Impact:**
+- Each Edge adds ~+1d (increases success rates significantly)
+- Each Bane removes ~-1d (decreases success rates significantly)
+- Multiple Edges/Banes stack additively
 
 ---
 
@@ -141,27 +156,35 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 ## Design Notes
 
 **Why Xd6 Count-Successes?**
-- **Modular difficulty:** GM adjusts what counts as success (4+/5+/6), not the player's modifier
+- **Fixed target:** Always count 5-6 (33% per die), easy to remember
+- **Modular difficulty:** GM grants Edge or imposes Bane, not changing target number
 - **Granular outcomes:** Four tiers naturally emerge from counting hits
 - **Dramatic feel:** Watching handfuls of dice creates kinetic excitement
 - **Transparent probabilities:** Each die is an independent chance
+- **Parallel to 2d10:** Both systems use Edge/Bane to modulate difficulty
 
 **Advancement Runway:** 4d6 → 7d6 provides three clear tiers of progression. Triumph rates climb from 11% → 21% → 32% → 43%, making advancement feel transformative.
 
-**Opportunities/Complications:** Stacking keeps them powerful but not overwhelming. Going from 4d6 to 5d6 (1 Opportunity) increases Triumph chance from 11% to 21% — meaningful but not game-breaking.
+**Edge/Bane Impact:** Stacking keeps them powerful but not overwhelming. Going from 4d6 to 5d6 (1 Edge) increases Triumph chance from 11% to 21% — meaningful but not game-breaking.
 
 ---
 
 ## Quick Reference
 
-**Typical Starting Roll:** 4d6, count 5s and 6s
+**Always count 5s and 6s as successes**
+
+**Typical Starting Roll:** 4d6 (Approach 3 + Trait Edge)
 - 0 Hits = Failure (19.8%)
 - 1 Hit = Conflict (39.5%)
 - 2 Hits = Success (29.6%)
-- 3+ Hits = Triumph (11.1%)
+- 3+ Hits = Triumph (11.1%, gain 1 Momentum + choose from Triumph menu)
 
-**Spending Momentum for Boost:** +1d for 1 Momentum (before rolling)
+**Spending Momentum for Edge:** 1 Edge (+1d) for 1 Momentum (before rolling)
 
-**Using a Trait:** +1d when narratively relevant
+**Using a Trait:** 1 Edge (+1d) when narratively relevant
 
-**Opportunities/Complications:** +1d or -1d per stack
+**Easy Tasks:** Grant 1 Edge (+1d)
+
+**Hard Tasks:** Impose 1 Bane (-1d)
+
+**Edge/Bane:** Add or remove dice from pool, cancel 1:1

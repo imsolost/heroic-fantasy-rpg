@@ -96,7 +96,7 @@ Each character has **3–5 Traits** (exact number varies by character creation c
 
 **Mechanical Function:** When a Trait is narratively relevant to your action, it provides a mechanical benefit (only one Trait per roll).
 
-**Mechanical Benefit:** See your chosen resolution system — Xd6 grants +1d, 2d10 grants Edge.
+**Mechanical Benefit:** See your chosen resolution system — both grant Edge (Xd6: +1d, 2d10: roll 3d10 drop lowest).
 
 **Design Note:** Early-game Traits make you more *consistent*. At higher tiers, Traits may evolve to allow **Invocation** (spending Momentum for special effects) similar to Fate Aspects or Daggerheart Experiences — making your successes *mean more*. Traits growing through play mirrors the heroic arc of a character becoming who they are.
 
@@ -149,8 +149,7 @@ You can attempt tasks normally beyond capability:
 
 Remove all Complications imposed by task difficulty (but NOT Complications from other sources like injuries, hostile environment, or Conditions).
 
-- **Xd6 system:** If difficulty is Hard (6 only), treat as Moderate (5-6) when you have Potency
-- **2d10 system:** If GM imposed Bane due to difficulty, remove those Banes (keep Banes from other sources)
+- **Both systems:** If GM imposed Bane due to difficulty, remove those Banes when you have Potency (keep Banes from other sources like injuries, Conditions, environment)
 
 ### 3. Enhanced Triumph
 
@@ -190,21 +189,23 @@ Most Talents grant Potency in a specific domain:
 
 ## Opportunities & Complications
 
-**Opportunities** and **Complications** are **situational modifiers**, not tradable currency.
+**Opportunities** and **Complications** are **situational modifiers**, not tradable currency. They convert directly to Edge and Bane.
 
-**Opportunities (Advantage):**
+**Opportunities (Grant Edge):**
 - Triggered by: favorable positioning, environmental advantage, clever setup, ally assists, GM reward for good roleplay
-- Multiple Opportunities stack
+- Each Opportunity grants 1 Edge
+- Multiple Opportunities stack (each grants 1 Edge)
 - Not spent or traded — they apply when the fiction supports them
-- See resolution system for mechanical effect
+- See resolution system for Edge mechanics
 
-**Complications (Disadvantage):**
+**Complications (Impose Bane):**
 - Triggered by: poor positioning, hostile environment, injuries, fictional consequences, Conditions
-- Multiple Complications stack
+- Each Complication imposes 1 Bane
+- Multiple Complications stack (each imposes 1 Bane)
 - Can be negated by spending 1 Momentum per Complication
-- See resolution system for mechanical effect
+- See resolution system for Bane mechanics
 
-**Cancellation:** Opportunities and Complications cancel each other 1:1 before applying their effects.
+**Cancellation:** Opportunities and Complications cancel each other 1:1 before converting to Edge/Bane.
 
 ---
 
@@ -226,12 +227,12 @@ When Stress overflows or specific narrative triggers occur, you gain a **Conditi
 
 | Tier | Penalty | Examples |
 |---|---|---|
-| **Minor** | -1 penalty to relevant rolls | Bruised, Shaken, Embarrassed |
-| **Moderate** | -2 penalty to relevant rolls | Wounded, Rattled, Discredited |
-| **Severe** | -3 penalty to relevant rolls, fictional restrictions | Maimed, Traumatized, Exiled |
+| **Minor** | 1 Bane to relevant rolls | Bruised, Shaken, Embarrassed |
+| **Moderate** | 2 Banes to relevant rolls | Wounded, Rattled, Discredited |
+| **Severe** | 3 Banes to relevant rolls, fictional restrictions | Maimed, Traumatized, Exiled |
 | **Critical** | Cannot act in specific ways, may force Taken Out | Dying, Broken, Cursed |
 
-**Note:** The specific mechanical penalty depends on your resolution system (Xd6 = remove dice, 2d10 = subtract from roll).
+**Note:** The specific mechanical penalty depends on your resolution system (Xd6: Bane = -1d, 2d10: Bane = roll 3d10 drop highest).
 
 **Clearing Conditions:**
 - **Minor:** Clear at end of scene or with rest

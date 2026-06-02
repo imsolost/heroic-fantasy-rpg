@@ -16,34 +16,38 @@ Your modifier = Approach rating + situational bonuses (from Edge, flat bonuses).
 
 | Threshold | Outcome | Effect |
 |-----------|---------|--------|
-| **10 or less** | Failure | Things go wrong, situation worsens |
-| **11–15** | Conflict | Partial success with cost, complication, or lesser effect |
+| **10 or less** | Setback | Things go wrong, situation worsens |
+| **11–15** | Conflict | Partial success with cost, consequence, or lesser effect |
 | **16–20** | Success | You accomplish your intent cleanly |
-| **21+** | Triumph | Success with added benefit (earn 1 Momentum + choose one from Triumph menu in [core-foundations.md](core-foundations.md#triumph-menu)) |
+| **21+** | Triumph | You accomplish your intent fully, gain 1 Momentum, ignore all Complications (see [core-foundations.md](core-foundations.md#outcome-tiers)) |
 
-**Range:** 2d10 gives 2-20 base roll, modifiers add +1 to +6 (starting characters +3 with Trait, experienced +6 to +6).
+**Range:** 2d10 gives 2-20 base roll, modifiers add +0 to +5 (starting characters +3, experienced +5).
 
-**Design Note:** 2d10 creates a **triangular distribution** (flatter bell curve than 2d6), making extreme results more common than 2d6 but still clustering toward the middle. 
-
-**Trait as +2 flat bonus:** This design choice means Traits don't consume Edge "budget" — all Edge sources (Opportunities, Momentum, Talents) stack meaningfully up to the 2 Edge cap (4d10 drop 2). This produces high Triumph rates (14.9-59.8% with stacked advantages) and a sustainable Momentum economy, while avoiding the "wasted Edge" problem that occurs when Trait grants Edge instead.
+**Design Note:** 2d10 creates a **triangular distribution** (flatter bell curve than 2d6), making extreme results more common than 2d6 but still clustering toward the middle.
 
 ---
 
 ## Approaches
 
-**Starting Array:** 1/0/0/-1/-2 (assign as desired)
+**Starting Array:** 3/2/1/0/-1 (assign as desired)
 
-**Advancement:** Can increase to 2 (competent) at low-mid tier, 3 (exceptional) at mid-high tier, or 4 (legendary) at heroic tier. Maximum: 4.
+**Advancement:** Can increase to 4 (exceptional) or 5 (legendary) at high tiers. Maximum: 5.
 
-**Your base modifier = Approach rating.** Add +2 when a Trait applies.
+**Your base modifier = Approach rating.**
+
+**Note:** Starting array has been adjusted because Traits no longer grant passive +2. See [traits-complications-challenges.md](traits-complications-challenges.md) for the new Trait tactical menu system.
 
 ---
 
 ## Traits
 
-**Mechanic:** When a Trait is narratively relevant, **gain +2 to your roll** (only one Trait per roll).
+**Traits provide tactical choices, not passive bonuses.**
 
-Your total modifier = Approach rating + Trait bonus (+2) + any other situational bonuses.
+When a Trait is narratively relevant, you may invoke it to choose one benefit (after rolling):
+1. **Greater Impact** - Double your effect (mark 2 ticks, ask 4 questions, gain 2 Edge; on Triumph doubles Critical Bonus to 4 ticks/9 questions/etc.)
+2. **Negate a Complication** - Cancel one Challenge Trait's Complication
+
+**See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
 
 ---
 
@@ -54,28 +58,35 @@ Edge and Bane represent advantage and disadvantage in this system.
 **Edge (Advantage):**
 - **1 Edge:** Roll 3d10, drop lowest
 - **2+ Edges:** Roll 4d10, drop 2 lowest (maximum, no further stacking)
-- Sources: Opportunities, Talents, Momentum, tactical positioning, easy tasks
+- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, setup actions, Trait "Create Opportunity" option
+- See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
 **Bane (Disadvantage):**
 - **1 Bane:** Roll 3d10, drop highest
 - **2+ Banes:** Roll 4d10, drop 2 highest (maximum, no further stacking)
-- Sources: Complications, Conditions, hostile environment
+- Sources: Hard tasks, Very Hard tasks, Conditions, hostile environment, poor positioning, injuries
+- See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
-**Cancellation:** Edge and Bane cancel each other 1:1 before applying.
+**Cancellation:**
+1. Edge and Bane cancel 1:1
+2. Edge does NOT cancel Complications (see [traits-complications-challenges.md](traits-complications-challenges.md))
+3. Bane does NOT create Complications
 
 ---
 
-## Opportunities & Complications
+## Edge & Bane Stacking
 
-**Opportunities:**
-- Each Opportunity grants **1 Edge**
-- Multiple Opportunities stack up to maximum 2 Edges (4d10 drop 2 lowest)
+**Edge Sources:**
+- Each source of Edge grants **1 Edge**
+- Multiple sources stack up to maximum **2 Edges** (4d10 drop 2 lowest)
+- See [core-foundations.md](core-foundations.md#edge--bane) for all sources
 
-**Complications:**
-- Each Complication inflicts **1 Bane**
-- Multiple Complications stack up to maximum 2 Banes (4d10 drop 2 highest)
+**Bane Sources:**
+- Each source of Bane imposes **1 Bane**
+- Multiple sources stack up to maximum **2 Banes** (4d10 drop 2 highest)
+- See [core-foundations.md](core-foundations.md#edge--bane) for all sources
 
-Opportunities and Complications cancel 1:1 before applying as Edge/Bane.
+**Cancellation:** Edge and Bane cancel 1:1 before applying to your roll.
 
 ---
 
@@ -96,18 +107,11 @@ Opportunities and Complications cancel 1:1 before applying as Edge/Bane.
 
 ### Momentum Spends (2d10 Effects)
 
-**Boost (1/2/3 Momentum):** Gain Edge before rolling.
-- First Edge costs 1 Momentum
-- Second Edge costs 2 Momentum (total 3 spent, grants 2 Edges = 4d10 drop 2)
-- Third Edge costs 3 Momentum but provides no additional benefit beyond 2 Edges (rarely used)
+**Gain an Edge (1 Momentum):** Add 1 Edge to YOUR upcoming roll before rolling (roll 3d10 drop lowest, or 4d10 drop 2 if you already have 1 Edge).
 
-**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by difficulty (keep Banes from other sources). On Triumph, choose two options from Triumph menu instead of one.
-
-**Aid Ally (1 Momentum):** Grant 1 Edge to an ally's upcoming roll.
+**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by task difficulty (keep Banes from other sources like injuries, Conditions, environment). Attempt the impossible and achieve enhanced effects.
 
 See [core-foundations.md](core-foundations.md#momentum-single-currency) for full Momentum spending options.
-
-**Design Note:** With Momentum cap of 2, players typically cannot afford multiple boosts on a single roll. Strategic spending is crucial.
 
 ---
 
@@ -140,16 +144,16 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 | +3 | 97.8% | 80.3% | 24.9% |
 | +5 | 99.5% | 90.3% | 48.8% |
 
-**Starting Character (Approach 1, Trait +2 = 2d10 +3):**
+**Starting Character (Approach 3 = 2d10 +3):**
 - 79% Conflict+, 36% Success+, 6% Triumph
 - Competent with occasional Triumphs
 
-**With 1 Edge (Approach 1, Trait +2, Momentum = 3d10 drop lowest +3):**
+**With 1 Edge (Approach 3, Momentum = 3d10 drop lowest +3):**
 - 93.0% Conflict+, 62.2% Success+, 14.9% Triumph
 - Reliable with meaningful Triumph rate
 
-**Experienced Character (Approach 4, Trait +2, 2 Edges = 4d10 drop 2 +6):**
-- 99.9%+ Conflict+, 93.6% Success+, 59.8% Triumph
+**Experienced Character (Approach 5, 2 Edges = 4d10 drop 2 +5):**
+- 99.5% Conflict+, 90.3% Success+, 48.8% Triumph
 - Heroic with routine Triumphs
 
 ---
@@ -215,26 +219,38 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 ## Quick Reference
 
-**Roll 2d10 + Approach + Trait bonus, compare to thresholds (11/16/21)**
+**Roll 2d10 + Approach, compare to thresholds (11/16/21)**
 
-**Typical Starting Roll:** 2d10 +3 (Approach 1 + Trait +2)
-- ≤10 = Failure (21%)
+**Typical Starting Roll:** 2d10 +3 (Approach 3)
+- ≤10 = Setback (21%)
 - 11-15 = Conflict (43%)
 - 16-20 = Success (30%)
-- 21+ = Triumph (6%, gain 1 Momentum + choose from Triumph menu)
+- 21+ = Triumph (6%, gain 1 Momentum + ignore all Complications + choose Critical Bonus)
 
-**With 1 Edge (from Momentum/Opportunity):** 3d10 drop lowest +3
-- ≤10 = Failure (7%)
+**With 1 Edge (from Momentum or other source):** 3d10 drop lowest +3
+- ≤10 = Setback (7%)
 - 11-15 = Conflict (31%)
 - 16-20 = Success (47%)
 - 21+ = Triumph (15%)
 
-**Spending Momentum for Edge:** 1 Edge for 1 Momentum (before rolling) = roll 3d10 drop lowest
+**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge to your roll (roll 3d10 drop lowest)
 
-**Using a Trait:** +2 to your roll when narratively relevant
+**Using a Trait (after rolling):** Choose Greater Impact (double effect) or Negate Complication (see [traits-complications-challenges.md](traits-complications-challenges.md))
+
+**Action Core Functions:**
+- Defy/Clash/Talk: Mark 1 tick on track (Success/Conflict)
+- Sense: Ask 2 questions (Success), 1 question (Conflict)
+- Know: GM tells you info + gain 1 Edge the first time you roll when acting on that information (Success)
+
+**On Triumph, choose Critical Bonus:**
+1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
+2. Secondary Effect (Take Something, Inflict Condition, etc.)
+3. Create an Opportunity (grant ally 1 Edge OR negate 1 Complication)
 
 **Easy Tasks:** Grant 1 Edge (3d10 drop lowest)
 
 **Hard Tasks:** Impose 1 Bane (3d10 drop highest)
 
-**Opportunities/Complications:** Convert to Edge or Bane (max 2 Edges or 2 Banes)
+**Very Hard Tasks:** Impose 2 Banes (4d10 drop 2 highest)
+
+**Edge/Bane Cap:** Maximum 2 Edges or 2 Banes (cancel 1:1)

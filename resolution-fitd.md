@@ -17,21 +17,25 @@ Your dice pool = Approach rating + modifiers (Traits, Edge/Bane, Talents, Moment
 **Standard Difficulty:** Roll your pool and check results (no target number to remember).
 
 **Easy Tasks:** Grant **1 Edge** (+1d to your pool)
-- Task within character competence, favorable conditions
+- Task within character competence, conditions favor success
 - Examples: Climbing a ladder with good handholds, persuading a friendly NPC, fighting distracted enemies
 
 **Hard Tasks:** Impose **1 Bane** (-1d from your pool)
-- Task at edge of capability, unfavorable conditions
+- Task at edge of capability, conditions work against success
 - Examples: Leaping across a wide chasm, negotiating with hostile faction, fighting in pitch darkness
 
-**GM Note:** Default to standard difficulty (no Edge or Bane). Use Edge when PCs have clear advantage. Reserve Bane for dramatic moments where conditions work against them.
+**Very Hard Tasks:** Impose **2 Banes** (-2d from your pool, maximum)
+- Task at extreme difficulty, multiple unfavorable factors
+- Requires Potency to attempt reliably
+
+**GM Note:** Default to standard difficulty (no Edge or Bane). Use Edge when PCs have clear advantage. Reserve Bane for dramatic moments where conditions work against them. See [core-foundations.md](core-foundations.md#edge--bane) for all sources of Edge and Bane.
 
 ### Outcome Tiers
 
 Check your dice results:
 
-- **All 1-3:** Failure — Things go wrong, situation worsens (also called Setback in FitD)
-- **Any 4-5:** Conflict — Partial success with cost, complication, or lesser effect
+- **All 1-3:** Setback — Things go wrong, situation worsens
+- **Any 4-5:** Conflict — Partial success with cost, consequence, or lesser effect
 - **Any 6:** Success — You accomplish your intent cleanly
 - **Two or more 6s:** Triumph — Success with added benefit (earn 1 Momentum + choose one from Triumph menu in [core-foundations.md](core-foundations.md#triumph-menu))
 
@@ -43,19 +47,25 @@ Check your dice results:
 
 ## Approaches
 
-**Starting Array:** 2/1/1/0/0 (assign as desired)
+**Starting Array:** 3/2/1/0/0 (assign as desired)
 
-**Advancement:** Can increase to 3 (exceptional) or 4 (legendary) at high tiers. Maximum: 4.
+**Advancement:** Can increase to 4 (exceptional) or 5 (legendary) at high tiers. Maximum: 5.
 
 **Your dice pool starts with your Approach rating.**
+
+**Note:** Starting array has been adjusted because Traits no longer grant passive +1d. See [traits-complications-challenges.md](traits-complications-challenges.md) for the new Trait tactical menu system.
 
 ---
 
 ## Traits
 
-**Mechanic:** When a Trait is narratively relevant, gain **+1d to your pool** (not Edge — just a direct die). Only one Trait per roll.
+**Traits provide tactical choices, not passive bonuses.**
 
-**Design Note:** Unlike the Xd6 count-successes system where Traits grant "Edge," in FitD we just say "+1d" to keep language simple. Mechanically it's the same (add a die), but conceptually Traits feel more like "expertise gives you more dice" than "advantage."
+When a Trait is narratively relevant, you may invoke it to choose one benefit (after rolling):
+1. **Greater Impact** - Double your effect (mark 2 ticks, ask 4 questions, gain 2 Edge; on Triumph doubles Critical Bonus to 4 ticks/9 questions/etc.)
+2. **Negate a Complication** - Cancel one Challenge Trait's Complication
+
+**See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
 
 ---
 
@@ -66,16 +76,21 @@ Edge and Bane represent advantage and disadvantage in this system.
 **Edge (Advantage):**
 - **1 Edge:** +1d to your pool
 - **2 Edges:** +2d to your pool (maximum, no further stacking)
-- Sources: Easy tasks, Opportunities, Talents, Momentum, tactical positioning
+- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, setup actions, Trait "Create Opportunity" option
+- See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
 **Bane (Disadvantage):**
 - **1 Bane:** -1d from your pool
 - **2 Banes:** -2d from your pool (maximum, no further stacking)
-- Sources: Hard tasks, Complications, Conditions, hostile environment
+- Sources: Hard tasks, Very Hard tasks, Conditions, hostile environment, poor positioning, injuries
+- See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the lowest result.
 
-**Cancellation:** Edge and Bane cancel each other 1:1 before applying to your pool.
+**Cancellation:**
+1. Edge and Bane cancel 1:1
+2. Edge does NOT cancel Complications (see [traits-complications-challenges.md](traits-complications-challenges.md))
+3. Bane does NOT create Complications
 
 **Design Note:** FitD caps Edge/Bane at ±2d to prevent excessive pool bloat. This keeps resolution fast while still rewarding stacking advantages.
 
@@ -96,11 +111,9 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 ## Momentum Spends (FitD Effects)
 
-**Boost (1 Momentum):** Gain 1 Edge (+1d) before rolling.
+**Gain an Edge (1 Momentum):** Add 1 Edge (+1d) to YOUR upcoming roll (before rolling).
 
-**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes from task difficulty (keep Banes from other sources like injuries). On Triumph, choose two options from Triumph menu instead of one.
-
-**Aid Ally (1 Momentum):** Grant 1 Edge (+1d) to an ally's upcoming roll.
+**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by task difficulty (keep Banes from other sources like injuries, Conditions, environment). Attempt the impossible and achieve enhanced effects.
 
 See [core-foundations.md](core-foundations.md#momentum-single-currency) for full Momentum spending options.
 
@@ -110,7 +123,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 ### Expected Outcomes (Highest die matters + double 6s)
 
-| Pool Size | Failure % | Conflict % | Success % | Triumph % |
+| Pool Size | Setback % | Conflict % | Success % | Triumph % |
 |-----------|-----------|------------|-----------|-----------|
 | 1d6 | 49.8% | 33.5% | 16.7% | 0.0% |
 | 2d6 | 25.1% | 44.3% | 27.8% | 2.8% |
@@ -121,23 +134,23 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 | 7d6 | 0.8% | 27.1% | 39.0% | 33.1% |
 
 **Starting Character (Approach 2 + Trait = 3d6):**
-- 12.4% Failure, 45.5% Conflict, 34.7% Success, 7.3% Triumph
-- Competent with low failure rate from the start
+- 12.4% Setback, 45.5% Conflict, 34.7% Success, 7.3% Triumph
+- Competent with low setback rate from the start
 
 **Experienced Character (Approach 3 + Trait = 4d6):**
-- 6.2% Failure, 42.0% Conflict, 38.5% Success, 13.3% Triumph
-- Reliable with failures becoming rare
+- 6.2% Setback, 42.0% Conflict, 38.5% Success, 13.3% Triumph
+- Reliable with setbacks becoming rare
 
 **Heroic Character (Approach 4 + Trait = 5d6):**
-- 3.1% Failure, 37.0% Conflict, 40.3% Success, 19.6% Triumph
-- Success tier most common, failures very rare
+- 3.1% Setback, 37.0% Conflict, 40.3% Success, 19.6% Triumph
+- Success tier most common, setbacks very rare
 
 **Legendary Character (Approach 4 + Trait + 2 Edges = 7d6):**
-- 0.8% Failure, 27.1% Conflict, 39.0% Success, 33.1% Triumph
-- Success/Triumph combined = 72%, catastrophic failure nearly impossible
+- 0.8% Setback, 27.1% Conflict, 39.0% Success, 33.1% Triumph
+- Success/Triumph combined = 72%, catastrophic setback nearly impossible
 
 **Edge/Bane Impact:**
-- Each Edge significantly reduces failure chance (especially at low pools)
+- Each Edge significantly reduces setback chance (especially at low pools)
 - Success tier remains consistent (38-40%) across most pool sizes
 - Triumph rate grows but caps around 33% due to double-6 requirement
 
@@ -146,20 +159,20 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 ## Advancement Structure
 
 **Starting Power Level:** 3d6 typical pool (Approach 2 + Trait)
-- Competent with 12.4% failure rate (much lower than count-successes)
+- Competent with 12.4% setback rate (much lower than count-successes)
 
 **Tier 1 (Early Game):** 3d6 → 4d6 progression
 - Increase Approach 2 → 3, gain situational Talents
-- Target: 4d6 pools (6.2% failure, 13.3% Triumph)
+- Target: 4d6 pools (6.2% setback, 13.3% Triumph)
 
 **Tier 2 (Mid Game):** 4d6 → 5d6 progression
 - Increase Approach 3 → 4, gain more Talents
-- Target: 5d6 pools (3.1% failure, 19.6% Triumph)
+- Target: 5d6 pools (3.1% setback, 19.6% Triumph)
 
 **Tier 3 (Heroic Tier):** 5d6 → 6d6+ progression
 - Stack multiple Edge sources, powerful Talents
 - Unlock Trait Invocation mechanics
-- Target: 6-7d6 pools (1.6-0.8% failure, 26-33% Triumph)
+- Target: 6-7d6 pools (1.6-0.8% setback, 26-33% Triumph)
 
 **Maximum Recommended Pool:** 7d6 (represents legendary heroes, Triumph caps around 33%)
 
@@ -169,7 +182,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 **Why Forged in the Dark Method?**
 - **Faster resolution:** Look for highest die (and double 6s), no counting needed
-- **More forgiving:** Low failure rates (12.4% at 3d6 vs 29.6% in count-successes)
+- **More forgiving:** Low setback rates (12.4% at 3d6 vs 29.6% in count-successes)
 - **Competent-hero feel:** Characters feel capable from the start
 - **Easier to assess:** Glance at dice, see highest result
 - **Success-heavy gameplay:** Success tier (38-40%) is most common at higher pools
@@ -183,11 +196,11 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 Choose FitD over count-successes if you want:
 - Starting characters to feel competent (not struggling)
 - Faster resolution (no counting multiple dice)
-- More forgiving gameplay (failures rare past 3d6)
+- More forgiving gameplay (setbacks rare past 3d6)
 - Success-focused narrative (40% Success tier feels reliable)
 
 **Advancement Feel:**
-- 3d6 → 4d6 is transformative (failure drops from 12.4% to 6.2%)
+- 3d6 → 4d6 is transformative (setback drops from 12.4% to 6.2%)
 - 4d6 → 5d6 feels good (Triumph climbs from 13.3% to 19.6%)
 - 5d6 → 6d6 → 7d6 has diminishing returns (Triumph only goes 19.6% → 26.3% → 33.1%)
 
@@ -197,15 +210,25 @@ Choose FitD over count-successes if you want:
 
 **Roll pool, check highest die (and look for double 6s)**
 
-**Typical Starting Roll:** 3d6 (Approach 2 + Trait)
-- All 1-3 = Failure (12.4%)
+**Typical Starting Roll:** 3d6 (Approach 3)
+- All 1-3 = Setback (12.4%)
 - Any 4-5 = Conflict (45.5%)
 - Any 6 = Success (34.7%)
-- Two+ 6s = Triumph (7.3%, gain 1 Momentum + choose from Triumph menu)
+- Two+ 6s = Triumph (7.3%, gain 1 Momentum + ignore all Complications + choose Critical Bonus)
 
-**Spending Momentum for Edge:** 1 Edge (+1d) for 1 Momentum (before rolling)
+**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) to your roll before rolling
 
-**Using a Trait:** +1d to your pool when narratively relevant
+**Using a Trait (after rolling):** Choose Greater Impact (double effect) or Negate Complication (see [traits-complications-challenges.md](traits-complications-challenges.md))
+
+**Action Core Functions:**
+- Defy/Clash/Talk: Mark 1 tick on track (Success/Conflict)
+- Sense: Ask 2 questions (Success), 1 question (Conflict)
+- Know: GM tells you info + gain 1 Edge the first time you roll when acting on that information (Success)
+
+**On Triumph, choose Critical Bonus:**
+1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
+2. Secondary Effect (Take Something, Inflict Condition, etc.)
+3. Create an Opportunity (grant ally 1 Edge OR negate 1 Complication)
 
 **Easy Tasks:** Grant 1 Edge (+1d)
 

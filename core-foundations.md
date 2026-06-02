@@ -6,6 +6,7 @@ This document contains the foundational mechanics shared by all resolution syste
 - **Xd6 Count-Successes:** [resolution-Xd6.md](resolution-Xd6.md)
 - **Forged in the Dark (Highest Die):** [resolution-fitd.md](resolution-fitd.md)
 - **2d10+Modifier:** [resolution-2d10.md](resolution-2d10.md)
+- **Traits, Complications & Challenges:** [traits-complications-challenges.md](traits-complications-challenges.md)
 
 ---
 
@@ -13,9 +14,19 @@ This document contains the foundational mechanics shared by all resolution syste
 
 When a character faces a risky, difficult, or dramatically significant situation, make an **Action Roll**.
 
+Not all actions require a roll. Generally, you should roll dice for an action when it is one of the following:
+
+**DIFFICULT:** The action requires significant effort or is complex; roll the dice to see if your character is skilled enough to succeed.
+
+**DANGEROUS:** The action involves a risk of serious harm, either to yourself or others. Roll the dice to see if you suffer any consequences.
+
+**DRAMATIC:** The action involves a big, dramatic moment. This could be personal drama, or something that affects the wider world. Roll the dice to see how things unfold.
+
 **When to roll:** Only when an action is *difficult*, *dangerous*, or *dramatic*. Trivial actions and uncontested tasks do not require a roll.
 
-The specific mechanics of how you build your roll and read the results depend on your chosen resolution system (see [resolution-Xd6.md](resolution-Xd6.md) or [resolution-2d10.md](resolution-2d10.md)).
+**For complete Action Roll rules**, including the Effect Menu, progress tracks, and action-specific effects, see [action-roll.md](action-roll.md).
+
+The specific mechanics of how you build your roll and read the results depend on your chosen resolution system (see [resolution-Xd6.md](resolution-Xd6.md), [resolution-fitd.md](resolution-fitd.md), or [resolution-2d10.md](resolution-2d10.md)).
 
 ---
 
@@ -27,13 +38,24 @@ Actions describe *what* a character is doing.
 
 **The Five Actions:**
 
-1. **Defy** — Resist pressure, power through adversity, act under duress. Use when dodging, enduring, strongarming through an obstacle, or acting despite an imminent threat.
-2. **Clash** — Engage in combat or direct physical conflict, at range or up close. Use when exchanging blows, incapacitating with violence, or engaging in direct opposition.
-3. **Talk** — Persuade, deceive, intimidate, perform, charm. Use when convincing someone to do something, using words or presence to get your way, or navigating social conflict.
-4. **Sense** — Read people and situations, perceive the world, trust instinct. Use when assessing a charged situation, noticing danger before it strikes, or reading someone's emotions and intent.
-5. **Know** — Apply ingenuity, recall knowledge, figure things out. Use when recalling lore, solving problems, gathering information, or applying expertise.
+1. **Defy** — Act despite an imminent threat, danger, or obstacle. Use when defending against attacks, dodging danger, enduring hardship, overcoming obstacles, or resisting pressure.
+
+2. **Clash** — Fight or attack to inflict harm. Use when engaging in combat, trading blows, or directly confronting threats with violence.
+
+3. **Talk** — Convince, deceive, intimidate, or charm. Use when swaying people, manipulating situations, or navigating social conflict.
+
+4. **Sense** — Closely study a person, place, or situation. Use when assessing the present moment, reading body language, examining locations, or understanding what's happening now.
+
+5. **Know** — Search your memory or apply expertise. Use when recalling lore, identifying things, deducing solutions, or applying professional knowledge.
 
 **Characters do not have Action ratings.** All Action-specific bonuses come from **Talents** (contextual, not universal). For example, a Talent might grant a bonus when you Clash with a two-handed weapon, but not a blanket bonus to all Clash rolls.
+
+**Each Action has a core function.** See [action-roll.md](action-roll.md) for detailed Action descriptions, including:
+- **Defy:** Overcome obstacles/danger (mark Challenge Track or avoid harm)
+- **Clash:** Inflict harm (mark Challenge Track)
+- **Talk:** Influence people (mark Accord Track)
+- **Sense:** Ask questions about present situation
+- **Know:** Gain Edge by applying expertise
 
 ---
 
@@ -55,29 +77,34 @@ Approaches describe *how* a character acts. They form the foundation of your rol
 
 **Starting Arrays and Advancement:** See your chosen resolution system for specific Approach ratings and progression paths.
 
+**Note:** Starting arrays differ between resolution systems (Xd6: 3/2/2/1/0, FitD: 3/2/1/0/0, 2d10: 3/2/1/0/-1) because each system has different math. All three are balanced for equivalent baseline power (~30% Setback, ~40% Conflict).
+
 ---
 
 ## Outcome Tiers
 
 All rolls produce one of four outcomes:
 
-- **Failure** — Things go wrong, situation worsens
-- **Conflict** — Partial success with cost, complication, or lesser effect
-- **Success** — You accomplish your intent cleanly
-- **Triumph** — Success with added benefit (earn 1 Momentum + choose one from Triumph menu)
+- **Setback** — Things go wrong, situation worsens. You fail and suffer consequences.
+- **Conflict** — Partial success with cost. You accomplish your action's core function but suffer consequences.
+- **Success** — You accomplish your intent cleanly. Your action's core function succeeds without cost.
+- **Triumph** — You accomplish your intent fully, gain 1 Momentum, ignore all Complications, and choose a Critical Bonus.
 
 The specific thresholds for these outcomes depend on your resolution system.
 
-### Triumph Menu
+**Each Action does one thing:**
+- **Defy/Clash/Talk:** Mark 1 tick on track (Success/Conflict), or resolve immediately if simple
+- **Sense:** Ask 2 questions (Success) or 1 question (Conflict)
+- **Know:** GM tells you useful info + you gain 1 Edge the first time you roll when acting on that information (Success)
 
-When you achieve a Triumph, you gain 1 Momentum AND choose one of the following:
+**On Triumph, choose one Critical Bonus:**
+1. **Greater Effect** — Mark 2 ticks, ask 6 questions, or gain 4 Edge (the first time you use it)
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, etc.)
+3. **Create an Opportunity** — Grant ally 1 Edge OR negate 1 Complication
 
-- **Greater Effect** — Your success accomplishes significantly more than expected. Affect a larger area, multiple targets, longer duration, or greater magnitude.
-- **Secondary Effect** — Your success creates an additional consequence. Deal extra Harm, inflict a Condition, create an advantage for an ally, or introduce a beneficial complication for enemies.
-- **Setup** — Create an opening for a follow-up action. Grant Edge (2d10) or +1d (Xd6) to yourself or an ally on the next action against the same target or related to this situation.
-- **Influence the Narrative** — Introduce a beneficial fact or circumstance into the scene. You notice a useful detail, remember a crucial connection, or the environment provides unexpected aid. GM has final say on scope, but should be generous.
+See [action-roll.md](action-roll.md#triumph-critical-bonus) for complete Triumph rules.
 
-**Design Note:** The menu turns "success with added benefit" from vague guidance into concrete player choice. This reduces table negotiation and ensures Triumphs feel consistently impactful.
+**Triumph's unique benefit:** Triumph results cannot be reduced by Complications. No matter how many Challenge Traits oppose you, Triumph stays Triumph. See [traits-complications-challenges.md](traits-complications-challenges.md) for details on Complications.
 
 ---
 
@@ -93,16 +120,30 @@ Traits are evocative narrative descriptors defining who your character is — th
 - "Silver Tongue"
 - "Shadowborn"
 
-Each character has **2–5 Traits** (exact number varies by character creation choices and advancement).
+Each character has **2–5 Traits** (starting with 2, gaining more through advancement).
 
-**Mechanical Function:** When a Trait is narratively relevant to your action, it provides a mechanical benefit (only one Trait per roll).
+**Mechanical Function:** When a Trait is narratively relevant to your action, you may invoke it to choose from a tactical menu (only one Trait per roll).
 
-**Mechanical Benefit:** See your chosen resolution system:
-- **Xd6 Count-Successes:** Grant 1 Edge (+1d to your pool)
-- **Forged in the Dark:** Grant +1d to your pool
-- **2d10+Modifier:** Grant +2 to your roll
+**When you invoke a Trait, roll first, then choose one option after seeing your result:**
 
-**Design Note:** Early-game Traits make you more *consistent*. At higher tiers, Traits may evolve to allow **Invocation** (spending Momentum for special effects) similar to Fate Aspects or Daggerheart Experiences — making your successes *mean more*. Traits growing through play mirrors the heroic arc of a character becoming who they are.
+1. **Greater Impact** — Double your effect (applies on Conflict or Success only):
+   - Mark 2 ticks instead of 1
+   - Ask 4 questions instead of 2 (Sense)
+   - Gain 2 Edge instead of 1 (Know—the first time you use it)
+   - **On Triumph:** Doubles your chosen Critical Bonus:
+     - Greater Effect: Mark 4 ticks (instead of 2), ask 9 questions (instead of 6), gain 4 additional Edge (instead of 2—the first time you use it)
+     - Secondary Effect: Affect 2 targets, escalate severity, or produce more significant consequence
+     - Create Opportunity: Grant 2 Edge, affect 2 allies, or grant Edge + negate Complication to same ally
+   - **Does not apply on Setback** (you failed)
+
+2. **Negate a Complication** — Cancel one Complication imposed by a Challenge Trait (prevents outcome reduction from that Trait)
+   - **Applies on any outcome**
+
+**Timing:** Roll dice → See outcome → Choose Trait option → Apply remaining Complications → Resolve final outcome
+
+**See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
+
+**Design Note:** After-roll Trait declaration creates informed tactical decisions. You see your outcome and choose whether to push for greater impact or negate opposition. This eliminates feel-bad moments (wasting Greater Impact on a Setback) while creating meaningful trade-offs.
 
 ---
 
@@ -119,19 +160,34 @@ Each character has **2–5 Traits** (exact number varies by character creation c
 ### Earning Momentum
 
 1. **Triumph** — Gain 1 Momentum when you achieve a Triumph result
-2. **Failure on Favored Action** — When you fail using an Action covered by one of your Talents, gain 1 Momentum (learning from failure)
-3. **Accept a Complication** — GM offers a Complication; if you accept, gain 1 Momentum
-4. **Create Advantages** — When you Defy to create an advantage for yourself or an ally, you may gain Momentum instead of inflicting harm or marking progress
-5. **Discern Weakness** — When you Sense to discern a foe's weakness in combat, you may gain Momentum
+2. **Setback on Favored Action** — When you suffer a Setback using an Action covered by one of your Talents, gain 1 Momentum (learning from failure)
+3. **Accept a Consequence** — GM offers a narrative consequence; if you accept, gain 1 Momentum
+4. **Talents** — Some Talents provide additional ways to earn Momentum
 
 ### Spending Momentum
 
-- **Boost (1 Momentum):** Add a bonus to an upcoming roll (before rolling). See your resolution system for specific boost effects.
-- **Act with Potency (2 Momentum):** Gain Potency on this roll (see Potency below). Allows you to attempt normally impossible tasks and ignore Complications from difficulty.
-- **Aid Ally (1 Momentum):** Grant a bonus to an ally's upcoming roll (see resolution system)
+**Timing matters:** Some spends are before rolling, others after rolling.
+
+**Proactive (Before Rolling):**
+- **Gain an Edge (1 Momentum):** Add 1 Edge to YOUR upcoming roll. See your resolution system for specific Edge effects.
+- **Act with Potency (2 Momentum):** Gain Potency on this roll (see Potency below). Allows you to attempt normally impossible tasks, ignore Banes from difficulty, and achieve enhanced effects.
+
+**Reactive (After Rolling):**
+- **Negate a Complication (1 Momentum):** Cancel one Complication from a Challenge Trait. This stacks with the Trait option—you can negate 2 Complications total if you use both Trait and Momentum.
+- **Resist Consequence (1 Momentum):** When you suffer Stress or a Condition from your own action's Conflict or Setback result, you may roll Defy to attempt to reduce or avoid it.
+  - **Success:** Avoid the consequence entirely (no Stress, no Condition)
+  - **Conflict:** Reduce the consequence (take less Stress, suffer lesser Condition)
+  - **Setback:** Take the full consequence (you tried but failed—Momentum is spent)
+  - **Cannot be used for:** External threats (those trigger Defy automatically for free), Banes (Banes affect your dice, not consequences), or narrative consequences without mechanical teeth (use Negate Consequence instead)
+
+**Immediate:**
+- **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
+
+**Any Time:**
 - **Recover (1 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
-- **Negate Complication (1 Momentum):** Cancel a Complication before it takes effect
-- **Invoke Trait (Cost TBD, Tier 3+ only):** Use a Trait for a special effect beyond normal benefit (future design space)
+- **Influence the Narrative (1 Momentum):** Introduce a beneficial fact or detail into the scene (GM has final say on scope)
+
+**Design Note:** Momentum is personal—it boosts YOUR capabilities. To help allies, use the Effect Menu to Create an Opportunity (see [action-roll.md](action-roll.md#effect-menu)).
 
 ---
 
@@ -146,15 +202,18 @@ You can attempt tasks normally beyond capability:
 - **Stretching Limits:** Feats just beyond normal human limitations — leap a 30-foot chasm, endure dragonfire briefly, tell utterly ridiculous lies convincingly
 - **Mystical Feats:** Heroic acts that defy normal logic — befriend a wild tiger through force of will, use echoes to trigger a rockslide, sense danger through walls
 
-### 2. Ignore Difficulty Complications
+### 2. Ignore Difficulty Banes
 
-Remove all Complications imposed by task difficulty (but NOT Complications from other sources like injuries, hostile environment, or Conditions).
+Remove all Banes imposed by task difficulty (but NOT Banes from other sources like injuries, hostile environment, or Conditions).
 
-- **Both systems:** If GM imposed Bane due to difficulty, remove those Banes when you have Potency (keep Banes from other sources like injuries, Conditions, environment)
+- **All systems:** If GM imposed Bane due to difficulty, remove those Banes when you have Potency (keep Banes from other sources like injuries, Conditions, environment)
 
-### 3. Enhanced Triumph
+### 3. Enhanced Effect
 
-When you achieve Triumph while acting with Potency, choose **two options** from the Triumph menu instead of one (still only gain 1 Momentum).
+When you achieve **Success or Triumph** while acting with Potency, your accomplishment is significantly greater:
+- **Double effectiveness** — Deal twice the Stress, mark double progress, affect twice the area
+- **Affect multiple targets** — Your single-target action affects multiple related targets
+- **Lasting impact** — Your effect persists beyond immediate moment (advantage lasts, enemy stays down longer)
 
 ### Gaining Potency
 
@@ -177,10 +236,10 @@ Most Talents grant Potency in a specific domain:
 
 ### Limits
 
-- **+3 Complications** (Very Hard / 2 Banes) becomes achievable with Potency
-- **+4 Complications or more** is still beyond reach — there IS a limit to heroism
-- Potency doesn't ignore Complications from sources other than difficulty:
-  - Injuries (Conditions) still impose penalties
+- **Very Hard tasks (2 Banes)** become achievable with Potency
+- **3+ Banes from difficulty** is still beyond reach — there IS a limit to heroism
+- Potency doesn't ignore Banes from sources other than difficulty:
+  - Injuries (Conditions) still impose Banes
   - Environmental hazards still apply
   - Enemy abilities still create problems
 
@@ -188,25 +247,90 @@ Most Talents grant Potency in a specific domain:
 
 ---
 
-## Opportunities & Complications
+## Edge & Bane
 
-**Opportunities** and **Complications** are **situational modifiers**, not tradable currency. They convert directly to Edge and Bane.
+**Edge** and **Bane** represent advantage and disadvantage in your roll. They are **situational modifiers**, not tradable currency or resources.
 
-**Opportunities (Grant Edge):**
-- Triggered by: favorable positioning, environmental advantage, clever setup, ally assists, GM reward for good roleplay
-- Each Opportunity grants 1 Edge
-- Multiple Opportunities stack (each grants 1 Edge)
-- Not spent or traded — they apply when the fiction supports them
-- See resolution system for Edge mechanics
+### Edge (Advantage)
 
-**Complications (Impose Bane):**
-- Triggered by: poor positioning, hostile environment, injuries, fictional consequences, Conditions
-- Each Complication imposes 1 Bane
-- Multiple Complications stack (each imposes 1 Bane)
-- Can be negated by spending 1 Momentum per Complication
-- See resolution system for Bane mechanics
+When circumstances favor your action, you gain **Edge**. Sources of Edge include:
+- **Favorable positioning** — High ground, cover, flanking position
+- **Environmental advantage** — Perfect lighting, stable footing, ideal weather
+- **Setup actions** — Use Defy/Sense/Know to Create an Opportunity for ally
+- **Tactical superiority** — Outnumbering an enemy, ambush, surprise
+- **Momentum spend** — Gain an Edge (1 Momentum, self only)
+- **Easy tasks** — GM grants 1 Edge when task is within competence and conditions favor you
+- **Talents** — Some Talents grant Edge in specific circumstances
+- **Quick Assist** — Mark 1 Stress to grant ally Edge (see Assisting Allies below)
 
-**Cancellation:** Opportunities and Complications cancel each other 1:1 before converting to Edge/Bane.
+**Stacking:** Multiple sources of Edge stack (each grants +1 Edge). See your resolution system for caps and specific mechanics.
+
+**Cancellation:** Edge and Bane cancel each other 1:1. Edge does NOT cancel Complications—use Traits or Momentum to negate Complications (see [traits-complications-challenges.md](traits-complications-challenges.md)).
+
+### Bane (Disadvantage)
+
+When circumstances work against your action, you suffer **Bane**. Sources of Bane include:
+- **Poor positioning** — Prone, restrained, surrounded, off-balance
+- **Hostile environment** — Darkness, difficult terrain, extreme weather, unstable footing
+- **Injuries** — Conditions impose Banes based on severity (Minor = 1 Bane, Moderate = 2 Banes, Severe = 3 Banes)
+- **Hard tasks** — GM imposes 1 Bane when task is at edge of capability or conditions work against you
+- **Very Hard tasks** — GM imposes 2 Banes when task is extremely difficult or dangerous
+- **Narrative consequences** — GM moves, enemy abilities, fictional complications
+
+**Stacking:** Multiple sources of Bane stack (each imposes +1 Bane). See your resolution system for caps and specific mechanics.
+
+**Cancellation:** Edge and Bane cancel each other 1:1.
+
+**Design Note:** Bane affects your dice (making success harder). Complications affect your outcome (making success less effective). These are separate systems that don't interact with each other.
+
+### Assisting Allies
+
+There are three ways to help an ally:
+
+**1. Create an Opportunity (On Triumph)**
+
+When you achieve Triumph, you can choose **Create an Opportunity** as your Critical Bonus:
+
+- Grant ally 1 Edge OR negate 1 Complication for their next action related to this situation
+- With **Greater Impact Trait:** Grant 2 Edge, OR affect 2 allies, OR grant 1 Edge + negate 1 Complication to same ally
+
+This is a universal Triumph option—any Action can create opportunities on Triumph.
+
+**Examples:**
+- Defy: You dodge perfectly, revealing enemy's blind spot → ally gets 1 Edge to attack
+- Clash: Your precise strike exposes their defense → ally can negate "Shielded" Complication
+- Sense: You spot weakness in armor → ally gets 1 Edge to hit that spot
+- Know: You recall demon's true name → ally can negate "Warded" Complication
+- Talk: Your words undermine their confidence → ally gets 1 Edge to intimidate them
+
+**Alternative:** You can also use your action to help allies without Triumph by describing how you're setting them up (pin enemy, distract guard, etc.). GM determines if this grants Edge based on fictional positioning.
+
+**2. Quick Assist (Mark Stress)**
+
+Immediately help an ally without using your action.
+
+- **Mark 1 Stress** to grant 1 Edge to ally's roll (declare before they roll)
+- **Share the risk:** If ally suffers consequences from Setback or Conflict, the GM inflicts consequences on you as well
+  - **Physical harm:** If ally takes Stress/Condition, you take Stress/Condition appropriate to how you helped
+  - **Other consequences:** Loss of position, enemy attention, complications tailored to the fiction
+- You can still take your own action this turn
+
+**Example:** "I dive in front the blow!" - mark 1 Stress, ally gets Edge. If they get hit for 2 Stress, you also take 2 Stress (you both got hurt).
+
+**3. Talent**
+
+Some Talents grant Edge to allies in specific situations (e.g., "Team Leader" might allow spending Momentum to Aid Ally, "Inspiring Presence" might grant Edge on Triumph).
+
+**Stacking:** Multiple allies can assist the same person. All Edges stack.
+
+### Edge & Bane by Resolution System
+
+The specific mechanical implementation varies by resolution system:
+- **Xd6 Count-Successes:** Edge = +1d to your pool, Bane = -1d from your pool (unlimited stacking)
+- **Forged in the Dark:** Edge = +1d to your pool (cap +2d), Bane = -1d from your pool (cap -2d)
+- **2d10+Modifier:** Edge = roll extra d10s and drop lowest (cap 4d10 drop 2), Bane = roll extra d10s and drop highest (cap 4d10 drop 2)
+
+See your chosen resolution system document for full details.
 
 ---
 
@@ -219,12 +343,47 @@ Stress represents all harm — physical wounds, mental strain, social humiliatio
 **Stress Track:** 4–5 boxes (determined by character build)
 
 - When you suffer harm, mark Stress equal to the severity (1–3 boxes)
-- **At maximum Stress:** You're Taken Out (unconscious, captured, defeated, broken)
+- **At maximum Stress:** If you would mark more Stress when already at maximum, you're Taken Out
 - **Recovery:** Clear 1 Stress per rest scene; clear all Stress at end of session or downtime
+
+### Taken Out
+
+When you are Taken Out, you are removed from the scene. The GM narrates what happens based on context:
+
+**How you get Taken Out:**
+1. **Stress overflow** - Mark Stress when already at maximum
+2. **Complications** - Your outcome is reduced below Setback (see [traits-complications-challenges.md](traits-complications-challenges.md))
+3. **Critical Condition** - Some Conditions force you out of action
+
+**What happens (GM chooses based on context):**
+- **Combat:** Unconscious, bleeding out, captured
+- **Social:** Humiliated, lose all standing, forced to flee
+- **Exploration:** Lost, separated from group, trigger deadly trap
+- **Negotiation:** Deal collapses, NPC becomes hostile
+- **Chase:** Captured, cornered, lose quarry permanently
+- **Infiltration:** Discovered, arrested, blown cover
+
+**After being Taken Out:** You're out of this scene. Allies can rescue, revive, or stabilize you if the fiction allows. The GM determines long-term consequences.
+
+**Taken Out ≠ Death** (usually). The GM should make it interesting and recoverable, but with serious fictional consequences.
+
+See [action-roll.md](action-roll.md#taken-out) for full Taken Out guidance.
 
 ### Conditions (Lasting Penalties)
 
-When Stress overflows or specific narrative triggers occur, you gain a **Condition**. Conditions are tiered, escalating penalties:
+Conditions represent lasting harm that persists beyond immediate Stress. Conditions are tiered, escalating penalties:
+
+**When you gain a Condition:**
+
+1. **Stress overflow** - When you would mark Stress at maximum, you're Taken Out AND may gain a Condition
+2. **Severe consequences** - GM decides based on fiction:
+   - Fell off a cliff, mauled by beast, caught in explosion (physical)
+   - Publicly shamed, betrayed by ally, reputation destroyed (social)
+   - Witnessed horror, cursed by dark magic, possessed (mental/spiritual)
+3. **Special abilities** - Some enemy Talents or moves inflict Conditions directly
+4. **Condition escalation** - When you take harm while at maximum Stress, existing Condition worsens one tier
+
+**Most of the time, you only mark Stress.** Conditions are for lasting consequences that change the fiction.
 
 | Tier | Penalty | Examples |
 |---|---|---|
@@ -241,7 +400,7 @@ When Stress overflows or specific narrative triggers occur, you gain a **Conditi
 - **Severe:** Requires extended downtime (days/weeks) or quest resolution
 - **Critical:** Requires major story resolution
 
-**Condition Escalation:** If you take harm while at maximum Stress, your existing Condition escalates one tier (Minor → Moderate → Severe → Critical).
+**Condition Tiers:**
 
 ---
 
@@ -255,7 +414,7 @@ Talents represent training, heritage, or supernatural gifts. Each character has 
 
 1. **Favored Actions:** Grant bonus when using a specific Action in specific circumstances
    - Example: "Bladedancer" — Bonus when you Clash with a sword in melee
-   - Some Favored Actions grant **Momentum-on-Failure** — when you fail using that Action, gain 1 Momentum (learning from adversity)
+   - Some Favored Actions grant **Momentum-on-Setback** — when you suffer a Setback using that Action, gain 1 Momentum (learning from adversity)
 2. **Potency Talents:** Grant Potency in a specific domain
    - Example: "Herculean Strength" — Potency on feats of physical might
    - Example: "Cat's Grace" — Potency on feats of agility and acrobatics
@@ -267,9 +426,13 @@ Talents represent training, heritage, or supernatural gifts. Each character has 
    - Example: "Relentless" — Raise your Momentum cap from 2 to 3
 5. **Triggered Effects:** Activate in response to specific fiction
    - Example: "Parry and Riposte" — When an enemy misses you in melee, you may immediately Clash against them
-6. **Resource Manipulation:** Change how Momentum, Stress, or Opportunities work
+6. **Resource Manipulation:** Change how Momentum, Stress, or Edge work
    - Example: "Battle Trance" — Clear Stress in-scene without spending Momentum
-   - Example: "Opportunist" — Unlock additional options from the Triumph menu
+   - Example: "Relentless" — Raise your Momentum cap from 2 to 3
+7. **Complication Negation:** Negate specific types of Complications automatically or at reduced cost
+   - Example: "Armor Piercer" — When you Clash against armored foes, negate all armor-related Complications (free)
+   - Example: "Ward Breaker" — When facing magical defenses, spend 1 Momentum to negate all ward-related Complications (instead of 1 per Complication)
+   - Example: "Giant Slayer" — Negate 1 Complication from creatures larger than you (free, once per scene)
 
 **Design Note:** All Action-specific bonuses come from Talents. There are no universal bonuses to Actions — all bonuses are contextual (weapon type, situation, enemy type, etc.). Talents are the primary customization layer and a main reward of advancement.
 
@@ -294,7 +457,7 @@ Talents represent training, heritage, or supernatural gifts. Each character has 
 | **Traits** | Passive bonus when relevant (narrative permission + mechanical boost) |
 | **Talents** | Special abilities, Action bonuses, unique moves |
 | **Momentum** | Single metacurrency (earn through success, failure, consequences; spend for boosts, recovery, narrative control) |
-| **Opportunities/Complications** | Situational bonuses/penalties (not currency) |
+| **Edge & Bane** | Situational advantage/disadvantage (not currency) |
 | **Stress** | Unified harm buffer (4–5 boxes) |
 | **Conditions** | Tiered lasting penalties (Minor/Moderate/Severe/Critical) |
 

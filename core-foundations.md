@@ -97,14 +97,14 @@ The specific thresholds for these outcomes depend on your resolution system.
 - **Sense:** Ask 2 questions (Success) or 1 question (Conflict)
 - **Know:** GM tells you useful info + you gain 1 Edge the first time you roll when acting on that information (Success)
 
-**On Triumph, choose one Critical Bonus:**
+**On Triumph, choose one Critical Effect:**
 1. **Greater Effect** — Mark 2 ticks, ask 6 questions, or gain 4 Edge (the first time you use it)
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, etc.)
-3. **Create an Opportunity** — Grant ally 1 Edge OR negate 1 Complication
+3. **Create an Opportunity** — Grant ally 1 Opportunity (improves their outcome by +1 tier)
 
 See [action-roll.md](action-roll.md#triumph-critical-bonus) for complete Triumph rules.
 
-**Triumph's unique benefit:** Triumph results cannot be reduced by Complications. No matter how many Challenge Traits oppose you, Triumph stays Triumph. See [traits-complications-challenges.md](traits-complications-challenges.md) for details on Complications.
+**Triumph's unique benefit:** Triumph results cannot be reduced by Complications. No matter how many Challenge Traits oppose you, Triumph stays Triumph. See [traits-complications-challenges.md](traits-complications-challenges.md) for details on Opportunities and Complications.
 
 ---
 
@@ -242,14 +242,13 @@ Most Talents grant Potency in a specific domain:
 
 ## Edge & Bane
 
-**Edge** and **Bane** represent advantage and disadvantage in your roll. They modify your dice pool or roll mechanics.
+**Edge** and **Bane** represent advantage and disadvantage in your roll. They modify your dice pool or roll mechanics to affect the **probability** of success.
 
 ### Edge (Advantage)
 
 When circumstances favor your action, you gain **Edge**. Sources of Edge include:
 - **Favorable positioning** — High ground, cover, flanking position
 - **Environmental advantage** — Perfect lighting, stable footing, ideal weather
-- **Create an Opportunity** — Critical Effect option grants ally 1 Edge
 - **Tactical superiority** — Outnumbering an enemy, ambush, surprise
 - **Momentum spend** — Gain an Edge (1 Momentum, self only)
 - **Easy tasks** — GM grants 1 Edge when task is within competence and conditions favor you
@@ -259,15 +258,9 @@ When circumstances favor your action, you gain **Edge**. Sources of Edge include
 
 **Stacking:** Multiple sources of Edge stack (each grants +1 Edge). Maximum +3 Edge.
 
-**Trading Edge for Complication Negation:**
+**Cancellation:** Edge and Bane cancel each other 1:1.
 
-**Before rolling**, you may trade Edge 1:1 to negate Complications:
-- Each Edge traded removes one Complication from affecting this roll
-- Example: You have 2 Edge, enemy has "Heavily Armored" (1 Complication). Trade 1 Edge to negate armor, roll with +1 Edge remaining.
-
-This creates a tactical decision: roll with more dice (keep Edge) vs guarantee cleaner outcome (negate Complications).
-
-**Cancellation:** Edge and Bane cancel each other 1:1 before you can trade Edge for Complication negation.
+**Design Note:** Edge improves your **probability** of rolling well. It does NOT negate Complications or improve outcomes after rolling. For that, you need Opportunities (see below).
 
 ### Bane (Disadvantage)
 
@@ -279,11 +272,58 @@ When circumstances work against your action, you suffer **Bane**. Sources of Ban
 - **Very Hard tasks** — GM imposes 2 Banes when task is extremely difficult or dangerous
 - **Narrative consequences** — GM moves, enemy abilities, fictional complications
 
-**Stacking:** Multiple sources of Bane stack (each imposes +1 Bane). See your resolution system for caps and specific mechanics.
+**Stacking:** Multiple sources of Bane stack (each imposes +1 Bane). Maximum -3 Bane.
 
 **Cancellation:** Edge and Bane cancel each other 1:1.
 
-**Design Note:** Bane affects your dice (making success harder). Complications affect your outcome (making success less effective). These are separate systems that don't interact with each other.
+**Design Note:** Edge/Bane affect **probability** (dice rolls). Opportunities/Complications affect **outcomes** (tier shifts). These are separate systems.
+
+## Opportunities & Complications
+
+**Opportunities** and **Complications** shift your outcome tier after rolling. They are the opposite of each other and create a second tactical layer beyond Edge/Bane.
+
+### Opportunities
+
+**Opportunities** improve your outcome by +1 tier after rolling.
+
+**Tier Shift:** Setback → Conflict → Success → Triumph (Triumph stays Triumph, no "super-Triumph")
+
+**Sources of Opportunities:**
+- **Create an Opportunity (Critical Effect)** — Ally grants you 1 Opportunity
+- **Talents** — Some Talents grant Opportunity in specific circumstances
+- **Exceptional setup** — GM may grant Opportunity for remarkable fictional positioning
+
+**Rules:**
+- **Cap: 1 Opportunity per action** (additional Opportunities wasted)
+- **Expires:** After one use or at end of scene
+- **Cancels with Complications:** 1:1 before applying tier shift
+
+**Example:** You roll Conflict. Ally granted you 1 Opportunity. Conflict → Success.
+
+### Complications
+
+**Complications** reduce your outcome by -1 tier after rolling.
+
+**Tier Shift:** Triumph → Success → Conflict → Setback → Taken Out
+
+**Sources of Complications:**
+- **Challenge Traits** — Significant enemies/obstacles have defensive Complications
+- **Environmental hazards** — GM may impose Complications for dangerous situations
+
+**Negating Complications:**
+1. **Opportunities** — Cancel 1:1 with Opportunities (before either applies)
+2. **Talents** — Some Talents auto-negate specific Complications
+3. **Triumph** — Triumph ignores all Complications (cannot be reduced)
+
+**Rules:**
+- **Unlimited stacking** (but most enemies have 0-2)
+- **Cancels with Opportunities:** 1:1 before applying tier shift
+
+**Example:** You roll Success. Enemy has "Heavily Armored" (1 Complication). Success → Conflict.
+
+**Design Note:** Opportunities/Complications affect **outcome quality**. Edge/Bane affect **roll probability**. Two separate tactical layers.
+
+---
 
 ### Assisting Allies
 
@@ -293,18 +333,20 @@ There are three ways to help an ally:
 
 When you gain a Critical Effect (from Triumph or relevant Trait), you can choose **Create an Opportunity**:
 
-- Grant ally 1 Edge OR negate 1 Complication for their next action related to this situation
+- Grant ally **1 Opportunity** for their next action related to this situation
 
 This is a universal Critical Effect option—any Action can create opportunities.
 
-**Examples:**
-- Defy: You dodge perfectly, revealing enemy's blind spot → ally gets 1 Edge to attack
-- Clash: Your precise strike exposes their defense → ally can negate "Shielded" Complication
-- Sense: You spot weakness in armor → ally gets 1 Edge to hit that spot
-- Know: You recall demon's true name → ally can negate "Warded" Complication
-- Talk: Your words undermine their confidence → ally gets 1 Edge to intimidate them
+**Effect:** Ally's outcome improves by +1 tier (Setback → Conflict → Success → Triumph)
 
-**Alternative:** You can also use your action to help allies without Triumph by describing how you're setting them up (pin enemy, distract guard, etc.). GM determines if this grants Edge based on fictional positioning.
+**Examples:**
+- Defy: You dodge perfectly, revealing enemy's blind spot → ally gets Opportunity
+- Clash: Your precise strike exposes their defense → ally gets Opportunity
+- Sense: You spot weakness in armor → ally gets Opportunity
+- Know: You recall demon's true name → ally gets Opportunity
+- Talk: Your words undermine their confidence → ally gets Opportunity
+
+**Alternative:** You can also use your action to help allies without Critical Effect by describing how you're setting them up (pin enemy, distract guard, etc.). GM determines if this grants Edge based on fictional positioning.
 
 **2. Quick Assist (Mark Stress)**
 

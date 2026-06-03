@@ -79,13 +79,8 @@ Edge and Bane represent advantage and disadvantage in this system.
 **Edge (Advantage):**
 - **1 Edge:** +1d to your pool
 - **Maximum:** +3d (cap)
-- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, Create an Opportunity (Critical Effect), Know action
+- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, Know action
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
-
-**Edge Trading:**
-- **Before rolling:** Trade Edge 1:1 to negate Complications
-- Each Edge traded removes one Complication from this roll
-- Roll with remaining Edge
 
 **Bane (Disadvantage):**
 - **1 Bane:** -1d from your pool
@@ -95,9 +90,9 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the lowest result.
 
-**Cancellation:**
-1. Edge and Bane cancel 1:1 (before you can trade Edge for Complications)
-2. After cancellation, remaining Edge can be kept for dice OR traded for Complication negation
+**Cancellation:** Edge and Bane cancel 1:1
+
+**Design Note:** Edge/Bane affect **probability** (dice rolls). For outcome quality, use Opportunities/Complications (tier shifts). See [traits-complications-challenges.md](traits-complications-challenges.md).
 
 ---
 
@@ -116,7 +111,7 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 ## Momentum Spends (FitD Effects)
 
-**Gain an Edge (1 Momentum):** Add 1 Edge (+1d) to YOUR upcoming roll (before rolling). Can be kept for dice boost OR traded to negate Complication.
+**Gain an Edge (1 Momentum):** Add 1 Edge (+1d) to YOUR upcoming roll (before rolling).
 
 **Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by task difficulty (keep Banes from other sources like injuries, Conditions, environment). Attempt the impossible and achieve enhanced effects.
 
@@ -221,7 +216,7 @@ Choose FitD over count-successes if you want:
 - Any 6 = Success (34.7%)
 - Two+ 6s = Triumph (7.3%, gain 1 Momentum + ignore all Complications + choose Critical Bonus)
 
-**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) before rolling (can keep for dice OR trade to negate Complication)
+**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) before rolling
 
 **Using a Trait (after rolling):**
 - **Conflict or Success:** Choose one Critical Effect
@@ -230,19 +225,23 @@ Choose FitD over count-successes if you want:
 **Critical Effects:**
 1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
 2. Secondary Effect (Take Something, Inflict Condition, etc.)
-3. Create an Opportunity (grant ally 1 Edge OR negate 1 Complication)
+3. Create an Opportunity (grant ally 1 Opportunity = +1 tier on their next action)
+
+**Opportunities & Complications:**
+- **Opportunity:** +1 tier (Setback → Conflict → Success → Triumph), cap 1 per action
+- **Complication:** -1 tier (Triumph → Success → Conflict → Setback → Taken Out), unlimited
+- Cancel 1:1 before applying tier shifts
+- Source: Opportunities from Create Opportunity, Complications from Challenge Traits
 
 **Action Core Functions:**
 - Defy/Clash/Talk: Mark 1 tick on track (Success/Conflict)
 - Sense: Ask 2 questions (Success), 1 question (Conflict)
 - Know: GM tells you info + gain 1 Edge the first time you roll when acting on that information (Success)
 
-**Edge Trading:** Before rolling, trade Edge 1:1 to negate Complications
-
 **Easy Tasks:** Grant 1 Edge (+1d)
 
 **Hard Tasks:** Impose 1 Bane (-1d)
 
-**Edge/Bane:** Cap ±3d, cancel 1:1 before trading
+**Edge/Bane:** Cap ±3d, cancel 1:1, affect probability (not outcomes)
 
 **Zero Dice:** If pool reduced to 0d, roll 2d6 and take lowest result

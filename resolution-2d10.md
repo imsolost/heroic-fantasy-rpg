@@ -62,13 +62,8 @@ Edge and Bane represent advantage and disadvantage in this system.
 - **1 Edge:** Roll 3d10, drop lowest
 - **2 Edge:** Roll 4d10, drop 2 lowest
 - **3 Edge:** Roll 5d10, drop 3 lowest (maximum)
-- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, Create an Opportunity (Critical Effect), Know action
+- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, Know action
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
-
-**Edge Trading:**
-- **Before rolling:** Trade Edge 1:1 to negate Complications
-- Each Edge traded removes one Complication from this roll
-- Roll with remaining Edge
 
 **Bane (Disadvantage):**
 - **1 Bane:** Roll 3d10, drop highest
@@ -77,9 +72,9 @@ Edge and Bane represent advantage and disadvantage in this system.
 - Sources: Hard tasks, Very Hard tasks, Conditions, hostile environment, poor positioning, injuries
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
-**Cancellation:**
-1. Edge and Bane cancel 1:1 (before you can trade Edge for Complications)
-2. After cancellation, remaining Edge can be kept for dice OR traded for Complication negation
+**Cancellation:** Edge and Bane cancel 1:1
+
+**Design Note:** Edge/Bane affect **probability** (dice rolls). For outcome quality, use Opportunities/Complications (tier shifts). See [traits-complications-challenges.md](traits-complications-challenges.md).
 
 ---
 
@@ -116,7 +111,7 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 ### Momentum Spends (2d10 Effects)
 
-**Gain an Edge (1 Momentum):** Add 1 Edge to YOUR upcoming roll before rolling (roll 3d10 drop lowest, or more if stacking). Can be kept for dice boost OR traded to negate Complication.
+**Gain an Edge (1 Momentum):** Add 1 Edge to YOUR upcoming roll before rolling (roll 3d10 drop lowest, or more if stacking).
 
 **Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by task difficulty (keep Banes from other sources like injuries, Conditions, environment). Attempt the impossible and achieve enhanced effects.
 
@@ -242,7 +237,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 - 16-20 = Success (47%)
 - 21+ = Triumph (15%)
 
-**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge before rolling (can keep for dice OR trade to negate Complication)
+**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge before rolling
 
 **Using a Trait (after rolling):**
 - **Conflict or Success:** Choose one Critical Effect
@@ -251,14 +246,18 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 **Critical Effects:**
 1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
 2. Secondary Effect (Take Something, Inflict Condition, etc.)
-3. Create an Opportunity (grant ally 1 Edge OR negate 1 Complication)
+3. Create an Opportunity (grant ally 1 Opportunity = +1 tier on their next action)
+
+**Opportunities & Complications:**
+- **Opportunity:** +1 tier (Setback → Conflict → Success → Triumph), cap 1 per action
+- **Complication:** -1 tier (Triumph → Success → Conflict → Setback → Taken Out), unlimited
+- Cancel 1:1 before applying tier shifts
+- Source: Opportunities from Create Opportunity, Complications from Challenge Traits
 
 **Action Core Functions:**
 - Defy/Clash/Talk: Mark 1 tick on track (Success/Conflict)
 - Sense: Ask 2 questions (Success), 1 question (Conflict)
 - Know: GM tells you info + gain 1 Edge the first time you roll when acting on that information (Success)
-
-**Edge Trading:** Before rolling, trade Edge 1:1 to negate Complications
 
 **Easy Tasks:** Grant 1 Edge (3d10 drop lowest)
 
@@ -266,4 +265,4 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 **Very Hard Tasks:** Impose 2 Banes (4d10 drop 2 highest)
 
-**Edge/Bane Cap:** Maximum ±3 (5d10 drop 3), cancel 1:1 before trading
+**Edge/Bane Cap:** Maximum ±3 (5d10 drop 3), cancel 1:1, affect probability (not outcomes)

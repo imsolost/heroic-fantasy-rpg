@@ -122,28 +122,26 @@ Traits are evocative narrative descriptors defining who your character is — th
 
 Each character has **2–5 Traits** (starting with 2, gaining more through advancement).
 
-**Mechanical Function:** When a Trait is narratively relevant to your action, you may invoke it to choose from a tactical menu (only one Trait per roll).
+**Mechanical Function:** When a Trait is narratively relevant to your action, you may invoke it after rolling to gain a **Critical Effect**.
 
-**When you invoke a Trait, roll first, then choose one option after seeing your result:**
+### Invoking a Trait
 
-1. **Greater Impact** — Double your effect (applies on Conflict or Success only):
-   - Mark 2 ticks instead of 1
-   - Ask 4 questions instead of 2 (Sense)
-   - Gain 2 Edge instead of 1 (Know—the first time you use it)
-   - **On Triumph:** Doubles your chosen Critical Bonus:
-     - Greater Effect: Mark 4 ticks (instead of 2), ask 9 questions (instead of 6), gain 4 additional Edge (instead of 2—the first time you use it)
-     - Secondary Effect: Affect 2 targets, escalate severity, or produce more significant consequence
-     - Create Opportunity: Grant 2 Edge, affect 2 allies, or grant Edge + negate Complication to same ally
-   - **Does not apply on Setback** (you failed)
+**After rolling and determining your outcome:**
 
-2. **Negate a Complication** — Cancel one Complication imposed by a Challenge Trait (prevents outcome reduction from that Trait)
-   - **Applies on any outcome**
+**On Conflict or Success:** Choose one Critical Effect from the menu:
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), gain 4 Edge the first time you use it (instead of 1)
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, etc.)
+3. **Create an Opportunity** — Grant ally 1 Edge OR negate 1 Complication
 
-**Timing:** Roll dice → See outcome → Choose Trait option → Apply remaining Complications → Resolve final outcome
+**On Triumph:** Choose **two** Critical Effects from the menu (can choose the same one twice for enhanced effect)
+
+**On Setback:** Cannot invoke Trait (you failed)
+
+**Timing:** Roll dice → Determine raw outcome → Apply Complications → Determine final outcome → If Conflict or higher and Trait relevant, invoke for Critical Effect(s)
+
+**Design Note:** Traits grant the same powerful effects that Triumph normally provides, making relevant expertise feel impactful. On your best rolls (Triumph + relevant Trait), you accomplish truly legendary feats.
 
 **See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
-
-**Design Note:** After-roll Trait declaration creates informed tactical decisions. You see your outcome and choose whether to push for greater impact or negate opposition. This eliminates feel-bad moments (wasting Greater Impact on a Setback) while creating meaningful trade-offs.
 
 ---
 
@@ -166,28 +164,23 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 
 ### Spending Momentum
 
-**Timing matters:** Some spends are before rolling, others after rolling.
-
-**Proactive (Before Rolling):**
-- **Gain an Edge (1 Momentum):** Add 1 Edge to YOUR upcoming roll. See your resolution system for specific Edge effects.
+**Before Rolling:**
+- **Gain an Edge (1 Momentum):** Add 1 Edge to YOUR upcoming roll. See your resolution system for specific Edge effects. Can be traded 1:1 to negate Complications (see Edge & Bane section below).
 - **Act with Potency (2 Momentum):** Gain Potency on this roll (see Potency below). Allows you to attempt normally impossible tasks, ignore Banes from difficulty, and achieve enhanced effects.
 
-**Reactive (After Rolling):**
-- **Negate a Complication (1 Momentum):** Cancel one Complication from a Challenge Trait. This stacks with the Trait option—you can negate 2 Complications total if you use both Trait and Momentum.
+**After Rolling:**
 - **Resist Consequence (1 Momentum):** When you suffer Stress or a Condition from your own action's Conflict or Setback result, you may roll Defy to attempt to reduce or avoid it.
   - **Success:** Avoid the consequence entirely (no Stress, no Condition)
   - **Conflict:** Reduce the consequence (take less Stress, suffer lesser Condition)
   - **Setback:** Take the full consequence (you tried but failed—Momentum is spent)
   - **Cannot be used for:** External threats (those trigger Defy automatically for free), Banes (Banes affect your dice, not consequences), or narrative consequences without mechanical teeth (use Negate Consequence instead)
 
-**Immediate:**
-- **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
-
 **Any Time:**
+- **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
 - **Recover (1 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
 - **Influence the Narrative (1 Momentum):** Introduce a beneficial fact or detail into the scene (GM has final say on scope)
 
-**Design Note:** Momentum is personal—it boosts YOUR capabilities. To help allies, use the Effect Menu to Create an Opportunity (see [action-roll.md](action-roll.md#effect-menu)).
+**Design Note:** Momentum's primary tactical use is gaining Edge (which can improve your roll OR negate Complications). To help allies, use Critical Effect's "Create an Opportunity" option (see [action-roll.md](action-roll.md#triumph-critical-bonus)).
 
 ---
 
@@ -249,23 +242,32 @@ Most Talents grant Potency in a specific domain:
 
 ## Edge & Bane
 
-**Edge** and **Bane** represent advantage and disadvantage in your roll. They are **situational modifiers**, not tradable currency or resources.
+**Edge** and **Bane** represent advantage and disadvantage in your roll. They modify your dice pool or roll mechanics.
 
 ### Edge (Advantage)
 
 When circumstances favor your action, you gain **Edge**. Sources of Edge include:
 - **Favorable positioning** — High ground, cover, flanking position
 - **Environmental advantage** — Perfect lighting, stable footing, ideal weather
-- **Setup actions** — Use Defy/Sense/Know to Create an Opportunity for ally
+- **Create an Opportunity** — Critical Effect option grants ally 1 Edge
 - **Tactical superiority** — Outnumbering an enemy, ambush, surprise
 - **Momentum spend** — Gain an Edge (1 Momentum, self only)
 - **Easy tasks** — GM grants 1 Edge when task is within competence and conditions favor you
 - **Talents** — Some Talents grant Edge in specific circumstances
+- **Know action** — Gain Edge the first time you act on recalled information
 - **Quick Assist** — Mark 1 Stress to grant ally Edge (see Assisting Allies below)
 
-**Stacking:** Multiple sources of Edge stack (each grants +1 Edge). See your resolution system for caps and specific mechanics.
+**Stacking:** Multiple sources of Edge stack (each grants +1 Edge). Maximum +3 Edge.
 
-**Cancellation:** Edge and Bane cancel each other 1:1. Edge does NOT cancel Complications—use Traits or Momentum to negate Complications (see [traits-complications-challenges.md](traits-complications-challenges.md)).
+**Trading Edge for Complication Negation:**
+
+**Before rolling**, you may trade Edge 1:1 to negate Complications:
+- Each Edge traded removes one Complication from affecting this roll
+- Example: You have 2 Edge, enemy has "Heavily Armored" (1 Complication). Trade 1 Edge to negate armor, roll with +1 Edge remaining.
+
+This creates a tactical decision: roll with more dice (keep Edge) vs guarantee cleaner outcome (negate Complications).
+
+**Cancellation:** Edge and Bane cancel each other 1:1 before you can trade Edge for Complication negation.
 
 ### Bane (Disadvantage)
 
@@ -287,14 +289,13 @@ When circumstances work against your action, you suffer **Bane**. Sources of Ban
 
 There are three ways to help an ally:
 
-**1. Create an Opportunity (On Triumph)**
+**1. Create an Opportunity (Critical Effect)**
 
-When you achieve Triumph, you can choose **Create an Opportunity** as your Critical Bonus:
+When you gain a Critical Effect (from Triumph or relevant Trait), you can choose **Create an Opportunity**:
 
 - Grant ally 1 Edge OR negate 1 Complication for their next action related to this situation
-- With **Greater Impact Trait:** Grant 2 Edge, OR affect 2 allies, OR grant 1 Edge + negate 1 Complication to same ally
 
-This is a universal Triumph option—any Action can create opportunities on Triumph.
+This is a universal Critical Effect option—any Action can create opportunities.
 
 **Examples:**
 - Defy: You dodge perfectly, revealing enemy's blind spot → ally gets 1 Edge to attack
@@ -326,9 +327,9 @@ Some Talents grant Edge to allies in specific situations (e.g., "Team Leader" mi
 ### Edge & Bane by Resolution System
 
 The specific mechanical implementation varies by resolution system:
-- **Xd6 Count-Successes:** Edge = +1d to your pool, Bane = -1d from your pool (unlimited stacking)
-- **Forged in the Dark:** Edge = +1d to your pool (cap +2d), Bane = -1d from your pool (cap -2d)
-- **2d10+Modifier:** Edge = roll extra d10s and drop lowest (cap 4d10 drop 2), Bane = roll extra d10s and drop highest (cap 4d10 drop 2)
+- **Xd6 Count-Successes:** Edge = +1d to your pool, Bane = -1d from your pool (cap ±3d)
+- **Forged in the Dark:** Edge = +1d to your pool, Bane = -1d from your pool (cap ±3d)
+- **2d10+Modifier:** Edge = roll extra d10s and drop lowest, Bane = roll extra d10s and drop highest (cap ±3d = 5d10 total)
 
 See your chosen resolution system document for full details.
 

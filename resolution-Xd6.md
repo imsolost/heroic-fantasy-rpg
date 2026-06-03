@@ -55,11 +55,14 @@ Count your successes (Hits):
 
 ## Traits
 
-**Traits provide tactical choices, not passive bonuses.**
+**Traits grant Critical Effects when relevant.**
 
-When a Trait is narratively relevant, you may invoke it to choose one benefit (after rolling):
-1. **Greater Impact** - Double your effect (mark 2 ticks, ask 4 questions, gain 2 Edge; on Triumph doubles Critical Bonus to 4 ticks/9 questions/etc.)
-2. **Negate a Complication** - Cancel one Challenge Trait's Complication
+When a Trait is narratively relevant to your action, you may invoke it after rolling:
+- **On Conflict or Success:** Choose one Critical Effect
+- **On Triumph:** Choose two Critical Effects
+- **On Setback:** Cannot invoke Trait
+
+**Critical Effects:** Greater Effect, Secondary Effect, Create an Opportunity
 
 **See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
 
@@ -71,24 +74,26 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 **Edge (Advantage):**
 - **1 Edge:** +1d to your pool
-- **2+ Edges:** +1d per Edge (unlimited stacking)
-- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, setup actions, Trait "Create Opportunity" option
+- **Maximum:** +3d (cap)
+- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, Create an Opportunity (Critical Effect), Know action
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
+
+**Edge Trading:**
+- **Before rolling:** Trade Edge 1:1 to negate Complications
+- Each Edge traded removes one Complication from this roll
+- Roll with remaining Edge
 
 **Bane (Disadvantage):**
 - **1 Bane:** -1d from your pool
-- **2+ Banes:** -1d per Bane (unlimited stacking)
+- **Maximum:** -3d (cap)
 - Sources: Hard tasks, Very Hard tasks, Conditions, hostile environment, poor positioning, injuries
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
 **Minimum Pool:** If reduced to 0 dice or fewer, roll 1d6 (very low chance of success).
 
 **Cancellation:** 
-1. Edge and Bane cancel 1:1
-2. Edge does NOT cancel Complications (see [traits-complications-challenges.md](traits-complications-challenges.md))
-3. Bane does NOT create Complications
-
-**Design Note:** Unlike 2d10 where Edge/Bane changes how many dice you roll and drop, in Xd6 they simply add or remove dice from your pool directly. Both systems achieve the same goal (modulate success chance) through parallel mechanics.
+1. Edge and Bane cancel 1:1 (before you can trade Edge for Complications)
+2. After cancellation, remaining Edge can be kept for dice OR traded for Complication negation
 
 ---
 
@@ -105,7 +110,7 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 ## Momentum Spends (Xd6 Effects)
 
-**Gain an Edge (1 Momentum):** Add 1 Edge (+1d) to YOUR upcoming roll (before rolling).
+**Gain an Edge (1 Momentum):** Add 1 Edge (+1d) to YOUR upcoming roll (before rolling). Can be kept for dice boost OR traded to negate Complication.
 
 **Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by task difficulty (keep Banes from other sources like injuries, Conditions, environment). Attempt the impossible and achieve enhanced effects.
 
@@ -203,22 +208,26 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 - 2 Hits = Success (29.6%)
 - 3+ Hits = Triumph (11.1%)
 
-**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) to your roll before rolling
+**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) before rolling (can keep for dice OR trade to negate Complication)
 
-**Using a Trait (after rolling):** Choose Greater Impact (double effect) or Negate Complication (see [traits-complications-challenges.md](traits-complications-challenges.md))
+**Using a Trait (after rolling):** 
+- **Conflict or Success:** Choose one Critical Effect
+- **Triumph:** Choose two Critical Effects
+
+**Critical Effects:**
+1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
+2. Secondary Effect (Take Something, Inflict Condition, etc.)
+3. Create an Opportunity (grant ally 1 Edge OR negate 1 Complication)
 
 **Action Core Functions:**
 - Defy/Clash/Talk: Mark 1 tick on track (Success/Conflict)
 - Sense: Ask 2 questions (Success), 1 question (Conflict)
 - Know: GM tells you info + gain 1 Edge the first time you roll when acting on that information (Success)
 
-**On Triumph, choose Critical Bonus:**
-1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
-2. Secondary Effect (Take Something, Inflict Condition, etc.)
-3. Create an Opportunity (grant ally 1 Edge OR negate 1 Complication)
+**Edge Trading:** Before rolling, trade Edge 1:1 to negate Complications
 
 **Easy Tasks:** Grant 1 Edge (+1d)
 
 **Hard Tasks:** Impose 1 Bane (-1d)
 
-**Edge/Bane:** Add or remove dice from pool, cancel 1:1
+**Edge/Bane:** Cap ±3d, cancel 1:1 before trading

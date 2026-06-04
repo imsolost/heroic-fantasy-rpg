@@ -6,86 +6,100 @@ For core mechanics (Actions, Approaches, Momentum, Stress), see [core-foundation
 
 ---
 
-## Traits (Critical Effects)
+## Traits (Special Effects)
 
-Traits are evocative narrative descriptors defining who your character is. When a Trait is narratively relevant to your action, you may invoke it to gain a **Critical Effect**.
+Traits are evocative narrative descriptors defining who your character is. When a Trait is narratively relevant to your action, you gain a **Special Effect**.
 
-### Invoking a Trait
+### Using a Trait
 
-**After rolling and determining your final outcome:**
+**Timing: After rolling**
 
-**On Conflict or Success:** Choose one Critical Effect:
-1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), gain 4 Edge the first time you use it (instead of 1)
+When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait to gain one Special Effect:
+
+**Special Effects:**
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. **Create an Opportunity** — Grant ally 1 Opportunity (improves their outcome by +1 tier on their next related action)
-
-**On Triumph:** Choose **two** Critical Effects (can choose the same one twice for enhanced effect)
-
-**On Setback:** Cannot invoke Trait (you failed)
+3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
 **Examples:**
-- "Veteran of the Iron Wars" → Relevant when Clashing in melee combat → Invoke for Critical Effect (e.g., Greater Effect to mark 2 ticks, or Secondary Effect to disarm enemy)
-- "Silver Tongue" → Relevant when Talking to influence people → Invoke for Critical Effect (e.g., Greater Effect to mark 2 ticks on Accord Track, or Secondary Effect to dramatically shift attitude)
-- "Shadowborn" → Relevant when acting in darkness/stealth → Invoke for Critical Effect (e.g., Create Opportunity to grant ally Edge, or Secondary Effect to remain undetected)
+- "Veteran of the Iron Wars" → Relevant when Clashing in melee → On Conflict+, choose Special Effect (e.g., Greater Effect to mark 2 ticks, or Secondary Effect to disarm enemy)
+- "Silver Tongue" → Relevant when Talking to influence → On Conflict+, choose Special Effect (e.g., Greater Effect to mark 2 ticks on Accord Track, or Secondary Effect to shift attitude dramatically)
+- "Shadowborn" → Relevant when acting in darkness/stealth → On Conflict+, choose Special Effect (e.g., Create an Opportunity to grant ally 1 Edge, or Secondary Effect to remain undetected)
 
 ---
 
-## Declaring Trait Use
+### Trait Rules
 
-**Timing:** Roll dice → Determine raw outcome → Apply Complications → Determine final outcome → If Conflict or higher and Trait relevant, invoke for Critical Effect(s)
+**Only one Trait per roll.** You cannot invoke multiple Traits (even if multiple are relevant).
 
-**This creates dramatic moments:**
-- You see your final outcome after Complications
-- If you achieved Conflict or better and your Trait is relevant, you invoke it
-- Choose which Critical Effect best fits the situation
+**Requires Conflict or higher.** If you roll Setback, you cannot invoke your Trait (you failed completely).
 
-**Example:**
-- You attack an armored knight (has "Heavily Armored" = 1 Complication)
-- Ally granted you 1 Opportunity (from their prior Create Opportunity)
-- You have "Armor Piercer" Trait and 1 Edge
-- **Roll result:** Conflict (with 1 Edge)
-- **Apply modifiers:** 1 Opportunity (+1 tier) and 1 Complication (-1 tier) cancel → Conflict stays Conflict
-- **Invoke Trait:** "Armor Piercer" is relevant → Choose Critical Effect:
-  - **Greater Effect:** Mark 2 ticks (despite Conflict outcome)
-  - **Secondary Effect:** Disarm him as you strike (Take Something)
-  - **Create Opportunity:** Grant next ally 1 Opportunity
+**On Triumph:** You can still invoke your Trait for one Special Effect, in addition to gaining Momentum and ignoring Complications.
 
-**Only one Trait per roll.** You cannot use multiple Traits (but Triumph + one Trait = two Critical Effects total).
+**Narrative relevance required.** The GM is the final arbiter of whether a Trait applies to the situation.
 
 ---
 
-## Opportunities & Complications (Tier Shifting)
+### Trait Breadth
 
-**Opportunities** and **Complications** shift your outcome tier after rolling. They are opposites and cancel each other 1:1.
+**Traits should be broad enough to apply frequently, but not so broad they apply to everything.**
+
+**Good Traits:**
+- "Bladedancer" — applies to any melee combat with a blade
+- "Shadow of the Thieves Guild" — applies to stealth, social situations with criminals, lockpicking, deception
+- "Veteran of the Iron Wars" — applies to combat, military knowledge, dealing with soldiers
+
+**Too Broad:**
+- "Competent" — applies to everything (not interesting)
+- "Lucky" — could justify any situation (no fictional grounding)
+
+**Too Narrow:**
+- "Longsword Expert vs Knights" — only applies in one very specific situation
+- "Knows Fire Elemental Weaknesses" — one-use knowledge
+
+**Aim for 3-5 Traits per character** that cover different aspects of their identity and expertise.
+
+---
+
+### Example: Warrior Attacks Armored Knight
+
+**Setup:**
+- Warrior has "Bladedancer" Trait (relevant to melee combat)
+- Enemy: Tier 2 Knight with "Heavily Armored" (1 Complication)
+- Warrior's base pool: 3d6 (Approach 3)
+
+**Warrior's Turn:**
+- Roll 3d6 → Success
+- Apply "Heavily Armored" Complication → Success reduced to Conflict
+- Invoke "Bladedancer" Trait → Choose Greater Effect
+- Final: Mark 2 ticks (instead of 1), take 2 Stress
+
+**Analysis:** Trait doubled output (2 ticks vs 1 tick) at no cost. Strong, consistent value.
 
 ---
 
-## Opportunities
+### Example: Scout Creates Opportunity for Warrior
 
-**Opportunities** improve your outcome by **+1 tier** after rolling.
+**Setup:**
+- Scout has "Tactical Genius" Trait (relevant to battlefield analysis)
+- Scout uses Sense to spot opening for ally
+- Scout's pool: 3d6
 
-**Tier Shift:** Setback → Conflict → Success → Triumph
+**Scout's Turn:**
+- Roll 3d6 → Success
+- Ask 2 questions (Sense base effect)
+- Invoke "Tactical Genius" → Choose Create an Opportunity
+- Grant Warrior: Negate "Heavily Armored" Complication for next action
 
-*Note: Triumph stays Triumph (no "super-Triumph")*
+**Warrior's Next Turn:**
+- Roll 3d6 → Success
+- No Complication (Scout negated it)
+- Final: Mark 1 tick, no Stress (clean Success)
 
-### Sources of Opportunities
-
-1. **Create an Opportunity (Critical Effect)** - Ally grants you 1 Opportunity for next related action
-2. **Talents** - Some Talents grant Opportunity in specific circumstances
-3. **Exceptional Setup** - GM may grant Opportunity for remarkable fictional positioning
-
-### Rules
-
-- **Cap: 1 Opportunity per action** (additional Opportunities are wasted)
-- **Expires:** After one use or at end of scene
-- **Cancels with Complications:** 1:1 before applying tier shift (see below)
-
-**Example:**
-- You roll Conflict
-- Ally granted you 1 Opportunity
-- Conflict + Opportunity → **Success**
+**Analysis:** Scout's Trait removed the Complication, allowing Warrior to succeed cleanly. Teamwork enabled by Create an Opportunity.
 
 ---
+
 
 ## Complications
 
@@ -121,48 +135,7 @@ Each uncanceled Complication moves your result one step down:
 ### Rules
 
 - **Unlimited stacking** (but most enemies have 0-2 Complications)
-- **Cancels with Opportunities:** 1:1 before applying tier shift
 - **Triumph immunity:** Triumph cannot be reduced by Complications
-
----
-
-## Opportunities & Complications: Cancellation
-
-**Opportunities and Complications cancel each other 1:1 before either applies.**
-
-**Order of resolution:**
-1. Roll dice → Determine raw outcome
-2. Cancel Opportunities with Complications (1:1)
-3. Apply remaining Opportunities (improve tier) or Complications (reduce tier)
-4. Determine final outcome
-5. Invoke Trait for Critical Effect (if Conflict or higher)
-
-**Examples:**
-
-**Example 1: Perfect Cancel**
-- Raw outcome: Conflict
-- You have: 1 Opportunity
-- Enemy has: 1 Complication ("Heavily Armored")
-- Result: Cancel 1:1 → Conflict stays Conflict
-
-**Example 2: Opportunity Wins**
-- Raw outcome: Conflict
-- You have: 2 Opportunities (from two allies)
-  - *Note: Cap at 1, so only 1 Opportunity applies*
-- Enemy has: 1 Complication ("Shielded")
-- Result: 1 Opportunity - 1 Complication = 0, Conflict stays Conflict
-
-**Example 3: Complication Wins**
-- Raw outcome: Success
-- You have: 1 Opportunity
-- Enemy has: 2 Complications ("Heavily Armored" + "Shielded")
-- Result: 1 Opportunity - 2 Complications = -1 net Complication
-- Final: Success → Conflict
-
-**Example 4: Triumph Ignores All**
-- Raw outcome: Triumph
-- Enemy has: 3 Complications
-- Result: Triumph ignores all Complications → Triumph stays Triumph
 
 ---
 
@@ -170,15 +143,15 @@ Each uncanceled Complication moves your result one step down:
 
 Three ways to deal with Complications:
 
-### 1. Opportunities (Cancel 1:1)
+### 1. Create an Opportunity (Trait Special Effect)
 
-**The primary way** to neutralize Complications is by gaining Opportunities from allies using **Create an Opportunity**.
+**The primary way** to neutralize Complications is by allies using **Create an Opportunity** to negate them.
 
 **Example:**
 - Enemy has "Heavily Armored" (1 Complication)
-- Ally used their Trait to **Create an Opportunity** for you (grants you 1 Opportunity)
+- Ally used their Trait to **Create an Opportunity** for you (negate 1 Complication)
 - You roll Success
-- 1 Opportunity cancels with 1 Complication → Success stays Success
+- Complication negated → Success stays Success
 
 **Teamwork is key!** Allies set each other up by creating Opportunities to overcome defended targets.
 
@@ -189,7 +162,7 @@ Some Talents negate Complications automatically in specific situations.
 **Example:**
 - Enemy has "Heavily Armored" + "Shielded" (2 Complications)
 - Your "Shield Breaker" Talent automatically negates shield-related Complications
-- "Shielded" negated automatically, "Heavily Armored" remains (need Opportunity to cancel it)
+- "Shielded" negated automatically, "Heavily Armored" remains
 
 ### 3. Triumph Ignores All Complications
 
@@ -207,34 +180,19 @@ Some Talents negate Complications automatically in specific situations.
 2. **Calculate Edge and Bane** from all sources (cancel 1:1)
 3. **Roll dice** with modified pool
 4. **Determine raw outcome** (Success, Conflict, Setback, Triumph)
-5. **Check for Opportunities** (from ally's prior Create Opportunity or other sources)
-6. **Talents** automatically negate specific Complications (if applicable)
-7. **Cancel Opportunities with Complications** (1:1)
-8. **Apply remaining tier shifts** (Opportunities improve, Complications reduce)
-9. **Triumph ignores all Complications** (cannot be reduced, but Opportunities still apply)
-10. **Determine final outcome**
-11. **If Conflict or higher + relevant Trait:** Invoke for Critical Effect(s)
+5. **Apply Complications** (reduce tier, Triumph ignores all)
+6. **Determine final outcome**
+7. **If Trait relevant and outcome is Conflict+:** Invoke for Special Effect
 
 **Full Example:**
-- You attack a knight with "Heavily Armored" + "Shielded" (2 Complications)
-- Ally used **Create an Opportunity** on their turn → You have 1 Opportunity
-- You have "Armor Piercer" Trait and 2 Edge (positioning + ally)
-- **Roll:** 5d6 (base 3d6 + 2 Edge) → Result: Conflict
-- **Apply modifiers:**
-  - 1 Opportunity (from ally)
-  - 2 Complications ("Heavily Armored" + "Shielded")
-  - Cancel: 1 Opportunity - 2 Complications = -1 net Complication
-  - Conflict - 1 tier = **Setback**
-- **Final outcome:** Setback (mark 0 ticks, take 2 Stress)
-- **Trait:** Cannot invoke (Setback doesn't qualify)
+- You attack a knight with "Heavily Armored" (1 Complication)
+- You have "Bladedancer" Trait (relevant) and 1 Edge (positioning)
+- **Roll:** 4d6 (base 3d6 + 1 Edge) → Result: Success
+- **Apply Complication:** "Heavily Armored" → Success reduced to Conflict
+- **Invoke Trait:** "Bladedancer" relevant, Conflict qualifies → Choose Greater Effect
+- **Final outcome:** Mark 2 ticks (Greater Effect), take 2 Stress (Conflict cost)
 
-**Alternative if second ally also created Opportunity:**
-- 2 Opportunities (but cap at 1, so only 1 applies)
-- 2 Complications
-- Cancel: 1 Opportunity - 2 Complications = -1 net Complication
-- Still Setback
-
-**Better strategy:** Focus fire after one ally creates Opportunity, or have multiple allies create Opportunities across several turns to build up advantage.
+**Analysis:** Even with Complication reducing you to Conflict, your Trait's Greater Effect doubled your progress.
 
 ---
 
@@ -317,7 +275,7 @@ Not all Challenges have Traits. When they do, Traits represent special defenses,
 | **Tier 3, 1-2 Traits** | Boss-tier | Requires team coordination, multiple setup actions, perfect tactics |
 | **Tier 3, 3+ Traits** | Near-impossible | Only achievable with extensive preparation, full party coordination, or Triumph |
 
-**Balance Note:** More Traits = more preparation required. Challenges with 2+ Complications usually require at least 2 Edge (from allies, positioning, or setup) OR Triumph to succeed cleanly.
+**Balance Note:** More Traits = more preparation required. Challenges with 2+ Complications usually require allies to Create Opportunities OR Triumph to succeed cleanly.
 
 ---
 
@@ -327,111 +285,77 @@ Not all Challenges have Traits. When they do, Traits represent special defenses,
 - **Tier:** 1 (1 Stress on Setback/Conflict)
 - **Traits:** "Easily Frightened"
   - When intimidated, grants 1 Edge to PCs
-- **Clock:** 2 ticks to defeat
+- **Harm Track:** 2 ticks to defeat
 
 **Tier 2 Armored Knight**
 - **Tier:** 2 (2 Stress on Setback/Conflict)
 - **Traits:** "Heavily Armored"
   - Physical attacks face 1 Complication (Success → Conflict)
-- **Clock:** 4 ticks to defeat
+- **Harm Track:** 4 ticks to defeat
 
 **Tier 3 War Troll**
 - **Tier:** 3 (3 Stress on Setback/Conflict)
 - **Traits:** "Tough Hide," "Regeneration"
   - Physical attacks face 2 Complications (Success → Setback)
-  - Requires exploiting weakness (fire, magic) or heavy Edge investment
-- **Clock:** 6 ticks to defeat
+  - Requires exploiting weakness (fire, magic), using Traits, or Triumph
+- **Harm Track:** 6 ticks to defeat
 
 **Tier 2 Ancient Vault Door**
 - **Tier:** 2 (2 Stress on Setback/Conflict)
 - **Traits:** "Sealed," "Warded"
   - Bypass attempts face 2 Complications
-  - Can be defeated by finding key, dispelling wards, or brute force with Edge
-- **Clock:** 6 ticks to bypass
+  - Can be defeated by finding key, dispelling wards, or using Traits
+- **Obstacle Track:** 6 ticks to bypass
 
 ---
 
 ## Edge & Bane Interaction
 
-**Edge and Bane** modify your dice roll. **Complications** reduce your outcome tier. These are separate but related systems.
+**Edge and Bane** modify your dice roll. **Complications** reduce your outcome tier. These are separate systems.
 
-### How They Interact
+### Edge/Bane Sources
 
-**Edge serves two purposes:**
-1. **Roll better dice** (keep Edge to improve success probability)
-2. **Negate Complications** (trade Edge before rolling to prevent outcome reduction)
+**Edge:**
+- Easy tasks (1 Edge)
+- Act with Potency Momentum spend (1 Edge)
+- Talents
+- Ally assistance
+- Superior positioning
+- Favorable environment
+- **Create an Opportunity** (Trait Special Effect grants ally 1 Edge)
 
-**Before rolling, you choose:** Keep Edge for dice OR trade Edge to negate Complications (1:1).
+**Bane:**
+- Hard tasks (1 Bane)
+- Very Hard tasks (2 Banes)
+- Conditions (injuries, status effects)
+- Hostile environment
+- Poor positioning
 
-### Cancellation Rules
+**Edge and Bane cancel 1:1 before rolling.**
 
-1. **Edge and Bane cancel 1:1** (before you can trade Edge for Complications)
-2. **After cancellation**, remaining Edge can be kept for dice OR traded for Complication negation
-3. **Bane does NOT create Complications** (Bane only affects dice probability)
-
-**Example:**
-- Enemy has "Heavily Armored" (1 Complication)
-- You have 2 Edge (flanking + ally assist)
-- Enemy gives you 1 Bane (you're wounded)
-- **Step 1:** 2 Edge - 1 Bane = 1 Edge remaining
-- **Step 2 (your choice):**
-  - **Keep Edge:** Roll with +1 Edge, face "Heavily Armored" (Success → Conflict)
-  - **Trade Edge:** Roll base pool, negate "Heavily Armored" (Success stays Success)
-
-**Design Note:** This creates before-roll tactical decisions. High Edge + high Complications = interesting resource allocation puzzle.
+**Cap:** Maximum ±3 Edge/Bane per roll.
 
 ---
 
-## System-Specific Implementation
+## Resolution Mechanics
 
-All three resolution systems use the same Trait/Complication framework. The difference is in how Edge/Bane modify rolls.
-
-### Xd6 Count-Successes
-
-**Edge:** +1d to pool (cap +3d)  
-**Bane:** -1d from pool (cap -3d)  
-**Minimum pool:** 1d6
-
-**Edge Trading:** Before rolling, trade Edge 1:1 to negate Complications
-
-**Example:** 3d6, roll [5, 5, 4] = 2 successes = Success
-- 1 uncanceled Complication → Success becomes Conflict
-- With relevant Trait on Conflict → Choose Critical Effect (e.g., Greater Effect marks 2 ticks despite Conflict)
-
----
-
-### Forged in the Dark
+**Dice Pool:** Xd6 (Approach + Edge - Bane)
 
 **Edge:** +1d to pool (cap +3d)  
 **Bane:** -1d from pool (cap -3d)  
 **Minimum pool:** Roll 2d6, take lowest
 
-**Edge Trading:** Before rolling, trade Edge 1:1 to negate Complications
+**Outcome (highest die matters):**
+- All 1-3: Setback
+- Any 4-5: Conflict
+- Any 6: Success
+- Two+ 6s: Triumph
 
 **Example:** 3d6, roll [6, 4, 2] = Success (highest is 6)
 - 1 uncanceled Complication → Success becomes Conflict
-- With relevant Trait on Conflict → Choose Critical Effect (e.g., Greater Effect marks 2 ticks despite Conflict)
+- If you used Trait with Greater Effect → Mark 2 ticks despite Conflict
 
----
-
-### 2d10+Modifier
-
-**Edge:**  
-- 1 Edge: Roll 3d10, drop lowest
-- 2 Edge: Roll 4d10, drop 2 lowest
-- 3 Edge: Roll 5d10, drop 3 lowest (cap)
-
-**Bane:**  
-- 1 Bane: Roll 3d10, drop highest
-- 2 Bane: Roll 4d10, drop 2 highest
-- 3 Bane: Roll 5d10, drop 3 highest (cap)
-
-**Edge Trading:** Before rolling, trade Edge 1:1 to negate Complications
-
-**Thresholds:** ≤10 Setback, 11-15 Conflict, 16-20 Success, 21+ Triumph
-
-**Example:** Roll [12, 8] + 3 = 15 total = Conflict
-- With relevant Trait on Conflict → Choose Critical Effect (e.g., Greater Effect marks 2 ticks despite Conflict)
+See [resolution.md](resolution.md) for complete dice mechanics and probability tables.
 
 ---
 
@@ -470,7 +394,7 @@ All three resolution systems use the same Trait/Complication framework. The diff
 - **2 Traits:** Elite opposition with layered defenses
 - **3+ Traits:** Boss-tier opposition requiring team coordination
 
-**Balance:** More Traits = more teamwork required. 2+ Complications means you need Opportunities from allies or Triumph to succeed cleanly.
+**Balance:** More Traits = more teamwork required. 2+ Complications means PCs need allies to Create Opportunities (grant Edge or negate Complications) or roll Triumph to succeed cleanly.
 
 ---
 
@@ -478,19 +402,15 @@ All three resolution systems use the same Trait/Complication framework. The diff
 
 **Always telegraph before the roll:**
 
-> **GM:** "The Armored Knight is Tier 2 with 'Heavily Armored' and 'Shielded'—that's 2 Complications. If you roll Success without any Opportunities, it'll drop to Setback. Do you have any Opportunities saved up?"
+> **GM:** "The Armored Knight is Tier 2 with 'Heavily Armored' and 'Shielded'—that's 2 Complications. If you roll Success, it'll drop to Setback. Anyone have Traits that could help?"
 
-> **Player:** "No, but maybe Alice can create one for me?"
+> **Player:** "I don't have a relevant Trait for this attack."
 
-> **Alice:** "I rolled Success on my Sense check. I'll use my Trait to Create an Opportunity for you—I spot a gap in his armor!"
+> **Alice:** "I could use my 'Tactical Genius' Trait on my Sense check to Create an Opportunity—negate one of his Complications for your next attack."
 
-> **Player:** "Perfect! Now I roll with 1 Opportunity."
+> **GM:** "That would help! Alice, go ahead."
 
-> **Player rolls Success**
-
-> **GM:** "Okay, you have 1 Opportunity and he has 2 Complications. Net result: -1 Complication. Success becomes Conflict. You mark 1 tick but take 2 Stress as he counters."
-
-**Clear communication about Complications and Opportunities creates tactical teamwork. Players coordinate who creates Opportunities for whom.**
+**Clear communication about Complications creates tactical teamwork. Players coordinate who helps whom.**
 
 ---
 
@@ -515,52 +435,46 @@ Encourage players to coordinate and leverage the three tactical layers:
 **Edge/Bane Layer (Probability):**
 - **Position tactically** (flanking, high ground, cover) → grants Edge
 - **Quick Assist** → Mark Stress to grant ally Edge
-- **Spend Momentum** → Gain Edge before rolling
+- **Act with Potency** → Spend Momentum for Edge + ignore Complication
 - **Edge improves your roll** but doesn't negate Complications
 
-**Opportunity/Complication Layer (Outcome Shifting):**
-- **Create Opportunity** (Critical Effect) → Grant ally +1 tier on their next action
-- **Coordinate** → Chain Opportunities to overcome heavily defended targets
-- **Opportunities cancel Complications** 1:1
+**Complication Layer (Outcome):**
+- **Create Opportunity** (Special Effect from Trait) → Grant ally 1 Edge OR negate 1 Complication
+- **Coordinate** → Use Traits to set up allies against heavily defended targets
+- **Triumph** → Ignores all Complications automatically
 
 **Trait Layer (Effects):**
-- **Invoke relevant Traits** → Gain Critical Effect after rolling (on Conflict+)
-- **Choose Critical Effect wisely** → Greater Effect for ticks, Secondary Effect for bonus, Create Opportunity for teamwork
+- **Invoke Trait** → Gain Special Effect on Conflict+ (after rolling)
+- **Choose Special Effect wisely** → Greater Effect for doubled progress, Secondary Effect for bonus consequence, Create Opportunity for teamwork
 
-**Reward teamwork!** Heavily defended enemies (2+ Complications) require allies creating Opportunities or rolling Triumph. Solo players struggle; coordinated teams thrive.
+**Reward teamwork!** Heavily defended enemies (2+ Complications) require allies to Create Opportunities or rolling Triumph. Solo players struggle; coordinated teams thrive.
 
 ---
 
 ## Quick Reference
 
 ### Traits
-**When relevant Trait applies (after rolling):**
-- **On Conflict or Success:** Choose one Critical Effect
-- **On Triumph:** Choose two Critical Effects
+**When Trait is narratively relevant (after rolling):**
+- **On Conflict or Success:** Choose one Special Effect
+- **On Triumph:** Choose one Special Effect (still gain Momentum + ignore Complications)
 - **On Setback:** Cannot invoke Trait
 
-### Critical Effects (choose one, or two on Triumph)
-1. **Greater Effect** — Mark 2 ticks, ask 6 questions, gain 4 Edge (the first time you use it)
+### Special Effects (choose one when invoking Trait)
+1. **Greater Effect** — Mark 2 ticks, ask 6 questions, or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. **Create an Opportunity** — Grant ally 1 Opportunity (improves their outcome by +1 tier on next related action)
-
-### Opportunities
-- Improve outcome by +1 tier (Setback → Conflict → Success → Triumph)
-- Cap: 1 per action (additional wasted)
-- Sources: Create Opportunity (Critical Effect), Talents, exceptional setup
-- Cancel with Complications 1:1
+3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for next action
 
 ### Complications
 - Reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
 - Unlimited stacking (most enemies have 0-2)
 - Sources: Challenge Traits, environmental hazards
-- Negate with: Opportunities (cancel 1:1), Talents (auto-negate specific), Triumph (ignores all)
+- Negate with: Create Opportunity (grant Edge or negate Complication), Talents (auto-negate specific), Triumph (ignores all)
 
 ### Edge & Bane
 - Edge: +1d to pool (cap ±3), improves roll probability
 - Bane: -1d from pool (cap ±3), worsens roll probability
 - Cancel 1:1
-- Separate system from Opportunities/Complications
+- Separate system from Complications
 
 ### Challenge Tier
 - **Tier 1:** 1 Stress or minor consequence on Setback/Conflict
@@ -568,6 +482,8 @@ Encourage players to coordinate and leverage the three tactical layers:
 - **Tier 3:** 3 Stress or severe consequence on Setback/Conflict
 
 ### Action Core Functions
-- **Defy/Clash/Talk:** Mark 1 tick on track (Success/Conflict), or resolve immediately if simple
-- **Sense:** Ask 2 questions (Success), 1 question (Conflict)
-- **Know:** GM tells you useful info + gain 1 Edge the first time you roll when acting on that information (Success)
+- **Defy (Overcome):** Mark 1 tick on Obstacle track (Success/Conflict), or automatically overcome simple tasks
+- **Clash (Harm):** Mark 1 tick on Harm track (Success/Conflict), or outright defeat weaker foes
+- **Talk (Influence):** Mark 1 tick on Accord track (Success/Conflict), or outright convince lesser creatures
+- **Sense (Assess):** Ask 2 questions (Success), 1 question (Conflict)
+- **Know (Recall):** GM tells you something useful (Success)

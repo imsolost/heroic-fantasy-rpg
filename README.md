@@ -1,24 +1,26 @@
 # Heroic Fantasy RPG
 
-A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse games (Masks, Thirsty Sword Lesbians, Chasing Adventure) and Grimwild.
+A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse games (Masks, Thirsty Sword Lesbians, Chasing Adventure) and Forged in the Dark.
 
 ## Core Design Principles
 
 - **Fiction-first:** Actions flow from narrative, not mechanical lists
-- **Simple core functions:** Each action does ONE thing clearly
-- **Informed tactical decisions:** Choose Trait options after seeing roll results
-- **Flexible resolution:** Support for three dice systems (Xd6, FitD, 2d10)
-- **Track-based progression:** Extended conflicts use progress clocks (1/2/3/6/10 ticks)
+- **Simple core functions:** Each action does ONE thing clearly (Primary Effects)
+- **Traits provide options:** Free Special Effects on Conflict+ when narratively relevant
+- **Dice pool resolution:** Highest-die method (Forged in the Dark inspired)
+- **Track-based progression:** Extended conflicts use progress clocks
 
 ## System Overview
 
 ### Five Actions (What You Do)
 
-1. **Defy** — Overcome obstacles, resist danger, defend against threats
-2. **Clash** — Fight and inflict harm
-3. **Talk** — Influence, persuade, deceive, intimidate
-4. **Sense** — Assess situations, ask questions about the present
-5. **Know** — Recall lore, apply expertise, gain tactical advantage
+Each Action has a **Primary Effect**:
+
+1. **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks (dodge attacks, leap chasms, pick locks)
+2. **Clash → Harm** — Mark Harm track or outright defeat weaker foes (physical or mental harm)
+3. **Talk → Influence** — Mark Accord track or outright convince lesser creatures (persuade, deceive, intimidate)
+4. **Sense → Assess** — Ask specific questions (2 on Success, 1 on Conflict)
+5. **Know → Recall** — GM tells you something useful
 
 ### Five Approaches (How You Act)
 
@@ -28,62 +30,78 @@ A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse 
 - **Cunning** — Clever, deceptive, analytical
 - **Spirit** — Focused, tenacious, willful
 
+**Starting Array:** 3/2/1/0/0 (assign as desired)
+
 ### Four Outcomes
 
-- **Setback** — Failure with consequences
-- **Conflict** — Partial success with cost
-- **Success** — Clean success
-- **Triumph** — Heroic success with bonus (gain Momentum, choose Critical Bonus)
+Roll Xd6, check highest die (and look for double 6s):
 
-### Traits (Narrative Descriptors)
+- **Setback** (all 1-3) — Failure with consequences
+- **Conflict** (any 4-5) — Partial success with cost
+- **Success** (any 6) — Clean success
+- **Triumph** (two+ 6s) — Heroic success (gain Momentum, ignore Complications)
 
-When relevant, invoke a Trait after rolling to choose:
-- **Greater Impact** — Double your effect
-- **Negate Complication** — Cancel one Challenge Trait
+### Traits (Special Effects)
+
+When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
+- **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions, or provide significantly more information
+- **Secondary Effect** — Take Something, Inflict Condition, Affect Multiple Targets, etc.
+- **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
 ### Momentum (Metacurrency)
 
 Spend for tactical advantages:
-- Gain Edge (before roll)
-- Act with Potency (heroic feats)
-- Negate Complications (after roll)
-- Resist Consequences (roll to reduce harm)
+- **Act with Potency (1 Momentum)** — Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
+- **Resist Consequence (1 Momentum)** — Roll to reduce/avoid Stress or Condition
+
+**Momentum Cap:** 2 (can be increased to 3 with Talent)
+
+### Opportunities & Complications
+
+**Create an Opportunity** (Special Effect from Trait)
+- Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+- Source: Special Effect when invoking Trait on Conflict+
+
+**Complications** reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
+- Unlimited stacking
+- Source: Challenge Traits (enemy defenses)
+- Negate with: Create an Opportunity (grant 1 Edge or negate 1 Complication), Act with Potency, Talents
+
+**Triumph ignores all Complications.**
 
 ## Documents
 
 ### Core Rules
-- [core-foundations.md](core-foundations.md) — System-agnostic mechanics shared across all resolution systems
-- [action-roll.md](action-roll.md) — Complete Action Roll procedures, Triumph framework, track types
-- [traits-complications-challenges.md](traits-complications-challenges.md) — Trait options, Complications, Challenge design
-
-### Resolution Systems (Choose One)
-- [resolution-Xd6.md](resolution-Xd6.md) — Count-successes dice pool (5-6 = success)
-- [resolution-fitd.md](resolution-fitd.md) — Forged in the Dark (highest die + double 6s)
-- [resolution-2d10.md](resolution-2d10.md) — 2d10 + modifiers vs thresholds
+- [core-foundations.md](core-foundations.md) — Foundational mechanics: Actions, Approaches, Momentum, Stress, Talents
+- [resolution.md](resolution.md) — Dice mechanics, probability tables, advancement structure
+- [action-roll.md](action-roll.md) — Complete Action Roll procedures, track types, outcome resolution
+- [traits-complications-challenges.md](traits-complications-challenges.md) — Trait mechanics, Opportunities, Complications, Challenge design
 
 ### Additional Resources
 - [gm-guidance.md](gm-guidance.md) — Running the game, setting difficulty, adjudicating outcomes
 - [combat-design.md](combat-design.md) — Combat flow, enemy design, tactical considerations
 - [design-doc-v1.md](design-doc-v1.md) — Original design document and evolution
 
+### Archived Systems
+- [old-ideas/](old-ideas/) — Alternative resolution systems (2d10, Xd6 count-successes)
+
 ## Quick Start
 
-1. Choose your resolution system (Xd6, FitD, or 2d10)
-2. Read [core-foundations.md](core-foundations.md) for shared mechanics
-3. Read your chosen resolution system file for specific dice rules
-4. Review [action-roll.md](action-roll.md) for complete Action Roll procedures
-5. Check [traits-complications-challenges.md](traits-complications-challenges.md) for Trait options and Challenge design
+1. Read [core-foundations.md](core-foundations.md) for shared mechanics
+2. Read [resolution.md](resolution.md) for dice mechanics and probability
+3. Review [action-roll.md](action-roll.md) for complete Action Roll procedures
+4. Check [traits-complications-challenges.md](traits-complications-challenges.md) for Trait mechanics and Challenge design
 
 ## Current Status
 
 **Active Development** — Core mechanics finalized, playtesting in progress
 
 Latest updates:
-- Simplified Trait system to binary choice (Greater Impact / Negate Complication)
-- Unified Triumph framework with flexible Secondary Effects
-- Reduced track sizes (1/2/3/6/10) for faster resolution
-- Clarified Know action Edge timing (first use only)
-- Added GM guidance for adjudicating Secondary Effects
+- Trait system now provides free Special Effects on Conflict+ when narratively relevant
+- Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
+- Create an Opportunity grants 1 Edge OR negates 1 Complication (flexible choice)
+- Locked in FitD highest-die resolution method
+- Complications system for tier shifting (Challenge Traits impose defensive penalties)
 
 ## License
 

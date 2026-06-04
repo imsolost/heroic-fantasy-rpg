@@ -1,6 +1,6 @@
-# Resolution System: Forged in the Dark Dice Pool
+# Resolution System
 
-**System Type:** Highest-die dice pool (Forged in the Dark method)
+**Dice Pool Method:** Highest-die (Forged in the Dark inspired)
 
 For shared foundational mechanics (Actions, Approaches, Momentum, Stress, Talents), see [core-foundations.md](core-foundations.md).
 
@@ -10,7 +10,7 @@ For shared foundational mechanics (Actions, Approaches, Momentum, Stress, Talent
 
 **Roll Xd6, check the highest single die result (and look for double 6s).**
 
-Your dice pool = Approach rating + modifiers (Traits, Edge/Bane, Talents, Momentum boosts).
+Your dice pool = Approach rating + Edge - Bane
 
 ### Difficulty & Edge/Bane
 
@@ -37,11 +37,11 @@ Check your dice results:
 - **All 1-3:** Setback — Things go wrong, situation worsens
 - **Any 4-5:** Conflict — Partial success with cost, consequence, or lesser effect
 - **Any 6:** Success — You accomplish your intent cleanly
-- **Two or more 6s:** Triumph — Success with added benefit (earn 1 Momentum + choose one from Triumph menu in [core-foundations.md](core-foundations.md#triumph-menu))
+- **Two or more 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications
 
 **Key Principle:** Only the highest single die matters (except for double 6s triggering Triumph).
 
-**Design Note:** This method feels faster and more forgiving than count-successes. Failures become rare past 3d6 (12.4% at 3d6, 6.2% at 4d6), creating a competent-hero feel from the start. However, Triumph rates cap around 33% even at large pools because you need double 6s.
+**Design Note:** This method feels fast and forgiving. Setbacks become rare past 3d6 (12.4% at 3d6, 6.2% at 4d6), creating a competent-hero feel from the start.
 
 ---
 
@@ -53,20 +53,29 @@ Check your dice results:
 
 **Your dice pool starts with your Approach rating.**
 
-**Note:** Starting array has been adjusted because Traits no longer grant passive +1d. See [traits-complications-challenges.md](traits-complications-challenges.md) for the new Trait tactical menu system.
+**The Five Approaches:**
+- **Daring** — Bold, direct, forceful action
+- **Grace** — Agile, precise, elegant action
+- **Charm** — Warm, personable, likable action
+- **Cunning** — Clever, indirect, calculating action
+- **Spirit** — Willful, passionate, determined action
 
 ---
 
 ## Traits
 
-**Traits grant Critical Effects when relevant.**
+**Traits provide Special Effects when narratively relevant.**
 
-When a Trait is narratively relevant to your action, you may invoke it after rolling:
-- **On Conflict or Success:** Choose one Critical Effect
-- **On Triumph:** Choose two Critical Effects
-- **On Setback:** Cannot invoke Trait
+When a Trait is narratively relevant to your action and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
+- **Timing:** After rolling, when determining final outcome
+- **If Conflict or higher:** Gain one Special Effect (Greater Effect, Secondary Effect, or Create Opportunity)
+- **If Setback:** Cannot invoke Trait (you failed)
+- **If Triumph:** You gain Momentum + ignore Complications + may invoke Trait for one Special Effect
 
-**Critical Effects:** Greater Effect, Secondary Effect, Create an Opportunity
+**Special Effects:**
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), or provide significantly more information
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
+3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
 **See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
 
@@ -74,7 +83,7 @@ When a Trait is narratively relevant to your action, you may invoke it after rol
 
 ## Edge & Bane
 
-Edge and Bane represent advantage and disadvantage in this system.
+Edge and Bane represent advantage and disadvantage.
 
 **Edge (Advantage):**
 - **1 Edge:** +1d to your pool
@@ -92,7 +101,7 @@ Edge and Bane represent advantage and disadvantage in this system.
 
 **Cancellation:** Edge and Bane cancel 1:1
 
-**Design Note:** Edge/Bane affect **probability** (dice rolls). For outcome quality, use Opportunities/Complications (tier shifts). See [traits-complications-challenges.md](traits-complications-challenges.md).
+**Design Note:** Edge/Bane affect **probability** (dice rolls). For outcome quality after rolling, Complications reduce tier. Negate Complications with Create an Opportunity, Act with Potency, or Talents. See [traits-complications-challenges.md](traits-complications-challenges.md).
 
 ---
 
@@ -105,15 +114,17 @@ Edge and Bane represent advantage and disadvantage in this system.
 | **Severe** | -3d to relevant rolls, fictional restrictions |
 | **Critical** | Cannot act in specific ways, may force Taken Out |
 
-**Note:** Severe Conditions exceed the normal ±2d Edge/Bane cap to represent truly debilitating injuries.
+**Note:** Severe Conditions exceed the normal ±3d Edge/Bane cap to represent truly debilitating injuries.
 
 ---
 
-## Momentum Spends (FitD Effects)
+## Momentum
 
-**Gain an Edge (1 Momentum):** Add 1 Edge (+1d) to YOUR upcoming roll (before rolling).
+**Momentum Cap:** 2 (can be increased to 3 with specific Talent)
 
-**Act with Potency (2 Momentum):** Gain Potency on this roll. Remove all Banes imposed by task difficulty (keep Banes from other sources like injuries, Conditions, environment). Attempt the impossible and achieve enhanced effects.
+### Momentum Spends
+
+**Act with Potency (1 Momentum):** Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats (group actions, stretching limits, mystical feats).
 
 See [core-foundations.md](core-foundations.md#momentum-single-currency) for full Momentum spending options.
 
@@ -121,7 +132,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 ## Probability Tables
 
-### Expected Outcomes (Highest die matters + double 6s)
+### Expected Outcomes (Highest die + double 6s)
 
 | Pool Size | Setback % | Conflict % | Success % | Triumph % |
 |-----------|-----------|------------|-----------|-----------|
@@ -133,19 +144,19 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 | 6d6 | 1.6% | 31.9% | 40.2% | 26.3% |
 | 7d6 | 0.8% | 27.1% | 39.0% | 33.1% |
 
-**Starting Character (Approach 2 + Trait = 3d6):**
+**Starting Character (Approach 3 = 3d6 base):**
 - 12.4% Setback, 45.5% Conflict, 34.7% Success, 7.3% Triumph
 - Competent with low setback rate from the start
 
-**Experienced Character (Approach 3 + Trait = 4d6):**
+**Experienced Character (Approach 4 = 4d6 base):**
 - 6.2% Setback, 42.0% Conflict, 38.5% Success, 13.3% Triumph
 - Reliable with setbacks becoming rare
 
-**Heroic Character (Approach 4 + Trait = 5d6):**
+**Heroic Character (Approach 5 = 5d6 base):**
 - 3.1% Setback, 37.0% Conflict, 40.3% Success, 19.6% Triumph
 - Success tier most common, setbacks very rare
 
-**Legendary Character (Approach 4 + Trait + 2 Edges = 7d6):**
+**Legendary Character (Approach 5 + 2 Edges = 7d6):**
 - 0.8% Setback, 27.1% Conflict, 39.0% Success, 33.1% Triumph
 - Success/Triumph combined = 72%, catastrophic setback nearly impossible
 
@@ -158,46 +169,33 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 ## Advancement Structure
 
-**Starting Power Level:** 3d6 typical pool (Approach 2 + Trait)
-- Competent with 12.4% setback rate (much lower than count-successes)
+**Starting Power Level:** 3d6 typical pool (Approach 3)
+- Competent baseline: 12.4% setback rate
 
 **Tier 1 (Early Game):** 3d6 → 4d6 progression
-- Increase Approach 2 → 3, gain situational Talents
+- Increase Approach 3 → 4, gain situational Talents
 - Target: 4d6 pools (6.2% setback, 13.3% Triumph)
 
 **Tier 2 (Mid Game):** 4d6 → 5d6 progression
-- Increase Approach 3 → 4, gain more Talents
+- Increase Approach 4 → 5, gain more Talents
 - Target: 5d6 pools (3.1% setback, 19.6% Triumph)
 
 **Tier 3 (Heroic Tier):** 5d6 → 6d6+ progression
 - Stack multiple Edge sources, powerful Talents
-- Unlock Trait Invocation mechanics
 - Target: 6-7d6 pools (1.6-0.8% setback, 26-33% Triumph)
 
 **Maximum Recommended Pool:** 7d6 (represents legendary heroes, Triumph caps around 33%)
 
 ---
 
-## Design Notes
+## Design Principles
 
-**Why Forged in the Dark Method?**
-- **Faster resolution:** Look for highest die (and double 6s), no counting needed
-- **More forgiving:** Low setback rates (12.4% at 3d6 vs 29.6% in count-successes)
-- **Competent-hero feel:** Characters feel capable from the start
-- **Easier to assess:** Glance at dice, see highest result
-- **Success-heavy gameplay:** Success tier (38-40%) is most common at higher pools
-
-**Trade-offs:**
-- **Triumph caps at ~33%** (requires double 6s, diminishing returns past 6d6)
-- **Weaker Momentum economy at high tiers** (compared to count-successes which reaches 43% Triumph)
-- **Less dramatic variance** (outcomes more predictable, fewer extreme swings)
-
-**When to Use This System:**
-Choose FitD over count-successes if you want:
-- Starting characters to feel competent (not struggling)
-- Faster resolution (no counting multiple dice)
-- More forgiving gameplay (setbacks rare past 3d6)
-- Success-focused narrative (40% Success tier feels reliable)
+**Why This System?**
+- **Fast resolution:** Look for highest die (and double 6s), no counting needed
+- **Competent heroes:** Low setback rates (12.4% at 3d6) create capable characters from the start
+- **Easier to assess:** Glance at dice, see highest result immediately
+- **Success-focused:** Success tier (38-40%) is most common at higher pools
+- **Traits provide options:** Free Special Effects on Conflict+ when narratively relevant
 
 **Advancement Feel:**
 - 3d6 → 4d6 is transformative (setback drops from 12.4% to 6.2%)
@@ -208,39 +206,43 @@ Choose FitD over count-successes if you want:
 
 ## Quick Reference
 
-**Roll pool, check highest die (and look for double 6s)**
+**Roll Xd6, check highest die (and look for double 6s)**
 
 **Typical Starting Roll:** 3d6 (Approach 3)
 - All 1-3 = Setback (12.4%)
 - Any 4-5 = Conflict (45.5%)
 - Any 6 = Success (34.7%)
-- Two+ 6s = Triumph (7.3%, gain 1 Momentum + ignore all Complications + choose Critical Bonus)
+- Two+ 6s = Triumph (7.3%, gain 1 Momentum + ignore all Complications)
 
-**Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) before rolling
+**Act with Potency (1 Momentum):** Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
 
 **Using a Trait (after rolling):**
-- **Conflict or Success:** Choose one Critical Effect
-- **Triumph:** Choose two Critical Effects
+- When narratively relevant and outcome is Conflict+: Invoke for Special Effect
+- If Setback: Cannot invoke Trait (you failed)
 
-**Critical Effects:**
-1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
-2. Secondary Effect (Take Something, Inflict Condition, etc.)
-3. Create an Opportunity (grant ally 1 Opportunity = +1 tier on their next action)
+**Special Effects:**
+1. Greater Effect (mark 2 ticks, ask 6 questions, or provide significantly more information)
+2. Secondary Effect (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
+3. Create an Opportunity (grant yourself or ally 1 Edge OR negate 1 Complication for next action)
 
-**Opportunities & Complications:**
-- **Opportunity:** +1 tier (Setback → Conflict → Success → Triumph), cap 1 per action
+**Complications:**
 - **Complication:** -1 tier (Triumph → Success → Conflict → Setback → Taken Out), unlimited
-- Cancel 1:1 before applying tier shifts
-- Source: Opportunities from Create Opportunity, Complications from Challenge Traits
+- Source: Challenge Traits (enemy defenses)
+- Negate with: Create an Opportunity (grant 1 Edge OR negate 1 Complication), Act with Potency (ignore 1), Talents
+- Triumph ignores all Complications
 
-**Action Core Functions:**
-- Defy/Clash/Talk: Mark 1 tick on track (Success/Conflict)
-- Sense: Ask 2 questions (Success), 1 question (Conflict)
-- Know: GM tells you info + gain 1 Edge the first time you roll when acting on that information (Success)
+**Action Primary Effects:**
+- Defy → Overcome: Mark Obstacle track or automatically overcome simple tasks
+- Clash → Harm: Mark Harm track or outright defeat weaker foes
+- Talk → Influence: Mark Accord track or outright convince lesser creatures
+- Sense → Assess: Ask 2 questions (Success), 1 question (Conflict)
+- Know → Recall: GM tells you something useful (Success)
 
 **Easy Tasks:** Grant 1 Edge (+1d)
 
 **Hard Tasks:** Impose 1 Bane (-1d)
+
+**Very Hard Tasks:** Impose 2 Banes (-2d)
 
 **Edge/Bane:** Cap ±3d, cancel 1:1, affect probability (not outcomes)
 

@@ -29,11 +29,10 @@ The Player describes what they want to accomplish and how they're going to do it
 - **What do you want to accomplish?** (Your goal)
 - **Which Action are you using?** (Defy, Clash, Talk, Sense, Know)
 - **Which Approach describes how?** (Daring, Grace, Charm, Cunning, Spirit)
-- **Are you invoking a relevant Trait?** (Optional, if narratively relevant)
 - **Any Talents, gear, or positioning that applies?** (Describe your advantages)
 
 **Example:**
-> "I want to get past the guard without being noticed. I'm using Defy (act under pressure) with Cunning (stealthy approach). I have my 'Shadow of the Thieves Guild' Trait, and I'm wearing dark clothing in dim light."
+> "I want to get past the guard without being noticed. I'm using Defy (act under pressure) with Cunning (stealthy approach). I'm wearing dark clothing in dim light."
 
 There is no "wrong" Approach to a situation, but some may be less effective or result in more severe consequences. The GM may prompt you to rethink your approach to improve your position.
 
@@ -67,62 +66,71 @@ The GM evaluates the situation and communicates the stakes clearly:
 - Any additional Bane from injuries, Conditions, environment?
 
 **Example:**
-> **GM:** "This is a simple task—one roll to get past. It's Hard (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no special Traits. Your dark clothing gives you 1 Edge, which cancels the Bane from the light."
+> **GM:** "This is a simple task—one roll to get past. It's Hard (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Edge, which cancels the Bane from the difficulty."
 
 **Key Principle:** Players should know the stakes before they roll. No surprise consequences.
 
 ---
 
-### 3. Player Rolls
+### 3. Calculate Edge and Bane
 
-Roll dice using your resolution system (Xd6, FitD, or 2d10+Modifier). See raw outcome:
+Calculate your final dice pool: **Approach rating + Edge - Bane**
 
-- **Setback** — Things go wrong, situation worsens
-- **Conflict** — Partial success with cost, consequence, or lesser effect
-- **Success** — You accomplish your intent cleanly
-- **Triumph** — You accomplish your intent fully, gain 1 Momentum, ignore all Complications
+**Edge sources:** Easy tasks, Act with Potency, Talents, ally assists, positioning, Create an Opportunity
 
-See your chosen resolution system for specific mechanics.
+**Bane sources:** Hard tasks, Conditions, hostile environment, poor positioning
+
+See [core-foundations.md](core-foundations.md#edge--bane) for complete list of sources.
 
 ---
 
-### 4. Player Chooses (Trait & Momentum)
+### 4. Player Rolls
 
-**If you invoked a Trait,** choose one option after seeing your roll:
+Roll Xd6 dice pool (Approach + Edge - Bane). Check the highest single die (and look for double 6s):
 
-1. **Greater Impact** — Double your effect (applies on Conflict or Success, and on Triumph Critical Bonus)
-   - Success/Conflict: Mark 2 ticks instead of 1, ask 4 questions instead of 2, gain 2 Edge instead of 1
-   - Triumph Critical Bonus: Mark 4 ticks (Greater Effect), affect 2 targets (Secondary Effect), grant 2 Edge (Create Opportunity)
-   - Does not apply on Setback
+- **All 1-3:** Setback — Things go wrong, situation worsens
+- **Any 4-5:** Conflict — Partial success with cost, consequence, or lesser effect
+- **Any 6:** Success — You accomplish your intent cleanly
+- **Two+ 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications
 
-2. **Negate a Complication** — Cancel one Complication imposed by a Challenge Trait (applies on any outcome)
+See [resolution.md](resolution.md) for complete dice mechanics and probability tables.
 
-**If you have Momentum,** you can also spend it:
-- **Negate a Complication (1 Momentum):** Cancel one additional Complication (stacks with Trait option)
-- Note: "Gain an Edge" must be spent before rolling
+---
+
+### 5. Apply Opportunities & Complications
+
+**Before final outcome is determined:**
+
+1. **Check for Opportunities** (from ally's prior Create Opportunity or other sources)
+2. **Check for Complications** (from Challenge Traits)
+3. **Apply Complications:**
+   - Each Complication reduces outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
+4. **Triumph ignores all Complications** (cannot be reduced)
 
 **Example:**
-> **Player rolls Success.** Knight has "Heavily Armored" (1 Complication), which would reduce Success → Conflict.
->
-> **Option A:** Use Trait to Negate armor (Success stays Success, mark 1 tick cleanly)
-> **Option B:** Accept Conflict, use Trait for Greater Impact (Conflict, mark 2 ticks, take consequences)
+- Raw roll: Success
+- Enemy has: "Heavily Armored" (1 Complication)
+- Apply Complication: Success - 1 tier = **Conflict**
+- If ally used Create an Opportunity to negate the Complication: Success stays **Success**
 
 ---
 
-### 5. Apply Complications
+### 6. Invoke Trait for Special Effect (If Relevant)
 
-Each uncanceled Complication reduces your outcome by one tier:
+**If a Trait is narratively relevant AND your final outcome is Conflict or higher:**
 
-**Triumph** → Success → Conflict → Setback → **Taken Out**
+You may invoke your Trait to gain one Special Effect:
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), or provide significantly more information
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
+3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
-- **Triumph cannot be reduced** (ignores all Complications)
-- Reducing below Setback means you are Taken Out (unconscious, captured, defeated, overwhelmed)
+**If your final outcome is Setback:** Cannot invoke Trait (you failed).
 
-See [traits-complications-challenges.md](traits-complications-challenges.md) for full Complication rules.
+**If you achieved Triumph:** You gain Momentum + ignore Complications + may invoke Trait for one Special Effect.
 
 ---
 
-### 6. Resolve Final Outcome
+### 7. Resolve Final Outcome
 
 #### Setback
 **Things go wrong. Situation worsens.**
@@ -169,33 +177,29 @@ Choose an effect from the Effect Menu (see below). No consequences unless the fi
 - Choose an effect from the Effect Menu
 - Gain 1 Momentum
 - Ignore all Complications (cannot be reduced)
-- Choose one bonus from Triumph Menu:
-  - You don't take any Stress you would have taken
-  - Create a lasting advantage (1 Edge for allies in this scene)
-  - Act again immediately (setup for ally's action)
-  - Gain crucial information or insight
-  - Improve your position dramatically
-
-See [core-foundations.md](core-foundations.md#triumph-menu) for full Triumph Menu.
+- If a Trait is narratively relevant, you may invoke it for one Special Effect
 
 ---
 
-## Triumph Critical Bonus
+## Triumph Benefits
 
-When you achieve **Triumph**, you succeed completely, gain 1 Momentum, and **choose one Critical Bonus:**
+When you achieve **Triumph**, you succeed completely and gain:
+- **1 Momentum**
+- **Ignore all Complications** (your outcome cannot be reduced by Complications)
+- **If a Trait is narratively relevant:** You may invoke it for one Special Effect
 
-### 1. Greater Effect
-Accomplish significantly more than a standard success:
-- **Mark 2 ticks** on a track (instead of 1)
-- **Sense:** Ask 3 additional questions (6 total)
-- **Know:** Gain 2 additional Edge (4 total)
+**Trait Special Effects:**
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), or provide significantly more information
+2. **Secondary Effect** — Produce additional consequence (see examples below)
+3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
-With **Greater Impact (Trait):** This doubles to **4 ticks**, ask 9 questions total, or gain 4 additional Edge
+---
 
-### 2. Secondary Effect
-Produce an additional consequence that makes sense in the fiction. Work with the GM to determine what's appropriate.
+### Secondary Effects Examples
 
-**Examples of Secondary Effects:**
+When you choose Secondary Effect (from Trait invocation), produce an additional consequence that makes sense in the fiction:
+
+**Examples:**
 - **Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum (physical or conceptual)
 - **Affect Multiple Targets** — Your action impacts additional targets (strike cuts through enemies, words sway entire group)
 - **Shift Attitude** — Change NPC disposition dramatically (Hostile → Neutral, or even Hostile → Friendly if fiction supports it)
@@ -205,19 +209,17 @@ Produce an additional consequence that makes sense in the fiction. Work with the
 - **Prevent Counterattack** — So decisive they can't respond (you don't take harm on Conflict)
 - **Create Environmental Effect** — Knock over brazier, trigger mechanism, cause distraction
 
-With **Greater Impact (Trait):** The Secondary Effect is magnified (affect 2 targets, escalate severity, or produce more significant consequence)
-
 ---
 
 ### GM Guidance: Adjudicating Secondary Effects
 
-Secondary Effects are intentionally flexible to reward creative play. When a player proposes a Secondary Effect on Triumph, use these principles:
+Secondary Effects are intentionally flexible to reward creative play. When a player proposes a Secondary Effect, use these principles:
 
 **1. Fiction First**
 Does it make sense given what just happened? The Secondary Effect should flow naturally from the action and fiction.
 
-**2. Proportional to Triumph**
-Should feel impactful and heroic but not encounter-ending. A Triumph is a moment of excellence, not a scene-ender by itself.
+**2. Proportional to Success**
+Should feel impactful and heroic but not encounter-ending. A Secondary Effect is a moment of excellence, not a scene-ender by itself.
 
 **3. Scale Matters**
 - **Reasonable:** Affect 2-3 targets, inflict Minor/Moderate Condition, gain significant tactical advantage
@@ -238,26 +240,25 @@ Let players propose Secondary Effects that excite them. Approve when fiction and
 - ✗ "I kill the boss in one hit" (instant defeat without special Talent—too much, suggest inflicting Severe Condition instead)
 - ✗ "I convince the entire city guard" (scale too large without Talent—suggest convincing their captain or small squad)
 
-### 3. Create an Opportunity (Universal)
-Grant an ally (or yourself) advantage on their next related action:
-- **1 Edge** (improves their roll)
-- OR **Negate 1 Complication** (cancels one Challenge Trait for their next action)
-
-With **Greater Impact (Trait):** Grant 2 Edge, OR affect 2 allies, OR grant 1 Edge + negate 1 Complication to same ally
-
 ---
 
 ## Track Types
 
-### Challenge Track
-Progress toward defeating or overcoming something physical:
-- **Used by:** Clash (defeating adversary), Defy (overcoming obstacle/hazard)
-- **Examples:** Enemy health, obstacle complexity, hazard severity
-- **When filled:** Adversary defeated, obstacle overcome, hazard neutralized
+### Harm Track
+Progress toward defeating or destroying an enemy:
+- **Used by:** Clash (inflicting harm)
+- **Examples:** Enemy health, mental resolve, structural integrity
+- **When filled:** Enemy defeated, destroyed, or otherwise neutralized
+
+### Obstacle Track
+Progress toward overcoming a physical or environmental challenge:
+- **Used by:** Defy (overcoming obstacles)
+- **Examples:** Lock complexity, wall height, trap mechanism, hazard severity
+- **When filled:** Obstacle overcome, lock picked, wall climbed, trap disarmed, hazard neutralized
 
 ### Accord Track
 Progress toward building relationship, trust, or social influence:
-- **Used by:** Talk (influencing person/group)
+- **Used by:** Talk (influencing people)
 - **Examples:** NPC attitude, faction standing, negotiation progress
 - **When filled:** They do what you want, become allied, deal is struck
 
@@ -292,12 +293,18 @@ Time pressure or deteriorating situation:
 
 ### When to Use Tracks
 
-**Challenge Track (Clash/Defy):**
-- **Use Track:** Significant adversaries, complex obstacles, extended conflicts
+**Harm Track (Clash):**
+- **Use Track:** Significant adversaries requiring multiple hits
   - Named NPCs, boss enemies, veteran warriors (3-10 ticks)
+  - Dangerous creatures, fortified enemies
+- **Resolve Immediately:** Mooks, minor threats, trivial enemies
+  - Unnamed guards, bandits (Triumph/Success = defeated outright)
+
+**Obstacle Track (Defy):**
+- **Use Track:** Complex obstacles requiring multiple actions
   - Fortified positions, complex mechanisms, dangerous hazards (2-6 ticks)
-- **Resolve Immediately:** Mooks, minor obstacles, simple defense
-  - Unnamed guards, bandits, trivial enemies (Triumph/Success = defeated)
+  - Multi-stage climbs, elaborate trap systems
+- **Resolve Immediately:** Simple obstacles, single-action challenges
   - Simple locks, short leaps, dodging single attacks (Triumph/Success = overcome)
 
 **Accord Track (Talk):**
@@ -322,99 +329,136 @@ Each Action has a core function and specific effects available on Triumph:
 
 #### Defy - Overcome
 
+**Primary Effect: Overcome**
+
+Mark progress on an **Obstacle track** or automatically overcome simple tasks.
+
 **When you act despite an imminent threat, danger, or obstacle—overcome it.**
 
 Use when:
-- Defending against an attack, dodging danger, enduring harm
-- Leaping a chasm, climbing a wall, picking a lock
+- Defending against attacks, dodging danger, enduring harm
+- Leaping chasms, climbing walls, picking locks
 - Resisting pressure, powering through adversity
 - Overcoming any physical or environmental challenge
 
 **Outcomes:**
-- **Triumph:** Overcome successfully + gain 1 Momentum + choose Critical Bonus
-- **Success:** Overcome cleanly (mark 1 tick on Challenge Track if using track, or simply succeed if immediate)
+- **Triumph:** Overcome successfully + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Success:** Overcome cleanly (mark 1 tick on Obstacle track if using track, or automatically succeed if simple task)
 - **Conflict:** Overcome but suffer consequence (mark 1 tick + take Stress/Condition/complication)
 - **Setback:** Fail to overcome, suffer consequence
 
+**Track vs Simple Task:**
+- **Use Track:** Significant obstacles requiring multiple actions (complex locks, fortified positions, dangerous hazards)
+- **Simple Task:** One roll resolves (dodging an attack, leaping a chasm, picking a simple lock)
+
 **Examples:**
-- Knight attacks you → Defy to dodge → Success → You avoid his blade cleanly
-- Leap across chasm → Defy with Grace → Conflict → You make it but twist your ankle (1 Stress)
-- Trap springs → Defy to avoid → Triumph → You dodge AND disable it (choose Greater Effect to mark 2 ticks, or Secondary Effect to Take Something like grab the treasure it was guarding)
+- Knight attacks you → Defy to dodge → Success → You avoid his blade cleanly (simple task, no track)
+- Leap across chasm → Defy with Grace → Success → You make it across (simple task, no track)
+- Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 3-tick Obstacle track + take 1 Stress as mechanism activates
 - Resist interrogation → Defy with Spirit → Success → You give nothing away
 
-**Example Secondary Effects:**
-- Take Something (disarm, seize position, grab object)
-- Change Positioning (knock them down, shove them back)
-- Prevent Counterattack (so decisive they can't respond)
+**Example Special Effects (from Trait):**
+- Greater Effect (mark 2 ticks on Obstacle track instead of 1)
+- Secondary Effect: Take Something (disarm opponent, seize position, grab object mid-dodge)
+- Secondary Effect: Change Positioning (knock them down, shove them back)
+- Create an Opportunity (grant ally advantage from your defensive positioning)
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [core-foundations.md](core-foundations.md#spending-momentum)).
 
 ---
 
-#### Clash - Engage
+#### Clash - Harm
 
-**When you fight or attack—inflict harm.**
+**Primary Effect: Harm**
+
+Mark progress on a **Harm track** or outright defeat weaker foes.
+
+**When you try to hurt someone, whether physically or mentally—inflict harm.**
 
 Use when:
-- Attacking with weapons, fists, or magic
+- Attacking with weapons, fists, or magic (physical harm)
 - Trading blows in combat
-- Directly engaging a physical threat with violence
+- Hurling vicious insults, taunts, or intimidation with intent to wound (mental harm)
+
+**Your Approach determines the fiction:**
+- **Daring/Grace:** Physical harm (sword strikes, arrows, tackles)
+- **Charm/Cunning:** Mental harm (cutting insults, devastating mockery, demoralizing taunts)
+- **Spirit:** Either physical (willpower-fueled attacks) or mental (psychic assault)
+
+**GM Note:** The GM is the final arbiter. Some targets may be immune or resistant to certain types of harm (e.g., attempting to Clash with Charm against a knight with "Code of Honor" might impose Complications or be ruled ineffective).
 
 **Outcomes:**
-- **Triumph:** Success + gain 1 Momentum + choose Critical Bonus
-- **Success:** Mark 1 tick on Challenge Track (deal harm cleanly)
+- **Triumph:** Mark 1 tick + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Success:** Mark 1 tick on Harm track (deal harm cleanly), or outright defeat weak foes
 - **Conflict:** Mark 1 tick but take harm back (based on enemy Tier: 1/2/3 Stress)
 - **Setback:** Mark 0 ticks, take harm (based on enemy Tier)
 
-**Examples:**
-- Strike knight with sword → Success → Mark 1 tick on his Challenge Track
-- Fire arrow at bandit → Conflict → Mark 1 tick but he fires back (take 1 Stress, Tier 1 enemy)
-- Blast mage with fire → Triumph → Choose Greater Effect (mark 2 ticks, nearly defeated)
-- Tackle guard → Triumph → Choose Secondary Effect: Take Something (knock him prone, take his footing)
+**Track vs Outright Defeat:**
+- **Use Track:** Significant enemies requiring multiple hits (named NPCs, boss enemies, veterans)
+- **Outright Defeat:** Success/Triumph defeats immediately (unnamed guards, mooks, trivial enemies)
 
-**Example Secondary Effects:**
-- Take Something (disarm, seize position)
-- Inflict Condition (wound, stun, knock down—severe ones may require Talents)
-- Affect Multiple Targets (cleave through enemies)
-- Prevent Counterattack (strike so decisively you don't take harm on Conflict)
+**Examples:**
+- Strike knight with sword (Daring) → Success → Mark 1 tick on his Harm track (physical damage)
+- Insult bandit's honor (Charm) → Conflict → Mark 1 tick but he retaliates with his own insult (take 1 Stress, mental harm)
+- Blast mage with fire (Spirit) → Triumph → Mark 1 tick + gain 1 Momentum + ignore Complications
+- Use Trait on attack → Triumph → Invoke Trait for Greater Effect (mark 2 ticks total)
+
+**Example Special Effects (from Trait):**
+- Greater Effect (mark 2 ticks on Harm track instead of 1)
+- Secondary Effect: Take Something (disarm, seize position, steal momentum)
+- Secondary Effect: Inflict Condition (wound, stun, demoralize, humiliate)
+- Secondary Effect: Affect Multiple Targets (cleave through enemies, insult entire group)
+- Create an Opportunity (create opening for ally to exploit)
 
 ---
 
 #### Talk - Influence
 
-**When you convince, deceive, intimidate, or charm—sway them.**
+**Primary Effect: Influence**
+
+Mark progress on an **Accord track** or outright convince lesser creatures.
+
+**When you try to convince, threaten, or manipulate someone into doing what you want—sway them.**
 
 Use when:
 - Persuading someone to do something
 - Lying, manipulating, or deceiving
-- Intimidating or threatening
+- Intimidating or threatening (with intent to manipulate, not harm)
 - Charming, seducing, or performing
 - Negotiating a deal or building rapport
 
+**Distinction from Clash:** Talk aims to influence behavior (make them do what you want). Clash aims to inflict harm (wound their pride, break their spirit). If your intent is to hurt, not sway, use Clash instead.
+
 **Outcomes:**
-- **Triumph:** Success + gain 1 Momentum + choose Critical Bonus
-- **Success:** Mark 1 tick on Accord Track (sway them toward your goal)
+- **Triumph:** Mark 1 tick + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Success:** Mark 1 tick on Accord track (sway them toward your goal), or outright convince lesser creatures
 - **Conflict:** Mark 1 tick but with complication (they want something, you reveal something, cost imposed)
 - **Setback:** Mark 0 ticks, they resist or become hostile
 
-**For simple goals (1-2 tick track):** Filling track = they do what you want immediately
-**For complex goals (3-10 tick track):** Filling track = lasting relationship shift, alliance formed, faction standing changed
+**Track vs Outright Convince:**
+- **Use Track:** Complex social goals, hostile NPCs, faction standing (3-10 ticks)
+- **Outright Convince:** Success/Triumph convinces immediately (simple requests, friendly NPCs, trivial social tasks)
 
 **Examples:**
-- Convince guard you're allowed here → Success → Mark 1 tick (he's softening)
-- Intimidate bandits → Triumph → Choose Secondary Effect: Inflict Condition (Intimidated—they flee immediately)
-- Negotiate with merchant → Conflict → Mark 1 tick but he wants a favor in return
-- Charm noble → Triumph → Choose Greater Effect (mark 2 ticks, nearly won over)
+- Convince guard to let you pass → Success → He waves you through (simple task, outright convinced)
+- Negotiate with hostile merchant → Success → Mark 1 tick on 3-tick Accord track (he's warming up)
+- Intimidate bandits into fleeing → Triumph → Mark 1 tick + invoke Trait for Secondary Effect: Inflict Condition (Intimidated—they flee immediately)
+- Charm noble at party → Conflict → Mark 1 tick on Accord track but you reveal something about yourself in the process
 
-**Example Secondary Effects:**
-- Shift Attitude dramatically (Hostile → Neutral or even Friendly if fiction supports)
-- Inflict Social Condition (intimidated, charmed, demoralized, humiliated)
-- Affect Multiple Targets (convince entire group instead of one person)
-- Gain commitment beyond request (they offer additional help)
+**Example Special Effects (from Trait):**
+- Greater Effect (mark 2 ticks on Accord track instead of 1)
+- Secondary Effect: Shift Attitude dramatically (Hostile → Neutral, or Neutral → Friendly)
+- Secondary Effect: Inflict Social Condition (intimidated, charmed, demoralized, humiliated)
+- Secondary Effect: Affect Multiple Targets (convince entire group instead of one person)
+- Create an Opportunity (your words create opening for ally to exploit)
 
 ---
 
 #### Sense - Assess
+
+**Primary Effect: Assess**
+
+Ask specific questions to get useful information.
 
 **When you closely study a person, place, or situation—learn the truth.**
 
@@ -425,37 +469,42 @@ Use when:
 - Understanding what's really happening in the moment
 
 **Outcomes:**
-- **Triumph:** Ask 3 questions + gain 1 Momentum + choose Critical Bonus
+- **Triumph:** Ask 2 questions + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 - **Success:** Ask 2 questions
 - **Conflict:** Ask 1 question
 - **Setback:** No useful information, or you misread the situation
 
 **Possible questions (about the present situation):**
-- What's about to happen?
-- What here is dangerous to me?
-- What here is useful or valuable to me?
-- What are they really feeling or planning right now?
-- What should I be on the lookout for?
-- Who or what is really in control of this situation?
+- What recently happened or is about to happen?
+- How can I ______? (open-ended, player fills in the blank)
+- What seems strange here?
+- Who or what is in charge here?
+- What is safe or vulnerable here?
+- What is useful to me?
 
-**GM answers truthfully** based on what you could perceive.
+**GM answers truthfully** based on what you could perceive in the moment.
 
 **Examples:**
-- Read the noble's body language → Success → Ask 2: "What is he really feeling?" (terrified), "Who's he afraid of?" (the cloaked figure)
-- Scan the battlefield → Triumph → Choose Create Opportunity (spot opening in enemy line—grant ally Edge to attack)
-- Study the locked door → Conflict → Ask 1: "What here is useful?" (GM: there's a ventilation grate)
-- Size up the knight → Triumph → Choose Greater Effect (ask 6 questions total—learn everything about him)
+- Read the noble's body language → Success → Ask 2: "What is he really feeling?" (terrified), "Who is in charge here?" (the cloaked figure in the corner)
+- Scan the battlefield → Success → Ask 2: "What is vulnerable here?" (the enemy flank is exposed), "How can I exploit that?" (circle around the left side)
+- Study the locked door → Conflict → Ask 1: "What is useful to me?" (GM: there's a ventilation grate nearby)
+- Size up the knight → Triumph → Ask 2 + gain 1 Momentum + invoke Trait for Greater Effect (ask 6 questions total—learn everything about him)
 
-**Example Secondary Effects:**
-- Spot Crucial Detail (reveal hidden passage, secret identity, imminent betrayal)
-- Notice tactical advantage (identify enemy weakness beyond normal questions)
-- Read emotional state deeply (understand true motivations or hidden agenda)
+**Example Special Effects (from Trait):**
+- Greater Effect (ask 6 questions total instead of 2)
+- Secondary Effect: Spot Crucial Detail (reveal hidden passage, secret identity, imminent betrayal beyond normal questions)
+- Secondary Effect: Notice Tactical Advantage (identify specific weakness that grants ally Edge)
+- Create an Opportunity (your keen observation creates opening for ally to exploit)
 
 ---
 
 #### Know - Recall
 
-**When you search your memory or apply expertise—gain useful insight.**
+**Primary Effect: Recall**
+
+GM tells you something useful.
+
+**When you search your memory for important information about a subject—recall knowledge.**
 
 Use when:
 - Recalling lore, history, legends, or facts
@@ -464,23 +513,24 @@ Use when:
 - Applying professional or scholarly expertise
 
 **Outcomes:**
-- **Triumph:** GM tells you something useful + you gain 2 Edge the first time you roll when acting on that information + gain 1 Momentum + choose Critical Bonus
-- **Success:** GM tells you something useful + you gain 1 Edge the first time you roll when acting on that information
+- **Triumph:** GM tells you something useful + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Success:** GM tells you something useful
 - **Conflict:** GM tells you something useful, but there's a complication or cost
 - **Setback:** No useful information, or you misunderstand/misremember
 
-**The GM tells you relevant information AND you gain mechanical advantage (Edge) to use it the first time you act on it.**
+**The GM tells you relevant information based on your character's knowledge and the fiction.**
 
 **Examples:**
-- Recall fire elemental weaknesses → Success → GM: "They're vulnerable to cold iron" + you gain 1 Edge the first time you attack with your iron sword
-- Identify the artifact → Triumph → GM: "It's the Sundering Stone for breaking wards" + gain 2 Edge the first time you use it + choose Greater Effect (gain 4 Edge total the first time you use it)
-- Deduce trap mechanism → Conflict → GM: "You figure it out, but it will take time and you'll be exposed"
-- Remember demon lore → Triumph → Choose Secondary Effect: Reveal Hidden Truth: GM: "This demon is bound here—it can't pursue you past the threshold"
+- Recall fire elemental weaknesses → Success → GM: "They're vulnerable to cold iron and water. Your iron sword will be especially effective."
+- Identify the artifact → Success → GM: "It's the Sundering Stone, a legendary item that breaks magical wards when activated."
+- Deduce trap mechanism → Conflict → GM: "You figure out it's a pressure-plate trap, but studying it takes time and you hear footsteps approaching."
+- Remember demon lore → Triumph → GM: "This is a bound demon—it cannot leave the circle. It's dangerous here but can't pursue you." + gain 1 Momentum + invoke Trait for Secondary Effect: Reveal Hidden Truth: "The binding is weakening. It will break free in days, not weeks."
 
-**Example Secondary Effects:**
-- Reveal Hidden Truth (expose secret connection, hidden possibility, or crucial context)
-- Affect Multiple Allies (share knowledge so they all gain the Edge)
-- Deduce immediate solution (turn knowledge into instant practical application)
+**Example Special Effects (from Trait):**
+- Greater Effect (GM tells you significantly more information, including hidden details or implications)
+- Secondary Effect: Reveal Hidden Truth (expose secret connection, hidden vulnerability, or crucial context beyond initial information)
+- Secondary Effect: Deduce Immediate Solution (turn knowledge into actionable plan that grants ally Edge)
+- Create an Opportunity (your insight creates tactical opening for ally to exploit)
 
 ---
 
@@ -499,14 +549,10 @@ Complex tasks require **progress tracks** to represent multi-step efforts.
 - **Setback:** No ticks, situation worsens (GM may add complications or countdown)
 - **Conflict:** 1 tick + consequence
 - **Success:** 1 tick
-- **Triumph:** Choose Critical Bonus:
-  - Greater Effect: Mark 2 ticks
-  - Secondary Effect: Mark 1 tick + produce additional consequence
-  - Create Opportunity: Mark 1 tick + grant ally advantage
+- **Triumph:** 1 tick + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
-**Greater Impact Trait doubles ticks:**
-- Success/Conflict: 1→2
-- Triumph + Greater Effect: 2→4
+**Trait Invocation (Greater Effect):**
+- Conflict/Success/Triumph with Trait: Mark 2 ticks (instead of 1)
 
 **When Track Fills:** You accomplish your goal. New scene phase begins.
 
@@ -559,7 +605,7 @@ The player rolls Defy using the appropriate Approach:
 - **Success:** You avoid the attack entirely (no Stress, no consequence)
 - **Conflict:** You reduce the harm (take less Stress based on enemy Tier: 1/2/3)
 - **Setback:** You take full effect (take full Stress based on enemy Tier, plus possible Condition)
-- **Triumph:** You avoid the attack AND choose a Critical Bonus (Create Opportunity, Secondary Effect, Greater Effect)
+- **Triumph:** You avoid the attack + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
 ### Enemy Tier Determines Stress
 
@@ -581,7 +627,7 @@ Enemy Challenge Traits impose Complications on your Defy roll:
 **Example:**
 > **GM:** "The knight has 'Master Duelist' (1 Complication in melee). He attacks—Defy!"
 > **Player rolls Defy:** Success → Reduced to Conflict by Complication → "You deflect but he's pressing you—take 1 Stress"
-> **Player could use Trait to Negate Complication:** "I use 'Bladedancer' to negate his dueling advantage" → Success stays Success → "You match him perfectly—no Stress"
+> **Player could have an Opportunity:** "My ally granted me an Opportunity earlier—it cancels his Complication!" → Success stays Success → "You match him perfectly—no Stress"
 
 ### Other Threats Trigger Defy
 
@@ -633,43 +679,44 @@ See [core-foundations.md](core-foundations.md#spending-momentum) for full Resist
 ## Multiple Doubling Instances
 
 **Watch out for stacking bonuses.** If you have:
-- Greater Impact (doubles effect)
-- Triumph (already grants 2 ticks)
+- Triumph (marks 1 tick base)
+- Relevant Trait invoked for Greater Effect (marks 2 ticks instead)
 - Special Talent (grants bonus tick)
 
-You could end up marking 4-5 ticks on a single roll, trivializing progress tracks.
+You could end up marking 3-4 ticks on a single roll when everything aligns.
 
 **GM Guidance:**
-- **Triumph already marks 2 ticks** (built-in)
-- **Greater Impact on Triumph** doubles that to 4 ticks
-- This is intended—Triumph + Greater Impact should feel massive
-- If this breaks your game, use larger tracks (8-12 ticks) for important goals
+- **Triumph marks 1 tick** (base Success amount)
+- **Invoking Trait for Greater Effect** marks 2 ticks instead of 1
+- This is intended—Triumph + Greater Effect should feel impactful
+- If this trivializes tracks, use larger tracks (6-10 ticks) for important goals
 
-**Design Note:** The system intentionally rewards stacking advantages. Heroes should feel powerful when they set up properly and roll well.
+**Design Note:** The system intentionally rewards relevant Trait invocation. Heroes should feel powerful when their Traits apply and they roll well.
 
 ---
 
 ## Design Notes
 
-### Why Triumph as Choice (Grimwild Model)?
+### Why Triumph + Trait Invocation?
 
-Instead of automatic benefits, Triumph gives you a menu of Critical Bonuses:
-- **Greater Effect** — Accomplish more (mark 2 ticks instead of 1)
-- **Secondary Effect** — Action-specific special effect (Take Something, Inflict Condition, etc.)
-- **Create an Opportunity** — Grant ally advantage (universal option)
-
-This creates interesting tactical choices every Triumph. Do you finish the enemy faster (Greater Effect), or set up your ally (Create Opportunity)? The choice depends on context.
+Triumph provides immediate benefits:
+- Gain 1 Momentum
+- Ignore all Complications
+**Trait Special Effects** (invoke on Conflict+ when narratively relevant):
+- **Greater Effect** — Accomplish more (mark 2 ticks instead of 1, ask 6 questions, or provide significantly more information)
+- **Secondary Effect** — Action-specific special effect (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
+- **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
 ### Why Each Action Has One Core Function?
 
-Each Action does ONE thing well:
-- **Defy** — Overcome obstacles/danger (mark Challenge Track or avoid harm)
-- **Clash** — Inflict harm (mark Challenge Track)
-- **Talk** — Influence people (mark Accord Track)
-- **Sense** — Gather information about the present (ask questions)
-- **Know** — Apply expertise for advantage (gain Edge)
+Each Action does ONE thing well (Primary Effects):
+- **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks
+- **Clash → Harm** — Mark Harm track or outright defeat weaker foes
+- **Talk → Influence** — Mark Accord track or outright convince lesser creatures
+- **Sense → Assess** — Ask 2 questions (Success), 1 question (Conflict)
+- **Know → Recall** — GM tells you something useful
 
-Complexity comes from Triumph choices, Traits, Momentum, and Talents—not from branching effect menus on every action.
+Complexity comes from Trait Special Effects, Momentum spends, and Talents—not from branching effect menus on every action.
 
 ### Why Defy as Reactive Defense?
 
@@ -700,41 +747,44 @@ This creates:
 ## Quick Reference
 
 **Action Roll Steps:**
-1. Player declares intent (Action + Approach + Trait)
+1. Player declares intent (Action + Approach)
 2. GM telegraphs stakes (track type, difficulty, consequences, Complications)
-3. Player rolls
-4. Player chooses Trait/Momentum options (after seeing result)
-5. Apply Complications (reduce outcome tier)
-6. Resolve outcome (Success = mark 1 tick, Conflict = mark 1 tick + consequence, Setback = 0 ticks + consequence, Triumph = Success + Momentum + Critical Bonus)
+3. Calculate Edge and Bane from all sources (cancel 1:1)
+4. Player rolls dice pool (Approach + Edge - Bane)
+5. Determine raw outcome (check highest die and double 6s)
+6. Apply Complications to reduce tier (Triumph ignores all)
+7. Determine final outcome
+8. If Trait relevant and outcome is Conflict+: Invoke Trait for Special Effect
+9. Resolve outcome (Success = mark 1 tick, Conflict = mark 1 tick + consequence, Setback = 0 ticks + consequence, Triumph = 1 tick + Momentum + ignore Complications + may invoke Trait)
 
-**The Five Actions:**
-- **Defy** — Overcome obstacles/danger (mark Challenge Track or avoid harm)
-- **Clash** — Inflict harm (mark Challenge Track)
-- **Talk** — Influence people (mark Accord Track)
-- **Sense** — Ask questions about present situation (2 on Success, 1 on Conflict, 3 on Triumph)
-- **Know** — Gain Edge by recalling expertise (1 Edge on Success, 2 on Triumph + info from GM)
+**The Five Actions (Primary Effects):**
+- **Defy → Overcome:** Mark Obstacle track or automatically overcome simple tasks (dodging, leaping, picking locks)
+- **Clash → Harm:** Mark Harm track or outright defeat weaker foes (physical or mental harm)
+- **Talk → Influence:** Mark Accord track or outright convince lesser creatures (persuasion, deception, intimidation)
+- **Sense → Assess:** Ask 2 questions (Success), 1 question (Conflict)
+- **Know → Recall:** GM tells you something useful
 
-**Triumph Critical Bonus (choose one):**
-1. **Greater Effect** — Mark 2 ticks, ask 6 questions (Sense), or gain 4 Edge (Know)
+**Triumph Benefits:**
+- Gain 1 Momentum
+- Ignore all Complications
+- May invoke Trait for one Special Effect (if narratively relevant)
+
+**Trait Special Effects (invoke after rolling if Conflict+):**
+1. **Greater Effect** — Mark 2 ticks (Defy/Clash/Talk), ask 6 questions (Sense), or provide significantly more information (Know)
 2. **Secondary Effect** — Produce additional consequence that makes sense in fiction:
    - Take Something (physical/conceptual), Affect Multiple Targets, Shift Attitude, Inflict Condition, Gain Important Knowledge, Change Positioning, Prevent Counterattack, Create Environmental Effect
    - Work with GM to determine what's appropriate
-3. **Create an Opportunity** — Grant ally 1 Edge OR negate 1 Complication (universal)
-
-**Greater Impact Trait doubles effects:**
-- Success: Mark 2 ticks (instead of 1), ask 4 questions, gain 2 Edge
-- Triumph + Greater Effect: Mark 4 ticks, ask 9 questions, gain 4 additional Edge
-- Triumph + Secondary Effect: Affect 2 targets, escalate severity
-- Triumph + Create Opportunity: Grant 2 Edge, affect 2 allies, or grant Edge + negate Complication
+3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
 **Track Types & Sizes:**
-- **Challenge Track** (Clash/Defy): 1 (trivial), 2 (quick), 3 (moderate), 6 (major), 10 (epic)
-- **Accord Track** (Talk): Same sizes
+- **Harm Track** (Clash): Defeating enemies — 1 (trivial), 2 (quick), 3 (moderate), 6 (major), 10 (epic)
+- **Obstacle Track** (Defy): Overcoming obstacles — Same sizes
+- **Accord Track** (Talk): Influencing people — Same sizes
 - **Countdown Track** (GM): Threat escalation timer
 
 **Enemy Actions:**
 - Enemy attacks → Defy to resist (doesn't consume your action)
-- Success = avoid, Conflict = reduce harm, Setback = full harm, Triumph = avoid + Critical Bonus
+- Success = avoid, Conflict = reduce harm, Setback = full harm, Triumph = avoid + Momentum + ignore Complications + may invoke Trait
 - Enemy Tier determines Stress: Tier 1 = 1, Tier 2 = 2, Tier 3 = 3
 
 **Resisting Your Own Consequences:**

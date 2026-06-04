@@ -55,14 +55,17 @@ Count your successes (Hits):
 
 ## Traits
 
-**Traits grant Critical Effects when relevant.**
+**Traits provide Special Effects at a cost.**
 
-When a Trait is narratively relevant to your action, you may invoke it after rolling:
-- **On Conflict or Success:** Choose one Critical Effect
-- **On Triumph:** Choose two Critical Effects
-- **On Setback:** Cannot invoke Trait
+When a Trait is narratively relevant to your action, you may **take 1 Bane (-1d)** before rolling to gain a **Special Effect** (if you succeed):
+- **Declare before rolling:** Take 1 Bane (-1d from your pool)
+- **If Conflict or higher:** Gain one Special Effect (Greater Effect, Secondary Effect, or Create Opportunity)
+- **If Setback:** You took the Bane but gain no effect (you failed)
+- **If Triumph:** You gain Momentum + ignore Complications + your Special Effect (no additional effects)
 
-**Critical Effects:** Greater Effect, Secondary Effect, Create an Opportunity
+**Special Effects:** Greater Effect, Secondary Effect, Create an Opportunity
+
+**Trade-off:** Lower success chance for doubled effectiveness if you succeed.
 
 **See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
 
@@ -205,11 +208,12 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 **Spending Momentum for Edge:** Gain an Edge (1 Momentum) = add 1 Edge (+1d) before rolling
 
-**Using a Trait (after rolling):** 
-- **Conflict or Success:** Choose one Critical Effect
-- **Triumph:** Choose two Critical Effects
+**Using a Trait (before rolling):**
+- **Declare:** Take 1 Bane (-1d) to gain Special Effect if successful
+- **If Conflict+:** Apply one Special Effect
+- **If Setback:** No effect (you failed)
 
-**Critical Effects:**
+**Special Effects:**
 1. Greater Effect (mark 2 ticks, ask 6 questions, gain 4 Edge the first time you use it)
 2. Secondary Effect (Take Something, Inflict Condition, etc.)
 3. Create an Opportunity (grant ally 1 Opportunity = +1 tier on their next action)

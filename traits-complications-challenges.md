@@ -19,12 +19,12 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **Special Effects:**
 1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **Examples:**
 - "Veteran of the Iron Wars" → Relevant when Clashing in melee → On Conflict+, choose Special Effect (e.g., Greater Effect to mark 2 ticks, or Secondary Effect to disarm enemy)
 - "Silver Tongue" → Relevant when Talking to influence → On Conflict+, choose Special Effect (e.g., Greater Effect to mark 2 ticks on Accord Track, or Secondary Effect to shift attitude dramatically)
-- "Shadowborn" → Relevant when acting in darkness/stealth → On Conflict+, choose Special Effect (e.g., Create an Opportunity to grant ally 1 Edge, or Secondary Effect to remain undetected)
+- "Shadowborn" → Relevant when acting in darkness/stealth → On Conflict+, choose Special Effect (e.g., Build Momentum to grant 1 Momentum to ally, or Secondary Effect to remain undetected)
 
 ---
 
@@ -88,15 +88,16 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **Scout's Turn:**
 - Roll 3d6 → Success
 - Ask 2 questions (Sense base effect)
-- Invoke "Tactical Genius" → Choose Create an Opportunity
-- Grant Warrior: Negate "Heavily Armored" Complication for next action
+- Invoke "Tactical Genius" → Choose Build Momentum
+- Grant Warrior: 1 Momentum
 
 **Warrior's Next Turn:**
-- Roll 3d6 → Success
-- No Complication (Scout negated it)
+- Warrior spends 1 Momentum on Act with Potency (gains +1d and ignores 1 Complication)
+- Roll 4d6 → Success
+- "Heavily Armored" ignored by Potency
 - Final: Mark 1 tick, no Stress (clean Success)
 
-**Analysis:** Scout's Trait removed the Complication, allowing Warrior to succeed cleanly. Teamwork enabled by Create an Opportunity.
+**Analysis:** Scout's Trait granted Momentum, allowing Warrior to use Act with Potency to ignore the Complication. Teamwork enabled by Build Momentum.
 
 ---
 
@@ -143,13 +144,13 @@ Each uncanceled Complication moves your result one step down:
 
 Three ways to deal with Complications:
 
-### 1. Create an Opportunity (Trait Special Effect)
+### 1. Build Momentum (Trait Special Effect)
 
-**The primary way** to neutralize Complications is by allies using **Create an Opportunity** to negate them.
+**The primary way** to neutralize Complications is by allies using **Build Momentum** to negate them.
 
 **Example:**
 - Enemy has "Heavily Armored" (1 Complication)
-- Ally used their Trait to **Create an Opportunity** for you (negate 1 Complication)
+- Ally used their Trait to **Build Momentum** for you (negate 1 Complication)
 - You roll Success
 - Complication negated → Success stays Success
 
@@ -322,7 +323,7 @@ Not all Challenges have Traits. When they do, Traits represent special defenses,
 - Ally assistance
 - Superior positioning
 - Favorable environment
-- **Create an Opportunity** (Trait Special Effect grants ally 1 Edge)
+- **Build Momentum** (Trait Special Effect grants ally 1 Edge)
 
 **Bane:**
 - Hard tasks (1 Bane)
@@ -394,7 +395,7 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 - **2 Traits:** Elite opposition with layered defenses
 - **3+ Traits:** Boss-tier opposition requiring team coordination
 
-**Balance:** More Traits = more teamwork required. 2+ Complications means PCs need allies to Create Opportunities (grant Edge or negate Complications) or roll Triumph to succeed cleanly.
+**Balance:** More Traits = more teamwork required. 2+ Complications means PCs need allies to Create Opportunities (grant 1 Momentums) or roll Triumph to succeed cleanly.
 
 ---
 
@@ -406,7 +407,7 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 
 > **Player:** "I don't have a relevant Trait for this attack."
 
-> **Alice:** "I could use my 'Tactical Genius' Trait on my Sense check to Create an Opportunity—negate one of his Complications for your next attack."
+> **Alice:** "I could use my 'Tactical Genius' Trait on my Sense check to Build Momentum—grant you 1 Momentum so you can ignore one of his Complications with Act with Potency."
 
 > **GM:** "That would help! Alice, go ahead."
 
@@ -439,13 +440,13 @@ Encourage players to coordinate and leverage the three tactical layers:
 - **Edge improves your roll** but doesn't negate Complications
 
 **Complication Layer (Outcome):**
-- **Create Opportunity** (Special Effect from Trait) → Grant ally 1 Edge OR negate 1 Complication
+- **Build Momentum** (Special Effect from Trait) → Grant ally 1 Edge OR negate 1 Complication
 - **Coordinate** → Use Traits to set up allies against heavily defended targets
 - **Triumph** → Ignores all Complications automatically
 
 **Trait Layer (Effects):**
 - **Invoke Trait** → Gain Special Effect on Conflict+ (after rolling)
-- **Choose Special Effect wisely** → Greater Effect for doubled progress, Secondary Effect for bonus consequence, Create Opportunity for teamwork
+- **Choose Special Effect wisely** → Greater Effect for doubled progress, Secondary Effect for bonus consequence, Build Momentum for teamwork
 
 **Reward teamwork!** Heavily defended enemies (2+ Complications) require allies to Create Opportunities or rolling Triumph. Solo players struggle; coordinated teams thrive.
 
@@ -462,13 +463,13 @@ Encourage players to coordinate and leverage the three tactical layers:
 ### Special Effects (choose one when invoking Trait)
 1. **Greater Effect** — Mark 2 ticks, ask 4 questions, or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ### Complications
 - Reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
 - Unlimited stacking (most enemies have 0-2)
 - Sources: Challenge Traits, environmental hazards
-- Negate with: Create Opportunity (grant Edge or negate Complication), Talents (auto-negate specific), Triumph (ignores all)
+- Negate with: Build Momentum (grant 1 Momentum), Talents (auto-negate specific), Triumph (ignores all)
 
 ### Edge & Bane
 - Edge: +1d to pool (cap ±3), improves roll probability

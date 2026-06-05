@@ -46,7 +46,7 @@ Roll Xd6, check highest die (and look for double 6s):
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
 - **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions, or provide significantly more information
 - **Secondary Effect** — Take Something, Inflict Condition, Affect Multiple Targets, etc.
-- **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+- **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ### Momentum (Metacurrency)
 
@@ -58,14 +58,14 @@ Spend for tactical advantages:
 
 ### Opportunities & Complications
 
-**Create an Opportunity** (Special Effect from Trait)
-- Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+**Build Momentum** (Special Effect from Trait)
+- Grant 1 Momentum to yourself or an ally
 - Source: Special Effect when invoking Trait on Conflict+
 
 **Complications** reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
 - Unlimited stacking
 - Source: Challenge Traits (enemy defenses)
-- Negate with: Create an Opportunity (grant 1 Edge or negate 1 Complication), Act with Potency, Talents
+- Negate with: Build Momentum (grant 1 Momentum), Act with Potency, Talents
 
 **Triumph ignores all Complications.**
 
@@ -99,7 +99,7 @@ Spend for tactical advantages:
 Latest updates:
 - Trait system now provides free Special Effects on Conflict+ when narratively relevant
 - Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
-- Create an Opportunity grants 1 Edge OR negates 1 Complication (flexible choice)
+- Build Momentum grants 1 Edge OR negates 1 Complication (flexible choice)
 - Locked in FitD highest-die resolution method
 - Complications system for tier shifting (Challenge Traits impose defensive penalties)
 

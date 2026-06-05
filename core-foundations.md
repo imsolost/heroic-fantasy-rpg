@@ -101,7 +101,7 @@ All rolls produce one of four outcomes:
 **Special Effects (from Traits):** When a Trait is narratively relevant (after rolling), you gain one Special Effect on Conflict or higher:
 1. **Greater Effect** — Mark 2 ticks, ask 4 questions (or 2 + 2 follow-ups), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, GM reveals hidden detail, etc.)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 See [action-roll.md](action-roll.md) for complete Action rules and examples.
 
@@ -134,7 +134,7 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 **On Conflict, Success, or Triumph:** Choose one Special Effect:
 1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **On Setback:** Cannot invoke Trait (you failed)
 
@@ -181,7 +181,7 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 - **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
 - **Recover (1 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
 
-**Design Note:** Momentum is primarily tactical. Act with Potency grants Edge + negates Complications + enables heroic feats. To help allies, use Trait Special Effect "Create an Opportunity."
+**Design Note:** Momentum is primarily tactical. Act with Potency grants Edge + negates Complications + enables heroic feats. To help allies, use Trait Special Effect "Build Momentum."
 
 ---
 
@@ -264,7 +264,6 @@ When circumstances favor your action, you gain **Edge**. Sources of Edge include
 - **Environmental advantage** — Perfect lighting, stable footing, ideal weather
 - **Tactical superiority** — Outnumbering an enemy, ambush, surprise
 - **Act with Potency** — Spend 1 Momentum for 1 Edge (+ ignore Complication + narrative permission)
-- **Create an Opportunity** — Ally uses Trait Special Effect to grant you 1 Edge
 - **Easy tasks** — GM grants 1 Edge when task is within competence and conditions favor you
 - **Talents** — Some Talents grant Edge in specific circumstances
 - **Quick Assist** — Mark 1 Stress to grant ally Edge (see Assisting Allies below)
@@ -295,22 +294,21 @@ When circumstances work against your action, you suffer **Bane**. Sources of Ban
 
 **Opportunities** and **Complications** shift your outcome tier after rolling. They are the opposite of each other and create a second tactical layer beyond Edge/Bane.
 
-### Create an Opportunity (Special Effect)
+### Build Momentum (Special Effect)
 
-**Create an Opportunity** is a Special Effect available when invoking Traits.
+**Build Momentum** is a Special Effect available when invoking Traits.
 
-**Effect:** Grant yourself or an ally **1 Edge OR negate 1 Complication** for their next action (recipient chooses which benefit).
+**Effect:** Grant **1 Momentum** to yourself or an ally.
 
 **Sources:**
-- **Trait Special Effect** — When you invoke a Trait on Conflict+, you may choose Create an Opportunity
+- **Trait Special Effect** — When you invoke a Trait on Conflict+, you may choose Build Momentum
 - **Talents** — Some Talents may grant similar benefits in specific circumstances
 
 **Rules:**
-- **Expires:** After one use or at end of scene
-- **Flexible:** Recipient decides whether they need Edge (more dice) or Complication negation (better outcome)
-- **Cancels with Complications:** 1:1 before applying tier shift
+- **Immediate:** Momentum is gained immediately and can be spent on future actions
+- **Flexible:** Can target yourself (building your own resources) or an ally (enabling their next move)
 
-**Example:** You roll Conflict. Ally granted you 1 Opportunity. Conflict → Success.
+**Example:** You successfully strike the knight and invoke your "Bladedancer" Trait. You choose Build Momentum and grant 1 Momentum to your ally. On their turn, they spend it on Act with Potency to ignore the knight's Heavy Armor.
 
 ### Complications
 
@@ -341,18 +339,18 @@ When circumstances work against your action, you suffer **Bane**. Sources of Ban
 
 There are three ways to help an ally:
 
-**1. Create an Opportunity (Trait Special Effect)**
+**1. Build Momentum (Trait Special Effect)**
 
-When you invoke a Trait (on Conflict+), you can choose **Create an Opportunity**:
+When you invoke a Trait (on Conflict+), you can choose **Build Momentum**:
 
-- Grant yourself or an ally **1 Edge OR negate 1 Complication** for their next action (recipient chooses which benefit)
+- Grant **1 Momentum** to yourself or an ally
 
 **Examples:**
-- Defy: You dodge perfectly, revealing enemy's blind spot → ally gets Edge or Complication negation
-- Clash: Your precise strike exposes their defense → ally gets Edge or Complication negation
-- Sense: You spot weakness in armor → ally gets Edge or Complication negation
-- Know: You recall demon's true name → ally gets Edge or Complication negation
-- Talk: Your words undermine their confidence → ally gets Edge or Complication negation
+- Defy: You dodge perfectly, building confidence → you or an ally gains 1 Momentum
+- Clash: Your precise strike energizes the team → you or an ally gains 1 Momentum
+- Sense: You spot a weakness and signal it → you or an ally gains 1 Momentum
+- Know: You recall the demon's true name, revealing the path forward → you or an ally gains 1 Momentum
+- Talk: Your words rally spirits → you or an ally gains 1 Momentum
 
 **Alternative:** You can also use your action to help allies without using Traits by describing how you're setting them up (pin enemy, distract guard, etc.). GM determines if this grants Edge based on fictional positioning.
 

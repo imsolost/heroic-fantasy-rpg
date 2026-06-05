@@ -76,7 +76,7 @@ The GM evaluates the situation and communicates the stakes clearly:
 
 Calculate your final dice pool: **Approach rating + Edge - Bane**
 
-**Edge sources:** Easy tasks, Act with Potency, Talents, ally assists, positioning, Create an Opportunity
+**Edge sources:** Easy tasks, Act with Potency, Talents, ally assists, positioning
 
 **Bane sources:** Hard tasks, Conditions, hostile environment, poor positioning
 
@@ -97,21 +97,20 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 
 ---
 
-### 5. Apply Opportunities & Complications
+### 5. Apply Complications
 
 **Before final outcome is determined:**
 
-1. **Check for Opportunities** (from ally's prior Create Opportunity or other sources)
-2. **Check for Complications** (from Challenge Traits)
-3. **Apply Complications:**
-   - Each Complication reduces outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
-4. **Triumph ignores all Complications** (cannot be reduced)
+1. **Check for Complications** (from Challenge Traits)
+2. **Apply Complications:**
+   - Each Complication reduces outcome by -1 tier (Triumph → Success → Conflict → Setback → Disaster)
+3. **Triumph ignores all Complications** (cannot be reduced)
 
 **Example:**
 - Raw roll: Success
 - Enemy has: "Heavily Armored" (1 Complication)
 - Apply Complication: Success - 1 tier = **Conflict**
-- If ally used Create an Opportunity to negate the Complication: Success stays **Success**
+- If you have Momentum from ally's Build Momentum: Spend it on Act with Potency to ignore the Complication → Success stays **Success**
 
 ---
 
@@ -122,7 +121,7 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 You may invoke your Trait to gain one Special Effect:
 1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 2 questions + 2 follow-ups (instead of 2), or provide significantly more information + 2 clarifying questions (instead of 1)
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals hidden detail, etc.)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **If your final outcome is Setback:** Cannot invoke Trait (you failed).
 
@@ -183,7 +182,7 @@ When you achieve **Triumph**, you succeed completely and gain:
 **Trait Special Effects:**
 1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (see examples below)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ---
 
@@ -408,7 +407,7 @@ Use when:
 - Greater Effect (mark 2 ticks on Obstacle track instead of 1)
 - Secondary Effect: Take Something (disarm opponent, seize position, grab object mid-dodge)
 - Secondary Effect: Change Positioning (knock them down, shove them back)
-- Create an Opportunity (grant ally advantage from your defensive positioning)
+- Build Momentum (your defensive positioning energizes you or an ally)
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [core-foundations.md](core-foundations.md#spending-momentum)).
 
@@ -455,7 +454,7 @@ Use when:
 - Secondary Effect: Take Something (disarm, seize position, steal momentum)
 - Secondary Effect: Inflict Condition (wound, stun, demoralize, humiliate)
 - Secondary Effect: Affect Multiple Targets (cleave through enemies, insult entire group)
-- Create an Opportunity (create opening for ally to exploit)
+- Build Momentum (your strike energizes you or an ally for their next move)
 
 ---
 
@@ -497,7 +496,7 @@ Use when:
 - Secondary Effect: Shift Attitude dramatically (Hostile → Neutral, or Neutral → Friendly)
 - Secondary Effect: Inflict Social Condition (intimidated, charmed, demoralized, humiliated)
 - Secondary Effect: Affect Multiple Targets (convince entire group instead of one person)
-- Create an Opportunity (your words create opening for ally to exploit)
+- Build Momentum (your words energize you or an ally)
 
 ---
 
@@ -539,8 +538,8 @@ Use when:
 
 **Example Special Effects (from Trait):**
 - Greater Effect (ask 2 questions + 2 follow-up questions to press deeper into those answers)
-- Secondary Effect: GM reveals one important detail your expertise would notice (hidden passage, concealed danger, subtle tell, imminent betrayal)
-- Create an Opportunity (your keen observation grants ally 1 Edge OR negates 1 Complication)
+- Secondary Effect: GM reveals one important detail that would otherwise escape your notice (hidden passage, concealed danger, subtle tell, imminent betrayal)
+- Build Momentum (your insight prepares you or an ally for action)
 
 ---
 
@@ -574,7 +573,7 @@ Use when:
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)
 - Secondary Effect: Grant 1 Edge (your insight gives you or an ally tactical advantage when acting on the information)
 - Secondary Effect: Reveal Hidden Implication (expose secret connection, hidden vulnerability, or crucial context)
-- Create an Opportunity (your knowledge grants ally 1 Edge OR negates 1 Complication)
+- Build Momentum (your knowledge prepares you or an ally for action)
 
 ---
 
@@ -677,7 +676,7 @@ Enemy Challenge Traits impose Complications on your Defy roll:
 **Example:**
 > **GM:** "The knight has 'Master Duelist' (1 Complication in melee). He attacks—Defy!"
 > **Player rolls Defy → Success:** Reduced to Conflict by Complication → "You deflect his blade (avoid the attack) but he's pressing you—mark 1 Stress from the exertion" (soft Impact Move)
-> **Ally used Create an Opportunity:** "My ally granted me 1 Edge earlier—I negate his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
+> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Act with Potency to ignore his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
 
 ### Other Threats Trigger Defy
 
@@ -755,7 +754,7 @@ Triumph provides immediate benefits:
 **Trait Special Effects** (invoke on Conflict+ when narratively relevant):
 - **Greater Effect** — Accomplish more (mark 2 ticks, ask 2 + 2 follow-ups, or more info + 2 clarifying questions)
 - **Secondary Effect** — Action-specific effect (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals hidden detail, grant Edge, etc.)
-- **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+- **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ### Why Each Action Has One Core Function?
 
@@ -826,7 +825,7 @@ This creates:
    - Take Something, Affect Multiple Targets, Shift Attitude, Inflict Condition, Change Positioning, Prevent Counterattack
    - **Sense:** GM reveals one important detail your expertise would notice
    - Work with GM to determine what's appropriate
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **Track Types & Sizes:**
 - **Harm Track** (Clash): Defeating enemies — 1 (trivial), 2 (quick), 3-4 (moderate), 5-7 (major), 8-10 (epic)

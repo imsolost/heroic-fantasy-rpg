@@ -68,14 +68,14 @@ Check your dice results:
 
 When a Trait is narratively relevant to your action and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
 - **Timing:** After rolling, when determining final outcome
-- **If Conflict or higher:** Gain one Special Effect (Greater Effect, Secondary Effect, or Create Opportunity)
+- **If Conflict or higher:** Gain one Special Effect (Greater Effect, Secondary Effect, or Build Momentum)
 - **If Setback:** Cannot invoke Trait (you failed)
 - **If Triumph:** You gain Momentum + ignore Complications + may invoke Trait for one Special Effect
 
 **Special Effects:**
 1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
+3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **See [traits-complications-challenges.md](traits-complications-challenges.md) for complete rules.**
 
@@ -101,7 +101,7 @@ Edge and Bane represent advantage and disadvantage.
 
 **Cancellation:** Edge and Bane cancel 1:1
 
-**Design Note:** Edge/Bane affect **probability** (dice rolls). For outcome quality after rolling, Complications reduce tier. Negate Complications with Create an Opportunity, Act with Potency, or Talents. See [traits-complications-challenges.md](traits-complications-challenges.md).
+**Design Note:** Edge/Bane affect **probability** (dice rolls). For outcome quality after rolling, Complications reduce tier. Negate Complications with Build Momentum, Act with Potency, or Talents. See [traits-complications-challenges.md](traits-complications-challenges.md).
 
 ---
 
@@ -223,12 +223,12 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 **Special Effects:**
 1. Greater Effect (mark 2 ticks, ask 4 questions, or provide significantly more information)
 2. Secondary Effect (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
-3. Create an Opportunity (grant yourself or ally 1 Edge OR negate 1 Complication for next action)
+3. Build Momentum (grant 1 Momentum to yourself or an ally)
 
 **Complications:**
 - **Complication:** -1 tier (Triumph → Success → Conflict → Setback → Taken Out), unlimited
 - Source: Challenge Traits (enemy defenses)
-- Negate with: Create an Opportunity (grant 1 Edge OR negate 1 Complication), Act with Potency (ignore 1), Talents
+- Negate with: Build Momentum (grant 1 Momentum), Act with Potency (ignore 1), Talents
 - Triumph ignores all Complications
 
 **Action Primary Effects:**

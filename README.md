@@ -37,14 +37,14 @@ Each Action has a **Primary Effect**:
 Roll Xd6, check highest die (and look for double 6s):
 
 - **Setback** (all 1-3) — Failure with consequences
-- **Conflict** (any 4-5) — Partial success with cost
+- **Conflict** (any 4-5) — Success with consequence (GM makes soft Impact Move)
 - **Success** (any 6) — Clean success
 - **Triumph** (two+ 6s) — Heroic success (gain Momentum, ignore Complications)
 
 ### Traits (Special Effects)
 
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
-- **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions, or provide significantly more information
+- **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions, or provide significantly more information
 - **Secondary Effect** — Take Something, Inflict Condition, Affect Multiple Targets, etc.
 - **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 

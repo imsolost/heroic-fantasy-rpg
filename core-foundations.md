@@ -41,9 +41,9 @@ Actions describe *what* a character is doing.
 
 3. **Talk — Influence:** Convince, threaten, or manipulate someone into doing what you want. Mark progress on Accord track or outright convince lesser creatures (persuasion, deception, intimidation).
 
-4. **Sense — Assess:** Get specific and useful information about a person, place, or situation. Ask questions about what's happening now (Success = 2 questions, Conflict = 1 question).
+4. **Sense — Assess:** Get specific and useful information about a person, place, or situation. Ask questions about what's happening now (Conflict/Success = 2 questions).
 
-5. **Know — Recall:** Search your memory for important information about a subject. GM tells you something useful based on your character's knowledge.
+5. **Know — Recall:** Search your memory for important information about a subject. GM tells you one specific, actionable thing + you may ask one clarifying question.
 
 **Characters do not have Action ratings.** All Action-specific bonuses come from **Talents** (contextual, not universal). For example, a Talent might grant a bonus when you Clash with a two-handed weapon, but not a blanket bonus to all Clash rolls.
 
@@ -51,8 +51,8 @@ Actions describe *what* a character is doing.
 - **Defy → Overcome:** Mark Obstacle track or automatically overcome simple tasks
 - **Clash → Harm:** Mark Harm track or outright defeat weaker foes
 - **Talk → Influence:** Mark Accord track or outright convince lesser creatures
-- **Sense → Assess:** Ask 2 questions (Success), 1 question (Conflict)
-- **Know → Recall:** GM tells you something useful
+- **Sense → Assess:** Ask 2 questions (Conflict/Success)
+- **Know → Recall:** GM tells you one specific, actionable thing + you may ask one clarifying question
 
 ---
 
@@ -84,30 +84,30 @@ Approaches describe *how* a character acts. They form the foundation of your rol
 
 All rolls produce one of four outcomes:
 
-- **Setback** — Things go wrong, situation worsens. You fail and suffer consequences.
-- **Conflict** — Partial success with cost. You accomplish your action's core function but suffer consequences.
-- **Success** — You accomplish your intent cleanly. Your action's core function succeeds without cost.
-- **Triumph** — You accomplish your intent fully, gain 1 Momentum, ignore all Complications, and choose a Critical Bonus.
-
-The specific thresholds for these outcomes depend on your resolution system.
+- **Setback** — You fail and the GM makes a hard Impact Move (situation worsens dramatically)
+- **Conflict** — You succeed at your action's core function and the GM makes a soft Impact Move (consequence)
+- **Success** — You succeed at your action's core function cleanly (no Impact Move)
+- **Triumph** — You succeed + gain 1 Momentum + ignore all Complications (no Impact Move)
 
 **Each Action has a Primary Effect:**
-- **Defy (Overcome):** Mark 1 tick on Obstacle track (Success/Conflict), or automatically overcome simple tasks
-- **Clash (Harm):** Mark 1 tick on Harm track (Success/Conflict), or outright defeat weaker foes
-- **Talk (Influence):** Mark 1 tick on Accord track (Success/Conflict), or outright convince lesser creatures
-- **Sense (Assess):** Ask 2 questions (Success) or 1 question (Conflict)
-- **Know (Recall):** GM tells you something useful (Success)
+- **Defy (Overcome):** Mark 1 tick on Obstacle track (Conflict/Success), or automatically overcome simple tasks
+- **Clash (Harm):** Mark 1 tick on Harm track (Conflict/Success), or outright defeat weaker foes
+- **Talk (Influence):** Mark 1 tick on Accord track (Conflict/Success), or outright convince lesser creatures
+- **Sense (Assess):** Ask 2 questions (Conflict/Success)
+- **Know (Recall):** GM tells you one specific, actionable thing + you may ask one clarifying question (Success)
 
 **On Triumph:** Gain 1 Momentum + ignore all Complications
 
 **Special Effects (from Traits):** When a Trait is narratively relevant (after rolling), you gain one Special Effect on Conflict or higher:
-1. **Greater Effect** — Mark 2 ticks, ask 6 questions, or provide significantly more information
-2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, etc.)
+1. **Greater Effect** — Mark 2 ticks, ask 4 questions (or 2 + 2 follow-ups), or provide significantly more information
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, GM reveals hidden detail, etc.)
 3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for next action
 
 See [action-roll.md](action-roll.md) for complete Action rules and examples.
 
-**Triumph's unique benefit:** Triumph results cannot be reduced by Complications. No matter how many Challenge Traits oppose you, Triumph stays Triumph. See [traits-complications-challenges.md](traits-complications-challenges.md) for details on Opportunities and Complications.
+**Impact Moves:** When you roll Conflict or Setback, the GM makes an Impact Move (soft on Conflict, hard on Setback). These represent how the world responds to imperfect actions. See [action-roll.md](action-roll.md) for complete Impact Move lists.
+
+**Triumph's unique benefit:** Triumph results cannot be reduced by Complications and never trigger Impact Moves. No matter how many Challenge Traits oppose you, Triumph stays Triumph with no consequences.
 
 ---
 
@@ -132,7 +132,7 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 **After rolling and determining your final outcome:**
 
 **On Conflict, Success, or Triumph:** Choose one Special Effect:
-1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 6 questions (instead of 2), or provide significantly more information
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
 3. **Create an Opportunity** — Grant yourself or an ally 1 Edge OR negate 1 Complication for their next action
 
@@ -180,9 +180,8 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 **Any Time:**
 - **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
 - **Recover (1 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
-- **Influence the Narrative (1 Momentum):** Introduce a beneficial fact or detail into the scene (GM has final say on scope)
 
-**Design Note:** Momentum's primary tactical use is Act with Potency, which grants Edge, negates Complications, and enables heroic feats. To help allies, use Trait Special Effect "Create an Opportunity" (grants ally 1 Edge OR negates 1 Complication).
+**Design Note:** Momentum is primarily tactical. Act with Potency grants Edge + negates Complications + enables heroic feats. To help allies, use Trait Special Effect "Create an Opportunity."
 
 ---
 
@@ -241,7 +240,7 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 - Fits heroic fantasy genre (not reality-breaking)
 
 **Examples of what Potency CAN enable:**
-- One-shot kill a dragon (if you roll well and conditions favor)
+- One-shot kill a giant (if you roll well and conditions favor)
 - Lift a portcullis designed for winches
 - Convince a king to abdicate with one speech
 

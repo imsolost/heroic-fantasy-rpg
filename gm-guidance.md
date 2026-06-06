@@ -272,37 +272,66 @@ When PC fails, **the situation changes**. Never leave them in the same spot with
 
 ## Conditions: Fiction First
 
-Conditions are **narrative consequences**, not just penalties.
+Conditions are **narrative consequences** with mechanical penalties. See [stress-conditions.md](stress-conditions.md) for complete rules.
 
-### **When to Inflict Conditions:**
+### Two Condition Types
 
-**Minor Conditions** (Shaken, Bruised, Embarrassed):
-- Conflict results that demand cost
-- Non-fatal but meaningful consequences
-- Social/mental setbacks
+**Staggered** — Physical impairment (injury, exhaustion, poison)
+- Applies Bane to physical actions
 
-**Moderate Conditions** (Wounded, Frightened, Discredited):
-- Failure against serious threats
-- Dramatic fictional triggers (dragon's roar, betrayal)
-- Escalation of Minor Conditions
+**Shaken** — Mental/emotional impairment (fear, anger, confusion, despair)
+- Applies Bane to mental and social actions
 
-**Severe Conditions** (Maimed, Terrified, Cursed):
-- Critical failures
-- Major story events (witnessing death, cursed by witch)
-- Escalation of Moderate Conditions
+### Three Tiers (Each adds +1 Bane)
 
-**Critical Conditions** (Dying, Broken, Petrified):
-- Pushing through at max Stress
-- Catastrophic failures
-- Epic-level threats
+Each Condition type has three tiers tracked with checkboxes:
+- **Minor** (+1 Bane) — Clears after next relevant action roll
+- **Moderate** (+1 Bane) — Clears after short rest
+- **Severe** (+1 Bane) — Clears after long rest
 
-### **Clearing Conditions:**
+Total Bane = number of checked tiers (max 3 per type).
 
-Tie to fiction, not just rest:
-- **Shaken** → clears when you face fear successfully
-- **Wounded** → requires medical attention or rest
-- **Frightened** → clears when you confront source of fear
-- **Cursed** → requires quest to lift curse
+### When to Inflict Conditions
+
+**From Challenge Moves:**
+- Some enemy moves inflict Conditions directly (dragon's fear aura, poison attack, crushing blow)
+- Specify which Condition type (Staggered/Shaken) and tier (Minor/Moderate/Severe)
+
+**From Stress Overflow:**
+- When PC's Stress track is full and they would mark more Stress, they take a Condition instead
+- 1 Stress → Minor Condition
+- 2 Stress → Moderate Condition  
+- 3 Stress → Severe Condition
+
+**Escalation:**
+- If PC would gain a tier they already have checked, it escalates to the next tier
+- Example: Has Minor checked, takes Minor again → Moderate also checks
+
+### Fictional Examples
+
+**Staggered (Minor):**
+- "Your shoulder aches where the club struck it"
+- "You're breathing hard, sweat stinging your eyes"
+
+**Staggered (Moderate):**
+- "Your ribs are cracked — each breath is agony"
+- "Your leg buckles when you put weight on it"
+
+**Staggered (Severe):**
+- "The sword has run you through — you're losing blood fast"
+- "Your arm hangs useless, bone clearly broken"
+
+**Shaken (Minor):**
+- "Your hands tremble slightly"
+- "Anger clouds your judgment momentarily"
+
+**Shaken (Moderate):**
+- "The dragon's roar echoes in your mind — you want to flee"
+- "Rage overwhelms you — all you see is red"
+
+**Shaken (Severe):**
+- "You're paralyzed with terror, unable to think clearly"
+- "Despair crushes you — what's the point of fighting?"
 
 ---
 

@@ -56,7 +56,7 @@ Spend for tactical advantages:
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)
 
-### Opportunities & Complications
+### Momentum & Complications
 
 **Build Momentum** (Special Effect from Trait)
 - Grant 1 Momentum to yourself or an ally
@@ -65,7 +65,7 @@ Spend for tactical advantages:
 **Complications** reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
 - Unlimited stacking
 - Source: Challenge Traits (enemy defenses)
-- Negate with: Build Momentum (grant 1 Momentum), Act with Potency, Talents
+- Negate with: Act with Potency (ignore 1), Talents
 
 **Triumph ignores all Complications.**
 
@@ -78,9 +78,11 @@ Spend for tactical advantages:
 - [traits-complications-challenges.md](traits-complications-challenges.md) — Trait mechanics, Opportunities, Complications, Challenge design
 
 ### Additional Resources
+- [stress-conditions.md](stress-conditions.md) — Stress & Conditions system (primary resilience mechanics)
+- [examples-stress-conditions.md](examples-stress-conditions.md) — Extended examples of Stress & Conditions in play
+- [design-notes.md](design-notes.md) — Design rationale for Stress & Conditions system
 - [gm-guidance.md](gm-guidance.md) — Running the game, setting difficulty, adjudicating outcomes
 - [combat-design.md](combat-design.md) — Combat flow, enemy design, tactical considerations
-- [design-doc-v1.md](design-doc-v1.md) — Original design document and evolution
 
 ### Archived Systems
 - [old-ideas/](old-ideas/) — Alternative resolution systems (2d10, Xd6 count-successes)
@@ -99,9 +101,10 @@ Spend for tactical advantages:
 Latest updates:
 - Trait system now provides free Special Effects on Conflict+ when narratively relevant
 - Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
-- Build Momentum grants 1 Edge OR negates 1 Complication (flexible choice)
+- Build Momentum grants 1 Momentum to yourself or an ally (Trait Special Effect)
 - Locked in FitD highest-die resolution method
 - Complications system for tier shifting (Challenge Traits impose defensive penalties)
+- Updated Stress & Conditions system with checkbox tiers and clear recovery paths
 
 ## License
 

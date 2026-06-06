@@ -199,28 +199,25 @@ Some Talents negate Complications automatically in specific situations.
 
 ## Challenge Design
 
-Challenges are adversaries, obstacles, or situations that oppose the PCs. They have two key attributes:
+Challenges are adversaries, obstacles, or situations that oppose the PCs. They have Challenge Traits that impose Complications.
 
-### Challenge Tier (Consequence Severity)
+### Impact Move Severity
 
-**Tier determines what happens on Setback or Conflict:**
+**When GM makes Impact Moves on Conflict or Setback:**
 
-**Tier 1 - Minor Challenge**
-- **On Setback:** 1 Stress OR minor consequence
-- **On Conflict:** Mark 1 tick/progress, take 1 Stress OR minor consequence
-- **Examples:** Bandits, routine obstacles, minor NPCs
+**Soft Impact Move (on Conflict):**
+- Mark 1 Stress OR other soft consequence (lose position, reveal danger, etc.)
+- Examples: Glancing blow, minor setback, warning sign
 
-**Tier 2 - Moderate Challenge**
-- **On Setback:** 2 Stress OR moderate consequence (Moderate Condition, lose equipment, enemy gains major advantage)
-- **On Conflict:** Mark 1 tick/progress, take 2 Stress OR moderate consequence  
-- **Examples:** Veterans, dangerous obstacles, important NPCs, most enemies
+**Hard Impact Move (on Setback):**
+- Mark 2 Stress OR other hard consequence (Condition tier, lose equipment, dramatic shift)
+- Examples: Solid hit, major setback, severe consequence
 
-**Tier 3 - Severe Challenge**
-- **On Setback:** 3 Stress OR severe consequence (Severe Condition, Taken Out, catastrophic complication)
-- **On Conflict:** Mark 1 tick/progress, take 3 Stress OR severe consequence
-- **Examples:** Elite warriors, deadly obstacles, powerful magic, boss enemies
+**Severe Consequences (rare, dramatic moments):**
+- Mark 3 Stress OR Severe Condition tier OR Taken Out
+- Reserved for: Boss abilities, environmental disasters, catastrophic failures
 
-**GM Note:** Default to Tier 2 for most Challenges. Tier 1 is for easy encounters or weakened foes. Tier 3 is for dramatic climactic moments.
+**GM Note:** Default to 1 Stress (Conflict) or 2 Stress (Setback) for most Impact Moves. Use Conditions and other consequences for variety and narrative weight.
 
 ---
 
@@ -395,7 +392,7 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 - **2 Traits:** Elite opposition with layered defenses
 - **3+ Traits:** Boss-tier opposition requiring team coordination
 
-**Balance:** More Traits = more teamwork required. 2+ Complications means PCs need allies to Create Opportunities (grant 1 Momentums) or roll Triumph to succeed cleanly.
+**Balance:** More Traits = more teamwork required. 2+ Complications means PCs need allies to Build Momentum or use Act with Potency, or roll Triumph to succeed cleanly.
 
 ---
 
@@ -403,11 +400,11 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 
 **Always telegraph before the roll:**
 
-> **GM:** "The Armored Knight is Tier 2 with 'Heavily Armored' and 'Shielded'—that's 2 Complications. If you roll Success, it'll drop to Setback. Anyone have Traits that could help?"
+> **GM:** "The Armored Knight has 'Heavily Armored' and 'Shielded'—that's 2 Complications. If you roll Success, it'll drop to Setback. Anyone have Traits that could help?"
 
 > **Player:** "I don't have a relevant Trait for this attack."
 
-> **Alice:** "I could use my 'Tactical Genius' Trait on my Sense check to Build Momentum—grant you 1 Momentum so you can ignore one of his Complications with Act with Potency."
+> **Alice:** "I could use my 'Tactical Genius' Trait on my Sense check to Build Momentum—grant you 1 Momentum so you can use Act with Potency to ignore one of his Complications."
 
 > **GM:** "That would help! Alice, go ahead."
 
@@ -436,11 +433,12 @@ Encourage players to coordinate and leverage the three tactical layers:
 **Edge/Bane Layer (Probability):**
 - **Position tactically** (flanking, high ground, cover) → grants Edge
 - **Quick Assist** → Mark Stress to grant ally Edge
-- **Act with Potency** → Spend Momentum for Edge + ignore Complication
+- **Act with Potency** → Spend Momentum for Edge + ignore 1 Complication
 - **Edge improves your roll** but doesn't negate Complications
 
 **Complication Layer (Outcome):**
-- **Build Momentum** (Special Effect from Trait) → Grant ally 1 Edge OR negate 1 Complication
+- **Build Momentum** (Special Effect from Trait) → Grant 1 Momentum to ally so they can use Act with Potency
+- **Act with Potency** → Spend 1 Momentum to ignore 1 Complication (+ gain Edge + narrative permission)
 - **Coordinate** → Use Traits to set up allies against heavily defended targets
 - **Triumph** → Ignores all Complications automatically
 
@@ -448,7 +446,7 @@ Encourage players to coordinate and leverage the three tactical layers:
 - **Invoke Trait** → Gain Special Effect on Conflict+ (after rolling)
 - **Choose Special Effect wisely** → Greater Effect for doubled progress, Secondary Effect for bonus consequence, Build Momentum for teamwork
 
-**Reward teamwork!** Heavily defended enemies (2+ Complications) require allies to Create Opportunities or rolling Triumph. Solo players struggle; coordinated teams thrive.
+**Reward teamwork!** Heavily defended enemies (2+ Complications) require allies to Build Momentum for Act with Potency or rolling Triumph. Solo players struggle; coordinated teams thrive.
 
 ---
 
@@ -477,10 +475,10 @@ Encourage players to coordinate and leverage the three tactical layers:
 - Cancel 1:1
 - Separate system from Complications
 
-### Challenge Tier
-- **Tier 1:** 1 Stress or minor consequence on Setback/Conflict
-- **Tier 2:** 2 Stress or moderate consequence on Setback/Conflict (default)
-- **Tier 3:** 3 Stress or severe consequence on Setback/Conflict
+### Impact Moves
+- **Soft (Conflict):** Mark 1 Stress or other soft consequence
+- **Hard (Setback):** Mark 2 Stress or other hard consequence (Condition tier, lose equipment, dramatic shift)
+- **Severe (rare):** Mark 3 Stress or Severe Condition tier or Taken Out (boss abilities, disasters)
 
 ### Action Core Functions
 - **Defy (Overcome):** Mark 1 tick on Obstacle track (Success/Conflict), or automatically overcome simple tasks

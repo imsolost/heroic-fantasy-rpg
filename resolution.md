@@ -107,14 +107,21 @@ Edge and Bane represent advantage and disadvantage.
 
 ## Conditions (Penalty Details)
 
-| Tier | Penalty |
-|---|---|
-| **Minor** | 1 Bane (-1d) to relevant rolls |
-| **Moderate** | 2 Banes (-2d) to relevant rolls |
-| **Severe** | -3d to relevant rolls, fictional restrictions |
-| **Critical** | Cannot act in specific ways, may force Taken Out |
+Each Condition type (Staggered/Shaken) has three tiers. Track each tier with a checkbox. Each checked tier adds 1 Bane to relevant rolls.
 
-**Note:** Severe Conditions exceed the normal ±3d Edge/Bane cap to represent truly debilitating injuries.
+| Tier | Bane | Clears |
+|------|------|--------|
+| **Minor** | +1 | After next relevant action roll |
+| **Moderate** | +1 | After short rest |
+| **Severe** | +1 | After long rest |
+
+**Your total Bane equals however many tiers are currently checked** (maximum 3 Banes per Condition type).
+
+**Relevant rolls:**
+- **Staggered** → physical actions
+- **Shaken** → mental and social actions
+
+See [stress-conditions.md](stress-conditions.md) for complete Conditions rules.
 
 ---
 
@@ -221,22 +228,22 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 - If Setback: Cannot invoke Trait (you failed)
 
 **Special Effects:**
-1. Greater Effect (mark 2 ticks, ask 4 questions, or provide significantly more information)
+1. Greater Effect (mark 2 ticks, ask 4 questions or 2 + 2 follow-ups, or provide significantly more information + 2 clarifying questions)
 2. Secondary Effect (Take Something, Inflict Condition, Affect Multiple Targets, etc.)
 3. Build Momentum (grant 1 Momentum to yourself or an ally)
 
 **Complications:**
 - **Complication:** -1 tier (Triumph → Success → Conflict → Setback → Taken Out), unlimited
 - Source: Challenge Traits (enemy defenses)
-- Negate with: Build Momentum (grant 1 Momentum), Act with Potency (ignore 1), Talents
+- Negate with: Act with Potency (ignore 1), Talents
 - Triumph ignores all Complications
 
 **Action Primary Effects:**
 - Defy → Overcome: Mark Obstacle track or automatically overcome simple tasks
 - Clash → Harm: Mark Harm track or outright defeat weaker foes
 - Talk → Influence: Mark Accord track or outright convince lesser creatures
-- Sense → Assess: Ask 2 questions (Success), 1 question (Conflict)
-- Know → Recall: GM tells you something useful (Success)
+- Sense → Assess: Ask 2 questions (Conflict/Success)
+- Know → Recall: GM tells you one specific, actionable thing + you may ask one clarifying question (Conflict/Success)
 
 **Easy Tasks:** Grant 1 Edge (+1d)
 

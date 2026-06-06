@@ -119,7 +119,7 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 **If a Trait is narratively relevant AND your final outcome is Conflict or higher:**
 
 You may invoke your Trait to gain one Special Effect:
-1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 2 questions + 2 follow-ups (instead of 2), or provide significantly more information + 2 clarifying questions (instead of 1)
+1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (or 2 + 2 follow-ups) instead of 2, or provide significantly more information + 2 clarifying questions (instead of 1)
 2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals hidden detail, etc.)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
@@ -201,14 +201,14 @@ Choose one:
 - **Reveal an unwelcome truth** — Show something they didn't want to know
 - **Show signs of approaching threat** — Foreshadow danger, countdowns advance
 - **Take away advantage or position** — Lose high ground, cover, flanking, initiative
-- **Mark Stress** — Based on Challenge Tier (Tier 1 = 1 Stress, Tier 2 = 2 Stress, Tier 3 = 3 Stress)
-- **Offer a difficult choice** — "You can mark the tick, but you'll take 2 Stress" OR "Avoid harm, but make no progress"
+- **Mark Stress** — Mark 1 Stress
+- **Offer a difficult choice** — "You can mark the tick, but you'll take 1 Stress" OR "Avoid harm, but make no progress"
 - **Advance a Countdown Track** — Move threat closer by 1 tick
 
 ### Hard Impact Moves (on Setback)
 
 Choose one:
-- **Deal harm** — Mark Stress based on Challenge Tier + potentially inflict a Condition (Minor/Moderate/Severe)
+- **Deal harm** — Mark 2 Stress + potentially inflict a Condition tier (Minor/Moderate/Severe based on severity)
 - **Take something important** — Disarm, steal equipment, capture ally, remove advantage
 - **Put them in immediate danger** — Trapped, surrounded, at enemy's mercy, falling
 - **Activate a threat** — Trigger trap, raise alarm, enemy reinforcements arrive, hazard activates
@@ -518,7 +518,7 @@ Use when:
 - **Setback:** 0 questions + GM makes hard Impact Move (you're spotted, danger revealed, misleading impression)
 - **Conflict:** 2 questions + GM makes soft Impact Move (takes time, enemy notices, partial information creates complication)
 - **Success:** 2 questions
-- **Triumph:** 2 questions + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Triumph:** 2 questions + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect (Greater Effect = 4 questions total)
 
 **Possible questions (about the present situation):**
 - What recently happened or is about to happen?
@@ -561,7 +561,7 @@ Use when:
 - **Setback:** No useful information + GM makes hard Impact Move (you misremember critically, waste crucial time, alert danger)
 - **Conflict:** GM tells you one specific, actionable thing + you may ask one clarifying question + soft Impact Move (takes time, reveals your interest, information creates complication)
 - **Success:** GM tells you one specific, actionable thing + you may ask one clarifying question
-- **Triumph:** GM tells you one specific, actionable thing + you may ask one clarifying question + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Triumph:** GM tells you one specific, actionable thing + you may ask one clarifying question + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect (Greater Effect = significantly more information + 2 clarifying questions)
 
 **Examples:**
 - Recall fire elemental weaknesses → Success → GM: "They're vulnerable to cold iron—your weapon will cut through them easily." You: "How do I exploit that?" GM: "Strike when they're manifesting physically, not in flame form."
@@ -655,19 +655,18 @@ The player rolls Defy using the appropriate Approach:
 - **Success:** You avoid the attack cleanly (no Stress, no consequence)
 - **Triumph:** You avoid the attack + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
-### Enemy Tier Determines Stress
+### Enemy Actions Deal Stress
 
-When you fail to fully defend (Conflict or Setback), the Stress you take depends on enemy Tier:
+When you fail to fully defend (Conflict or Setback), you typically take Stress:
 
-- **Tier 1:** 1 Stress (or minor consequence)
-- **Tier 2:** 2 Stress (or moderate consequence)
-- **Tier 3:** 3 Stress (or severe consequence)
+- **Conflict:** Mark 1 Stress (soft Impact Move - glancing blow, pressured)
+- **Setback:** Mark 2 Stress (hard Impact Move - solid hit, major consequence)
 
 **Example:**
-> **GM:** "The Tier 2 knight attacks—Defy!"
+> **GM:** "The knight attacks—Defy!"
 > **Player rolls Defy → Success:** "You sidestep his blade cleanly" (no consequence)
-> **Player rolls Defy → Conflict:** "You deflect his sword (avoid the attack) but he presses you into the corner—lose your advantageous position" (soft Impact Move)
-> **Player rolls Defy → Setback:** "His blade cuts deep—take 2 Stress" (hard Impact Move: deal Tier 2 harm)
+> **Player rolls Defy → Conflict:** "You deflect his sword but he presses you into the corner—mark 1 Stress from the exertion" (soft Impact Move)
+> **Player rolls Defy → Setback:** "His blade cuts deep—mark 2 Stress" (hard Impact Move)
 
 ### Complications Apply to Defy
 
@@ -701,7 +700,7 @@ Always tell players:
 - What happens on each outcome
 
 **Example:**
-> **GM:** "The Tier 2 knight with 'Heavily Armored' swings at you. On Success you dodge cleanly. On Conflict you take 1 Stress. On Setback you take 2 Stress and he's got you cornered. Defy!"
+> **GM:** "The knight with 'Heavily Armored' swings at you. On Success you dodge cleanly. On Conflict you mark 1 Stress. On Setback you mark 2 Stress and he's got you cornered. Defy!"
 
 ---
 
@@ -711,15 +710,15 @@ By default, consequences from your own action rolls (Conflict/Setback on Clash, 
 
 **You can spend 1 Momentum to Resist Consequence:**
 
-When you suffer Stress or a Condition from your own action, you may spend 1 Momentum to roll Defy:
-- **Success:** Avoid the consequence entirely
-- **Conflict:** Reduce the consequence (take less Stress, suffer lesser Condition)
-- **Setback:** Take full consequence (Momentum wasted)
+When you would mark Stress or gain a Condition, spend 1 Momentum and roll Defy to reduce or avoid the consequence:
+- **Success:** Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor)
+- **Conflict:** Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate)
+- **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
 
 **Example:**
-> **You Clash against the knight, roll Conflict:** "You mark 1 tick but he counterattacks—take 2 Stress"
-> **You spend 1 Momentum:** "I Resist the counter!"
-> **You roll Defy with Grace:** Success → "You deflect his blade perfectly—take no Stress!"
+> **You Clash against the knight, roll Conflict:** "You mark 1 tick but he counterattacks—mark 2 Stress"
+> **You spend 1 Momentum:** "I Resist!"
+> **You roll Defy with Grace:** Success → "You deflect his blade perfectly—reduce by 2 steps, mark 0 Stress!"
 
 See [core-foundations.md](core-foundations.md#spending-momentum) for full Resist Consequence rules.
 

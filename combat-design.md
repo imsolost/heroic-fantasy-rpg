@@ -340,20 +340,18 @@ Based on design answers:
 
 ### Damage & Harm
 
-**When You Deal Damage (Successful Clash):**
-- **Success:** Deal 1 Harm to target
-- **Triumph:** Deal 2 Harm to target
+**Stress & Impact Moves:**
+This system uses Stress marking via Impact Moves rather than damage/harm:
 
-**Taking Damage (Failed Defy, Enemy Hard Move):**
+- **Soft Impact Move (Conflict):** Mark 1 Stress
+- **Hard Impact Move (Setback):** Mark 2 Stress
+- **Severe consequences (rare):** Mark 3 Stress or Condition tiers
+
+**Alternative: Harm-Based (if using traditional damage):**
+- **Success:** Deal 1 Harm
+- **Triumph:** Deal 2 Harm
 - Mark Stress equal to Harm suffered
-- If target has armor, apply armor rules (see below)
-
-**Harm Scaling:**
-- Base Harm = 1 (unarmed, improvised weapon)
-- Light weapon = 1 Harm (dagger, staff)
-- Medium weapon = 1 Harm, 2 on Triumph (sword, spear)
-- Heavy weapon = 2 Harm (greatsword, warhammer)
-- Deadly weapon/spell = 2 Harm, 3 on Triumph (dragon breath, siege crossbow)
+- Light/Medium/Heavy weapons scale Harm (1/1/2)
 
 **Area Attacks:**
 - Roll once
@@ -461,76 +459,79 @@ Combat areas divided into abstract zones:
 
 ### Armor
 
-**Armor as Resource (DW2 Style):**
+**Armor as Resource (Optional):**
 
 Armor has **uses** representing structural integrity:
-- **Light armor (leather, padded):** 1 use
-- **Medium armor (chainmail, scale):** 2 uses
-- **Heavy armor (plate, full plate):** 3 uses
+- **Light armor:** 1 use
+- **Medium armor:** 2 uses
+- **Heavy armor:** 3 uses
 
 **When You Would Mark Stress from Physical Attack:**
-- Spend 1 armor use to **negate the Stress entirely** (armor absorbs the blow)
-- Or take the Stress and preserve armor for worse hit
+- Spend 1 armor use to **negate the Stress entirely**
+- Or take the Stress and preserve armor for later
 
 **Restoring Armor:**
-- Short rest: Restore 1 use (adjust straps, patch damage)
-- Long rest / Downtime: Restore all uses (full repair)
+- Short rest: Restore 1 use
+- Long rest: Restore all uses
 
-**Design Note:** This creates tactical decision: "Do I burn armor now or save it for the dragon's breath?"
+**Design Note:** Creates tactical decision: "Do I burn armor now or save it for the big hit?"
 
 ---
 
 ### Stress, Conditions & Being Taken Out
 
-**Stress Track:** 4-5 boxes (character dependent)
+**For complete rules**, see [stress-conditions.md](stress-conditions.md).
+
+**Stress Track:** 5 boxes
 
 **Marking Stress:**
-- Most Conflict results = mark 1 Stress
-- Failed Defy vs. attack = mark Stress equal to Harm
-- Other consequences as fiction demands
+- Soft Impact Move (Conflict) = mark 1 Stress
+- Hard Impact Move (Setback) = mark 2 Stress
+- Voluntary: Quick Assist (1 Stress), Push Yourself (1 Stress)
 
 **At Maximum Stress:**
-Player chooses:
-1. **Taken Out:** Fall unconscious, captured, or defeated (removed from combat)
-2. **Push Through:** Gain Critical Condition but remain fighting (mark Stress resets to 0, but you have Critical Condition penalty)
+When Stress track is full and you would mark more, take a Condition instead or be Taken Out.
 
 **Conditions:**
-Rare, dramatic consequences:
-- **Minor** (-1d): Bruised, Shaken, Distracted
-- **Moderate** (-2d): Wounded, Frightened, Restrained
-- **Severe** (-3d): Maimed, Terrified, Pinned
-- **Critical** (cannot act normally): Dying, Broken, Petrified
+Two types with three tiers each (tracked with checkboxes):
 
-**Triggered By:**
-- Reaching max Stress and choosing to Push Through (Critical Condition)
-- Dramatic fictional events (dragon's Frightening Presence, witnessing ally fall, magical curse)
-- Specific enemy abilities
+**Staggered** (physical) — Applies Bane to physical actions
+**Shaken** (mental/emotional) — Applies Bane to mental/social actions
 
-**Clearing Conditions:**
-- Minor: End of combat or short rest
-- Moderate: Dedicated recovery action (ally uses action to stabilize you, spend 2 Momentum)
-- Severe/Critical: Extended downtime, quest resolution, powerful magic
+Each checked tier adds +1 Bane (max 3 per type):
+- **Minor** (+1 Bane): Clears after next relevant action roll
+- **Moderate** (+1 Bane): Clears after short rest
+- **Severe** (+1 Bane): Clears after long rest
+
+**Triggering Conditions:**
+- From Challenge Moves (enemy abilities inflict directly)
+- From Stress Overflow (1 Stress → Minor, 2 Stress → Moderate, 3 Stress → Severe)
+- Escalation (gain tier already checked → escalates to next tier)
+
+**Taken Out:**
+- Stress track full + can't/won't take Condition
+- OR escalate Severe that's already checked
 
 ---
 
 ### Helping Allies
 
-**Option 1: Mark Stress to Help (Free in Fiction)**
+**Quick Assist (Mark 1 Stress):**
 - Describe how you help ally
-- Mark 1 Stress (you expose yourself to danger)
-- Ally gains Edge on their roll
+- Mark 1 Stress to grant ally 1 Edge on their roll
+- Doesn't consume your action
 
-**Option 2: Use Your Action to Aid**
-- Use your action (you don't attack/defend yourself this turn)
+**Use Action to Aid:**
+- Use your action to set up ally
 - Ally gains Edge on their next roll
-- No Stress cost, but you lose your action
+- Costs your action but no Stress
 
-**Option 3: Spend Momentum (Existing Rule)**
-- Spend 1 Momentum
-- Grant ally Edge on upcoming roll
-- Fast, doesn't cost action or Stress
+**Build Momentum (Trait Special Effect):**
+- When you invoke a Trait, choose Build Momentum
+- Grant 1 Momentum to yourself or ally
+- Ally can spend it on Act with Potency (Edge + ignore Complication + narrative permission)
 
-**Design Note:** Options 1 and 2 feel more heroic ("I dive in front of the blow," "I distract the enemy"). Option 3 is tactical resource management. All three could coexist — player chooses based on fiction and resources.
+**Design Note:** Quick Assist is heroic and immediate. Build Momentum enables Act with Potency for big moments.
 
 ---
 

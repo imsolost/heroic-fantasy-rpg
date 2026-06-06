@@ -51,7 +51,7 @@ Actions describe *what* a character is doing.
 - **Defy → Overcome:** Mark Obstacle track or automatically overcome simple tasks
 - **Clash → Harm:** Mark Harm track or outright defeat weaker foes
 - **Talk → Influence:** Mark Accord track or outright convince lesser creatures
-- **Sense → Assess:** Ask 2 questions (Conflict/Success)
+- **Sense → Assess:** Ask 2 questions
 - **Know → Recall:** GM tells you one specific, actionable thing + you may ask one clarifying question
 
 ---
@@ -171,11 +171,10 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 - **Act with Potency (1 Momentum):** Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats (see Potency below). Allows you to attempt normally impossible tasks and pull off heroic feats.
 
 **After Rolling:**
-- **Resist Consequence (1 Momentum):** When you suffer Stress or a Condition from your own action's Conflict or Setback result, you may roll Defy to attempt to reduce or avoid it.
-  - **Success:** Avoid the consequence entirely (no Stress, no Condition)
-  - **Conflict:** Reduce the consequence (take less Stress, suffer lesser Condition)
-  - **Setback:** Take the full consequence (you tried but failed—Momentum is spent)
-  - **Cannot be used for:** External threats (those trigger Defy automatically for free), or narrative consequences without mechanical teeth (use Negate Consequence instead)
+- **Resist Consequence (1 Momentum):** When you would mark Stress or gain a Condition, spend 1 Momentum and roll Defy to reduce or avoid the consequence.
+  - **Success:** Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor)
+  - **Conflict:** Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate)
+  - **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
 
 **Any Time:**
 - **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
@@ -290,9 +289,7 @@ When circumstances work against your action, you suffer **Bane**. Sources of Ban
 
 **Design Note:** Edge/Bane affect **probability** (dice rolls). Opportunities/Complications affect **outcomes** (tier shifts). These are separate systems.
 
-## Opportunities & Complications
-
-**Opportunities** and **Complications** shift your outcome tier after rolling. They are the opposite of each other and create a second tactical layer beyond Edge/Bane.
+## Momentum & Complications
 
 ### Build Momentum (Special Effect)
 
@@ -321,17 +318,16 @@ When circumstances work against your action, you suffer **Bane**. Sources of Ban
 - **Environmental hazards** — GM may impose Complications for dangerous situations
 
 **Negating Complications:**
-1. **Opportunities** — Cancel 1:1 with Opportunities (before either applies)
+1. **Act with Potency** — Spend 1 Momentum to ignore 1 Complication (also grants Edge + narrative permission)
 2. **Talents** — Some Talents auto-negate specific Complications
 3. **Triumph** — Triumph ignores all Complications (cannot be reduced)
 
 **Rules:**
 - **Unlimited stacking** (but most enemies have 0-2)
-- **Cancels with Opportunities:** 1:1 before applying tier shift
 
 **Example:** You roll Success. Enemy has "Heavily Armored" (1 Complication). Success → Conflict.
 
-**Design Note:** Opportunities/Complications affect **outcome quality**. Edge/Bane affect **roll probability**. Two separate tactical layers.
+**Design Note:** Complications affect **outcome quality**. Edge/Bane affect **roll probability**. Two separate tactical layers.
 
 ---
 
@@ -387,71 +383,71 @@ See [resolution.md](resolution.md) for full details and probability tables.
 
 ## Stress & Conditions
 
+**For complete rules and examples**, see [stress-conditions.md](stress-conditions.md).
+
 ### Stress (Unified Buffer)
 
-Stress represents all harm — physical wounds, mental strain, social humiliation, spiritual corruption.
+Stress represents getting tired or rattled, taking superficial wounds, narrowly avoiding injury, or pushing yourself beyond normal limits. It recovers quickly and is not meant to represent lasting harm.
 
-**Stress Track:** 4–5 boxes (determined by character build)
+**Stress Track:** 5 boxes (all characters)
 
-- When you suffer harm, mark Stress equal to the severity (1–3 boxes)
-- **At maximum Stress:** If you would mark more Stress when already at maximum, you're Taken Out
-- **Recovery:** Clear 1 Stress per rest scene; clear all Stress at end of session or downtime
+- Mark boxes left to right
+- When your track is full and you would mark more Stress, you must take a Condition instead or be Taken Out
+
+**Marking Stress:**
+- **Soft Impact Move:** Mark 1 Stress
+- **Hard Impact Move:** Mark 2 Stress
+- **Voluntary:** Quick Assist (1 Stress), Push Yourself (1 Stress)
+
+**Recovery:**
+- **Short rest (10–15 minutes):** Clear all Stress and all Minor and Moderate Conditions
+- **Long rest (overnight):** Clear all Stress and all Conditions
+
+### Conditions (Lasting Impairment)
+
+Conditions represent lasting physical or mental impairment beyond the quick recovery of Stress. They impose Banes on relevant rolls and persist until recovered.
+
+**Two Types:**
+- **Staggered** — Physical impairment (injury, exhaustion, poison). Applies Bane to physical actions.
+- **Shaken** — Mental/emotional impairment (fear, anger, confusion, despair). Applies Bane to mental and social actions.
+
+You can have both Staggered and Shaken simultaneously. Each tracks independently.
+
+**Three Tiers (Track with checkboxes):**
+
+Each Condition type has three tiers. Track each tier with a checkbox. Each checked tier adds 1 Bane to relevant rolls.
+
+| Tier | Bane | Clears |
+|------|------|--------|
+| **Minor** | +1 | After next relevant action roll |
+| **Moderate** | +1 | After short rest |
+| **Severe** | +1 | After long rest |
+
+Your total Bane equals however many tiers are currently checked (maximum 3 Banes per Condition type).
+
+**Gaining Conditions:**
+- **From Challenge Moves:** Some enemy or environmental moves impose Conditions directly
+- **From Stress Overflow:** When your Stress track is full and you would mark more Stress, take a Condition instead:
+  - 1 Stress → Minor Condition
+  - 2 Stress → Moderate Condition
+  - 3 Stress → Severe Condition
+
+**Escalation:**
+When you would gain a Condition tier you already have checked, it escalates to the next unchecked tier instead.
+
+**Example:**
+- You have Staggered (Minor + Moderate + Severe) = 3 Banes on physical rolls
+- You make a physical action roll — Minor clears. Now 2 Banes.
+- Short rest — Moderate clears. Now 1 Bane.
+- Long rest — Severe clears. Fully recovered.
 
 ### Taken Out
 
-When you are Taken Out, you are removed from the scene. The GM narrates what happens based on context:
+You are Taken Out when:
+- You would mark Stress while your track is full and cannot or choose not to take a Condition, or
+- You would escalate a Severe Condition that is already checked
 
-**How you get Taken Out:**
-1. **Stress overflow** - Mark Stress when already at maximum
-2. **Complications** - Your outcome is reduced below Setback (see [traits-complications-challenges.md](traits-complications-challenges.md))
-3. **Critical Condition** - Some Conditions force you out of action
-
-**What happens (GM chooses based on context):**
-- **Combat:** Unconscious, bleeding out, captured
-- **Social:** Humiliated, lose all standing, forced to flee
-- **Exploration:** Lost, separated from group, trigger deadly trap
-- **Negotiation:** Deal collapses, NPC becomes hostile
-- **Chase:** Captured, cornered, lose quarry permanently
-- **Infiltration:** Discovered, arrested, blown cover
-
-**After being Taken Out:** You're out of this scene. Allies can rescue, revive, or stabilize you if the fiction allows. The GM determines long-term consequences.
-
-**Taken Out ≠ Death** (usually). The GM should make it interesting and recoverable, but with serious fictional consequences.
-
-See [action-roll.md](action-roll.md#taken-out) for full Taken Out guidance.
-
-### Conditions (Lasting Penalties)
-
-Conditions represent lasting harm that persists beyond immediate Stress. Conditions are tiered, escalating penalties:
-
-**When you gain a Condition:**
-
-1. **Stress overflow** - When you would mark Stress at maximum, you're Taken Out AND may gain a Condition
-2. **Severe consequences** - GM decides based on fiction:
-   - Fell off a cliff, mauled by beast, caught in explosion (physical)
-   - Publicly shamed, betrayed by ally, reputation destroyed (social)
-   - Witnessed horror, cursed by dark magic, possessed (mental/spiritual)
-3. **Special abilities** - Some enemy Talents or moves inflict Conditions directly
-4. **Condition escalation** - When you take harm while at maximum Stress, existing Condition worsens one tier
-
-**Most of the time, you only mark Stress.** Conditions are for lasting consequences that change the fiction.
-
-| Tier | Penalty | Examples |
-|---|---|---|
-| **Minor** | 1 Bane (-1d) to relevant rolls | Bruised, Shaken, Embarrassed |
-| **Moderate** | 2 Banes (-2d) to relevant rolls | Wounded, Rattled, Discredited |
-| **Severe** | 3 Banes (-3d) to relevant rolls, fictional restrictions | Maimed, Traumatized, Exiled |
-| **Critical** | Cannot act in specific ways, may force Taken Out | Dying, Broken, Cursed |
-
-**Note:** Severe Conditions exceed the normal ±3d Edge/Bane cap to represent truly debilitating injuries.
-
-**Clearing Conditions:**
-- **Minor:** Clear at end of scene or with rest
-- **Moderate:** Requires dedicated recovery scene or spending 2 Momentum
-- **Severe:** Requires extended downtime (days/weeks) or quest resolution
-- **Critical:** Requires major story resolution
-
-**Condition Tiers:**
+The GM narrates what happens based on context — unconscious, fleeing, captured, broken. Taken Out is not automatically death.
 
 ---
 

@@ -201,14 +201,14 @@ Choose one:
 - **Reveal an unwelcome truth** — Show something they didn't want to know
 - **Show signs of approaching threat** — Foreshadow danger, countdowns advance
 - **Take away advantage or position** — Lose high ground, cover, flanking, initiative
-- **Mark Stress** — Mark 1 Stress
+- **Mark Stress** — Mark 1 Stress + potentially inflict a Condition (tier 1)
 - **Offer a difficult choice** — "You can mark the tick, but you'll take 1 Stress" OR "Avoid harm, but make no progress"
 - **Advance a Countdown Track** — Move threat closer by 1 tick
 
 ### Hard Impact Moves (on Setback)
 
 Choose one:
-- **Deal harm** — Mark 2 Stress + potentially inflict a Condition tier (Minor/Moderate/Severe based on severity)
+- **Deal harm** — Mark 2 Stress + potentially inflict a Condition (tier 1-3 based on severity)
 - **Take something important** — Disarm, steal equipment, capture ally, remove advantage
 - **Put them in immediate danger** — Trapped, surrounded, at enemy's mercy, falling
 - **Activate a threat** — Trigger trap, raise alarm, enemy reinforcements arrive, hazard activates
@@ -269,12 +269,12 @@ Does it make sense given what just happened? The Secondary Effect should flow na
 Should feel impactful and heroic but not encounter-ending. A Secondary Effect is a moment of excellence, not a scene-ender by itself.
 
 **3. Scale Matters**
-- **Reasonable:** Affect 2-3 targets, inflict Minor/Moderate Condition, gain significant tactical advantage
+- **Reasonable:** Affect 2-3 targets, inflict tier 1-2 Condition, gain significant tactical advantage
 - **Too Much:** Affect entire army, instant-kill boss enemy, end the scene immediately
 
 **4. Talent Gates**
 Some effects may require specific Talents to achieve:
-- Inflicting Severe Conditions might need combat mastery Talents
+- Inflicting tier 3 Conditions might need combat mastery Talents
 - Affecting large groups might need area-effect Talents
 - Instant defeats might need assassination or execution Talents
 
@@ -284,7 +284,7 @@ Let players propose Secondary Effects that excite them. Approve when fiction and
 **Examples:**
 - ✓ "I disarm him and kick his sword away" (Take Something—reasonable)
 - ✓ "I convince her and she offers to help us beyond what we asked" (escalated commitment—reasonable)
-- ✗ "I kill the boss in one hit" (instant defeat without special Talent—too much, suggest inflicting Severe Condition instead)
+- ✗ "I kill the boss in one hit" (instant defeat without special Talent—too much, suggest inflicting tier 3 Condition instead)
 - ✗ "I convince the entire city guard" (scale too large without Talent—suggest convincing their captain or small squad)
 
 ---
@@ -621,7 +621,7 @@ The GM makes a **Disaster Move** — the thing you were trying to prevent comes 
 - **You're Taken Out** — Knocked unconscious, captured, flee in terror, pinned helplessly
 - **The objective fails** — Alarm raised, vault sealed, artifact destroyed, noble calls guards
 - **A Countdown completes** — Ceiling collapses, ritual finishes, reinforcements arrive
-- **Severe Condition + maximum Stress** — Broken Arm (Severe) + mark 3 Stress (for Tier 3 Challenge)
+- **Tier 3 Condition + maximum Stress** — Wounded 3 + mark 3 Stress (dramatic moment)
 - **Dramatic narrative shift** — You're exposed as a spy, the bridge collapses behind you, the demon breaks free
 
 **Example:**
@@ -711,8 +711,8 @@ Always tell players:
 When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum and roll Defy to reduce or avoid it:
 
 **Outcomes:**
-- **Success:** Mechanical consequence: Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor) / Narrative consequence: Avoid entirely
-- **Conflict:** Mechanical consequence: Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate) / Narrative consequence: Reduce severity  
+- **Success:** Mechanical consequence: Reduce by 2 steps (2 Stress → 0, tier 3 → tier 1, tier 2 → clear) / Narrative consequence: Avoid entirely
+- **Conflict:** Mechanical consequence: Reduce by 1 step (2 Stress → 1, tier 3 → tier 2, tier 2 → tier 1) / Narrative consequence: Reduce severity  
 - **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
 
 **Example (mechanical):**

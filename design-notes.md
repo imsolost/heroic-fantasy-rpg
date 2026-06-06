@@ -50,15 +50,16 @@ These choices make Stress feel valuable beyond just a hit point buffer.
 
 ---
 
-## Why Two Condition Types?
+## Why Named Conditions?
 
 ### Considered Alternatives
 
-**Option 1: Many specific Conditions** (Wounded, Exhausted, Frightened, Angry, Poisoned, etc.)
-- **Pro:** Granular, evocative, "realistic"
-- **Con:** Tracking nightmare — players forget which Condition applies when, reference constantly
-- **Con:** Design burden — every Challenge Move needs to specify exact Condition type
-- **Con:** Edge cases — "Wait, does Frightened apply to this roll?"
+**Option 1: Two broad categories** (Staggered/Shaken with checkbox tiers)
+- **Pro:** Simple to track — two sets of checkboxes
+- **Pro:** Broad application — covers most harm types
+- **Con:** Feels abstract — "Staggered" doesn't evoke the fiction as well as "Poisoned" or "Burned"
+- **Con:** Checkbox escalation complex — players confused about when to check which tier
+- **Con:** "Staggered vs Shaken" distinction led to constant "which type is this?" questions
 
 **Option 2: One generic Condition** (just "Hurt" or "Impaired")
 - **Pro:** Extremely simple
@@ -66,128 +67,155 @@ These choices make Stress feel valuable beyond just a hit point buffer.
 - **Con:** Can't model being wounded AND frightened simultaneously
 - **Con:** Limits enemy design — dragon's fear aura is just more "Hurt"
 
-**Option 3: Two broad categories** (Staggered/Shaken) ← **We chose this**
-- **Pro:** Simple to track — two checkboxes on the sheet
-- **Pro:** Broad application — covers 95% of harm types without granularity
-- **Pro:** Tactical variety — different enemies threaten different aspects
-- **Pro:** Intuitive — players immediately grasp "am I acting physically or mentally?"
+**Option 3: Named Conditions with tiers** ← **We chose this**
+- **Pro:** Evocative — "Poisoned 2" or "Frightened 3" immediately communicates fiction
+- **Pro:** Flexible — GM names Conditions to fit the situation (Burned, Stunned, Blinded, etc.)
+- **Pro:** Simple tracking — just write "Poisoned 2" on sheet, tick down the number
+- **Pro:** Clear application — default to "affects all rolls" eliminates constant edge-case questions
+- **Con:** Slightly more tracking than one generic Condition (but much simpler than old checkbox system)
 
 ---
 
 ## Why Three Tiers?
 
-**Minor → Moderate → Severe** creates a gradual escalation that feels earned rather than arbitrary.
+**Tier 1 → Tier 2 → Tier 3** creates a gradual escalation that feels earned rather than arbitrary.
 
-**One tier only:** No deterioration modeling — being hit once vs. five times feels identical.
+**One tier only:** No duration modeling — fleeting dizziness vs deep poison feels identical.
 
-**Two tiers:** Escalation too steep — Minor → Major feels like falling off a cliff.
+**Two tiers:** Not enough granularity — tier 1 feels trivial, tier 2 feels too severe.
 
 **Three tiers:** Sweet spot for heroic play.
-- **Minor** = "I'm hurt but pushing through" (clears quickly)
-- **Moderate** = "I'm significantly impaired" (need a rest)
-- **Severe** = "I'm barely standing" (need real recovery time)
+- **Tier 1** = "I'm impaired but pushing through" (clears after 1 action)
+- **Tier 2** = "I'm significantly impaired" (clears after 2 actions)
+- **Tier 3** = "I'm barely standing" (clears after 3 actions)
 
-**Four+ tiers:** Tracking becomes fiddly, math becomes tedious (4+ Banes per Condition feels brutal).
+**Four+ tiers:** Tracking becomes fiddly, duration too long (4+ actions to clear feels eternal in combat).
 
----
-
-## Why Cumulative Banes?
-
-Each checked tier adds +1 Bane (maximum 3 per Condition type).
-
-**Alternative: Fixed penalty per tier**
-- Minor = 1 Bane, Moderate = 1 Bane, Severe = 1 Bane (never stacking)
-- **Problem:** Getting hit repeatedly feels mechanically identical
-- **Problem:** No deterioration modeling — first hit = fifth hit
-
-**Alternative: Escalating penalty per tier**
-- Minor = 1 Bane, Moderate = 2 Banes, Severe = 4 Banes
-- **Problem:** Math gets steep fast — 4 Banes is nearly auto-fail
-- **Problem:** Players at Severe feel useless, stop engaging
-
-**Cumulative (+1 per tier)** models deterioration naturally:
-- 1 Bane = hurt but functional
-- 2 Banes = significantly impaired, need to adapt tactics
-- 3 Banes = barely hanging on, need help or creative solutions
-
-**Maximum 3 Banes** keeps it heroic — bad but not impossible. A 3d6 pool with 3 Banes still has a ~16% Success chance. You CAN clutch it out, just risky.
+**All tiers apply same penalty (1 Bane)** — tier represents duration, not severity. This keeps math simple while modeling persistence.
 
 ---
 
-## Why Independent Tier Clearing?
+## Why Each Condition = 1 Bane (Max 2 From Conditions)?
 
-Each tier clears according to its own recovery condition:
-- Minor → after next relevant action
-- Moderate → after short rest
-- Severe → after long rest
+**Each Condition applies 1 Bane, regardless of tier. Multiple Conditions stack, maximum 2 Banes from Conditions total.**
 
-**Alternative: Clear all tiers together**
-- **Problem:** Severe Conditions feel unrecoverable — stuck at 3 Banes forever
-- **Problem:** No sense of gradual healing
+**Alternative: Tier determines penalty**
+- Tier 1 = 1 Bane, Tier 2 = 2 Banes, Tier 3 = 3 Banes
+- **Problem:** Math escalates too fast — Tier 3 alone = 3 Banes feels crushing
+- **Problem:** Players at Tier 3 feel useless, disengage
 
-**Independent clearing** creates satisfying recovery arcs:
-1. "I just acted — Minor clears, now I'm down to 2 Banes"
-2. "We took a short rest — Moderate clears, now I'm down to 1 Bane"
-3. "Long rest — Severe clears, fully recovered"
+**Alternative: All Conditions = 1 Bane, unlimited stacking**
+- **Problem:** Three Conditions = 3 Banes feels too punishing
+- **Problem:** Overlaps with Edge/Bane cap (±2d from all sources), creates confusion
 
-This models "getting better over time" rather than binary hurt/healed states.
+**Flat 1 Bane per Condition, capped at 2 total** models impairment simply:
+- 1 Condition = 1 Bane = hurt but functional
+- 2+ Conditions = 2 Banes = significantly impaired, need to adapt tactics
+- Tier represents duration (how long it lasts), not severity (how bad the penalty is)
 
----
+**Maximum 2 Banes from Conditions** keeps it heroic while stacking with the Edge/Bane cap (±2d from all sources). You can have 2 Banes from Conditions + 2 Banes from difficulty = 4 total Banes, but Conditions alone cap at 2.
 
-## Why Clear Minor After One Roll?
-
-Inspired by **Grimwild's Marks** system — temporary harm that clears through action rather than time.
-
-**Playtesting insight:** Minor Conditions that linger for multiple rolls bog down play. Players become overly cautious, waiting to act until they clear it. But if it clears after one action, they act THROUGH it, creating heroic moments.
-
-**Example:**
-> "I charge the orc despite my wounded leg (Staggered Minor, 1 Bane) — rolling Clash with penalty... Success! I cleave through it. And now the wound clears — adrenaline carries me forward."
-
-This encourages **action as recovery** rather than passivity. Very different feel from "wait 3 rounds for it to wear off."
+**Why 2 not 3?** Playtesting showed 3 Banes from Conditions alone felt too punishing, especially combined with difficult circumstances. 2 Banes = ~6% Setback rate on 3d6, still challenging but not crushing.
 
 ---
 
-## Why Allow Both Staggered and Shaken Simultaneously?
+## Why Tiers Tick Down Through Action?
+
+Each time you make an action roll where the Condition applies, reduce tier by 1. When tier reaches 0, it clears.
+
+**Alternative: Time-based clearing**
+- Tier 1 → clears after 1 round
+- Tier 2 → clears after 2 rounds
+- Tier 3 → clears after 3 rounds
+- **Problem:** Passive waiting feels un-heroic — "I hide and wait for it to wear off"
+- **Problem:** Tracking rounds adds overhead
+
+**Alternative: Flat duration regardless of tier**
+- All Conditions clear after 3 actions
+- **Problem:** Tier becomes meaningless — Tier 1 = Tier 3 in practice
+
+**Ticking down through action** creates satisfying recovery arcs:
+1. "I act despite the poison (Tier 3 → Tier 2)"
+2. "I push through again (Tier 2 → Tier 1)"
+3. "One more action and I'm clear (Tier 1 → clears)"
+
+This models **action as recovery** — heroes fight through adversity rather than passively waiting for it to pass. Very different feel from "wait 3 rounds for it to wear off."
+
+Inspired by **Grimwild's Marks** system.
+
+---
+
+## Why Refresh Instead of Escalate?
+
+**Rule:** If you would gain a Condition you already have, it refreshes to its original tier instead of escalating higher.
+
+**Example:** You have Poisoned 2. You're poisoned again. It refreshes to Poisoned 2, not Poisoned 3 or Poisoned 4.
+
+**Alternative: Escalate tiers**
+- Poisoned 2 + Poisoned again = Poisoned 3
+- **Problem:** Unlimited escalation leads to death spiral — repeated hits ratchet tier infinitely
+- **Problem:** Tracking confusion — "I have Poisoned 2 and Poisoned 3, are those separate?"
+
+**Alternative: Add separate instances**
+- Track "Poisoned 2" and "Poisoned 2 (second dose)" separately
+- **Problem:** Tracking nightmare — which one ticks down when?
+- **Problem:** Each instance = 1 Bane → could exceed 2 Bane cap from Conditions
+
+**Refresh (reset to max tier)** models persistence without escalation:
+- First hit: Poisoned 2 (2 actions to clear)
+- Act once: Poisoned 1 (1 action to clear)
+- Get hit again: Refreshes to Poisoned 2 (back to 2 actions to clear)
+
+This creates **persistence** (hard to shake off when repeatedly applied) without **death spiral** (never gets worse than original tier). The poison keeps you impaired but doesn't compound infinitely.
+
+---
+
+## Why Allow Multiple Different Conditions Simultaneously?
 
 ### Narrative Realism
 
-Real dangerous situations can hurt you in multiple ways at once:
-- Dragon claws you (Staggered) AND roars to terrify you (Shaken)
-- Poisoned dart (Staggered) while witnessing your friend fall (Shaken)
-- Exhausted from climbing (Staggered) and afraid of heights (Shaken)
+Real dangerous situations can impair you in multiple ways at once:
+- Dragon claws you (Wounded) AND roars to terrify you (Frightened)
+- Poisoned dart (Poisoned) while witnessing your friend fall (Demoralized)
+- Exhausted from climbing (Exhausted) and afraid of heights (Frightened)
 
-Restricting to one type would force weird choices: "You can be wounded OR frightened, not both."
+Restricting to one Condition would force weird choices: "You can be wounded OR frightened, not both."
 
 ### Tactical Variety
 
 Different enemies threaten different aspects:
-- **Undead wights:** Physical necrotic touch + mental dread aura
-- **Fire elementals:** Physical burns, no mental effects
-- **Mind flayers:** Mental domination, minimal physical harm
-- **Dragons:** BOTH (claws + fear aura)
+- **Undead wights:** Necrotic touch (Weakened) + dread aura (Frightened)
+- **Fire elementals:** Burns (Burned), no mental effects
+- **Mind flayers:** Mental domination (Confused), minimal physical harm
+- **Dragons:** BOTH (Wounded + Frightened from claws + fear aura)
 
 This creates varied threat profiles and interesting encounter design.
 
-### Player Choice
+### Capped at 2 Banes Total
 
-When you have limited Momentum to Resist, which Condition matters more right now?
-- "I'll Resist the Shaken because I need to use Talk next turn"
-- "I'll Resist the Staggered because there's a big physical challenge coming"
+Multiple Conditions stack (each = 1 Bane) but cap at 2 Banes from Conditions total. This prevents:
+- **Death spiral:** Three+ Conditions don't compound to 3+ Banes
+- **Overwhelming penalties:** Even with many Conditions, max 2 Banes keeps you functional
+- **Clear cap:** Players know the worst case (2 Banes from Conditions)
 
-This choice only exists if both types can coexist.
+**Example:** You have Poisoned 2, Frightened 1, and Prone 1. That's three Conditions but only 2 Banes total (capped).
 
 ---
 
-## Why Short Rests Clear Moderate?
+## Why Short Rests Clear All Conditions?
 
 **10-15 minutes of safety** — This is the "catch your breath after a fight" beat.
 
-In playtesting, we found:
-- **Clearing only Stress:** Players still had 2-3 Banes from accumulated Moderate Conditions, felt punished for multiple encounters
-- **Clearing all Conditions:** No consequence from taking Moderate Conditions, too forgiving
-- **Clearing Stress + Moderate:** Perfect pacing — one tough fight puts you at Moderate Conditions, short rest resets for next fight
+**All Conditions clear on short rest** regardless of tier. This creates clean scene boundaries.
 
-**Severe stays** — This is the "you need real rest, not just a breather" tier. Keeps Severe feeling meaningful.
+In playtesting, we found:
+- **Clearing only Stress:** Players still had Conditions from prior fights, felt punished across multiple encounters
+- **Tier-based clearing (Tier 1-2 clear, Tier 3 stays):** Tracking burden — "which tier was this again?" — and Tier 3 Conditions dragged across scenes
+- **All Conditions clear:** Perfect pacing — one tough fight leaves you with Conditions, short rest resets for next fight
+
+**Design intent:** Conditions are scene-level impairment, not adventure-level. They create tension within a fight or sequence, then clear for the next scene.
+
+**Burdens (rare):** For persistent Conditions that DO carry across scenes, use Burdens — explicitly marked as requiring narrative resolution instead of normal rest.
 
 ---
 
@@ -227,51 +255,53 @@ In playtesting:
 
 ---
 
-## Why Escalate Duplicate Tiers?
+## Why Named Conditions Instead of Generic Tiers?
 
-**Rule:** When you gain a Condition tier you already have checked, it escalates to the next tier.
+**Rule:** GMs name Conditions to fit the fiction (Poisoned, Frightened, Blinded, etc.) rather than using abstract generic tiers.
 
-**Alternative: Ignore duplicates**
-- **Problem:** Taking Staggered (Minor) five times has same effect as taking it once — repeated hits meaningless
-- **Problem:** Encourages degenerate tactics — "Just spam Minor Conditions, they don't stack"
+**Alternative: Generic "Impaired 1/2/3"**
+- **Problem:** Loses fiction — "Impaired 2" doesn't evoke anything specific
+- **Problem:** Can't model being poisoned AND frightened — both are just "Impaired"
 
-**Alternative: Add another instance of same tier**
-- **Problem:** Tracking nightmare — "I have Staggered (Minor) three times, when do they each clear?"
-- **Problem:** Too punishing — three instances of Minor = 3 Banes without ever escalating
+**Alternative: Fixed list of specific Conditions with unique mechanical effects**
+- **Problem:** Tracking nightmare — players need to reference what each Condition does
+- **Problem:** Design burden — requires extensive list with edge-case rulings
 
-**Escalation** models accumulation naturally:
-1. First hit → Minor (1 Bane)
-2. Second hit → Moderate added (2 Banes)
-3. Third hit → Severe added (3 Banes)
-4. Fourth hit → Taken Out
+**Named Conditions with simple unified effect (1 Bane)** combines best of both:
+- **Evocative:** "Poisoned 2" immediately communicates the fiction
+- **Flexible:** GM picks the name that fits the situation
+- **Simple:** All Conditions work the same mechanically (1 Bane, tick down through action)
+- **Stackable:** Multiple different Conditions can coexist (Poisoned 2 + Frightened 1)
 
-Deterioration feels earned and mechanically visible.
+The name serves the fiction, the tier serves the mechanics. Clean separation of concerns.
 
 ---
 
-## Why Allow Gaps in Tiers?
+## Why Default to "All Rolls" Instead of Specific Actions?
 
-**Rule:** Taking a higher tier directly checks that tier without affecting lower tiers.
+**Rule:** By default, a Condition affects all action rolls unless clearly inapplicable.
 
-**Example:** You have Staggered (Minor) checked. You take Staggered (Severe) directly. Now you have Minor + Severe (not Minor + Moderate + Severe).
+**Example:** Poisoned 2 affects Clash, Defy, Talk, Sense — basically everything. Only clearly inapplicable cases (e.g., recalling lore while poisoned) don't apply.
 
-**Why allow this?** It creates interesting "spiked damage" scenarios:
-- Minor wound from earlier fight (Minor checked)
-- Massive dragon breath attack (Severe checked)
-- Result: Minor + Severe = 2 Banes, but Moderate not checked
+**Alternative: Specific action restrictions**
+- Poisoned affects physical actions only
+- Frightened affects mental actions only
+- **Problem:** Constant edge-case questions — "Is Defy physical or mental?" "Does poison affect Talk?"
+- **Problem:** Tracking burden — "Which Conditions apply to this roll?"
 
-**Recovery arc:**
-- Make one physical action → Minor clears (down to 1 Bane from Severe)
-- Take short rest → nothing happens (no Moderate to clear)
-- Take long rest → Severe clears (fully recovered)
+**Alternative: Condition type determines application** (like old Staggered/Shaken)
+- Physical Conditions affect physical actions
+- Mental Conditions affect mental actions
+- **Problem:** Same edge-case questions, plus categorization burden — "Is this Condition physical or mental?"
 
-This models "lots of little cuts PLUS one big wound" differently from "gradual escalation through medium hits."
+**Default to "all rolls"** eliminates questions:
+- You're Poisoned 2? 1 Bane on all your rolls
+- You're Frightened 1? 1 Bane on all your rolls
+- Clear exception: Blinded doesn't affect recalling lore, Deafened doesn't affect scanning visually
 
-**Considered auto-filling:** Direct Severe could automatically check Minor + Moderate too.
-- **Problem:** Removes the distinction above
-- **Problem:** Makes Severe + Severe escalation (to Taken Out) happen unintentionally when taking direct Severe hit while already having Minor/Moderate
+**GM has final say on exceptions,** but default is simple: Conditions impair you broadly, tick down through any relevant action, clear on short rest.
 
-Gaps are edge cases (uncommon in play) but create interesting tactical space when they occur.
+This trades away some granularity for massive reduction in edge-case rulings.
 
 ---
 
@@ -297,20 +327,23 @@ Gaps are edge cases (uncommon in play) but create interesting tactical space whe
 
 ---
 
-## Why Maximum 3 Banes?
+## Why Maximum 2 Banes from Conditions?
 
-With three tiers per Condition type, maximum Banes per type = 3.
+Multiple Conditions stack, but maximum 2 Banes from Conditions total.
 
-**Why stop at 3?** 
-- **Math stays manageable** — 3 Banes on 3d6 = 0% Success, ~16% on 4d6 (low but not impossible)
-- **Heroic feel** — You CAN still succeed when badly hurt, just risky
-- **Taken Out triggers** — Further escalation beyond 3 Banes = Taken Out
+**Why stop at 2?** 
+- **Math stays manageable** — 2 Banes on 3d6 = ~6% Setback (challenging but not crushing)
+- **Heroic feel** — You CAN still succeed when impaired, just harder
+- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Very Hard task = 4 total, keeping Edge/Bane system consistent (max ±2d from any single source)
 
 **Considered higher caps:**
-- **4+ Banes:** Auto-fail territory, feels like "you're already out, why are you still acting?"
-- **Unlimited Banes:** Tracking nightmare, math becomes hostile
+- **3+ Banes from Conditions alone:** Too punishing, especially when combined with situational Banes (Hard task, poor positioning, etc.)
+- **Unlimited Banes:** Tracking nightmare, death spiral, math becomes hostile
 
-**3 Banes** is the "barely hanging on" threshold — bad enough to feel desperate, not so bad that acting is pointless.
+**Considered lower caps:**
+- **1 Bane max:** No deterioration modeling — being hit repeatedly feels mechanically identical
+
+**2 Banes from Conditions** is the "significantly impaired" threshold — bad enough to feel consequences, not so bad that you feel useless. You adapt tactics, seek help, or push through with Momentum.
 
 ---
 
@@ -393,21 +426,29 @@ GMs control pacing by controlling short rest opportunities. Want attrition to ma
 - **Problem:** Never ran out in normal play, felt like padding
 - **Fix:** Reduced to 5 boxes
 
-**Early version:** Four Condition tiers (Trivial, Minor, Moderate, Severe)
-- **Problem:** Trivial was forgettable, players ignored it
-- **Fix:** Collapsed to three tiers, made Minor clear after one action
+**Early version:** Two Condition types with checkbox tiers (Staggered/Shaken)
+- **Problem:** Checkbox escalation complex, "which type?" questions constant
+- **Fix:** Named Conditions with simple tier numbers (Poisoned 2, Frightened 1)
 
-**Early version:** Five Condition types (Wounded, Exhausted, Frightened, Angry, Confused)
-- **Problem:** Players constantly asked "which one applies to this roll?"
-- **Fix:** Collapsed to two broad categories (Staggered/Shaken)
+**Early version:** Staggered/Shaken applied to specific action types (physical vs mental)
+- **Problem:** Constant edge-case questions — "Is Defy physical or mental?"
+- **Fix:** Default to "all rolls" unless clearly inapplicable, eliminates most questions
+
+**Early version:** Each tier cleared independently (tier 1 after action, tier 2 after short rest, tier 3 after long rest)
+- **Problem:** Tracking burden, tier 3 dragged across scenes
+- **Fix:** All tiers tick down through action, all Conditions clear on short rest (scene boundaries)
+
+**Early version:** Cumulative Bane penalties (3 tiers = 3 Banes per Condition)
+- **Problem:** Too punishing, especially with multiple Conditions
+- **Fix:** Flat 1 Bane per Condition, max 2 Banes from Conditions total
+
+**Early version:** Conditions escalate when refreshed (Poisoned 2 + Poisoned = Poisoned 3)
+- **Problem:** Death spiral, unlimited escalation
+- **Fix:** Conditions refresh to original tier (Poisoned 2 stays Poisoned 2)
 
 **Early version:** Resist on Success cleared consequence entirely
 - **Problem:** Momentum became "immunity button," no risk
-- **Fix:** Changed to reduction steps (2 on Success, 1 on Conflict)
-
-**Early version:** All Conditions cleared on short rest
-- **Problem:** No consequence to taking Severe Conditions
-- **Fix:** Short rest only clears Minor/Moderate, Severe needs long rest
+- **Fix:** Changed to reduction steps (2 on Success, 1 on Conflict) — still in place
 
 ### What Worked Immediately
 
@@ -462,14 +503,14 @@ Mark boxes for ANY Condition, no distinction between types.
 
 **Pros:**
 - Extremely simple
-- No need to track Staggered vs Shaken separately
+- No need to track different Condition names
 
 **Cons:**
 - Loses tactical variety (all harm feels same)
-- Can't model being wounded AND frightened
-- Limits enemy design
+- Can't model being wounded AND frightened simultaneously
+- Limits enemy design (dragon's fear aura = generic boxes)
 
-**Verdict:** Too reductive. Two-type system hits sweet spot of simplicity + variety.
+**Verdict:** Too reductive. Named Conditions provide fiction while keeping mechanics simple (all = 1 Bane, tick down same way).
 
 ---
 

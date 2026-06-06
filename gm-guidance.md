@@ -274,64 +274,69 @@ When PC fails, **the situation changes**. Never leave them in the same spot with
 
 Conditions are **narrative consequences** with mechanical penalties. See [stress-conditions.md](stress-conditions.md) for complete rules.
 
-### Two Condition Types
+### Named Conditions
 
-**Staggered** — Physical impairment (injury, exhaustion, poison)
-- Applies Bane to physical actions
+Conditions have a **name** and a **tier** (1-3):
+- Name describes the fictional state: Poisoned, Frightened, Blinded, Stunned, Wounded, etc.
+- Tier represents severity and duration
 
-**Shaken** — Mental/emotional impairment (fear, anger, confusion, despair)
-- Applies Bane to mental and social actions
+**Each Condition applies 1 Bane to all action rolls** (unless clearly inapplicable).
 
-### Three Tiers (Each adds +1 Bane)
+**Multiple Conditions stack:** Each applies 1 Bane, maximum 2 Banes from Conditions total.
 
-Each Condition type has three tiers tracked with checkboxes:
-- **Minor** (+1 Bane) — Clears after next relevant action roll
-- **Moderate** (+1 Bane) — Clears after short rest
-- **Severe** (+1 Bane) — Clears after long rest
-
-Total Bane = number of checked tiers (max 3 per type).
+**Tracking:** "Poisoned 2" or "Frightened 1"
 
 ### When to Inflict Conditions
 
 **From Challenge Moves:**
-- Some enemy moves inflict Conditions directly (dragon's fear aura, poison attack, crushing blow)
-- Specify which Condition type (Staggered/Shaken) and tier (Minor/Moderate/Severe)
+- Enemy abilities inflict Conditions directly (dragon's fear aura, poison attack, crushing blow)
+- Set name and tier based on the move's power (1-3)
+
+**From Impact Moves:**
+- Inflict a Condition (tier 1) instead of or alongside marking Stress as a consequence
 
 **From Stress Overflow:**
 - When PC's Stress track is full and they would mark more Stress, they take a Condition instead
-- 1 Stress → Minor Condition
-- 2 Stress → Moderate Condition  
-- 3 Stress → Severe Condition
+- 1 Stress → tier 1 Condition
+- 2 Stress → tier 2 Condition
+- 3 Stress → tier 3 Condition
 
-**Escalation:**
-- If PC would gain a tier they already have checked, it escalates to the next tier
-- Example: Has Minor checked, takes Minor again → Moderate also checks
+**Same Condition inflicted again:**
+- Refreshes to original tier (does not escalate)
+- Poisoned 2 + Poisoned again = still Poisoned 2
+
+### Condition Recovery
+
+**Through Action:** Each relevant roll reduces tier by 1 (tier reaches 0 = cleared)
+
+**Through Short Rest:** All Conditions clear after 10-15 minutes of safety
+
+**Through Trait Special Effects:** Secondary Effect can reduce one relevant Condition by 1 tier
+
+### Common Condition Names
+
+**Physical:** Poisoned, Burned, Blinded, Stunned, Bleeding, Weakened, Slowed, Exhausted
+
+**Mental/Emotional:** Frightened, Enraged, Confused, Charmed, Demoralized, Distracted
+
+**Positional/Tactical:** Prone, Disarmed, Grappled, Pinned, Exposed, Off-Balance
 
 ### Fictional Examples
 
-**Staggered (Minor):**
-- "Your shoulder aches where the club struck it"
-- "You're breathing hard, sweat stinging your eyes"
+**Tier 1:**
+- "Your shoulder aches where the club struck it" (Wounded 1)
+- "Your hands tremble slightly" (Frightened 1)
+- "You're breathing hard, sweat stinging your eyes" (Exhausted 1)
 
-**Staggered (Moderate):**
-- "Your ribs are cracked — each breath is agony"
-- "Your leg buckles when you put weight on it"
+**Tier 2:**
+- "Your ribs are cracked — each breath is agony" (Wounded 2)
+- "The dragon's roar echoes in your mind — you want to flee" (Frightened 2)
+- "The toxin courses through your veins, making every movement sluggish" (Poisoned 2)
 
-**Staggered (Severe):**
-- "The sword has run you through — you're losing blood fast"
-- "Your arm hangs useless, bone clearly broken"
-
-**Shaken (Minor):**
-- "Your hands tremble slightly"
-- "Anger clouds your judgment momentarily"
-
-**Shaken (Moderate):**
-- "The dragon's roar echoes in your mind — you want to flee"
-- "Rage overwhelms you — all you see is red"
-
-**Shaken (Severe):**
-- "You're paralyzed with terror, unable to think clearly"
-- "Despair crushes you — what's the point of fighting?"
+**Tier 3:**
+- "The sword has run you through — you're losing blood fast" (Bleeding 3)
+- "You're paralyzed with terror, unable to think clearly" (Frightened 3)
+- "Your arm hangs useless, bone clearly broken" (Wounded 3)
 
 ---
 

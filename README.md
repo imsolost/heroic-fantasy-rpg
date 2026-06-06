@@ -105,15 +105,17 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **Active Development** — Core mechanics finalized, playtesting in progress
 
 Latest updates:
-- Trait system now provides free Special Effects on Conflict+ when narratively relevant
-- Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
-- Build Momentum grants 1 Momentum to yourself or an ally (Trait Special Effect)
+- **Replaced Conditions system** with flexible named Conditions (Poisoned, Frightened, Blinded, etc.)
+  - Simple tier tracking (1-3), all Conditions = 1 Bane (max 2 Banes total)
+  - Ticks down through action, clears on short rest
+  - Replaces old Staggered/Shaken checkbox system
 - **Tangles** system added for player-driven Momentum (inspired by Grimwild)
 - Merged Negate + Resist Consequence into unified mechanic
 - Capped Edge/Bane at ±2d (pools range from 3d6 to 7d6)
+- Trait system provides free Special Effects on Conflict+ when narratively relevant
+- Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
+- Build Momentum grants 1 Momentum to yourself or an ally (Trait Special Effect)
 - Locked in FitD highest-die resolution method
-- Complications system for tier shifting (Challenge Traits impose defensive penalties)
-- Updated Stress & Conditions system with checkbox tiers and clear recovery paths
 
 ## License
 

@@ -26,9 +26,9 @@ For the core rules, see [stress-conditions.md](stress-conditions.md).
 
 **GM (soft Impact Move):** "The archer's arrow streaks toward you — mark 1 Stress."
 
-**Kael:** "My track is full. I'll take Staggered (Minor) instead."
+**Kael:** "My track is full. I'll take Wounded 1."
 
-**GM:** "The arrow bites into your thigh. Check Minor on Staggered. You have 1 Bane on physical actions until your next physical roll."
+**GM:** "The arrow bites into your thigh. You're Wounded 1 — 1 Bane on all rolls until you make one action roll."
 
 ---
 
@@ -52,139 +52,154 @@ For the core rules, see [stress-conditions.md](stress-conditions.md).
 
 ---
 
-## Condition Escalation Examples
+## Condition Examples
 
-### Repeated Minor Hits
+### Single Condition Tracking
 
 **Setup:** Aria has no Conditions.
 
-**Round 1:** Aria takes Staggered (Minor) from a wolf bite. Check Minor box. **1 Bane** on physical actions.
+**Round 1:** Aria takes Poisoned 2 from a spider bite.
 
-**Aria's turn:** She attacks the wolf with Clash (physical action). Rolls with 1 Bane due to Staggered (Minor). After the roll completes, Minor clears (unchecked). **0 Banes.**
+**GM:** "The spider's fangs inject venom. Poisoned 2. That's 1 Bane on all your rolls."
 
-**Round 2:** Another wolf bites her — Staggered (Minor). Check Minor box again. **1 Bane** on physical actions.
+**Aria's turn:** She attacks with Clash. Rolls with 1 Bane due to Poisoned 2. Gets a Success. After the roll, Poisoned 2 becomes Poisoned 1.
 
-**Round 3:** Before Aria can act, a third wolf bites — Staggered (Minor) again. Minor is already checked, so it escalates to Moderate. Now Minor + Moderate checked. **2 Banes** on physical actions.
+**Round 2:** Aria uses Defy to dodge. Rolls with 1 Bane from Poisoned 1. After the roll, Poisoned clears (reaches tier 0).
 
----
-
-### Direct Higher-Tier Condition
-
-**Setup:** Kael has Staggered (Minor) checked from earlier. **1 Bane.**
-
-**GM (hard Impact Move):** "The ogre's club slams into your chest with devastating force. This is beyond normal — take Staggered (Severe) directly."
-
-**Kael checks Severe box.** Now has Minor + Severe checked. **2 Banes** on physical actions.
-
-(Note: Moderate remains unchecked — direct higher-tier Conditions don't automatically fill lower tiers.)
+**Aria is recovered.**
 
 ---
 
-### Full Escalation to Taken Out
+### Condition Refresh, Not Escalation
 
-**Setup:** Finn has Staggered (Minor + Moderate + Severe) checked. **3 Banes.**
+**Setup:** Kael has Poisoned 2.
 
-**GM (hard Impact Move):** "The dragon's tail whips around — mark 2 Stress."
+**Round 1:** Kael gets bitten by another spider — Poisoned again.
 
-**Finn:** "My Stress track is full, so I'd take Staggered (Moderate)."
+**GM:** "You're already Poisoned 2. The same Condition refreshes back to Poisoned 2 — it doesn't escalate to tier 3."
 
-**GM:** "Moderate is already checked, so it escalates to Severe. But Severe is also already checked..."
+**Kael:** "So I'm still Poisoned 2, not Poisoned 3 or Poisoned 4?"
 
-**Finn is Taken Out.**
-
-**GM:** "The tail slam sends you flying. You crash into the cavern wall and crumple, unconscious. Your allies see you're badly hurt but still breathing."
+**GM:** "Correct. Each Condition has a maximum tier set at infliction."
 
 ---
 
-## Condition Recovery Examples
+### Multiple Conditions Stack (Max 2 Banes)
 
-### Minor Clearing After Action
+**Setup:** Aria is Poisoned 2 (1 Bane).
 
-**Setup:** Lyra has Shaken (Minor) checked from a fear effect. **1 Bane** on mental actions.
+**Round 1:** A banshee screams — Frightened 2.
 
-**Lyra's turn:** "I use Talk to rally the villagers despite my fear."
+**GM:** "You now have Poisoned 2 and Frightened 2. That's 2 Banes total — both apply to your rolls."
 
-Lyra rolls Talk with 1 Bane (due to Shaken). Gets a Success.
+**Round 2:** Aria falls prone — Prone 1.
 
-**GM:** "Your inspiring words cut through the panic. The villagers steady themselves. And having acted through your fear, your Shaken (Minor) clears — uncheck it."
+**GM:** "You now have three Conditions: Poisoned 2, Frightened 2, and Prone 1. But you're capped at 2 Banes from Conditions total."
 
-**Lyra's Shaken (Minor) clears.** No more Banes.
+**Aria rolls with 2 Banes.** After the roll:
+- Poisoned 2 → Poisoned 1
+- Frightened 2 → Frightened 1
+- Prone 1 → clears
+
+**Aria now has Poisoned 1 and Frightened 1 = 2 Banes total.**
+
+---
+
+### Condition That Doesn't Apply
+
+**Setup:** Kael is Blinded 2 (1 Bane).
+
+**Kael's turn:** "I use Know to recall what I know about these creatures."
+
+**GM:** "Being blind doesn't affect recalling lore. Blinded 2 doesn't apply to this roll — no Bane. And it doesn't tick down because it didn't affect your action."
+
+**Next turn:** "I use Clash to strike at the sound of footsteps."
+
+**GM:** "That's clearly affected by being blind. Roll with 1 Bane. After the roll, Blinded 2 becomes Blinded 1."
+
+---
+
+## Stress Overflow Examples
+
+### Taking Conditions When Stress Is Full
+
+**Setup:** Finn has 5/5 Stress (track full).
+
+**GM (soft Impact Move):** "The gnoll's spear cuts you — mark 1 Stress, but your track is full."
+
+**Finn:** "I'll take Wounded 1 instead."
+
+**GM:** "The spear slashes across your arm. Wounded 1 — 1 Bane until you make one action roll."
+
+---
+
+**GM (hard Impact Move):** "The ogre's club smashes into you — mark 2 Stress, but your track is full."
+
+**Finn:** "I'll take Wounded 2."
+
+**GM:** "The impact cracks your ribs. Wounded 2 — 1 Bane for the next two action rolls where it applies."
+
+---
+
+### Choosing Not to Take a Condition
+
+**Setup:** Aria has 5/5 Stress and already has Wounded 3 and Bleeding 2 (2 Banes from Conditions, both tier 2+).
+
+**GM (hard Impact Move):** "The troll's claws rake you — mark 2 Stress."
+
+**Aria:** "My Stress track is full. If I take another Condition, I'd have three Conditions at serious tiers. I choose not to take it."
+
+**GM:** "The claws tear into you. You collapse, unconscious. You're Taken Out."
+
+---
+
+## Recovery Examples
+
+### Clearing Through Action
+
+**Setup:** Lyra has Frightened 3 from a dragon's roar (1 Bane for 3 relevant action rolls).
+
+**Round 1:** Lyra uses Talk to rally her allies. Rolls with 1 Bane from Frightened 3. After the roll, Frightened 3 → Frightened 2.
+
+**Round 2:** Lyra uses Defy to dodge dragon fire. Rolls with 1 Bane from Frightened 2. After the roll, Frightened 2 → Frightened 1.
+
+**Round 3:** Lyra uses Clash to strike. Rolls with 1 Bane from Frightened 1. After the roll, Frightened clears.
+
+**Lyra is recovered.**
 
 ---
 
 ### Short Rest Recovery
 
 **Setup:** After a tough fight, the party has:
-- Kael: Staggered (Minor + Moderate) = **2 Banes**, 4/5 Stress
-- Aria: Shaken (Moderate) = **1 Bane**, 5/5 Stress
-- Finn: Staggered (Severe) = **1 Bane**, 3/5 Stress
+- Kael: Wounded 2 (1 Bane), Frightened 1 (1 Bane) = 2 Banes total, 4/5 Stress
+- Aria: Poisoned 3 (1 Bane), 5/5 Stress
+- Finn: Bleeding 1 (1 Bane), 3/5 Stress
 
 **GM:** "You catch your breath in the alcove. 10 minutes pass — take a short rest."
 
 **After short rest:**
-- Kael: Clear all Stress (0/5) and Moderate tier. Still has Staggered (Minor) = **1 Bane**
-- Aria: Clear all Stress (0/5) and Shaken (Moderate). **No Conditions**
-- Finn: Clear Stress (0/5) but Severe remains. Still has Staggered (Severe) = **1 Bane**
-
-**Kael's next physical action:** Kael makes a Clash roll with 1 Bane. After the roll, Minor clears. **No Conditions.**
-
----
-
-### Long Rest Recovery
-
-**Setup:** The party returns to town after the adventure. They have:
-- Kael: Staggered (Severe), 2/5 Stress
-- Finn: Staggered (Minor + Moderate + Severe) = **3 Banes**, 0/5 Stress
-- Lyra: Shaken (Moderate), 3/5 Stress
-
-**GM:** "You rest overnight in the inn — safe beds, warm food. Take a long rest."
-
-**After long rest:**
 - Kael: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
+- Aria: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
 - Finn: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
-- Lyra: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
+
+**GM:** "All Conditions clear on short rest. You're ready to continue."
 
 ---
 
-## Multiple Conditions Examples
+### Trait Secondary Effect Recovery
 
-### Staggered + Shaken
+**Setup:** Kael has Poisoned 2 (1 Bane) and the Ironborn Trait.
 
-**Setup:** Aria faces a wight's deadly touch.
+**Kael's turn:** "I use Clash to attack. I invoke my Ironborn Trait for Secondary Effect — shaking off the poison through sheer physical resilience."
 
-**Round 1:** The wight's claws rake her — Staggered (Moderate). **1 Bane** on physical actions.
+Kael rolls Clash → Conflict (can invoke Trait).
 
-**Round 2:** The wight's necrotic aura chills her soul — Shaken (Minor). **Now has:**
-- Staggered (Moderate) = **1 Bane** on physical actions
-- Shaken (Minor) = **1 Bane** on mental actions
+**GM:** "Your Ironborn constitution fights the venom. Reduce Poisoned 2 by one tier to Poisoned 1. The action roll also ticks it down, so Poisoned 1 becomes tier 0 — clears entirely."
 
-**Aria's turn:** She wants to use Clash (physical) to attack. Rolls with **1 Bane** from Staggered. After the roll, Shaken (Minor) does NOT clear because Clash isn't a mental action.
+**Kael:** "So the Secondary Effect reduced it by 1, then the normal action tick reduced it by 1 more?"
 
-**Next turn:** Aria uses Sense (mental) to read the wight's movements. Rolls with **1 Bane** from Shaken. After the roll, Shaken (Minor) clears. Still has Staggered (Moderate).
-
----
-
-### Complex Tracking
-
-**Setup:** Kael is fighting a dragon and has taken multiple hits.
-
-**Current state:**
-- Staggered (Minor + Severe) = **2 Banes** on physical actions
-- Shaken (Minor + Moderate) = **2 Banes** on mental actions
-
-**Kael uses Clash (physical):** Rolls with **2 Banes** from Staggered. After the roll, Minor Staggered clears. Now:
-- Staggered (Severe) = **1 Bane** on physical actions
-- Shaken (Minor + Moderate) = **2 Banes** on mental actions
-
-**Kael uses Defy (mental) to resist fear:** Rolls with **2 Banes** from Shaken. After the roll, Minor Shaken clears. Now:
-- Staggered (Severe) = **1 Bane** on physical actions
-- Shaken (Moderate) = **1 Bane** on mental actions
-
-**Party takes a short rest:** Clear Moderate Shaken. Now:
-- Staggered (Severe) = **1 Bane** on physical actions
-- No Shaken
-
-**Party takes a long rest:** Clear Severe Staggered. **Fully recovered.**
+**GM:** "Yes. Poisoned 2 → Poisoned 1 (Secondary Effect) → clears (normal tick). You're recovered."
 
 ---
 
@@ -206,25 +221,25 @@ Lyra rolls Talk with 1 Bane (due to Shaken). Gets a Success.
 
 ### Resisting Condition (Conflict)
 
-**Setup:** Finn would take Staggered (Moderate) from Stress overflow. He has 1 Momentum.
+**Setup:** Finn would take Wounded 2 from Stress overflow. He has 1 Momentum.
 
-**Finn:** "I spend 1 Momentum to Resist!" Rolls Defy with Iron (3d6) → rolls a 5. **Conflict.**
+**Finn:** "I spend 1 Momentum to Resist!" Rolls Defy with Spirit (3d6) → rolls a 5. **Conflict.**
 
-**GM:** "Conflict reduces by 1 step — Moderate becomes Minor. You brace yourself and absorb most of the blow. Take Staggered (Minor) instead."
+**GM:** "Conflict reduces by 1 step — tier 2 becomes tier 1. You brace yourself and absorb most of the blow. Take Wounded 1 instead."
 
-**Finn checks Minor Staggered.** **1 Bane** on physical actions. 0 Momentum.
+**Finn:** "Wounded 1. Still 0 Momentum."
 
 ---
 
 ### Resisting Condition (Setback)
 
-**Setup:** Aria would take Shaken (Severe) from a dragon's fear aura. She has 2 Momentum.
+**Setup:** Aria would take Frightened 3 from a dragon's fear aura. She has 2 Momentum.
 
-**Aria:** "I spend 1 Momentum to steel my nerves — Resist!" Rolls Defy with Iron (3d6) → rolls a 2. **Setback.**
+**Aria:** "I spend 1 Momentum to steel my nerves — Resist!" Rolls Defy with Spirit (3d6) → rolls a 2. **Setback.**
 
-**GM:** "The fear is too overwhelming. Take the full Shaken (Severe)."
+**GM:** "The fear is too overwhelming. Take the full Frightened 3."
 
-**Aria checks Severe Shaken.** **1 Bane** on mental actions. 1 Momentum remaining (spent 1, still has 1).
+**Aria:** "Frightened 3 — 1 Bane for the next 3 relevant action rolls. Still have 1 Momentum remaining."
 
 ---
 
@@ -232,19 +247,15 @@ Lyra rolls Talk with 1 Bane (due to Shaken). Gets a Success.
 
 ### Direct Condition from Enemy Ability
 
-**Setup:** A dragon uses its Fearsome Roar ability.
+**Setup:** A dark elf assassin uses Poisoned Blade.
 
-**GM (Challenge Move):** "The dragon rears back and unleashes a deafening roar. All of you must take Shaken (Moderate) directly — this bypasses your Stress tracks."
+**GM (Challenge Move):** "The assassin's blade drips with venom. The strike inflicts Poisoned 2 directly — this bypasses your Stress track."
 
-**All PCs check Moderate Shaken.** Each has **1 Bane** on mental actions.
+**Kael:** "Poisoned 2. Can I Resist?"
 
-**Kael:** "Can I Resist with Momentum?"
+**GM:** "Yes — spend 1 Momentum and roll Defy to reduce it."
 
-**GM:** "Yes — spend 1 Momentum and roll Defy to try to reduce it."
-
-**Kael spends 1 Momentum, rolls Defy with Iron → Success.** Reduces by 2 steps: Moderate → clear. Kael takes no Condition.
-
-**Aria and Finn don't Resist.** Both have Shaken (Moderate) = **1 Bane** on mental actions.
+**Kael spends 1 Momentum, rolls Defy with Spirit (3d6) → Success.** Reduces by 2 steps: tier 2 → tier 0 (clears). Kael takes no Condition.
 
 ---
 
@@ -256,57 +267,75 @@ Lyra rolls Talk with 1 Bane (due to Shaken). Gets a Success.
 
 **Later, after more exposure:**
 
-**GM:** "You've been in this blizzard too long. Everyone take Staggered (Minor) directly from the cold — you're exhausted and numb."
+**GM:** "You've been in this blizzard too long. Everyone take Exhausted 2 directly from the cold — you're numb and sluggish."
 
-**All PCs check Minor Staggered.** Each has **1 Bane** on physical actions until their next physical action roll.
+**All PCs gain Exhausted 2 (1 Bane for the next 2 relevant action rolls).**
+
+---
+
+### Fear Aura
+
+**Setup:** The party faces an ancient vampire.
+
+**GM (Challenge Move):** "The vampire's presence is overwhelming. All of you must roll Defy to resist the fear aura."
+
+**Kael rolls Defy → Setback:** "Frightened 3."
+
+**Aria rolls Defy → Conflict:** "Frightened 2."
+
+**Finn rolls Defy → Success:** "You steel yourself — no Condition."
 
 ---
 
 ## Taken Out Examples
 
-### Stress Overflow Without Taking Condition
+### Stress Overflow Leading to Taken Out
 
-**Setup:** Kael has 5/5 Stress and Staggered (Minor + Moderate + Severe). Taking another Condition would escalate Severe.
+**Setup:** Kael has 5/5 Stress and Wounded 3 and Bleeding 2 (2 Banes from Conditions).
 
-**GM (hard Impact Move):** "The knight's sword cleaves into you — mark 2 Stress."
+**GM (hard Impact Move):** "The war troll's fist slams into you — mark 2 Stress."
 
-**Kael:** "My Stress is full. If I take Staggered (Moderate), it escalates to Severe, which is already checked..."
+**Kael:** "My Stress track is full. I'd take Wounded 2, but I'm already at 2 Banes from Conditions. If I take a third Condition, I'm still capped at 2 Banes... but I can't keep stacking these injuries."
 
-**GM:** "Right — that would be Taken Out. Do you want to Resist with Momentum?"
+**GM:** "Do you take the Condition or are you Taken Out?"
 
-**Kael has no Momentum.**
+**Kael:** "I'll take it — Wounded 2 refreshes to Wounded 2 since I already have Wounded 3. Wait, or is it a different Condition?"
 
-**GM:** "The blade cuts deep. You collapse, vision fading. You're alive but badly wounded — Taken Out."
+**GM:** "Good question. This is also a Wound — call it Wounded. It refreshes your existing Wounded 3 back to Wounded 3. You're still at Wounded 3, Bleeding 2."
+
+**Kael:** "Okay, I'll take it."
+
+**Alternative:** If Kael doesn't want to take it or the GM rules it's too much, Kael is Taken Out.
 
 ---
 
-### Escalating Severe to Taken Out
+### Choosing to Be Taken Out
 
-**Setup:** Finn has Staggered (Minor + Moderate + Severe) from a brutal fight. **3 Banes.**
+**Setup:** Aria has 5/5 Stress, Wounded 3, Bleeding 2, Exhausted 2 (capped at 2 Banes from Conditions).
 
-**GM (Challenge Move):** "The war troll brings both fists down on you. This is devastating — take Staggered (Severe) directly."
+**GM (hard Impact Move):** "The dragon's tail sweeps toward you — mark 2 Stress."
 
-**Finn:** "Severe is already checked. That escalates to... Taken Out."
+**Aria:** "My track is full. I'm already carrying multiple serious Conditions. I choose not to take another — I'm Taken Out."
 
-**GM:** "The impact drives you into the ground. Bones crack. You're unconscious and critically wounded. The fight continues around you, but you're out of it."
+**GM:** "The tail slam sends you flying. You crash into the cavern wall and slump, unconscious. Your allies see you're badly hurt but still breathing."
 
 ---
 
 ### Recovery from Taken Out
 
-**Setup:** Kael is Taken Out after the previous example.
+**Setup:** Kael is Taken Out.
 
 **Two rounds later:**
 
-**GM:** "Lyra, you reach Kael's body. He's breathing but barely conscious."
+**GM:** "Lyra, you reach Kael. He's breathing but barely conscious."
 
 **Lyra:** "I use Talk to rally him — 'Kael, get up! We need you!'"
 
 Lyra rolls Talk → Success.
 
-**GM:** "Kael, Lyra's voice cuts through the pain. Your eyes flutter open. You're back in the fight, but you return with 0 Stress and Staggered (Moderate) — check it. That's 1 Bane on physical actions."
+**GM:** "Kael, Lyra's voice cuts through the pain. Your eyes flutter open. You're back in the fight, but you return with 0 Stress and Wounded 2 — the GM assigns an appropriate Condition for your narrative state."
 
-**Kael returns to play** with 0/5 Stress, Staggered (Moderate).
+**Kael returns to play** with 0/5 Stress, Wounded 2 (1 Bane for next 2 relevant action rolls).
 
 ---
 
@@ -338,7 +367,7 @@ Lyra rolls Talk → Success.
 **GM (to Kael, hard Impact Move):** "The alpha's flail cracks into your ribs — mark 2 Stress."
 - Kael: 4/5 Stress
 
-**Aria:** "I spend 1 Momentum to Push Myself on this attack — mark 1 Stress for Edge."
+**Aria:** "I Push Myself on this attack — mark 1 Stress for Edge."
 - Aria: 2/5 Stress, gains 1 Edge
 
 ---
@@ -357,14 +386,14 @@ Lyra rolls Talk → Success.
 
 **GM (to Kael, soft Impact Move):** "Another gnoll bites at you — mark 1 Stress, but your track is full."
 
-**Kael:** "I'll take Staggered (Minor)."
-- Kael: 5/5 Stress, Staggered (Minor) = **1 Bane** on physical actions
+**Kael:** "I'll take Wounded 1."
+- Kael: 5/5 Stress, Wounded 1 (1 Bane on next action roll)
 
-**Kael's turn:** "I use Clash to strike back — rolling with 1 Bane due to Staggered."
+**Kael's turn:** "I use Clash to strike back — rolling with 1 Bane due to Wounded 1."
 
 Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
-**GM:** "After that physical action, your Staggered (Minor) clears."
+**GM:** "After that action, Wounded 1 ticks down to tier 0 — clears."
 - Kael: 5/5 Stress, no Conditions
 
 ---
@@ -376,8 +405,8 @@ Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **GM (to Kael, hard Impact Move):** "A gnoll tackles you while you're vulnerable — mark 2 Stress, but your track is full."
 
-**Kael:** "I take Staggered (Moderate)."
-- Kael: 5/5 Stress, Staggered (Moderate) = **1 Bane** on physical actions
+**Kael:** "I take Wounded 2."
+- Kael: 5/5 Stress, Wounded 2 (1 Bane for next 2 action rolls)
 
 ---
 
@@ -389,45 +418,83 @@ Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **After 10-15 minutes:**
 - Aria: 0/5 Stress, no Conditions (fully recovered)
-- Kael: 0/5 Stress, no Conditions (Moderate cleared, fully recovered)
+- Kael: 0/5 Stress, no Conditions (all Conditions clear on short rest)
 - Finn: 0/5 Stress, no Conditions (fully recovered)
 
 ---
 
-## Ambiguous Action Determination
+## Tactical Condition Examples
 
-### Physical vs Mental Defy
+### Choosing Actions Based on Conditions
 
-**Setup:** Aria has Staggered (Moderate) and Shaken (Minor). A sorcerer casts *Hold Person*.
+**Setup:** Kael is Wounded 2 (1 Bane). The necromancer is channeling a ritual.
 
-**Aria:** "I use Defy to resist!"
+**Kael:** "If I charge him, that's Clash with 1 Bane from Wounded 2. But if I shout to break his concentration, that's Talk... does Wounded 2 affect talking?"
 
-**GM:** "How are you resisting? Describe it."
+**GM:** "Default: all Conditions affect all rolls unless clearly inapplicable. Wounded 2 likely affects everything — you're in pain. Roll Talk with 1 Bane."
 
-**Option 1 — Physical resistance:**
-**Aria:** "I strain against the magical bonds, trying to break free through sheer strength!"
+**Kael:** "Okay, I shout an intimidating war cry — Talk with 1 Bane!"
 
-**GM:** "That's physical — you're fighting with your body. Roll Defy with 1 Bane from Staggered (Moderate)."
+Rolls Talk → Success. Wounded 2 → Wounded 1.
 
-**Option 2 — Mental resistance:**
-**Aria:** "I focus my will and try to disbelieve the spell — it's not real, I tell myself!"
-
-**GM:** "That's mental resistance — willpower vs magic. Roll Defy with 1 Bane from Shaken (Minor)."
+**GM:** "Your bellow echoes through the crypt despite the pain. The necromancer flinches, his concentration breaks. The ritual collapses."
 
 ---
 
-### Tactical Choice Based on Conditions
+### Clearly Inapplicable Condition
 
-**Setup:** Kael has Staggered (Severe) = **1 Bane** on physical, no Shaken.
+**Setup:** Aria is Deafened 2 (1 Bane) from a thunderous explosion.
 
-**GM:** "The necromancer is channeling a ritual. You could rush him physically or try to disrupt his concentration with a shout."
+**Aria's turn:** "I use Sense to scan the room for traps."
 
-**Kael:** "If I charge, that's Clash with 1 Bane from Staggered. If I shout to break his focus, that's... Talk? And I have no Shaken, so no Bane?"
+**GM:** "Being deaf doesn't affect visually scanning for traps. Deafened 2 doesn't apply — no Bane. And it doesn't tick down since it didn't affect your action."
 
-**GM:** "Exactly. Your choice."
+**Next turn:** "I use Talk to negotiate with the guard."
 
-**Kael:** "I shout an intimidating war cry — Talk!"
+**GM:** "You can't hear his responses. Roll Talk with 1 Bane from Deafened 2. After the roll, Deafened 2 → Deafened 1."
 
-Rolls Talk with no Bane → Success.
+---
 
-**GM:** "Your bellow echoes through the crypt. The necromancer flinches, his concentration breaks. The ritual collapses."
+## Burdens (Rare Persistent Conditions)
+
+### Boss Death Move Inflicts Burden
+
+**Setup:** The party defeats the lich, but at the last moment it curses Finn.
+
+**GM (Death Move):** "As the lich crumbles, it whispers an ancient curse. Finn, you feel cold darkness seep into your bones. You gain the Burden: Cursed 3."
+
+**Finn:** "Is that like a normal Condition?"
+
+**GM:** "No — it's a Burden. It won't clear on short rest. You'll need to find a way to lift the curse through narrative means — a quest, powerful magic, or divine intervention."
+
+**Finn:** "So Cursed 3 gives me 1 Bane, and it doesn't tick down?"
+
+**GM:** "Correct. It affects all your rolls until you lift the curse. This is rare — only significant story moments."
+
+---
+
+### Burden Resolution
+
+**Later in the campaign:**
+
+**GM:** "The temple priest examines Finn. 'This curse is ancient and powerful. I can attempt to break it, but you must undertake a pilgrimage to the sacred spring and bring back blessed water. Only then can I perform the ritual.'"
+
+**Finn completes the quest.**
+
+**GM:** "The priest performs the purification ritual using the blessed water. The darkness lifts. Cursed 3 is removed — you're free of the Burden."
+
+---
+
+## Quick Reference Examples
+
+| Situation | Example |
+|-----------|---------|
+| Gain Condition | "Poisoned 2 from the spider bite — 1 Bane for next 2 relevant rolls" |
+| Multiple Conditions | "Poisoned 2 + Frightened 1 = 2 Banes total (capped at 2 from Conditions)" |
+| Condition Refreshes | "Already Poisoned 2, take Poisoned again → still Poisoned 2 (doesn't escalate to tier 3)" |
+| Condition Ticks Down | "After the roll, Poisoned 2 → Poisoned 1" |
+| Condition Clears | "Poisoned 1 ticks down to tier 0 — clears" |
+| Short Rest | "10 minutes pass — all Stress and all Conditions clear" |
+| Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Bane, doesn't tick" |
+| Resist Consequence | "Spend 1 Momentum, roll Defy. Success = reduce by 2 steps" |
+| Burden (rare) | "Boss curses you — Cursed 3 (Burden). Persists until narrative resolution" |

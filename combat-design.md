@@ -493,15 +493,12 @@ Armor has **uses** representing structural integrity:
 When Stress track is full and you would mark more, take a Condition instead or be Taken Out.
 
 **Conditions:**
-Two types with three tiers each (tracked with checkboxes):
-
-**Staggered** (physical) — Applies Bane to physical actions
-**Shaken** (mental/emotional) — Applies Bane to mental/social actions
-
-Each checked tier adds +1 Bane (max 3 per type):
-- **Minor** (+1 Bane): Clears after next relevant action roll
-- **Moderate** (+1 Bane): Clears after short rest
-- **Severe** (+1 Bane): Clears after long rest
+Named temporary impairments with tiers (1-3):
+- Each Condition = 1 Bane to all rolls
+- Multiple Conditions stack, maximum 2 Banes from Conditions total
+- Tier represents duration: reduces by 1 per relevant action roll
+- All Conditions clear on short rest (10-15 minutes)
+- Common names: Poisoned, Frightened, Blinded, Stunned, Bleeding, Prone, etc.
 
 **Triggering Conditions:**
 - From Challenge Moves (enemy abilities inflict directly)
@@ -624,8 +621,8 @@ Design enemies with **Role** and **Tier** to create variety:
 
 **Frightening Presence:**
 - When you first engage in combat, roll Defy
-- Failure: Gain Moderate Condition "Frightened"
-- Conflict: Gain Minor Condition "Shaken"
+- Setback: Gain Frightened 2
+- Conflict: Gain Frightened 1
 
 **Legendary Actions:**
 - After each PC's turn, epic foe gets a reaction (bite, tail sweep, spell)

@@ -436,52 +436,38 @@ Stress represents getting tired or rattled, taking superficial wounds, narrowly 
 - **Voluntary:** Quick Assist (1 Stress), Push Yourself (1 Stress)
 
 **Recovery:**
-- **Short rest (10–15 minutes):** Clear all Stress and all Minor and Moderate Conditions
+- **Short rest (10–15 minutes):** Clear all Stress and all Conditions
 - **Long rest (overnight):** Clear all Stress and all Conditions
 
-### Conditions (Lasting Impairment)
+### Conditions (Temporary Impairment)
 
-Conditions represent lasting physical or mental impairment beyond the quick recovery of Stress. They impose Banes on relevant rolls and persist until recovered.
+Conditions represent temporary impairment — poison, fear, wounds, disorientation. They are short-term states that heroes shake off through action and rest.
 
-**Two Types:**
-- **Staggered** — Physical impairment (injury, exhaustion, poison). Applies Bane to physical actions.
-- **Shaken** — Mental/emotional impairment (fear, anger, confusion, despair). Applies Bane to mental and social actions.
+**A Condition has a name and a tier (1–3):**
+- **Name** describes the fictional state: Poisoned, Frightened, Blinded, Stunned, Burned
+- **Tier** represents severity and duration
 
-You can have both Staggered and Shaken simultaneously. Each tracks independently.
+**Each Condition applies 1 Bane to all action rolls.**
 
-**Three Tiers (Track with checkboxes):**
-
-Each Condition type has three tiers. Track each tier with a checkbox. Each checked tier adds 1 Bane to relevant rolls.
-
-| Tier | Bane | Clears |
-|------|------|--------|
-| **Minor** | +1 | After next relevant action roll |
-| **Moderate** | +1 | After short rest |
-| **Severe** | +1 | After long rest |
-
-Your total Bane equals however many tiers are currently checked (maximum 3 Banes per Condition type).
+**Multiple Conditions stack** (each = 1 Bane), **maximum 2 Banes from Conditions total.**
 
 **Gaining Conditions:**
-- **From Challenge Moves:** Some enemy or environmental moves impose Conditions directly
-- **From Stress Overflow:** When your Stress track is full and you would mark more Stress, take a Condition instead:
-  - 1 Stress → Minor Condition
-  - 2 Stress → Moderate Condition
-  - 3 Stress → Severe Condition
+- **Challenge Moves:** Enemy abilities inflict named Conditions at specific tiers
+- **Impact Moves:** GM may inflict tier 1 Condition alongside or instead of Stress
+- **Stress Overflow:** When Stress track full, take a Condition instead (1/2/3 Stress → tier 1/2/3 Condition)
 
-**Escalation:**
-When you would gain a Condition tier you already have checked, it escalates to the next unchecked tier instead.
+**Recovery:**
+- **Through action:** Each relevant action roll reduces tier by 1
+- **Through short rest:** All Conditions clear (10–15 minutes)
+- **Through Trait Special Effect (Secondary):** Reduce one relevant Condition by 1 tier
 
-**Example:**
-- You have Staggered (Minor + Moderate + Severe) = 3 Banes on physical rolls
-- You make a physical action roll — Minor clears. Now 2 Banes.
-- Short rest — Moderate clears. Now 1 Bane.
-- Long rest — Severe clears. Fully recovered.
+**Common names:** Poisoned, Frightened, Blinded, Stunned, Burned, Restrained, Prone, Disarmed, Enraged, Confused, Weakened
+
+**Tracking:** Write "Poisoned 2" or "Frightened 1" on character sheet. Reduce number by 1 per relevant roll. Erase at 0 or after short rest.
 
 ### Taken Out
 
-You are Taken Out when:
-- You would mark Stress while your track is full and cannot or choose not to take a Condition, or
-- You would escalate a Severe Condition that is already checked
+You are Taken Out when you would mark Stress while your track is full and cannot or choose not to take a Condition.
 
 The GM narrates what happens based on context — unconscious, fleeing, captured, broken. Taken Out is not automatically death.
 

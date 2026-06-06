@@ -109,19 +109,19 @@ Edge and Bane represent advantage and disadvantage.
 
 ## Conditions (Penalty Details)
 
-Each Condition type (Staggered/Shaken) has three tiers. Track each tier with a checkbox. Each checked tier adds 1 Bane to relevant rolls.
+Conditions are named temporary impairments (Poisoned, Frightened, Blinded, Stunned, etc.) with a tier (1-3).
 
-| Tier | Bane | Clears |
-|------|------|--------|
-| **Minor** | +1 | After next relevant action roll |
-| **Moderate** | +1 | After short rest |
-| **Severe** | +1 | After long rest |
+| Tier | Bane | Clears After |
+|------|------|--------------|
+| 1 | 1 Bane | 1 relevant action roll |
+| 2 | 1 Bane | 2 relevant action rolls |
+| 3 | 1 Bane | 3 relevant action rolls |
 
-**Your total Bane equals however many tiers are currently checked** (maximum 3 Banes per Condition type).
+**Each Condition applies 1 Bane to all action rolls** (unless clearly inapplicable).
 
-**Relevant rolls:**
-- **Staggered** → physical actions
-- **Shaken** → mental and social actions
+**Multiple Conditions stack:** Each applies 1 Bane, maximum 2 Banes from Conditions total.
+
+**All Conditions clear on short rest** (10–15 minutes).
 
 See [stress-conditions.md](stress-conditions.md) for complete Conditions rules.
 

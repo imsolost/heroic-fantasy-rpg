@@ -36,7 +36,7 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 
 **Short rest (10–15 minutes of safety):**
 - Clear all Stress
-- Clear all Minor and Moderate Conditions
+- Clear all Conditions
 
 **Long rest (overnight, safe location):**
 - Clear all Stress
@@ -46,98 +46,132 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 
 ## Conditions
 
-**Conditions represent lasting physical or mental impairment** beyond the quick recovery of Stress. They impose Banes on relevant rolls and persist until recovered.
+Conditions represent temporary impairment — poison coursing through your veins, fear gripping your mind, a wound slowing your movements. They are short-term states that skilled heroes shake off through action and rest.
 
-### Two Types
+### How Conditions Work
 
-**Staggered** — Physical impairment (injury, exhaustion, poison)
-- Applies Bane to physical action rolls
+A Condition has a **name** and a **tier** — both set at the moment of infliction.
 
-**Shaken** — Mental or emotional impairment (fear, anger, confusion, despair)
-- Applies Bane to mental and social action rolls
+- The name describes the fictional state: Poisoned, Frightened, Blinded, Stunned
+- The tier (1–3) represents severity and duration
 
-**You can have both Staggered and Shaken simultaneously.** Each tracks independently.
+**A Condition applies 1 Bane to all action rolls** while it persists.
 
-### Condition Tiers
+**Multiple Conditions stack,** each applying 1 Bane, **up to a maximum of 2 Banes from Conditions total.**
 
-Each Condition type has three tiers. **Track each tier with a checkbox on your character sheet.** Each checked tier adds 1 Bane to relevant rolls.
-
-| Tier | Bane | Clears |
-|------|------|--------|
-| **Minor** | +1 | After next relevant action roll |
-| **Moderate** | +1 | After short rest |
-| **Severe** | +1 | After long rest |
-
-**Your total Bane equals however many tiers are currently checked.**
-
-| Checked Tiers | Total Bane |
-|---------------|------------|
-| Minor only | 1 Bane |
-| Moderate only | 1 Bane |
-| Minor + Moderate | 2 Banes |
-| Minor + Moderate + Severe | 3 Banes |
+> **GM Guidance:** **Default:** A Condition affects all action rolls — it's simpler and more consistent.
+> 
+> **Exception:** When a Condition clearly has no bearing on the action fictionally, it doesn't apply (and doesn't tick down). Examples:
+> - Blinded doesn't affect recalling lore (Know)
+> - Restrained doesn't affect examining your surroundings (Sense)
+> - Deafened doesn't affect climbing a wall (Defy)
+> 
+> When in doubt, apply the Condition.
 
 ### Gaining Conditions
 
-**From Challenge Moves:**
-Some enemy or environmental moves impose Conditions directly regardless of your Stress track. These cannot be absorbed as Stress.
+Conditions come from three sources:
 
-**Example:** A dragon's Fearsome Roar imposes Shaken (Moderate) on all characters in the scene.
+**Challenge Moves:** Enemy abilities inflict Conditions directly, at a tier determined by the move.
 
-**From Stress Overflow:**
-When your Stress track is full and you would mark more Stress, take a Condition instead. Choose Staggered or Shaken based on the source of harm — the GM determines if it's unclear.
+> *The dark elf assassin's Poisoned Blade inflicts Poisoned 2. A dragon's Fearsome Roar inflicts Frightened 3.*
 
-- 1 Stress → **Minor** Condition
-- 2 Stress → **Moderate** Condition
-- 3 Stress → **Severe** Condition
+**Impact Moves:** The GM may inflict a Condition (tier 1) instead of or alongside marking Stress as a consequence.
 
-### Escalation
+> *"You deflect the blow but the acid splashes your arm — Burned 1."*
 
-When you would gain a Condition tier you already have checked, it escalates to the next unchecked tier instead.
+> *"The giant's club smashes into your shield, knocking you off your feet. Mark 1 Stress and Prone 1."*
 
-- Gain **Minor** while Minor is checked → Check **Moderate**
-- Gain **Moderate** while Moderate is checked → Check **Severe**
-- Gain **Severe** while Severe is checked → **Taken Out**
+**Stress Overflow:** When your Stress track is full and you would mark more Stress, take a Condition instead.
 
-Taking a higher tier Condition directly checks that tier without affecting lower tiers.
+- 1 Stress → tier 1 Condition
+- 2 Stress → tier 2 Condition
+- 3 Stress → tier 3 Condition
 
-**Example — escalation from repeated hits:**
-1. You take Staggered (Minor). Minor checked. **1 Bane.**
-2. You take Staggered (Minor) again. Minor already checked — escalates to Moderate. Now Minor + Moderate checked. **2 Banes.**
-3. You take Staggered (Moderate) again. Moderate already checked — escalates to Severe. Now Minor + Moderate + Severe checked. **3 Banes.**
+Choose a name appropriate to the source of harm (Wounded, Exhausted, Shaken, etc.).
 
-**Example — direct higher tier:**
-1. You have Staggered (Minor) checked. **1 Bane.**
-2. You take a devastating blow — Staggered (Severe) directly. Severe checked. Now Minor + Severe checked. **2 Banes.**
+### Condition Tiers
 
-### Recovery
+The tier set at infliction is the **maximum severity** of that Condition. It never escalates beyond its initial tier regardless of how many times the same Condition is inflicted — subsequent hits of the same Condition simply refresh it back to its maximum.
 
-Each tier clears independently according to its recovery condition.
+| Tier | Bane | Clears After |
+|------|------|--------------|
+| 1 | 1 Bane | 1 relevant action roll |
+| 2 | 1 Bane | 2 relevant action rolls |
+| 3 | 1 Bane | 3 relevant action rolls |
 
-- **Minor** clears after your next relevant action roll
-- **Moderate** clears after a short rest
-- **Severe** clears after a long rest
+Each time you make an action roll where the Condition applies, reduce its tier by 1. When it reaches 0, it clears.
 
-**Example:**
-1. You have Staggered (Minor + Moderate + Severe). **3 Banes** on physical rolls.
-2. You make a physical action roll — Minor clears. Now Staggered (Moderate + Severe). **2 Banes.**
-3. The party takes a short rest — Moderate clears. Now Staggered (Severe). **1 Bane.**
-4. The party takes a long rest — Severe clears. No Conditions remaining.
+**All Conditions clear on short rest** (10–15 minutes of safety), regardless of remaining tier.
 
-### Relevant Rolls
+### Multiple Conditions
 
-**Staggered** applies to:
-- Clash
-- Defy (physical — dodging, athletic feats, endurance)
-- Any action involving strength, speed, or physical exertion
+You can have multiple different Conditions simultaneously. Each tracks independently.
 
-**Shaken** applies to:
-- Talk
-- Know
-- Sense
-- Defy (mental — resisting fear, compulsion, emotional pressure)
+**Bane Stacking:** Multiple Conditions each apply 1 Bane, up to a **maximum of 2 Banes from Conditions total.**
 
-When it's ambiguous, the GM determines based on how the player describes their action. A player who describes charging boldly is acting physically; one who carefully analyzes a situation is acting mentally.
+> *You are Poisoned 2 and Frightened 1. On a roll where both apply, you suffer 2 Banes total (capped). If you also become Blinded 1, you're at 3 Conditions but still only 2 Banes from Conditions.*
+
+**Refresh, Not Stack:** The same Condition cannot stack beyond its initial tier. If you are Poisoned 2 and would become Poisoned again, it refreshes to Poisoned 2 — it does not become Poisoned 3 or Poisoned 4.
+
+### Recovering from Conditions
+
+**Through action:** Make action rolls where the Condition applies. Each relevant roll reduces the tier by 1.
+
+**Through short rest:** All Conditions clear after a short rest (10–15 minutes of safety).
+
+**Through Trait Special Effects:** When you invoke a Trait and choose Secondary Effect, you may reduce any one Condition by 1 tier — provided the Trait is fictionally relevant to shaking off that Condition.
+
+> *A warrior with the Ironborn Trait shaking off Poisoned through sheer physical resilience. A rogue with Shadow Step reducing Frightened by moving decisively through the darkness.*
+
+### Common Condition Names
+
+Use these as guidance when inflicting Conditions. The list is not exhaustive — name Conditions to fit the fiction.
+
+**Physical:** Poisoned, Burned, Blinded, Deafened, Restrained, Stunned, Bleeding, Weakened, Slowed, Exhausted
+
+**Mental/Emotional:** Frightened, Enraged, Confused, Charmed, Taunted, Demoralized, Distracted
+
+**Positional/Tactical:** Prone, Disarmed, Grappled, Pinned, Exposed, Off-Balance
+
+### Character Sheet Tracking
+
+**Simple format:**
+```
+CONDITIONS:
+Poisoned 2
+Frightened 1
+```
+
+Reduce the number by 1 each time you act through it. Erase when it reaches 0 or after short rest.
+
+### Example in Play
+
+> **GM:** The dark elf assassin was disguised as the butler. At the last second you notice as they draw their poisoned blade. Defy with 1 Bane — you were caught off guard.
+>
+> **Player:** A 3 and a 5 — Conflict. I'll invoke Blademaster to Build Momentum.
+>
+> **GM:** You partially parry the blow but the blade nicks you. You feel the poison begin to work. Poisoned 2. What do you do?
+>
+> **Player:** I Clash — drive them back against the wall.
+>
+> **GM:** The poison affects your movement. 1 Bane. Roll it.
+>
+> **Player:** A 4 and a 2 — Conflict again. I use my Blademaster Trait for Greater Effect. Poisoned drops to 1.
+>
+> **GM:** You slam them hard into the wall — mark two ticks on their track. They snarl and strike back — Poisoned Blade triggers. You're already Poisoned 1, so it refreshes to Poisoned 2. Mark 1 Stress.
+>
+> **Player:** Still Poisoned 2. I spend my Momentum to Act with Potency and Clash again.
+>
+> **GM:** Edge from Potency offsets the Bane — roll clean.
+>
+> **Player:** Two 5s and a 6 — Success. Poisoned drops to 1 again.
+>
+> **GM:** Another solid hit — mark a third tick. They're in trouble now. What do you do?
+>
+> **Player:** I invoke my Blademaster Trait — Secondary Effect to reduce Poisoned by 1. Fictionally, I'm fighting through the pain with trained discipline.
+>
+> **GM:** The poison clears. You're clean. The assassin is one tick from done.
 
 ---
 
@@ -145,45 +179,26 @@ When it's ambiguous, the GM determines based on how the player describes their a
 
 **Cost:** 1 Momentum
 
-When you would mark Stress or gain a Condition, spend 1 Momentum and roll Defy to reduce or avoid the consequence.
+When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum and roll Defy to reduce or avoid it.
 
 | Outcome | Effect |
 |---------|--------|
-| **Success** | Reduce by 2 steps — 2 Stress → 0, Moderate → clear, Severe → Minor |
-| **Conflict** | Reduce by 1 step — 2 Stress → 1, Moderate → Minor, Severe → Moderate |
+| **Success** | Mechanical: Reduce by 2 steps (2 Stress → 0, tier 3 → tier 1, tier 2 → clear) / Narrative: Avoid entirely |
+| **Conflict** | Mechanical: Reduce by 1 step (2 Stress → 1, tier 3 → tier 2, tier 2 → tier 1) / Narrative: Reduce severity |
 | **Setback** | Take the full consequence — Momentum is spent, nothing reduced |
+
+---
 
 ## Taken Out
 
 You are **Taken Out** when:
-- You would mark Stress while your track is full and cannot or choose not to take a Condition, or
-- You would escalate a Severe Condition that is already checked
+- You would mark Stress while your track is full and cannot or choose not to take a Condition
 
 **The GM narrates what happens** based on context — unconscious, fleeing, captured, broken. Taken Out is not automatically death.
 
 ---
 
 ## GM Reference
-
-### Determining Condition Type
-
-**Staggered (physical impairment):**
-- Direct physical harm: cuts, blunt force, burns
-- Exhaustion from physical exertion
-- Poison, disease, environmental exposure
-- Any harm to the body itself
-
-**Shaken (mental/emotional impairment):**
-- Fear, terror, intimidation
-- Anger, rage, loss of composure
-- Confusion, disorientation, mental strain
-- Despair, hopelessness, emotional trauma
-
-**When ambiguous:**
-- Ask how the player describes their action
-- "I charge boldly through the flames!" → Physical (body withstanding heat) → Staggered
-- "I steel my nerves against the horror!" → Mental (composure vs fear) → Shaken
-- Default to the source: physical attack → Staggered, mental attack → Shaken
 
 ### When to Use Direct Conditions vs Stress
 
@@ -207,46 +222,48 @@ Direct Conditions bypass the Stress buffer — they represent harm too significa
 - During travel when the party takes a breather
 - When players explicitly seek safety to catch their breath
 
-This keeps Minor and Moderate Conditions from accumulating across multiple encounters while still making them relevant within a scene.
+This ensures Conditions don't carry over from scene to scene, while still making them relevant within a scene.
 
 **Long rests** (overnight) should happen:
 - After returning to town or safe haven
 - During extended downtime between adventures
 - When the party explicitly makes camp in a secure location
 
-Severe Conditions should feel meaningful — they represent serious harm that takes real time to recover from.
+### Burdens (Rare)
+
+Some Conditions — rare and narratively significant — persist beyond normal recovery. These are **Burdens**.
+
+**When to designate a Burden:**
+- Boss Death Moves or signature abilities
+- Catastrophic narrative events (fell from tower, soul-touched by demon)
+- Curses, permanent wounds, or supernatural afflictions
+
+**Burden recovery:** Requires narrative resolution (quest to lift curse, powerful healing magic, extended downtime with treatment). Burdens do NOT clear on short rest.
+
+**Mark Burdens clearly:** When inflicting a Burden, say "This is a Burden — it won't clear through normal action or rest." Players need to know.
+
+**Keep Burdens rare.** Most Conditions should clear through heroic action or short rest. Burdens are for exceptional circumstances.
 
 ### Condition Fiction Examples
 
-**Staggered (Minor):**
-- "Your shoulder aches where the club struck it"
-- "You're breathing hard, sweat stinging your eyes"
-- "A shallow cut on your arm bleeds steadily"
+**Physical Conditions:**
+- **Poisoned:** "The toxin courses through your veins, making every movement sluggish"
+- **Burned:** "The acid has seared your flesh, every touch sends jolts of pain"
+- **Blinded:** "Your vision swims, you can barely make out shapes"
+- **Stunned:** "Your head rings from the blow, thoughts scattered"
+- **Bleeding:** "Blood flows freely from the wound, weakening you"
 
-**Staggered (Moderate):**
-- "Your ribs are cracked — each breath is agony"
-- "Your leg buckles when you put weight on it"
-- "The poison courses through you, making you dizzy"
+**Mental/Emotional Conditions:**
+- **Frightened:** "The dragon's roar echoes in your mind — you want to flee"
+- **Enraged:** "Rage overwhelms you — all you see is red"
+- **Confused:** "The illusion magic has you disoriented, reality bends"
+- **Demoralized:** "Their words cut deep, doubt creeps into your resolve"
 
-**Staggered (Severe):**
-- "The sword has run you through — you're losing blood fast"
-- "Your arm hangs useless, bone clearly broken"
-- "Fever racks your body, barely conscious"
-
-**Shaken (Minor):**
-- "Your hands tremble slightly"
-- "You can't quite catch your breath, heart racing"
-- "Anger clouds your judgment momentarily"
-
-**Shaken (Moderate):**
-- "The dragon's roar echoes in your mind — you want to flee"
-- "Rage overwhelms you — all you see is red"
-- "Your friend's death replays in your mind on loop"
-
-**Shaken (Severe):**
-- "You're paralyzed with terror, unable to think clearly"
-- "Despair crushes you — what's the point of fighting?"
-- "Reality feels distant, fragmented — you can't tell what's real"
+**Positional/Tactical Conditions:**
+- **Prone:** "You're on the ground, vulnerable"
+- **Disarmed:** "Your weapon clatters away across the stones"
+- **Grappled:** "Their arms lock around you, restricting your movement"
+- **Exposed:** "You've lost your cover, fully visible to archers"
 
 ---
 
@@ -254,21 +271,16 @@ Severe Conditions should feel meaningful — they represent serious harm that ta
 
 | Situation | Result |
 |-----------|--------|
-| Soft Impact Move | Mark 1 Stress |
-| Hard Impact Move | Mark 2 Stress |
+| Gain a Condition | Named + tier set at infliction (1–3) |
+| Condition applies | 1 Bane to affected rolls |
+| Multiple Conditions | Each applies 1 Bane, maximum 2 Banes from Conditions total |
+| Same Condition inflicted again | Refreshes to original tier |
+| Make a roll where Condition applies | Reduce tier by 1 |
+| Condition reaches tier 0 | Clears |
+| Short rest (10–15 min) | All Conditions clear |
+| Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
+| Burden (rare) | Persists beyond normal recovery, requires narrative resolution |
+| Stress track full | Take a Condition or be Taken Out |
+| Mark Stress | 1 (soft Impact Move) or 2 (hard Impact Move) |
 | Quick Assist | Mark 1 Stress, grant ally 1 Edge |
 | Push Yourself | Mark 1 Stress, gain 1 Edge |
-| Stress track full + hit | Take Condition or Taken Out |
-| Challenge Move | Take named Condition directly |
-| Gain Condition tier already checked | Escalate to next tier |
-| Severe already checked + escalate | Taken Out |
-| Short rest | Clear all Stress, Minor, and Moderate Conditions |
-| Long rest | Clear all Stress and all Conditions |
-
-**Condition Banes:**
-- Each checked tier = 1 Bane on relevant rolls
-- Maximum 3 Banes per Condition type (all three tiers checked)
-
-**Relevant rolls:**
-- **Staggered** → physical actions
-- **Shaken** → mental and social actions

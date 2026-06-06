@@ -50,6 +50,48 @@ These choices make Stress feel valuable beyond just a hit point buffer.
 
 ---
 
+## Why Stress Overflow = Take Burden or Be Taken Out?
+
+When your Stress track is full and you would mark more, you choose: **take a Burden (persistent Condition) or be Taken Out**.
+
+### Considered Alternatives
+
+**Option A: Overflow creates regular Condition**
+- 1 Stress → tier 1, 2 Stress → tier 2, etc.
+- **Problem:** Regular Conditions clear on short rest, so being at max Stress isn't meaningfully dangerous
+- **Problem:** No consequence for pushing past your limit — just another Condition that clears in 10 minutes
+
+**Option B: Overflow = immediate Taken Out**
+- Simpler: full Stress + more damage = done
+- **Problem:** Removes player agency — one more hit and you're automatically out
+- **Problem:** Feels arbitrary — "I was fine at 4/5 Stress, now I'm unconscious?"
+
+**Option C: Choose Burden or Taken Out** ← **We chose this**
+- **Pro:** Player agency — choose to push through at a cost or accept defeat
+- **Pro:** Dramatic moments — "I stay in the fight but this wound won't heal easily"
+- **Pro:** Makes max Stress truly dangerous — Burdens persist beyond short rest
+- **Pro:** Creates escalation — accumulating Burdens across multiple fights
+
+### How It Works in Play
+
+**Early in adventure:**
+- Stress full → take Wounded 1 (Burden) → keep fighting
+- Short rest clears Stress, but Wounded 1 (Burden) persists
+- Next fight starts with 1 Bane carrying over
+
+**Mid-adventure:**
+- Stress full again → take another Burden or be Taken Out?
+- Now carrying multiple Burdens (capped at 2 Banes total)
+- Need to tick them down through action or seek narrative resolution
+
+**Decision points:**
+- "Take this Burden and stay in the fight, or accept being Taken Out?"
+- "I already have two Burdens — taking a third won't increase my Banes (capped at 2), but do I want to track three separate Conditions ticking down?"
+
+This creates **escalating risk** across multiple encounters while maintaining **player choice** at critical moments.
+
+---
+
 ## Why Named Conditions?
 
 ### Considered Alternatives

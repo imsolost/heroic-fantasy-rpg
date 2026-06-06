@@ -428,7 +428,7 @@ Stress represents getting tired or rattled, taking superficial wounds, narrowly 
 **Stress Track:** 5 boxes (all characters)
 
 - Mark boxes left to right
-- When your track is full and you would mark more Stress, you must take a Condition instead or be Taken Out
+- When your track is full and you would mark more Stress, choose: **take a Burden or be Taken Out**
 
 **Marking Stress:**
 - **Soft Impact Move:** Mark 1 Stress
@@ -454,20 +454,22 @@ Conditions represent temporary impairment — poison, fear, wounds, disorientati
 **Gaining Conditions:**
 - **Challenge Moves:** Enemy abilities inflict named Conditions at specific tiers
 - **Impact Moves:** GM may inflict tier 1 Condition alongside or instead of Stress
-- **Stress Overflow:** When Stress track full, take a Condition instead (1/2/3 Stress → tier 1/2/3 Condition)
+- **Stress Overflow (Burdens):** When Stress track full, choose: take a Burden (persistent Condition) or be Taken Out
 
 **Recovery:**
 - **Through action:** Each relevant action roll reduces tier by 1
-- **Through short rest:** All Conditions clear (10–15 minutes)
+- **Through short rest:** All Conditions clear (10–15 minutes) — **Burdens do NOT clear**
 - **Through Trait Special Effect (Secondary):** Reduce one relevant Condition by 1 tier
 
 **Common names:** Poisoned, Frightened, Blinded, Stunned, Burned, Restrained, Prone, Disarmed, Enraged, Confused, Weakened
 
-**Tracking:** Write "Poisoned 2" or "Frightened 1" on character sheet. Reduce number by 1 per relevant roll. Erase at 0 or after short rest.
+**Burdens (persistent):** Function like Conditions but don't clear on short rest. Tick down through action or require narrative resolution. Most common source: Stress overflow.
+
+**Tracking:** Write "Poisoned 2" or "Frightened 1" on sheet. Mark Burdens clearly: "Wounded 3 (Burden)". Reduce by 1 per relevant roll.
 
 ### Taken Out
 
-You are Taken Out when you would mark Stress while your track is full and cannot or choose not to take a Condition.
+You are Taken Out when you would mark Stress while your track is full and choose not to take a Burden.
 
 The GM narrates what happens based on context — unconscious, fleeing, captured, broken. Taken Out is not automatically death.
 

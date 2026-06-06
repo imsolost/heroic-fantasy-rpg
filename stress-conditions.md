@@ -20,7 +20,7 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 
 - **5 boxes** (all characters start with 5)
 - Mark boxes left to right
-- When your track is full and you would mark more Stress, you must take a Condition instead or be Taken Out
+- When your track is full and you would mark more Stress, choose: **take a Burden or be Taken Out**
 
 ### Marking Stress
 
@@ -82,13 +82,13 @@ Conditions come from three sources:
 
 > *"The giant's club smashes into your shield, knocking you off your feet. Mark 1 Stress and Prone 1."*
 
-**Stress Overflow:** When your Stress track is full and you would mark more Stress, take a Condition instead.
+**Stress Overflow:** When your Stress track is full and you would mark more Stress, choose:
 
-- 1 Stress → tier 1 Condition
-- 2 Stress → tier 2 Condition
-- 3 Stress → tier 3 Condition
+- **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on amount (1-3 Stress → tier 1-3). Requires narrative resolution to clear. You stay in the fight but carry a lasting consequence.
 
-Choose a name appropriate to the source of harm (Wounded, Exhausted, Shaken, etc.).
+- **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context.
+
+This choice creates dramatic "push through at a cost" moments — heroes can stay in the fight but risk lasting harm.
 
 ### Condition Tiers
 
@@ -229,20 +229,30 @@ This ensures Conditions don't carry over from scene to scene, while still making
 - During extended downtime between adventures
 - When the party explicitly makes camp in a secure location
 
-### Burdens (Rare)
+### Burdens (Persistent Conditions)
 
-Some Conditions — rare and narratively significant — persist beyond normal recovery. These are **Burdens**.
+Some Conditions persist beyond normal recovery. These are **Burdens** — lasting consequences that require narrative resolution.
 
-**When to designate a Burden:**
-- Boss Death Moves or signature abilities
-- Catastrophic narrative events (fell from tower, soul-touched by demon)
-- Curses, permanent wounds, or supernatural afflictions
+**Sources of Burdens:**
+- **Stress Overflow** — When Stress track is full and you'd mark more, you can take a Burden instead of being Taken Out (most common source)
+- **Boss Death Moves** — Signature abilities from major enemies
+- **Catastrophic events** — Fell from tower, soul-touched by demon, witnessed horror
+- **Curses and afflictions** — Supernatural hexes, magical diseases, binding oaths
 
-**Burden recovery:** Requires narrative resolution (quest to lift curse, powerful healing magic, extended downtime with treatment). Burdens do NOT clear on short rest.
+**Burden mechanics:**
+- Functions like a Condition: has name + tier, applies 1 Bane
+- Tiers tick down through relevant action rolls (same as regular Conditions)
+- **Does NOT clear on short rest** — persists until tier reaches 0 OR narrative resolution
+- Counts toward 2 Bane cap from Conditions
 
-**Mark Burdens clearly:** When inflicting a Burden, say "This is a Burden — it won't clear through normal action or rest." Players need to know.
+**Burden recovery:**
+- **Through action:** Tick down tier by 1 per relevant action roll (slow but steady)
+- **Through narrative resolution:** Quest to lift curse, powerful healing magic, extended treatment with specialist, meaningful character moment
+- **Through long rest:** Burdens tick down 1 tier on long rest (optional rule for less gritty games)
 
-**Keep Burdens rare.** Most Conditions should clear through heroic action or short rest. Burdens are for exceptional circumstances.
+**Mark Burdens clearly:** When inflicting a Burden, say "This is a Burden — it won't clear on short rest." Players need to know the stakes.
+
+**Stress Overflow Burdens are common** — whenever players push past their Stress limit to stay in the fight. Other Burdens should be rare and narratively significant.
 
 ### Condition Fiction Examples
 
@@ -279,8 +289,8 @@ Some Conditions — rare and narratively significant — persist beyond normal r
 | Condition reaches tier 0 | Clears |
 | Short rest (10–15 min) | All Conditions clear |
 | Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
-| Burden (rare) | Persists beyond normal recovery, requires narrative resolution |
-| Stress track full | Take a Condition or be Taken Out |
+| Burden | Persistent Condition — ticks down through action, does NOT clear on short rest |
+| Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (soft Impact Move) or 2 (hard Impact Move) |
 | Quick Assist | Mark 1 Stress, grant ally 1 Edge |
 | Push Yourself | Mark 1 Stress, gain 1 Edge |

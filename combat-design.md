@@ -490,7 +490,7 @@ Armor has **uses** representing structural integrity:
 - Voluntary: Quick Assist (1 Stress), Push Yourself (1 Stress)
 
 **At Maximum Stress:**
-When Stress track is full and you would mark more, take a Condition instead or be Taken Out.
+When Stress track is full and you would mark more, choose: **take a Burden or be Taken Out**.
 
 **Conditions:**
 Named temporary impairments with tiers (1-3):
@@ -500,14 +500,20 @@ Named temporary impairments with tiers (1-3):
 - All Conditions clear on short rest (10-15 minutes)
 - Common names: Poisoned, Frightened, Blinded, Stunned, Bleeding, Prone, etc.
 
-**Triggering Conditions:**
+**Burdens (Persistent Conditions):**
+- Function like Conditions but do NOT clear on short rest
+- Most common source: Stress overflow (choose Burden over being Taken Out)
+- Tick down through action or require narrative resolution
+- Mark clearly: "Wounded 3 (Burden)"
+
+**Gaining Conditions:**
 - From Challenge Moves (enemy abilities inflict directly)
-- From Stress Overflow (1 Stress → Minor, 2 Stress → Moderate, 3 Stress → Severe)
-- Escalation (gain tier already checked → escalates to next tier)
+- From Impact Moves (GM may inflict tier 1 alongside Stress)
+- From Stress Overflow (becomes a Burden if you choose to stay in the fight)
 
 **Taken Out:**
-- Stress track full + can't/won't take Condition
-- OR escalate Severe that's already checked
+- Stress track full + you choose not to take a Burden
+- Unconscious, fleeing, captured (GM narrates based on context)
 
 ---
 

@@ -26,9 +26,9 @@ For the core rules, see [stress-conditions.md](stress-conditions.md).
 
 **GM (soft Impact Move):** "The archer's arrow streaks toward you — mark 1 Stress."
 
-**Kael:** "My track is full. I'll take Wounded 1."
+**Kael:** "My track is full. I'll take a Burden — Wounded 1."
 
-**GM:** "The arrow bites into your thigh. You're Wounded 1 — 1 Bane on all rolls until you make one action roll."
+**GM:** "The arrow bites into your thigh. Wounded 1 (Burden) — that's 1 Bane on all rolls. It won't clear on short rest, but ticks down through action."
 
 ---
 
@@ -121,35 +121,35 @@ For the core rules, see [stress-conditions.md](stress-conditions.md).
 
 ## Stress Overflow Examples
 
-### Taking Conditions When Stress Is Full
+### Stress Overflow: Taking Burdens
 
 **Setup:** Finn has 5/5 Stress (track full).
 
 **GM (soft Impact Move):** "The gnoll's spear cuts you — mark 1 Stress, but your track is full."
 
-**Finn:** "I'll take Wounded 1 instead."
+**Finn:** "I'll take a Burden — Wounded 1. I need to stay in the fight."
 
-**GM:** "The spear slashes across your arm. Wounded 1 — 1 Bane until you make one action roll."
+**GM:** "The spear slashes across your arm. Wounded 1 (Burden) — that's 1 Bane. It won't clear on short rest, but will tick down through action."
 
 ---
 
 **GM (hard Impact Move):** "The ogre's club smashes into you — mark 2 Stress, but your track is full."
 
-**Finn:** "I'll take Wounded 2."
+**Finn:** "I'll take Wounded 2 as a Burden."
 
-**GM:** "The impact cracks your ribs. Wounded 2 — 1 Bane for the next two action rolls where it applies."
+**GM:** "The impact cracks your ribs. Wounded 2 (Burden) — 1 Bane for the next two action rolls, then it'll tick down to Wounded 1. This one's persistent — won't clear on short rest."
 
 ---
 
-### Choosing Not to Take a Condition
+### Stress Overflow: Choosing to Be Taken Out
 
-**Setup:** Aria has 5/5 Stress and already has Wounded 3 and Bleeding 2 (2 Banes from Conditions, both tier 2+).
+**Setup:** Aria has 5/5 Stress and already has Wounded 3 (Burden) and Bleeding 2 (Burden) carrying over from earlier fights.
 
 **GM (hard Impact Move):** "The troll's claws rake you — mark 2 Stress."
 
-**Aria:** "My Stress track is full. If I take another Condition, I'd have three Conditions at serious tiers. I choose not to take it."
+**Aria:** "My Stress track is full. I'm already carrying two Burdens from earlier. I don't want to take another persistent wound — I choose to be Taken Out."
 
-**GM:** "The claws tear into you. You collapse, unconscious. You're Taken Out."
+**GM:** "The claws tear into you. You collapse, unconscious. You're Taken Out. Your Burdens remain when you recover."
 
 ---
 
@@ -219,15 +219,15 @@ Kael rolls Clash → Conflict (can invoke Trait).
 
 ---
 
-### Resisting Condition (Conflict)
+### Resisting Burden from Stress Overflow (Conflict)
 
-**Setup:** Finn would take Wounded 2 from Stress overflow. He has 1 Momentum.
+**Setup:** Finn has 5/5 Stress. He would mark 2 more Stress (take Wounded 2 Burden or be Taken Out). He has 1 Momentum.
 
-**Finn:** "I spend 1 Momentum to Resist!" Rolls Defy with Spirit (3d6) → rolls a 5. **Conflict.**
+**Finn:** "I spend 1 Momentum to Resist before choosing!" Rolls Defy with Spirit (3d6) → rolls a 5. **Conflict.**
 
-**GM:** "Conflict reduces by 1 step — tier 2 becomes tier 1. You brace yourself and absorb most of the blow. Take Wounded 1 instead."
+**GM:** "Conflict reduces by 1 step — 2 Stress becomes 1 Stress. You brace yourself and absorb most of the blow. You'd still take Wounded 1 (Burden) or be Taken Out."
 
-**Finn:** "Wounded 1. Still 0 Momentum."
+**Finn:** "I'll take Wounded 1 (Burden). Still 0 Momentum. At least it's tier 1 instead of tier 2."
 
 ---
 
@@ -386,15 +386,15 @@ Lyra rolls Talk → Success.
 
 **GM (to Kael, soft Impact Move):** "Another gnoll bites at you — mark 1 Stress, but your track is full."
 
-**Kael:** "I'll take Wounded 1."
-- Kael: 5/5 Stress, Wounded 1 (1 Bane on next action roll)
+**Kael:** "I'll take Wounded 1 (Burden) — I need to keep fighting."
+- Kael: 5/5 Stress, Wounded 1 (Burden) — 1 Bane
 
 **Kael's turn:** "I use Clash to strike back — rolling with 1 Bane due to Wounded 1."
 
 Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **GM:** "After that action, Wounded 1 ticks down to tier 0 — clears."
-- Kael: 5/5 Stress, no Conditions
+- Kael: 5/5 Stress, no Conditions (the Burden cleared through action)
 
 ---
 
@@ -405,8 +405,8 @@ Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **GM (to Kael, hard Impact Move):** "A gnoll tackles you while you're vulnerable — mark 2 Stress, but your track is full."
 
-**Kael:** "I take Wounded 2."
-- Kael: 5/5 Stress, Wounded 2 (1 Bane for next 2 action rolls)
+**Kael:** "I take Wounded 2 (Burden) — I'm staying in this fight."
+- Kael: 5/5 Stress, Wounded 2 (Burden) — 1 Bane for next 2 action rolls
 
 ---
 
@@ -418,8 +418,10 @@ Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **After 10-15 minutes:**
 - Aria: 0/5 Stress, no Conditions (fully recovered)
-- Kael: 0/5 Stress, no Conditions (all Conditions clear on short rest)
+- Kael: 0/5 Stress, Wounded 2 (Burden) still persists — Burdens don't clear on short rest
 - Finn: 0/5 Stress, no Conditions (fully recovered)
+
+**Kael:** "I'm still carrying Wounded 2. It'll tick down through action or I need proper treatment."
 
 ---
 
@@ -494,7 +496,8 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Condition Refreshes | "Already Poisoned 2, take Poisoned again → still Poisoned 2 (doesn't escalate to tier 3)" |
 | Condition Ticks Down | "After the roll, Poisoned 2 → Poisoned 1" |
 | Condition Clears | "Poisoned 1 ticks down to tier 0 — clears" |
-| Short Rest | "10 minutes pass — all Stress and all Conditions clear" |
+| Short Rest | "10 minutes pass — all Stress and all Conditions clear (Burdens persist)" |
 | Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Bane, doesn't tick" |
 | Resist Consequence | "Spend 1 Momentum, roll Defy. Success = reduce by 2 steps" |
-| Burden (rare) | "Boss curses you — Cursed 3 (Burden). Persists until narrative resolution" |
+| Burden (persistent) | "Stress overflow: take Wounded 2 (Burden) or be Taken Out. Burdens don't clear on short rest" |
+| Burden from Boss | "Boss curses you — Cursed 3 (Burden). Persists until narrative resolution" |

@@ -75,46 +75,55 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **Triumph ignores all Complications.**
 
-## Documents
+## Reading Order
 
-### Core Rules
-- [core-foundations.md](core-foundations.md) — Foundational mechanics: Actions, Approaches, Momentum, Stress, Talents
-- [resolution.md](resolution.md) — Dice mechanics, probability tables, advancement structure
-- [action-roll.md](action-roll.md) — Complete Action Roll procedures, track types, outcome resolution
-- [traits-complications-challenges.md](traits-complications-challenges.md) — Trait mechanics, Opportunities, Complications, Challenge design
+Read the chapters in order for the best learning experience:
 
-### Additional Resources
-- [stress-conditions.md](stress-conditions.md) — Stress & Conditions system (primary resilience mechanics)
-- [examples-stress-conditions.md](examples-stress-conditions.md) — Extended examples of Stress & Conditions in play
-- [design-notes.md](design-notes.md) — Design rationale for Stress & Conditions system
-- [gm-guidance.md](gm-guidance.md) — Running the game, setting difficulty, adjudicating outcomes
-- [combat-design.md](combat-design.md) — Combat flow, enemy design, tactical considerations
+### Core Chapters
+1. **[01-introduction.md](01-introduction.md)** — What is this game? Quick start and core concepts
+2. **[02-core-mechanics.md](02-core-mechanics.md)** — Dice rolling, Actions, Approaches, Edge/Bane, probability
+3. **[03-characters.md](03-characters.md)** — Character creation, Traits, Talents, advancement
+4. **[04-action-resolution.md](04-action-resolution.md)** — Complete Action Roll procedures, tracks, Momentum
+5. **[05-resilience.md](05-resilience.md)** — Stress & Conditions system, Burdens, recovery
+6. **[06-challenges.md](06-challenges.md)** — Creating enemies, Complications, Challenge design
+7. **[07-gm-guide.md](07-gm-guide.md)** — GM principles, moves, difficulty, pacing
+8. **[08-combat.md](08-combat.md)** — Combat flow, enemy design, tactical considerations
 
-### Archived Systems
-- [old-ideas/](old-ideas/) — Alternative resolution systems (2d10, Xd6 count-successes)
+### Appendices (Optional Reading)
+- **[appendix-a-design-notes.md](appendix-a-design-notes.md)** — Design rationale and decisions
+- **[appendix-b-examples.md](appendix-b-examples.md)** — Extended examples of Stress & Conditions in play
+
+### Old Files (Archived)
+- [old-ideas/](old-ideas/) — Previous versions and alternative resolution systems
 
 ## Quick Start
 
-1. Read [core-foundations.md](core-foundations.md) for shared mechanics
-2. Read [resolution.md](resolution.md) for dice mechanics and probability
-3. Review [action-roll.md](action-roll.md) for complete Action Roll procedures
-4. Check [traits-complications-challenges.md](traits-complications-challenges.md) for Trait mechanics and Challenge design
+**For Players:**
+1. Read [01-introduction.md](01-introduction.md) for overview
+2. Skim [02-core-mechanics.md](02-core-mechanics.md) for dice basics
+3. Use [03-characters.md](03-characters.md) to make your character
+4. Reference [04-action-resolution.md](04-action-resolution.md) and [05-resilience.md](05-resilience.md) during play
+
+**For GMs:**
+1. Read chapters 1-6 for full system understanding
+2. Focus on [07-gm-guide.md](07-gm-guide.md) for running the game
+3. Use [06-challenges.md](06-challenges.md) and [08-combat.md](08-combat.md) to design opposition
 
 ## Current Status
 
 **Active Development** — Core mechanics finalized, playtesting in progress
 
 Latest updates:
+- **File reorganization** — Numbered chapters (01-08) for clear reading order, reduced duplication
+- **Stress overflow → Burdens** — When Stress full, choose: take Burden (persistent Condition) or be Taken Out
 - **Replaced Conditions system** with flexible named Conditions (Poisoned, Frightened, Blinded, etc.)
   - Simple tier tracking (1-3), all Conditions = 1 Bane (max 2 Banes total)
   - Ticks down through action, clears on short rest
-  - Replaces old Staggered/Shaken checkbox system
+  - Burdens persist beyond short rest (most common from Stress overflow)
 - **Tangles** system added for player-driven Momentum (inspired by Grimwild)
 - Merged Negate + Resist Consequence into unified mechanic
 - Capped Edge/Bane at ±2d (pools range from 3d6 to 7d6)
 - Trait system provides free Special Effects on Conflict+ when narratively relevant
-- Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
-- Build Momentum grants 1 Momentum to yourself or an ally (Trait Special Effect)
 - Locked in FitD highest-die resolution method
 
 ## License

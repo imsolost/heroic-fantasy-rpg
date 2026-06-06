@@ -108,5 +108,6 @@
 
 ## Status
 
-Current: Step 1 complete (01-introduction.md created)
-Next: Create 02-core-mechanics.md
+✅ **COMPLETE** — All files reorganized and old files moved to old-ideas/
+
+All chapters created, appendices renamed, README updated, old files archived.

@@ -87,17 +87,19 @@ Edge and Bane represent advantage and disadvantage.
 
 **Edge (Advantage):**
 - **1 Edge:** +1d to your pool
-- **Maximum:** +3d (cap)
-- Sources: Easy tasks, Momentum, Talents, tactical positioning, ally assists, favorable environment, Know action
+- **Maximum:** +2d (cap)
+- Sources: Easy tasks, Act with Potency, Talents, tactical positioning, ally assists, favorable environment
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
 **Bane (Disadvantage):**
 - **1 Bane:** -1d from your pool
-- **Maximum:** -3d (cap)
+- **Maximum:** -2d (cap)
 - Sources: Hard tasks, Very Hard tasks, Conditions, hostile environment, poor positioning, injuries
 - See [core-foundations.md](core-foundations.md#edge--bane) for full list
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the lowest result.
+
+**Maximum Pool:** With Approach 5 + 2 Edge = 7d6 (legendary tier)
 
 **Cancellation:** Edge and Bane cancel 1:1
 
@@ -163,7 +165,7 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 - 3.1% Setback, 37.0% Conflict, 40.3% Success, 19.6% Triumph
 - Success tier most common, setbacks very rare
 
-**Legendary Character (Approach 5 + 2 Edges = 7d6):**
+**Legendary Character (Approach 5 + 2 Edge = 7d6):**
 - 0.8% Setback, 27.1% Conflict, 39.0% Success, 33.1% Triumph
 - Success/Triumph combined = 72%, catastrophic setback nearly impossible
 
@@ -171,6 +173,8 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 - Each Edge significantly reduces setback chance (especially at low pools)
 - Success tier remains consistent (38-40%) across most pool sizes
 - Triumph rate grows but caps around 33% due to double-6 requirement
+
+**Edge/Bane Cap:** Maximum ±2d modifier keeps pools in the 3d6 to 7d6 range, maintaining tension at all tiers
 
 ---
 
@@ -251,6 +255,8 @@ See [core-foundations.md](core-foundations.md#momentum-single-currency) for full
 
 **Very Hard Tasks:** Impose 2 Banes (-2d)
 
-**Edge/Bane:** Cap ±3d, cancel 1:1, affect probability (not outcomes)
+**Edge/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
+
+**Pool Range:** 3d6 (worst case: 5d6 - 2 Bane) to 7d6 (best case: 5d6 + 2 Edge)
 
 **Zero Dice:** If pool reduced to 0d, roll 2d6 and take lowest result

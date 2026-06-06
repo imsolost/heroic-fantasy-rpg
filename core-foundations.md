@@ -161,8 +161,8 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 ### Earning Momentum
 
 1. **Triumph** — Gain 1 Momentum when you achieve a Triumph result
-2. **Setback on Favored Action** — When you suffer a Setback using an Action covered by one of your Talents, gain 1 Momentum (learning from failure)
-3. **Accept a Consequence** — GM offers a narrative consequence; if you accept, gain 1 Momentum
+2. **Trigger a Tangle** — Introduce a character-driven complication from your personality, desires, or backstory (see Tangles below)
+3. **Build Momentum (Trait Special Effect)** — When you invoke a Trait on Conflict+, you may choose to grant 1 Momentum to yourself or an ally
 4. **Talents** — Some Talents provide additional ways to earn Momentum
 
 ### Spending Momentum
@@ -171,16 +171,50 @@ Each character has **2–5 Traits** (starting with 2, gaining more through advan
 - **Act with Potency (1 Momentum):** Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats (see Potency below). Allows you to attempt normally impossible tasks and pull off heroic feats.
 
 **After Rolling:**
-- **Resist Consequence (1 Momentum):** When you would mark Stress or gain a Condition, spend 1 Momentum and roll Defy to reduce or avoid the consequence.
-  - **Success:** Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor)
-  - **Conflict:** Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate)
+- **Resist Consequence (1 Momentum):** When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum and roll Defy to reduce or avoid it.
+  - **Success:** Mechanical consequence: Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor) / Narrative consequence: Avoid entirely
+  - **Conflict:** Mechanical consequence: Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate) / Narrative consequence: Reduce severity
   - **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
 
 **Any Time:**
-- **Negate Consequence (1 Momentum):** Cancel a narrative consequence before it takes effect. Use for consequences without mechanical teeth (guard becomes suspicious, alarm sounds, enemy gains advantage). Cannot negate Stress or Conditions—use Resist Consequence instead.
 - **Recover (1 Momentum):** Clear 1 Stress or reduce a Condition severity by one tier
 
 **Design Note:** Momentum is primarily tactical. Act with Potency grants Edge + negates Complications + enables heroic feats. To help allies, use Trait Special Effect "Build Momentum."
+
+---
+
+## Tangles (Character-Driven Complications)
+
+**Tangles** are character-driven complications you introduce into a scene. When you trigger a Tangle, you gain 1 Momentum.
+
+**What is a Tangle?**
+
+A Tangle stems from your character's personality, desires, backstory, or relationships. It must have immediate impact—forcing an action roll, closing off an option, or demanding inaction at a critical moment.
+
+**Examples:**
+- **Unwise decisions your character would make:** You toss aside your sword to keep the duel fair
+- **Personal motivations over group goals:** You poison the general's wine, getting your revenge
+- **Complications from beliefs or backstory:** You forgot to mention you used to date the baron
+- **Personality-driven choices:** Your stubborn pride won't let you back down from the challenge
+- **Desire-driven actions:** Your thirst for glory leads you to charge ahead alone
+
+**How it works:**
+1. Describe how your character's personality, desires, or backstory complicates the current situation
+2. The complication must have immediate fictional impact (not just "I feel conflicted")
+3. Gain 1 Momentum immediately
+4. Play out the complication—follow through on what you introduced
+
+**The GM can suggest** a Tangle trigger based on your character, but you can refuse (no Momentum if refused).
+
+**Sources for Tangles:**
+
+Use your **Traits**, **personality**, **desires**, or **story beats** to inform your Tangles:
+
+**Personality examples:** Brave, caring, confident, curious, gentle, honest, honorable, persistent, protective, quiet, rash, stubborn
+
+**Desire examples:** Belonging, glory, harmony, honor, justice, knowledge, love, power, renown, thrills, wealth, wisdom
+
+**Note:** Define 1-2 recurring Tangles during character creation, but you can improvise new ones in play.
 
 ---
 
@@ -267,23 +301,23 @@ When circumstances favor your action, you gain **Edge**. Sources of Edge include
 - **Talents** — Some Talents grant Edge in specific circumstances
 - **Quick Assist** — Mark 1 Stress to grant ally Edge (see Assisting Allies below)
 
-**Stacking:** Multiple sources of Edge stack (each grants +1 Edge). Maximum +3 Edge.
+**Stacking:** Multiple sources of Edge stack (each grants +1 Edge). Maximum +2 Edge.
 
 **Cancellation:** Edge and Bane cancel each other 1:1.
 
-**Design Note:** Edge improves your **probability** of rolling well. It does NOT negate Complications or improve outcomes after rolling. For that, you need Opportunities (see below).
+**Design Note:** Edge improves your **probability** of rolling well. It does NOT negate Complications or improve outcomes after rolling. For that, you need Act with Potency.
 
 ### Bane (Disadvantage)
 
 When circumstances work against your action, you suffer **Bane**. Sources of Bane include:
 - **Poor positioning** — Prone, restrained, surrounded, off-balance
 - **Hostile environment** — Darkness, difficult terrain, extreme weather, unstable footing
-- **Injuries** — Conditions impose Banes based on severity (Minor = 1 Bane, Moderate = 2 Banes, Severe = 3 Banes)
+- **Injuries** — Conditions impose Banes (count checked boxes per Condition type)
 - **Hard tasks** — GM imposes 1 Bane when task is at edge of capability or conditions work against you
 - **Very Hard tasks** — GM imposes 2 Banes when task is extremely difficult or dangerous
 - **Narrative consequences** — GM moves, enemy abilities, fictional complications
 
-**Stacking:** Multiple sources of Bane stack (each imposes +1 Bane). Maximum -3 Bane.
+**Stacking:** Multiple sources of Bane stack (each imposes +1 Bane). Maximum -2 Bane.
 
 **Cancellation:** Edge and Bane cancel each other 1:1.
 
@@ -370,12 +404,14 @@ Some Talents grant Edge to allies in specific situations (e.g., "Team Leader" mi
 
 ### Edge & Bane Mechanics
 
-**Edge:** +1d to your dice pool (cap +3d)
-**Bane:** -1d from your dice pool (cap -3d)
+**Edge:** +1d to your dice pool (cap +2d)
+**Bane:** -1d from your dice pool (cap -2d)
 
 **Edge and Bane cancel 1:1.**
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the lowest result.
+
+**Maximum Pool:** With Approach 5 + 2 Edge = 7d6 (legendary tier)
 
 See [resolution.md](resolution.md) for full details and probability tables.
 

@@ -317,21 +317,22 @@ Not all Challenges have Traits. When they do, Traits represent special defenses,
 - Easy tasks (1 Edge)
 - Act with Potency Momentum spend (1 Edge)
 - Talents
-- Ally assistance
+- Ally assistance (Quick Assist)
 - Superior positioning
 - Favorable environment
-- **Build Momentum** (Trait Special Effect grants ally 1 Edge)
 
 **Bane:**
 - Hard tasks (1 Bane)
 - Very Hard tasks (2 Banes)
-- Conditions (injuries, status effects)
+- Conditions (count checked boxes)
 - Hostile environment
 - Poor positioning
 
 **Edge and Bane cancel 1:1 before rolling.**
 
-**Cap:** Maximum ±3 Edge/Bane per roll.
+**Cap:** Maximum ±2 Edge/Bane per roll.
+
+**Pool range:** 3d6 (worst case) to 7d6 (best case at Approach 5 + 2 Edge)
 
 ---
 

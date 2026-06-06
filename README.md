@@ -50,9 +50,15 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 ### Momentum (Metacurrency)
 
-Spend for tactical advantages:
+**Earn Momentum:**
+- **Triumph** — Gain 1 Momentum on double 6s
+- **Trigger a Tangle** — Introduce character-driven complication (personality/desires/backstory)
+- **Build Momentum (Trait)** — Grant 1 Momentum to self/ally when invoking Trait on Conflict+
+
+**Spend Momentum:**
 - **Act with Potency (1 Momentum)** — Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
-- **Resist Consequence (1 Momentum)** — Roll to reduce/avoid Stress or Condition
+- **Resist Consequence (1 Momentum)** — Roll Defy to reduce/avoid any consequence (Stress, Condition, or narrative setback)
+- **Recover (1 Momentum)** — Clear 1 Stress or reduce one Condition tier
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)
 
@@ -102,6 +108,9 @@ Latest updates:
 - Trait system now provides free Special Effects on Conflict+ when narratively relevant
 - Act with Potency combines Edge + Complication negation + narrative permission (1 Momentum)
 - Build Momentum grants 1 Momentum to yourself or an ally (Trait Special Effect)
+- **Tangles** system added for player-driven Momentum (inspired by Grimwild)
+- Merged Negate + Resist Consequence into unified mechanic
+- Capped Edge/Bane at ±2d (pools range from 3d6 to 7d6)
 - Locked in FitD highest-die resolution method
 - Complications system for tier shifting (Challenge Traits impose defensive penalties)
 - Updated Stress & Conditions system with checkbox tiers and clear recovery paths

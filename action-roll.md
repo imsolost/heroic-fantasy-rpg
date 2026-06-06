@@ -140,7 +140,7 @@ You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no 
 
 **And the situation worsens dramatically:** The GM makes a hard Impact Move from the list below or from the Challenge's specific moves.
 
-**On Setback using a Talent's favored Action:** Gain 1 Momentum (learning from failure)
+**On Setback:** No progress, no information gained, and the situation worsens dramatically.
 
 ---
 
@@ -704,21 +704,26 @@ Always tell players:
 
 ---
 
-## Resisting Your Own Consequences
+## Resisting Consequences
 
-By default, consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know) cannot be Defied for free.
+**Resist Consequence (1 Momentum):**
 
-**You can spend 1 Momentum to Resist Consequence:**
+When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum and roll Defy to reduce or avoid it:
 
-When you would mark Stress or gain a Condition, spend 1 Momentum and roll Defy to reduce or avoid the consequence:
-- **Success:** Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor)
-- **Conflict:** Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate)
+**Outcomes:**
+- **Success:** Mechanical consequence: Reduce by 2 steps (2 Stress → 0, Moderate → clear, Severe → Minor) / Narrative consequence: Avoid entirely
+- **Conflict:** Mechanical consequence: Reduce by 1 step (2 Stress → 1, Moderate → Minor, Severe → Moderate) / Narrative consequence: Reduce severity  
 - **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
 
-**Example:**
+**Example (mechanical):**
 > **You Clash against the knight, roll Conflict:** "You mark 1 tick but he counterattacks—mark 2 Stress"
 > **You spend 1 Momentum:** "I Resist!"
 > **You roll Defy with Grace:** Success → "You deflect his blade perfectly—reduce by 2 steps, mark 0 Stress!"
+
+**Example (narrative):**
+> **You Talk to the guard, roll Conflict:** "He's suspicious and starts watching you closely"
+> **You spend 1 Momentum:** "I Resist!"
+> **You roll Defy with Charm:** Conflict → "He's still a bit wary, but you smooth it over enough that he returns to his post"
 
 See [core-foundations.md](core-foundations.md#spending-momentum) for full Resist Consequence rules.
 

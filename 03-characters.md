@@ -90,8 +90,8 @@ Traits are evocative narrative descriptors defining who your character is. When 
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain one Special Effect:
 
 **Special Effects:**
-1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
-2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, Disarm, Create Advantage, etc.)
+1. **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, Disarm, Create Advantage, GM reveals important detail that would otherwise escape notice, etc.)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **If Setback:** Cannot invoke Trait (you failed)

@@ -97,6 +97,20 @@ Not all Challenges have Traits. When they do, Traits represent special defenses,
 
 **Types of Challenge Traits:**
 
+### Impact Move Modifiers
+
+Modify Stress inflicted by Impact Moves.
+
+**Examples:**
+- **"Deadly"** — Impact Moves deal +1 Stress (Soft = 2, Hard = 3)
+- **"Elite"** — Hard Impact Moves deal +1 Stress (Hard = 3)
+- **"Weak"** — Impact Moves deal -1 Stress (minimum 1, Soft = 1, Hard = 1)
+- **"Pathetic"** — Can only trigger Soft Impact Moves (max 1 Stress)
+
+**Note:** Use these sparingly. Most Challenges use base Impact Move values (1/2 Stress).
+
+---
+
 ### Defensive Traits (Most Common)
 
 **Impose 1 Complication** when PCs act against them.
@@ -162,15 +176,19 @@ Some Challenges have special moves they can use:
 
 ### Challenge Tiers
 
-Tiers represent overall power level and determine Stress inflicted:
+Tiers represent overall power level and narrative threat level:
 
-| Tier | Stress (Conflict) | Stress (Setback) | Power Level |
-|------|-------------------|------------------|-------------|
-| Tier 1 | 1 Stress | 1 Stress | Trivial to competent opposition |
-| Tier 2 | 1 Stress | 2 Stress | Standard to dangerous opposition |
-| Tier 3 | 2 Stress | 3 Stress | Deadly baseline, boss-tier |
+| Tier | Power Level | Default Track Length |
+|------|-------------|---------------------|
+| Tier 1 | Trivial to competent opposition | 2 ticks (Harm) |
+| Tier 2 | Standard to dangerous opposition | 4 ticks (Harm) |
+| Tier 3 | Deadly baseline, boss-tier | 6 ticks (Harm) |
 
-**Note:** Tier doesn't affect dice pools — it affects consequences when PCs fail.
+**Note:** Tier doesn't directly affect Stress inflicted. Use **Impact Move Modifiers** (Challenge Traits) to adjust damage.
+
+**Base Impact Moves:**
+- **Soft Impact Move (Conflict):** Mark 1 Stress
+- **Hard Impact Move (Setback):** Mark 2 Stress
 
 ---
 
@@ -221,9 +239,10 @@ How many ticks to defeat a Challenge?
 ## Challenge Examples
 
 ### Tier 1 Goblin Scout
-- **Tier:** 1 (1 Stress on Conflict/Setback)
-- **Traits:** "Easily Frightened"
+- **Tier:** 1
+- **Traits:** "Easily Frightened" (Exploitable), "Pathetic" (can only trigger Soft Impact Moves)
   - When intimidated, grants 1 Edge to PCs
+  - Impact Moves: max 1 Stress (Soft only)
 - **Harm Track:** 2 ticks to defeat
 
 **Tactics:** Skirmish from range, flee when threatened
@@ -231,9 +250,10 @@ How many ticks to defeat a Challenge?
 ---
 
 ### Tier 2 Armored Knight
-- **Tier:** 2 (1 Stress on Conflict, 2 Stress on Setback)
-- **Traits:** "Heavily Armored"
+- **Tier:** 2
+- **Traits:** "Heavily Armored" (Defensive)
   - Physical attacks face 1 Complication (Success → Conflict)
+  - Impact Moves: base values (Soft = 1, Hard = 2)
 - **Harm Track:** 4 ticks to defeat
 
 **Tactics:** Advance steadily, shield bash to create openings
@@ -247,9 +267,10 @@ How many ticks to defeat a Challenge?
 ---
 
 ### Tier 3 War Troll
-- **Tier:** 3 (2 Stress on Conflict, 3 Stress on Setback)
-- **Traits:** "Tough Hide," "Regeneration"
+- **Tier:** 3
+- **Traits:** "Tough Hide" (Defensive), "Regeneration" (Defensive), "Deadly" (Impact Move Modifier)
   - Physical attacks face 2 Complications (Success → Setback unless both negated)
+  - Impact Moves: +1 Stress (Soft = 2, Hard = 3)
 - **Weakness:** "Weak to Fire"
   - Fire attacks grant 1 Edge or negate 1 Complication
 - **Harm Track:** 6 ticks to defeat
@@ -265,8 +286,8 @@ How many ticks to defeat a Challenge?
 ---
 
 ### Tier 2 Ancient Vault Door
-- **Tier:** 2 (1 Stress on Conflict, 2 Stress on Setback when failing to bypass)
-- **Traits:** "Sealed," "Warded"
+- **Tier:** 2
+- **Traits:** "Sealed" (Defensive), "Warded" (Defensive)
   - Bypass attempts face 2 Complications
 - **Obstacle Track:** 6 ticks to bypass
 

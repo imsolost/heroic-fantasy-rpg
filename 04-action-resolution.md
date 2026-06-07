@@ -119,8 +119,8 @@ See [resolution.md](resolution.md) for complete dice mechanics and probability t
 **If a Trait is narratively relevant AND your final outcome is Conflict or higher:**
 
 You may invoke your Trait to gain one Special Effect:
-1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (or 2 + 2 follow-ups) instead of 2, or provide significantly more information + 2 clarifying questions (instead of 1)
-2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals hidden detail, etc.)
+1. **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals important detail that would otherwise escape notice, etc.)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **If your final outcome is Setback:** Cannot invoke Trait (you failed).
@@ -180,8 +180,8 @@ When you achieve **Triumph**, you succeed completely and gain:
 - **If a Trait is narratively relevant:** You may invoke it for one Special Effect
 
 **Trait Special Effects:**
-1. **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions (instead of 2), or provide significantly more information
-2. **Secondary Effect** — Produce additional consequence (see examples below)
+1. **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals important detail, etc.)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ---
@@ -756,8 +756,8 @@ Triumph provides immediate benefits:
 - Gain 1 Momentum
 - Ignore all Complications
 **Trait Special Effects** (invoke on Conflict+ when narratively relevant):
-- **Greater Effect** — Accomplish more (mark 2 ticks, ask 2 + 2 follow-ups, or more info + 2 clarifying questions)
-- **Secondary Effect** — Action-specific effect (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals hidden detail, grant Edge, etc.)
+- **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
+- **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals important detail that would otherwise escape notice, etc.)
 - **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ### Why Each Action Has One Core Function?
@@ -766,7 +766,7 @@ Each Action does ONE thing well (Primary Effects):
 - **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks
 - **Clash → Harm** — Mark Harm track or outright defeat weaker foes
 - **Talk → Influence** — Mark Accord track or outright convince lesser creatures
-- **Sense → Assess** — Ask 2 questions (Success), 1 question (Conflict)
+- **Sense → Assess** — Ask 2 questions (Conflict/Success)
 - **Know → Recall** — GM tells you something useful
 
 Complexity comes from Trait Special Effects, Momentum spends, and Talents—not from branching effect menus on every action.

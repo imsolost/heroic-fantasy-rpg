@@ -56,7 +56,6 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 **Spend:**
 - **Act with Potency (1)** — Gain Edge, ignore Complication, enable extraordinary feats
 - **Resist Consequence (1)** — Roll to reduce/avoid Stress, Condition, or narrative setback
-- **Recover (1)** — Clear 1 Stress or reduce Condition tier by 1
 
 **Cap:** 2 (can be increased to 3 with Talent)
 

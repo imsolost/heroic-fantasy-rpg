@@ -58,7 +58,6 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **Spend Momentum:**
 - **Act with Potency (1 Momentum)** — Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
 - **Resist Consequence (1 Momentum)** — Roll Defy to reduce/avoid any consequence (Stress, Condition, or narrative setback)
-- **Recover (1 Momentum)** — Clear 1 Stress or reduce one Condition tier
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)
 

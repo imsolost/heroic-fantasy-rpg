@@ -500,4 +500,6 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Bane, doesn't tick" |
 | Resist Consequence | "Spend 1 Momentum, roll Defy. Success = reduce by 2 steps" |
 | Burden (persistent) | "Stress overflow: take Wounded 2 (Burden) or be Taken Out. Burdens don't clear on short rest" |
-| Burden from Boss | "Boss curses you — Cursed 3 (Burden). Persists until narrative resolution" |
+| Burden from Boss | "Boss curses you — Cursed 2 (Burden). Requires narrative resolution (quest/magic)" |
+| Same-name Burden | "Already Wounded 2 (Burden), take Wounded again → refreshes to higher tier (keeps Wounded 2)" |
+| Burden Recovery | "Long rest: Wounded 3 → Wounded 2. OR special recovery clears/reduces as specified" |

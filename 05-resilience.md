@@ -229,30 +229,85 @@ This ensures Conditions don't carry over from scene to scene, while still making
 - During extended downtime between adventures
 - When the party explicitly makes camp in a secure location
 
-### Burdens (Persistent Conditions)
+### Burdens (Persistent Impairments)
 
-Some Conditions persist beyond normal recovery. These are **Burdens** — lasting consequences that require narrative resolution.
+Burdens are persistent impairments that represent serious wounds, lasting trauma, powerful curses, and other significant harm that cannot be shaken off with a short rest or a few determined actions. They are rarer and weightier than Conditions — a sign that something has genuinely changed for the character.
 
-**Sources of Burdens:**
-- **Stress Overflow** — When Stress track is full and you'd mark more, you can take a Burden instead of being Taken Out (most common source)
-- **Boss Death Moves** — Signature abilities from major enemies
-- **Catastrophic events** — Fell from tower, soul-touched by demon, witnessed horror
-- **Curses and afflictions** — Supernatural hexes, magical diseases, binding oaths
+**How Burdens Work:**
 
-**Burden mechanics:**
-- Functions like a Condition: has name + tier, applies 1 Bane
-- Tiers tick down through relevant action rolls (same as regular Conditions)
-- **Does NOT clear on short rest** — persists until tier reaches 0 OR narrative resolution
-- Counts toward 2 Bane cap from Conditions
+A Burden has a **name**, a **tier** (1–3), and a **recovery method**. Like Conditions, Burdens apply **1 Bane to all action rolls** while they persist.
 
-**Burden recovery:**
-- **Through action:** Tick down tier by 1 per relevant action roll (slow but steady)
-- **Through narrative resolution:** Quest to lift curse, powerful healing magic, extended treatment with specialist, meaningful character moment
-- **Through long rest:** Burdens tick down 1 tier on long rest (optional rule for less gritty games)
+- **Multiple Burdens:** A character can have multiple Burdens simultaneously (e.g., Wounded 3 + Cursed 2)
+- **Same-name Burdens:** If you gain a Burden with the same name as an existing Burden, refresh to whichever tier is higher
+- **Bane Cap:** All Banes (from Conditions, Burdens, and other sources) share the -2d cap. Edge and Bane cancel 1:1 before applying the cap.
+- **Narrative Restrictions:** Burdens may carry fictional restrictions (Wounded limits strenuous activity, Cursed causes NPCs to react with fear). These are separate from the mechanical Bane penalty.
 
-**Mark Burdens clearly:** When inflicting a Burden, say "This is a Burden — it won't clear on short rest." Players need to know the stakes.
+**Gaining Burdens:**
 
-**Stress Overflow Burdens are common** — whenever players push past their Stress limit to stay in the fight. Other Burdens should be rare and narratively significant.
+**Stress Overflow (most common):**
+When your Stress track is full and you'd mark more, choose: take a Burden or be Taken Out.
+- 1 Stress overflow → Burden tier 1
+- 2 Stress overflow → Burden tier 2
+- 3 Stress overflow → Burden tier 3
+
+> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 2 (Burden) rather than be Taken Out.*
+
+**Disaster:**
+When a Setback is reduced by Complications, the result is Disaster. The GM may assign a Burden alongside other consequences.
+
+> *Example: Aria rolls Setback on a rooftop jump. A Complication reduces it to Disaster. She marks 2 Stress and gains Sprained Ankle 1 (Burden).*
+
+**Death Moves:**
+When significant enemies are defeated, they may trigger a Death Move — a final action that leaves a lasting mark. Death Move Burdens are tier 2 by default.
+
+> *Example: The lich crumbles but whispers a curse. Finn gains Cursed 2 (Burden).*
+
+**Curses, Trauma, Narrative Events:**
+The GM may assign Burdens from significant fictional events — divine punishment, psychological trauma, prolonged dark magic exposure. Reserve these for genuinely significant moments.
+
+> *Example: After witnessing her village destroyed, Lyra gains Haunted 2 (Burden).*
+
+**Recovery:**
+
+Burdens do NOT tick down through action like Conditions. They require deliberate recovery, which should be clearly established when the Burden is gained.
+
+**Long Rest (default):**
+Most Burdens reduce by 1 tier per long rest (overnight, safe location).
+
+| After | Tier Reduction |
+|---|---|
+| 1 Long Rest | Tier 3 → Tier 2 |
+| 2 Long Rests | Tier 2 → Tier 1 |
+| 3 Long Rests | Tier 1 → Clears |
+
+Long rest recovery represents natural healing, gradual fading of fear, recovery over time. This is the default unless specified otherwise.
+
+**Special Recovery:**
+Some Burdens require specific narrative resolution — treatment, magic, items, or story events. The GM establishes this when assigning the Burden.
+
+Common special recovery methods:
+- **Medical treatment:** Healer/surgeon/extended care clears or reduces by 1 tier
+- **Magical healing:** Spell/ritual/item removes entirely or reduces tier
+- **Narrative resolution:** The condition must be resolved through story (curse lifted, quest completed, emotional wound addressed)
+
+> *Example: Cursed 2 (Burden) cannot clear by rest. The party must find a high priest or ritual to break it.*
+
+> *Example: Wounded 3 (Burden) clears 1 tier per long rest. But magical healing could clear it entirely in one treatment.*
+
+**Mark Recovery Method Clearly:**
+When assigning a Burden, immediately clarify how it clears:
+- *"That's Wounded 2 (Burden) — it'll reduce 1 tier per long rest."*
+- *"That's Cursed 2 (Burden) — rest won't help. You'll need to break the curse."*
+
+**Burdens vs. Conditions:**
+
+| | Conditions | Burdens |
+|---|---|---|
+| **Source** | Challenge Moves, Impact Moves | Stress overflow, Disaster, Death Moves, narrative events |
+| **Frequency** | Common | Rare |
+| **Bane** | 1 Bane each | 1 Bane each |
+| **Recovery** | Tick down through action; clear on short rest | Long rest (1 tier per) or special recovery |
+| **Weight** | Temporary impairment | Lasting consequence |
 
 ### Condition Fiction Examples
 

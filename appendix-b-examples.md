@@ -94,14 +94,14 @@ For the core rules, see [stress-conditions.md](stress-conditions.md).
 
 **Round 2:** Aria falls prone — Prone 1.
 
-**GM:** "You now have three Conditions: Poisoned 2, Frightened 2, and Prone 1. But you're capped at 2 Banes from Conditions total."
+**GM:** "You now have three Conditions: Poisoned 2, Frightened 2, and Prone 1. That's 3 Banes total, but the pool modifier cap is -2d, so you roll with -2d."
 
-**Aria rolls with 2 Banes.** After the roll:
+**Aria rolls with -2d (pool modifier cap).** After the roll:
 - Poisoned 2 → Poisoned 1
 - Frightened 2 → Frightened 1
 - Prone 1 → clears
 
-**Aria now has Poisoned 1 and Frightened 1 = 2 Banes total.**
+**Aria now has Poisoned 1 and Frightened 1 = 2 Banes, which is within the -2d cap.**
 
 ---
 
@@ -492,7 +492,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Situation | Example |
 |-----------|---------|
 | Gain Condition | "Poisoned 2 from the spider bite — 1 Bane for next 2 relevant rolls" |
-| Multiple Conditions | "Poisoned 2 + Frightened 1 = 2 Banes total (capped at 2 from Conditions)" |
+| Multiple Conditions | "Poisoned 2 + Frightened 1 = 2 Banes; or 3 Conditions = 3 Banes → -2d cap applies" |
 | Condition Refreshes | "Already Poisoned 2, take Poisoned again → still Poisoned 2 (doesn't escalate to tier 3)" |
 | Condition Ticks Down | "After the roll, Poisoned 2 → Poisoned 1" |
 | Condition Clears | "Poisoned 1 ticks down to tier 0 — clears" |

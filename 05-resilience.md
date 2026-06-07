@@ -57,11 +57,13 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 
 **A Condition applies 1 Bane to all action rolls** while it persists.
 
-**Multiple Conditions stack,** each applying 1 Bane, **up to a maximum of 2 Banes from Conditions total.**
+**Multiple Conditions stack** — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously.
 
-**Why cap at 2 Banes?** Even heroes at their worst retain some capacity for action. The cap prevents overwhelming penalties while still making accumulated harm meaningful. You're impaired but not helpless.
+**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Edge or -2d Bane, regardless of how many sources you have. This applies to everything (Conditions, difficulty, environment, etc.), not just Conditions.
 
-**Edge and Bane cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Edge, they cancel to 2 net Banes — within the cap. You can have more than 2 sources of Bane, but the maximum penalty after cancellation is -2d.
+**Edge and Bane cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Edge, they cancel to 2 net Banes — within the cap. If you have 3 Conditions (3 Banes) and no Edge, the net is 3 Banes → capped at -2d when applied to your pool.
+
+**Why the ±2d cap?** Even heroes at their worst (or best) retain some capacity for meaningful action. The cap prevents auto-fail or auto-success territory while keeping accumulated harm impactful.
 
 > **GM Guidance:** **Default:** A Condition affects all action rolls — it's simpler and more consistent.
 > 
@@ -112,9 +114,9 @@ Each time you make an action roll where the Condition applies, reduce its tier b
 
 You can have multiple different Conditions simultaneously. Each tracks independently.
 
-**Bane Stacking:** Multiple Conditions each apply 1 Bane, up to a **maximum of 2 Banes from Conditions total.**
+**Bane Stacking:** Multiple Conditions each apply 1 Bane. You can have 3, 4, or more Conditions.
 
-> *You are Poisoned 2 and Frightened 1. On a roll where both apply, you suffer 2 Banes total (capped). If you also become Blinded 1, you're at 3 Conditions but still only 2 Banes from Conditions.*
+> *You are Poisoned 2 and Frightened 1. Both apply → 2 Banes. If you also become Blinded 1, you have 3 Conditions → 3 Banes. When you roll, the pool modifier cap (-2d maximum) applies, so 3 Banes are capped at -2d to your dice pool.*
 
 **Refresh, Not Stack:** The same Condition cannot stack beyond its initial tier. If you are Poisoned 2 and would become Poisoned again, it refreshes to Poisoned 2 — it does not become Poisoned 3 or Poisoned 4.
 
@@ -342,7 +344,7 @@ When assigning a Burden, immediately clarify how it clears:
 |-----------|--------|
 | Gain a Condition | Named + tier set at infliction (1–3) |
 | Condition applies | 1 Bane to affected rolls |
-| Multiple Conditions | Each applies 1 Bane, maximum 2 Banes from Conditions total |
+| Multiple Conditions | Each applies 1 Bane (can have 3+); pool modifier cap is ±2d (universal) |
 | Same Condition inflicted again | Refreshes to original tier |
 | Make a roll where Condition applies | Reduce tier by 1 |
 | Condition reaches tier 0 | Clears |

@@ -17,7 +17,7 @@
 
 - [x] **#5** Burdens underspecified - FIXED: Clear recovery system (long rest default, special recovery when specified)
 - [x] **#6** Recover Momentum spend inconsistency - FIXED: Removed from README/intro
-- [ ] **#7** 2-Bane cap needs inline justification
+- [x] **#7** 2-Bane cap needs inline justification - FIXED: Added justification + Edge/Bane cancellation rules
 - [x] **#8** Sense Greater Effect inconsistent - FIXED: Standardized to "2 + 2 follow-ups"
 - [x] **#9** Challenge Tiers table doesn't map to Impact Move rules - FIXED: Impact Move Modifier traits
 

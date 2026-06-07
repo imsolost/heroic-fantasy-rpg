@@ -2,7 +2,7 @@
 
 This document provides extended examples of how Stress and Conditions work in play.
 
-For the core rules, see [stress-conditions.md](stress-conditions.md).
+For the core rules, see [05-resilience.md](05-resilience.md).
 
 ---
 

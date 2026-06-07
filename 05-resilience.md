@@ -3,7 +3,7 @@
 This document defines how Stress and Conditions work — the primary resilience system for handling harm, consequences, and adversity.
 
 For core mechanics (Actions, Approaches, Momentum), see [core-foundations.md](core-foundations.md).  
-For extended examples, see [examples-stress-conditions.md](examples-stress-conditions.md).  
+For extended examples, see [appendix-b-examples.md](appendix-b-examples.md).  
 For design rationale, see [design-notes.md](design-notes.md).
 
 ---

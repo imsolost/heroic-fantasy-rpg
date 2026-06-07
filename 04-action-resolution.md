@@ -611,25 +611,9 @@ Complex tasks require **progress tracks** to represent multi-step efforts.
 
 ---
 
-## Disaster
+**GM Note: Disaster**
 
-When your outcome is reduced below Setback by Complications (e.g., Success → Conflict → Setback → **Disaster**), **the worst-case scenario happens.**
-
-The GM makes a **Disaster Move** — the thing you were trying to prevent comes to pass:
-
-**Disaster Move Examples:**
-- **You're Taken Out** — Knocked unconscious, captured, flee in terror, pinned helplessly
-- **The objective fails** — Alarm raised, vault sealed, artifact destroyed, noble calls guards
-- **A Countdown completes** — Ceiling collapses, ritual finishes, reinforcements arrive
-- **Tier 3 Condition + maximum Stress** — Wounded 3 + mark 3 Stress (dramatic moment)
-- **Dramatic narrative shift** — You're exposed as a spy, the bridge collapses behind you, the demon breaks free
-
-**Example:**
-> Fighting Tier 3 War Troll with 3 Complications ("Tough Hide," "Regeneration," "Savage")
-> Roll Success → Reduced to Conflict → Reduced to Setback → Reduced to **Disaster**
-> **GM:** "The troll's massive fist catches you square in the chest. You feel ribs crack as you're hurled backward into the cavern wall. Everything goes black. When you wake, the troll is gone—and so is the artifact you were protecting."
-
-**Disaster ≠ Death** (usually). The GM should make Disaster dramatic and consequential, but leave room for the story to continue.
+In rare cases where an outcome is reduced below Setback by multiple Complications (requires 4+ total Complications), treat it as a **Disaster** — the worst-case scenario happens. The GM can narrate Taken Out, objective failure, Countdown completion, or dramatic narrative shift. This is extremely rare in normal play; most Challenges have 0-2 Complications.
 
 ---
 

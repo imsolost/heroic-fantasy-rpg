@@ -261,7 +261,7 @@ When PC fails, **the situation changes**. Never leave them in the same spot with
 
 ## Conditions: Fiction First
 
-Conditions are **narrative consequences** with mechanical penalties. See [stress-conditions.md](stress-conditions.md) for complete rules.
+Conditions are **narrative consequences** with mechanical penalties. See [05-resilience.md](05-resilience.md) for complete rules.
 
 ### Named Conditions
 
@@ -331,25 +331,25 @@ Conditions have a **name** and a **tier** (1-3):
 
 ## Pacing Combat
 
-### **Mooks** (1 HP)
+### **Mooks** (2 ticks)
 - Fast, disposable
 - Use in groups (3-6)
 - Descriptive defeats ("You cut through the goblins")
 
-### **Standard Foes** (2-3 HP)
+### **Standard Foes** (4 ticks)
 - Competent opposition
 - Use in small groups (2-4)
 - Each gets moment to act/react
 
-### **Elite Warriors** (4-5 HP)
+### **Elite Warriors** (6 ticks)
 - Dangerous individuals
 - Use solo or pairs
 - Describe injuries as they accumulate ("He's bleeding but still dangerous")
 
-### **Epic Foes / Bosses** (6-8+ HP)
+### **Epic Foes / Bosses** (8-10 ticks)
 - Centerpiece encounters
-- Give special abilities (see combat-design.md)
-- Multi-phase (tactics change at 50% HP)
+- Give special abilities (see 08-combat.md)
+- Multi-phase (tactics change at 50% track)
 - Describe escalation ("The dragon, enraged, takes flight...")
 
 ---

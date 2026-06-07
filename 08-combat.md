@@ -480,7 +480,7 @@ Armor has **uses** representing structural integrity:
 
 ### Stress, Conditions & Being Taken Out
 
-**For complete rules**, see [stress-conditions.md](stress-conditions.md).
+**For complete rules**, see [05-resilience.md](05-resilience.md).
 
 **Stress Track:** 5 boxes
 

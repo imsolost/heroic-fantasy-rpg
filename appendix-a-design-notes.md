@@ -2,7 +2,7 @@
 
 This document explains the design rationale behind the Stress & Conditions system.
 
-For the core rules, see [stress-conditions.md](stress-conditions.md).
+For the core rules, see [05-resilience.md](05-resilience.md).
 
 ---
 

@@ -1,6 +1,8 @@
 # Editor Feedback Tracking
 
-## Status: In Progress
+## Status: Chapters 01-07 Complete ✅
+
+All critical issues, design issues, and small fixes addressed. Chapters 01-07 and appendices are playtest-ready. Only 08-combat.md remains (needs editorial pass to separate brainstorming from rules).
 
 ---
 
@@ -25,10 +27,10 @@
 
 ## Smaller Issues
 
-- [ ] **#10** 07-gm-guide.md references HP (should be tracks)
-- [ ] **#11** Disaster outcome in 04-action-resolution.md rarely triggers (fold into GM note)
-- [ ] **#12** 07-gm-guide.md references old `stress-conditions.md` filename
-- [ ] **#13** Sense Design Notes in 04-action-resolution.md has old wording (1 question on Conflict)
+- [x] **#10** 07-gm-guide.md references HP - FIXED: Changed to tracks (2/4/6/8-10 ticks)
+- [x] **#11** Disaster outcome rarely triggers - FIXED: Condensed to brief GM note
+- [x] **#12** stress-conditions.md references - FIXED: All updated to 05-resilience.md
+- [x] **#13** Sense Design Notes old wording - FIXED: Updated to "2 questions (Conflict/Success)"
 
 ---
 

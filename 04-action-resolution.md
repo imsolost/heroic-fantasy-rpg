@@ -611,9 +611,43 @@ Complex tasks require **progress tracks** to represent multi-step efforts.
 
 ---
 
-**GM Note: Disaster**
+## Disaster
 
-In rare cases where an outcome is reduced below Setback by multiple Complications (requires 4+ total Complications), treat it as a **Disaster** — the worst-case scenario happens. The GM can narrate Taken Out, objective failure, Countdown completion, or dramatic narrative shift. This is extremely rare in normal play; most Challenges have 0-2 Complications.
+When your outcome is **Setback** and **one Complication reduces it further**, the result is **Disaster** — the worst-case scenario happens.
+
+**How it occurs:**
+- Roll Setback (all 1-3)
+- 1 Complication reduces it below Setback → Disaster
+- Or: Roll Conflict → 1 Complication → Setback → 1 more Complication → Disaster
+
+**Disaster Consequences:**
+
+The GM makes a Disaster Move — harsher than a normal Setback:
+- **Taken Out** — Unconscious, captured, flee in terror, pinned helplessly
+- **Objective fails catastrophically** — Alarm raised, vault sealed permanently, artifact destroyed
+- **Countdown completes** — Ceiling collapses, ritual finishes, reinforcements arrive
+- **Burden inflicted** — Tier 1-2 Burden + other consequences (see 05-resilience.md)
+- **Dramatic narrative shift** — Exposed as spy, bridge collapses, demon breaks free
+
+**Example:**
+> Fighting Tier 2 Knight with "Heavily Armored" (1 Complication)
+> 
+> Roll Setback (all 1-3) → "Heavily Armored" reduces to Disaster
+> 
+> **GM:** "Your blade glances off his armor as he drives his shoulder into your chest. You're hurled backward, landing hard. Mark 2 Stress and Winded 1 (Burden) — you'll be catching your breath for a while."
+
+**Example:**
+> Leaping between rooftops with Hard difficulty (1 Bane) and wet conditions (1 Complication)
+> 
+> Roll Setback → Complication reduces to Disaster
+> 
+> **GM:** "Your foot slips on the wet stone. You make the jump but land badly, ankle twisting. Mark 2 Stress and Sprained Ankle 1 (Burden)."
+
+**Disaster vs Setback:**
+- **Setback:** Hard Impact Move (2 Stress, maybe Condition)
+- **Disaster:** Catastrophic consequences (often includes Burden, objective failure, or Taken Out)
+
+**Frequency:** Disaster can occur when facing 1+ Complication Challenges. Elite enemies (2+ Complications) make Disasters more likely.
 
 ---
 

@@ -217,17 +217,6 @@ This is your key question. After presenting situation (danger, opportunity, comp
 
 **Default to Moderate.** Only use Easy when PCs have clear advantage or expertise. Reserve Hard for dramatic moments.
 
-### **For 2d10 System:**
-
-Thresholds are static (11/16/21). Modulate difficulty via **Edge and Bane:**
-
-| Difficulty | Modifier | Use When |
-|------------|----------|----------|
-| **Easy** | Grant 1 Edge | Favorable conditions, clear advantage |
-| **Standard** | No modifier | Neutral conditions (MOST COMMON) |
-| **Hard** | Impose 1 Bane | Unfavorable conditions, disadvantage |
-| **Very Hard** | Impose 2 Banes | Nearly impossible, stacked disadvantages |
-
 ---
 
 ## When to Roll vs. When to Say Yes

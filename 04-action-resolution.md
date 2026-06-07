@@ -2,7 +2,7 @@
 
 When a Player Character faces a risky, difficult, or dramatically significant situation, the outcome is determined by the **Action Roll**.
 
-For core mechanics (Actions, Approaches, Momentum, Stress), see [core-foundations.md](core-foundations.md).
+For core mechanics (Actions, Approaches, Momentum, Stress), see [02-core-mechanics.md](02-core-mechanics.md).
 
 ---
 
@@ -80,7 +80,7 @@ Calculate your final dice pool: **Approach rating + Edge - Bane**
 
 **Bane sources:** Hard tasks, Conditions, hostile environment, poor positioning
 
-See [core-foundations.md](core-foundations.md#edge--bane) for complete list of sources.
+See [02-core-mechanics.md](02-core-mechanics.md#edge--bane) for complete list of sources.
 
 ---
 
@@ -409,7 +409,7 @@ Use when:
 - Secondary Effect: Change Positioning (knock them down, shove them back)
 - Build Momentum (your defensive positioning energizes you or an ally)
 
-**Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [core-foundations.md](core-foundations.md#spending-momentum)).
+**Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
 
 ---
 
@@ -725,7 +725,7 @@ When you would suffer a consequence (Stress, Condition, or narrative setback), s
 > **You spend 1 Momentum:** "I Resist!"
 > **You roll Defy with Charm:** Conflict → "He's still a bit wary, but you smooth it over enough that he returns to his post"
 
-See [core-foundations.md](core-foundations.md#spending-momentum) for full Resist Consequence rules.
+See [02-core-mechanics.md](02-core-mechanics.md#spending-momentum) for full Resist Consequence rules.
 
 ---
 

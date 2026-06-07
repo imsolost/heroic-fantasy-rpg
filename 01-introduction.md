@@ -66,8 +66,9 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 
 **Conditions:** Named temporary impairments (Poisoned, Frightened, Wounded, etc.)
 - Each = 1 Bane (max 2 Banes from Conditions total)
-- Tier (1-3) = duration, ticks down through action
-- Clear on short rest (10-15 minutes)
+- Tier (1-3) = duration, reduces by 1 per relevant action roll
+- Clear when tier reaches 0 OR on short rest (10-15 minutes)
+- Example: Poisoned 2 → act through it → Poisoned 1 → act again → clears
 
 **Burdens:** Persistent Conditions that don't clear on short rest
 - Most common source: Stress overflow (when Stress full, choose: take Burden or be Taken Out)

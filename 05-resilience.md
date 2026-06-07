@@ -30,17 +30,17 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 
 **Voluntarily (as a resource):**
 - **Quick Assist** → Mark 1 Stress to grant an ally 1 Edge on their next roll
-- **Push Yourself** → Mark 1 Stress to gain 1 Edge on your roll (GM discretion)
+- **Push Yourself** → Mark 1 Stress to gain 1 Edge on your roll
 
 ### Recovery
 
 **Short rest (10–15 minutes of safety):**
 - Clear all Stress
-- Clear all Conditions
+- Clear all Conditions (Burdens do NOT clear)
 
 **Long rest (overnight, safe location):**
 - Clear all Stress
-- Clear all Conditions
+- Clear all Conditions (including Burdens)
 
 ---
 

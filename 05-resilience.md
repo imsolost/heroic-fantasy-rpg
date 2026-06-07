@@ -59,6 +59,10 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 
 **Multiple Conditions stack,** each applying 1 Bane, **up to a maximum of 2 Banes from Conditions total.**
 
+**Why cap at 2 Banes?** Even heroes at their worst retain some capacity for action. The cap prevents overwhelming penalties while still making accumulated harm meaningful. You're impaired but not helpless.
+
+**Edge and Bane cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Edge, they cancel to 2 net Banes — within the cap. You can have more than 2 sources of Bane, but the maximum penalty after cancellation is -2d.
+
 > **GM Guidance:** **Default:** A Condition affects all action rolls — it's simpler and more consistent.
 > 
 > **Exception:** When a Condition clearly has no bearing on the action fictionally, it doesn't apply (and doesn't tick down). Examples:

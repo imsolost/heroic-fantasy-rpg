@@ -15,11 +15,11 @@
 
 ## Design Issues (Priority)
 
-- [ ] **#5** Burdens underspecified - needs clearer guidance on recovery paths
-- [ ] **#6** Recover Momentum spend inconsistency (in README/intro, not in 05-resilience)
+- [x] **#5** Burdens underspecified - FIXED: Clear recovery system (long rest default, special recovery when specified)
+- [x] **#6** Recover Momentum spend inconsistency - FIXED: Removed from README/intro
 - [ ] **#7** 2-Bane cap needs inline justification
-- [ ] **#8** Sense Greater Effect inconsistent (2+2 follow-ups vs 4 questions vs reveal)
-- [ ] **#9** Challenge Tiers table doesn't map to Impact Move rules (Tier 3 = 3 Stress?)
+- [x] **#8** Sense Greater Effect inconsistent - FIXED: Standardized to "2 + 2 follow-ups"
+- [x] **#9** Challenge Tiers table doesn't map to Impact Move rules - FIXED: Impact Move Modifier traits
 
 ---
 

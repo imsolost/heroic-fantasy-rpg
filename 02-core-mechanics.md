@@ -191,6 +191,12 @@ Edge and Bane represent advantage and disadvantage.
 
 **Edge and Bane cancel 1:1** before rolling.
 
+**Caps:** Maximum +2 Edge, maximum -2 Bane (after cancellation). You can have more than 2 sources of Edge or Bane, but the net modifier after cancellation caps at ±2d.
+
+**Example:** 3 Conditions (3 Banes) + 1 Edge = 2 net Banes (within cap). Or: 3 Edge sources + 1 Bane = 2 net Edge (within cap).
+
+**Why caps?** Keeps pools in the 3d6-7d6 range, maintaining tension at all power levels. Even heroes at their worst (or best) can't reach auto-fail or auto-success territory.
+
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the **lowest** result.
 
 **Maximum Pool:** Approach 5 + 2 Edge = **7d6** (legendary tier)
@@ -199,7 +205,7 @@ Edge and Bane represent advantage and disadvantage.
 - Starting character (Approach 3): **3d6** base
 - With Easy task (+1 Edge): **4d6**
 - With Hard task (+1 Bane): **2d6**
-- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes, capped at -2d: **1d6** (minimum 2d6 take lowest)
+- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes → cancel 0 Edge → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
 
 ---
 

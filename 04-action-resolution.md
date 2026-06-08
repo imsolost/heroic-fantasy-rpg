@@ -289,31 +289,38 @@ Let players propose Secondary Effects that excite them. Approve when fiction and
 
 ---
 
-## Track Types
+## Progress Tracks
+
+**Progress tracks** measure how close you are to overcoming a Challenge — whether through violence, persuasion, or skill.
+
+There are three types of **Progress tracks** that player actions mark:
 
 ### Harm Track
-Progress toward defeating or destroying an enemy:
-- **Used by:** Clash (inflicting harm)
-- **Examples:** Enemy health, mental resolve, structural integrity
+Progress toward defeating or destroying an enemy through physical damage:
+- **Used by:** Clash (physical delivery — weapons, fists, magic blasts)
+- **Examples:** Enemy health, physical durability, structural integrity
 - **When filled:** Enemy defeated, destroyed, or otherwise neutralized
+
+### Will Track
+Progress toward breaking an adversary's mental/emotional fortitude or convincing them:
+- **Used by:** Clash (social delivery — taunts, intimidation, insults), Talk (persuasion, deception, influence)
+- **Examples:** NPC resolve, composure, determination to resist
+- **When filled:** Fiction-dependent — they break and flee, surrender, concede the argument, or become convinced
+- **Note:** Talk vs Clash for Will determines outcome type (convinced vs broken — see Chapter 06)
 
 ### Obstacle Track
 Progress toward overcoming a physical or environmental challenge:
-- **Used by:** Defy (overcoming obstacles)
-- **Examples:** Lock complexity, wall height, trap mechanism, hazard severity
+- **Used by:** Defy (overcoming obstacles), Know (solving puzzles, dispelling wards)
+- **Examples:** Lock complexity, wall height, trap mechanism, hazard severity, ward strength
 - **When filled:** Obstacle overcome, lock picked, wall climbed, trap disarmed, hazard neutralized
-
-### Accord Track
-Progress toward building relationship, trust, or social influence:
-- **Used by:** Talk (influencing people)
-- **Examples:** NPC attitude, faction standing, negotiation progress
-- **When filled:** They do what you want, become allied, deal is struck
 
 ### Countdown Track (GM-facing)
 Time pressure or deteriorating situation:
 - **Used by:** GM to represent threats escalating
 - **Examples:** Alarm countdown, ritual completion, structural collapse
 - **When filled:** Bad thing happens (guards arrive, ritual succeeds, building collapses)
+
+**For complete details on track selection and design, see Chapter 06: Challenges.**
 
 ### Track Sizes
 
@@ -339,29 +346,29 @@ Time pressure or deteriorating situation:
 
 ### When to Use Tracks
 
-**Harm Track (Clash):**
+**Harm Track (Clash with physical delivery):**
 - **Use Track:** Significant adversaries requiring multiple hits
   - Named NPCs, boss enemies, veteran warriors (3-10 ticks)
   - Dangerous creatures, fortified enemies
 - **Resolve Immediately:** Mooks, minor threats, trivial enemies
   - Unnamed guards, bandits (Triumph/Success = defeated outright)
 
-**Obstacle Track (Defy):**
-- **Use Track:** Complex obstacles requiring multiple actions
-  - Fortified positions, complex mechanisms, dangerous hazards (2-6 ticks)
-  - Multi-stage climbs, elaborate trap systems
-- **Resolve Immediately:** Simple obstacles, single-action challenges
-  - Simple locks, short leaps, dodging single attacks (Triumph/Success = overcome)
-
-**Accord Track (Talk):**
-- **Use Track:** Complex social goals, faction standing, long-term relationships
-  - Convincing hostile NPC to become ally (3-6 ticks)
+**Will Track (Clash with social delivery, or Talk):**
+- **Use Track:** Complex social goals, resistant NPCs, breaking enemy morale
+  - Hostile NPC requiring sustained pressure (3-6 ticks)
+  - Breaking enemy's will to fight through intimidation (3-6 ticks)
   - Winning over faction or group (6-10 ticks)
-  - Complex negotiations with multiple stakeholders (3-6 ticks)
-- **Resolve Immediately:** Simple requests, one-shot interactions
+- **Resolve Immediately:** Simple requests, one-shot interactions with friendly/neutral NPCs
   - "Let us pass" (Triumph/Success = they comply)
   - "Tell me what you saw" (Triumph/Success = they answer)
   - "Back down" (Triumph/Success = they flee or submit)
+
+**Obstacle Track (Defy, Know):**
+- **Use Track:** Complex obstacles requiring multiple actions
+  - Fortified positions, complex mechanisms, dangerous hazards (2-6 ticks)
+  - Multi-stage climbs, elaborate trap systems, warded doors
+- **Resolve Immediately:** Simple obstacles, single-action challenges
+  - Simple locks, short leaps, dodging single attacks (Triumph/Success = overcome)
 
 **Rule of thumb:** If it should take multiple rolls to accomplish, use a track. If one good roll should handle it, resolve immediately.
 
@@ -417,43 +424,51 @@ Use when:
 
 **Primary Effect: Harm**
 
-Mark progress on a **Harm track** or outright defeat weaker foes.
+Mark progress on a **Harm or Will track** (depending on delivery) or outright defeat weaker foes.
 
-**When you try to hurt someone, whether physically or mentally—inflict harm.**
+**When you try to harm someone — physically or emotionally — inflict harm.**
 
 Use when:
-- Attacking with weapons, fists, or magic (physical harm)
-- Trading blows in combat
-- Hurling vicious insults, taunts, or intimidation with intent to wound (mental harm)
+- Attacking with weapons, fists, or magic (marks **Harm track**)
+- Trading blows in combat (marks **Harm track**)
+- Hurling vicious insults, taunts, or intimidation with intent to break them (marks **Will track**)
+- Demoralizing, humiliating, or psychologically dominating an opponent (marks **Will track**)
 
-**Your Approach determines the fiction:**
-- **Daring/Grace:** Physical harm (sword strikes, arrows, tackles)
-- **Charm/Cunning:** Mental harm (cutting insults, devastating mockery, demoralizing taunts)
+**Your fictional approach determines which track you mark:**
+- **Physical delivery** (weapons, fists, magic blasts) → marks **Harm track**
+- **Social delivery** (taunts, intimidation, cutting insults, rhetoric) → marks **Will track**
+
+**Your Approach determines your dice pool:**
+- **Daring/Grace:** Typically physical harm
+- **Charm/Cunning:** Typically social/mental harm
 - **Spirit:** Either physical (willpower-fueled attacks) or mental (psychic assault)
 
-**GM Note:** The GM is the final arbiter. Some targets may be immune or resistant to certain types of harm (e.g., attempting to Clash with Charm against a knight with "Code of Honor" might impose Complications or be ruled ineffective).
+**Impact Moves mark Stress regardless of delivery:** Whether you Clash physically or socially, GM Impact Moves that result from Conflict/Setback mark **Stress** on the PC (not separate "mental" or "social" damage). The fiction describes whether it's a physical wound or an emotional blow, but mechanically it's all Stress.
+
+**GM Note:** The GM is the final arbiter. Some targets may be immune or resistant to certain types of harm (e.g., a golem has no Will track — social Clash is ineffective; a knight with "Iron Discipline" might impose Complications on social Clash attempts).
 
 **Outcomes:**
 - **Setback:** Mark 0 ticks + GM makes hard Impact Move (enemy deals harm, you lose position, situation worsens)
-- **Conflict:** Mark 1 tick (or outright defeat weak foes) + GM makes soft Impact Move (enemy counterattacks, you're pressured, mark Stress)
-- **Success:** Mark 1 tick (or outright defeat weak foes) cleanly
-- **Triumph:** Mark 1 tick + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Conflict:** Mark 1 tick on Harm or Will (or outright defeat weak foes) + GM makes soft Impact Move (enemy counterattacks, you're pressured, mark Stress)
+- **Success:** Mark 1 tick on Harm or Will (or outright defeat weak foes) cleanly
+- **Triumph:** Mark 1 tick on Harm or Will + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
 **Track vs Outright Defeat:**
 - **Use Track:** Significant enemies requiring multiple hits (named NPCs, boss enemies, veterans)
 - **Outright Defeat:** Success/Triumph defeats immediately (unnamed guards, mooks, trivial enemies)
 
 **Examples:**
-- Strike knight with sword (Daring) → Success → Mark 1 tick on his Harm track (physical damage)
-- Insult bandit's honor (Charm) → Conflict → Mark 1 tick but he retaliates with his own insult (take 1 Stress, mental harm)
-- Blast mage with fire (Spirit) → Triumph → Mark 1 tick + gain 1 Momentum + ignore Complications
-- Use Trait on attack → Triumph → Invoke Trait for Greater Effect (mark 2 ticks total)
+- Strike knight with sword (Daring) → Success → Mark 1 tick on his **Harm track** (physical damage)
+- Taunt bandit about his cowardice (Charm) → Conflict → Mark 1 tick on his **Will track**, but he retaliates with his own insult (take 1 Stress from Impact Move)
+- Blast mage with fire (Spirit) → Triumph → Mark 1 tick on **Harm track** + gain 1 Momentum + ignore Complications
+- Intimidate guard captain (Cunning) → Success → Mark 1 tick on his **Will track** (he's rattled, losing composure)
+- Use Trait on attack → Triumph → Invoke Trait for Greater Effect (mark 2 ticks total on Harm or Will)
 
 **Example Special Effects (from Trait):**
-- Greater Effect (mark 2 ticks on Harm track instead of 1)
+- Greater Effect (mark 2 ticks on Harm or Will track instead of 1)
 - Secondary Effect: Take Something (disarm, seize position, steal momentum)
-- Secondary Effect: Inflict Condition (wound, stun, demoralize, humiliate)
-- Secondary Effect: Affect Multiple Targets (cleave through enemies, insult entire group)
+- Secondary Effect: Inflict Condition (wound/stun for Harm, demoralized/humiliated for Will)
+- Secondary Effect: Affect Multiple Targets (cleave through enemies, demoralize entire squad)
 - Build Momentum (your strike energizes you or an ally for their next move)
 
 ---
@@ -462,24 +477,28 @@ Use when:
 
 **Primary Effect: Influence**
 
-Mark progress on an **Accord track** or outright convince lesser creatures.
+Mark progress on a **Will track** or outright convince lesser creatures.
 
-**When you try to convince, threaten, or manipulate someone into doing what you want—sway them.**
+**When you try to convince, persuade, or manipulate someone into doing what you want—sway them.**
 
 Use when:
 - Persuading someone to do something
 - Lying, manipulating, or deceiving
-- Intimidating or threatening (with intent to manipulate, not harm)
 - Charming, seducing, or performing
 - Negotiating a deal or building rapport
+- Making an offer, presenting evidence, appealing to reason/emotion
 
-**Distinction from Clash:** Talk aims to influence behavior (make them do what you want). Clash aims to inflict harm (wound their pride, break their spirit). If your intent is to hurt, not sway, use Clash instead.
+**Distinction from Clash (social):** 
+- **Talk** aims to **win someone over** — persuade, convince, influence behavior (marks **Will track**)
+- **Clash (social)** aims to **break them down** — intimidate, taunt, dominate, wound pride (marks **Will track**)
+- **Both mark Will**, but Talk creates positive relationships (they're convinced), while social Clash creates coerced compliance (they're broken)
+- If your intent is to hurt or dominate, use Clash. If your intent is to persuade or win them over, use Talk.
 
 **Outcomes:**
 - **Setback:** Mark 0 ticks + GM makes hard Impact Move (they're offended, call guards, situation worsens dramatically)
-- **Conflict:** Mark 1 tick (or outright convince lesser creatures) + GM makes soft Impact Move (they demand something, you reveal information, you lose standing)
-- **Success:** Mark 1 tick (or outright convince lesser creatures) cleanly
-- **Triumph:** Mark 1 tick + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+- **Conflict:** Mark 1 tick on Will (or outright convince lesser creatures) + GM makes soft Impact Move (they demand something, you reveal information, you lose standing)
+- **Success:** Mark 1 tick on Will (or outright convince lesser creatures) cleanly
+- **Triumph:** Mark 1 tick on Will + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
 **Track vs Outright Convince:**
 - **Use Track:** Complex social goals, hostile NPCs, faction standing (3-10 ticks)
@@ -487,14 +506,14 @@ Use when:
 
 **Examples:**
 - Convince guard to let you pass → Success → He waves you through (simple task, outright convinced)
-- Negotiate with hostile merchant → Success → Mark 1 tick on 3-tick Accord track (he's warming up)
-- Intimidate bandits into fleeing → Triumph → Mark 1 tick + invoke Trait for Secondary Effect: Inflict Condition (Intimidated—they flee immediately)
-- Charm noble at party → Conflict → Mark 1 tick on Accord track but you reveal something about yourself in the process
+- Negotiate with hostile merchant → Success → Mark 1 tick on his 3-tick **Will track** (he's warming up to your offer)
+- Persuade noble with compelling evidence → Triumph → Mark 1 tick on **Will track** + gain 1 Momentum + invoke Trait for Greater Effect (mark 2 ticks total — she's nearly convinced)
+- Charm noble at party → Conflict → Mark 1 tick on **Will track** but you reveal something about yourself in the process (soft Impact Move)
 
 **Example Special Effects (from Trait):**
-- Greater Effect (mark 2 ticks on Accord track instead of 1)
-- Secondary Effect: Shift Attitude dramatically (Hostile → Neutral, or Neutral → Friendly)
-- Secondary Effect: Inflict Social Condition (intimidated, charmed, demoralized, humiliated)
+- Greater Effect (mark 2 ticks on Will track instead of 1)
+- Secondary Effect: Shift Attitude dramatically (Hostile → Neutral, or Neutral → Friendly beyond what track filling would grant)
+- Secondary Effect: Inflict Social Condition (charmed, sympathetic, indebted)
 - Secondary Effect: Affect Multiple Targets (convince entire group instead of one person)
 - Build Momentum (your words energize you or an ally)
 

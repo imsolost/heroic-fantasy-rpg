@@ -24,9 +24,9 @@ This is a tabletop roleplaying game where you play heroes in a dangerous, wondro
 
 Each Action has a **Primary Effect**:
 
-1. **Defy → Overcome** — Dodge attacks, resist danger, push past obstacles
-2. **Clash → Harm** — Attack physically or mentally to mark Harm track
-3. **Talk → Influence** — Persuade, deceive, intimidate to mark Accord track
+1. **Defy → Overcome** — Dodge attacks, resist danger, push past obstacles (marks Obstacle track)
+2. **Clash → Harm** — Attack physically to mark Harm track, or socially to mark Will track
+3. **Talk → Influence** — Persuade, deceive, intimidate to mark Will track
 4. **Sense → Assess** — Ask specific questions to understand the situation
 5. **Know → Recall** — GM tells you something useful from your knowledge
 

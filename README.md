@@ -8,7 +8,7 @@ A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse 
 - **Simple core functions:** Each action does ONE thing clearly (Primary Effects)
 - **Traits provide options:** Free Special Effects on Conflict+ when narratively relevant
 - **Dice pool resolution:** Highest-die method (Forged in the Dark inspired)
-- **Track-based progression:** Extended conflicts use progress clocks
+- **Progress track-based:** Extended conflicts use Progress tracks (Harm, Will, Obstacle)
 
 ## System Overview
 
@@ -17,8 +17,8 @@ A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse 
 Each Action has a **Primary Effect**:
 
 1. **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks (dodge attacks, leap chasms, pick locks)
-2. **Clash → Harm** — Mark Harm track or outright defeat weaker foes (physical or mental harm)
-3. **Talk → Influence** — Mark Accord track or outright convince lesser creatures (persuade, deceive, intimidate)
+2. **Clash → Harm** — Mark Harm or Will track (depending on approach) or outright defeat weaker foes
+3. **Talk → Influence** — Mark Will track or outright convince lesser creatures (persuade, deceive, influence)
 4. **Sense → Assess** — Ask 2 questions (Conflict or Success)
 5. **Know → Recall** — GM tells you one specific, actionable thing + you may ask one clarifying question
 

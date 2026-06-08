@@ -91,7 +91,9 @@ Beyond dealing damage, you can attempt tactical maneuvers by declaring your inte
 - **Action:** Sense or Clash with intent to create advantage
 - **Effect (Success):** Ally gains Edge on next action against that enemy.
 - **Effect (Triumph):** As Success, or grant Edge to all allies.
-- **Example:** "I feint high to draw his guard up." → Clash with Cunning
+- **Examples:** 
+  - Physical: "I feint high to draw his guard up." → Clash with Cunning
+  - Social: "I mock the captain's cowardice in front of his men." → Clash (social) with Charm, marks his **Will track** and rattles him, granting allies Edge on attacks
 
 **Sunder Equipment** — Damage gear
 - **Action:** Clash targeting enemy's weapon/armor/shield
@@ -143,7 +145,14 @@ There are three ways to help allies during combat:
 
 **Effect:** Grant 1 Momentum to yourself or ally
 
-**Example:** Aria invokes "Tactical Commander" on a successful Talk roll → grants Finn 1 Momentum. Finn spends it on Act with Potency (gains Edge + ignores Complication + narrative permission for extraordinary feat).
+**Examples:**
+
+**Physical Combat:**
+- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it on Act with Potency for his next attack (gains Edge + ignores Complication + narrative permission for extraordinary feat).
+
+**Social Conflict:**
+- Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Act with Potency on her physical attack (gains Edge + ignores his armor Complication).
+- Finn invokes "Inspirational Presence" on a successful Talk roll convincing the noble → grants the party 1 Momentum. The noble is warming to their cause (marks 1 tick on his **Will track**).
 
 **Advantage:** Enables big heroic moments via Act with Potency
 

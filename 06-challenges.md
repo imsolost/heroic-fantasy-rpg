@@ -411,10 +411,18 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - Exploitable: Grant 1 Edge when exploited
 - Contextual: Only apply in specific situations
 
-**Challenge Tiers:**
-- Tier 1: 1 Stress (Conflict/Setback), 2-tick Harm
-- Tier 2: 1/2 Stress, 4-tick Harm
-- Tier 3: 2/3 Stress, 6-tick Harm
+**Challenge Tiers (Track Durability):**
+- Mooks: 2 ticks (1 Success defeats)
+- Standard: 4 ticks (2 Successes defeat)
+- Elite: 6 ticks (3 Successes defeat)
+- Boss: 8-10 ticks (4-5 Successes defeat)
+
+**Impact Move Modifiers (Traits):**
+- Base: Soft = 1 Stress, Hard = 2 Stress
+- "Deadly": +1 Stress on all Impact Moves (Soft = 2, Hard = 3)
+- "Elite": Hard Impact Moves +1 Stress (Hard = 3)
+- "Weak": Impact Moves -1 Stress (minimum 1)
+- "Pathetic": Can only trigger Soft Impact Moves (max 1 Stress)
 
 **Design Matrix:**
 - 0 Traits: Trivial to standard opposition

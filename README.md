@@ -19,8 +19,8 @@ Each Action has a **Primary Effect**:
 1. **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks (dodge attacks, leap chasms, pick locks)
 2. **Clash → Harm** — Mark Harm track or outright defeat weaker foes (physical or mental harm)
 3. **Talk → Influence** — Mark Accord track or outright convince lesser creatures (persuade, deceive, intimidate)
-4. **Sense → Assess** — Ask specific questions (2 on Success, 1 on Conflict)
-5. **Know → Recall** — GM tells you something useful
+4. **Sense → Assess** — Ask 2 questions (Conflict or Success)
+5. **Know → Recall** — GM tells you one specific, actionable thing + you may ask one clarifying question
 
 ### Five Approaches (How You Act)
 
@@ -44,7 +44,7 @@ Roll Xd6, check highest die (and look for double 6s):
 ### Traits (Special Effects)
 
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
-- **Greater Effect** — Mark 2 ticks (instead of 1), ask 4 questions, or provide significantly more information
+- **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
 - **Secondary Effect** — Take Something, Inflict Condition, Affect Multiple Targets, etc.
 - **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
@@ -116,9 +116,10 @@ Latest updates:
 - **File reorganization** — Numbered chapters (01-08) for clear reading order, reduced duplication
 - **Stress overflow → Burdens** — When Stress full, choose: take Burden (persistent Condition) or be Taken Out
 - **Replaced Conditions system** with flexible named Conditions (Poisoned, Frightened, Blinded, etc.)
-  - Simple tier tracking (1-3), all Conditions = 1 Bane (max 2 Banes total)
+  - Simple tier tracking (1-3), each Condition = 1 Bane (you can have 3+ Conditions)
+  - Pool modifier cap: ±2d (universal rule, applies after Edge/Bane cancel 1:1)
   - Ticks down through action, clears on short rest
-  - Burdens persist beyond short rest (most common from Stress overflow)
+  - Burdens persist beyond short rest (recover via Long Rest or special narrative resolution)
 - **Tangles** system added for player-driven Momentum (inspired by Grimwild)
 - Merged Negate + Resist Consequence into unified mechanic
 - Capped Edge/Bane at ±2d (pools range from 3d6 to 7d6)

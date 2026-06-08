@@ -73,7 +73,7 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 
 **Burdens:** Persistent Conditions that don't clear on short rest
 - Most common source: Stress overflow (when Stress full, choose: take Burden or be Taken Out)
-- Tick down through action or require narrative resolution
+- Recover via Long Rest (1 tier per rest) or special narrative resolution (curses, afflictions)
 
 ---
 

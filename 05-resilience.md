@@ -2,9 +2,9 @@
 
 This document defines how Stress and Conditions work — the primary resilience system for handling harm, consequences, and adversity.
 
-For core mechanics (Actions, Approaches, Momentum), see [core-foundations.md](core-foundations.md).  
+For core mechanics (Actions, Approaches, Momentum), see [02-core-mechanics.md](02-core-mechanics.md).  
 For extended examples, see [appendix-b-examples.md](appendix-b-examples.md).  
-For design rationale, see [design-notes.md](design-notes.md).
+For design rationale, see [appendix-a-design-notes.md](appendix-a-design-notes.md).
 
 ---
 
@@ -198,7 +198,8 @@ When you would suffer a consequence (Stress, Condition, or narrative setback), s
 ## Taken Out
 
 You are **Taken Out** when:
-- You would mark Stress while your track is full and cannot or choose not to take a Condition
+- **Stress Overflow:** You would mark Stress while your track is full and cannot or choose not to take a Burden
+- **Burden Escalation:** The GM may rule you're Taken Out from overwhelming sources (Death Moves, Disaster, narrative events that would incapacitate you)
 
 **The GM narrates what happens** based on context — unconscious, fleeing, captured, broken. Taken Out is not automatically death.
 
@@ -348,9 +349,10 @@ When assigning a Burden, immediately clarify how it clears:
 | Same Condition inflicted again | Refreshes to original tier |
 | Make a roll where Condition applies | Reduce tier by 1 |
 | Condition reaches tier 0 | Clears |
-| Short rest (10–15 min) | All Conditions clear |
+| Short rest (10–15 min) | All Stress and all Conditions clear (Burdens persist) |
+| Long rest (overnight) | All Stress and all Conditions clear; Burdens reduce 1 tier |
 | Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
-| Burden | Persistent Condition — ticks down through action, does NOT clear on short rest |
+| Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on short rest |
 | Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (soft Impact Move) or 2 (hard Impact Move) |
 | Quick Assist | Mark 1 Stress, grant ally 1 Edge |

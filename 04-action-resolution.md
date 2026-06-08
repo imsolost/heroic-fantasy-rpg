@@ -93,7 +93,7 @@ Roll Xd6 dice pool (Approach + Edge - Bane). Check the highest single die (and l
 - **Any 6:** Success — You accomplish your intent cleanly
 - **Two+ 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications
 
-See [resolution.md](resolution.md) for complete dice mechanics and probability tables.
+See [02-core-mechanics.md](02-core-mechanics.md) for complete dice mechanics and probability tables.
 
 ---
 
@@ -784,8 +784,8 @@ Each Action does ONE thing well (Primary Effects):
 - **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks
 - **Clash → Harm** — Mark Harm track or outright defeat weaker foes
 - **Talk → Influence** — Mark Accord track or outright convince lesser creatures
-- **Sense → Assess** — Ask 2 questions (Conflict/Success)
-- **Know → Recall** — GM tells you something useful
+- **Sense → Assess** — Ask 2 questions (Conflict or Success)
+- **Know → Recall** — GM tells you one specific, actionable thing + you may ask one clarifying question
 
 Complexity comes from Trait Special Effects, Momentum spends, and Talents—not from branching effect menus on every action.
 

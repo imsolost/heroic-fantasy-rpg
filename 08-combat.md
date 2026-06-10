@@ -200,9 +200,10 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 #### Common Epic Abilities
 
 **Armored / Heavily Defended**
-- **Effect:** Clash without Edge deals reduced damage (mark only 1 tick instead of 2, or no ticks on Success/Conflict).
-- **Counter:** PCs must create Opening (use Sense to identify weakness, Defy to create advantage) to deal full damage.
+- **Effect:** This foe possesses layered defenses (2 Complications on direct attacks). A Success downshifts to Conflict, Conflict downshifts to Setback. Direct attacks without Edge or tactical advantage deal minimal progress.
+- **Counter:** PCs must create Opening (use Sense to identify weakness, Defy to create advantage, or Act with Potency) to negate Complications before full damage can be dealt.
 - **Example:** Dragon's scales, knight's plate armor, magical ward
+- **Design Note:** This creates the same effect as "requires Opening to damage" without contradicting the base resolution system. Success still marks ticks, but Complications downshift the outcome tier as normal.
 
 **Devastating Counterattack**
 - **Effect:** When PC rolls Setback on Clash, PC marks 2 Stress (Hard Impact Move) and gains Complication "Knocked Back" or Condition tier 1.

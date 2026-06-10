@@ -802,7 +802,7 @@ Triumph provides immediate benefits:
 Each Action does ONE thing well (Primary Effects):
 - **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks
 - **Clash → Harm** — Mark Harm track or outright defeat weaker foes
-- **Talk → Influence** — Mark Accord track or outright convince lesser creatures
+- **Talk → Influence** — Mark Will track or outright convince lesser creatures
 - **Sense → Assess** — Ask 2 questions (Conflict or Success)
 - **Know → Recall** — GM tells you one specific, actionable thing + you may ask one clarifying question
 
@@ -827,7 +827,7 @@ This creates:
 - **Blades in the Dark** — Progress clocks, position and effect
 - **CBR+PNK** — Resist rolls, clear telegraphing
 - **Chasing Adventure** — One core move per action, track-based resolution
-- **Eternal Ruins** — Challenge/Accord track distinction, Defense model
+- **Eternal Ruins** — Challenge/Will track distinction, Defense model
 - **Grimwild** — Triumph Critical Bonus menu (Greater Effect/Secondary Effect/Setup)
 - **Masks** — Take Something (physical/conceptual), Defend move
 - **Thirsty Sword Lesbians** — Defy Disaster, social Conditions
@@ -851,7 +851,7 @@ This creates:
 **The Five Actions (Primary Effects):**
 - **Defy → Overcome:** Mark 1 tick on Obstacle track (Conflict/Success) or auto-overcome simple tasks
 - **Clash → Harm:** Mark 1 tick on Harm track (Conflict/Success) or outright defeat weaker foes
-- **Talk → Influence:** Mark 1 tick on Accord track (Conflict/Success) or outright convince lesser creatures
+- **Talk → Influence:** Mark 1 tick on Will track (Conflict/Success) or outright convince lesser creatures
 - **Sense → Assess:** Ask 2 questions (Conflict/Success)
 - **Know → Recall:** GM tells you one specific, actionable thing + you may ask one clarifying question (Conflict/Success)
 
@@ -871,7 +871,7 @@ This creates:
 **Track Types & Sizes:**
 - **Harm Track** (Clash): Defeating enemies — 1 (trivial), 2 (quick), 3-4 (moderate), 5-7 (major), 8-10 (epic)
 - **Obstacle Track** (Defy): Overcoming obstacles — Same sizes
-- **Accord Track** (Talk): Influencing people — Same sizes
+- **Will Track** (Talk): Influencing people — Same sizes
 - **Countdown Track** (GM): Threat escalation timer
 
 **Enemy Actions:**

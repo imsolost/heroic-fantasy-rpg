@@ -116,7 +116,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **"Silver Tongue" + Talk to influence:**
 - Roll Conflict or higher → Choose Special Effect
-- Greater Effect: Mark 2 ticks on Accord track (instead of 1)
+- Greater Effect: Mark 2 ticks on Will track (instead of 1)
 - Secondary Effect: Shift attitude dramatically or gain additional favor
 - Build Momentum: Grant 1 Momentum to self
 

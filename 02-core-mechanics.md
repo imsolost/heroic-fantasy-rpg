@@ -53,7 +53,7 @@ Try to hurt someone, physically or mentally.
 ### 3. Talk — Influence
 Convince, threaten, or manipulate someone into doing what you want.
 
-**Primary Effect:** Mark 1 tick on Accord track OR outright convince lesser creatures
+**Primary Effect:** Mark 1 tick on Will track OR outright convince lesser creatures
 
 **Examples:** Persuade guards to let you pass, deceive merchants about value, intimidate thugs into fleeing, seduce nobles for information
 
@@ -333,7 +333,7 @@ More tiers would complicate; fewer would lose nuance.
 **Each Action has a Primary Effect:**
 - Defy → Mark Obstacle track or overcome automatically
 - Clash → Mark Harm track or defeat weaker foes
-- Talk → Mark Accord track or convince lesser creatures
+- Talk → Mark Will track or convince lesser creatures
 - Sense → Ask 2 questions
 - Know → GM tells you one thing + you may ask one clarifying question
 

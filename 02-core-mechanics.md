@@ -142,6 +142,7 @@ Edge and Bane represent advantage and disadvantage.
 - Tactical superiority (outnumbering enemy, ambush, surprise)
 - Talents (specific circumstances)
 - Quick Assist (ally marks 1 Stress to grant you 1 Edge)
+- Push Yourself (mark 1 Stress to gain 1 Edge)
 
 **Maximum:** +2d Edge (cap)
 

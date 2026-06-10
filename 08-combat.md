@@ -233,22 +233,23 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 - **Effect:** When defeated, Epic Foe triggers final action (curse, explosion, summon reinforcements, prophetic warning).
 - **Example:** Lich whispers curse → Finn gains Cursed 2 (Burden), Dragon's dying breath ignites forest
 
-#### Diminishing Morale (Optional)
+#### Morale Break (Bridging Physical Damage to Will Track)
 
-Use this when you want enemies to flee or surrender rather than fight to the death.
+Use this to translate overwhelming physical dominance into psychological collapse. Instead of tracking a separate Morale pool, mark the enemy's **Will Track** when they suffer devastating blows.
 
-**Setup:** Enemy has Morale pool (starts at 6d6, 5d6, or 4d6 depending on confidence)
+**Trigger:** When PCs deal overwhelming physical damage (Triumph, mark 3+ ticks in one hit, kill enemy leader, exploit critical weakness), immediately mark the enemy's **Will Track** to represent shock, fear, or broken morale.
 
-**Trigger:** When PCs deal significant blow (Triumph, mark 3+ ticks in one hit, kill leader), GM rolls Morale
+**How Much to Mark:**
+- **Triumph or 3+ ticks in one hit:** Mark 2 ticks on Will Track
+- **Kill enemy leader/champion:** Mark 2 ticks on all allies' Will Tracks
+- **Exploit critical weakness (fire vs. troll):** Mark 1 tick on Will Track in addition to normal damage
 
-**Results:**
-- **6:** Fights ferociously (enemy gains Edge on next action)
-- **4-5:** Fights on, no change
-- **1-3:** Morale shaken, reduce pool by 1d
-- **At 0d:** Enemy flees, surrenders, or makes desperate all-or-nothing attack
+**When Will Track Fills:** Enemy flees, surrenders, or makes desperate all-or-nothing attack (GM's choice based on fiction).
 
 **Example:**
-> The troll takes a Triumph hit from Kael's flaming sword (6 ticks marked in one blow). GM rolls 4d6 Morale → highest die is 3. Morale drops to 3d6. The troll roars in pain and backs toward the cave entrance, clearly considering retreat.
+> The troll takes a Triumph hit from Kael's flaming sword (marks 2 ticks on Harm Track). The GM immediately marks 2 ticks on the troll's Will Track (6 ticks total). The troll roars in pain and terror — its legendary regeneration useless against fire. It's now at 2/6 Harm, 2/10 Will.
+
+**Design Note:** This unifies psychological collapse into the existing Will Track system. Enemies with high Will (War Troll: Will 10) can take devastating hits and keep fighting, while enemies with low Will (Bandit: Will 2-4) break quickly under overwhelming assault. No separate dice pool needed.
 
 ---
 

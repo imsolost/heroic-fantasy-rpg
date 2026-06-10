@@ -523,6 +523,26 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 
 **Design Note:** Asymmetrical tracks signal "you can't reason with this, you must fight." High Will + heavy Complications = social victory is functionally off the table.
 
+### Protecting Tracks with Complications (Design Principle)
+
+When designing asymmetric enemies, assign Complications to the track you want players to avoid or make extremely difficult. This creates intentional tactical puzzles rather than exploitable shortcuts.
+
+**The Pattern:**
+- **Track you want to encourage:** Low tick count + few/no Complications
+- **Track you want to discourage:** High tick count + 2-3 Complications
+
+**Examples:**
+- **War Troll:** Physical combat intended (Harm 6 + 2 Complications) vs. social bypass prevented (Will 10 + 3 Complications = effectively impossible)
+- **Zealot Priest:** Violence discouraged narratively (Harm 2, no Complications = mechanically easy but creates martyrdom) vs. persuasion encouraged (Will 6 + 1 Complication = harder but cleaner)
+- **Mind-Controlled Ally:** Harm track exists but heavily defended (don't want to kill them) vs. Will track exposed (break the control)
+
+**Why This Works:**
+- 2 Complications = Success downshifts to Setback, Conflict → Disaster (extremely punishing without teamwork)
+- 3 Complications = Success → Conflict, Conflict → Taken Out (functionally impossible without Triumph or coordinated Momentum spending)
+- Players naturally route around heavily defended tracks, engaging with the intended challenge
+
+**GM Guidance:** If you don't want players to solve a Challenge via a specific approach (social, violent, environmental), give that track 2-3 Complications. If you want to encourage an approach, give it 0-1 Complications.
+
 ---
 
 ### Tier 1 Zealot Priest

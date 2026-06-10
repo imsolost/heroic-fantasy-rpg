@@ -207,15 +207,18 @@ This is your key question. After presenting situation (danger, opportunity, comp
 
 ## Setting Difficulty
 
-### **For Dice Pool System (Xd6):**
+Difficulty modifies the dice pool via Edge and Bane, not the outcome thresholds. The outcome tiers (Setback/Conflict/Success/Triumph) remain constant regardless of difficulty.
 
-| Difficulty | Success On | Use When |
-|------------|------------|----------|
-| **Easy** | 4, 5, 6 | Task within character competence, favorable conditions |
-| **Moderate** | 5, 6 | Standard challenge, neutral conditions (MOST COMMON) |
-| **Hard** | 6 only | Task at edge of capability, poor conditions |
+| Difficulty | Modifier | Use When |
+|------------|----------|----------|
+| **Easy** | Grant 1 Edge (+1d) | Task within competence, favorable conditions, clear advantage |
+| **Moderate** | No modifier | Standard challenge, neutral conditions (MOST COMMON) |
+| **Hard** | Impose 1 Bane (-1d) | Task at edge of capability, poor conditions, working against you |
+| **Very Hard** | Impose 2 Banes (-2d) | Extreme difficulty, multiple unfavorable factors, near-impossible |
 
-**Default to Moderate.** Only use Easy when PCs have clear advantage or expertise. Reserve Hard for dramatic moments.
+**Default to Moderate.** Only grant Edge when PCs have clear advantage or expertise. Reserve Bane for moments where conditions actively work against success.
+
+**Remember:** Edge/Bane modify the dice pool size. They do not change what counts as Success (any 6) or Conflict (any 4-5).
 
 ---
 
@@ -463,6 +466,34 @@ When PCs face complex situations (escape, heist, ritual, negotiation), use the *
 > - **Fail-State:** Demon fully manifests (becomes boss fight)
 > 
 > **Ritual Progress (Threat):** 8-segment clock tracking ritual completion. Each failed PC roll marks 1 segment. At 8, demon appears.
+
+---
+
+### **Telegraphing Multiple Complications**
+
+When an adversary or obstacle has **2+ Complications**, their dominance must be obvious in the fiction. Multiple Complications signal that direct action is extremely dangerous or impossible — players need teamwork, Momentum, or alternate approaches.
+
+**Always state Complications upfront:**
+- "The knight's plate armor is impenetrable, and his shield guard leaves no openings. That's **two Complications** if you attack directly."
+- "The dragon's reinforced scales shimmer with magical wards. **Two Complications** — you'll need to find a weakness or coordinate an assault."
+
+This signals to players that:
+1. Frontal assault will likely result in Disaster (Success → Conflict → Setback)
+2. They should use **Sense** to find weaknesses
+3. They should **Build Momentum** via Traits to enable coordinated strikes
+4. They should use **Act with Potency** to negate Complications
+5. Alternate approaches (Talk, environmental hazards) may bypass defenses
+
+**Example:**
+> **GM:** "The War Troll's hide is like stone, and it regenerates wounds instantly. That's two Complications on physical attacks. What do you do?"
+> 
+> **Player (Ranger):** "I use Sense to look for a weakness — maybe fire stops the regeneration?"
+> 
+> **Player (Mage):** "While she scouts, I'll prepare a flame spell and Build Momentum for when we strike."
+> 
+> This turns a potential TPK into a tactical puzzle solved through teamwork.
+
+**Rule of Thumb:** If you wouldn't want a player to blindly charge it, explicitly state the Complications before they roll.
 
 ---
 

@@ -35,7 +35,7 @@ Actions are fictional triggers, not rated stats. They describe **what** you're d
 ### 1. Defy — Overcome
 Act despite an imminent threat, danger, or obstacle.
 
-**Primary Effect:** Mark 1 tick on Obstacle track OR automatically overcome simple tasks
+**Primary Effect:** Mark 1 tick on Obstacle track OR overcome the obstacle entirely (when Success/Triumph is sufficient to clear the threat)
 
 **Examples:** Dodge attacks, leap chasms, pick locks, resist fear, endure hardship, break free from restraints
 

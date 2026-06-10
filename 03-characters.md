@@ -102,9 +102,11 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **Only one Trait per roll** — Even if multiple Traits are relevant, choose one
 
-**Narrative relevance required** — GM is final arbiter of whether Trait applies
+**Narrative relevance required** — GM is final arbiter of whether Trait applies. The Trait must meaningfully connect to the action in the current fiction — "I'm a Veteran of the Iron Wars" doesn't apply to picking a lock unless you can explain how your military background helps with this specific lock.
 
 **No cost** — Traits are free to invoke when relevant
+
+**GM Guidance:** If a player argues for Trait relevance on most rolls, their Traits are too broad. Good Traits apply frequently but not universally — aim for 30-50% of rolls, not 90%. Narrow, evocative Traits ("Trained by the Silk-Blade Academy") are better than generic ones ("Good at Fighting").
 
 **Examples:**
 
@@ -181,7 +183,7 @@ Talents represent training, heritage, or supernatural gifts. Each character star
 Grant bonus when using a specific Action in specific circumstances.
 
 **Examples:**
-- "Bladedancer" — +1d when you Clash with a sword in melee
+- "Flashing Steel" — +1d when you Clash with a sword in melee
 - "Keen Eye" — +1d when you Sense to spot hidden dangers
 - "Charmer" — +1d when you Talk to persuade (not intimidate or deceive)
 
@@ -196,7 +198,7 @@ Grant narrative permission + mechanical advantage for specific feats.
 - "Cat's Grace" — Potency on feats of agility and acrobatics (wall-run, precision jumps)
 - "Arcane Mastery" — Potency when wielding your signature school of magic
 
-**Note:** Potency = narrative permission to attempt + Edge + ignore Complication (same as Act with Potency but domain-specific and free)
+**Note:** Potency = narrative permission to attempt + Edge + ignore Complication (same as Act with Potency but domain-specific and free). Potency Talents do not stack with the Act with Potency Momentum spend — you gain the benefits once, not twice.
 
 ---
 

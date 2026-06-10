@@ -121,6 +121,10 @@ There are three ways to help allies during combat:
 
 **Effect:** Grant ally 1 Edge on their roll
 
+**Limits:**
+- You must be in a fictional position to help (can see them, can shout to them, can physically reach them)
+- An ally can only receive **one Quick Assist per roll** (multiple allies cannot stack Quick Assists)
+
 **Example:** "I shout a warning to Kael as the orc swings!" → Mark 1 Stress, Kael gains 1 Edge on Defy roll
 
 **Advantage:** Doesn't consume your action, immediate

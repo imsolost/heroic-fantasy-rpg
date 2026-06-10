@@ -72,6 +72,8 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 > - Restrained doesn't affect examining your surroundings (Sense)
 > - Deafened doesn't affect climbing a wall (Defy)
 > 
+> **Golden Opportunity:** If a player repeatedly takes unrelated actions to avoid a dangerous Condition (e.g., using Know to recall trivia while Blinded during a deadly fight), they're giving you a perfect opening for a Hard Impact Move. They're ignoring the immediate threat — the enemy capitalizes. *"While you're distracted recalling historical flags, the Shadowdancer backstabs you — mark 2 Stress."*
+> 
 > When in doubt, apply the Condition.
 
 ### Gaining Conditions

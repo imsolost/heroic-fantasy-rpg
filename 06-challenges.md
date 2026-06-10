@@ -27,7 +27,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 
 **Tier Shift:** Triumph → Success → Conflict → Setback → Taken Out
 
-*Note: Triumph ignores all Complications (cannot be reduced)*
+*Note: **Triumph bypasses all defenses entirely.** Triumph cannot be downgraded by Complications — you achieve your absolute best outcome, completely ignoring the adversary's Defensive Traits for that action. Mark full progress, gain Momentum, and invoke your Trait.*
 
 ### How Complications Work
 
@@ -55,7 +55,7 @@ Each uncanceled Complication moves your result one step down:
 ### Rules
 
 - **Unlimited stacking** (but most enemies have 0-2 Complications)
-- **Triumph immunity:** Triumph cannot be reduced by Complications
+- **Triumph immunity:** Triumph bypasses all defenses completely — cannot be downgraded, achieves full effect
 
 ---
 

@@ -446,6 +446,12 @@ Use when:
 
 **Impact Moves mark Stress regardless of delivery:** Whether you Clash physically or socially, GM Impact Moves that result from Conflict/Setback mark **Stress** on the PC (not separate "mental" or "social" damage). The fiction describes whether it's a physical wound or an emotional blow, but mechanically it's all Stress.
 
+**Social Clash Consequences:** When you Clash socially and roll Conflict or Setback, the opponent fires back with psychological dominance, cutting retorts, or social ruin. Examples:
+- **Conflict:** "Your taunt lands, but he responds with a vicious counter-insult that cuts deep — mark 1 Stress as your confidence wavers."
+- **Setback:** "He turns your words against you, publicly humiliating you in front of his troops. Mark 2 Stress and gain Demoralized 1 as his men laugh at your expense."
+
+The resulting Impact Moves inflict Stress (representing emotional/social pain) and may apply mental Conditions (Demoralized, Off-Balance, Humiliated) rather than physical wounds.
+
 **GM Note:** The GM is the final arbiter. Some targets may be immune or resistant to certain types of harm (e.g., a golem has no Will track — social Clash is ineffective; a knight with "Iron Discipline" might impose Complications on social Clash attempts).
 
 **Outcomes:**

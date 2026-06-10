@@ -36,17 +36,19 @@ GM moves fall into two categories based on their fictional impact:
 - Show signs of danger without immediate mechanical consequence
 - Give players opportunity to react before harm occurs
 - Examples: "The dragon inhales deeply, flames flickering in its throat", "The bridge creaks ominously under your weight", "The guard's hand moves to his sword hilt"
-- **When to use:** After Conflict results (7-9 / 1 Hit / 11-15), when building tension, or anytime you want to create pressure without forcing consequences
+- **When to use:** After Conflict results, when building tension, or anytime you want to create pressure without forcing consequences
 - Soft moves are your "setup" — they promise danger is coming and give players a chance to act
 
 **Hard Moves** (Consequence, Follow-Through):
 - Deliver immediate mechanical or narrative consequences
 - Follow through on threatened danger
 - Examples: "Flames engulf you, mark 3 Stress", "The bridge collapses, you're falling", "The guard draws and attacks, roll Defy!"
-- **When to use:** After Failure results (6- / 0 Hits / ≤10), when a soft move was ignored or failed, or when the fiction demands immediate consequence
+- **When to use:** After Setback results, when a soft move was ignored or failed, or when the fiction demands immediate consequence
 - Hard moves are your "payoff" — danger that was telegraphed now arrives
 
 **Golden Rule:** Never go straight to hard moves without telegraphing first (unless surprise is narratively justified). Soft move → player response → hard move if they fail or ignore the warning. This eliminates "gotcha" moments while maintaining tension.
+
+**Exception:** A player's dice roll bypasses the telegraph pipeline. When a PC rolls a Setback, the fiction assumes the active risk of their action constitutes the telegraph — deliver an immediate hard move. The roll itself IS the warning that failed.
 
 ### **Make every roll matter**
 - Only call for rolls when outcome uncertain and both success/failure interesting
@@ -89,7 +91,7 @@ Examples:
 ### **Suspense Moves** (Setup / Telegraph)
 
 These escalate tension and telegraph danger. Use when:
-- PC rolls Conflict (7-9 / 1 Hit / 11-15)
+- PC rolls Conflict
 - You want to create pressure
 - Building to bigger consequence
 - **Optional:** Spend 1 Threat (if using Threat Pool)
@@ -104,12 +106,19 @@ Examples:
 
 **When:** PC Conflict result, or when building tension. These are *setups* for Impact Moves.
 
+**Soft Impact Moves:** When a PC rolls Conflict in combat or high-stakes situations, you can combine a Suspense Move with mechanical consequence. A **soft Impact Move** includes both narrative setup (Suspense) AND immediate friction (mark 1 Stress, apply tier 1 Condition, lose position). Examples:
+- "You deflect his blade but he presses you into the corner — mark 1 Stress from the exertion" (Deal damage + Put in a spot)
+- "Your arrow grazes his armor. He roars in fury and charges straight at you" (No progress + Show approaching threat)
+- "You dodge the trap's blade but it catches your arm — Bleeding 1" (Inflict Condition + Entangle)
+
+The key: **Soft Impact Moves deliver consequence but leave room for response.** Hard Impact Moves (Setback results) are more severe and may leave PCs reeling or unable to act immediately.
+
 ---
 
 ### **Impact Moves** (Consequence / Follow-Through)
 
 These deliver hard consequences. Use when:
-- PC rolls Failure (6- / 0 Hits / ≤10)
+- PC rolls Setback
 - Suspense move was ignored/failed
 - Fiction demands immediate consequence
 - Challenge fail-state triggered
@@ -542,6 +551,8 @@ During character creation or downtime, players can define **Tangles** — compli
 - "The Thieves Guild catches up to me here"
 - "My unstable magic flares up at the worst moment"
 - GM can suggest Tangle trigger, player can accept or refuse
+
+**Timing:** A player may invoke a Tangle during a narrative scene or at the start of an exchange — never immediately following a dice roll. This prevents interference with Impact Move resolution. If using Threat Pool, handle the Impact Move first, then allow Tangle invocation.
 
 ### **Reward:**
 When Tangle complicates the scene:

@@ -90,11 +90,11 @@ Conditions come from three sources:
 
 **Stress Overflow:** When your Stress track is full and you would mark more Stress, choose:
 
-- **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on amount (1-3 Stress → tier 1-3). Requires narrative resolution to clear. You stay in the fight but carry a lasting consequence.
+- **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on amount (1-3 Stress → tier 1-3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
 
-- **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context.
+- **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context. Your Stress clears when you recover.
 
-This choice creates dramatic "push through at a cost" moments — heroes can stay in the fight but risk lasting harm.
+This choice creates dramatic "push through at a cost" moments — heroes can stay in the fight with a second wind, but risk lasting harm. Taking a Burden represents pushing through the pain and finding the will to continue, at the cost of a persistent injury.
 
 ### Condition Tiers
 
@@ -252,12 +252,12 @@ A Burden has a **name**, a **tier** (1–3), and a **recovery method**. Like Con
 **Gaining Burdens:**
 
 **Stress Overflow (most common):**
-When your Stress track is full and you'd mark more, choose: take a Burden or be Taken Out.
+When your Stress track is full and you'd mark more, choose: take a Burden (Stress clears to 0) or be Taken Out.
 - 1 Stress overflow → Burden tier 1
 - 2 Stress overflow → Burden tier 2
 - 3 Stress overflow → Burden tier 3
 
-> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 2 (Burden) rather than be Taken Out.*
+> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 2 (Burden) rather than be Taken Out. His Stress clears to 0/5 — a second wind, but now injured.*
 
 **Disaster:**
 When a Setback is reduced by Complications, the result is Disaster. The GM may assign a Burden alongside other consequences.

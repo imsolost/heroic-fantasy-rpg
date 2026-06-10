@@ -253,7 +253,6 @@ When you choose Secondary Effect (from Trait invocation), produce an additional 
 - **Inflict Condition** — Wound them (physical), demoralize them (mental), humiliate them (social), charm them
 - **Gain Important Knowledge** — Spot crucial detail, recall hidden truth, deduce secret weakness (beyond normal questions)
 - **Change Positioning** — Knock them down, shove them back, pin them, block passage, reach important location
-- **Prevent Counterattack** — So decisive they can't respond (you don't take harm on Conflict)
 - **Create Environmental Effect** — Knock over brazier, trigger mechanism, cause distraction
 
 ---
@@ -384,15 +383,15 @@ Each Action has a core function and specific effects available on Triumph:
 
 **Primary Effect: Overcome**
 
-Mark progress on an **Obstacle track** or automatically overcome simple tasks.
+Mark progress on an **Obstacle track** OR overcome the obstacle entirely (when no track is present because the target is minor or vulnerable).
 
-**When you act despite an imminent threat, danger, or obstacle—overcome it.**
+**When you proactively attempt to negate, avoid, or bypass an imminent danger or physical barrier before it impacts you—overcome it.**
 
 Use when:
-- Defending against attacks, dodging danger, enduring harm
+- Defending against attacks, dodging danger (before the blow lands)
 - Leaping chasms, climbing walls, picking locks
-- Resisting pressure, powering through adversity
-- Overcoming any physical or environmental challenge
+- Resisting mental/social pressure, powering through adversity
+- Overcoming any physical or environmental challenge that threatens you
 
 **Outcomes:**
 - **Setback:** Fail to overcome (0 ticks) + GM makes hard Impact Move
@@ -418,13 +417,15 @@ Use when:
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
 
+**Important:** You cannot spend Momentum to Resist consequences from a Reactive Defy roll (when defending against enemy attacks). The Reactive Defy roll **is** your chance to resist — that's what the roll represents. Reserve Resist Consequence for outcomes of your own proactive actions.
+
 ---
 
 #### Clash - Harm
 
 **Primary Effect: Harm**
 
-Mark progress on a **Harm or Will track** (depending on delivery) or outright defeat weaker foes.
+Mark progress on a **Harm or Will track** (depending on delivery) OR defeat the target entirely (when no track is present because the target is minor or vulnerable).
 
 **When you try to harm someone — physically or emotionally — inflict harm.**
 
@@ -477,7 +478,7 @@ Use when:
 
 **Primary Effect: Influence**
 
-Mark progress on a **Will track** or outright convince lesser creatures.
+Mark progress on a **Will track** OR convince the target entirely (when no track is present because the target is minor or vulnerable).
 
 **When you try to convince, persuade, or manipulate someone into doing what you want—sway them.**
 
@@ -863,9 +864,10 @@ This creates:
 **Trait Special Effects (invoke after rolling if Conflict+):**
 1. **Greater Effect** — Mark 2 ticks (Defy/Clash/Talk), ask 2 questions + 2 follow-ups (Sense), or provide significantly more information (Know)
 2. **Secondary Effect** — Produce additional consequence:
-   - Take Something, Affect Multiple Targets, Shift Attitude, Inflict Condition, Change Positioning, Prevent Counterattack
+   - Take Something, Affect Multiple Targets, Shift Attitude, Inflict Condition, Change Positioning, Create Environmental Effect
    - **Sense:** GM reveals one important detail your expertise would notice
    - Work with GM to determine what's appropriate
+   - **Note:** A Secondary Effect cannot grant an immediate second Core Action (e.g., "and then I use Sense"). It must modify or embellish the primary action taken.
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **Track Types & Sizes:**

@@ -35,7 +35,7 @@ Actions are fictional triggers, not rated stats. They describe **what** you're d
 ### 1. Defy — Overcome
 Act despite an imminent threat, danger, or obstacle.
 
-**Primary Effect:** Mark 1 tick on Obstacle track OR overcome the obstacle entirely (when Success/Triumph is sufficient to clear the threat)
+**Primary Effect:** Mark 1 tick on Obstacle track OR overcome the obstacle entirely (when no track is present because the target is minor or vulnerable)
 
 **Examples:** Dodge attacks, leap chasms, pick locks, resist fear, endure hardship, break free from restraints
 
@@ -44,7 +44,7 @@ Act despite an imminent threat, danger, or obstacle.
 ### 2. Clash — Harm
 Try to hurt someone, physically or mentally.
 
-**Primary Effect:** Mark 1 tick on Harm track OR outright defeat weaker foes
+**Primary Effect:** Mark 1 tick on Harm track OR defeat the target entirely (when no track is present because the target is minor or vulnerable)
 
 **Examples:** Sword strikes, thrown daggers, vicious insults, intimidating roars, brutal tackles
 
@@ -53,7 +53,7 @@ Try to hurt someone, physically or mentally.
 ### 3. Talk — Influence
 Convince, threaten, or manipulate someone into doing what you want.
 
-**Primary Effect:** Mark 1 tick on Will track OR outright convince lesser creatures
+**Primary Effect:** Mark 1 tick on Will track OR convince the target entirely (when no track is present because the target is minor or vulnerable)
 
 **Examples:** Persuade guards to let you pass, deceive merchants about value, intimidate thugs into fleeing, seduce nobles for information
 

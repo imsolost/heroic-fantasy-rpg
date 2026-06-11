@@ -55,6 +55,8 @@ GM moves fall into two categories based on their fictional impact:
 - If failure would just stall progress, don't roll — let them succeed or reframe the situation
 - "What do you do?" should always have meaningful stakes
 
+**Action Scope:** One roll resolves one complete dramatic question or objective. "Cross the collapsing hallway" is one roll, not separate rolls for each falling timber. "Navigate the treacherous canyon pass" is one roll, not one per obstacle. Once a character rolls to handle a specific threat environment, don't force additional rolls for micro-elements within that same threat. This prevents attrition spirals in dangerous environments.
+
 ### **Embrace the fiction**
 - Stats and mechanics serve the fiction, not the other way around
 - If something doesn't make fictional sense, it can't happen (pixie can't wield greatsword unless magic explains it)
@@ -112,6 +114,13 @@ Examples:
 - "You dodge the trap's blade but it catches your arm — Bleeding 1" (Inflict Condition + Entangle)
 
 The key: **Soft Impact Moves deliver consequence but leave room for response.** Hard Impact Moves (Setback results) are more severe and may leave PCs reeling or unable to act immediately.
+
+**Impact Move Severity Scales to Fiction:** The severity of an Impact Move should match the fictional danger level, not just the dice result. Examples:
+- **Sense in a library (Conflict):** "The librarian notices you snooping — he approaches suspiciously" (narrative complication, no Stress)
+- **Sense during combat (Conflict):** "You spot the weakness, but he capitalizes on your distraction — mark 1 Stress as his blade grazes you" (mechanical consequence)
+- **Know while fleeing (Conflict):** "You recall the exit route, but stumble in your distraction — mark 1 Stress from the fall" (mechanical + positional)
+
+Safe environments = narrative complications. Active danger = mechanical consequences.
 
 ---
 
@@ -552,7 +561,9 @@ During character creation or downtime, players can define **Tangles** — compli
 - "My unstable magic flares up at the worst moment"
 - GM can suggest Tangle trigger, player can accept or refuse
 
-**Timing:** A player may invoke a Tangle during a narrative scene or at the start of an exchange — never immediately following a dice roll. This prevents interference with Impact Move resolution. If using Threat Pool, handle the Impact Move first, then allow Tangle invocation.
+**Timing:** A player may invoke a Tangle during a narrative scene or before spotlight/initiative is assigned at the start of an exchange — never mid-combat or immediately following a dice roll. This prevents interference with Impact Move resolution and prevents tactical exploitation ("I invoke my Tangle right before I attack this boss"). If using Threat Pool, handle the Impact Move first, then allow Tangle invocation.
+
+**Frequency:** Each Tangle can be invoked once per session. Once triggered, that specific Tangle is "spent" until the next session begins. This prevents Momentum farming and ensures Tangles remain dramatic, character-defining complications rather than mechanical resources to spam.
 
 ### **Reward:**
 When Tangle complicates the scene:

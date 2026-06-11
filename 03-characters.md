@@ -202,7 +202,45 @@ Grant narrative permission + mechanical advantage for specific feats.
 
 ---
 
-**3. Unique Moves**
+**3. Expertise (Mastery Mechanic)**
+
+Some Talents grant Expertise in a specific domain (e.g., "Heavy Blades," "Stealth," "Tracking"). Expertise represents mastery so deep that you rarely fail completely.
+
+**How Expertise Works:**
+
+When you make an Action Roll within your Expertise domain, if your **final outcome** (after all Complications have downshifted your result) is a **Setback**, treat it as a **Conflict** instead.
+
+- You still suffer consequences (Soft Impact Move: mark 1 Stress, lose position, etc.)
+- You successfully mark progress or achieve your baseline objective
+- This conversion happens AFTER all Complications are resolved
+
+**What Expertise Does NOT Protect Against:**
+
+- **Disaster outcomes:** If Complications downshift you below Setback to Disaster, Expertise does not trigger. Catastrophic failures remain catastrophic.
+- **Taken Out:** If multiple Complications force a Taken Out result, Expertise does not prevent it.
+
+**Example:**
+
+> Kael has Expertise: Heavy Blades. He attacks an Armored Knight (2 Complications).
+> 
+> - Rolls Success (6)
+> - 2 Complications downshift: Success → Conflict → Setback
+> - **Expertise triggers:** Setback becomes Conflict
+> - **Result:** Marks 1 tick on Harm track + takes Soft Impact Move (mark 1 Stress)
+> 
+> Without Expertise, he would have marked 0 ticks and taken a Hard Impact Move.
+
+**Narrative Application:** Expertise applies when your action is narratively connected to your domain. A sword expert can use their Expertise to assess the quality of a weapons shipment (Know) or recall famous dueling techniques (Know), but not to negotiate trade agreements (Talk) unless swordcraft is directly relevant to the negotiation.
+
+> **Expertise at Zero Dice**
+> 
+> When reduced to 0 dice (roll 2d6, take lowest), you have a ~75% chance of rolling Setback. Expertise converts most of these into Conflict outcomes, allowing specialists to remain functional even when severely disadvantaged. This is intentional—your mastery lets you scrape together partial success where others would fail completely.
+
+**Design Note:** Expertise domains must be narrow and specific (typically 3-4 related concepts). Broad domains like "all combat" or "all social actions" are not valid Expertise areas.
+
+---
+
+**4. Unique Moves**
 
 Unlock new actions or special maneuvers.
 
@@ -213,7 +251,7 @@ Unlock new actions or special maneuvers.
 
 ---
 
-**4. Passive Effects**
+**5. Passive Effects**
 
 Ongoing benefits or modifications.
 

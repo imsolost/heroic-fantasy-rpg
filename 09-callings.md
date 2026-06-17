@@ -69,7 +69,7 @@ You move through the world like a shadow — present, purposeful, and gone befor
 
 The Hunter is the ultimate specialist and tracker, possessing an intimate, almost instinctual understanding of their targets. They dominate the wilderness and the fringes of battle, using specialized tools, ranged mastery, and environmental terrain to harry their foes from positions of perfect advantage. Once a Hunter locks onto their prey, escape becomes impossible.
 
-You can use the Hunter role to play all kinds of focused predators. You can be a legendary archer, a seasoned monster slayer, a ruthless bounty hunter utilizing specialized traps, or a frontier scout who knows every secret of the wild.
+You can use the Hunter calling to play all kinds of focused predators. You can be a legendary archer, a seasoned monster slayer, a ruthless bounty hunter utilizing specialized traps, or a frontier scout who knows every secret of the wild.
 
 ### Core Talent
 **HUNTER'S INSTINCT**
@@ -86,7 +86,7 @@ You turn knowledge and preparation into decisive advantage.
 
 Sages learn to manipulate both ambient and residual mana through years of dedicated study. Their powers reflect their approach: methodical and precise, yet never without a certain creative flair. Where others see the impossible, a Sage sees a problem they have already solved — or will have, once they find the right page.
 
-You can use the Sage role to play all kinds of scholarly magic-users. You can be an academic wizard deciphering forgotten languages, a runic scholar, a battlefield tactician whose magic is pure applied geometry, or a gentle enchanter who makes the impossible look easy.
+You can use the Sage calling to play all kinds of scholarly magic-users. You can be an academic wizard deciphering forgotten languages, a runic scholar, a battlefield tactician whose magic is pure applied geometry, or a gentle enchanter who makes the impossible look easy.
 
 ### Core Talent
 [To be designed]
@@ -94,11 +94,11 @@ You can use the Sage role to play all kinds of scholarly magic-users. You can be
 ---
 
 ## Mystic
-**Walk as an intermediary between the mortal world and the unseen — healer, speaker, and conduit for forces older than memory**
+**Walk between the mortal world and the unseen — healer, oracle, and voice for forces older than memory**
 
 The Mystic keeps one foot in the mortal realm and the other somewhere older and stranger. They do not command power — they commune with it. Acting as a bridge to divine, ancestral, or primal forces, they call down miracles, speak to the restless dead, mend what should not be mendable, and occasionally step aside to let something ancient and terrible act through them.
 
-You can use the Mystic role to play all kinds of spiritually attuned heroes. You can be a shaman speaking to stone and wind, a devoted cleric channeling a deity's grace, a cursed oracle haunted by visions, or a primal healer attuned to the cycle of life and death.
+You can use the Mystic calling to play all kinds of spiritually attuned heroes. You can be a shaman speaking to stone and wind, a devoted cleric answering a deity's call, a cursed oracle haunted by supernal visions, or a primal healer attuned to the cycle of life and death.
 
 ### Core Talent
 [To be designed]

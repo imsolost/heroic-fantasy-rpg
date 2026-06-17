@@ -13,9 +13,9 @@ This chapter defines the mechanical framework for each Calling, including Core T
 ## Champion
 **The peak of mortal potential — discipline, talent, and indomitable will pushed beyond all limits**
 
-The Champion embodies what a mortal can become through absolute dedication. Through discipline, talent, and indomitable will, they accomplish feats lesser warriors would deem impossible — not through magic or hidden gifts, but through the relentless refinement of their own body and mind.
+The Champion turns combat into a display of pure martial excellence. Their weapon is their own body and mind, honed to absolute perfection — no supernatural gifts, no hidden tricks, just the relentless refinement of themselves. They thrive in the heart of danger, actively seeking out the greatest threats and shattering the limits of what lesser warriors deem possible.
 
-You can use the Champion role to play all kinds of elite martial experts. You can be a glory-seeking gladiator, a disciplined weaponmaster, a meditative pugilist, a wandering swordsman, or a legendary folk hero of mythic strength.
+You can use the Champion calling to play all kinds of martial experts. You can be a glory-seeking gladiator, a disciplined weaponmaster, a meditative pugilist, a raging berserker, or a legendary folk hero of mythic strength.
 
 ### Core Talent
 **MARTIAL SUPERIORITY**

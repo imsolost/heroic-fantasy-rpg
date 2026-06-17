@@ -11,9 +11,11 @@ This chapter defines the mechanical framework for each Calling, including Core T
 ---
 
 ## Champion
-**Master of close combat who dominates the battlefield through overwhelming force or precise technique**
+**The peak of mortal potential — discipline, talent, and indomitable will pushed beyond all limits**
 
-The edge of the blade, the weight of the blow, the perfect strike — you have mastered the art of martial conflict. Whether you fight with overwhelming power or devastating precision, enemies fall before you.
+The Champion embodies what a mortal can become through absolute dedication. Through discipline, talent, and indomitable will, they accomplish feats lesser warriors would deem impossible — not through magic or hidden gifts, but through the relentless refinement of their own body and mind.
+
+You can use the Champion role to play all kinds of elite martial experts. You can be a glory-seeking gladiator, a disciplined weaponmaster, a meditative pugilist, a wandering swordsman, or a legendary folk hero of mythic strength.
 
 ### Core Talent
 **MARTIAL SUPERIORITY**
@@ -25,13 +27,12 @@ When you invoke a Trait on a Conflict or higher result during Clash, choose 2 di
 
 ---
 
-## Warden
-**The unbreakable shield between danger and those who cannot face it alone**
+## Vanguard
+**The unyielding line between danger and those who cannot face it alone**
 
-You stand where others fall back. Whether absorbing 
-punishment that would shatter lesser heroes or throwing 
-yourself between an ally and certain harm, your presence 
-changes what the enemy can and cannot do.
+The Vanguard stands where the battle matters most. Through presence and sheer resilience, they hold the line against overwhelming odds — forcing enemies to contend with them before reaching those under their protection. They don't just survive conflict — they decide where it happens.
+
+You can use the Vanguard role to play all kinds of protective stalwarts. You can be a heavily armored knight, a shield-bearing clan defender, a stoic mercenary captain, or an unarmored brawler bound by a sacred vow to keep others safe.
 
 ### Core Talent
 **IRON BULWARK**
@@ -44,9 +45,11 @@ You are the steadfast shield for those around you.
 ---
 
 ## Shadow
-**You go where you shouldn't, know what you shouldn't, and leave no trace.**
+**Weaponize stealth, leverage, and clever trickery to strike from the spaces between**
 
-You move through the world unseen, striking when the moment is right and vanishing before anyone can respond. Information, access, and opportunity are your weapons as much as any blade.
+The Shadow operates in the chaos and the dark, treating conflict not as a test of brute strength but as a game of leverage. They excel at identifying vulnerabilities and waiting for the perfect moment to strike. Whether bypassing a fortress wall, navigating a web of lies, or slipping a blade between armor plates, the Shadow is never where the enemy expects — and always exactly where they need to be.
+
+You can use the Shadow role to play all kinds of elusive opportunists. You can be a deadly assassin, a nimble master thief, a flamboyant swashbuckler, a phantom spy, or an illusionist who uses misdirection as their greatest weapon.
 
 ### Core Talent
 **SHADOWCRAFT**
@@ -62,13 +65,11 @@ You move through the world like a shadow — present, purposeful, and gone befor
 ---
 
 ## Hunter
-**Patient and precise — you read the world others move 
-through blindly and strike before they know you're there**
+**Pursue your quarry with relentless focus — isolating threats with patience, precision, and predatory calm**
 
-You control the encounter before it begins. Through 
-careful observation, superior positioning, and relentless 
-preparation, you ensure that when you act, nothing is 
-left to chance.
+The Hunter is the ultimate specialist and tracker, possessing an intimate, almost instinctual understanding of their targets. They dominate the wilderness and the fringes of battle, using specialized tools, ranged mastery, and environmental terrain to harry their foes from positions of perfect advantage. Once a Hunter locks onto their prey, escape becomes impossible.
+
+You can use the Hunter role to play all kinds of focused predators. You can be a legendary archer, a seasoned monster slayer, a ruthless bounty hunter utilizing specialized traps, or a frontier scout who knows every secret of the wild.
 
 ### Core Talent
 **HUNTER'S INSTINCT**
@@ -81,9 +82,11 @@ You turn knowledge and preparation into decisive advantage.
 ---
 
 ## Sage
-**Scholarly arcanist who bends reality through studied understanding of magical theory**
+**Shape reality through deep study, ancient lore, and structured knowledge — patient, practical, and touched with whimsy**
 
-Magic is not mystery to you — it is a language, and you have spent years learning to speak it fluently. Where others see the impossible, you see a problem you have already solved.
+Sages learn to manipulate both ambient and residual mana through years of dedicated study. Their powers reflect their approach: methodical and precise, yet never without a certain creative flair. Where others see the impossible, a Sage sees a problem they have already solved — or will have, once they find the right page.
+
+You can use the Sage role to play all kinds of scholarly magic-users. You can be an academic wizard deciphering forgotten languages, a runic scholar, a battlefield tactician whose magic is pure applied geometry, or a gentle enchanter who makes the impossible look easy.
 
 ### Core Talent
 [To be designed]
@@ -91,9 +94,11 @@ Magic is not mystery to you — it is a language, and you have spent years learn
 ---
 
 ## Mystic
-**Intuitive channeler who draws power from primal forces or spiritual connection**
+**Walk as an intermediary between the mortal world and the unseen — healer, speaker, and conduit for forces older than memory**
 
-You do not study magic — you feel it. Whether channeling divine will, communing with nature, or tapping into your own awakened spirit, your power flows from connection, not knowledge.
+The Mystic keeps one foot in the mortal realm and the other somewhere older and stranger. They do not command power — they commune with it. Acting as a bridge to divine, ancestral, or primal forces, they call down miracles, speak to the restless dead, mend what should not be mendable, and occasionally step aside to let something ancient and terrible act through them.
+
+You can use the Mystic role to play all kinds of spiritually attuned heroes. You can be a shaman speaking to stone and wind, a devoted cleric channeling a deity's grace, a cursed oracle haunted by visions, or a primal healer attuned to the cycle of life and death.
 
 ### Core Talent
 [To be designed]
@@ -137,9 +142,9 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 ## Quick Reference
 
-**Champion:** Melee combat specialist, Martial Superiority (2 Special Effects on Clash)
+**Champion:** Martial excellence specialist, Martial Superiority (2 Special Effects on Clash)
 
-**Warden:** Protector, Iron Bulwark (Protect allies, reduce Stress)
+**Vanguard:** Protector, Iron Bulwark (Protect allies, reduce Stress)
 
 **Shadow:** Infiltration specialist, Shadowcraft (Potency from advantage, Expertise in Stealth/Thievery/Deception)
 
@@ -147,4 +152,4 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 **Sage:** [To be designed] — Scholarly magic user
 
-**Mystic:** [To be designed] — Intuitive magic channeler
+**Mystic:** [To be designed] — Spiritual magic channeler

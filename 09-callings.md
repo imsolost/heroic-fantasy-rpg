@@ -32,7 +32,7 @@ When you invoke a Trait on a Conflict or higher result during Clash, choose 2 di
 
 The Vanguard stands where the battle matters most. Through presence and sheer resilience, they hold the line against overwhelming odds — forcing enemies to contend with them before reaching those under their protection. They don't just survive conflict — they decide where it happens.
 
-You can use the Vanguard role to play all kinds of protective stalwarts. You can be a heavily armored knight, a shield-bearing clan defender, a stoic mercenary captain, or an unarmored brawler bound by a sacred vow to keep others safe.
+You can use the Vanguard calling to play all kinds of protective stalwarts. You can be a heavily armored knight, a shield-bearing clan defender, a stoic mercenary captain, or an unarmored brawler bound by a sacred vow to keep others safe.
 
 ### Core Talent
 **IRON BULWARK**
@@ -45,11 +45,11 @@ You are the steadfast shield for those around you.
 ---
 
 ## Shadow
-**Weaponize stealth, leverage, and clever trickery to strike from the spaces between**
+**Weaponize stealth, subtlety, and deception to dismantle your opposition's defenses and strike from the spaces between**
 
-The Shadow operates in the chaos and the dark, treating conflict not as a test of brute strength but as a game of leverage. They excel at identifying vulnerabilities and waiting for the perfect moment to strike. Whether bypassing a fortress wall, navigating a web of lies, or slipping a blade between armor plates, the Shadow is never where the enemy expects — and always exactly where they need to be.
+The Shadow treats conflict not as a test of brute strength but as a game of leverage. They operate in chaos and darkness, excelling at identifying vulnerabilities and waiting for the perfect moment to strike. Whether bypassing a fortress wall, navigating a web of lies, or slipping a blade between armor plates, the Shadow is never where the enemy expects — and always exactly where they need to be.
 
-You can use the Shadow role to play all kinds of elusive opportunists. You can be a deadly assassin, a nimble master thief, a flamboyant swashbuckler, a phantom spy, or an illusionist who uses misdirection as their greatest weapon.
+You can use the Shadow calling to play all kinds of elusive opportunists. You can be a deadly assassin, a nimble master thief, a flamboyant swashbuckler, a phantom spy, or an illusionist who uses misdirection as their greatest weapon.
 
 ### Core Talent
 **SHADOWCRAFT**

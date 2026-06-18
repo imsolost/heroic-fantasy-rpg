@@ -626,7 +626,7 @@ Mark boxes for ANY Condition, no distinction between types.
 
 **Players feeling too fragile?**
 - Offer more short rest opportunities
-- Use more Soft Impact Moves (1 Stress) than Hard (2 Stress)
+- Use more Minor Consequences (1 Stress) than Major Consequences (2 Stress)
 - Telegraphs before big hits (let players Resist)
 
 **Players feeling invincible?**

@@ -12,19 +12,19 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Setup:** Kael has 2/5 Stress marked. No Conditions.
 
-**GM (soft Impact Move):** "The bandit's sword glances off your shield — mark 1 Stress as the impact jars your arm."
+**GM (Minor Consequence):** "The bandit's sword glances off your shield — mark 1 Stress as the impact jars your arm."
 
 **Kael marks 1 Stress.** Now at 3/5 Stress.
 
 ---
 
-**GM (hard Impact Move):** "The bandit captain's mace crashes into your shoulder — mark 2 Stress as you stagger backward."
+**GM (Major Consequence):** "The bandit captain's mace crashes into your shoulder — mark 2 Stress as you stagger backward."
 
 **Kael marks 2 Stress.** Now at 5/5 Stress (track full).
 
 ---
 
-**GM (soft Impact Move):** "The archer's arrow streaks toward you — mark 1 Stress."
+**GM (Minor Consequence):** "The archer's arrow streaks toward you — mark 1 Stress."
 
 **Kael:** "My track is full. I'll take a Burden — Wounded 1."
 
@@ -125,7 +125,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Setup:** Finn has 5/5 Stress (track full).
 
-**GM (soft Impact Move):** "The gnoll's spear cuts you — mark 1 Stress, but your track is full."
+**GM (Minor Consequence):** "The gnoll's spear cuts you — mark 1 Stress, but your track is full."
 
 **Finn:** "I'll take a Burden — Wounded 1. I need to stay in the fight."
 
@@ -133,7 +133,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 ---
 
-**GM (hard Impact Move):** "The ogre's club smashes into you — mark 2 Stress, but your track is full."
+**GM (Major Consequence):** "The ogre's club smashes into you — mark 2 Stress, but your track is full."
 
 **Finn:** "I'll take Wounded 2 as a Burden."
 
@@ -145,7 +145,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Setup:** Aria has 5/5 Stress and already has Wounded 3 (Burden) and Bleeding 2 (Burden) carrying over from earlier fights.
 
-**GM (hard Impact Move):** "The troll's claws rake you — mark 2 Stress."
+**GM (Major Consequence):** "The troll's claws rake you — mark 2 Stress."
 
 **Aria:** "My Stress track is full. I'm already carrying two Burdens from earlier. I don't want to take another persistent wound — I choose to be Taken Out."
 
@@ -209,7 +209,7 @@ Kael rolls Clash → Conflict (can invoke Trait).
 
 **Setup:** Lyra has 3/5 Stress and 1 Momentum.
 
-**GM (hard Impact Move):** "The troll's club comes down — mark 2 Stress."
+**GM (Major Consequence):** "The troll's club comes down — mark 2 Stress."
 
 **Lyra:** "I spend 1 Momentum to Resist!" Rolls Defy with Grace (4d6) → rolls a 6. **Success.**
 
@@ -293,7 +293,7 @@ Kael rolls Clash → Conflict (can invoke Trait).
 
 **Setup:** Kael has 5/5 Stress and Wounded 3 and Bleeding 2 (2 Banes from Conditions).
 
-**GM (hard Impact Move):** "The war troll's fist slams into you — mark 2 Stress."
+**GM (Major Consequence):** "The war troll's fist slams into you — mark 2 Stress."
 
 **Kael:** "My Stress track is full. I'd take Wounded 2, but I'm already at 2 Banes from Conditions. If I take a third Condition, I'm still capped at 2 Banes... but I can't keep stacking these injuries."
 
@@ -313,7 +313,7 @@ Kael rolls Clash → Conflict (can invoke Trait).
 
 **Setup:** Aria has 5/5 Stress, Wounded 3, Bleeding 2, Exhausted 2 (capped at 2 Banes from Conditions).
 
-**GM (hard Impact Move):** "The dragon's tail sweeps toward you — mark 2 Stress."
+**GM (Major Consequence):** "The dragon's tail sweeps toward you — mark 2 Stress."
 
 **Aria:** "My track is full. I'm already carrying multiple serious Conditions. I choose not to take another — I'm Taken Out."
 

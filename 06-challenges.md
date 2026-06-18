@@ -23,29 +23,34 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 
 ## Complications
 
-**Complications** reduce your outcome by **-1 tier** after rolling.
+**Complications** reduce your outcome by **-1 tier** after rolling, increasing the Consequence you suffer.
 
-**Tier Shift:** Triumph → Success → Conflict → Setback → Taken Out
+**Outcome Tier Shift:**
+- **Success** (no consequence) → **Conflict** (Minor Consequence)
+- **Conflict** (Minor Consequence) → **Setback** (Major Consequence)
+- **Setback** (Major Consequence) → **Disaster** (Severe Consequence)
 
-*Note: **Triumph bypasses all defenses entirely.** Triumph cannot be downgraded by Complications — you achieve your absolute best outcome, completely ignoring the adversary's Defensive Traits for that action. Mark full progress, gain Momentum, and invoke your Trait.*
+*Note: **Triumph bypasses all defenses entirely.** Triumph cannot be downgraded by Complications — you achieve your absolute best outcome, suffer no consequence, completely ignore the adversary's Complications, gain Momentum, and may invoke your Trait.*
 
 ### How Complications Work
 
 Each uncanceled Complication moves your result one step down:
 
 **1 Complication:**
-- Success → Conflict (partial success with consequence)
-- Conflict → Setback (failure with consequences)
-- Setback → Taken Out
+- Success → Conflict (mark progress + Minor Consequence)
+- Conflict → Setback (no progress + Major Consequence)
+- Setback → Disaster (no progress + Severe Consequence: Taken Out, Burden, etc.)
 
 **2 Complications:**
-- Success → Setback (skip Conflict entirely)
-- Conflict → Taken Out
-- Setback → Taken Out
+- Success → Setback (no progress + Major Consequence)
+- Conflict → Disaster (Severe Consequence)
+- Setback → Disaster (Severe Consequence)
 
 **3+ Complications:**
-- Success → Taken Out (or Setback at GM discretion)
-- Anything less than Triumph → Taken Out
+- Success → Disaster (Severe Consequence)
+- Anything less than Triumph → Disaster
+
+See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/Major/Severe).
 
 ### Sources of Complications
 

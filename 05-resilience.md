@@ -24,9 +24,12 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 
 ### Marking Stress
 
-**From Impact Moves (most common):**
-- **Soft Impact Move** → Mark 1 Stress
-- **Hard Impact Move** → Mark 2 Stress
+**From Consequences (most common):**
+- **Minor Consequence** (Conflict outcome) → Mark 1 Stress (GM makes soft Impact Move)
+- **Major Consequence** (Setback outcome) → Mark 2 Stress (GM makes hard Impact Move)
+- **Severe Consequence** (Disaster outcome) → May inflict Stress + Burden, or result in Taken Out
+
+See **Chapter 4: Action Resolution** for complete Consequence framework.
 
 **Voluntarily (as a resource):**
 - **Quick Assist** → Mark 1 Stress to grant an ally 1 Edge on their next roll
@@ -84,11 +87,11 @@ Conditions come from three sources:
 
 > *The dark elf assassin's Poisoned Blade inflicts Poisoned 2. A dragon's Fearsome Roar inflicts Frightened 3.*
 
-**Impact Moves:** The GM may inflict a Condition (tier 1) instead of or alongside marking Stress as a consequence.
+**Consequences (Impact Moves):** The GM may inflict a Condition (tier 1 for Minor, tier 2-3 for Major/Severe) instead of or alongside marking Stress.
 
-> *"You deflect the blow but the acid splashes your arm — Burned 1."*
+> *Minor Consequence: "You deflect the blow but the acid splashes your arm — Burned 1."*
 
-> *"The giant's club smashes into your shield, knocking you off your feet. Mark 1 Stress and Prone 1."*
+> *Major Consequence: "The giant's club smashes into your shield, knocking you off your feet. Mark 2 Stress and Prone 1."*
 
 **Stress Overflow:** When your Stress track is full and you would mark more Stress, choose:
 
@@ -261,10 +264,10 @@ When your Stress track is full and you'd mark more, choose: take a Burden (Stres
 
 > *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 2 (Burden) rather than be Taken Out. His Stress clears to 0/5 — a second wind, but now injured.*
 
-**Disaster:**
-When a Setback is reduced by Complications, the result is Disaster. The GM may assign a Burden alongside other consequences.
+**Severe Consequences (Disaster):**
+When Complications reduce an outcome to Disaster, you suffer a Severe Consequence. The GM may assign a Burden alongside other catastrophic effects (Taken Out, objective fails, etc.).
 
-> *Example: Aria rolls Setback on a rooftop jump. A Complication reduces it to Disaster. She marks 2 Stress and gains Sprained Ankle 1 (Burden).*
+> *Example: Aria rolls Setback on a rooftop jump. A Complication reduces it to Disaster (Severe Consequence). She marks 2 Stress and gains Sprained Ankle 1 (Burden).*
 
 **Death Moves:**
 When significant enemies are defeated, they may trigger a Death Move — a final action that leaves a lasting mark. Death Move Burdens are tier 2 by default.

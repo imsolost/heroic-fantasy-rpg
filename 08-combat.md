@@ -206,7 +206,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 - **Design Note:** This creates the same effect as "requires Opening to damage" without contradicting the base resolution system. Success still marks ticks, but Complications downshift the outcome tier as normal.
 
 **Devastating Counterattack**
-- **Effect:** When PC rolls Setback on Clash, PC marks 2 Stress (Hard Impact Move) and gains Complication "Knocked Back" or Condition tier 1.
+- **Effect:** When PC rolls Setback on Clash, PC suffers Major Consequence (mark 2 Stress, GM makes hard Impact Move) and gains Complication "Knocked Back" or Condition tier 1.
 - **Example:** Troll's crushing backhand, swordmaster's riposte
 
 **Frightening Presence**
@@ -273,10 +273,10 @@ Use this to translate overwhelming physical dominance into psychological collaps
 - **Hard (Setback):** Mark 2 Stress
 
 **Modifiers (Challenge Traits):**
-- **"Deadly":** +1 Stress on all Impact Moves
-- **"Elite":** Hard Impact Moves deal +1 Stress (3 total)
-- **"Weak":** Impact Moves deal -1 Stress (minimum 1)
-- **"Pathetic":** Can only trigger Soft Impact Moves (max 1 Stress)
+- **"Deadly":** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
+- **"Elite":** Minor Consequences deal +1 Stress (2 total instead of 1)
+- **"Weak":** All Consequences deal -1 Stress (minimum 1)
+- **"Pathetic":** Can only trigger Minor Consequences (max 1 Stress)
 
 **Roles (Behavior):**
 - **Brute:** High damage, charges in
@@ -299,7 +299,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Kael rolls 3d6 → highest 5 (Conflict)**
 
-**GM:** "You stop his charge, but the impact drives you back. Mark 1 Stress (soft Impact Move). He's pressing you hard, axes whirling. What do you do?"
+**GM:** "You stop his charge, but the impact drives you back. Minor Consequence (mark 1 Stress). He's pressing you hard, axes whirling. What do you do?"
 
 **Kael (1/5 Stress):** "I need to create space. I shove him back with my shield!"
 
@@ -337,7 +337,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Kael rolls 2d6 (Grace 2) → all 1-3 (Setback)**
 
-**GM:** "The axes catch you mid-dive. You take the full force of the blow. Mark 2 Stress (hard Impact Move) and you're knocked prone. You're on the ground in Close zone with him looming over you. I gain 1 Threat for your Setback. What do you do?"
+**GM:** "The axes catch you mid-dive. You take the full force of the blow. Major Consequence (mark 2 Stress) and you're knocked prone. You're on the ground in Close zone with him looming over you. I gain 1 Threat for your Setback. What do you do?"
 
 **Kael (3/5 Stress, Prone):** "Mira, help!"
 
@@ -353,7 +353,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Mira rolls 3d6 → 5 (Conflict)**
 
-**GM:** "You dodge one blade but the other catches your shoulder. Mark 1 Stress (soft Impact Move). You're now in Close with both orcs. What do you do?"
+**GM:** "You dodge one blade but the other catches your shoulder. Minor Consequence (mark 1 Stress). You're now in Close with both orcs. What do you do?"
 
 **Mira (2/5 Stress):** "I draw my short sword and slash at the closest one. Clash with Grace."
 
@@ -383,7 +383,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Kael rolls 3d6 → 5 (Conflict)**
 
-**GM:** "Your blade comes down, but he surges up with a final burst of strength. His axe catches your side as you strike him down. Mark 1 Stress (soft Impact Move). Your sword takes him in the neck. Mark 2 ticks — he's at 8/8, track full. He collapses, dead. But as he falls, he whispers a curse in Black Speech. Kael, roll Defy to resist."
+**GM:** "Your blade comes down, but he surges up with a final burst of strength. His axe catches your side as you strike him down. Minor Consequence (mark 1 Stress). Your sword takes him in the neck. Mark 2 ticks — he's at 8/8, track full. He collapses, dead. But as he falls, he whispers a curse in Black Speech. Kael, roll Defy to resist."
 
 **Kael rolls 3d6 → 4 (Conflict)**
 

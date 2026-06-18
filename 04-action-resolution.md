@@ -103,8 +103,12 @@ See [02-core-mechanics.md](02-core-mechanics.md) for complete dice mechanics and
 
 1. **Check for Complications** (from Challenge Traits)
 2. **Apply Complications:**
-   - Each Complication reduces outcome by -1 tier (Triumph → Success → Conflict → Setback → Disaster)
-3. **Triumph ignores all Complications** (cannot be reduced)
+   - Each Complication reduces outcome by -1 tier, increasing the Consequence you suffer:
+     - **Success** (no consequence) → **Conflict** (Minor Consequence)
+     - **Conflict** (Minor Consequence) → **Setback** (Major Consequence)
+     - **Setback** (Major Consequence) → **Disaster** (Severe Consequence)
+     - **Disaster** (Severe Consequence) → No further reduction (already worst outcome)
+3. **Triumph ignores all Complications** (cannot be reduced — you suffer no consequence)
 
 **Example:**
 - Raw roll: Success
@@ -132,26 +136,24 @@ You may invoke your Trait to gain one Special Effect:
 ### 7. Resolve Final Outcome
 
 #### Setback
-**Failure with consequence.**
+**Failure with Major Consequence.**
 
-You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no useful information), and the **GM makes a hard Impact Move**.
+You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no useful information), and you suffer a **Major Consequence** (GM makes a hard Impact Move).
 
 **Your action fails:** No progress on tracks, no questions answered, no information gained.
 
-**And the situation worsens dramatically:** The GM makes a hard Impact Move from the list below or from the Challenge's specific moves.
-
-**On Setback:** No progress, no information gained, and the situation worsens dramatically.
+**And the situation worsens dramatically:** GM inflicts 2 Stress, removes advantage, activates threats, or makes dramatic narrative shifts.
 
 ---
 
 #### Conflict
-**Success with consequence.**
+**Success with Minor Consequence.**
 
-You accomplish your action's mechanical effect (same as Success), but the **GM makes a soft Impact Move**.
+You accomplish your action's mechanical effect (same as Success), but you suffer a **Minor Consequence** (GM makes a soft Impact Move).
 
 **Your action succeeds:** Mark ticks, ask questions, gain information, or overcome obstacles as you would on Success.
 
-**But the situation shifts against you:** The GM makes a soft Impact Move from the list below or from the Challenge's specific moves.
+**But the situation shifts against you:** GM inflicts 1 Stress, you lose position, side effects occur, or countdowns advance.
 
 ---
 
@@ -186,26 +188,38 @@ When you achieve **Triumph**, you succeed completely and gain:
 
 ---
 
-## Impact Moves
+## Impact Moves & Consequence Framework
 
-**When a PC rolls Conflict or Setback, the GM makes an Impact Move.**
+**When a PC suffers a Consequence, the GM makes an Impact Move.**
 
 Impact Moves represent how the world responds to imperfect actions. The GM chooses from:
-- **General Impact Moves** (always available)
+- **General Impact Moves** (always available, organized by Consequence tier)
 - **Challenge-Specific Moves** (from the enemy, obstacle, or hazard being faced)
 
-### Soft Impact Moves (on Conflict)
+### Consequence Tiers
+
+**Three tiers of consequences:**
+
+| Outcome | Consequence Tier | GM Response |
+|---------|------------------|-------------|
+| **Conflict** | **Minor Consequence** | Soft Impact Move (1 Stress, lose position, side effect) |
+| **Setback** | **Major Consequence** | Hard Impact Move (2 Stress, serious danger, objective setback) |
+| **Disaster** | **Severe Consequence** | Disaster Move (Taken Out, Burden, catastrophic failure) |
+
+**Triumph/Success:** No consequence (clean success)
+
+### Minor Consequences (Conflict - Soft Impact Moves)
 
 Choose one:
 - **Put someone in a spot** — Force a difficult position or tough choice
 - **Reveal an unwelcome truth** — Show something they didn't want to know
 - **Show signs of approaching threat** — Foreshadow danger, countdowns advance
 - **Take away advantage or position** — Lose high ground, cover, flanking, initiative
-- **Mark Stress** — Mark 1 Stress + potentially inflict a Condition (tier 1)
+- **Mark 1 Stress** — Mark 1 Stress + potentially inflict a Condition (tier 1)
 - **Offer a difficult choice** — "You can mark the tick, but you'll take 1 Stress" OR "Avoid harm, but make no progress"
 - **Advance a Countdown Track** — Move threat closer by 1 tick
 
-### Hard Impact Moves (on Setback)
+### Major Consequences (Setback - Hard Impact Moves)
 
 Choose one:
 - **Deal harm** — Mark 2 Stress + potentially inflict a Condition (tier 1-3 based on severity)
@@ -214,6 +228,15 @@ Choose one:
 - **Activate a threat** — Trigger trap, raise alarm, enemy reinforcements arrive, hazard activates
 - **Advance a Countdown Track** — Move threat closer by 2 ticks (or complete it for dramatic moments)
 - **Make a dramatic narrative shift** — Situation fundamentally worsens (guards converge, exit seals, noble calls for your arrest)
+
+### Severe Consequences (Disaster - Disaster Moves)
+
+Choose one:
+- **Taken Out** — Unconscious, captured, flee in terror, pinned helplessly
+- **Objective fails catastrophically** — Alarm raised, vault sealed permanently, artifact destroyed
+- **Countdown completes** — Ceiling collapses, ritual finishes, reinforcements arrive
+- **Burden inflicted** — Tier 1-2 Burden + other consequences (see Chapter 5: Resilience)
+- **Dramatic narrative shift** — Exposed as spy, bridge collapses, demon breaks free
 
 ### Challenge-Specific Moves
 

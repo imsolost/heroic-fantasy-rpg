@@ -96,7 +96,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **If Setback:** Cannot invoke Trait (you failed)
 
-**If Triumph:** You gain Momentum + ignore Complications + may invoke Trait for one Special Effect
+**If Triumph:** You gain Momentum + ignore Complications
 
 ### Trait Rules
 
@@ -208,29 +208,55 @@ Some Talents grant Expertise in a specific domain (e.g., "Heavy Blades," "Stealt
 
 **How Expertise Works:**
 
-When you make an Action Roll within your Expertise domain, if your **final outcome** (after all Complications have downshifted your result) is a **Setback**, treat it as a **Conflict** instead.
+When you make an Action Roll within your **area of Expertise**, if your **final outcome** (after applying all Complications) would be a **Setback**, the outcome is a **Conflict** instead.
 
-- You still suffer consequences (Soft Impact Move: mark 1 Stress, lose position, etc.)
-- You successfully mark progress or achieve your baseline objective
+- You succeed at your action (mark progress, gain information, overcome obstacles)
+- You still suffer consequences based on the Conflict outcome
+- The Consequence tier is then determined based on the Conflict outcome and any modifying traits (like Deadly)
 - This conversion happens AFTER all Complications are resolved
 
 **What Expertise Does NOT Protect Against:**
 
-- **Disaster outcomes:** If Complications downshift you below Setback to Disaster, Expertise does not trigger. Catastrophic failures remain catastrophic.
-- **Taken Out:** If multiple Complications force a Taken Out result, Expertise does not prevent it.
+- **Disaster outcomes:** If Complications reduce your outcome to Disaster, Expertise does not trigger. Catastrophic failures remain catastrophic.
+- **Increased Consequence severity:** Expertise changes whether you succeed or fail, but traits like Deadly can still increase how much your success costs.
+
+**Consequence Tiers:**
+- **Minor Consequence** (Conflict) = Soft Impact Move (1 Stress, lose position, side effect)
+- **Major Consequence** (Setback) = Hard Impact Move (2 Stress, serious danger, objective setback)
+- **Severe Consequence** (Disaster) = Disaster Move (Taken Out, Burden, catastrophic failure)
 
 **Example:**
 
 > Kael has Expertise: Heavy Blades. He attacks an Armored Knight (2 Complications).
 > 
-> - Rolls Success (6)
-> - 2 Complications downshift: Success → Conflict → Setback
-> - **Expertise triggers:** Setback becomes Conflict
-> - **Result:** Marks 1 tick on Harm track + takes Soft Impact Move (mark 1 Stress)
+> - Rolls Success
+> - 1st Complication: Success → Conflict
+> - 2nd Complication: Conflict → Setback
+> - **Expertise triggers:** Setback outcome becomes Conflict outcome
+> - Conflict outcome = Minor Consequence (base)
+> - **Final Result:** Marks 1 tick on Harm track + suffers Minor Consequence (mark 1 Stress, GM makes soft Impact Move)
 > 
-> Without Expertise, he would have marked 0 ticks and taken a Hard Impact Move.
+> Without Expertise, he would have suffered a Setback outcome (no progress, Major Consequence).
 
-**Narrative Application:** Expertise applies when your action is narratively connected to your domain. A sword expert can use their Expertise to assess the quality of a weapons shipment (Know) or recall famous dueling techniques (Know), but not to negotiate trade agreements (Talk) unless swordcraft is directly relevant to the negotiation.
+**Against Deadly Enemies:**
+
+> Kael (Expertise: Heavy Blades) attacks a Deadly Troll (2 Complications, Deadly trait increases Consequence tier by 1).
+> - Rolls Success → Conflict → Setback (after Complications)
+> - **Expertise:** Setback outcome → Conflict outcome
+> - Conflict outcome = Minor Consequence (base)
+> - **Deadly trait:** Minor → Major Consequence
+> - **Final Result:** Marks 1 tick on Harm track + suffers Major Consequence (mark 2 Stress)
+> 
+> Expertise ensured he made progress (didn't fail completely), but the Deadly trait made the cost higher.
+
+**Against 3+ Complications:**
+
+> Same scenario but enemy has 3 Complications:
+> - Rolls Success → Conflict → Setback → Disaster
+> - **Expertise does NOT trigger** (final outcome is Disaster, not Setback)
+> - **Result:** Disaster (Severe Consequence) — Taken Out, or Burden inflicted, or catastrophic setback
+
+**Narrative Application:** Expertise applies when your action is narratively connected to your area of Expertise. A sword expert can use their Expertise to assess the quality of a weapons shipment (Know) or recall famous dueling techniques (Know), but not to negotiate trade agreements (Talk) unless swordcraft is directly relevant to the negotiation.
 
 > **Expertise at Zero Dice**
 > 

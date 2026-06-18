@@ -126,13 +126,9 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 - **Enhance** — Amplify, augment, or empower natural capabilities
 - **Deceive** — Create false images, introduce misdirection, or generate sensory lies
 
-**Arcane Formula:** Once per scene, you may attempt a spell outside your known theorems. Describe the effect you are attempting using a Sphere + Operation combination (e.g., "I use Force to Bind the gate's momentum"). Roll **Cunning + appropriate Action** with **1 Bane** — you are working from theoretical knowledge rather than mastered practice.
+**Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation (e.g., "I use Force to Bind the gate's momentum"). Mark 1 Stress to invoke your theoretical knowledge, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. Outcomes follow standard Consequence framework (see Chapter 4).
 
-- **Triumph/Success:** The effect occurs as intended
-- **Conflict:** The effect occurs but with a **Minor Consequence** (GM makes soft Impact Move — unintended side effect, temporary instability, or magical drain)
-- **Setback:** The attempt fails and suffers a **Major Consequence** (GM makes hard Impact Move — spell backfires, mark 2 Stress, or dangerous magical feedback)
-
-If you are a **Specialist** and your Arcane Formula uses your chosen Sphere, you have Expertise (Major Consequence becomes Minor Consequence).
+If you are a **Specialist** and your Arcane Formula uses your chosen Sphere, you have Expertise (Setback outcome becomes Conflict).
 
 **Casting Spells:** See **Chapter 10: Spellcasting** for complete rules, magnitude (Cantrips/Spells/Potent Spells), example theorems, and spell effects.
 
@@ -163,6 +159,8 @@ You serve as a bridge between the mortal world and forces beyond — divine, anc
 - **Protection:** Shield allies, create sanctuaries, ward against harm, deflect evil
 
 **Invoking Your Patron:** When you invoke your patron's power, describe what you ask for within their domains. Choose the Action that matches your intent (Defy to protect, Clash to smite, Talk to bless or curse, Sense for visions, Know to commune for answers). Roll **Spirit + Action**.
+
+**You cannot invoke powers outside your patron's domains** — your patron grants only what falls within their divine purview. If you wish to expand your spiritual reach, you must gain access to additional domains through Talents or narrative means (multiclassing, secondary patrons, divine boons).
 
 See **Chapter 10: Spellcasting** for complete casting rules, magnitude (Cantrips/Spells/Potent Spells), and example effects.
 

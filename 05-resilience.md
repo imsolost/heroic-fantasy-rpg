@@ -93,11 +93,13 @@ Conditions come from three sources:
 
 > *Major Consequence: "The giant's club smashes into your shield, knocking you off your feet. Mark 2 Stress and Prone 1."*
 
-**Stress Overflow:** When your Stress track is full and you would mark more Stress, choose:
+**Stress Overflow:** When your Stress track is full and you would mark more Stress, follow this procedure:
 
-- **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on amount (1-3 Stress → tier 1-3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
-
-- **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context. Your Stress clears when you recover.
+1. **GM announces:** "You would mark [X] Stress, but your track is full."
+2. **Resist Consequence (optional):** You may spend 1 Momentum to roll Defy and reduce the Stress (Success = reduce by 2, Conflict = reduce by 1, Setback = no reduction). See Resist Consequence below.
+3. **Choose your fate:** If any Stress remains after Resist (or you don't Resist), you choose:
+   - **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on Stress amount (1 Stress → tier 1, 2 Stress → tier 2, 3+ Stress → tier 3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
+   - **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context. Your Stress clears when you recover.
 
 This choice creates dramatic "push through at a cost" moments — heroes can stay in the fight with a second wind, but risk lasting harm. Taking a Burden represents pushing through the pain and finding the will to continue, at the cost of a persistent injury.
 

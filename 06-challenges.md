@@ -107,7 +107,7 @@ Not all Challenges have Traits. When they do, Traits represent special defenses,
 Modify Stress inflicted by Impact Moves.
 
 **Examples:**
-- **"Deadly"** — Impact Moves deal +1 Stress (Soft = 2, Hard = 3)
+- **"Deadly"** — Increases Consequence tier by 1 (Minor → Major, Major → Severe)
 - **"Elite"** — Hard Impact Moves deal +1 Stress (Hard = 3)
 - **"Weak"** — Impact Moves deal -1 Stress (minimum 1, Soft = 1, Hard = 1)
 - **"Pathetic"** — Can only trigger Soft Impact Moves (max 1 Stress)
@@ -381,9 +381,9 @@ The **Obstacle track** represents barriers, puzzles, wards, and other inanimate 
 
 ### Marking Obstacle
 
-**Defy (bypass attempts):** Climbing walls, picking locks, disabling traps, sneaking past guards — these mark Obstacle.
+**Defy (overcoming obstacles):** Climbing walls, picking locks, disabling traps, sneaking past guards, solving puzzles, deciphering runes, dispelling wards — these mark Obstacle.
 
-**Know (knowledge/puzzle solving):** Deciphering runes, solving riddles, recalling lore to dispel wards — these mark Obstacle.
+*Note: Know provides information but does not mark Obstacle tracks directly. Use Know to gain insights (e.g., "How does this ward work?"), then Defy with that knowledge to overcome it (e.g., using Cunning to apply what you learned).*
 
 ### Obstacle Track Lengths
 
@@ -759,8 +759,8 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 | Clash (social) | Will track | Taunts, intimidation, insults, rhetoric |
 | Talk | Will track | Persuasion, deception, influence |
 | Defy (damage) | Harm track | Shoving into hazards, environmental damage |
-| Defy (bypass) | Obstacle track | Climbing, lockpicking, sneaking past |
-| Know | Obstacle track | Solving puzzles, dispelling wards, riddles |
+| Defy (bypass) | Obstacle track | Climbing, lockpicking, sneaking past, solving puzzles, dispelling wards |
+| Know | No track | Information gathering only (use gained knowledge to inform Defy attempts) |
 | Sense | No track | Information gathering only |
 | Special Talents | Varies | *Cutting Words* marks Harm via Talk (rare exception) |
 

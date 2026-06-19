@@ -168,7 +168,14 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude (Cantrips
 
 **Losing Favor:** When you roll **Setback** while invoking your patron, you lose Favor. Your patron is silent or displeased. You can still invoke them, but without Expertise (Setback stays Setback).
 
-**Regaining Favor:** Act in accordance with your patron's nature, fulfill obligations, make offerings, or complete a significant act of devotion. Work with your GM to determine when Favor returns.
+**Regaining Favor:** You regain Favor by demonstrating devotion to your patron. Work with your GM to determine when Favor returns, typically through one of these means:
+
+- **Act in accordance with your patron's nature:** Perform deeds that align with their domains (Healing domain: save a life without asking for payment; Death domain: guide a lost soul to rest; Nature domain: protect a sacred grove from desecration)
+- **Fulfill a divine obligation:** Complete a task your patron asks of you, make a significant sacrifice, or uphold a sacred vow
+- **Make offerings or perform rituals:** Dedicate treasure, time, or effort to your patron's worship (build a shrine, lead a ceremony, fast for a day in contemplation)
+- **Narrative milestone:** After a significant story beat where your faith is tested or your devotion demonstrated (varies by campaign)
+
+The GM should signal when Favor returns (typically at the end of a scene or after a rest once the condition is met).
 
 ---
 

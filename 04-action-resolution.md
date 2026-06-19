@@ -265,6 +265,91 @@ Significant enemies, obstacles, and hazards should have 2-3 specific moves the G
 
 ---
 
+## Resolution Order Algorithm
+
+When resolving an Action Roll with Complications, modifying traits (Deadly, Armor, etc.), and Expertise, follow this order of operations:
+
+### Step-by-Step Order
+
+1. **Roll dice** → Determine raw outcome (Setback/Conflict/Success/Triumph)
+2. **Apply Complications** → Each Complication reduces outcome by 1 tier
+   - Success → Conflict → Setback → Disaster
+   - Triumph ignores all Complications (skip this step)
+3. **Apply Expertise** → If final outcome is Setback, convert to Conflict outcome
+   - Expertise does NOT protect against Disaster
+   - You now succeed at your action (mark progress, gain information, overcome obstacles)
+4. **Map outcome to base Consequence tier**
+   - Conflict outcome = Minor Consequence (base)
+   - Setback outcome = Major Consequence (base)
+   - Disaster outcome = Severe Consequence (base)
+5. **Apply trait modifiers** → Traits that increase/decrease Consequence tier
+   - Deadly: increase tier by 1 (Minor → Major, Major → Severe)
+   - Armor: reduce tier by 1 (Major → Minor, Minor → none)
+   - Apply these AFTER Expertise has already converted the outcome
+6. **Resolve final Consequence** → GM makes Impact Move based on final tier
+
+### Examples
+
+**Example 1: Expertise + 2 Complications**
+
+Bladedancer (Expertise: Heavy Blades) attacks Armored Knight (2 Complications)
+
+- **Roll:** Success
+- **After Complications:** Success → Conflict → Setback
+- **Apply Expertise:** Setback outcome → Conflict outcome (you succeed!)
+- **Base Consequence:** Conflict = Minor Consequence
+- **Final Result:** Mark 1 tick on Harm track + Minor Consequence (mark 1 Stress)
+
+---
+
+**Example 2: Expertise + 2 Complications + Deadly Trait**
+
+Bladedancer (Expertise: Heavy Blades) attacks Deadly Troll (2 Complications, Deadly trait)
+
+- **Roll:** Success
+- **After Complications:** Success → Conflict → Setback
+- **Apply Expertise:** Setback outcome → Conflict outcome (you succeed!)
+- **Base Consequence:** Conflict = Minor Consequence
+- **Apply Deadly:** Minor → Major Consequence
+- **Final Result:** Mark 1 tick on Harm track + Major Consequence (mark 2 Stress)
+
+*Expertise ensures you make progress, but Deadly makes success more expensive.*
+
+---
+
+**Example 3: Expertise Cannot Save From Disaster**
+
+Same Bladedancer attacks enemy with 3 Complications
+
+- **Roll:** Success
+- **After Complications:** Success → Conflict → Setback → Disaster
+- **Expertise:** Does NOT trigger (final outcome is Disaster, not Setback)
+- **Result:** Disaster (Severe Consequence) — no progress, catastrophic failure
+
+*Against high-Complication enemies, you need better rolls (not just Expertise) to avoid catastrophic failure.*
+
+---
+
+**Example 4: Triumph Ignores All Complications**
+
+Any character attacks enemy with 3 Complications
+
+- **Roll:** Triumph
+- **Complications:** Ignored (Triumph cannot be reduced)
+- **Result:** Clean success + gain 1 Momentum + may invoke Trait for Special Effect
+
+---
+
+### Key Principles
+
+- **Expertise converts failure to success** (Setback → Conflict outcome)
+- **Deadly increases the cost of success** (Minor → Major Consequence)
+- **Expertise + Deadly = succeed but pay more** (mark progress + higher Stress)
+- **Disaster is always disaster** (Expertise doesn't protect against catastrophic failure)
+- **Triumph is always triumph** (Complications don't reduce it)
+
+---
+
 ### Secondary Effects Examples
 
 When you choose Secondary Effect (from Trait invocation), produce an additional consequence that makes sense in the fiction:

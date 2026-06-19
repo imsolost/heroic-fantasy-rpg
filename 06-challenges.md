@@ -64,6 +64,36 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ---
 
+### GM Guidance: When to Use 3+ Complications
+
+**3+ Complications are a specific design tool, not a default difficulty dial.**
+
+**Reserve 3+ Complications for:**
+- **Set-piece encounters** — Climactic boss fights, final showdowns, legendary threats
+- **Puzzle-lock challenges** — Encounters designed to require setup, teamwork, or specific tactics before direct engagement is viable
+- **Showcase moments** — Demonstrating that an enemy is genuinely terrifying and cannot be brute-forced
+
+**What 3+ Complications signal to players:**
+"Don't engage head-on without preparation. You need Triumph, Momentum for Potency, teamwork (Build Momentum), or a clever solution (flank, use environment, exploit weakness)."
+
+**Example:**
+> **Ancient Dragon (3 Complications: Armored Scales, Fearsome Presence, Aerial Superiority)**
+> - This signals: "You can't just walk up and hit it. You need a plan."
+> - Players respond: Scout with Sense (find weak point), Build Momentum (teamwork), Act with Potency (strip 1 Complication), aim for Triumph (bypasses all 3)
+> - The fight becomes tactical problem-solving, not "roll and hope"
+
+**Don't use 3+ Complications for:**
+- Routine encounters (guards, bandits, standard monsters)
+- Mid-tier fights without strategic depth
+- Every "tough" enemy (reserve it for genuinely legendary threats)
+
+**Rule of thumb:**
+- **0-1 Complications:** Standard encounters, routine opposition
+- **2 Complications:** Challenging but approachable, requires some tactics
+- **3+ Complications:** Legendary threats, set-pieces, puzzle-locks — use sparingly (2-3 times per campaign arc)
+
+---
+
 ## Negating Complications
 
 Three ways to deal with Complications:
@@ -329,6 +359,76 @@ When a Will track fills, the GM narrates the outcome based on the situation and 
 - **Desperate Action** — Some adversaries lash out rather than yield — a cornered villain who'd rather fight than admit defeat
 
 > **GM Tip:** Telegraph which outcome is likely before the Will track fills, so players know what they're working toward. "The captain is sweating now, his confidence clearly shaken — one more push and he'll break" sets up the fiction before the mechanical resolution.
+
+### Social Stakes: What Can You Achieve?
+
+Social conflict through Will tracks is powerful, but it has boundaries. Filling a Will track represents overcoming resistance — not mind control.
+
+**Achievable outcomes when a Will track fills:**
+
+**Concession** — They accept your position or argument in this specific matter
+- Admit you're right about the trade route
+- Agree to the treaty terms you proposed
+- Concede the debate publicly
+
+**Cooperation** — They work with you on a specific goal or task
+- Help you infiltrate the fortress
+- Provide resources for your quest
+- Share information they were withholding
+
+**Surrender** — They yield to your demands in the immediate situation
+- Drop weapons and surrender
+- Retreat from the negotiation
+- Accept your authority in this moment
+
+**Withdrawal** — They disengage rather than continue resisting
+- Leave the scene to avoid further pressure
+- Agree to disagree and step aside
+- Flee rather than face you
+
+**Temporary Agreement** — They go along with your request for now
+- Escort you through their territory this time
+- Delay their attack for a day
+- Grant temporary safe passage
+
+---
+
+**Out-of-bounds outcomes (requires magic, Talents, or long-term roleplay):**
+
+**Belief Rewrites** — You cannot instantly change core beliefs or identity
+- ✗ "The devout priest now worships your god" (core identity)
+- ✗ "The lifelong enemy now considers you a friend" (requires sustained interaction)
+- ✗ "The loyal soldier betrays their commander" (core loyalty without justification)
+
+**Mind Control** — You cannot override free will or agency entirely
+- ✗ "They become your puppet and obey all commands"
+- ✗ "They forget this conversation ever happened"
+- ✗ "They act against their nature permanently"
+
+**Permanent Changes** — Filling a Will track represents a moment, not a personality rewrite
+- ✗ "They're now permanently loyal to you" (loyalty is earned through continued interaction)
+- ✗ "They'll never oppose you again" (they may oppose you later if circumstances change)
+
+---
+
+**What about long-term influence?**
+
+Filling a Will track **opens the door** to long-term relationships, but those relationships are maintained through **roleplay and continued interaction**, not mechanics.
+
+- Fill a Will track to gain an audience with the king → He hears you out
+- Continued interaction and favorable actions → Builds trust and alliance over time
+- The Will track got you in the door; the relationship is built through play
+
+**GM Guidance:**
+
+When a Will track fills, narrate the **immediate outcome** (concession, cooperation, surrender, etc.). If the players want a **long-term relationship** (ally, convert, permanent change), that requires continued roleplay and investment, not just one roll.
+
+**Example:**
+> The bandit captain's Will track fills. He throws down his weapon and yields: "Alright! We'll leave your village alone. But don't expect me to forget this."
+> 
+> That's **Concession** (they stop raiding). If the PCs want him to become an ally, they'll need to interact further — offer him work, prove their trustworthiness, address his grievances. The Will track got them to the negotiating table; building the alliance happens through play.
+
+---
 
 ### Talk vs Clash for Will Track
 

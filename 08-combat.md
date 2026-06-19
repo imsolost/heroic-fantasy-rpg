@@ -61,51 +61,72 @@ The GM grants **Edge** or imposes **Complications** based on fictional positioni
 
 ## Combat Maneuvers
 
-Beyond dealing damage, you can attempt tactical maneuvers by declaring your intent when taking an Action.
+Combat maneuvers are just **regular Actions with declared intent**. You don't need special mechanics — use Clash, Defy, or Sense, describe what you're trying to do, and the outcome determines success.
 
-**Key Principle:** Maneuvers don't require separate mechanics. Use existing Actions (Clash, Defy, Sense) with declared intent. The outcome determines whether the maneuver succeeds.
+**Key Principle:** Maneuvers work through the standard Action resolution:
+- **Success or higher:** You achieve your intent (disarm, knockdown, pin, etc.)
+- **Conflict or higher + Trait:** You achieve your intent **and** may invoke a relevant Trait for **Secondary Effect** (see Chapter 4)
+- **Setback:** You fail and suffer consequence
 
-### Common Maneuvers
+**On enemies, maneuvers create fictional positioning** that affects how the GM narrates and adjudicates (see "Inflicting Conditions on Enemies" in Chapter 4).
 
-**Disarm** — Remove enemy's weapon
-- **Action:** Clash or Defy with intent to disarm
-- **Effect (Success/Triumph):** Enemy drops weapon. Must spend action to retrieve or draw backup.
-- **Example:** "I hook his sword with my axe and twist to disarm him." → Clash with Daring
+---
 
-**Knockdown** — Put enemy on ground
-- **Action:** Clash with intent to trip/shove
-- **Effect (Success/Triumph):** Enemy falls prone. Gains Condition: Prone 1 (1 Bane on relevant actions, must spend movement to stand).
-- **Example:** "I sweep his legs as he overextends." → Clash with Grace
+### Example Maneuvers
 
-**Pin/Grapple** — Restrict movement
-- **Action:** Clash with intent to grapple
-- **Effect (Success/Triumph):** Enemy pinned. Can't move zones without Defying to break free. You're also engaged (can't freely move without releasing).
-- **Example:** "I tackle him and pin his arms." → Clash with Daring
+These are examples to illustrate the variety possible. Declare your intent, the GM determines the Action and stakes, you roll.
 
-**Reposition Enemy** — Push or pull
-- **Action:** Clash or Defy with intent to shove/pull
-- **Effect (Success/Triumph):** Move enemy one zone (into hazard, off ledge, away from ally).
-- **Example:** "I shield-bash him toward the cliff edge." → Clash with Daring
+**Disarm** — "I hook his sword with my axe and twist to disarm him."
+- Action: Clash with Daring
+- Success: Enemy drops weapon (must spend effort to retrieve or draw backup)
+- + Secondary Effect: Kick weapon away (Take Something), shove enemy back (Reposition), catch their weapon mid-air (Take Something + impressive)
 
-**Create Opening for Ally** — Set up advantage
-- **Action:** Sense or Clash with intent to create advantage
-- **Effect (Success):** Ally gains Edge on next action against that enemy.
-- **Effect (Triumph):** As Success, or grant Edge to all allies.
-- **Examples:** 
-  - Physical: "I feint high to draw his guard up." → Clash with Cunning
-  - Social: "I mock the captain's cowardice in front of his men." → Clash (social) with Charm, marks his **Will track** and rattles him, granting allies Edge on attacks
+**Knockdown** — "I sweep his legs as he overextends."
+- Action: Clash with Grace
+- Success: Enemy knocked prone (vulnerable to follow-up, must use effort to stand)
+- + Secondary Effect: Also stun them (Impair), create opening for ally (Create Advantage), affect nearby enemy as well (Affect Additional Target)
 
-**Sunder Equipment** — Damage gear
-- **Action:** Clash targeting enemy's weapon/armor/shield
-- **Effect (Triumph only):** Impose Condition on enemy (Damaged Weapon 1 = 1 Bane on attacks, or reduce armor uses by 1).
-- **Example:** "I target his shield, trying to splinter it." → Clash with Daring
+**Pin/Grapple** — "I tackle him and pin his arms."
+- Action: Clash with Daring
+- Success: Enemy pinned (can't move zones, you're also engaged and can't freely move)
+- + Secondary Effect: Also disarm them (Take Something), apply chokehold (Impair), drag them into hazard (Reposition)
 
-**Environmental Combo** — Use surroundings
-- **Action:** Clash or Defy incorporating environment
-- **Effect (Success/Triumph):** Gain Edge, or inflict additional consequence beyond normal damage.
-- **Example:** "I kick the brazier into his face." → Clash with Daring, GM may inflict Blinded 2 on Triumph
+**Shove/Push** — "I shield-bash him toward the cliff edge."
+- Action: Clash with Daring
+- Success: Move enemy one zone (into hazard, off ledge, away from ally)
+- + Secondary Effect: Enemy falls and is prone (Reposition + Impair), you also push nearby enemy (Affect Additional Target)
 
-**GM Note:** Don't gate maneuvers behind Talents unless they're extraordinary (e.g., disarming at range, sundering legendary equipment). Let players attempt maneuvers narratively, with Success/Triumph determining outcome.
+**Create Opening** — "I feint high to draw his guard up."
+- Action: Clash with Cunning (could also be Sense to spot weakness)
+- Success: Ally gains fictional positioning for next action (GM may grant Edge)
+- + Secondary Effect: Multiple allies gain positioning (Affect Additional Target), enemy is off-balance and vulnerable (Impair)
+
+**Sunder Equipment** — "I target his shield, trying to splinter it."
+- Action: Clash with Daring
+- Success: Damage shield (enemy loses defensive advantage fictionally, or reduces armor uses)
+- + Secondary Effect: Shield breaks completely (Take Something), splinters strike him in face (Impair)
+
+**Environmental Combo** — "I kick the brazier into his face."
+- Action: Clash with Daring
+- Success: Deal damage + environmental effect (fire, distraction)
+- + Secondary Effect: Blind him with hot coals (Impair), fire spreads to create ongoing hazard (Create Advantage)
+
+**Keep Them Busy** — "I hold them off while my allies escape."
+- Action: Clash or Defy with intent to occupy
+- Success: Enemy focuses on you, cannot easily pursue allies
+- + Secondary Effect: Impede their reinforcements (negate advantage they had), exhaust them (Impair for future), block passage completely (Reposition)
+
+---
+
+### GM Guidance
+
+**Maneuvers are just declared intent + standard Actions.** Don't create special rules. Use existing resolution.
+
+**Secondary Effects (Trait invocation) are where maneuvers get interesting.** When a PC achieves Conflict or higher and invokes a Trait, they can stack an additional effect beyond the base maneuver (see Chapter 4 for Secondary Effects framework).
+
+**Fictional positioning matters.** Disarming requires melee range. Shoving off a ledge requires a ledge. Blinding with sand requires sand. Fiction first, always.
+
+**Don't gate maneuvers behind Talents** unless extraordinary (disarming at range, sundering legendary equipment, instant-kills without setup).
 
 ---
 

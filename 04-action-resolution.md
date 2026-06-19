@@ -350,49 +350,92 @@ Any character attacks enemy with 3 Complications
 
 ---
 
-### Secondary Effects Examples
+### Secondary Effects
 
-When you choose Secondary Effect (from Trait invocation), produce an additional consequence that makes sense in the fiction:
+When you choose Secondary Effect (from Trait invocation), produce an additional consequence beyond the base effect of your action. Secondary Effects should feel impactful and heroic, but not encounter-ending.
 
-**Examples:**
-- **Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum (physical or conceptual)
-- **Affect Multiple Targets** — Your action impacts additional targets (strike cuts through enemies, words sway entire group)
-- **Shift Attitude** — Change NPC disposition dramatically (Hostile → Neutral, or even Hostile → Friendly if fiction supports it)
-- **Inflict Condition** — Wound them (physical), demoralize them (mental), humiliate them (social), charm them
-- **Gain Important Knowledge** — Spot crucial detail, recall hidden truth, deduce secret weakness (beyond normal questions)
-- **Change Positioning** — Knock them down, shove them back, pin them, block passage, reach important location
-- **Create Environmental Effect** — Knock over brazier, trigger mechanism, cause distraction
+**What Secondary Effects Can Do:**
+
+Secondary Effects are intentionally flexible to reward creative play. When you invoke a Trait for Secondary Effect, describe what additional outcome you want to create. The GM adjudicates based on fiction and scope.
+
+**Common categories** (not exhaustive):
+
+**Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum, wrest control of authority/situation, claim resource
+- *Examples: Disarm weapon, grab key, seize high ground, steal credibility, claim enemy's plan as your own*
+
+**Affect Additional Target** — Your action impacts additional targets beyond the primary (strike cuts through multiple foes, words sway entire group, environmental effect spreads)
+- *Examples: Cleave through 2-3 enemies, convince multiple listeners, trigger chain reaction*
+
+**Change Positioning** — Knock them down, shove them back, pin them, block passage, reach important location, interpose between enemy and ally, corner them
+- *Examples: Knockdown, push off ledge, pin against wall, leap to advantage, trap them in conversation*
+
+**Impair or Weaken** — Impose a disadvantage on an enemy that affects their future actions (see "Inflicting Conditions" below)
+- *Examples: Blinded, disoriented, frightened, demoralized, off-balance, exposed*
+
+**Create Advantage** — Create opening for ally, knock over environmental hazard (brazier, chandelier), break enemy formation, reveal weakness, distract them, establish rapport, gain leverage
+- *Examples: Ally gains fictional positioning for next action, fire spreads to enemy's advantage, reveal critical information*
+
+**Keep Them Busy** — Impede them (negate advantage/opportunity/resistance they had), distract them, exhaust them, occupy their attention
+- *Examples: Cancel enemy's prepared action, hold them off while allies advance, prevent reinforcements from arriving*
+
+---
+
+### Inflicting Conditions on Enemies
+
+**PCs can suffer Conditions** (tier-based, apply 1 Bane, tick down through action). **Enemies typically do not track Conditions the same way** — they don't roll dice, so Banes don't apply.
+
+**When you inflict a Condition on an enemy via Secondary Effect, it creates fictional positioning that affects how the GM narrates and adjudicates:**
+
+**Fictional Impairment (most common):**
+The Condition is primarily narrative. It changes what the enemy can reasonably do and provides fictional justification for player advantage.
+
+- **Blinded enemy:** Can't target specific PCs accurately (GM may have them strike wildly, miss, or act defensively)
+- **Disarmed enemy:** Can't use weapon-based attacks (must retrieve weapon, draw backup, or use improvised attack)
+- **Prone enemy:** Vulnerable to follow-up attacks, must spend effort standing (GM may give PCs Edge on next action, or have enemy use turn standing)
+- **Frightened enemy:** May flee, fight defensively, or hesitate (GM narrates accordingly)
+
+**Mechanical Effect (optional, GM discretion):**
+The GM may impose mechanical disadvantages when it makes sense:
+- **Reduce enemy's effective Tier** by 1 for duration of Condition (fewer ticks marked by PC attacks)
+- **Grant PCs Edge** on actions against impaired enemy (justified by fiction)
+- **Prevent specific Challenge Moves** (blinded enemy can't use "Precise Shot" move, frightened enemy can't use "Rallying Cry")
+
+**Duration:**
+- Minor impairments (tier 1-2 equivalent): Last until enemy takes action to clear it (stand up, retrieve weapon, shake off fear)
+- Significant impairments (tier 3 equivalent): Last for multiple exchanges or until PC sustains pressure
+
+**Example in Play:**
+> **PC (Triumph + Trait):** "I kick sand in his eyes as I strike — I want to Blind him!"
+> **GM:** "Alright, he's Blinded. He stumbles back, pawing at his face. I'm not going to have him attack this round — he's focused on clearing his vision. Anyone acting against him this round has Edge."
+> *(Next round)*
+> **GM:** "He's blinking away the sand but still disoriented. I'll say he's still Blinded for one more exchange — Edge still applies if you press him."
 
 ---
 
 ### GM Guidance: Adjudicating Secondary Effects
 
-Secondary Effects are intentionally flexible to reward creative play. When a player proposes a Secondary Effect, use these principles:
+**Fiction First:** Does it make sense given what just happened? The Secondary Effect should flow naturally from the action and fiction.
 
-**1. Fiction First**
-Does it make sense given what just happened? The Secondary Effect should flow naturally from the action and fiction.
+**Proportional to Success:** Should feel impactful and heroic but not encounter-ending. A Secondary Effect is a moment of excellence, not a scene-ender by itself.
 
-**2. Proportional to Success**
-Should feel impactful and heroic but not encounter-ending. A Secondary Effect is a moment of excellence, not a scene-ender by itself.
+**Scope Guidelines:**
+- Affect 2-3 additional targets (physical), or entire small group (social, typically 4-6 NPCs)
+- Inflict impairments that last 1-2 exchanges or until enemy acts to clear them
+- Take one object, gain one strategic advantage, create one significant narrative shift
 
-**3. Scale Matters**
-- **Reasonable:** Affect 2-3 targets, inflict tier 1-2 Condition, gain significant tactical advantage
-- **Too Much:** Affect entire army, instant-kill boss enemy, end the scene immediately
+**Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets, permanent changes).
 
-**4. Talent Gates**
-Some effects may require specific Talents to achieve:
-- Inflicting tier 3 Conditions might need combat mastery Talents
-- Affecting large groups might need area-effect Talents
-- Instant defeats might need assassination or execution Talents
-
-**5. Player Agency + GM Veto**
-Let players propose Secondary Effects that excite them. Approve when fiction and scope fit. Adjust or suggest alternatives when they don't. Collaborate to find something satisfying.
+**When in Doubt, Say Yes:** If the player's proposal makes fictional sense and feels appropriately heroic, approve it. Adjust scale if needed.
 
 **Examples:**
-- ✓ "I disarm him and kick his sword away" (Take Something—reasonable)
-- ✓ "I convince her and she offers to help us beyond what we asked" (escalated commitment—reasonable)
-- ✗ "I kill the boss in one hit" (instant defeat without special Talent—too much, suggest inflicting tier 3 Condition instead)
-- ✗ "I convince the entire city guard" (scale too large without Talent—suggest convincing their captain or small squad)
+- ✓ "I disarm him and kick his sword away" — Take Something (reasonable)
+- ✓ "My strike cuts through him and into the enemy behind" — Affect Additional Target (reasonable)
+- ✓ "I knock her prone with the shield bash" — Change Positioning (reasonable)
+- ✓ "I kick sand in his eyes to Blind him" — Impair/Weaken (creates fictional positioning)
+- ✓ "I convince her and she offers to help beyond what we asked" — Create Advantage (reasonable)
+- ✓ "I hold them off while my allies escape" — Keep Them Busy (reasonable)
+- ⚠️ "I kill the boss in one hit" — Too much (instant defeat without Talent). **Suggest:** "You deal devastating harm and he's clearly on death's door, but still standing."
+- ⚠️ "I convince the entire city guard" — Too much (scale too large). **Suggest:** "Affect their captain and 2-3 nearby guards."
 
 ---
 

@@ -38,7 +38,7 @@ Each Action has a **Primary Effect**:
 - **Cunning** — Clever, indirect, calculating
 - **Spirit** — Willful, passionate, determined
 
-Starting array: **3/2/1/0/0** (assign as desired)
+Starting array: **3/2/1/1/0** (assign as desired)
 
 ### Four Outcomes
 
@@ -80,8 +80,8 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 ## Quick Start
 
 **For Players:**
-1. Choose your Approaches (3/2/1/0/0)
-2. Choose 2-3 Traits that define your character
+1. Choose your Approaches (3/2/1/1/0)
+2. Choose 3 Traits that define your character (Origin, Profession, Personal)
 3. Write down 5 Stress boxes and your Momentum cap (2)
 4. Play — describe what you do, roll when outcome uncertain
 

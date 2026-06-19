@@ -30,7 +30,7 @@ Each Action has a **Primary Effect**:
 - **Cunning** — Clever, deceptive, analytical
 - **Spirit** — Focused, tenacious, willful
 
-**Starting Array:** 3/2/1/0/0 (assign as desired)
+**Starting Array:** 3/2/1/1/0 (assign as desired)
 
 ### Four Outcomes
 

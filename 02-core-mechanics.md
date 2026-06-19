@@ -95,7 +95,7 @@ Choose the Approach that describes **how** you're acting.
 
 - **Spirit** — Willful, passionate, determined action. Channeling inner strength, refusing to yield, focusing through adversity.
 
-**Starting Array:** 3/2/1/0/0 (assign as desired)
+**Starting Array:** 3/2/1/1/0 (assign as desired)
 
 **Advancement:** Can increase to 4 (exceptional) or 5 (legendary). Maximum: 5.
 

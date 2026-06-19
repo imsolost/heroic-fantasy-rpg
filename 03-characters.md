@@ -240,7 +240,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 Talents are discrete mechanical abilities that modify how the base rules apply to your character. They change *how* you interact with the system, not just add flat bonuses.
 
-Talents represent training, heritage, or supernatural gifts. Each character starts with **3 Talents** (more gained through advancement).
+Talents represent training, heritage, or supernatural gifts. Each character starts with **2 Talents** — a Core Talent from their Calling and 1 secondary Talent (more gained through advancement).
 
 ### Types of Talents
 

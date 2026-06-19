@@ -80,7 +80,7 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 
 **Offensive Moves:**
 - **Strike:** Deal harm (mark Stress based on Consequence tier)
-- **Brutal Strike:** Increase Consequence tier by 1 (like Deadly trait)
+- **Brutal Strike:** Apply the Deadly trait's effect for this attack (increase Consequence tier by 1)
 - **Area Attack:** Target multiple PCs simultaneously
 - **Grab/Grapple:** Inflict Condition (Grappled, Restrained)
 - **Special Attack:** Poison, fire breath, lightning bolt (inflict Condition)

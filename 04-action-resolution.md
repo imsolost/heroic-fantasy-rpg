@@ -354,11 +354,9 @@ Any character attacks enemy with 3 Complications
 
 When you choose Secondary Effect (from Trait invocation), produce an additional consequence beyond the base effect of your action. Secondary Effects should feel impactful and heroic, but not encounter-ending.
 
-**What Secondary Effects Can Do:**
+**The Six Categories:**
 
-Secondary Effects are intentionally flexible to reward creative play. When you invoke a Trait for Secondary Effect, describe what additional outcome you want to create. The GM adjudicates based on fiction and scope.
-
-**Common categories** (not exhaustive):
+When you invoke a Trait for Secondary Effect, choose one of these categories and describe the specific fictional expression. This framework preserves creative flexibility while eliminating negotiation overhead.
 
 **Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum, wrest control of authority/situation, claim resource
 - *Examples: Disarm weapon, grab key, seize high ground, steal credibility, claim enemy's plan as your own*
@@ -414,18 +412,20 @@ The GM may impose mechanical disadvantages when it makes sense:
 
 ### GM Guidance: Adjudicating Secondary Effects
 
+**Use the Six Categories:** Players choose a category (Take Something, Affect Additional Target, Change Positioning, Impair or Weaken, Create Advantage, Keep Them Busy), then describe the specific fictional expression. This eliminates "what counts as a Secondary Effect?" negotiations while preserving creative flexibility.
+
 **Fiction First:** Does it make sense given what just happened? The Secondary Effect should flow naturally from the action and fiction.
 
 **Proportional to Success:** Should feel impactful and heroic but not encounter-ending. A Secondary Effect is a moment of excellence, not a scene-ender by itself.
 
-**Scope Guidelines:**
+**Scope Guidelines (Per Category):**
 - Affect 2-3 additional targets (physical), or entire small group (social, typically 4-6 NPCs)
 - Inflict impairments that last 1-2 exchanges or until enemy acts to clear them
 - Take one object, gain one strategic advantage, create one significant narrative shift
 
 **Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets, permanent changes).
 
-**When in Doubt, Say Yes:** If the player's proposal makes fictional sense and feels appropriately heroic, approve it. Adjust scale if needed.
+**When in Doubt, Say Yes:** If the player's proposal fits their chosen category and makes fictional sense, approve it. Adjust scale if needed.
 
 **Examples:**
 - ✓ "I disarm him and kick his sword away" — Take Something (reasonable)

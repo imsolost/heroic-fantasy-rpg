@@ -20,7 +20,7 @@ Who is your character? Define them in 1-2 sentences.
 
 ### Step 2: Approaches
 
-Assign the starting array **3/2/1/0/0** to your five Approaches:
+Assign the starting array **3/2/1/1/0** to your five Approaches:
 
 - **Daring** — Bold, forceful, aggressive
 - **Grace** — Agile, precise, controlled
@@ -28,11 +28,11 @@ Assign the starting array **3/2/1/0/0** to your five Approaches:
 - **Cunning** — Clever, indirect, calculating
 - **Spirit** — Willful, passionate, determined
 
-Your highest Approach (3) is your primary method. Your 0s represent weaknesses or untrained areas.
+Your highest Approach (3) is your primary method. Your 0 represents a weakness or untrained area.
 
 ### Step 3: Traits
 
-Choose **3-5 Traits** that define your character. Traits are evocative narrative descriptors that grant Special Effects when relevant.
+Choose **3 Traits** that define your character. Traits are evocative narrative descriptors that grant Special Effects when relevant.
 
 **Examples:**
 - "Cavalier Primary of House Erebus"
@@ -60,7 +60,7 @@ Choose **3-5 Traits** that define your character. Traits are evocative narrative
 
 ### Step 4: Talents
 
-Choose **3 starting Talents**. Talents are discrete mechanical abilities that modify how the base rules work.
+Choose your **Calling** (see Chapter 9: Callings), which grants you a **Core Talent**. Then choose **1 secondary Talent**. Talents are discrete mechanical abilities that modify how the base rules work.
 
 See **Talents** section below for types and examples.
 
@@ -302,29 +302,19 @@ Talents are the **primary customization layer** and a main reward of advancement
 
 ## Advancement
 
-Characters advance through play, gaining:
-- **Increased Approach ratings** (3 → 4 → 5 over campaign)
-- **New Talents** (gain 1-2 per major story arc)
-- **Increased resilience** (some Talents grant +Stress or +Momentum cap)
+Characters advance through play, gaining increased Approaches, new Talents, additional Traits, and rising in Rank.
 
-**Approach Advancement:**
-- Start: 3/2/1/0/0
-- Early Game: Increase one Approach by 1 (e.g., 4/2/1/0/0)
-- Mid Game: Increase another Approach or the same (e.g., 4/3/1/0/0 or 5/2/1/0/0)
-- Late Game: Multiple high Approaches (e.g., 5/4/2/1/0)
+**See the dedicated Advancement chapter for:**
+- Complete level-by-level progression (Levels 1-10)
+- Rank system (narrative scope and power scaling)
+- What you can do at each Rank (examples for each Action)
+- Talent retraining rules
+- When to award levels
 
-**Talent Advancement:**
-- Start: 3 Talents
-- After major arc: +1 Talent
-- Heroic tier: 5-7 Talents total
-- Legendary tier: 8-10 Talents total
-
-**When to advance:**
-- After major story arc completes
-- After significant character moment or revelation
-- When fiction justifies growth (training montage, mentor teaches new technique, magical awakening)
-
-**GM discretion:** Pace advancement to match campaign length and power curve desired.
+**Quick Summary:**
+- **Starting (Level 1):** 3/2/1/1/0 Approaches, 2 Talents (Core + 1 secondary), 3 Traits, Rank 1
+- **Mid-Campaign (Level 4):** 4/3/2/1/0 Approaches, 4 Talents, 3 Traits, Rank 2 (Regional Legends)
+- **End-Game (Level 10):** 5/4/3/2/0 Approaches, 7 Talents, 5 Traits, Rank 3 (Mythic Heroes)
 
 ---
 
@@ -332,9 +322,9 @@ Characters advance through play, gaining:
 
 **Character Creation Checklist:**
 1. Concept (1-2 sentences)
-2. Approaches (3/2/1/0/0)
-3. Traits (3-5 evocative descriptors)
-4. Talents (3 starting abilities)
+2. Approaches (3/2/1/1/0)
+3. Traits (3 evocative descriptors)
+4. Calling (Core Talent + 1 secondary Talent)
 5. Resilience (5 Stress boxes, 2 Momentum cap)
 6. Details (name, appearance, connections, goals)
 

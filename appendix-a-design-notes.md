@@ -212,6 +212,138 @@ This creates **persistence** (hard to shake off when repeatedly applied) without
 
 ---
 
+## Expertise Edge Cases
+
+This section covers advanced Expertise interactions and edge cases. For core rules, see **Chapter 3: Characters**.
+
+### Expertise + Deadly Trait Interaction
+
+**Scenario:** Character with Expertise attacks an enemy with Deadly trait (increases Consequence tier by 1).
+
+**Resolution Order:**
+1. Roll dice → determine raw outcome
+2. Apply Complications → reduce outcome tier
+3. Apply Expertise → Setback outcome becomes Conflict outcome (you succeed!)
+4. Map to base Consequence tier → Conflict = Minor Consequence
+5. Apply Deadly → Minor → Major Consequence
+6. Resolve → Mark progress + suffer Major Consequence (2 Stress)
+
+**Example:**
+
+> Kael (Expertise: Heavy Blades) attacks Deadly Troll (2 Complications, Deadly trait)
+> - Rolls Success → Conflict → Setback (after 2 Complications)
+> - **Expertise:** Setback outcome → Conflict outcome
+> - Base Consequence: Conflict = Minor
+> - **Deadly:** Minor → Major Consequence
+> - **Final Result:** Marks 1 tick on Harm track + 2 Stress
+>
+> Expertise ensured he made progress (didn't fail completely), but the Deadly trait made success more expensive.
+
+**Key Insight:** Expertise converts failure to success (mechanical outcome), but Deadly increases the cost of that success (Consequence tier). Both work together — you succeed but pay more for it.
+
+---
+
+### Expertise + Multiple Complications
+
+**Scenario:** Character with Expertise faces enemy with 3+ Complications.
+
+**Edge Case: Disaster Cannot Be Saved**
+
+> Kael (Expertise: Heavy Blades) attacks enemy with 3 Complications
+> - Rolls Success → Conflict → Setback → Disaster (after 3 Complications)
+> - **Expertise does NOT trigger** (final outcome is Disaster, not Setback)
+> - **Result:** Disaster (Severe Consequence) — no progress, catastrophic failure
+>
+> Expertise only converts Setback to Conflict. It does not protect against Disaster outcomes.
+
+**Design Rationale:** Expertise represents mastery, not immunity. Against overwhelming odds (3+ Complications), even experts can fail catastrophically. This maintains tension and prevents Expertise from trivializing high-Complication encounters.
+
+**GM Guidance:** 3+ Complications should be rare and signal genuinely dangerous foes. Against such enemies, players need better positioning, Momentum for Potency, or teamwork — not just Expertise.
+
+---
+
+### Expertise at Zero Dice
+
+**Scenario:** Character with Expertise is reduced to 0 dice (roll 2d6, take lowest).
+
+**Probability Analysis:**
+- 0 dice → ~75% chance of rolling Setback (1-3 on the die)
+- Expertise converts most Setbacks → Conflict outcomes
+- **Result:** Specialist remains functional even when severely disadvantaged
+
+**Example:**
+
+> Kael (Expertise: Heavy Blades) has 3 Conditions (3 Banes, capped at -2d) plus 1 Bane from environment = net -2d. His pool is reduced from 3d to 0d.
+> - Rolls 2d6, takes lowest → likely Setback (1-3)
+> - **Expertise:** Setback → Conflict outcome
+> - **Result:** Marks 1 tick + Minor Consequence (1 Stress)
+>
+> Without Expertise, this would be a complete failure (Setback = no progress + 2 Stress).
+
+**Design Rationale:** This is intentional. Your mastery lets you scrape together partial success where others would fail completely. It creates a meaningful power fantasy for specialists — they shine when conditions are terrible.
+
+---
+
+### Expertise Narrative Application
+
+**When Expertise Applies:**
+
+Expertise applies when your action is narratively connected to your area of Expertise. The connection must be direct and meaningful.
+
+**Valid Applications:**
+- **Heavy Blades Expert** assessing weapons quality (Know) → Yes, swordcraft knowledge applies
+- **Heavy Blades Expert** recalling famous dueling techniques (Know) → Yes, your expertise includes historical knowledge
+- **Stealth Expert** moving silently through a crowd (Defy) → Yes, core skill
+- **Stealth Expert** lying about whereabouts (Talk) → Yes, deception is part of skulking tradecraft
+
+**Invalid Applications:**
+- **Heavy Blades Expert** negotiating trade agreements (Talk) → No, unless swords are directly relevant to the negotiation
+- **Stealth Expert** recalling ancient history (Know) → No, unless the history involves legendary thieves or infiltrations
+- **Nature Expert** picking a mechanical lock (Defy) → No, lock mechanisms aren't natural systems
+
+**Gray Areas (GM Discretion):**
+- **Heavy Blades Expert** intimidating with a sword drawn (Talk + Clash hybrid) → Probably yes, the blade is central to the threat
+- **Stealth Expert** reading someone's body language to detect lies (Sense) → Maybe, depends on whether "reading people" is part of your skulking training
+
+**Golden Rule:** If the player can explain a plausible fictional connection between their Expertise and the action, allow it. Err toward permissiveness — Expertise should feel valuable, not pedantically restricted.
+
+---
+
+### Expertise Domain Scope
+
+**Expertise domains must be narrow and specific.** Typically 3-4 related concepts maximum.
+
+**Good Expertise Domains:**
+- **Heavy Blades** (swords, greatswords, axes — melee weapons with heft)
+- **Stealth, Thievery, Deception** (shadow tradecraft bundle)
+- **Arcane Lore** (magical theory, spellcraft, identifying enchantments)
+- **Tracking, Survival, Beast Lore** (wilderness skills bundle)
+
+**Too Broad (Not Valid):**
+- **All Combat** — covers every Clash/Defy in fights (too universal)
+- **All Social Actions** — covers every Talk (too universal)
+- **All Magic** — covers every spellcasting tradition (too broad)
+
+**Too Narrow (Not Interesting):**
+- **Longswords Only** — subset of Heavy Blades, not enough breadth
+- **Lying to Nobles** — subset of Deception, not enough breadth
+
+**Design Rationale:** Expertise should apply frequently (30-50% of relevant rolls) but not universally (90%+). Narrow enough to feel specialized, broad enough to matter.
+
+---
+
+### Expertise + Triumph
+
+**Does Expertise apply to Triumph?**
+
+No, Expertise only triggers on Setback outcomes. Triumph is already the best possible outcome — Expertise does nothing.
+
+**Resolution:**
+- Roll Triumph → Ignore all Complications → Gain 1 Momentum → May invoke Trait
+- Expertise is not checked (no Setback to convert)
+
+---
+
 ## Why Allow Multiple Different Conditions Simultaneously?
 
 ### Narrative Realism

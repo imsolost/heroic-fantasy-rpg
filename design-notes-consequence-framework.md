@@ -1,6 +1,14 @@
 # Design Note: Universal Consequence Framework
 
-**Status:** Proposed for system-wide implementation
+**Status:** ✅ IMPLEMENTED — This document is now historical reference only
+
+**The Consequence Framework has been fully implemented across all chapters.**
+
+For the canonical, current version of the Resolution Order Algorithm, see:
+- **Chapter 4: Action Resolution** (full algorithm with examples)
+- **GM Cheat Sheet** (compressed quick reference)
+
+This document remains as historical context for how the framework was designed and the reasoning behind it.
 
 ---
 

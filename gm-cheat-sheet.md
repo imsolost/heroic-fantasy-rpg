@@ -40,18 +40,15 @@ Quick reference for running the game. For complete rules, see the full chapters.
 
 ---
 
-## Resolution Order Algorithm
+## Resolution Order Algorithm (Quick Reference)
 
-When Complications, Expertise, or modifying traits (Deadly, Armor, etc.) are involved:
+**For complete algorithm with examples, see Chapter 4: Action Resolution**
 
-1. **Roll dice** → Determine raw outcome (Setback/Conflict/Success/Triumph)
-2. **Apply Complications** → Each reduces outcome by 1 tier (Success → Conflict → Setback → Disaster)
-3. **Apply Expertise** → If final outcome is Setback, convert to Conflict outcome (does NOT protect against Disaster)
-4. **Map to base Consequence tier** → Conflict = Minor, Setback = Major, Disaster = Severe
-5. **Apply trait modifiers** → Deadly increases tier by 1, Armor reduces tier by 1
-6. **Resolve final Consequence** → Make Impact Move based on final tier
+When Complications, Expertise, or modifying traits are involved:
 
-**Key:** Triumph ignores all Complications (cannot be reduced)
+1. Roll dice → 2. Apply Complications → 3. Apply Expertise → 4. Map to Consequence tier → 5. Apply trait modifiers → 6. Resolve
+
+**Key:** Triumph ignores all Complications | Expertise converts Setback→Conflict (not Disaster) | Deadly increases tier by 1
 
 ---
 

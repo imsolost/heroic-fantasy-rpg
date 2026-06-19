@@ -503,3 +503,102 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Burden from Boss | "Boss curses you — Cursed 2 (Burden). Requires narrative resolution (quest/magic)" |
 | Same-name Burden | "Already Wounded 2 (Burden), take Wounded again → refreshes to higher tier (keeps Wounded 2)" |
 | Burden Recovery | "Long rest: Wounded 3 → Wounded 2. OR special recovery clears/reduces as specified" |
+
+---
+
+## Extended Combat Example: The Courtyard Ambush
+
+This extended example demonstrates a complete combat encounter, showing how multiple PCs coordinate, how Traits and Momentum interact, and how consequences create dramatic tension.
+
+**Setup:** The party has cornered an Orc Warboss (Tier 4, 8-tick Harm track, Heavily Armored trait) and his last remaining mook (Tier 1, 2-ticks, at 1/2 already) in a courtyard. Reinforcements are approaching from the canyon trail below.
+
+**Party:** Kael (Champion), Ryn (Scout), Mira (Rogue)
+
+---
+
+**Kael:** "I seize the moment while he's turned away! I drive my blade straight between his shoulder blades. Clash with Daring, and I'll invoke my **Veteran of the Iron Wars** Trait since this is a textbook battlefield flank."
+
+**Kael rolls 4d6 (Approach 3 + 1 Edge for the flank) → highest is a 6 (Success)**
+
+**GM:** "A clean hit! Your sword drives deep into his back, bypassing his armor entirely because of the positioning—no Complication from his Heavily Armored trait. You mark 1 tick base for the Success. Since you rolled Success and your Trait is narratively relevant, you can invoke it for a Special Effect. What do you choose?"
+
+**Kael:** "I'll choose **Greater Effect** to maximize the damage and finish this quickly!"
+
+**GM:** "Outstanding. Greater Effect bumps your output to 2 ticks. That brings the Warboss to 6/8 ticks total. He staggers forward, coughing up blood, but he isn't down yet. He wheels around wildly, swinging his axes in a blind, desperate frenzy (**Flailing Axes: 1 Complication on Defy**). Kael and Ryn, you're both in Close range—Defy his desperate counter-offensive!"
+
+**Ryn:** "I'm staying nimble. Defy with Grace!"
+
+**Ryn rolls 3d6 → highest is a 4 (Conflict)**
+
+**GM:** "You duck under the first swing, but the backswing forces you to tumble backward out of the zone into Near range. You avoid the damage, but it's a Minor Consequence: you lose your close positioning and you're now cut off from Kael. Kael, what about you?"
+
+**Kael:** "I'll spend my 1 Momentum to **Act with Potency**—locking eyes with him and using my shield to absorb the blow. Defy with Daring!"
+
+**GM:** "Act with Potency gives you +1 Edge and ignores his Flailing Axes Complication. Roll!"
+
+**Kael rolls 4d6 (Approach 3 + 1 Edge from Potency) → double 6s (Triumph)**
+
+**GM:** "Incredible! Your shield catches the full brunt of his desperate assault. The Triumph means you ignore any complications, gain 1 Momentum back, and can invoke a Trait for free. Do you want to use **Veteran of the Iron Wars** again?"
+
+**Kael:** "Yes! I'll choose **Secondary Effect: Take Something**. I want to lock his axes down with my shield and wrest one of them completely out of his grip."
+
+**GM:** "Done! You slam your shield forward, catching his right axe in the metal rim, twisting violently, and sending the weapon flying across the courtyard. He's now disarmed of one weapon, heavily bleeding, and completely off-balance. Mira, you still have one unnerved orc mook in Close range with you—he's at 1/2 ticks from earlier. What are you doing?"
+
+**Mira:** "He's terrified after seeing his boss get dismantled. I'm pressing the advantage and striking him down. Clash with Grace."
+
+**Mira rolls 3d6 → highest is a 5 (Conflict)**
+
+**GM:** "You lunge forward and drive your short sword home, marking 1 tick—that fills his 2-tick track, he drops. However, it's a Conflict, so there's a Minor Consequence: as he falls, he lets out a dying yell that echoes down the canyon. The horns in the distance answer immediately, sounding much closer now. Ryn, the Warboss is staggering at 6/8 ticks, down to one axe, and cornered by Kael. What do you do?"
+
+**Ryn:** "I'll dart back into Close range from his blind side and slip my dagger right under his jaw to finish it. Clash with Cunning!"
+
+**Ryn rolls 3d6 → highest is a 6 (Success)**
+
+**Ryn:** "I'll invoke my **Silent Stalker** Trait for **Greater Effect** to ensure the kill!"
+
+**GM:** "Perfect. Mark 2 ticks—that brings him to 8/8, track filled. Your dagger finds its mark perfectly. The Warboss gasps, drops his remaining axe, and crashes to the stone floor—completely defeated. The courtyard falls silent, save for the heavy breathing of the party and the ominous sound of marching boots drawing closer from the trail outside. Combat is over, but a new phase begins. What do you do?"
+
+---
+
+### What This Example Demonstrates
+
+**Trait Usage:**
+- Kael invokes **Veteran of the Iron Wars** twice (Greater Effect, then Secondary Effect)
+- Ryn invokes **Silent Stalker** for Greater Effect on the finishing blow
+- All invocations come AFTER rolling, with narrative justification
+
+**Momentum Economy:**
+- Kael spends 1 Momentum → Act with Potency
+- Triumph returns 1 Momentum
+- Shows resource circulation in tactical play
+
+**Act with Potency Benefits:**
+- +1 Edge (4d6 instead of 3d6)
+- Ignores 1 Complication (Flailing Axes)
+- Narrative permission for bold defensive stand
+
+**Triumph Mechanics:**
+- Ignores all Complications
+- Gains 1 Momentum
+- May invoke Trait for Special Effect (free)
+
+**Special Effects in Action:**
+- Greater Effect (2 ticks instead of 1)
+- Secondary Effect: Take Something (disarm)
+- Both flow naturally from fiction
+
+**Consequences Create Drama:**
+- Minor Consequence on Ryn: loses positioning (soft Impact Move)
+- Minor Consequence on Mira: dying yell alerts reinforcements (soft Impact Move, advances situation)
+- Consequences don't stop success, but add complication
+
+**Track Progression:**
+- Warboss: 0 → 2 (Greater Effect) → 6 (after enemy action) → 8 (Greater Effect finish)
+- Mook: 1/2 → 2/2 (one hit, track filled)
+- Shows both quick (minion) and extended (boss) fights
+
+**Tactical Coordination:**
+- Kael flanks for positioning advantage (Edge)
+- Ryn repositions after being pushed back
+- Mira clears minion while others engage boss
+- Multiple PCs working together, not solo spotlight

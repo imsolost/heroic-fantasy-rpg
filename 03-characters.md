@@ -34,29 +34,95 @@ Your highest Approach (3) is your primary method. Your 0 represents a weakness o
 
 Choose **3 Traits** that define your character. Traits are evocative narrative descriptors that grant Special Effects when relevant.
 
-**Examples:**
-- "Cavalier Primary of House Erebus"
-- "Raised by wolves in the Ashen Wood"
-- "Silver Tongue"
-- "Veteran of the Iron Wars"
-- "Shadowborn"
-- "Bladedancer"
-- "Scholar of Forbidden Lore"
+**Trait Framework (Inspiration):**
 
-**Trait Breadth:** Traits should be broad enough to apply frequently but not so broad they apply to everything.
+One way to ensure variety and depth is to choose:
+- **One Origin Trait** — Where you're from, what you are, your heritage
+- **One Profession Trait** — What you do, your training, your role
+- **One Personal Trait** — Who you are, your personality, your style
+
+This framework isn't mandatory — use it as inspiration to create a well-rounded character.
+
+---
+
+**Example Characters:**
+
+**Conan**
+- **Origin:** Cimmerian Barbarian
+- **Profession:** Veteran Raider  
+- **Personal:** Unbreakable Survivor
+
+**Indiana Jones**
+- **Origin:** Fast-Talking Academic
+- **Profession:** Archaeologist
+- **Personal:** Daring Adventurer
+
+**Aragorn**
+- **Origin:** Heir of Isildur
+- **Profession:** Ranger of the North
+- **Personal:** Seasoned Leader
+
+**Arys**
+- **Origin:** Fey-Blooded Bastard
+- **Profession:** Glamour-Weaver
+- **Personal:** Irrepressible Trickster
+
+---
+
+**Trait Inspiration Lists:**
+
+**Origins** (heritage, upbringing, background):
+- Noble of House [Name], Street Urchin of [City], Exiled Prince, Village Elder's Apprentice
+- Cimmerian Barbarian, Elven Outcast, Half-Dragon, Touched by the Fey, Shadowborn
+- Raised by Wolves, Survivor of [Disaster], Orphan of the Iron Wars, Desert Nomad
+- Soldier's Child, Merchant Family, Temple-Raised, Circus Born
+
+**Professions** (what you do, training, skills):
+- Bladedancer, Ranger, Knight, Sellsword, Assassin, Bodyguard
+- Scholar of Forbidden Lore, Archaeologist, Royal Physician, Field Medic
+- Thief, Con Artist, Spy, Bounty Hunter, Smuggler
+- Blacksmith, Merchant, Ship Captain, Cartographer, Navigator
+- Priest, Mystic, Witch, Ritualist, Demon Circus Acrobat
+- Beast Tamer, Monster Hunter, Wilderness Guide, Tracker
+
+**Personal** (personality, style, defining traits):
+- Silver Tongue, Unbreakable Survivor, Lone Wolf, Loyal to a Fault
+- Daring Adventurer, Cautious Planner, Reckless Fool, Calculated Risk-Taker
+- Irrepressible Trickster, Grim Pragmatist, Optimistic Fool, Cynical Veteran
+- Intimidating Presence, Charming Rogue, Friend to All, Feared Reputation
+- Battle-Hardened, Young and Naive, World-Weary, First Time Adventurer
+- Observant, Bookworm, Prankster, Stubborn to a Fault
+
+---
+
+**Be Specific and Evocative:**
+
+Instead of generic, make it memorable:
+- ✓ "Demon Circus Acrobat" instead of ✗ "Acrobat"
+- ✓ "Shadow of the Thieves Guild" instead of ✗ "Thief"
+- ✓ "Veteran of the Iron Wars" instead of ✗ "Soldier"
+- ✓ "Raised by Wolves in the Ashen Wood" instead of ✗ "Raised by Wolves"
+
+**Add specific detail** that grounds the Trait in your world and gives it flavor.
+
+---
+
+**Trait Breadth:**
+
+Traits should be **broad enough to apply frequently** but **not so broad they apply to everything**.
 
 **Good Traits:**
-- "Bladedancer" — applies to melee combat with blades
-- "Shadow of the Thieves Guild" — applies to stealth, criminal contacts, lockpicking, deception
-- "Veteran of the Iron Wars" — applies to combat, military knowledge, dealing with soldiers
+- "Bladedancer" — applies to melee combat with blades, knowledge of sword schools, dueling culture
+- "Shadow of the Thieves Guild" — applies to stealth, criminal contacts, lockpicking, deception, underworld knowledge
+- "Veteran of the Iron Wars" — applies to combat, military tactics, dealing with soldiers, recognizing battle formations
 
 **Too Broad:**
-- "Competent" — applies to everything (not interesting)
-- "Lucky" — could justify any situation (no fictional grounding)
+- "Competent" — applies to everything (not interesting, no fictional grounding)
+- "Lucky" — could justify any situation (no narrative weight)
 
 **Too Narrow:**
-- "Longsword Expert vs Knights" — only one very specific situation
-- "Knows Fire Elemental Weaknesses" — one-use knowledge
+- "Longsword Expert vs Knights" — only applies in one very specific situation
+- "Knows Fire Elemental Weaknesses" — one-use knowledge, not reusable
 
 ### Step 4: Talents
 
@@ -323,7 +389,7 @@ Characters advance through play, gaining increased Approaches, new Talents, addi
 **Character Creation Checklist:**
 1. Concept (1-2 sentences)
 2. Approaches (3/2/1/1/0)
-3. Traits (3 evocative descriptors)
+3. Traits (3 evocative descriptors: Origin, Profession, Personal)
 4. Calling (Core Talent + 1 secondary Talent)
 5. Resilience (5 Stress boxes, 2 Momentum cap)
 6. Details (name, appearance, connections, goals)

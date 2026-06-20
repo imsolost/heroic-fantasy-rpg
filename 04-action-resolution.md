@@ -267,7 +267,7 @@ Significant enemies, obstacles, and hazards should have 2-3 specific moves the G
 
 ## Resolution Order Algorithm
 
-When resolving an Action Roll with Complications, modifying traits (Deadly, Armor, etc.), and Expertise, follow this order of operations:
+When resolving an Action Roll with Complications and Expertise, follow this order of operations:
 
 ### Step-by-Step Order
 
@@ -299,18 +299,17 @@ Bladedancer (Expertise: Heavy Blades) attacks Armored Knight (2 Complications)
 
 ---
 
-**Example 2: Expertise + 2 Complications + Deadly Trait**
+**Example 2: Expertise + 3 Complications (Including Deadly)**
 
-Bladedancer (Expertise: Heavy Blades) attacks Deadly Troll (2 Complications, Deadly trait)
+Bladedancer (Expertise: Heavy Blades) attacks War Troll (Tough Hide [Physical Defense], Regeneration [Physical Defense], Deadly [Universal])
 
 - **Roll:** Success
-- **After Complications:** Success → Conflict → Setback
-- **Apply Expertise:** Setback outcome → Conflict outcome (you succeed!)
-- **Base Consequence:** Conflict = Minor Consequence
-- **Apply Deadly:** Minor → Major Consequence
-- **Final Result:** Mark 1 tick on Harm track + Major Consequence (mark 2 Stress)
+- **Check Complications:** All 3 apply (Physical attack vs Physical Defense + Universal)
+- **After Complications:** Success → Conflict → Setback → Disaster
+- **Apply Expertise:** Does NOT trigger (final outcome is Disaster, not Setback)
+- **Result:** Disaster (Severe Consequence) — no progress, catastrophic failure
 
-*Expertise ensures you make progress, but Deadly makes success more expensive.*
+*Even with Expertise, 3 Complications create overwhelming danger. You need Triumph, Act with Potency, or exploiting weaknesses to overcome this enemy.*
 
 ---
 
@@ -340,10 +339,9 @@ Any character attacks enemy with 3 Complications
 ### Key Principles
 
 - **Expertise converts failure to success** (Setback → Conflict outcome)
-- **Deadly increases the cost of success** (Minor → Major Consequence)
-- **Expertise + Deadly = succeed but pay more** (mark progress + higher Stress)
-- **Disaster is always disaster** (Expertise doesn't protect against catastrophic failure)
-- **Triumph is always triumph** (Complications don't reduce it)
+- **Expertise does NOT protect against Disaster** (3+ Complications can overwhelm even Experts)
+- **Tagged Complications are selective** (check tags to see which apply)
+- **Triumph is always triumph** (ignores ALL Complications, cannot be reduced)
 
 ---
 

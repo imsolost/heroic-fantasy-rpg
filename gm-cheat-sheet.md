@@ -118,7 +118,7 @@ When Complications and Expertise are involved:
 
 **What It Doesn't Protect Against:**
 - Disaster outcomes (Expertise only converts Setback → Conflict, not Disaster)
-- Increased Consequence severity (traits like Deadly can still increase Consequence tier)
+- Increased Consequence severity (Universal Complications like Deadly can still increase Consequence tier)
 
 **Example:**
 > Expert swordfighter attacks Armored Knight (2 Complications)
@@ -177,7 +177,7 @@ When Complications and Expertise are involved:
 
 ## Challenge Traits
 
-**Deadly:** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
+**Deadly (Universal Complication):** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
 
 **Armored / Heavily Armored:** Adds 1-2 Complications vs physical attacks
 

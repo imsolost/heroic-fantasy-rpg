@@ -162,7 +162,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **If Setback:** Cannot invoke Trait (you failed)
 
-**If Triumph:** You gain Momentum + ignore Complications
+**If Triumph:** Triumph NATURALLY grants Momentum + ignores all Complications (base engine benefit, not from Trait). You MAY THEN invoke a Trait for one Special Effect (Greater Effect, Secondary Effect, or Build Momentum)
 
 ### Trait Rules
 
@@ -278,13 +278,13 @@ When you make an Action Roll within your **area of Expertise**, if your **final 
 
 - You succeed at your action (mark progress, gain information, overcome obstacles)
 - You still suffer consequences based on the Conflict outcome
-- The Consequence tier is then determined based on the Conflict outcome and any modifying traits (like Deadly)
+- The Consequence tier is Minor (based on Conflict outcome)
 - This conversion happens AFTER all Complications are resolved
 
 **What Expertise Does NOT Protect Against:**
 
 - **Disaster outcomes:** If Complications reduce your outcome to Disaster, Expertise does not trigger. Catastrophic failures remain catastrophic.
-- **Increased Consequence severity:** Expertise changes whether you succeed or fail, but traits like Deadly can still increase how much your success costs.
+- **Increased Consequence severity:** Expertise changes whether you succeed or fail, but Universal Complications like Deadly can still increase how much your success costs.
 
 **Simple Example:**
 
@@ -299,7 +299,7 @@ When you make an Action Roll within your **area of Expertise**, if your **final 
 
 **Design Note:** Expertise domains must be narrow and specific (typically 3-4 related concepts). Broad domains like "all combat" or "all social actions" are not valid Expertise areas.
 
-For detailed edge cases (Expertise + Deadly traits, Expertise at 0 dice, etc.), see **Appendix A: Design Notes**.
+For detailed edge cases (Expertise at 0 dice, Expertise vs multiple Complications, etc.), see **Appendix A: Design Notes**.
 
 ---
 
@@ -320,8 +320,8 @@ Ongoing benefits or modifications.
 
 **Examples:**
 - "Iron Will" — You have +1 Stress box (6 total instead of 5)
-- "Relentless" — Raise your Momentum cap from 2 to 3
 - "Battle Awareness" — You cannot be surprised in combat
+- "Polyglot" — You can speak and read all common languages
 
 ---
 

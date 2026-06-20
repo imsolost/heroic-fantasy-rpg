@@ -78,12 +78,12 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 
 **Pick 1-2 signature moves:**
 
-**Offensive Moves:**
+**Offensive Moves (Special Moves):**
 - **Strike:** Deal harm (mark Stress based on Consequence tier)
-- **Brutal Strike:** Apply the Deadly trait's effect for this attack (increase Consequence tier by 1)
-- **Area Attack:** Target multiple PCs simultaneously
+- **Devastating Strike [□□]:** Increase Consequence tier by 1 for this attack (Minor → Major, Major → Severe). Limited uses per encounter.
+- **Area Attack [□]:** Target multiple PCs simultaneously (e.g., "All in Near range mark 1 Stress + Burned 1")
 - **Grab/Grapple:** Inflict Condition (Grappled, Restrained)
-- **Special Attack:** Poison, fire breath, lightning bolt (inflict Condition)
+- **Elemental Attack [□□]:** Fire breath, lightning bolt, acid spray (inflict Stress + Condition)
 
 **Defensive Moves:**
 - **Counterattack:** When PC rolls Setback, enemy strikes back

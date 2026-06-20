@@ -290,14 +290,13 @@ Use this to translate overwhelming physical dominance into psychological collaps
 - **Boss:** 8-10 ticks (4-5 Successes)
 
 **Impact Moves:**
-- **Soft (Conflict):** Mark 1 Stress
-- **Hard (Setback):** Mark 2 Stress
+- **Soft (Minor Consequence):** Mark 1 Stress
+- **Hard (Major Consequence):** Mark 2 Stress
 
-**Modifiers (Challenge Traits):**
-- **"Deadly":** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
-- **"Elite":** Minor Consequences deal +1 Stress (2 total instead of 1)
-- **"Weak":** All Consequences deal -1 Stress (minimum 1)
-- **"Pathetic":** Can only trigger Minor Consequences (max 1 Stress)
+**Consequence Modifiers (Universal Complications):**
+- **Deadly (Universal):** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
+- **Weak (Universal):** Reduces Consequence tier by 1 (Major → Minor, cannot reduce below Minor)
+- **Pathetic (Universal):** Can only trigger Minor Consequences (max 1 Stress)
 
 **Roles (Behavior):**
 - **Brute:** High damage, charges in

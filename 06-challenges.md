@@ -702,8 +702,6 @@ Challenge Traits apply to Will-based actions just as they do to Harm-based actio
 
 The **Obstacle track** represents barriers, puzzles, wards, and other inanimate challenges that must be bypassed, unlocked, or solved.
 
-*Note: "Challenge track" is an alternate name if you prefer consistency with "Challenges" terminology. Both work.*
-
 ### Marking Obstacle
 
 **Defy (overcoming obstacles):** Climbing walls, picking locks, disabling traps, sneaking past guards, solving puzzles, deciphering runes, dispelling wards — these mark Obstacle.
@@ -814,10 +812,10 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 ### Tier 2 Armored Knight
 - **Tier:** 2
 - **Tracks:** Harm 4, Will 4
-- **Traits:** "Heavily Armored" (Defensive), "Disciplined"
-  - Physical attacks face 1 Complication (Success → Conflict)
-  - Social attacks face 1 Complication (trained to resist taunts)
-  - Impact Moves: base values (Soft = 1, Hard = 2)
+- **Complications:**
+  - Full Plate (Physical Defense)
+  - Disciplined (Mental Defense)
+- **Special Moves:** None (standard opponent)
 
 **Tactics:** Advance steadily, shield bash to create openings
 
@@ -834,12 +832,14 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 ### Tier 3 War Troll
 - **Tier:** 3
 - **Tracks:** Harm 6, Will 10 (nearly unbreakable resolve)
-- **Traits:** "Tough Hide" (Defensive), "Regeneration" (Defensive), "Deadly" (Impact Move Modifier), "Fearless"
-  - Physical attacks face 2 Complications (Success → Setback unless both negated)
-  - Social attacks face 3 Complications (immune to fear/intimidation in practice)
-  - Impact Moves: +1 Stress (Soft = 2, Hard = 3)
-- **Weakness:** "Weak to Fire"
-  - Fire attacks grant 1 Edge or negate 1 Complication
+- **Complications:**
+  - Tough Hide (Physical Defense)
+  - Regeneration (Physical Defense)
+  - Deadly (Universal) — When War Troll deals consequences, increase tier by 1 (Minor → Major, Major → Severe)
+  - Fearless (Mental Defense)
+- **Special Moves:**
+  - Brutal Swing [□□] — Target marks 2 Stress + Stunned 1 (Close range, 2 uses per encounter)
+- **Weakness:** Fire (Fire attacks grant 1 Edge or negate 1 Complication)
 
 **Tactics:** Aggressive, brutal, relentless — won't flee or surrender
 
@@ -899,8 +899,9 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 ### Tier 2 Ancient Vault Door
 - **Tier:** 2
 - **Tracks:** Obstacle 6
-- **Traits:** "Sealed" (Defensive), "Warded" (Defensive)
-  - Bypass attempts face 2 Complications
+- **Complications:**
+  - Reinforced Steel (Physical Defense)
+  - Arcane Wards (Magical Defense)
 
 **How PCs deal with it:**
 - Find the key (bypasses entirely, narrative solution)
@@ -915,11 +916,10 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 ### Tier 2 Suspicious Noble
 - **Tier:** 2 (social opposition)
 - **Tracks:** Will 6 (strong-willed, resistant to manipulation)
-- **Traits:** "Suspicious," "Well-Informed"
-  - Deception attempts face 2 Complications
-  - Knows local rumors and politics
-- **Exploitable:** "Arrogant"
-  - Flattery grants 1 Edge
+- **Complications:**
+  - Suspicious (Mental Defense)
+  - Well-Informed (Mental Defense) — Knows local rumors and politics
+- **Exploitable:** Arrogant (Flattery grants 1 Edge)
 
 **Tactics:** Ask probing questions, demand proof
 
@@ -1007,25 +1007,24 @@ Boss encounters should require **team coordination** and **multiple rounds**.
   - **Harm:** Physical destruction (very durable undead body)
   - **Will:** Breaking its grip on this plane (strong but possible with holy/divine persuasion)
   - **Obstacle:** Finding and destroying phylactery (hidden, warded)
-- **Traits:** "Warded" (Defensive), "Undead" (Defensive), "Arcane Mastery" (Defensive)
-  - Physical attacks face 1 Complication ("Undead" — resistant to mundane harm)
-  - Holy/divine attacks negate "Undead" Complication
-  - Magical attacks face 1 Complication ("Warded")
-  - Bypassing lair defenses faces 1 Complication ("Arcane Mastery")
-- **Exploitable:** "Phylactery" (destroying it via Obstacle track removes "Undead" trait entirely)
-- **Consequence Moves:**
-  - "Deathly Aura" — All PCs mark 1 Stress per round (environmental hazard)
-  - "Raise Dead" — Summon minions as Soft Impact Move
-  - "Soul Drain" — Hard Impact Move inflicts Exhausted 2 (Burden)
+- **Complications:**
+  - Undead Resilience (Physical Defense) — Resists mundane harm; holy/divine attacks negate this Complication
+  - Arcane Ward (Magical Defense)
+  - Lair Defenses (Universal) — Applies to bypassing lair traps and obstacles
+- **Exploitable:** Phylactery (destroying it via Obstacle track removes Undead Resilience Complication entirely)
+- **Special Moves:**
+  - Deathly Aura (Passive) — All PCs mark 1 Stress at start of each round
+  - Raise Dead [□□□] — Summon 2-tick minion in Near range (3 uses)
+  - Soul Drain [□□] — Target marks 2 Stress + Exhausted 2 (Burden) (2 uses)
 
 **How PCs defeat it:**
 
-1. **Direct combat (Harm 10):** Long, brutal fight — requires holy weapons to bypass "Undead," teamwork to overcome "Warded"
+1. **Direct combat (Harm 10):** Long, brutal fight — requires holy weapons to bypass Undead Resilience, teamwork to overcome Arcane Ward
 2. **Banishment ritual (Will 8):** Divine/holy ritual to sever its connection to this plane — social Clash using faith/divine authority
 3. **Destroy phylactery (Obstacle 6):** Find hidden phylactery, bypass wards, destroy it → removes "Undead" trait, makes Harm approach viable
 4. **Mixed approach (optimal):** Split party — some distract Lich (mark Harm/Will), others find phylactery (mark Obstacle) → once destroyed, coordinated assault finishes it
 
-**Design Note:** Multiple tracks create **strategic depth** — players must choose which victory condition to pursue, or split resources. Destroying phylactery (Obstacle) makes other approaches easier (removes Complication).
+**Design Note:** Multiple tracks create **strategic depth** — players must choose which victory condition to pursue, or split resources. Destroying phylactery (Obstacle) makes other approaches easier (removes Undead Resilience Complication).
 
 ---
 
@@ -1105,24 +1104,26 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - Triumph ignores all Complications
 - Negate with: Act with Potency (1 Momentum), Talents, Build Momentum teamwork
 
-**Challenge Traits:**
-- **Defensive:** Impose 1 Complication (e.g., "Heavily Armored," "Suspicious," "Warded")
+**Common Challenge Elements:**
+- **Complications:** Defensive traits with tags (Physical Defense, Magical Defense, Mental Defense, Universal, etc.)
 - **Exploitable:** Grant 1 Edge when exploited (e.g., "Arrogant," "Weak to Fire," "Slow")
-- **Contextual:** Only apply in specific situations (e.g., "Master Duelist" only in melee)
+- **Special Moves:** Active abilities used as Impact Moves with limited uses [□□]
 
 ---
 
 ### Challenge Design
 
-**Design Matrix:**
-- **0 Traits:** Trivial to standard opposition
-- **1 Trait:** Competent to dangerous opposition
-- **2 Traits:** Elite opposition (requires teamwork)
-- **3+ Traits:** Boss-tier (requires coordination + Triumph or prep)
+**Design Matrix (By Complication Count):**
+- **0 Complications:** Trivial to standard opposition
+- **1 Complication:** Competent to dangerous opposition
+- **2 Complications:** Elite opposition (requires teamwork or resources)
+- **3+ Complications:** Boss-tier (requires coordination + Triumph/Potency/weaknesses)
 
-**Impact Move Modifiers (Traits):**
-- **Base:** Soft = 1 Stress, Hard = 2 Stress
-- **"Deadly":** +1 Stress on all Impact Moves (Soft = 2, Hard = 3)
-- **"Elite":** Hard Impact Moves +1 Stress (Hard = 3)
-- **"Weak":** Impact Moves -1 Stress (minimum 1)
-- **"Pathetic":** Can only trigger Soft Impact Moves (max 1 Stress)
+**Consequence Modifiers (Universal Tag):**
+
+Use Universal-tagged Complications to modify the severity of consequences the Challenge inflicts:
+
+- **Base:** Minor Consequence = 1 Stress, Major Consequence = 2 Stress
+- **Deadly (Universal):** Increase Consequence tier by 1 (Minor → Major, Major → Severe)
+- **Weak (Universal):** Reduce Consequence tier by 1 (Major → Minor, cannot reduce below Minor)
+- **Pathetic (Universal):** Can only trigger Minor Consequences (max 1 Stress)

@@ -309,6 +309,88 @@ Rituals are not Action Rolls — they are structured scenes requiring preparatio
 
 ---
 
+## Magic and Rank
+
+**Magic follows the same narrative scale as all other actions.** Your Rank (see Chapter: Advancement) determines the scale of what you can attempt, magical or otherwise.
+
+A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatural power. Being a spellcaster doesn't bypass Rank boundaries—it just means you accomplish feats through magic instead of martial prowess or social influence.
+
+### Magical Scope by Rank
+
+**Rank 1: Local-Scale Magic (Grounded Fantasy)**
+- **Cantrips:** Unlimited minor conveniences
+- **Spells:** Single-target effects, solve immediate problems
+- **Potent Spells:** Affect small groups, create room-sized effects
+- **Examples:**
+  - Fireball destroys a door or injures one enemy
+  - Charm one guard into letting you pass
+  - Become invisible briefly (scene duration)
+  - Heal moderate wounds (2-3 Stress)
+  - Levitate a person
+  - Scry nearby locations (same city)
+  - Create illusions filling a room
+
+**Rank 2: City/Regional-Scale Magic (Heroic Fantasy)**
+- **Spells:** Enhanced precision and reliability
+- **Potent Spells:** Affect entire buildings, multiple targets, extended duration
+- **Rituals:** Begin to be accessible (with proper preparation)
+- **Examples:**
+  - Fireball destroys a building's interior or strikes multiple foes
+  - Flight for hours
+  - Teleport across a city
+  - Summon powerful spirits
+  - Speak with the dead
+  - Turn invisible for hours
+  - Create magical barriers that last days
+  - Control weather in a local area (summon rain, disperse fog)
+  - Scry across a region
+
+**Rank 3: National-Scale Magic (Mythic Fantasy)**
+- **Potent Spells:** Affect battlefields, reshape terrain, create lasting magical constructs
+- **Rituals:** Major undertakings with far-reaching consequences
+- **Examples:**
+  - Teleport across kingdoms
+  - Freeze a lake solid
+  - Raise a fortress from stone
+  - Summon dragons or powerful extraplanar beings
+  - Create entirely new spells and magical formulas
+  - Curse bloodlines (requires ritual)
+  - Open portals between worlds
+  - Walk the spirit realm physically
+  - Animate an army of constructs
+  - Create powerful magical artifacts
+  - Scry anywhere on the continent
+
+**Rank 4: World-Scale Magic (Demigod Fantasy)**
+- **Rituals:** World-shaping effects that alter history
+- **Examples:**
+  - Raise or level mountain ranges
+  - Change regional climate permanently
+  - Seal gods or cosmic entities away
+  - Create stable pocket dimensions
+  - Move entire cities through space
+  - Tear open permanent planar rifts
+  - Resurrect legendary heroes from ages past
+  - Rewrite ancient curses affecting entire nations
+  - Transform deserts into forests
+  - Create new magical species
+  - Bind or banish demon lords permanently
+
+### Guidelines for GMs
+
+**Magnitude (Cantrip/Spell/Potent/Ritual) determines mechanical cost and risk.**
+**Rank determines narrative permission for scale.**
+
+A Rank 1 Sage can cast a Potent Spell (pay 1 Stress, roll with risk)—but they can't teleport across kingdoms or raise fortresses. Those effects require Rank 3 narrative permission.
+
+A Rank 4 Sage attempting to "freeze a lake" would use a Potent Spell (1 Stress, roll) or Ritual (structured scene), but they have the narrative permission to attempt it because they're at mythic tier.
+
+**Key principle:** Don't let players bypass Rank by saying "but I'm using magic!" A Rank 1 spellcaster healing someone heals moderate wounds (2-3 Stress). A Rank 4 spellcaster healing someone can cure mortal wounds that would kill any other hero, restore severed limbs, or even reverse aging—because they're at demigod tier, not because "healing magic is just better."
+
+**Fiction matters:** A Rank 4 Champion can't level a fortress with a punch just because they're high Rank—they need the fictional capability (superhuman strength through their Calling). Similarly, a Rank 4 Sage can't level a fortress without magical means (appropriate Sphere/Domain, preparation, or ritual). Your Calling and fictional positioning still matter.
+
+---
+
 ## Common Spellcasting Rulings
 
 ### Magic Trappings

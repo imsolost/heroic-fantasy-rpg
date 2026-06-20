@@ -451,7 +451,7 @@ Progress toward breaking an adversary's mental/emotional fortitude or convincing
 - **Used by:** Clash (social delivery — taunts, intimidation, insults), Talk (persuasion, deception, influence)
 - **Examples:** NPC resolve, composure, determination to resist
 - **When filled:** Fiction-dependent — they break and flee, surrender, concede the argument, or become convinced
-- **Note:** Talk vs Clash for Will determines outcome type (convinced vs broken — see Chapter 06)
+- **Note:** Talk vs Clash for Will both mark the track the same way, but differ in **fictional outcome** — Talk = convinced/allied, Clash = broken/defeated (see Chapter 06 for full distinction)
 
 ### Obstacle Track
 Progress toward overcoming a physical or environmental challenge:

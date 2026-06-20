@@ -268,7 +268,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 **How Much to Mark:**
 - **Triumph or 3+ ticks in one hit:** Mark 2 ticks on Will Track
 - **Kill enemy leader/champion:** Mark 2 ticks on all allies' Will Tracks
-- **Exploit critical weakness (fire vs. troll):** Mark 1 tick on Will Track in addition to normal damage
+- **Strike a weakness (fire vs. troll):** Mark 1 tick on Will Track in addition to normal Harm damage
 
 **When Will Track Fills:** Enemy flees, surrenders, or makes desperate all-or-nothing attack (GM's choice based on fiction).
 

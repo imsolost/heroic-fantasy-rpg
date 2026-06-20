@@ -264,7 +264,14 @@ Grant narrative permission + mechanical advantage for specific feats.
 - "Cat's Grace" — Potency on feats of agility and acrobatics (wall-run, precision jumps)
 - "Arcane Mastery" — Potency when wielding your signature school of magic
 
-**Note:** Potency = narrative permission to attempt + Edge + ignore Complication (same as Act with Potency but domain-specific and free). Potency Talents do not stack with the Act with Potency Momentum spend — you gain the benefits once, not twice.
+**"Gaining Potency" (Game Term):**
+
+When a Talent or ability says your action "gains Potency" or "has Potency," this means you receive the **same benefits as Act with Potency** without spending Momentum:
+- Gain +1 Edge on your roll
+- Ignore 1 Complication
+- Narrative permission to attempt extraordinary feats
+
+This is domain-specific and free (no Momentum cost). Potency from Talents does NOT stack with spending Momentum on Act with Potency — you gain the benefits once, not twice. If you already have Potency from a Talent, spending Momentum on Act with Potency provides no additional benefit.
 
 ---
 

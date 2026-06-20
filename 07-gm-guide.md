@@ -352,7 +352,7 @@ Conditions have a **name** and a **tier** (1-3):
 
 ## Pacing Combat
 
-### **Mooks** (2 ticks)
+### **Minions** (2 ticks)
 - Fast, disposable
 - Use in groups (3-6)
 - Descriptive defeats ("You cut through the goblins")
@@ -414,7 +414,7 @@ Players make choices, you respond. Don't force predetermined outcomes.
 Trust players to track their own resources. Audit occasionally, don't micromanage.
 
 ### **7. Making Every Fight Epic**
-Mooks should go down fast. Reserve complex fights for bosses.
+Minions should go down fast. Reserve complex fights for bosses.
 
 ---
 

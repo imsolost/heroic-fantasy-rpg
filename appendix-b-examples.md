@@ -510,7 +510,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 
 This extended example demonstrates a complete combat encounter, showing how multiple PCs coordinate, how Traits and Momentum interact, and how consequences create dramatic tension.
 
-**Setup:** The party has cornered an Orc Warboss (Tier 4, 8-tick Harm track, Heavily Armored trait) and his last remaining mook (Tier 1, 2-ticks, at 1/2 already) in a courtyard. Reinforcements are approaching from the canyon trail below.
+**Setup:** The party has cornered an Orc Warboss (Tier 4, 8-tick Harm track, Heavily Armored trait) and his last remaining minion (Tier 1, 2-ticks, at 1/2 already) in a courtyard. Reinforcements are approaching from the canyon trail below.
 
 **Party:** Kael (Champion), Ryn (Scout), Mira (Rogue)
 
@@ -542,7 +542,7 @@ This extended example demonstrates a complete combat encounter, showing how mult
 
 **Kael:** "Yes! I'll choose **Secondary Effect: Take Something**. I want to lock his axes down with my shield and wrest one of them completely out of his grip."
 
-**GM:** "Done! You slam your shield forward, catching his right axe in the metal rim, twisting violently, and sending the weapon flying across the courtyard. He's now disarmed of one weapon, heavily bleeding, and completely off-balance. Mira, you still have one unnerved orc mook in Close range with you—he's at 1/2 ticks from earlier. What are you doing?"
+**GM:** "Done! You slam your shield forward, catching his right axe in the metal rim, twisting violently, and sending the weapon flying across the courtyard. He's now disarmed of one weapon, heavily bleeding, and completely off-balance. Mira, you still have one unnerved orc minion in Close range with you—he's at 1/2 ticks from earlier. What are you doing?"
 
 **Mira:** "He's terrified after seeing his boss get dismantled. I'm pressing the advantage and striking him down. Clash with Grace."
 
@@ -594,7 +594,7 @@ This extended example demonstrates a complete combat encounter, showing how mult
 
 **Track Progression:**
 - Warboss: 0 → 2 (Greater Effect) → 6 (after enemy action) → 8 (Greater Effect finish)
-- Mook: 1/2 → 2/2 (one hit, track filled)
+- Minion: 1/2 → 2/2 (one hit, track filled)
 - Shows both quick (minion) and extended (boss) fights
 
 **Tactical Coordination:**

@@ -471,7 +471,7 @@ Time pressure or deteriorating situation:
 
 | Size | Complexity | Examples |
 |------|------------|----------|
-| **1-tick** | Trivial | Mook, simple lock, convince friendly NPC |
+| **1-tick** | Trivial | Minion, simple lock, convince friendly NPC |
 | **2-tick** | Quick | Guard, basic obstacle, shift attitude one step |
 | **3-tick** | Moderate | Veteran warrior, complex mechanism, win over skeptical group |
 | **6-tick** | Major | Elite enemy, fortified position, turn hostile faction neutral |
@@ -495,7 +495,7 @@ Time pressure or deteriorating situation:
 - **Use Track:** Significant adversaries requiring multiple hits
   - Named NPCs, boss enemies, veteran warriors (3-10 ticks)
   - Dangerous creatures, fortified enemies
-- **Resolve Immediately:** Mooks, minor threats, trivial enemies
+- **Resolve Immediately:** Minions, minor threats, trivial enemies
   - Unnamed guards, bandits (Triumph/Success = defeated outright)
 
 **Will Track (Clash with social delivery, or Talk):**
@@ -608,7 +608,7 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 
 **Track vs Outright Defeat:**
 - **Use Track:** Significant enemies requiring multiple hits (named NPCs, boss enemies, veterans)
-- **Outright Defeat:** Success/Triumph defeats immediately (unnamed guards, mooks, trivial enemies)
+- **Outright Defeat:** Success/Triumph defeats immediately (unnamed guards, minions, trivial enemies)
 
 **Examples:**
 - Strike knight with sword (Daring) → Success → Mark 1 tick on his **Harm track** (physical damage)
@@ -754,7 +754,7 @@ Use when:
 Complex tasks require **progress tracks** to represent multi-step efforts.
 
 **Track Sizes:**
-- **1-tick:** Trivial (mook, simple lock, convince friendly NPC)
+- **1-tick:** Trivial (minion, simple lock, convince friendly NPC)
 - **2-tick:** Quick (guard, basic obstacle, shift attitude one step)
 - **3-tick:** Moderate (veteran warrior, complex mechanism, win over skeptical group)
 - **6-tick:** Major (elite enemy, fortified position, turn hostile faction neutral)

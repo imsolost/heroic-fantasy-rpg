@@ -284,7 +284,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 **For complete enemy design, see Chapter 6: Challenges.**
 
 **Track Durability:**
-- **Mooks:** 2 ticks (1 Success)
+- **Minions:** 2 ticks (1 Success)
 - **Standard:** 4 ticks (2 Successes)
 - **Elite:** 6 ticks (3 Successes)
 - **Boss:** 8-10 ticks (4-5 Successes)
@@ -309,7 +309,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 ## Extended Combat Example
 
-**Setup:** Kael (warrior, Daring 3), Mira (ranger, Grace 3), and Ryn (rogue, Cunning 3) face an **Orc Warboss** (Elite: 8 ticks, "Armored" ability) and **3 Orc Mooks** (2 ticks each).
+**Setup:** Kael (warrior, Daring 3), Mira (ranger, Grace 3), and Ryn (rogue, Cunning 3) face an **Orc Warboss** (Elite: 8 ticks, "Armored" ability) and **3 Orc Minions** (2 ticks each).
 
 ---
 
@@ -331,7 +331,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Mira rolls 3d6 → 6 (Success)**
 
-**GM:** "Your arrow takes him in the throat. He drops. Mark 2 ticks — he's done (Mook had 2 ticks). Two orcs left, still charging. Ryn, what do you do?"
+**GM:** "Your arrow takes him in the throat. He drops. Mark 2 ticks — he's done (Minion had 2 ticks). Two orcs left, still charging. Ryn, what do you do?"
 
 **Ryn:** "While the Warboss is focused on Kael, I study him for weaknesses. Sense with Cunning."
 
@@ -379,7 +379,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Mira rolls 3d6 → double 6s (Triumph)**
 
-**GM:** "Your blade opens his throat. Mark 2 ticks — he's dead (Mook). You gain 1 Momentum. Triumph ignores all Complications — the second orc doesn't get a counterattack. He's backing up, clearly unnerved. One orc left."
+**GM:** "Your blade opens his throat. Mark 2 ticks — he's dead (Minion). You gain 1 Momentum. Triumph ignores all Complications — the second orc doesn't get a counterattack. He's backing up, clearly unnerved. One orc left."
 
 **Ryn:** "I circle around and backstab the Warboss in that exposed shoulder. Clash with Cunning, I still have Edge from the Opening I found?"
 

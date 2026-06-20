@@ -135,7 +135,7 @@ Check your dice results:
 - **All 1-3:** Setback — Things go wrong, situation worsens
 - **Any 4-5:** Conflict — Success with consequence (GM makes soft Impact Move)
 - **Any 6:** Success — You accomplish your intent cleanly
-- **Two or more 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications
+- **Two or more 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications *(see Chapter 6 for Complication tags)*
 
 **Key Principle:** Only the highest single die matters (except for double 6s triggering Triumph).
 

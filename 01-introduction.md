@@ -24,11 +24,11 @@ This is a tabletop roleplaying game where you play heroes in a dangerous, wondro
 
 Each Action has a **Primary Effect**:
 
-1. **Defy → Overcome** — Dodge attacks, resist danger, push past obstacles (marks Obstacle track)
-2. **Clash → Harm** — Attack physically to mark Harm track, or socially to mark Will track
+1. **Defy → Overcome** — Dodge attacks, resist danger, push past obstacles (marks Obstacle track or Progress tracks, see Chapter 4)
+2. **Clash → Harm** — Attack physically to mark Harm track, or socially to mark Will track (see Chapter 4 for tracks)
 3. **Talk → Influence** — Persuade, deceive, intimidate to mark Will track
-4. **Sense → Assess** — Ask specific questions to understand the situation
-5. **Know → Recall** — GM tells you something useful from your knowledge
+4. **Sense → Assess** — Ask 2 questions (1 on Conflict) to understand the situation
+5. **Know → Recall** — GM tells you something useful + you ask 1 clarifying question
 
 ---
 
@@ -72,7 +72,7 @@ Starting array: **3/2/1/1/0** (assign as desired)
 
 ### Four Outcomes
 
-Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
+Roll Xd6 (pool = Approach + Edge - Bane, **cap ±2d after canceling**), check highest die:
 
 - **Setback** (all 1-3) — Failure with consequences
 - **Conflict** (any 4-5) — Success with consequence

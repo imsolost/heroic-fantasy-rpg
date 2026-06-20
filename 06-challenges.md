@@ -54,128 +54,198 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ### Tagged Complications
 
-**Complications are tagged to indicate when they apply.** Not all Complications affect every action — armor doesn't block fireballs, and a melee weapon doesn't threaten archers at Far range.
+**Complications are tagged to indicate what they block.** Tags describe the fictional challenge, not the physics of your attack.
 
-**Tags tell you exactly when a Complication applies to your action.**
+**Tags answer: "What is my action trying to accomplish?"**
 
 ---
 
 ### Complication Tags
 
-**Defense Complications (protect the Challenge):**
-- **(Physical Defense)** - applies when you physically attack (sword, arrow, fist)
-- **(Magical Defense)** - applies when you magically attack (spells, enchantments)
-- **(Mental Defense)** - applies when you use mental/social influence (Talk, intimidate, charm)
+**Resilience** - Hard to damage or break
+- Blocks actions that try to harm, damage, or destroy
+- Armor, tough hide, reinforced construction, magical durability
+- Applies to: Sword strikes, arrows, fireballs, lightning bolts
+- Countered by: Overwhelming force, finding weak points, armor-piercing attacks
 
-**Offense Complications (threaten PCs by range):**
-- **(Close Offense)** - applies when you act in Close range (hand-to-hand), regardless of attack type
-- **(Near Offense)** - applies when you act in Near range (same zone), regardless of attack type
-- **(Far Offense)** - applies when you act in Far range with line of sight, regardless of attack type
+**Ward** - Resists magical effects
+- Blocks non-damaging magical effects and manipulations
+- Magic immunity, counterspells, ancient enchantments
+- Applies to: Charm, Polymorph, Banish, Paralyze, Slow, magical detection
+- Does NOT apply to: Damaging spells (fireballs, lightning) - those face Resilience
+- Countered by: Dispelling, overwhelming magical power, different magical approach
 
-**Other Complications:**
-- **(Sensory)** - applies when you try to hide from, sneak past, or deceive Challenge
-- **(Movement)** - applies when you try to move past, reposition around, or control Challenge's position
-- **(Universal)** - ALWAYS applies to all actions, regardless of type or range
+**Speed** - Hard to hit or catch
+- Blocks actions that require targeting or catching the target
+- Agility, small size, erratic movement, supernatural quickness
+- Applies to: Melee attacks, ranged attacks, targeted spells
+- Does NOT apply to: Area effects, social influence, perception
+- Countered by: Trapping, predicting movement, area attacks, slowing them
 
-**Key Rule:** Check your action's type (Physical/Magical/Mental) and your current range (Close/Near/Far). **Only face Complications whose tags match your action.**
+**Stealth** - Hard to perceive or detect
+- Blocks actions that require seeing, sensing, or detecting the target
+- Invisibility, camouflage, silence, magical concealment
+- Applies to: Targeted attacks, tracking, spotting, investigation
+- Does NOT apply to: Area effects (don't need to see target), sound-based detection
+- Countered by: Revealing (dust, water), non-visual detection, area effects
 
----
+**Alert** - Perceives others exceptionally well
+- Blocks actions that require stealth, deception, or surprise
+- Keen senses, multiple eyes, tremorsense, magical awareness
+- Applies to: Sneaking, hiding, ambushing, lying, concealing information
+- Countered by: Distraction, overwhelming their senses, magical concealment
 
-### Examples of Tagged Complications
+**Complexity** - Hard to understand, solve, or navigate
+- Blocks actions that require comprehension or navigation of intricate systems
+- Complex mechanisms, codes, intricate social webs, layered defenses
+- Applies to: Lockpicking, puzzle-solving, navigating politics, understanding motives
+- Countered by: Knowledge, time, expertise, simplifying the problem
 
-**Defense Examples:**
-- **Steel Scales (Physical Defense)** - impenetrable hide blocks swords, arrows, claws
-- **Arcane Ward (Magical Defense)** - layered magical defenses deflect spells
-- **Iron Will (Mental Defense)** - immune to fear, intimidation, and charm
-- **Null Field (Physical, Magical Defense)** - both armor AND anti-magic field
+**Resolve** - Hard to influence or sway
+- Blocks actions that attempt social or mental influence
+- Discipline, faith, stubbornness, emotional stability, strong convictions
+- Applies to: Persuasion, intimidation, deception, interrogation
+- Countered by: Appealing to values, leverage, time, building trust
 
-**Offense Examples:**
-- **Blazing Claws (Close Offense)** - wreathed in flames, threatens anyone in Close range
-- **Legendary Sword (Close Offense)** - masterwork blade threatens Close range
-- **Whip Tentacles (Near Offense)** - reaches across the zone
-- **Longbow (Far Offense)** - threatens anyone at Far range with line of sight
-
-**Other Examples:**
-- **Keen Senses (Sensory)** - enhanced hearing and smell, hard to sneak past
-- **Web (Movement)** - sticky strands make repositioning difficult
-- **Apex Predator (Universal)** - legendary threat, always applies
-- **Pack Tactics (Universal)** - when adjacent to ally, always applies
-
----
-
-### Checking Complications: Step-by-Step
-
-**When you take an action against a Challenge with Complications:**
-
-1. **Identify your action's TYPE:**
-   - Attacking with sword/arrow/fist? → **Physical**
-   - Casting spell/using magic? → **Magical**
-   - Using Talk/intimidate/charm? → **Mental**
-
-2. **Identify your RANGE:**
-   - Hand-to-hand with the Challenge? → **Close**
-   - Same zone but not hand-to-hand? → **Near**
-   - Different zone, line of sight? → **Far**
-
-3. **Check each Complication's tags:**
-   - **Defense tags:** Does your action TYPE match? (Physical/Magical/Mental)
-   - **Offense tags:** Does your current RANGE match? (Close/Near/Far)
-   - **Other tags:** Are you doing what the tag describes? (Sensory/Movement)
-   - **Universal:** Always applies
-
-4. **Count matching Complications** - that's how many you face
+**Universal** - Always applies
+- Blocks ALL actions regardless of approach
+- Legendary status, overwhelming presence, fundamental danger
+- Special cases: Deadly (increases consequence tier), Apex Predator (legendary threat)
+- Countered by: Triumph, Act with Potency, exploiting weaknesses
 
 ---
 
-### Example in Play: Ancient Red Dragon
+### Checking Complications
 
-**Dragon's Complications:**
-- **Apex Predator (Universal)**
-- **Steel Scales (Physical Defense)**
-- **Blazing Claws (Close Offense)**
+**When you act against a Challenge with Complications:**
 
-**Kael (in Close range) Clashes with sword:**
-- TYPE: Physical → **Steel Scales applies** ✓
-- RANGE: Close → **Blazing Claws applies** ✓
-- Universal → **Apex Predator applies** ✓
-- **Total: 3 Complications**
+1. **Describe your action** - What are you trying to do?
+2. **GM identifies what you're trying to accomplish:**
+   - Damage/harm it? → Check Resilience
+   - Magically affect it (non-damage)? → Check Ward
+   - Hit/catch it? → Check Speed
+   - See/detect it? → Check Stealth
+   - Sneak past/deceive it? → Check Alert
+   - Understand/solve it? → Check Complexity
+   - Influence/sway it? → Check Resolve
+3. **Count matching tags** - That's how many Complications you face
+4. **Universal always applies**
 
-**Mira (in Near range) casts Psychic Blast:**
-- TYPE: Magical → Steel Scales does NOT apply ✗
-- RANGE: Near → Blazing Claws does NOT apply (Close only) ✗
-- Universal → **Apex Predator applies** ✓
-- **Total: 1 Complication**
+---
 
-**Ryn (in Far range) shoots arrow:**
-- TYPE: Physical → **Steel Scales applies** ✓
-- RANGE: Far → Blazing Claws does NOT apply (Close only) ✗
+### Example: Ancient Red Dragon
+
+```
+Ancient Dragon (Tier 4, Harm 8, Will 8)
+Complications:
+- Steel Scales (Resilience) - impenetrable dragon scales
+- Ancient Magic (Ward) - millennia of magical power
+- Apex Predator (Universal) - legendary threat
+```
+
+**Kael swings his sword:**
+- Trying to damage it → **Resilience applies** ✓
 - Universal → **Apex Predator applies** ✓
 - **Total: 2 Complications**
 
-**Tactical Insight:** Mira's magic faces fewest Complications!
+**Mira casts Fireball:**
+- Trying to damage it → **Resilience applies** ✓ (tough scales resist fire)
+- Universal → **Apex Predator applies** ✓
+- **Total: 2 Complications**
+
+**Mira casts Charm Dragon:**
+- Trying to magically influence → **Ward applies** ✓
+- Universal → **Apex Predator applies** ✓
+- **Total: 2 Complications**
+
+**Ryn tries to intimidate:**
+- Trying to influence socially → No matching tag (dragon has no Resolve)
+- Universal → **Apex Predator applies** ✓
+- **Total: 1 Complication**
+
+**Tactical Insight:** Social influence is the weak point!
 
 ---
 
-### Example in Play: Elite Knight
+### Example: Fast Duelist
 
-**Knight's Complications:**
-- **Legendary Sword (Close Offense)**
-- **Full Plate (Physical Defense)**
-- **Battle-Hardened (Mental Defense)**
+```
+Fast Duelist (Tier 2, Harm 4, Will 4)
+Complications:
+- Lightning Reflexes (Speed) - incredibly fast, hard to hit
+- Combat Training (Resolve) - disciplined warrior
+```
 
-**PC (in Close range) Clashes with sword:**
-- TYPE: Physical → **Full Plate applies** ✓
-- RANGE: Close → **Legendary Sword applies** ✓
-- **Total: 2 Complications**
-
-**PC (in Near range) casts Fireball:**
-- TYPE: Magical → Full Plate does NOT apply ✗
-- RANGE: Near → Legendary Sword does NOT apply (Close only) ✗
-- **Total: 0 Complications** (magic bypasses armor, outside sword range!)
-
-**PC uses Talk to intimidate:**
-- TYPE: Mental → **Battle-Hardened applies** ✓
+**Warrior swings sword:**
+- Trying to hit target → **Speed applies** ✓
 - **Total: 1 Complication**
+
+**Sage casts Magic Missile:**
+- Trying to hit target → **Speed applies** ✓ (can't target what you can't track)
+- **Total: 1 Complication**
+
+**Sage casts Area Fireball:**
+- Area effect, don't need to target → Speed does NOT apply ✗
+- **Total: 0 Complications** (speed doesn't help against area effects!)
+
+**PC tries to intimidate:**
+- Trying to influence → **Resolve applies** ✓
+- **Total: 1 Complication**
+
+**Tactical Insight:** Use area effects to bypass speed!
+
+---
+
+### Example: Invisible Stalker
+
+```
+Invisible Stalker (Tier 2, Harm 4)
+Complications:
+- Invisibility (Stealth) - cannot be seen
+- Silent Movement (Stealth) - makes no sound
+```
+
+**Warrior swings sword:**
+- Trying to hit → Need to perceive target → **Stealth applies** ✓ (both tags count as 1)
+- **Total: 1 Complication** (can't hit what you can't see)
+
+**Sage casts Targeted Fireball:**
+- Trying to target → **Stealth applies** ✓
+- **Total: 1 Complication**
+
+**Sage casts Area Fireball in its zone:**
+- Area effect, don't need to see target → Stealth does NOT apply ✗
+- **Total: 0 Complications**
+
+**PC throws flour in the air:**
+- Creating advantage (doesn't remove Stealth, but grants Edge to allies)
+- **Tactical play rewarded!**
+
+---
+
+### Example: Vault Door (Obstacle)
+
+```
+Ancient Vault Door (Tier 2, Obstacle 6)
+Complications:
+- Reinforced Steel (Resilience) - thick steel construction
+- Intricate Lock (Complexity) - master-crafted mechanism
+- Arcane Wards (Ward) - magical protections
+```
+
+**Warrior smashes door (Defy with Daring):**
+- Trying to break it → **Resilience applies** ✓
+- **Total: 1 Complication**
+
+**Rogue picks lock (Defy with Cunning):**
+- Trying to solve mechanism → **Complexity applies** ✓
+- **Total: 1 Complication**
+
+**Sage casts Magic Unlock (Know with Spirit):**
+- Trying to bypass magical wards → **Ward applies** ✓
+- **Total: 1 Complication**
+
+**Tactical Insight:** Each approach faces different Complication! Team can try multiple methods.
 
 ---
 
@@ -271,11 +341,21 @@ Some Talents automatically negate specific types of Complications:
 
 ## Challenge Moves
 
-**Challenge Moves are active abilities the Challenge uses as Impact Moves.** When the GM makes an Impact Move (Soft or Hard), they can choose to use a Challenge Move instead of a standard Impact Move.
+**Challenge Moves are powerful abilities that Challenges use as Impact Moves.** They are more potent than standard Impact Moves, representing signature attacks, special abilities, and dramatic actions.
 
-**Soft Moves** typically telegraph the Challenge Move ("The dragon's throat glows orange as it draws breath...").
+**When to Use:**
+- **Soft Moves (Conflict):** Telegraph the Challenge Move to create tension
+  - *"The dragon's throat glows orange as flames gather in its maw..."*
+  - Players now know what's coming and can prepare
+- **Hard Moves (Setback/Disaster):** Trigger Challenge Move immediately
+  - *"The dragon's fire breath engulfs you—all in Near range mark 2 Stress and Burned 1!"*
+  - Direct consequence of PC failure
 
-**Hard Moves** trigger the Challenge Move immediately, usually as a result of PC failure (Setback or worse).
+**Power Level:**
+Challenge Moves are intentionally stronger than standard Impact Moves:
+- Standard Hard Move: 2 Stress
+- Challenge Move: 3 Stress, OR 2 Stress + Condition, OR area effects, OR special abilities
+- This makes telegraphs meaningful—players want to avoid these!
 
 ---
 
@@ -283,24 +363,49 @@ Some Talents automatically negate specific types of Complications:
 
 **Format:** `Move Name [□□]` (checkboxes show limited uses, if any)
 
-**Effect:** Describe what happens (mark Stress, inflict Conditions, create Environmental Complications, narrative effects)
+**Power Level Guidelines:**
+
+**Tier 1 (Minions):**
+- 2-3 Stress single target
+- 1 Stress + Condition tier 1-2
+- Simple, straightforward effects
+
+**Tier 2 (Standard):**
+- 3 Stress single target
+- 2 Stress + Condition tier 2
+- 1 Stress + Condition tier 3
+- Area effect (2 targets, 1-2 Stress each)
+
+**Tier 3 (Elite):**
+- 3-4 Stress single target
+- 2-3 Stress + strong Condition
+- Area effects with strong consequences
+- Environmental Complications
+
+**Tier 4 (Boss):**
+- 4+ Stress
+- Devastating area effects
+- Multiple Conditions
+- Severe Consequences (Burdens)
 
 **Examples:**
 
-**Dragon Challenge Moves:**
-- **Fire Breath [□□]** - All PCs in Near range mark 2 Stress + Burned 1 (2 uses per encounter)
-- **Wing Buffet** - Knock target prone + push to Far range (unlimited)
-- **Tail Sweep** - Target 2-3 PCs in Close range, each marks 1 Stress (unlimited)
-- **Fearsome Roar [□]** - All must Defy or suffer Frightened 2 (1 use per encounter)
+**Ancient Dragon (Tier 4):**
+- **Burning Bite** - Close range, 3 Stress (unlimited)
+- **Tail Sweep** - All in Close range, 2 Stress + Prone 1 (unlimited)
+- **Wing Buffet [□□]** - All in Near range pushed to Far + Deafened 1 (2 uses)
+- **Fire Breath [□□]** - All in Near range, 2 Stress + Burned 1 (2 uses)
+- **Frightful Roar [□]** - All in Near range, Frightened 2 (1 use)
 
-**Elite Knight Challenge Moves:**
-- **Disarming Strike** - Mark 1 Stress + target drops weapon (Disarmed 1)
-- **Shield Bash** - Knock prone + lose positioning
-- **Rallying Cry [□]** - Create **Rallied (Universal) [□□]** Environmental Complication on knight's allies (1 use per encounter)
+**Elite Knight (Tier 2):**
+- **Longsword Strike** - Close range, 3 Stress (unlimited)
+- **Shield Bash** - Close range, 2 Stress + Stunned 1 (unlimited)
+- **Disarming Strike** - Close range, 2 Stress + Disarmed 1 (unlimited)
 
-**Orc Archer Challenge Moves:**
-- **Pinning Shot** - Mark 1 Stress + Pinned [□] (must Defy to remove arrow before moving zones)
-- **Call for Help** - 1d3 more orcs arrive next round
+**Drow Assassin (Tier 2):**
+- **Poisoned Blade** - Close range, 1 Stress + Poisoned 3 (unlimited)
+- **Shadow Step [□□]** - Teleport to Near/Far position (2 uses)
+- **Throat Strike** - Close range, 4 Stress (requires vulnerable target)
 
 ---
 

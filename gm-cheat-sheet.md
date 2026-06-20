@@ -44,11 +44,11 @@ Quick reference for running the game. For complete rules, see the full chapters.
 
 **For complete algorithm with examples, see Chapter 4: Action Resolution**
 
-When Complications, Expertise, or modifying traits are involved:
+When Complications and Expertise are involved:
 
-1. Roll dice → 2. Apply Complications → 3. Apply Expertise → 4. Map to Consequence tier → 5. Apply trait modifiers → 6. Resolve
+1. Roll dice → 2. Apply Complications (check tags) → 3. Apply Expertise → 4. Map to Consequence tier → 5. Resolve
 
-**Key:** Triumph ignores all Complications | Expertise converts Setback→Conflict (not Disaster) | Deadly increases tier by 1
+**Key:** Triumph ignores all Complications | Expertise converts Setback→Conflict (not Disaster) | Check Complication tags to see which apply (Chapter 6)
 
 ---
 

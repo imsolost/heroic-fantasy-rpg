@@ -52,15 +52,158 @@ Each uncanceled Complication moves your result one step down:
 
 See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/Major/Severe).
 
+### Tagged Complications
+
+**Complications are tagged to indicate when they apply.** Not all Complications affect every action — armor doesn't block fireballs, and a melee weapon doesn't threaten archers at Far range.
+
+**Tags tell you exactly when a Complication applies to your action.**
+
+---
+
+### Complication Tags
+
+**Defense Complications (protect the Challenge):**
+- **(Physical Defense)** - applies when you physically attack (sword, arrow, fist)
+- **(Magical Defense)** - applies when you magically attack (spells, enchantments)
+- **(Mental Defense)** - applies when you use mental/social influence (Talk, intimidate, charm)
+
+**Offense Complications (threaten PCs by range):**
+- **(Close Offense)** - applies when you act in Close range (hand-to-hand), regardless of attack type
+- **(Near Offense)** - applies when you act in Near range (same zone), regardless of attack type
+- **(Far Offense)** - applies when you act in Far range with line of sight, regardless of attack type
+
+**Other Complications:**
+- **(Sensory)** - applies when you try to hide from, sneak past, or deceive Challenge
+- **(Movement)** - applies when you try to move past, reposition around, or control Challenge's position
+- **(Universal)** - ALWAYS applies to all actions, regardless of type or range
+
+**Key Rule:** Check your action's type (Physical/Magical/Mental) and your current range (Close/Near/Far). **Only face Complications whose tags match your action.**
+
+---
+
+### Examples of Tagged Complications
+
+**Defense Examples:**
+- **Steel Scales (Physical Defense)** - impenetrable hide blocks swords, arrows, claws
+- **Arcane Ward (Magical Defense)** - layered magical defenses deflect spells
+- **Iron Will (Mental Defense)** - immune to fear, intimidation, and charm
+- **Null Field (Physical, Magical Defense)** - both armor AND anti-magic field
+
+**Offense Examples:**
+- **Blazing Claws (Close Offense)** - wreathed in flames, threatens anyone in Close range
+- **Legendary Sword (Close Offense)** - masterwork blade threatens Close range
+- **Whip Tentacles (Near Offense)** - reaches across the zone
+- **Longbow (Far Offense)** - threatens anyone at Far range with line of sight
+
+**Other Examples:**
+- **Keen Senses (Sensory)** - enhanced hearing and smell, hard to sneak past
+- **Web (Movement)** - sticky strands make repositioning difficult
+- **Apex Predator (Universal)** - legendary threat, always applies
+- **Pack Tactics (Universal)** - when adjacent to ally, always applies
+
+---
+
+### Checking Complications: Step-by-Step
+
+**When you take an action against a Challenge with Complications:**
+
+1. **Identify your action's TYPE:**
+   - Attacking with sword/arrow/fist? → **Physical**
+   - Casting spell/using magic? → **Magical**
+   - Using Talk/intimidate/charm? → **Mental**
+
+2. **Identify your RANGE:**
+   - Hand-to-hand with the Challenge? → **Close**
+   - Same zone but not hand-to-hand? → **Near**
+   - Different zone, line of sight? → **Far**
+
+3. **Check each Complication's tags:**
+   - **Defense tags:** Does your action TYPE match? (Physical/Magical/Mental)
+   - **Offense tags:** Does your current RANGE match? (Close/Near/Far)
+   - **Other tags:** Are you doing what the tag describes? (Sensory/Movement)
+   - **Universal:** Always applies
+
+4. **Count matching Complications** - that's how many you face
+
+---
+
+### Example in Play: Ancient Red Dragon
+
+**Dragon's Complications:**
+- **Apex Predator (Universal)**
+- **Steel Scales (Physical Defense)**
+- **Blazing Claws (Close Offense)**
+
+**Kael (in Close range) Clashes with sword:**
+- TYPE: Physical → **Steel Scales applies** ✓
+- RANGE: Close → **Blazing Claws applies** ✓
+- Universal → **Apex Predator applies** ✓
+- **Total: 3 Complications**
+
+**Mira (in Near range) casts Psychic Blast:**
+- TYPE: Magical → Steel Scales does NOT apply ✗
+- RANGE: Near → Blazing Claws does NOT apply (Close only) ✗
+- Universal → **Apex Predator applies** ✓
+- **Total: 1 Complication**
+
+**Ryn (in Far range) shoots arrow:**
+- TYPE: Physical → **Steel Scales applies** ✓
+- RANGE: Far → Blazing Claws does NOT apply (Close only) ✗
+- Universal → **Apex Predator applies** ✓
+- **Total: 2 Complications**
+
+**Tactical Insight:** Mira's magic faces fewest Complications!
+
+---
+
+### Example in Play: Elite Knight
+
+**Knight's Complications:**
+- **Legendary Sword (Close Offense)**
+- **Full Plate (Physical Defense)**
+- **Battle-Hardened (Mental Defense)**
+
+**PC (in Close range) Clashes with sword:**
+- TYPE: Physical → **Full Plate applies** ✓
+- RANGE: Close → **Legendary Sword applies** ✓
+- **Total: 2 Complications**
+
+**PC (in Near range) casts Fireball:**
+- TYPE: Magical → Full Plate does NOT apply ✗
+- RANGE: Near → Legendary Sword does NOT apply (Close only) ✗
+- **Total: 0 Complications** (magic bypasses armor, outside sword range!)
+
+**PC uses Talk to intimidate:**
+- TYPE: Mental → **Battle-Hardened applies** ✓
+- **Total: 1 Complication**
+
+---
+
+### Environmental Complications
+
+The GM can add **temporary Environmental Complications** based on the situation:
+
+**Examples:**
+- **Fighting on Ice (Movement)** - slippery surface makes repositioning difficult
+- **Negotiating in Hostile Court (Mental Defense)** - nobles are suspicious and guarded
+- **Thick Smoke (Sensory)** - obscures vision, hard to target accurately
+- **Narrow Bridge (Movement)** - difficult to reposition or flank
+
+These typically last for the scene or until the environment changes.
+
+---
+
 ### Sources of Complications
 
-1. **Challenge Traits** — Significant enemies/obstacles have defensive Complications
-2. **Environmental Hazards** — GM may impose Complications for dangerous situations (fighting on ice, negotiating in hostile court, etc.)
+1. **Challenge Traits** — Passive traits of significant enemies/obstacles (armor, natural weapons, keen senses)
+2. **Environmental Hazards** — Temporary Complications from dangerous situations (ice, smoke, hostile crowds)
+3. **Special Moves** — Some enemy Special Moves create temporary Environmental Complications (see Special Moves section)
 
 ### Rules
 
+- **Check tags every action** — only face Complications whose tags match your action
 - **Unlimited stacking** (but most enemies have 0-2 Complications)
-- **Triumph immunity:** Triumph bypasses all defenses completely — cannot be downgraded, achieves full effect
+- **Triumph immunity:** Triumph bypasses ALL Complications — cannot be downgraded, achieves full effect
 
 ---
 
@@ -126,41 +269,123 @@ Some Talents automatically negate specific types of Complications:
 
 ---
 
-## Challenge Traits (Special Abilities)
+## Special Moves
 
-Not all Challenges have Traits. When they do, Traits represent special defenses, abilities, or characteristics.
+**Special Moves are active abilities the Challenge uses as Impact Moves.** When the GM makes an Impact Move (Soft or Hard), they can choose to use a Special Move instead of a standard Impact Move.
 
-**Types of Challenge Traits:**
+**Soft Moves** typically telegraph the Special Move ("The dragon's throat glows orange as it draws breath...").
 
-### Impact Move Modifiers
-
-Modify Stress inflicted by Impact Moves.
-
-**Examples:**
-- **"Deadly"** — Increases Consequence tier by 1 (Minor → Major, Major → Severe)
-- **"Elite"** — Hard Impact Moves deal +1 Stress (Hard = 3)
-- **"Weak"** — Impact Moves deal -1 Stress (minimum 1, Soft = 1, Hard = 1)
-- **"Pathetic"** — Can only trigger Soft Impact Moves (max 1 Stress)
-
-**Note:** Use these sparingly. Most Challenges use base Impact Move values (1/2 Stress).
+**Hard Moves** trigger the Special Move immediately, usually as a result of PC failure (Setback or worse).
 
 ---
 
-### Defensive Traits (Most Common)
+### Creating Special Moves
 
-**Impose 1 Complication** when PCs act against them.
+**Format:** `Move Name [□□]` (checkboxes show limited uses, if any)
+
+**Effect:** Describe what happens (mark Stress, inflict Conditions, create Environmental Complications, narrative effects)
 
 **Examples:**
-- **"Heavily Armored"** — Physical attacks reduced
-- **"Shielded"** — Frontal attacks reduced
-- **"Warded"** — Magical effects reduced
-- **"Suspicious"** — Social manipulation reduced
-- **"Ancient Wards"** — Intrusion/bypass attempts reduced
-- **"Regeneration"** — Lasting harm reduced
-- **"Elusive"** — Hard to pin down or hit
-- **"Cunning"** — Hard to deceive or outwit
 
-**Each Defensive Trait = 1 Complication** applied to relevant actions.
+**Dragon Special Moves:**
+- **Fire Breath [□□]** - All PCs in Near range mark 2 Stress + Burned 1 (2 uses per encounter)
+- **Wing Buffet** - Knock target prone + push to Far range (unlimited)
+- **Tail Sweep** - Target 2-3 PCs in Close range, each marks 1 Stress (unlimited)
+- **Fearsome Roar [□]** - All must Defy or suffer Frightened 2 (1 use per encounter)
+
+**Elite Knight Special Moves:**
+- **Disarming Strike** - Mark 1 Stress + target drops weapon (Disarmed 1)
+- **Shield Bash** - Knock prone + lose positioning
+- **Rallying Cry [□]** - Create **Rallied (Universal) [□□]** Environmental Complication on knight's allies (1 use per encounter)
+
+**Orc Archer Special Moves:**
+- **Pinning Shot** - Mark 1 Stress + Pinned [□] (must Defy to remove arrow before moving zones)
+- **Call for Help** - 1d3 more orcs arrive next round
+
+---
+
+### Limited Uses
+
+Some Special Moves have **limited uses per encounter** to represent exhaustion, cooldowns, or resource limitations.
+
+**Notation:** Add checkboxes after the move name: `Fire Breath [□□]` = 2 uses
+
+**When to limit:**
+- **Powerful effects** (high Stress, strong Conditions, area attacks)
+- **Signature abilities** that should feel special, not spammable
+- **Exhausting actions** (breath weapons, magical bursts, rallying cries)
+
+**Default:** Most Special Moves are unlimited unless noted.
+
+**Tracking:** When the move is used, check off one box. When all boxes are checked, the move is exhausted for this encounter.
+
+---
+
+### Environmental Complications (Created by Special Moves)
+
+Some Special Moves create **temporary Environmental Complications** that affect the battlefield:
+
+**Format:** `Complication Name (Application) [□□□]` (track shows duration in actions)
+
+**How they work:**
+- Created by Special Moves
+- Have a small track (usually 2-3 boxes)
+- Tick down as PCs take affected actions
+- Expire when track empties OR at end of scene
+
+**Examples:**
+- **Rallied (Universal) [□□]** - Knight's allies are emboldened; next 2 actions against them face +1 Complication
+- **Smoke Cloud (Sensory) [□□□]** - Area filled with smoke; next 3 Sense/ranged actions suffer +1 Complication
+- **Wall of Thorns (Movement) [□□]** - Blocks path; next 2 movement attempts suffer +1 Complication
+- **Aura of Fear (Mental Defense) [□□□]** - Area effect; next 3 mental/social actions in zone suffer +1 Complication
+
+**Example in Play:**
+
+**GM (Soft Move):** "The knight raises his sword high and shouts 'For the King!' His footsoldiers surge forward with renewed vigor!"
+
+**GM:** "I'm using Rallying Cry [✓] and creating **Rallied (Universal) [□□]** on the footsoldiers. The next 2 actions against them face an additional Complication."
+
+**PC attacks footsoldier (normally 0 Complications):**
+- Faces: **Rallied [✓□]** = 1 Complication
+- After resolution, tick down: [□□] → [✓□]
+
+**PC attacks another footsoldier:**
+- Faces: **Rallied [✓✓]** = 1 Complication
+- After resolution, tick down: [✓□] → [✓✓] → expires
+
+---
+
+## Challenge Traits
+
+Challenges have two types of traits:
+
+1. **Complications (Passive)** - Covered above. These are passive defenses or threats (armor, natural weapons, keen senses)
+2. **Special Moves (Active)** - Covered above. These are active abilities used as Impact Moves
+
+**When designing a Challenge:**
+- Give it **0-3 Complications** (tagged to show when they apply)
+- Give it **1-3 Special Moves** (what it does when acting or when PCs fail)
+- Most Challenges don't need Traits — reserve them for significant enemies and obstacles
+
+---
+
+### Complication Rarity Guidance
+
+**Tier 1 (Minions):**
+- **0-1 Complications** - mostly standard
+- Example: Bandit (0 Complications), Guard Captain (**Battle-Trained [Universal]**)
+
+**Tier 2 (Standard):**
+- **1 Complication** - one notable trait
+- Example: Armored Knight (**Full Plate [Physical Defense]**)
+
+**Tier 3 (Elite):**
+- **1-2 Complications** - multiple significant traits
+- Example: Elite Knight (**Legendary Sword [Close Offense]** + **Full Plate [Physical Defense]**)
+
+**Tier 4 (Boss):**
+- **2-3 Complications** - legendary, multi-layered defenses
+- Example: Ancient Dragon (**Apex Predator [Universal]** + **Steel Scales [Physical Defense]** + **Blazing Claws [Close Offense]**)
 
 ---
 

@@ -272,21 +272,18 @@ When resolving an Action Roll with Complications, modifying traits (Deadly, Armo
 ### Step-by-Step Order
 
 1. **Roll dice** → Determine raw outcome (Setback/Conflict/Success/Triumph)
-2. **Apply Complications** → Each Complication reduces outcome by 1 tier
+2. **Apply Complications** → Check tags to determine which Complications apply, then reduce outcome by 1 tier per Complication
    - Success → Conflict → Setback → Disaster
    - Triumph ignores all Complications (skip this step)
+   - See Chapter 6 for Tagged Complications rules
 3. **Apply Expertise** → If final outcome is Setback, convert to Conflict outcome
    - Expertise does NOT protect against Disaster
    - You now succeed at your action (mark progress, gain information, overcome obstacles)
-4. **Map outcome to base Consequence tier**
-   - Conflict outcome = Minor Consequence (base)
-   - Setback outcome = Major Consequence (base)
-   - Disaster outcome = Severe Consequence (base)
-5. **Apply trait modifiers** → Traits that increase/decrease Consequence tier
-   - Deadly: increase tier by 1 (Minor → Major, Major → Severe)
-   - Armor: reduce tier by 1 (Major → Minor, Minor → none)
-   - Apply these AFTER Expertise has already converted the outcome
-6. **Resolve final Consequence** → GM makes Impact Move based on final tier
+4. **Map outcome to Consequence tier**
+   - Conflict outcome = Minor Consequence
+   - Setback outcome = Major Consequence
+   - Disaster outcome = Severe Consequence
+5. **Resolve Consequence** → GM makes Impact Move based on final tier
 
 ### Examples
 

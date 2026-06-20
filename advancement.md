@@ -118,19 +118,26 @@ These are fundamental to your character identity and cannot be retrained.
 
 **Secondary Talents can be retrained.**
 
-When you gain a level (except Level 1), you may retrain **one secondary Talent** by replacing it with a new one. Work with your GM to justify the change through the fiction:
-- Training with a new mentor
-- Abandoning an old fighting style for a new one
-- Magical awakening or transformation
-- Narrative event that changes your capabilities
+You may retrain **one secondary Talent** by replacing it with a new one when you gain a level OR experience a major narrative upheaval. Work with your GM to justify the change through the fiction.
 
 **Retraining Process:**
-1. When you gain a level, declare you're retraining one secondary Talent
+1. When you gain a level OR experience a major narrative upheaval, you may retrain one secondary Talent
 2. Describe how the change happens fictionally
 3. Replace the old Talent with a new one
 
+**Retraining Triggers:**
+- **Level-up** (except Level 1) - Standard advancement opportunity
+- **Major narrative upheavals:**
+  - Losing a signature item (weapon shatters, spellbook burns, ancestral armor destroyed)
+  - Physical transformation (blinded, scarred, empowered by ritual)
+  - Spiritual change (pact with entity, divine blessing/curse, corruption)
+  - Dramatic story shift (betrayal, loss of loved one, world-shaking revelation)
+  - Interludes and downtime between major arcs
+
+**Why this matters:** If your sword shatters mid-level, you shouldn't be mechanically penalized for multiple sessions waiting for the next level-up. Narrative consequences should enable mechanical adaptation immediately.
+
 **Example:**
-> Kael (Champion) has "Flashing Steel" (+1d when Clashing with swords). At Level 6, his sword is shattered in battle with a demon lord. He retrains "Flashing Steel" into "Titan's Grip" (Potency on feats of strength), representing his shift to using a massive two-handed warhammer instead.
+> Kael (Champion) has "Flashing Steel" (+1d when Clashing with swords). Mid-Level 5, his sword shatters in battle with a demon lord. He picks up a massive warhammer from a fallen knight. During the next Interlude, he retrains "Flashing Steel" into "Titan's Grip" (Potency on feats of strength) immediately—no need to wait for Level 6.
 
 ---
 
@@ -256,6 +263,8 @@ Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (
 ## What Can You Do At Each Rank?
 
 The following examples illustrate the **scope and scale** of what's possible at each Rank for each of the 5 Actions. These are not hard limits — work with your GM to determine what's reasonable.
+
+**Note on Sense vs Know:** *Sense* is about perceiving what's there (spotting the clues, detecting the magic, noticing the details). *Know* is about understanding what it means (deducing the conclusion, analyzing the pattern, reconstructing the story). A Rank 4 hero using *Sense* perceives two hairs and blood instantly—the godlike part of *Know* is the deductive leap from those hairs to complete historical reconstruction.
 
 ### Clash (Attack, Harm, Destroy)
 
@@ -461,6 +470,19 @@ Characters tackling threats significantly below their Rank often **auto-succeed 
 *Example: Rank 3 heroes scaling a castle wall (Rank 2 challenge). They simply do it—no roll needed. The legendary hero runs up the wall in seconds. Only roll if doing it silently, while carrying someone, or under enemy fire.*
 
 *Example: Rank 4 heroes convincing a local lord (Rank 1 social challenge). Their legendary reputation alone makes this trivial—the lord is honored by their presence. No roll unless refusing would be character-defining for the lord.*
+
+**When Rolls ARE Required Against Lower-Rank Challenges:**
+
+Even when complications force a roll against a lower-Rank challenge (hostage situation, time pressure, specific constraints), the GM should reflect the power difference through fiction and adjudication:
+
+**GM Tools:**
+- **Grant Edge** - The task is easier than normal (lower-Rank foes are less skilled, less durable, less perceptive)
+- **Reduce consequence severity** - Failure against Rank 1 bandits as Rank 3 hero might cause Minor consequence, not Major
+- **Narrative framing** - Even a Conflict result feels dominant ("You defeat them all, but one escapes with the hostage in the chaos")
+- **Shorter tracks (optional)** - For extended challenges, use shorter Progress Tracks (Rank 1 threat might use 2-tick track instead of 4)
+- **Generous fictional positioning** - Lower-Rank foes can't leverage Complications effectively, can't coordinate as well, panic easier
+
+**The key:** Lower-Rank challenges should feel easy even when rolls happen. Success should be expected; only complications create tension. The roll isn't "can I defeat these bandits?" but "can I defeat them AND save the hostage before reinforcements arrive?"
 
 ---
 

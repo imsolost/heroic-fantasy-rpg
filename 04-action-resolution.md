@@ -301,15 +301,15 @@ Bladedancer (Expertise: Heavy Blades) attacks Armored Knight (2 Complications)
 
 **Example 2: Expertise + 3 Complications (Including Deadly)**
 
-Bladedancer (Expertise: Heavy Blades) attacks War Troll (Tough Hide [Physical Defense], Regeneration [Physical Defense], Deadly [Universal])
+Bladedancer (Expertise: Heavy Blades) attacks War Troll (Resilient, Deadly, Resolute)
 
 - **Roll:** Success
-- **Check Complications:** All 3 apply (Physical attack vs Physical Defense + Universal)
-- **After Complications:** Success → Conflict → Setback → Disaster
-- **Apply Expertise:** Does NOT trigger (final outcome is Disaster, not Setback)
-- **Result:** Disaster (Severe Consequence) — no progress, catastrophic failure
+- **Check Complications:** 2 apply (Trying to damage → Resilient, In combat → Deadly)
+- **After Complications:** Success → Conflict → Setback
+- **Apply Expertise:** Setback → Conflict
+- **Result:** Conflict (Minor Consequence) — mark 1 tick on Harm + mark 1 Stress
 
-*Even with Expertise, 3 Complications create overwhelming danger. You need Triumph, Act with Potency, or exploiting weaknesses to overcome this enemy.*
+*Expertise saves you from Setback, but the War Troll is still extremely dangerous. Deadly only applies in combat, so Resolute doesn't count here.*
 
 ---
 

@@ -519,6 +519,11 @@ Track lengths follow the **Tier system** (Tier 0-4):
 - **Resolve Immediately:** Simple obstacles, single-action challenges
   - Simple locks, short leaps, dodging single attacks (Triumph/Success = overcome)
 
+**Explicit Rule (Tier-Based):**
+- **Tier 0 challenges:** Always resolved immediately on Success+ (no track needed)
+- **Tier 1+ challenges:** Require a Progress Track (2/4/6/8 ticks based on Tier)
+- **Exception:** Tier 1+ can be resolved immediately if the target is narratively vulnerable (surprised, disabled, defenseless)
+
 **Rule of thumb:** If it should take multiple rolls to accomplish, use a track. If one good roll should handle it, resolve immediately.
 
 ---
@@ -567,7 +572,9 @@ Use when:
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
 
-**Important:** You cannot spend Momentum to Resist consequences from a Reactive Defy roll (when defending against enemy attacks). The Reactive Defy roll **is** your chance to resist — that's what the roll represents. Reserve Resist Consequence for outcomes of your own proactive actions.
+**Important:** You cannot spend Momentum to Resist consequences from a Reactive Defy roll (when defending against enemy attacks). The Reactive Defy roll **is** your chance to resist — that's what the roll represents. 
+
+**Exception:** When your Stress track is full and overflowing, you get a second-chance Resist roll as part of the Stress Overflow procedure (Chapter 5). This is a special case representing your last desperate effort to avoid being Taken Out.
 
 ---
 

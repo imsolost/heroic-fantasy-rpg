@@ -96,7 +96,7 @@ Conditions come from three sources:
 **Stress Overflow:** When your Stress track is full and you would mark more Stress, follow this procedure:
 
 1. **GM announces:** "You would mark [X] Stress, but your track is full."
-2. **Resist Consequence (optional):** You may spend 1 Momentum to roll Defy and reduce the Stress (Success = reduce by 2, Conflict = reduce by 1, Setback = no reduction). See Resist Consequence below.
+2. **Resist Consequence (optional):** You may spend 1 Momentum to roll Defy and reduce the Stress (Success = reduce by 2, Conflict = reduce by 1, Setback = no reduction). This is a **special exception** to the normal rule (you normally can't Resist consequences from Reactive Defy) — it represents your last desperate effort to stay in the fight. See Resist Consequence below for full rules.
 3. **Choose your fate:** If any Stress remains after Resist (or you don't Resist), you choose:
    - **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on **overflow amount** beyond your 5th box (1 overflow → tier 1, 2 overflow → tier 2, 3+ overflow → tier 3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
      - *Example: At 4/5 Stress, you take 2 Stress. Mark the 5th box + 1 overflow = Tier 1 Burden if you choose to take it.*

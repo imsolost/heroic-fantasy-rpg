@@ -519,12 +519,19 @@ Track lengths follow the **Tier system** (Tier 0-4):
 - **Resolve Immediately:** Simple obstacles, single-action challenges
   - Simple locks, short leaps, dodging single attacks (Triumph/Success = overcome)
 
-**Explicit Rule (Tier-Based):**
-- **Tier 0 challenges:** Always resolved immediately on Success+ (no track needed)
-- **Tier 1+ challenges:** Require a Progress Track (2/4/6/8 ticks based on Tier)
-- **Exception:** Tier 1+ can be resolved immediately if the target is narratively vulnerable (surprised, disabled, defenseless)
+**When to Use a Track:**
 
-**Rule of thumb:** If it should take multiple rolls to accomplish, use a track. If one good roll should handle it, resolve immediately.
+Use a Progress Track when the opposition has **narrative significance**:
+- **Named NPCs or unique enemies** (rival captain, dragon's champion, the mayor)
+- **Challenges with Traits or Special Moves** (anything with mechanical teeth)
+- **Obstacles with multiple stages** (fortified gates, complex rituals, campaign-scale objectives)
+
+**Resolve Immediately when:**
+- **Unnamed, generic opposition** (random bandits, guard patrol, wolves)
+- **No Traits or Special Moves** (narratively vulnerable, mechanically simple)
+- **One-shot obstacles** (simple locks, quick jumps, momentary hazards)
+
+**Key:** A Tier 1 minion group can be resolved immediately (Success+ defeats them) OR use a 2-tick track if they're narratively important to the scene. Tier indicates durability, not whether to track — fiction and significance determine that.
 
 ---
 

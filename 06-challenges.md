@@ -714,6 +714,19 @@ Both **Talk** and **Clash** can mark a Will track, but the fictional approach di
 - If the PC is **attacking socially** (threats, insults, dominance) → Clash
 - Context matters: shouting down a rival in a debate = Clash; presenting evidence to a judge = Talk
 
+**Switching Tactics Mid-Track:**
+
+If PCs switch between Talk and Clash on the same target's Will track, the GM decides the fictional impact:
+
+**Option 1 - Tactic-Agnostic (Default):** The Will track represents general emotional resistance. Switching from diplomacy to intimidation (or vice versa) doesn't reset progress — you're chipping away at their resolve regardless of method. Keep marking the same track.
+
+**Option 2 - Narrative Whiplash (Situational):** If the switch creates obvious fictional contradiction (e.g., switching from building trust via Talk to threatening via Clash), the GM may:
+- Impose 1 Bane on the new approach (target is confused/resistant to sudden shift)
+- Require the PC to narratively justify the transition ("After building rapport, I use that trust to deliver the threat with weight")
+- In extreme cases, declare previous progress lost (rare — only when the switch completely undermines prior work)
+
+**Default to Option 1** unless the fictional shift is jarring enough to demand acknowledgment.
+
 ### Complications and Will
 
 Challenge Traits apply to Will-based actions just as they do to Harm-based actions. Defensive Traits that make an adversary psychologically resistant impose Complications on social Clash and Talk rolls.

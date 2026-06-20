@@ -67,10 +67,10 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - Grant 1 Momentum to yourself or an ally
 - Source: Special Effect when invoking Trait on Conflict+
 
-**Complications** reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Taken Out)
+**Complications** reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Disaster)
 - Unlimited stacking
-- Source: Challenge Traits (enemy defenses)
-- Negate with: Act with Potency (ignore 1), Talents
+- Source: Challenge Complications (enemy defenses)
+- Negate with: Act with Potency (ignore 1), Talents, Triumph
 
 **Triumph ignores all Complications.**
 

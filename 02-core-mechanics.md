@@ -341,4 +341,4 @@ More tiers would complicate; fewer would lose nuance.
 - Sense → Ask 2 questions
 - Know → GM tells you one thing + you may ask one clarifying question
 
-**Triumph ignores all Complications** — no matter how many Challenge Traits oppose you, Triumph stays Triumph.
+**Triumph ignores all Complications** — no matter how many Complications oppose you, Triumph stays Triumph.

@@ -109,8 +109,8 @@ This makes it harder to:
 - [ ] Clarify how Consequence tiers interact with Stress marking
 
 ### Chapter 6: Challenges
-- [ ] Update Challenge Trait examples to use Consequence tier modifiers
-- [ ] Update Complication language to align with Consequence framework
+- [x] Update Complication examples to use new tag system (Resilient, Warded, Elusive, etc.)
+- [x] Update Complication language to align with Consequence framework
 
 ### Chapter 8: Combat
 - [ ] Update combat examples to use new terminology
@@ -184,10 +184,10 @@ This makes it harder to:
 1. **Should Triumph explicitly state "No Consequence"?** Or is it implicit that Triumph = clean success?
    - **Recommendation:** Keep implicit, but state in Core Mechanics section for clarity
 
-2. **Should Complications (from Challenge Traits) use Consequence language?**
+2. **Should Complications use Consequence language?**
    - **Current:** "1 Complication reduces outcome by 1 tier"
-   - **Proposed:** "1 Complication increases Consequence tier by 1 (shifts outcome down: Success → Conflict, Conflict → Setback)"
-   - **Benefit:** More consistent language
+   - **Alternative:** "1 Complication increases Consequence tier by 1 (shifts outcome down: Success → Conflict, Conflict → Setback)"
+   - **Decision:** Keep current wording - clearer to say "reduces outcome" than "increases Consequence tier"
 
 3. **Should some Talents explicitly "ignore Minor Consequences" instead of granting Edge?**
    - Example: "Iron Will — Ignore Minor Consequences from mental attacks"
@@ -279,9 +279,9 @@ This distinction keeps spiritual/divine language separate from scholarly/skill-b
 
 ## Related Design Patterns
 
-- **Expertise** = Reduce Consequence tier by 1 (within domain)
-- **Deadly/Brutal traits** = Increase Consequence tier by 1
-- **Armor/Defense** = Reduce incoming physical Consequence tier
-- **Potency** = Ignore Complications (prevent Consequence tier increase from Challenge Traits)
+- **Expertise** = Convert Setback → Conflict (within domain)
+- **Deadly Complication** = Reduces outcome tier (when attacking/being attacked)
+- **Complications** = Reduce outcome tier (Success → Conflict → Setback → Disaster)
+- **Potency** = Ignore 1 Complication + gain 1 Edge + narrative permission
 
 This framework creates a unified language for all consequence-modifying mechanics in the system.

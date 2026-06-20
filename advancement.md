@@ -272,7 +272,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Snap a rope or chain with sustained strikes
 - Defeat 5-6 trained guards through skilled combat
 - Lead a squad effectively in battle
-- Strike with enough force to crack stone
+- Chop through a thick wooden pillar or crack structural masonry with repeated blows
 
 **Rank 3:**
 - **Snap a heavy iron chain with a single blow**
@@ -283,8 +283,8 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Split a massive tree trunk with one sword stroke
 
 **Rank 4:**
-- **Blow a hole through a castle wall with your fist**
-- **Use your knuckles as a battering ram to smash a castle gate**
+- **Topple a fortified watchtower with a devastating impact**
+- **Shatter a keep's foundational wall with a single strike**
 - **Split a cliff face with a weapon strike**
 - **Burn away a small forest with a single spell**
 - Fight an entire company (100+ soldiers) and win
@@ -299,7 +299,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Swim across a river
 - Survive in the wilderness for a few days
 - Hold your breath while swimming underwater
-- Dodge arrows with effort
+- Duck behind cover to avoid arrows or block missiles with a shield
 - Endure minor torture or pain
 
 **Rank 2:**
@@ -318,11 +318,11 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Swim across an ocean channel
 - **Endure a fall from a high peak** (with injury but survive)
 - Ride monsters without saddles (adult dragons, griffons)
-- **Survive extreme environments** (brief exposure to lava, arctic wastes)
+- **Walk through a burning building unscathed or survive a cursed, toxic wasteland**
 - Push on without rest for a week
 
 **Rank 4:**
-- **Wade through fire or ice for extended periods, unharmed**
+- **Wade through lava or arctic wastes for extended periods, unharmed**
 - **Lift a three-story building**
 - **Carry an entire ancient tree trunk across a continent**
 - **Force open a sealed stone door shut for a thousand years**
@@ -341,7 +341,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Lead a handful of followers
 
 **Rank 2:**
-- Sway a small crowd (tavern, marketplace) into action
+- Sway a small crowd (tavern, marketplace) into brief localized action
 - Convince a local lord or minor noble
 - **Pretend to be someone well-known and maintain the ruse**
 - Talk down an angry mob (with effort)
@@ -350,7 +350,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Negotiate complex political arrangements
 
 **Rank 3:**
-- **Sway a crowd into revolution**
+- **Incite a city sector into open revolution or convince an enemy platoon to lay down arms**
 - **Convince a king to let you out of the dungeon** (through force of personality)
 - Charm hardened criminals or assassins
 - Lead an organization or small army
@@ -358,11 +358,11 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Seduce or befriend powerful figures
 
 **Rank 4:**
-- **Sway an entire town into helping you**
+- **Sway an entire nation's populace to alter their cultural beliefs**
+- **Command an invading army to turn and march against their own emperor**
 - **Convince a king to step down from his throne**
 - **Pretend to be a king for weeks without being discovered**
 - **Charm an ancient sorcerer into aiding you**
-- Command entire armies
 - Your reputation alone can end conflicts
 
 ---
@@ -377,7 +377,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Notice someone following you in a crowd
 
 **Rank 2:**
-- **Sense a master assassin stalking you through a crowded city**
+- **Sense that you are being watched in a crowded city or track an elite scout**
 - Track someone through snow, rain, or difficult terrain
 - **Detect subtle hidden magic or invisible creatures**
 - **Predict the weather days in advance with accuracy**
@@ -386,7 +386,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 
 **Rank 3:**
 - **Determine the exact location of an invisible creature in a busy environment**
-- **Track someone by the smell of their tobacco across a city**
+- **Track by minute details** (tobacco scent, disturbed dust patterns, microscopic environmental disruptions)
 - Notice supernatural threats before they manifest
 - Sense powerful magic at great distances
 - Read intentions with uncanny accuracy
@@ -413,7 +413,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - **Research forbidden lore** in libraries
 - **Find the weak point in a complex magical seal**
 - **Figure out where someone has been by examining their clothing**
-- **Determine whether a master thief will let you leave alive** (reading subtle tells)
+- **Identify the specific criminal syndicate or legendary thief by their signature methods**
 - Solve complex mechanical puzzles
 - Identify rare poisons or alchemical compounds
 
@@ -421,7 +421,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - **Make ground-breaking discoveries in magic**
 - **Create new alchemical formulas or spells**
 - Solve mysteries that would stump teams of experts
-- Decipher ancient languages by pattern recognition alone
+- **Completely translate a dead, forgotten language upon first sight by mapping structural patterns in real-time**
 - Understand complex mechanisms at a glance
 - Predict enemy strategies with uncanny accuracy
 

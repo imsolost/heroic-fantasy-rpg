@@ -228,6 +228,74 @@ Edge and Bane represent advantage and disadvantage.
 
 ---
 
+## Expertise
+
+**Expertise** represents mastery in a specific domain. When you take an action within your Expertise domain and your final outcome (after applying all Complications) would be **Setback**, the outcome becomes **Conflict** instead.
+
+### Key Mechanics
+
+**Expertise applies AFTER Complications:**
+- Roll dice → determine raw outcome
+- Apply Complications (reduce outcome tiers)
+- **If final outcome is Setback AND action is within Expertise domain: convert to Conflict**
+
+**Expertise does NOT:**
+- Protect against Disaster outcomes (only converts Setback)
+- Reduce Consequence severity (you still mark same Stress/Conditions)
+- Add Edge or negate Complications
+
+**Expertise converts failure → success, but success at a cost.**
+
+### Common Expertise Domains
+
+**Combat:**
+- Heavy Blades (greatswords, longswords, axes)
+- Light Weapons (daggers, rapiers, shortswords)
+- Archery (bows, crossbows)
+- Unarmed Combat (brawling, martial arts)
+
+**Subterfuge:**
+- Stealth and Deception (sneaking, lying, disguises)
+- Thievery (lockpicking, pickpocketing, traps)
+
+**Social:**
+- Persuasion and Diplomacy
+- Intimidation and Threats
+- Performance and Entertainment
+
+**Magic:**
+- Your chosen Sphere (Sage Specialist only)
+- Specific spell domains (Mystic depending on patron)
+
+**Other:**
+- Wilderness Survival (tracking, foraging, animal handling)
+- Scholarship (research, languages, lore)
+
+### Example in Play
+
+> **Kael (Champion with Expertise: Heavy Blades)** attacks an armored knight with 2 Complications (Resilient, Heavily Armored).
+>
+> **Roll:** Kael rolls 3d6 (Daring 3) → highest die is 6 (Success)
+>
+> **Apply Complications:**
+> - 2 Complications reduce outcome by 2 tiers
+> - Success → Conflict → Setback
+>
+> **Expertise Converts:**
+> - Setback → Conflict (Kael's mastery with heavy blades pulls victory from failure)
+>
+> **Result:** Conflict outcome
+> - **Primary Effect:** Mark 1 Harm on knight's track (Kael's blade finds a gap in the armor)
+> - **Consequence:** Minor (mark 1 Stress from the jarring impact against heavy plate)
+>
+> **GM:** "Your greatsword slams into the knight's pauldron with a ringing clang. You feel the impact travel up your arms (mark 1 Stress), but your years of training let you redirect the force—your blade slides down and catches him in the exposed joint. The knight staggers back (mark 1 Harm)."
+
+Without Expertise, this would have been Setback (failure + Major Consequence). Expertise converted it to Conflict (success + Minor Consequence).
+
+*(See Chapter 3 for Expertise Talents)*
+
+---
+
 ## Probability Tables
 
 ### Expected Outcomes (Highest die + double 6s)

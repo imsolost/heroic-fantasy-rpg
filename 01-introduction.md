@@ -79,7 +79,14 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 - **Success** (any 6) — Clean success
 - **Triumph** (two+ 6s) — Heroic success (gain 1 Momentum, ignore Complications)
 
-*Note: Enemy Complications can push Setback even further into **Disaster** (Severe Consequence) — see Chapter 4 for full rules.*
+**Complications:** Challenges have **Complication tags** that describe their defenses and when they apply:
+- **Resilient** (hard to damage), **Elusive** (hard to hit), **Alert** (hard to deceive)
+- **Warded** (magically protected), **Resolute** (strong-willed), **Deadly** (dangerous when you fail)
+- **Legendary** (counts as 2 Complications), **Complex** (hard to solve), **Stealthy** (hard to detect)
+
+*(See Chapter 6: Challenges for complete tag descriptions)*
+
+*Note: Multiple Complications can push Setback even further into **Disaster** (Severe Consequence) — see Chapter 4 for full rules.*
 
 ### Momentum (Metacurrency)
 
@@ -90,6 +97,12 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 - **Resist Consequence (1)** — Roll to reduce/avoid Stress, Condition, or narrative setback
 
 **Cap:** 2 (can be increased to 3 with Talent)
+
+### Expertise
+
+**Expertise:** Some Talents grant Expertise in a specific domain (e.g., "Expertise: Stealth and Thievery" or "Expertise: Your Chosen Sphere"). When you act within your Expertise and roll Setback, the outcome becomes Conflict instead. You succeed, but still face consequences—representing how your mastery pulls victory from failure.
+
+**Example:** A Shadow with Expertise in Stealth rolls Setback while sneaking past guards. Expertise converts it to Conflict—they succeed in staying hidden (mark progress) but suffer a Minor Consequence (maybe a close call that costs 1 Stress from the tension).
 
 ### Resilience
 

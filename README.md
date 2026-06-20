@@ -63,18 +63,47 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)
 
-### Momentum & Complications
+### Expertise
 
-**Build Momentum** (Special Effect from Trait)
-- Grant 1 Momentum to yourself or an ally
-- Source: Special Effect when invoking Trait on Conflict+
+Characters with **Expertise** in a domain (e.g., Heavy Blades, Stealth, your chosen magical Sphere) convert **Setback → Conflict** outcomes when acting within that domain.
 
-**Complications** reduce outcome by -1 tier (Triumph → Success → Conflict → Setback → Disaster)
-- Unlimited stacking
-- Source: Challenge Complications (enemy defenses)
+**You still succeed, but at a cost.** Expertise represents mastery—you don't fail, but difficult situations still extract a price.
+
+**Example:** A master swordsman with Expertise: Heavy Blades rolls Setback against an armored foe. Expertise converts it to Conflict—the attack lands (mark Harm track) but costs Stress.
+
+*(See Chapter 3: Characters for full Expertise rules)*
+
+### Complications
+
+**Complications** reduce outcome by -1 tier each (Success → Conflict → Setback → Disaster)
+- Source: Challenge Complication tags (enemy defensive abilities)
 - Negate with: Act with Potency (ignore 1), Talents, Triumph
+- Unlimited stacking
+
+**Common Complication Tags:**
+
+Challenges have **Complication tags** that describe when they apply:
+
+**Defensive Tags** (hinder attacks):
+- **Resilient** — Hinders actions that try to harm, damage, or destroy (tough armor, thick hide)
+- **Warded** — Hinders magical attacks and effects (magic resistance, protective wards)
+- **Elusive** — Hinders attacks, physical or magical (dodge, parry, supernatural evasion)
+
+**Perception Tags** (hinder detection/deception):
+- **Stealthy** — Hinders attempts to detect, track, or perceive (natural camouflage, supernatural concealment)
+- **Alert** — Hinders stealth, ambush, or deception attempts (keen senses, paranoia, magical awareness)
+
+**Mental Tags** (hinder social/mental actions):
+- **Resolute** — Hinders persuasion, intimidation, or mental influence (strong will, fanaticism, mind shields)
+- **Complex** — Hinders attempts to solve, unlock, or understand (intricate locks, arcane puzzles, alien logic)
+
+**Special Tags** (modify consequences or stack):
+- **Deadly** — Increases Consequence severity by 1 tier when you fail (venomous, brutal, savage)
+- **Legendary** — Reduces outcome by 2 tiers instead of 1 (counts as 2 Complications)
 
 **Triumph ignores all Complications.**
+
+*(See Chapter 6: Challenges for complete Complication system)*
 
 ## Reading Order
 

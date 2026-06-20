@@ -62,27 +62,31 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ### Complication Tags
 
-**Resilience** - Hard to damage or break
+**Complications make actions harder, never grant immunity.** Tags reduce outcome tiers (Success → Conflict, Conflict → Setback, Setback → Disaster), but Triumph, Act with Potency, and teamwork can overcome any Complication.
+
+---
+
+**Resilient** - Hard to damage or break
 - Blocks actions that try to harm, damage, or destroy
 - Armor, tough hide, reinforced construction, magical durability
 - Applies to: Sword strikes, arrows, fireballs, lightning bolts
 - Countered by: Overwhelming force, finding weak points, armor-piercing attacks
 
-**Ward** - Resists magical effects
+**Warded** - Resists magical effects
 - Blocks non-damaging magical effects and manipulations
 - Magic immunity, counterspells, ancient enchantments
 - Applies to: Charm, Polymorph, Banish, Paralyze, Slow, magical detection
-- Does NOT apply to: Damaging spells (fireballs, lightning) - those face Resilience
+- Does NOT apply to: Damaging spells (fireballs, lightning) - those face Resilient
 - Countered by: Dispelling, overwhelming magical power, different magical approach
 
-**Speed** - Hard to hit or catch
+**Elusive** - Hard to hit or catch
 - Blocks actions that require targeting or catching the target
 - Agility, small size, erratic movement, supernatural quickness
 - Applies to: Melee attacks, ranged attacks, targeted spells
 - Does NOT apply to: Area effects, social influence, perception
 - Countered by: Trapping, predicting movement, area attacks, slowing them
 
-**Stealth** - Hard to perceive or detect
+**Stealthy** - Hard to perceive or detect
 - Blocks actions that require seeing, sensing, or detecting the target
 - Invisibility, camouflage, silence, magical concealment
 - Applies to: Targeted attacks, tracking, spotting, investigation
@@ -95,11 +99,17 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 - Applies to: Sneaking, hiding, ambushing, lying, concealing information
 - Countered by: Distraction, overwhelming their senses, magical concealment
 
-**Complexity** - Hard to understand, solve, or navigate
+**Complex** - Hard to understand, solve, or navigate
 - Blocks actions that require comprehension or navigation of intricate systems
 - Complex mechanisms, codes, intricate social webs, layered defenses
 - Applies to: Lockpicking, puzzle-solving, navigating politics, understanding motives
 - Countered by: Knowledge, time, expertise, simplifying the problem
+
+**Resolute** - Hard to influence or sway
+- Blocks actions that attempt social or mental influence
+- Discipline, faith, stubbornness, emotional stability, strong convictions
+- Applies to: Persuasion, intimidation, deception, interrogation
+- Countered by: Appealing to values, leverage, time, building trust
 
 **Resolve** - Hard to influence or sway
 - Blocks actions that attempt social or mental influence
@@ -107,11 +117,18 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 - Applies to: Persuasion, intimidation, deception, interrogation
 - Countered by: Appealing to values, leverage, time, building trust
 
-**Universal** - Always applies
+**Legendary** - Always applies
 - Blocks ALL actions regardless of approach
-- Legendary status, overwhelming presence, fundamental danger
-- Special cases: Deadly (increases consequence tier), Apex Predator (legendary threat)
-- Countered by: Triumph, Act with Potency, exploiting weaknesses
+- Overwhelming presence, mythic power, reality-warping nature
+- The dragon's mere presence is oppressive; negotiating with the demon lord is as hard as fighting it
+- Countered by: Triumph, Act with Potency, exploiting weaknesses, divine intervention
+
+**Deadly** - Applies when attacking or being attacked
+- Blocks combat actions (both offense and defense)
+- Supreme combat skill, lethal weapons, battle-honed reflexes
+- Master assassin in combat, elite knight's deadly blade, war troll's brutal strikes
+- Does NOT apply to: Negotiation, investigation, non-combat actions
+- Countered by: Triumph, Act with Potency, avoiding direct confrontation
 
 ---
 
@@ -121,15 +138,16 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 1. **Describe your action** - What are you trying to do?
 2. **GM identifies what you're trying to accomplish:**
-   - Damage/harm it? → Check Resilience
-   - Magically affect it (non-damage)? → Check Ward
-   - Hit/catch it? → Check Speed
-   - See/detect it? → Check Stealth
+   - Damage/harm it? → Check Resilient
+   - Magically affect it (non-damage)? → Check Warded
+   - Hit/catch it? → Check Elusive
+   - See/detect it? → Check Stealthy
    - Sneak past/deceive it? → Check Alert
-   - Understand/solve it? → Check Complexity
-   - Influence/sway it? → Check Resolve
+   - Understand/solve it? → Check Complex
+   - Influence/sway it? → Check Resolute
 3. **Count matching tags** - That's how many Complications you face
-4. **Universal always applies**
+4. **Legendary always applies (to everything)**
+5. **Deadly applies when attacking or being attacked**
 
 ---
 
@@ -138,32 +156,33 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 ```
 Ancient Dragon (Tier 4, Harm 8, Will 8)
 Complications:
-- Steel Scales (Resilience) - impenetrable dragon scales
-- Ancient Magic (Ward) - millennia of magical power
-- Apex Predator (Universal) - legendary threat
+- Resilient - impenetrable dragon scales
+- Warded - ancient magic resistance
+- Alert - keen draconic senses
+- Legendary - overwhelming mythic presence
 ```
 
 **Kael swings his sword:**
-- Trying to damage it → **Resilience applies** ✓
-- Universal → **Apex Predator applies** ✓
+- Trying to damage it → **Resilient applies** ✓
+- Legendary → **Always applies** ✓
 - **Total: 2 Complications**
 
 **Mira casts Fireball:**
-- Trying to damage it → **Resilience applies** ✓ (tough scales resist fire)
-- Universal → **Apex Predator applies** ✓
+- Trying to damage it → **Resilient applies** ✓ (tough scales resist fire)
+- Legendary → **Always applies** ✓
 - **Total: 2 Complications**
 
 **Mira casts Charm Dragon:**
-- Trying to magically influence → **Ward applies** ✓
-- Universal → **Apex Predator applies** ✓
+- Trying to magically influence → **Warded applies** ✓
+- Legendary → **Always applies** ✓
 - **Total: 2 Complications**
 
 **Ryn tries to intimidate:**
-- Trying to influence socially → No matching tag (dragon has no Resolve)
-- Universal → **Apex Predator applies** ✓
+- Trying to influence socially → No matching tag (dragon has no Resolute)
+- Legendary → **Always applies** ✓
 - **Total: 1 Complication**
 
-**Tactical Insight:** Social influence is the weak point!
+**Tactical Insight:** Social influence is the weak point! Legendary still makes it hard, but bypasses Resilient/Warded.
 
 ---
 
@@ -172,27 +191,27 @@ Complications:
 ```
 Fast Duelist (Tier 2, Harm 4, Will 4)
 Complications:
-- Lightning Reflexes (Speed) - incredibly fast, hard to hit
-- Combat Training (Resolve) - disciplined warrior
+- Elusive - lightning reflexes, incredibly fast
+- Resolute - disciplined warrior
 ```
 
 **Warrior swings sword:**
-- Trying to hit target → **Speed applies** ✓
+- Trying to hit target → **Elusive applies** ✓
 - **Total: 1 Complication**
 
 **Sage casts Magic Missile:**
-- Trying to hit target → **Speed applies** ✓ (can't target what you can't track)
+- Trying to hit target → **Elusive applies** ✓ (can't target what you can't track)
 - **Total: 1 Complication**
 
 **Sage casts Area Fireball:**
-- Area effect, don't need to target → Speed does NOT apply ✗
+- Area effect, don't need to target → Elusive does NOT apply ✗
 - **Total: 0 Complications** (speed doesn't help against area effects!)
 
 **PC tries to intimidate:**
-- Trying to influence → **Resolve applies** ✓
+- Trying to influence → **Resolute applies** ✓
 - **Total: 1 Complication**
 
-**Tactical Insight:** Use area effects to bypass speed!
+**Tactical Insight:** Use area effects to bypass Elusive!
 
 ---
 
@@ -201,24 +220,23 @@ Complications:
 ```
 Invisible Stalker (Tier 2, Harm 4)
 Complications:
-- Invisibility (Stealth) - cannot be seen
-- Silent Movement (Stealth) - makes no sound
+- Stealthy - invisible and silent
 ```
 
 **Warrior swings sword:**
-- Trying to hit → Need to perceive target → **Stealth applies** ✓ (both tags count as 1)
+- Trying to hit → Need to perceive target → **Stealthy applies** ✓
 - **Total: 1 Complication** (can't hit what you can't see)
 
 **Sage casts Targeted Fireball:**
-- Trying to target → **Stealth applies** ✓
+- Trying to target → **Stealthy applies** ✓
 - **Total: 1 Complication**
 
 **Sage casts Area Fireball in its zone:**
-- Area effect, don't need to see target → Stealth does NOT apply ✗
+- Area effect, don't need to see target → Stealthy does NOT apply ✗
 - **Total: 0 Complications**
 
 **PC throws flour in the air:**
-- Creating advantage (doesn't remove Stealth, but grants Edge to allies)
+- Creating advantage (doesn't remove Stealthy, but grants Edge to allies)
 - **Tactical play rewarded!**
 
 ---
@@ -228,21 +246,21 @@ Complications:
 ```
 Ancient Vault Door (Tier 2, Obstacle 6)
 Complications:
-- Reinforced Steel (Resilience) - thick steel construction
-- Intricate Lock (Complexity) - master-crafted mechanism
-- Arcane Wards (Ward) - magical protections
+- Resilient - thick steel construction
+- Complex - intricate lock mechanism
+- Warded - magical protections
 ```
 
 **Warrior smashes door (Defy with Daring):**
-- Trying to break it → **Resilience applies** ✓
+- Trying to break it → **Resilient applies** ✓
 - **Total: 1 Complication**
 
 **Rogue picks lock (Defy with Cunning):**
-- Trying to solve mechanism → **Complexity applies** ✓
+- Trying to solve mechanism → **Complex applies** ✓
 - **Total: 1 Complication**
 
 **Sage casts Magic Unlock (Know with Spirit):**
-- Trying to bypass magical wards → **Ward applies** ✓
+- Trying to bypass magical wards → **Warded applies** ✓
 - **Total: 1 Complication**
 
 **Tactical Insight:** Each approach faces different Complication! Team can try multiple methods.
@@ -254,10 +272,10 @@ Complications:
 The GM can add **temporary Environmental Complications** based on the situation:
 
 **Examples:**
-- **Fighting on Ice (Movement)** - slippery surface makes repositioning difficult
-- **Negotiating in Hostile Court (Mental Defense)** - nobles are suspicious and guarded
-- **Thick Smoke (Sensory)** - obscures vision, hard to target accurately
-- **Narrow Bridge (Movement)** - difficult to reposition or flank
+- **Fighting on Ice (Elusive)** - slippery surface makes targeting difficult
+- **Negotiating in Hostile Court (Resolute)** - nobles are suspicious and guarded
+- **Thick Smoke (Stealthy)** - obscures vision, hard to see accurately
+- **Narrow Bridge (Complex)** - difficult terrain complicates movement
 
 These typically last for the scene or until the environment changes.
 
@@ -365,47 +383,47 @@ Challenge Moves are intentionally stronger than standard Impact Moves:
 
 **Power Level Guidelines:**
 
-**Tier 1 (Minions):**
-- 2-3 Stress single target
-- 1 Stress + Condition tier 1-2
+**Hard Cap: 3 Stress maximum on any single Challenge Move**
+
+**Tier 1-2 (Minions/Standard):**
+- 2 Stress single target
+- OR 1-2 Stress + Condition tier 1-2
+- OR 1 Stress + Condition tier 3
 - Simple, straightforward effects
 
-**Tier 2 (Standard):**
-- 3 Stress single target
-- 2 Stress + Condition tier 2
-- 1 Stress + Condition tier 3
-- Area effect (2 targets, 1-2 Stress each)
+**Tier 3-4 (Elite/Boss):**
+- 3 Stress single target (maximum)
+- OR 2 Stress + Condition tier 2-3
+- OR Area effects (multiple targets, 1-2 Stress each)
+- OR Environmental Complications
 
-**Tier 3 (Elite):**
-- 3-4 Stress single target
-- 2-3 Stress + strong Condition
-- Area effects with strong consequences
-- Environmental Complications
+**Not all enemies need Challenge Moves.** Simple foes use standard Hard Moves (2 Stress). Reserve Challenge Moves for enemies that do something special or dangerous.
 
-**Tier 4 (Boss):**
-- 4+ Stress
-- Devastating area effects
-- Multiple Conditions
-- Severe Consequences (Burdens)
+**Bosses stay scary through:**
+- Legendary/Deadly Complications (reduce outcome tiers)
+- Area effects (hit multiple PCs)
+- Strong Conditions (Poisoned 3, Frightened 2)
+- Multiple Challenge Moves (variety, not just big numbers)
 
 **Examples:**
 
 **Ancient Dragon (Tier 4):**
 - **Burning Bite** - Close range, 3 Stress (unlimited)
 - **Tail Sweep** - All in Close range, 2 Stress + Prone 1 (unlimited)
-- **Wing Buffet [□□]** - All in Near range pushed to Far + Deafened 1 (2 uses)
+- **Wing Buffet [□□]** - All in Near range pushed to Far + 1 Stress (2 uses)
 - **Fire Breath [□□]** - All in Near range, 2 Stress + Burned 1 (2 uses)
 - **Frightful Roar [□]** - All in Near range, Frightened 2 (1 use)
 
 **Elite Knight (Tier 2):**
-- **Longsword Strike** - Close range, 3 Stress (unlimited)
 - **Shield Bash** - Close range, 2 Stress + Stunned 1 (unlimited)
 - **Disarming Strike** - Close range, 2 Stress + Disarmed 1 (unlimited)
 
 **Drow Assassin (Tier 2):**
 - **Poisoned Blade** - Close range, 1 Stress + Poisoned 3 (unlimited)
 - **Shadow Step [□□]** - Teleport to Near/Far position (2 uses)
-- **Throat Strike** - Close range, 4 Stress (requires vulnerable target)
+
+**Bandit (Tier 1):**
+- No Challenge Moves (uses standard Hard Moves: 2 Stress)
 
 ---
 
@@ -439,10 +457,10 @@ Some Challenge Moves create **temporary Environmental Complications** that affec
 - Expire when track empties OR at end of scene
 
 **Examples:**
-- **Rallied (Universal) [□□]** - Knight's allies are emboldened; next 2 actions against them face +1 Complication
-- **Smoke Cloud (Sensory) [□□□]** - Area filled with smoke; next 3 Sense/ranged actions suffer +1 Complication
-- **Wall of Thorns (Movement) [□□]** - Blocks path; next 2 movement attempts suffer +1 Complication
-- **Aura of Fear (Mental Defense) [□□□]** - Area effect; next 3 mental/social actions in zone suffer +1 Complication
+- **Rallied (Legendary) [□□]** - Knight's allies are emboldened; next 2 actions against them face +1 Complication
+- **Smoke Cloud (Stealthy) [□□□]** - Area filled with smoke; next 3 Sense/ranged actions suffer +1 Complication
+- **Wall of Thorns (Complex) [□□]** - Blocks path; next 2 movement attempts suffer +1 Complication
+- **Aura of Fear (Resolute) [□□□]** - Area effect; next 3 mental/social actions in zone suffer +1 Complication
 
 **Example in Play:**
 
@@ -501,7 +519,7 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 **Narrative Flexibility:** The exact number of enemies is flexible — "a squad of soldiers" might be 4 or 8 depending on the scene. The track represents their collective threat, not a precise headcount.
 
-**Complications for Groups:** Groups can have Complications just like individuals. A squad of armored knights might have **Full Plate (Physical Defense)**, representing their collective defensive posture.
+**Complications for Groups:** Groups can have Complications just like individuals. A squad of armored knights might have **Resilient**, representing their collective defensive posture.
 
 ---
 
@@ -509,19 +527,19 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 **Tier 1 (Minions):**
 - **0-1 Complications** - mostly standard
-- Example: Bandit (0 Complications), Guard Captain (**Battle-Trained [Universal]**)
+- Example: Bandit (0 Complications), Guard Captain (**Resolute**)
 
 **Tier 2 (Standard):**
 - **1 Complication** - one notable trait
-- Example: Armored Knight (**Full Plate [Physical Defense]**)
+- Example: Armored Knight (**Resilient**)
 
 **Tier 3 (Elite):**
 - **1-2 Complications** - multiple significant traits
-- Example: Elite Knight (**Legendary Sword [Close Offense]** + **Full Plate [Physical Defense]**)
+- Example: Elite Knight (**Deadly** + **Resilient**)
 
 **Tier 4 (Boss):**
 - **2-3 Complications** - legendary, multi-layered defenses
-- Example: Ancient Dragon (**Apex Predator [Universal]** + **Steel Scales [Physical Defense]** + **Blazing Claws [Close Offense]**)
+- Example: Ancient Dragon (**Legendary** + **Resilient** + **Warded** + **Alert**)
 
 ---
 
@@ -962,16 +980,16 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 - **Tier:** 2
 - **Tracks:** Harm 4, Will 4
 - **Complications:**
-  - Full Plate (Physical Defense)
-  - Disciplined (Mental Defense)
-- **Challenge Moves:** None (standard opponent)
+  - Resilient - full plate armor
+  - Resolute - disciplined warrior
+- **Challenge Moves:** None (uses standard Hard Moves: 2 Stress)
 
 **Tactics:** Advance steadily, shield bash to create openings
 
 **How PCs deal with it:**
-- **Fight directly:** Act with Potency (1 Momentum) to ignore armor, ally uses Build Momentum to set up, or Talents like "Armor Piercer"
-- **Break their will:** Clash socially (intimidation/taunts) to mark Will — still faces 1 Complication ("Disciplined") but might be easier than breaking armor
-- **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant Edge on social Clash)
+- **Fight directly:** Act with Potency (1 Momentum) to ignore Resilient, ally uses Build Momentum to set up, or Talents like "Armor Piercer"
+- **Break their will:** Talk/Clash socially (intimidation/taunts) to mark Will — still faces Resolute but might be easier than breaking armor
+- **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant Edge on social roll)
 - **Triumph:** Ignores all Complications on either track
 
 **Design Note:** Symmetrical tracks (both 4 ticks, both 1 Complication) = balanced opponent, multiple valid approaches.
@@ -982,25 +1000,24 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 - **Tier:** 3
 - **Tracks:** Harm 6, Will 10 (nearly unbreakable resolve)
 - **Complications:**
-  - Tough Hide (Physical Defense)
-  - Regeneration (Physical Defense)
-  - Deadly (Universal) — When War Troll deals consequences, increase tier by 1 (Minor → Major, Major → Severe)
-  - Fearless (Mental Defense)
+  - Resilient - tough hide, regeneration
+  - Deadly - brutal combat prowess (applies when attacking/being attacked)
+  - Resolute - fearless, unbreakable will
 - **Challenge Moves:**
-  - Brutal Swing [□□] — Target marks 2 Stress + Stunned 1 (Close range, 2 uses per encounter)
+  - **Brutal Swing [□□]** - Close range, 2 Stress + Stunned 1 (2 uses)
 - **Weakness:** Fire (Fire attacks grant 1 Edge or negate 1 Complication)
 
 **Tactics:** Aggressive, brutal, relentless — won't flee or surrender
 
 **How PCs deal with it:**
 - **Primary approach:** Physical combat (Harm track)
-  - Exploit fire weakness (negate 1 Complication, still need to handle Regeneration)
+  - Exploit fire weakness (negate 1 Complication, still faces Resilient + Deadly)
   - Multiple allies Build Momentum, coordinated assault with Act with Potency
-  - Triumph ignores both Complications
-- **Social approach:** Effectively impossible (Will 10 + 3 Complications = designed to resist social defeat)
+  - Triumph ignores all Complications
+- **Social approach:** Effectively impossible (Will 10 + 2 Complications = designed to resist social defeat)
 - **Best strategy:** Teamwork to overcome physical defenses, don't waste time trying to intimidate it
 
-**Design Note:** Asymmetrical tracks signal "you can't reason with this, you must fight." High Will + heavy Complications = social victory is functionally off the table.
+**Design Note:** Asymmetrical tracks signal "you can't reason with this, you must fight." High Will + heavy Complications = social victory is functionally off the table. Deadly applies in combat only—negotiating wouldn't face it (though the troll won't negotiate!).
 
 ### Protecting Tracks with Complications (Design Principle)
 
@@ -1011,13 +1028,13 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Track you want to discourage:** High tick count + 2-3 Complications
 
 **Examples:**
-- **War Troll:** Physical combat intended (Harm 6 + 2 Complications) vs. social bypass prevented (Will 10 + 3 Complications = effectively impossible)
+- **War Troll:** Physical combat intended (Harm 6 + 2 Complications) vs. social bypass prevented (Will 10 + 2 Complications = effectively impossible)
 - **Zealot Priest:** Violence discouraged narratively (Harm 2, no Complications = mechanically easy but creates martyrdom) vs. persuasion encouraged (Will 6 + 1 Complication = harder but cleaner)
 - **Mind-Controlled Ally:** Harm track exists but heavily defended (don't want to kill them) vs. Will track exposed (break the control)
 
 **Why This Works:**
 - 2 Complications = Success downshifts to Setback, Conflict → Disaster (extremely punishing without teamwork)
-- 3 Complications = Success → Conflict, Conflict → Taken Out (functionally impossible without Triumph or coordinated Momentum spending)
+- 3+ Complications = Success → Conflict, Conflict → Disaster (functionally impossible without Triumph or coordinated Momentum spending)
 - Players naturally route around heavily defended tracks, engaging with the intended challenge
 
 **GM Guidance:** If you don't want players to solve a Challenge via a specific approach (social, violent, environmental), give that track 2-3 Complications. If you want to encourage an approach, give it 0-1 Complications.
@@ -1027,18 +1044,17 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 ### Tier 1 Zealot Priest
 - **Tier:** 1
 - **Tracks:** Harm 2 (physically frail), Will 6 (fanatic devotion)
-- **Traits:** "Fanatic" (Defensive on Will)
-  - Social attacks to break will face 1 Complication
-  - Physical attacks face no Complications (unarmored, non-combatant)
+- **Complications:**
+  - Resolute - fanatic faith
 - **Exploitable:** "Frail"
   - Physical Clash grants 1 Edge (easy to hurt)
 
 **Tactics:** Preach zealously, martyr complex, won't be swayed by reason
 
 **How PCs deal with it:**
-- **Fight:** Quick physical defeat (Harm 2, no defenses) — but creates martyrdom problem fictionally
-- **Persuade:** Long, difficult social conflict (Will 6 + 1 Complication) — but clean resolution
-- **Intimidate:** Clash to mark Will — tough due to fanaticism, but possible with Momentum/teamwork
+- **Fight:** Quick physical defeat (Harm 2, no Complications) — but creates martyrdom problem fictionally
+- **Persuade:** Long, difficult social conflict (Will 6 + Resolute) — but clean resolution
+- **Intimidate:** Talk to mark Will — tough due to Resolute, but possible with Momentum/teamwork
 - **Strategic choice:** Fast and dirty (violence) vs. slow and clean (persuasion)
 
 **Design Note:** Extreme asymmetry creates **interesting dilemmas** — the easy path (violence) may have narrative costs (martyrdom, witnesses, moral weight). Track lengths signal what the Challenge is built to resist.
@@ -1049,12 +1065,12 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Tier:** 2
 - **Tracks:** Obstacle 6
 - **Complications:**
-  - Reinforced Steel (Physical Defense)
-  - Arcane Wards (Magical Defense)
+  - Resilient - reinforced steel
+  - Warded - arcane protections
 
 **How PCs deal with it:**
 - Find the key (bypasses entirely, narrative solution)
-- Dispel wards first (removes 1 Complication via Know or magic)
+- Dispel wards first (removes Warded via Know or magic)
 - Act with Potency + ally support (Build Momentum teamwork)
 - Brute force with Talents or Triumph (ignore Complications)
 
@@ -1066,16 +1082,16 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Tier:** 2 (social opposition)
 - **Tracks:** Will 6 (strong-willed, resistant to manipulation)
 - **Complications:**
-  - Suspicious (Mental Defense)
-  - Well-Informed (Mental Defense) — Knows local rumors and politics
+  - Resolute - disciplined, suspicious
+  - Alert - well-informed, knows local rumors
 - **Exploitable:** Arrogant (Flattery grants 1 Edge)
 
 **Tactics:** Ask probing questions, demand proof
 
 **How PCs deal with it:**
-- **Talk honestly:** Present compelling evidence, mark Will directly (avoids "Suspicious" Complication)
-- **Clash socially:** Use flattery to exploit "Arrogant" (grants 1 Edge), then use rhetoric/intimidation to mark Will
-- **Mix approaches:** One PC distracts with flattery while another investigates, creating openings
+- **Talk honestly:** Present compelling evidence, mark Will (faces Resolute)
+- **Deceive:** Try to lie/manipulate (faces both Resolute + Alert = 2 Complications!)
+- **Use flattery:** Exploit "Arrogant" (grants 1 Edge) to offset Complications
 - **Build Momentum:** Allies support each other through teamwork to overcome 2 Complications on deception attempts
 
 **Fiction:** Once Will track fills, the Noble is convinced, becomes an ally, or at least stops opposing the PCs.
@@ -1085,13 +1101,13 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 ### Tier 3 Ancient Dragon (All Three Tracks)
 - **Tier:** 3
 - **Tracks:** Harm 8, Will 6, Obstacle 4
-- **Traits:** 
-  - "Scaled Hide" (Defensive, applies to Harm): Physical attacks face 1 Complication
-  - "Ancient Cunning" (Defensive, applies to Will): Social manipulation face 1 Complication
-  - "Terrifying Presence" (Defensive, applies to Obstacle): Bypass/stealth attempts face 1 Complication
-  - "Deadly" (Impact Move Modifier): +1 Stress on all Impact Moves
+- **Complications:** 
+  - Resilient - impenetrable scales (applies to Harm)
+  - Resolute - ancient cunning (applies to Will)
+  - Alert - keen senses (applies to Obstacle: stealth/bypass)
+  - Deadly - devastating in combat (applies when attacking/being attacked)
 - **Exploitable:** "Prideful"
-  - Flattery/challenges to pride grant 1 Edge on social Clash (Will)
+  - Flattery/challenges to pride grant 1 Edge on social rolls (Will)
 
 **Tactics:** Territorial, intelligent, prefers negotiation but will incinerate threats
 
@@ -1099,20 +1115,20 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 1. **Combat (Harm 8):** 
    - Direct confrontation, hardest path
-   - Requires sustained teamwork to overcome "Scaled Hide"
-   - Dragon deals heavy damage ("Deadly")
+   - Faces Resilient + Deadly in combat (2 Complications)
+   - Dragon deals heavy damage (Deadly applies)
    - Victory = dragon slain
 
 2. **Negotiation (Will 6):**
    - Diplomatic approach, medium difficulty
    - Use flattery/tribute to exploit "Prideful"
-   - Must overcome "Ancient Cunning" with compelling offers
+   - Faces Resolute (1 Complication)
    - Victory = dragon agrees to terms, becomes ally/neutral
 
 3. **Bypass (Obstacle 4):**
    - Stealth/clever approach, moderate difficulty
    - Sneak past while dragon sleeps, distract it, etc.
-   - "Terrifying Presence" makes this risky (Complication)
+   - Faces Alert (1 Complication)
    - Victory = objective achieved without confrontation (steal treasure, rescue prisoner, etc.)
 
 4. **Mixed approaches:**
@@ -1151,26 +1167,26 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - Dynamic battlefield (objectives beyond "kill the boss")
 
 **Example Boss: Ancient Lich**
-- **Tier 3**
+- **Tier 4**
 - **Tracks:** Harm 10, Will 8, Obstacle 6
   - **Harm:** Physical destruction (very durable undead body)
   - **Will:** Breaking its grip on this plane (strong but possible with holy/divine persuasion)
   - **Obstacle:** Finding and destroying phylactery (hidden, warded)
 - **Complications:**
-  - Undead Resilience (Physical Defense) — Resists mundane harm; holy/divine attacks negate this Complication
-  - Arcane Ward (Magical Defense)
-  - Lair Defenses (Universal) — Applies to bypassing lair traps and obstacles
-- **Exploitable:** Phylactery (destroying it via Obstacle track removes Undead Resilience Complication entirely)
+  - Resilient - undead resilience (resists mundane harm; holy/divine attacks negate)
+  - Warded - ancient arcane protections
+  - Complex - lair defenses (applies to bypassing traps/obstacles)
+- **Exploitable:** Phylactery (destroying it via Obstacle track removes Resilient entirely)
 - **Challenge Moves:**
-  - Deathly Aura (Passive) — All PCs mark 1 Stress at start of each round
-  - Raise Dead [□□□] — Summon 2-tick minion in Near range (3 uses)
-  - Soul Drain [□□] — Target marks 2 Stress + Exhausted 2 (Burden) (2 uses)
+  - **Deathly Aura** (Passive) - All PCs mark 1 Stress at start of each round
+  - **Raise Dead [□□□]** - Summon 2-tick minion in Near range (3 uses)
+  - **Soul Drain [□□]** - Target marks 2 Stress + Exhausted 2 (Burden) (2 uses)
 
 **How PCs defeat it:**
 
-1. **Direct combat (Harm 10):** Long, brutal fight — requires holy weapons to bypass Undead Resilience, teamwork to overcome Arcane Ward
-2. **Banishment ritual (Will 8):** Divine/holy ritual to sever its connection to this plane — social Clash using faith/divine authority
-3. **Destroy phylactery (Obstacle 6):** Find hidden phylactery, bypass wards, destroy it → removes "Undead" trait, makes Harm approach viable
+1. **Direct combat (Harm 10):** Long, brutal fight — requires holy weapons to bypass Resilient, teamwork to overcome Warded
+2. **Banishment ritual (Will 8):** Divine/holy ritual to sever its connection to this plane — Talk using faith/divine authority
+3. **Destroy phylactery (Obstacle 6):** Find hidden phylactery, bypass wards, destroy it → removes Resilient, makes Harm approach viable
 4. **Mixed approach (optimal):** Split party — some distract Lich (mark Harm/Will), others find phylactery (mark Obstacle) → once destroyed, coordinated assault finishes it
 
 **Design Note:** Multiple tracks create **strategic depth** — players must choose which victory condition to pursue, or split resources. Destroying phylactery (Obstacle) makes other approaches easier (removes Undead Resilience Complication).
@@ -1254,7 +1270,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - Negate with: Act with Potency (1 Momentum), Talents, Build Momentum teamwork
 
 **Common Challenge Elements:**
-- **Complications:** Defensive traits with tags (Physical Defense, Magical Defense, Mental Defense, Universal, etc.)
+- **Complications:** Defensive traits with tags (Resilient, Warded, Elusive, Resolute, Legendary, Deadly, etc.)
 - **Exploitable:** Grant 1 Edge when exploited (e.g., "Arrogant," "Weak to Fire," "Slow")
 - **Challenge Moves:** Active abilities used as Impact Moves with limited uses [□□]
 
@@ -1268,14 +1284,16 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - **2 Complications:** Elite opposition (requires teamwork or resources)
 - **3+ Complications:** Boss-tier (requires coordination + Triumph/Potency/weaknesses)
 
-**Consequence Modifiers (Universal Tag):**
-
-Use Universal-tagged Complications to modify the severity of consequences the Challenge inflicts:
-
-- **Base:** Minor Consequence = 1 Stress, Major Consequence = 2 Stress
-- **Deadly (Universal):** Increase Consequence tier by 1 (Minor → Major, Major → Severe)
-- **Weak (Universal):** Reduce Consequence tier by 1 (Major → Minor, cannot reduce below Minor)
-- **Pathetic (Universal):** Can only trigger Minor Consequences (max 1 Stress)
+**Complication Tags:**
+- **Resilient** - Hard to damage/break
+- **Warded** - Resists magical effects (non-damaging)
+- **Elusive** - Hard to hit/catch
+- **Stealthy** - Hard to perceive
+- **Alert** - Perceives others well
+- **Complex** - Hard to understand/solve
+- **Resolute** - Hard to influence
+- **Legendary** - Always applies (mythic presence)
+- **Deadly** - Applies when attacking/being attacked (combat danger)
 
 ---
 
@@ -1342,22 +1360,18 @@ How significant is this threat?
 
 **Common Tagged Complications:**
 
-**Defense:**
-- Steel Scales (Physical Defense)
-- Arcane Ward (Magical Defense)
-- Iron Will (Mental Defense)
-- Null Field (Physical Defense, Magical Defense)
+**Approach-Based:**
+- Resilient - steel scales, tough hide, armor
+- Warded - arcane protections, magic immunity, counterspells
+- Elusive - lightning reflexes, small size, supernatural speed
+- Stealthy - invisibility, silence, camouflage
+- Alert - keen senses, multiple eyes, tremorsense
+- Complex - intricate mechanisms, layered defenses
+- Resolute - iron will, discipline, fanatic faith
 
-**Offense:**
-- Blazing Claws (Close Offense)
-- Whip Tentacles (Near Offense)
-- Longbow (Far Offense)
-
-**Other:**
-- Apex Predator (Universal)
-- Deadly (Universal) — Increases Consequence tier by 1
-- Keen Senses (Sensory)
-- Web (Movement)
+**Special:**
+- Legendary - mythic presence (always applies to everything)
+- Deadly - combat supremacy (applies when attacking/being attacked)
 
 **GM Guidance on 3+ Complications:**
 Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle-lock challenges (2-3 times per campaign arc). They signal "don't engage head-on without preparation."
@@ -1497,14 +1511,14 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 **Example: Dragon Boss Fight**
 
 **Tier 4 | Dragon Body** (8 ticks)
-- **Complications:** Steel Scales (Physical Defense), Inferno Aura (Universal)
+- **Complications:** Resilient (impenetrable scales), Legendary (overwhelming presence)
 - **Challenge Moves:**
-  - Fire Breath [□□] — All in Near range mark 2 Stress + Burned 1 (2 uses)
-  - Tail Sweep [□□□] — All in Close range Defy or Prone 1 (3 uses)
+  - **Fire Breath [□□]** - All in Near range mark 2 Stress + Burned 1 (2 uses)
+  - **Tail Sweep [□□□]** - All in Close range Defy or Prone 1 (3 uses)
 
 **Tier 3 | Dragon Wings** (6 ticks, separate track)
-- **Complications:** Buffeting Winds (Movement)
-- **Challenge Move:** Wing Buffet [□□] — All in Near range pushed to Far, mark 1 Stress (2 uses)
+- **Complications:** Elusive (buffeting winds, hard to hit)
+- **Challenge Move:** **Wing Buffet [□□]** - All in Near range pushed to Far, mark 1 Stress (2 uses)
 - **If destroyed:** Dragon cannot fly or escape
 
 **Tier 2 | Kobold Minions** (4 ticks, group track representing waves)

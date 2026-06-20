@@ -84,21 +84,15 @@ Characters with **Expertise** in a domain (e.g., Heavy Blades, Stealth, your cho
 
 Challenges have **Complication tags** that describe when they apply:
 
-**Defensive Tags** (hinder attacks):
+**Complication Tags (8 total):**
+
 - **Resilient** — Hinders actions that try to harm, damage, or destroy (tough armor, thick hide)
 - **Warded** — Hinders magical attacks and effects (magic resistance, protective wards)
-- **Elusive** — Hinders attacks, physical or magical (dodge, parry, supernatural evasion)
-
-**Perception Tags** (hinder detection/deception):
-- **Stealthy** — Hinders attempts to detect, track, or perceive (natural camouflage, supernatural concealment)
-- **Alert** — Hinders stealth, ambush, or deception attempts (keen senses, paranoia, magical awareness)
-
-**Mental Tags** (hinder social/mental actions):
-- **Resolute** — Hinders persuasion, intimidation, or mental influence (strong will, fanaticism, mind shields)
+- **Elusive** — Hinders attempts to affect, detect, or track (invisibility, speed, tiny size, shadows—GM decides)
+- **Vigilant** — Hinders stealth, ambush, or deception attempts (keen senses, paranoia, magical awareness)
 - **Complex** — Hinders attempts to solve, unlock, or understand (intricate locks, arcane puzzles, alien logic)
-
-**Special Tags** (modify consequences or stack):
-- **Deadly** — Increases Consequence severity by 1 tier when you fail (venomous, brutal, savage)
+- **Resolute** — Hinders persuasion, intimidation, or mental influence (strong will, fanaticism, mind shields)
+- **Deadly** — Hinders all combat actions (dangerous, lethal foe)
 - **Legendary** — Reduces outcome by 2 tiers instead of 1 (counts as 2 Complications)
 
 **Triumph ignores all Complications.**

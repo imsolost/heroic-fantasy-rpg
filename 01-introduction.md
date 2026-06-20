@@ -79,10 +79,10 @@ Roll Xd6 (pool = Approach + Edge - Bane, **cap ±2d after canceling**), check hi
 - **Success** (any 6) — Clean success
 - **Triumph** (two+ 6s) — Heroic success (gain 1 Momentum, ignore Complications)
 
-**Complications:** Challenges have **Complication tags** that describe their defenses and when they apply:
-- **Resilient** (hard to damage), **Elusive** (hard to hit), **Alert** (hard to deceive)
-- **Warded** (magically protected), **Resolute** (strong-willed), **Deadly** (dangerous when you fail)
-- **Legendary** (counts as 2 Complications), **Complex** (hard to solve), **Stealthy** (hard to detect)
+**Complications:** Challenges have **Complication tags** (8 total) that describe their defenses:
+- **Resilient** (hard to damage), **Warded** (magically protected), **Elusive** (hard to affect/detect—varies by fiction)
+- **Vigilant** (watchful, hard to deceive/surprise), **Complex** (hard to solve), **Resolute** (strong-willed)
+- **Deadly** (dangerous in combat), **Legendary** (counts as 2 Complications)
 
 *(See Chapter 6: Challenges for complete tag descriptions)*
 

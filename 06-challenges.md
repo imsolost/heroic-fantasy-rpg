@@ -149,25 +149,22 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 - Does NOT apply to: Damaging spells (fireballs, lightning) - those face Resilient
 - Countered by: Dispelling, overwhelming magical power, different magical approach
 
-**Elusive** - Hard to hit or catch
-- Hinders actions that require targeting or catching the target
-- Agility, small size, erratic movement, supernatural quickness
-- Applies to: Melee attacks, ranged attacks, targeted spells
-- Does NOT apply to: Area effects, social influence, perception
-- Countered by: Trapping, predicting movement, area attacks, slowing them
+**Elusive** - Hard to affect, detect, or track
+- Hinders attempts to target, locate, or pursue the target
+- Covers: supernatural speed, small size, invisibility, camouflage, phasing, flight
+- **Examples:**
+  - **Natural Invisibility (Elusive)** — Invisible stalker: hinders Clash (can't see to aim) and Sense (can't detect visually). Countered by: flour, Blindsense, area effects
+  - **Tiny Target (Elusive)** — Pixie: hinders Clash (too small to hit accurately), detection may be normal. Countered by: area effects, nets, precision
+  - **Shadow Affinity (Elusive)** — Assassin in darkness: hinders Sense (blends into shadows) and Clash in dim light. Countered by: light sources, magic detection
+  - **Supernatural Speed (Elusive)** — Quickling: hinders Clash (moves too fast). Detection is normal. Countered by: slowing effects, area denial
+- Applies to: Attacks, targeted spells, detection, tracking (GM decides based on fictional description)
+- Countered by: Area effects, revealing techniques (dust, light, magic), restraints, prediction
 
-**Stealthy** - Hard to perceive or detect
-- Hinders actions that require seeing, sensing, or detecting the target
-- Invisibility, camouflage, silence, magical concealment
-- Applies to: Targeted attacks, tracking, spotting, investigation
-- Does NOT apply to: Area effects (don't need to see target), sound-based detection
-- Countered by: Revealing (dust, water), non-visual detection, area effects
-
-**Alert** - Perceives others exceptionally well
-- Hinders actions that require stealth, deception, or surprise
-- Keen senses, multiple eyes, tremorsense, magical awareness
-- Applies to: Sneaking, hiding, ambushing, lying, concealing information
-- Countered by: Distraction, overwhelming their senses, magical concealment
+**Vigilant** - Watchful and aware
+- Hinders actions that rely on stealth, deception, or surprise
+- Keen senses, paranoia, multiple eyes, tremorsense, magical awareness, trained observation
+- Applies to: Sneaking, hiding, ambushing, lying, concealing motives, deception
+- Countered by: Distraction, overwhelming their senses, magical concealment, trusted intermediaries
 
 **Complex** - Hard to understand, solve, or navigate
 - Hinders actions that require comprehension or navigation of intricate systems
@@ -196,6 +193,34 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ---
 
+### GM Advice: Choosing Consequences by Tag
+
+All Complications work the same **mechanically** (reduce outcome tier by 1), but the tag suggests what **KIND** of consequence fits the fiction:
+
+**Resilient, Warded, Complex** — Suggest *reduced effect* consequences:
+- "Your blade barely scratches its armor" (mark less progress, lose position)
+- "The ward flickers but holds" (setback, environmental shift)
+- "The mechanism resets" (progress lost)
+
+**Deadly** — Suggests *harm/danger* consequences:
+- "Its claws rake your side" (mark Stress)
+- "Venom burns through your veins" (inflict Condition)
+- "It backs you toward the cliff edge" (position + immediate danger)
+
+**Elusive, Vigilant** — Suggest *opportunity loss* consequences:
+- "It vanishes into shadow before you strike" (lose advantage)
+- "The guards spot you" (alert raised, stealth compromised)
+- "Your opening closes" (lose initiative or positioning)
+
+**Resolute** — Suggests *social cost* consequences:
+- "They grow hostile to persuasion" (relationship damaged)
+- "They see through your deception" (trust broken, future Talk actions harder)
+- "They harden their position" (negotiations stall, new obstacles)
+
+**Use these as guidance, not prescription.** Pick consequences that fit the fiction and maintain tension. The tag hints at narrative flavor, but all tags reduce outcome tiers identically.
+
+---
+
 ### Checking Complications
 
 **When you act against a Challenge with Complications:**
@@ -204,9 +229,8 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 2. **GM identifies what you're trying to accomplish:**
    - Damage/harm it? → Check Resilient
    - Magically affect it (non-damage)? → Check Warded
-   - Hit/catch it? → Check Elusive
-   - See/detect it? → Check Stealthy
-   - Sneak past/deceive it? → Check Alert
+   - Target/detect/track it? → Check Elusive (GM decides based on fictional description)
+   - Sneak past/deceive/surprise it? → Check Vigilant
    - Understand/solve it? → Check Complex
    - Influence/sway it? → Check Resolute
 3. **Count matching tags** - That's how many Complications you face
@@ -222,7 +246,7 @@ Ancient Dragon (Tier 4, Harm 8, Will 8)
 Complications:
 - Resilient - impenetrable dragon scales
 - Warded - ancient magic resistance
-- Alert - keen draconic senses
+- Vigilant - keen draconic senses
 - Legendary - overwhelming mythic presence
 ```
 
@@ -284,23 +308,23 @@ Complications:
 ```
 Invisible Stalker (Tier 2, Harm 4)
 Complications:
-- Stealthy - invisible and silent
+- Elusive (Natural Invisibility) - invisible and silent
 ```
 
 **Warrior swings sword:**
-- Trying to hit → Need to perceive target → **Stealthy applies** ✓
+- Trying to hit invisible target → **Elusive applies** ✓
 - **Total: 1 Complication** (can't hit what you can't see)
 
 **Sage casts Targeted Fireball:**
-- Trying to target → **Stealthy applies** ✓
+- Trying to target invisible foe → **Elusive applies** ✓
 - **Total: 1 Complication**
 
 **Sage casts Area Fireball in its zone:**
-- Area effect, don't need to see target → Stealthy does NOT apply ✗
+- Area effect, don't need to see target → Elusive does NOT apply ✗
 - **Total: 0 Complications**
 
 **PC throws flour in the air:**
-- Creating advantage (doesn't remove Stealthy, but grants Edge to allies)
+- Creating advantage (doesn't remove Elusive, but grants Edge to allies or reveals it temporarily)
 - **Tactical play rewarded!**
 
 ---
@@ -338,7 +362,7 @@ The GM can add **temporary Environmental Complications** based on the situation:
 **Examples:**
 - **Fighting on Ice (Elusive)** - slippery surface makes targeting difficult
 - **Negotiating in Hostile Court (Resolute)** - nobles are suspicious and guarded
-- **Thick Smoke (Stealthy)** - obscures vision, hard to see accurately
+- **Thick Smoke (Elusive - Obscuring)** - obscures vision, hard to see accurately
 - **Narrow Bridge (Complex)** - difficult terrain complicates movement
 
 These typically last for the scene or until the environment changes.
@@ -522,7 +546,7 @@ Some Challenge Moves create **temporary Environmental Complications** that affec
 
 **Examples:**
 - **Rallied (Legendary) [□□]** - Knight's allies are emboldened; next 2 actions against them face +1 Complication
-- **Smoke Cloud (Stealthy) [□□□]** - Area filled with smoke; next 3 Sense/ranged actions suffer +1 Complication
+- **Smoke Cloud (Elusive - Obscuring) [□□□]** - Area filled with smoke; next 3 Sense/ranged actions suffer +1 Complication
 - **Wall of Thorns (Complex) [□□]** - Blocks path; next 2 movement attempts suffer +1 Complication
 - **Aura of Fear (Resolute) [□□□]** - Area effect; next 3 mental/social actions in zone suffer +1 Complication
 
@@ -603,7 +627,7 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 **Tier 4 (Boss):**
 - **2-3 Complications** - legendary, multi-layered defenses
-- Example: Ancient Dragon (**Legendary** + **Resilient** + **Warded** + **Alert**)
+- Example: Ancient Dragon (**Legendary** + **Resilient** + **Warded** + **Vigilant**)
 
 ---
 
@@ -1147,14 +1171,14 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Tracks:** Will 6 (strong-willed, resistant to manipulation)
 - **Complications:**
   - Resolute - disciplined, suspicious
-  - Alert - well-informed, knows local rumors
+  - Vigilant - well-informed, knows local rumors
 - **Exploitable:** Arrogant (Flattery grants 1 Edge)
 
 **Tactics:** Ask probing questions, demand proof
 
 **How PCs deal with it:**
 - **Talk honestly:** Present compelling evidence, mark Will (faces Resolute)
-- **Deceive:** Try to lie/manipulate (faces both Resolute + Alert = 2 Complications!)
+- **Deceive:** Try to lie/manipulate (faces both Resolute + Vigilant = 2 Complications!)
 - **Use flattery:** Exploit "Arrogant" (grants 1 Edge) to offset Complications
 - **Build Momentum:** Allies support each other through teamwork to overcome 2 Complications on deception attempts
 
@@ -1168,7 +1192,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Complications:** 
   - Resilient - impenetrable scales (applies to Harm)
   - Resolute - ancient cunning (applies to Will)
-  - Alert - keen senses (applies to Obstacle: stealth/bypass)
+  - Vigilant - keen senses (applies to Obstacle: stealth/bypass)
   - Deadly - devastating in combat (applies when attacking/being attacked)
 - **Exploitable:** "Prideful"
   - Flattery/challenges to pride grant 1 Edge on social rolls (Will)
@@ -1192,7 +1216,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 3. **Bypass (Obstacle 4):**
    - Stealth/clever approach, moderate difficulty
    - Sneak past while dragon sleeps, distract it, etc.
-   - Faces Alert (1 Complication)
+   - Faces Vigilant (1 Complication)
    - Victory = objective achieved without confrontation (steal treasure, rescue prisoner, etc.)
 
 4. **Mixed approaches:**
@@ -1353,7 +1377,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - **Warded** - Resists magical effects (non-damaging)
 - **Elusive** - Hard to hit/catch
 - **Stealthy** - Hard to perceive
-- **Alert** - Perceives others well
+- **Vigilant** - Perceives others well
 - **Complex** - Hard to understand/solve
 - **Resolute** - Hard to influence
 - **Legendary** - Always applies (mythic presence)
@@ -1429,7 +1453,7 @@ How significant is this threat?
 - Warded - arcane protections, magic immunity, counterspells
 - Elusive - lightning reflexes, small size, supernatural speed
 - Stealthy - invisibility, silence, camouflage
-- Alert - keen senses, multiple eyes, tremorsense
+- Vigilant - keen senses, multiple eyes, tremorsense
 - Complex - intricate mechanisms, layered defenses
 - Resolute - iron will, discipline, fanatic faith
 

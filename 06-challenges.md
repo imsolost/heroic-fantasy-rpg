@@ -54,7 +54,7 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ### Tagged Complications
 
-**Complications are tagged to indicate what they block.** Tags describe the fictional challenge, not the physics of your attack.
+**Complications are tagged to indicate what they hinder.** Tags describe the fictional challenge, not the physics of your attack.
 
 **Tags answer: "What is my action trying to accomplish?"**
 
@@ -67,64 +67,58 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 ---
 
 **Resilient** - Hard to damage or break
-- Blocks actions that try to harm, damage, or destroy
+- Hinders actions that try to harm, damage, or destroy
 - Armor, tough hide, reinforced construction, magical durability
 - Applies to: Sword strikes, arrows, fireballs, lightning bolts
 - Countered by: Overwhelming force, finding weak points, armor-piercing attacks
 
 **Warded** - Resists magical effects
-- Blocks non-damaging magical effects and manipulations
+- Hinders non-damaging magical effects and manipulations
 - Magic immunity, counterspells, ancient enchantments
 - Applies to: Charm, Polymorph, Banish, Paralyze, Slow, magical detection
 - Does NOT apply to: Damaging spells (fireballs, lightning) - those face Resilient
 - Countered by: Dispelling, overwhelming magical power, different magical approach
 
 **Elusive** - Hard to hit or catch
-- Blocks actions that require targeting or catching the target
+- Hinders actions that require targeting or catching the target
 - Agility, small size, erratic movement, supernatural quickness
 - Applies to: Melee attacks, ranged attacks, targeted spells
 - Does NOT apply to: Area effects, social influence, perception
 - Countered by: Trapping, predicting movement, area attacks, slowing them
 
 **Stealthy** - Hard to perceive or detect
-- Blocks actions that require seeing, sensing, or detecting the target
+- Hinders actions that require seeing, sensing, or detecting the target
 - Invisibility, camouflage, silence, magical concealment
 - Applies to: Targeted attacks, tracking, spotting, investigation
 - Does NOT apply to: Area effects (don't need to see target), sound-based detection
 - Countered by: Revealing (dust, water), non-visual detection, area effects
 
 **Alert** - Perceives others exceptionally well
-- Blocks actions that require stealth, deception, or surprise
+- Hinders actions that require stealth, deception, or surprise
 - Keen senses, multiple eyes, tremorsense, magical awareness
 - Applies to: Sneaking, hiding, ambushing, lying, concealing information
 - Countered by: Distraction, overwhelming their senses, magical concealment
 
 **Complex** - Hard to understand, solve, or navigate
-- Blocks actions that require comprehension or navigation of intricate systems
+- Hinders actions that require comprehension or navigation of intricate systems
 - Complex mechanisms, codes, intricate social webs, layered defenses
 - Applies to: Lockpicking, puzzle-solving, navigating politics, understanding motives
 - Countered by: Knowledge, time, expertise, simplifying the problem
 
 **Resolute** - Hard to influence or sway
-- Blocks actions that attempt social or mental influence
-- Discipline, faith, stubbornness, emotional stability, strong convictions
-- Applies to: Persuasion, intimidation, deception, interrogation
-- Countered by: Appealing to values, leverage, time, building trust
-
-**Resolve** - Hard to influence or sway
-- Blocks actions that attempt social or mental influence
+- Hinders actions that attempt social or mental influence
 - Discipline, faith, stubbornness, emotional stability, strong convictions
 - Applies to: Persuasion, intimidation, deception, interrogation
 - Countered by: Appealing to values, leverage, time, building trust
 
 **Legendary** - Always applies
-- Blocks ALL actions regardless of approach
+- Hinders ALL actions regardless of approach
 - Overwhelming presence, mythic power, reality-warping nature
 - The dragon's mere presence is oppressive; negotiating with the demon lord is as hard as fighting it
 - Countered by: Triumph, Act with Potency, exploiting weaknesses, divine intervention
 
 **Deadly** - Applies when attacking or being attacked
-- Blocks combat actions (both offense and defense)
+- Hinders combat actions (both offense and defense)
 - Supreme combat skill, lethal weapons, battle-honed reflexes
 - Master assassin in combat, elite knight's deadly blade, war troll's brutal strikes
 - Does NOT apply to: Negotiation, investigation, non-combat actions

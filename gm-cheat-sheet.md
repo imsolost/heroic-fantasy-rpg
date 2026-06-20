@@ -12,7 +12,7 @@ Quick reference for running the game. For complete rules, see the full chapters.
 ### 2. GM Telegraphs Stakes
 - **Action:** Which of the 5 Actions? (Clash, Defy, Talk, Sense, Know)
 - **Difficulty:** Easy (+1d Edge), Standard (no mod), Hard (-1d Bane), Very Hard (-2d Bane)
-- **Complications:** List any Challenge Traits that apply (each reduces outcome by 1 tier)
+- **Complications:** List any Complications that apply (each reduces outcome by 1 tier)
 - **Consequences:** "On Setback, [X happens]. On Conflict, [Y happens]."
 
 ### 3. Roll & Resolve
@@ -95,7 +95,7 @@ When Complications and Expertise are involved:
 
 ## Complications
 
-**Source:** Challenge Traits (enemy armor, magical wards, environmental hazards, NPC suspicion, etc.)
+**Source:** Complications (enemy armor, magical wards, environmental hazards, NPC suspicion, etc.)
 
 **Effect:** Each Complication reduces outcome by 1 tier (Success → Conflict, Conflict → Setback, Setback → Disaster)
 
@@ -175,7 +175,7 @@ When Complications and Expertise are involved:
 
 ---
 
-## Challenge Traits
+## Complications
 
 **Deadly (Universal Complication):** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
 
@@ -251,7 +251,7 @@ When Complications and Expertise are involved:
 ## GM Principles
 
 1. **Telegraph stakes before rolls** — Players should know consequences before committing
-2. **Complications signal danger** — Use Challenge Traits to show what makes encounters harder
+2. **Complications signal danger** — Use Complications to show what makes encounters harder
 3. **Consequences drive action** — Impact Moves advance threats, change positioning, create urgency
 4. **Respect player choices** — When players spend resources (Momentum, Stress, Traits), honor those choices
 5. **Fiction first** — If it doesn't make sense in the fiction, don't allow it (even if mechanically valid)
@@ -262,7 +262,7 @@ When Complications and Expertise are involved:
 
 ## Common Pitfalls
 
-**Forgetting Complications:** Challenge Traits do nothing if you forget to apply their Complications. Call them out before rolls.
+**Forgetting Complications:** Complications do nothing if you forget to apply their Complications. Call them out before rolls.
 
 **Skipping Telegraph:** Players should always know the stakes before rolling. "What happens on Setback?" should be answered before dice hit the table.
 
@@ -301,7 +301,7 @@ When Complications and Expertise are involved:
 **For each important NPC or enemy:**
 - Name + description
 - Tier + Harm/Will track size
-- 1-2 Challenge Traits (what makes them hard to deal with?)
+- 1-2 Complications (what makes them hard to deal with?)
 - 1-2 Challenge Moves (what do they do when acting?)
 
 **For each location:**

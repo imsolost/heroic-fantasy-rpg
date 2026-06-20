@@ -78,7 +78,7 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 
 **Pick 1-2 signature moves:**
 
-**Offensive Moves (Special Moves):**
+**Offensive Moves (Challenge Moves):**
 - **Strike:** Deal harm (mark Stress based on Consequence tier)
 - **Devastating Strike [□□]:** Increase Consequence tier by 1 for this attack (Minor → Major, Major → Severe). Limited uses per encounter.
 - **Area Attack [□]:** Target multiple PCs simultaneously (e.g., "All in Near range mark 1 Stress + Burned 1")

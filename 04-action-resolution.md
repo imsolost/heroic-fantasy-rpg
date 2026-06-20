@@ -523,12 +523,12 @@ Track lengths follow the **Tier system** (Tier 0-4):
 
 Use a Progress Track when the opposition has **narrative significance**:
 - **Named NPCs or unique enemies** (rival captain, dragon's champion, the mayor)
-- **Challenges with Traits or Special Moves** (anything with mechanical teeth)
+- **Challenges with Traits or Challenge Moves** (anything with mechanical teeth)
 - **Obstacles with multiple stages** (fortified gates, complex rituals, campaign-scale objectives)
 
 **Resolve Immediately when:**
 - **Unnamed, generic opposition** (random bandits, guard patrol, wolves)
-- **No Traits or Special Moves** (narratively vulnerable, mechanically simple)
+- **No Traits or Challenge Moves** (narratively vulnerable, mechanically simple)
 - **One-shot obstacles** (simple locks, quick jumps, momentary hazards)
 
 **Key:** A Tier 1 minion group can be resolved immediately (Success+ defeats them) OR use a 2-tick track if they're narratively important to the scene. Tier indicates durability, not whether to track — fiction and significance determine that.

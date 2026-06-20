@@ -17,7 +17,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 
 **Not all Challenges need special mechanics.** Simple opposition just uses the base difficulty system (Easy/Standard/Hard/Very Hard).
 
-**Significant Challenges** have **Challenge Traits** that impose **Complications**.
+**Significant Challenges** have **Complications** (passive traits) and **Challenge Moves** (active abilities).
 
 ---
 
@@ -195,9 +195,9 @@ These typically last for the scene or until the environment changes.
 
 ### Sources of Complications
 
-1. **Challenge Traits** — Passive traits of significant enemies/obstacles (armor, natural weapons, keen senses)
-2. **Environmental Hazards** — Temporary Complications from dangerous situations (ice, smoke, hostile crowds)
-3. **Special Moves** — Some enemy Special Moves create temporary Environmental Complications (see Special Moves section)
+1. **Challenge Complications** — Passive traits of significant enemies/obstacles (armor, natural weapons, keen senses)
+2. **Environmental Complications** — Temporary Complications from dangerous situations (ice, smoke, hostile crowds)
+3. **Challenge Moves** — Some enemy Challenge Moves create temporary Environmental Complications (see Challenge Moves section)
 
 ### Rules
 
@@ -269,19 +269,17 @@ Some Talents automatically negate specific types of Complications:
 
 ---
 
-## Special Moves
+## Challenge Moves
 
-**Special Moves are active abilities the Challenge uses as Impact Moves.** When the GM makes an Impact Move (Soft or Hard), they can choose to use a Special Move instead of a standard Impact Move.
+**Challenge Moves are active abilities the Challenge uses as Impact Moves.** When the GM makes an Impact Move (Soft or Hard), they can choose to use a Challenge Move instead of a standard Impact Move.
 
-*Note: "Special Moves" and "Challenge Moves" are synonyms — both refer to these active abilities. This chapter uses "Special Moves" as the canonical term.*
+**Soft Moves** typically telegraph the Challenge Move ("The dragon's throat glows orange as it draws breath...").
 
-**Soft Moves** typically telegraph the Special Move ("The dragon's throat glows orange as it draws breath...").
-
-**Hard Moves** trigger the Special Move immediately, usually as a result of PC failure (Setback or worse).
+**Hard Moves** trigger the Challenge Move immediately, usually as a result of PC failure (Setback or worse).
 
 ---
 
-### Creating Special Moves
+### Creating Challenge Moves
 
 **Format:** `Move Name [□□]` (checkboxes show limited uses, if any)
 
@@ -289,18 +287,18 @@ Some Talents automatically negate specific types of Complications:
 
 **Examples:**
 
-**Dragon Special Moves:**
+**Dragon Challenge Moves:**
 - **Fire Breath [□□]** - All PCs in Near range mark 2 Stress + Burned 1 (2 uses per encounter)
 - **Wing Buffet** - Knock target prone + push to Far range (unlimited)
 - **Tail Sweep** - Target 2-3 PCs in Close range, each marks 1 Stress (unlimited)
 - **Fearsome Roar [□]** - All must Defy or suffer Frightened 2 (1 use per encounter)
 
-**Elite Knight Special Moves:**
+**Elite Knight Challenge Moves:**
 - **Disarming Strike** - Mark 1 Stress + target drops weapon (Disarmed 1)
 - **Shield Bash** - Knock prone + lose positioning
 - **Rallying Cry [□]** - Create **Rallied (Universal) [□□]** Environmental Complication on knight's allies (1 use per encounter)
 
-**Orc Archer Special Moves:**
+**Orc Archer Challenge Moves:**
 - **Pinning Shot** - Mark 1 Stress + Pinned [□] (must Defy to remove arrow before moving zones)
 - **Call for Help** - 1d3 more orcs arrive next round
 
@@ -308,7 +306,7 @@ Some Talents automatically negate specific types of Complications:
 
 ### Limited Uses
 
-Some Special Moves have **limited uses per encounter** to represent exhaustion, cooldowns, or resource limitations.
+Some Challenge Moves have **limited uses per encounter** to represent exhaustion, cooldowns, or resource limitations.
 
 **Notation:** Add checkboxes after the move name: `Fire Breath [□□]` = 2 uses
 
@@ -317,20 +315,20 @@ Some Special Moves have **limited uses per encounter** to represent exhaustion, 
 - **Signature abilities** that should feel special, not spammable
 - **Exhausting actions** (breath weapons, magical bursts, rallying cries)
 
-**Default:** Most Special Moves are unlimited unless noted.
+**Default:** Most Challenge Moves are unlimited unless noted.
 
 **Tracking:** When the move is used, check off one box. When all boxes are checked, the move is exhausted for this encounter.
 
 ---
 
-### Environmental Complications (Created by Special Moves)
+### Environmental Complications (Created by Challenge Moves)
 
-Some Special Moves create **temporary Environmental Complications** that affect the battlefield:
+Some Challenge Moves create **temporary Environmental Complications** that affect the battlefield:
 
 **Format:** `Complication Name (Application) [□□□]` (track shows duration in actions)
 
 **How they work:**
-- Created by Special Moves
+- Created by Challenge Moves
 - Have a small track (usually 2-3 boxes)
 - Tick down as PCs take affected actions
 - Expire when track empties OR at end of scene
@@ -357,17 +355,16 @@ Some Special Moves create **temporary Environmental Complications** that affect 
 
 ---
 
-## Challenge Traits
-
-Challenges have two types of traits:
-
-1. **Complications (Passive)** - Covered above. These are passive defenses or threats (armor, natural weapons, keen senses)
-2. **Special Moves (Active)** - Covered above. These are active abilities used as Impact Moves
+## Designing Challenges
 
 **When designing a Challenge:**
-- Give it **0-3 Complications** (tagged to show when they apply)
-- Give it **1-3 Special Moves** (what it does when acting or when PCs fail)
-- Most Challenges don't need Traits — reserve them for significant enemies and obstacles
+- Give it **0-3 Complications** (tagged passive traits: armor, natural weapons, keen senses)
+- Give it **0-3 Challenge Moves** (active abilities used as Impact Moves)
+- Most Challenges don't need special mechanics — reserve them for significant enemies and obstacles
+
+**Simple enemies** (unnamed guards, random wolves) typically have 0 Complications and 0 Challenge Moves.
+
+**Significant enemies** (named NPCs, unique threats) have 1-3 Complications and 1-3 Challenge Moves.
 
 ---
 
@@ -450,9 +447,9 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 ---
 
-### Special Moves (Active Abilities)
+### Challenge Moves (Active Abilities)
 
-Some Challenges have Special Moves they can use (see **Special Moves** section earlier in this chapter for full rules and limited-use notation [□□]).
+Some Challenges have Challenge Moves they can use (see **Challenge Moves** section earlier in this chapter for full rules and limited-use notation [□□]).
 
 **Examples:**
 - **Frightening Roar [□]** — All PCs in Near range must Defy or gain Frightened 2 (1 use)
@@ -460,7 +457,7 @@ Some Challenges have Special Moves they can use (see **Special Moves** section e
 - **Whirlwind Strike [□□]** — Attack all PCs in Close range simultaneously (2 uses)
 - **Teleport [□□□]** — Reposition freely to any visible zone, ignoring obstacles (3 uses)
 
-**When to use:** When the GM makes an Impact Move (Conflict/Setback), the Challenge may use a Special Move if it fits the fiction and has uses remaining.
+**When to use:** When the GM makes an Impact Move (Conflict/Setback), the Challenge may use a Challenge Move if it fits the fiction and has uses remaining.
 
 ---
 
@@ -478,7 +475,7 @@ Tiers represent overall power level and narrative threat level:
 | Tier 2 | Standard to dangerous opposition | 4 ticks (Harm) |
 | Tier 3 | Deadly baseline, boss-tier | 6 ticks (Harm) |
 
-**Note:** Tier doesn't directly affect Stress inflicted. Use **Impact Move Modifiers** (Challenge Traits) to adjust damage.
+**Note:** Tier doesn't directly affect Stress inflicted. Use **Universal Complications** (like Deadly) to adjust damage.
 
 **Base Impact Moves:**
 - **Soft Impact Move (Conflict):** Mark 1 Stress
@@ -729,7 +726,7 @@ If PCs switch between Talk and Clash on the same target's Will track, the GM dec
 
 ### Complications and Will
 
-Challenge Traits apply to Will-based actions just as they do to Harm-based actions. Defensive Traits that make an adversary psychologically resistant impose Complications on social Clash and Talk rolls.
+Complications apply to Will-based actions just as they do to Harm-based actions. Defensive Complications that make an adversary psychologically resistant impose penalties on social Clash and Talk rolls.
 
 **Example Will-based Defensive Traits:**
 - **"Unshakeable"** — Immune to fear and intimidation; social Clash using threats or taunts faces 1 Complication
@@ -862,7 +859,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 - **Complications:**
   - Full Plate (Physical Defense)
   - Disciplined (Mental Defense)
-- **Special Moves:** None (standard opponent)
+- **Challenge Moves:** None (standard opponent)
 
 **Tactics:** Advance steadily, shield bash to create openings
 
@@ -884,7 +881,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
   - Regeneration (Physical Defense)
   - Deadly (Universal) — When War Troll deals consequences, increase tier by 1 (Minor → Major, Major → Severe)
   - Fearless (Mental Defense)
-- **Special Moves:**
+- **Challenge Moves:**
   - Brutal Swing [□□] — Target marks 2 Stress + Stunned 1 (Close range, 2 uses per encounter)
 - **Weakness:** Fire (Fire attacks grant 1 Edge or negate 1 Complication)
 
@@ -1030,7 +1027,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 
 ### 1. High Tier + Multiple Traits
 - Tier 3 baseline
-- 2-3 Challenge Traits (Complications)
+- 2-3 Complications
 - Exploitable weakness or contextual vulnerability
 
 ### 2. Longer Track
@@ -1059,7 +1056,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
   - Arcane Ward (Magical Defense)
   - Lair Defenses (Universal) — Applies to bypassing lair traps and obstacles
 - **Exploitable:** Phylactery (destroying it via Obstacle track removes Undead Resilience Complication entirely)
-- **Special Moves:**
+- **Challenge Moves:**
   - Deathly Aura (Passive) — All PCs mark 1 Stress at start of each round
   - Raise Dead [□□□] — Summon 2-tick minion in Near range (3 uses)
   - Soul Drain [□□] — Target marks 2 Stress + Exhausted 2 (Burden) (2 uses)
@@ -1077,15 +1074,15 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 
 ## GM Guidance for Challenges
 
-### When to Use Challenge Traits
+### When to Use Complications and Challenge Moves
 
-**Use Traits when:**
+**Use special mechanics when:**
 - Opposition is narratively significant (named NPC, major obstacle)
 - You want tactical depth (requires PC coordination)
 - Natural defenses exist fictionally (armor, wards, suspicion)
 
-**Don't use Traits when:**
-- Trivial opposition (goblins, basic doors)
+**Don't use special mechanics when:**
+- Trivial opposition (unnamed guards, basic doors)
 - Pacing demands quick resolution
 - PCs already struggling (add fiction, not mechanics)
 
@@ -1154,7 +1151,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 **Common Challenge Elements:**
 - **Complications:** Defensive traits with tags (Physical Defense, Magical Defense, Mental Defense, Universal, etc.)
 - **Exploitable:** Grant 1 Edge when exploited (e.g., "Arrogant," "Weak to Fire," "Slow")
-- **Special Moves:** Active abilities used as Impact Moves with limited uses [□□]
+- **Challenge Moves:** Active abilities used as Impact Moves with limited uses [□□]
 
 ---
 
@@ -1262,9 +1259,9 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 
 ---
 
-### Step 4: Add 1-2 Special Moves
+### Step 4: Add 1-2 Challenge Moves
 
-**Special Moves** are active abilities the Challenge uses as Impact Moves or in response to triggers.
+**Challenge Moves** are active abilities the Challenge uses as Impact Moves or in response to triggers.
 
 **Pick 1-2 signature moves:**
 
@@ -1348,7 +1345,7 @@ Use this table to estimate **how many rolls** it will take to overcome the Chall
 **Single enemy encounters work best with:**
 - Higher Tier (3-4) to absorb focus-fire
 - 2+ Complications to require tactics
-- Special Moves that pressure multiple PCs (area attacks, environmental hazards)
+- Challenge Moves that pressure multiple PCs (area attacks, environmental hazards)
 
 ---
 
@@ -1396,18 +1393,18 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **Tier 4 | Dragon Body** (8 ticks)
 - **Complications:** Steel Scales (Physical Defense), Inferno Aura (Universal)
-- **Special Moves:**
+- **Challenge Moves:**
   - Fire Breath [□□] — All in Near range mark 2 Stress + Burned 1 (2 uses)
   - Tail Sweep [□□□] — All in Close range Defy or Prone 1 (3 uses)
 
 **Tier 3 | Dragon Wings** (6 ticks, separate track)
 - **Complications:** Buffeting Winds (Movement)
-- **Special Move:** Wing Buffet [□□] — All in Near range pushed to Far, mark 1 Stress (2 uses)
+- **Challenge Move:** Wing Buffet [□□] — All in Near range pushed to Far, mark 1 Stress (2 uses)
 - **If destroyed:** Dragon cannot fly or escape
 
 **Tier 2 | Kobold Minions** (4 ticks, group track representing waves)
 - **Complications:** None (Tier 1 group scaled to Tier 2)
-- **Special Move:** Die for Master — Swarm one PC (1 additional Complication on their actions this round)
+- **Challenge Move:** Die for Master — Swarm one PC (1 additional Complication on their actions this round)
 - Reinforcements arrive every 2 rounds
 
 **Strategy:**
@@ -1477,7 +1474,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 1. ☐ Choose Tier (0-4) and set Harm track (0, 2, 4, 6, 8 ticks)
 2. ☐ Set Will/Obstacle tracks if needed (2-8 ticks based on difficulty)
 3. ☐ Add Complications (0 = easy, 1 = standard, 2 = hard, 3+ = legendary) with tags
-4. ☐ Add 1-2 Special Moves with limited uses [□□]
+4. ☐ Add 1-2 Challenge Moves with limited uses [□□]
 5. ☐ Add Exploitable Traits for flavor (optional, grants Edge when exploited)
 6. ☐ Estimate duration (1 roll ≈ 1-2 minutes play)
 
@@ -1517,7 +1514,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 1. **Tier:** Tier 1 (bandits are minions, use group scaling)
 2. **Harm Track:** 2 ticks (representing 4-6 bandits as a group)
 3. **Complications:** 0 (easy warm-up encounter)
-4. **Special Move:** Coordinated Strike [□□] — When one bandit engages a PC, another attacks from flanking position (mark 1 Stress, 2 uses)
+4. **Challenge Move:** Coordinated Strike [□□] — When one bandit engages a PC, another attacks from flanking position (mark 1 Stress, 2 uses)
 5. **Exploitable:** Undisciplined — Intimidation grants 1 Edge (they break easily)
 6. **Estimate:** 2 ticks, 0 Complications = **1-2 rolls per PC = 3-5 minutes**
 

@@ -83,7 +83,7 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 
 Conditions come from three sources:
 
-**Special Moves:** Enemy abilities inflict Conditions directly, at a tier determined by the move.
+**Challenge Moves:** Enemy abilities inflict Conditions directly, at a tier determined by the move.
 
 > *The dark elf assassin's Poisoned Blade inflicts Poisoned 2. A dragon's Fearsome Roar inflicts Frightened 3.*
 
@@ -318,7 +318,7 @@ When assigning a Burden, immediately clarify how it clears:
 
 | | Conditions | Burdens |
 |---|---|---|
-| **Source** | Special Moves, Impact Moves | Stress overflow, Disaster, Death Moves, narrative events |
+| **Source** | Challenge Moves, Impact Moves | Stress overflow, Disaster, Death Moves, narrative events |
 | **Frequency** | Common | Rare |
 | **Bane** | 1 Bane each | 1 Bane each |
 | **Recovery** | Tick down through action; clear on short rest | Long rest (1 tier per) or special recovery |

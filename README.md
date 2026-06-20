@@ -93,7 +93,7 @@ Challenges have **Complication tags** that describe when they apply:
 - **Complex** — Hinders attempts to solve, unlock, or understand (intricate locks, arcane puzzles, alien logic)
 - **Resolute** — Hinders persuasion, intimidation, or mental influence (strong will, fanaticism, mind shields)
 - **Deadly** — Hinders all combat actions (dangerous, lethal foe)
-- **Legendary** — Reduces outcome by 2 tiers instead of 1 (counts as 2 Complications)
+- **Legendary** — Applies to ALL actions (universal opposition)
 
 **Triumph ignores all Complications.**
 

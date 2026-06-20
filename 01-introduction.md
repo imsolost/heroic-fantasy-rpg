@@ -82,7 +82,7 @@ Roll Xd6 (pool = Approach + Edge - Bane, **cap ±2d after canceling**), check hi
 **Complications:** Challenges have **Complication tags** (8 total) that describe their defenses:
 - **Resilient** (hard to damage), **Warded** (magically protected), **Elusive** (hard to affect/detect—varies by fiction)
 - **Vigilant** (watchful, hard to deceive/surprise), **Complex** (hard to solve), **Resolute** (strong-willed)
-- **Deadly** (dangerous in combat), **Legendary** (counts as 2 Complications)
+- **Deadly** (dangerous in combat), **Legendary** (applies to all actions)
 
 *(See Chapter 6: Challenges for complete tag descriptions)*
 

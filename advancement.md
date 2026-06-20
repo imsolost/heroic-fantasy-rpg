@@ -11,13 +11,13 @@ Characters grow more powerful through play, gaining new abilities and expanding 
 | **1** | **Start** | Choose Calling (Core Talent + 1 secondary Talent), 3 Traits, Rank 1 |
 | **2** | +1 Approach (cap 2), +1 Talent | |
 | **3** | +1 Approach (cap 3) | |
-| **4** | **Rank 2**, +1 Approach (cap 4), +1 Talent | Regional Legends |
+| **4** | **Rank 2**, +1 Approach (cap 4), +1 Talent | Seasoned Adventurers |
 | **5** | +1 Trait | |
 | **6** | +1 Approach (cap 2), +1 Talent | |
-| **7** | +1 Approach (cap 3) | |
-| **8** | **Rank 3**, +1 Approach (cap 4), +1 Talent | Mythic Heroes |
-| **9** | +1 Approach (cap 5) | |
-| **10** | +1 Trait, +1 Talent | |
+| **7** | **Rank 3**, +1 Approach (cap 3), +1 Talent | Regional Legends |
+| **8** | +1 Approach (cap 4), +1 Talent | |
+| **9** | +1 Approach (cap 5) | Legendary Approach |
+| **10** | **Rank 4**, +1 Trait, +1 Talent | Mythic Heroes |
 
 ---
 
@@ -29,23 +29,23 @@ Characters grow more powerful through play, gaining new abilities and expanding 
 - **Traits:** 3
 - **Rank:** 1 (Local Heroes)
 
-**Level 4 (Early Milestone):**
+**Level 4 (First Milestone):**
 - **Approaches:** 4/3/2/1/0 (10 points, 3 increases)
 - **Talents:** 4
 - **Traits:** 3
-- **Rank:** 2 (Regional Legends)
+- **Rank:** 2 (Seasoned Adventurers)
 
-**Level 8 (Late Milestone):**
-- **Approaches:** 4/4/3/2/0 (13 points, 6 increases)
+**Level 7 (Second Milestone):**
+- **Approaches:** 4/3/3/2/0 (12 points, 5 increases)
 - **Talents:** 6
 - **Traits:** 4
-- **Rank:** 3 (Mythic Heroes)
+- **Rank:** 3 (Regional Legends)
 
 **Level 10 (Campaign End):**
 - **Approaches:** 5/4/3/2/0 (14 points, 7 increases)
 - **Talents:** 7
 - **Traits:** 5
-- **Rank:** 3 (Mythic Heroes)
+- **Rank:** 4 (Mythic Heroes)
 
 ---
 
@@ -138,13 +138,17 @@ When you gain a level (except Level 1), you may retrain **one secondary Talent**
 
 **Rank represents the scale and scope of challenges your character is expected to face.** It grants narrative permission for feats appropriate to your power level, but does not add mechanical modifiers to rolls.
 
-Rank increases at **Level 4** (Rank 2) and **Level 8** (Rank 3).
+Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (Rank 4).
 
 ---
 
 ### Rank 1: Local Heroes (Levels 1-3)
 
-**Scale:** Local threats, street-level adventures
+**Scale:** Village/neighborhood level, grounded adventures
+
+**Archetypes:** Skilled townspeople, early adventurers, competent militia, fledgling knights, apprentice mages
+
+**Tone:** Realistic struggle with genuine danger from mundane threats. Heroes are talented but mortal—survival requires caution, preparation, and teamwork.
 
 **Expected Scope:**
 - Protect or threaten a village, neighborhood, or small region
@@ -153,50 +157,99 @@ Rank increases at **Level 4** (Rank 2) and **Level 8** (Rank 3).
 - Accomplish tasks that require skill and effort
 
 **Typical Challenges:**
-- Fighting bandits, city guards, local monsters (wolves, giant rats, ghouls, young drakes)
-- Scaling manor walls, swimming rivers, crossing gaps, sneaking into camps
-- Charming merchants for better prices, commanding a few lackeys
-- Deciphering runes, solving riddles, navigating small dungeons
+- Fighting small bands of bandits, untrained guards, or common monsters (wolves, giant rats, ghouls, young drakes)
+- Scaling manor walls (15-20 feet), swimming rivers, surviving in wilderness for days
+- Charming merchants for better prices, assuming simple disguises, talking down single aggressors
+- Spotting hidden doors and traps, tracking through fresh mud, deciphering foreign languages (with time)
+- Solving simple puzzles, recalling common monster lore, doing basic detective work
 
 ---
 
-### Rank 2: Regional Legends (Levels 4-7)
+### Rank 2: Seasoned Adventurers (Levels 4-6)
 
-**Scale:** Regional threats, heroic adventures
+**Scale:** City/regional level, professional adventurers
+
+**Archetypes:** Legendary mortal heroes—Lancelot, Odysseus, Robin Hood, Aragorn (ranger years), Geralt of Rivia, skilled sellswords, master thieves, court wizards, veteran monster hunters
+
+**Tone:** Peak human capability through training, experience, and discipline. Everything is exceptional but explainable—these heroes push the absolute limits of mortal possibility without breaking the laws of physics. Think "the greatest swordsman alive" or "the cleverest thief in the kingdom."
 
 **Expected Scope:**
-- Protect or threaten entire regions, cities, or factions
-- Command organizations or lead small armies
-- Face legendary creatures and powerful rivals
-- Build regional fame and influence
+- Protect or threaten entire cities, regions, or factions
+- Lead organizations (guilds, mercenary companies, small keeps)
+- Face dangerous beasts and skilled opponents
+- Build regional reputation that opens doors
 - Accomplish feats that would require extensive preparation at Rank 1
 
 **Typical Challenges:**
-- Fighting well-trained soldiers, elite guards, tough monsters (ogres, trolls, young dragons, powerful undead)
-- Scaling castle walls, sneaking into guarded fortresses, riding monsters
-- Swaying crowds, convincing kings, forging powerful artifacts in days
-- Enduring deadly environments (lava flows, arctic wastes), splitting boulders in single blows
-- Riling up a crowd into revolution, creating a new powerful alchemical formula
+- Fighting dozens of well-trained soldiers or dangerous beasts (dire wolves, young wyverns, owlbears)
+- Scaling castle walls (40-50 feet) with proper technique, swimming across lakes, riding dangerous animals (bears, young drakes)
+- Going without sleep for days, eating poisonous substances and surviving, withstanding tremendous pain
+- Sensing master assassins stalking you, tracking through rain or snow, detecting subtle magic, predicting weather days ahead
+- Deciphering ancient texts (with resources), researching forbidden lore, identifying monster weaknesses
+- Swaying small crowds, convincing minor nobles, maintaining elaborate disguises, leading mercenary companies
+- Forging masterwork weapons in days, creating potent alchemical formulas, breaking through reinforced doors
+
+**Key Note:** These heroes are legendary within mortal bounds. A Rank 2 swordmaster can defeat a dozen trained soldiers through superior skill, timing, and tactics—not by throwing them across the room with one blow.
 
 ---
 
-### Rank 3: Mythic Heroes (Levels 8-10)
+### Rank 3: Regional Legends (Levels 7-9)
 
-**Scale:** World-ending threats, mythic adventures
+**Scale:** Regional/national threats, wuxia/mythological heroes
+
+**Archetypes:** Beowulf, Achilles, Samson, Cú Chulainn (young), Heracles (mortal years), legendary dragon-slayers, mythic warriors from folklore, cultivation novel protagonists, anime heroes at their peak
+
+**Tone:** Superhuman and physics-defying. These heroes have crossed the threshold into the mythological—their feats are impossible by mortal standards. They split boulders with bare hands, run up vertical cliffs, and survive falls that would kill ordinary people.
 
 **Expected Scope:**
-- Face world-ending threats and shape the fate of nations
-- Accomplish legendary feats casually
-- Interact with gods, demons, and cosmic entities
-- Do in moments what would take Rank 2 heroes extensive effort
-- Build world-spanning fame
+- Protect or threaten entire regions or small nations
+- Command small armies or large organizations
+- Face legendary monsters and powerful supernatural threats
+- Build fame that spreads across kingdoms
+- Accomplish in hours what would take Rank 2 heroes days
 
 **Typical Challenges:**
-- Fighting or commanding entire armies, ancient legendary monsters (ancient dragons, demon lords, archliches)
-- Building or destroying castles in single nights, traveling across continents in hours
-- Charming entire towns, swaying kings from their thrones, pretending to be a king for weeks
-- Making ground-breaking magical discoveries, solving ancient mysteries in moments
-- Surviving being hurled into hostile dimensions, stealing threads of life from the underworld
+- **Snapping heavy iron chains with single blows**, throwing back ten people with one strike, smashing boulders in half, blowing through stone walls
+- Fighting small platoons (20-30 soldiers) solo, leading armies in battle
+- **Lifting oxen overhead**, holding castle gates open, running up massive cliffsides, swimming across ocean channels
+- Enduring falls from mountains (with injury), riding adult dragons without saddles, surviving in lava flows or arctic wastes
+- **Going without rest, food, or sleep for a week**, withstanding extreme torture
+- Determining exact locations of invisible creatures, tracking by scent across cities, sensing threats before they manifest
+- Making breakthrough magical discoveries, creating new spells or alchemical formulas, solving ancient mysteries through intuition
+- Swaying crowds into revolution, convincing kings, charming hardened assassins
+- **Forging magical armor in days**, building fortifications rapidly, designing legendary-quality craftsmanship
+
+**Key Note:** This is where heroes enter myth. A Rank 3 warrior doesn't just defeat dozens of foes—they split the battlefield itself. Their strength, speed, and endurance defy natural law.
+
+---
+
+### Rank 4: Mythic Heroes (Level 10)
+
+**Scale:** World-ending threats, demigod tier
+
+**Archetypes:** Gilgamesh, Cú Chulainn (full power), Heracles (apotheosis), Sun Wukong, legendary figures at their absolute peak, heroes on the cusp of divinity
+
+**Tone:** Reality-warping and godlike. These heroes reshape the world through their presence. They bargain with Death, walk between planes, and leave permanent scars on history.
+
+**Expected Scope:**
+- Face world-ending threats (demon lords, ancient dragons, archliches, awakened gods)
+- Shape the fate of nations and civilizations
+- Interact with cosmic entities, gods, and primordial forces
+- Accomplish in moments what Rank 3 heroes need hours for
+- Build world-spanning legend that outlives you
+
+**Typical Challenges:**
+- **Blowing holes through castle walls with fists**, using knuckles as battering rams, **splitting cliff faces**, burning away entire forests
+- Fighting entire companies (100+ soldiers) solo, commanding vast armies
+- **Wading through fire or ice unharmed for extended periods**, **lifting three-story buildings**, carrying ancient tree trunks across continents
+- **Forcing open doors sealed for millennia**, surviving in hostile dimensions for weeks, running across oceans
+- Building or destroying castles overnight, traveling across continents in hours
+- **Surmising exactly what happened from minimal evidence** (two hairs and blood), deciphering ancient inscriptions by intuition alone
+- Convincing kings to abdicate, pretending to be royalty for weeks, charming ancient sorcerers
+- Making paradigm-shifting magical breakthroughs, understanding divine mysteries
+- Stealing from gods, bargaining with Death, crossing into the underworld and returning
+
+**Key Note:** Rank 4 heroes exist on the threshold of divinity. Their deeds become the stuff of legend for future generations. When they die, temples are built in their honor.
 
 ---
 
@@ -207,88 +260,142 @@ The following examples illustrate the **scope and scale** of what's possible at 
 ### Clash (Attack, Harm, Destroy)
 
 **Rank 1:**
-- Fight a small band of bandits or an average monster
-- Break down a wooden door
+- Fight a small band of bandits (3-5) or an average monster
+- Break down a wooden door with effort
 - Smash through a simple barricade
-- Throw a punch hard enough to knock someone out
+- Knock someone out with a solid punch
+- Defeat 2-3 untrained opponents
 
 **Rank 2:**
-- Fight a large group of well-trained soldiers or a tough, intelligent monster
-- Snap a heavy iron chain with your weapon
-- Smash a boulder in half with a single blow
-- Throw back ten people with one strike
+- Fight a dozen well-trained soldiers or a dangerous beast (dire wolf, young wyvern)
+- Break through a reinforced oak door
+- Snap a rope or chain with sustained strikes
+- Defeat 5-6 trained guards through skilled combat
+- Lead a squad effectively in battle
+- Strike with enough force to crack stone
 
 **Rank 3:**
-- Fight or command an entire army in battle
-- Blow a hole through a castle wall with your bare hands
-- Split a cliff face with a sword strike
-- Fight a small platoon by yourself and win
+- **Snap a heavy iron chain with a single blow**
+- **Throw back ten people with one strike**
+- **Smash a boulder in half**
+- **Blow right through a stone wall**
+- Fight a small platoon (20-30 soldiers) solo
+- Split a massive tree trunk with one sword stroke
+
+**Rank 4:**
+- **Blow a hole through a castle wall with your fist**
+- **Use your knuckles as a battering ram to smash a castle gate**
+- **Split a cliff face with a weapon strike**
+- **Burn away a small forest with a single spell**
+- Fight an entire company (100+ soldiers) and win
+- Destroy fortifications in moments
 
 ---
 
 ### Defy (Overcome Danger, Resist, Endure)
 
 **Rank 1:**
-- Climb over a manor wall
+- Climb over a manor wall (15-20 feet)
 - Swim across a river
 - Survive in the wilderness for a few days
 - Hold your breath while swimming underwater
+- Dodge arrows with effort
+- Endure minor torture or pain
 
 **Rank 2:**
-- Climb over a castle wall
+- Climb over a castle wall (40-50 feet) with proper technique
 - Swim across a lake or wide channel
-- Endure a fall from a high peak (with injury)
-- Ride a monster as a mount
+- **Go without sleep, food, or rest for a few days**
+- **Eat something poisonous and survive**
+- **Withstand tremendous pain without breaking**
+- Endure a dangerous fall (2-3 stories) with serious injury
+- Ride dangerous animals (bears, young drakes) with training
+- Catch arrows out of the air
 
 **Rank 3:**
+- **Lift an ox overhead or hold a castle gate open**
 - Run up a massive cliffside in minutes
-- Swim across an ocean channel in hours
-- Wade through fire or ice unharmed for extended periods
-- Carry an entire ancient tree trunk across a continent
+- Swim across an ocean channel
+- **Endure a fall from a high peak** (with injury but survive)
+- Ride monsters without saddles (adult dragons, griffons)
+- **Survive extreme environments** (brief exposure to lava, arctic wastes)
+- Push on without rest for a week
+
+**Rank 4:**
+- **Wade through fire or ice for extended periods, unharmed**
+- **Lift a three-story building**
+- **Carry an entire ancient tree trunk across a continent**
+- **Force open a sealed stone door shut for a thousand years**
+- Survive being hurled into hostile dimensions for weeks
+- Run across an ocean
 
 ---
 
 ### Talk (Influence, Persuade, Deceive, Command)
 
 **Rank 1:**
-- Sway a person into aiding you
+- Sway a single person into aiding you
 - Get a merchant to apologize or offer better prices
 - Assume a made-up identity convincingly
 - Talk down a single aggressor
+- Lead a handful of followers
 
 **Rank 2:**
-- Sway a small crowd into aiding you or taking action
-- Convince a king to let you out of the dungeon
-- Pretend to be someone well-known and maintain the ruse
-- Talk an entire angry mob into standing down
+- Sway a small crowd (tavern, marketplace) into action
+- Convince a local lord or minor noble
+- **Pretend to be someone well-known and maintain the ruse**
+- Talk down an angry mob (with effort)
+- Lead a mercenary company or guild
+- Inspire troops before battle
+- Negotiate complex political arrangements
 
 **Rank 3:**
-- Sway an entire town of people into helping you or following your cause
-- Convince a king to step down from his throne
-- Pretend to be a king for weeks without being discovered
-- Charm an ancient sorcerer into aiding you, make ground-breaking discoveries in magic through pure charisma
+- **Sway a crowd into revolution**
+- **Convince a king to let you out of the dungeon** (through force of personality)
+- Charm hardened criminals or assassins
+- Lead an organization or small army
+- Build regional fame that opens doors
+- Seduce or befriend powerful figures
+
+**Rank 4:**
+- **Sway an entire town into helping you**
+- **Convince a king to step down from his throne**
+- **Pretend to be a king for weeks without being discovered**
+- **Charm an ancient sorcerer into aiding you**
+- Command entire armies
+- Your reputation alone can end conflicts
 
 ---
 
 ### Sense (Observe, Perceive, Track, Detect)
 
 **Rank 1:**
-- Spot or detect traps, hidden doors, or hidden objects
+- Spot hidden doors, traps, or concealed objects
 - Look for entrances into a building or ruin
-- Track someone through fresh tracks or in days-old mud
-- Detect subtle or hidden magic nearby
+- Track someone through fresh tracks or days-old mud
+- Detect obvious or nearby magic
+- Notice someone following you in a crowd
 
 **Rank 2:**
-- Sense a master assassin stalking you through a crowded city
-- Track someone through snow or rain in difficult terrain
-- Detect subtle hidden magic or invisible creatures
-- Predict the weather days in advance with accuracy
+- **Sense a master assassin stalking you through a crowded city**
+- Track someone through snow, rain, or difficult terrain
+- **Detect subtle hidden magic or invisible creatures**
+- **Predict the weather days in advance with accuracy**
+- Read complex social dynamics and hidden agendas
+- Notice details others miss (clothing tells, minute evidence)
 
 **Rank 3:**
-- Determine the exact location of an invisible creature in a busy environment
-- Track someone by the smell of their tobacco across a city
-- Visualize ambient connections of magic around you to sense ley lines and power sources
-- Surmise exactly what happened in a room last week from two hairs and a splotch of blood
+- **Determine the exact location of an invisible creature in a busy environment**
+- **Track someone by the smell of their tobacco across a city**
+- Notice supernatural threats before they manifest
+- Sense powerful magic at great distances
+- Read intentions with uncanny accuracy
+
+**Rank 4:**
+- **Visualize ambient connections of magic around you** (see ley lines, power sources)
+- Track someone across planes of existence
+- Perceive threats through time (danger sense hours ahead)
+- Sense the presence of gods or cosmic entities
 
 ---
 
@@ -298,19 +405,33 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Figure out how to open a door or solve a simple puzzle
 - Decipher a text in a foreign language (with time)
 - Untangle a riddle or maze
-- Do light detective work (determine if someone is charging too much)
+- Do light detective work (is this merchant cheating me?)
+- Recall common lore about monsters or regions
 
 **Rank 2:**
-- Decipher an ancient text or research forbidden lore
-- Find the weak point or vulnerability in a complex magical seal
-- Figure out where someone has been by examining their clothing
-- Determine whether a master thief is going to let you leave alive based on subtle tells
+- **Decipher an ancient text** (with proper resources and time)
+- **Research forbidden lore** in libraries
+- **Find the weak point in a complex magical seal**
+- **Figure out where someone has been by examining their clothing**
+- **Determine whether a master thief will let you leave alive** (reading subtle tells)
+- Solve complex mechanical puzzles
+- Identify rare poisons or alchemical compounds
 
 **Rank 3:**
-- Surmise exactly what happened in a room last week from minimal evidence
-- Decipher an ancient inscription by intuition alone
-- Solve a mystery right away that would have stumped an entire team of local heroes
-- Guess an archwyrm's riddle in one go through pure insight
+- **Make ground-breaking discoveries in magic**
+- **Create new alchemical formulas or spells**
+- Solve mysteries that would stump teams of experts
+- Decipher ancient languages by pattern recognition alone
+- Understand complex mechanisms at a glance
+- Predict enemy strategies with uncanny accuracy
+
+**Rank 4:**
+- **Surmise exactly what happened in a room last week from two hairs and blood**
+- **Decipher an ancient inscription by intuition alone**
+- **Guess an ancient wyrm's riddle in one go through pure insight**
+- Understand divine or cosmic mysteries
+- Make paradigm-shifting magical discoveries
+- Solve impossible problems through inspiration
 
 ---
 
@@ -326,7 +447,9 @@ Characters can attempt feats above their Rank, but may need:
 - **Help** (allies, resources, preparation, special equipment)
 - **Reduced effect** (partial success, takes longer, costs more)
 
-*Example: Rank 1 heroes want to storm a guarded fortress (Rank 2 challenge). They can attempt it, but need a plan: scout for weaknesses (Sense), create a distraction (secondary team), infiltrate during chaos (Defy). Multiple rolls, higher stakes, requires setup.*
+*Example: Rank 1 heroes want to storm a guarded castle (Rank 2 challenge). They can attempt it, but need a plan: scout for weaknesses (Sense), create a distraction (secondary team), infiltrate during chaos (Defy). Multiple rolls, higher stakes, requires setup.*
+
+*Example: Rank 2 heroes facing a legendary dragon (Rank 3 threat). Direct combat is nearly impossible—they need to exploit weaknesses, use environmental advantages, or find magical aid. The dragon's mythic durability means normal weapons barely scratch it without special preparation.*
 
 ---
 
@@ -334,6 +457,10 @@ Characters can attempt feats above their Rank, but may need:
 Characters tackling threats significantly below their Rank often **auto-succeed without rolling**, unless complications arise or the stakes involve something beyond raw power.
 
 *Example: Rank 2 heroes facing common bandits (Rank 1 threat) don't need to roll to defeat them in combat. Only roll if the bandits have a hostage, the heroes are trying to capture them alive, time is critical, or other complications emerge.*
+
+*Example: Rank 3 heroes scaling a castle wall (Rank 2 challenge). They simply do it—no roll needed. The legendary hero runs up the wall in seconds. Only roll if doing it silently, while carrying someone, or under enemy fire.*
+
+*Example: Rank 4 heroes convincing a local lord (Rank 1 social challenge). Their legendary reputation alone makes this trivial—the lord is honored by their presence. No roll unless refusing would be character-defining for the lord.*
 
 ---
 
@@ -360,16 +487,17 @@ Characters tackling threats significantly below their Rank often **auto-succeed 
 **GMs should award levels based on narrative milestones, not session count or XP totals.** Advancement should feel earned and tied to story progress.
 
 **Suggested Milestones:**
-- **Level 2-3:** After completing your first major arc (saving the village, defeating the local threat, solving the central mystery)
-- **Level 4 (Rank 2):** After a significant accomplishment that elevates your reputation beyond the local area (exposing a regional conspiracy, defeating a legendary monster, leading a successful campaign)
-- **Level 5-7:** After multiple regional adventures or a major campaign arc
-- **Level 8 (Rank 3):** After facing a world-changing threat or accomplishing something that reshapes the setting (stopping an invasion, killing an ancient dragon, overthrowing a tyrant)
-- **Level 9-10:** Final push toward campaign climax (facing the demon lord, stopping the apocalypse, confronting the gods)
+- **Level 2-3:** After completing your first major arc (saving the village, defeating the local threat, solving the central mystery, establishing yourself as competent heroes)
+- **Level 4 (Rank 2):** After proving yourself exceptional (defeating a dangerous beast, exposing a conspiracy, winning a tournament, completing multiple adventures that demonstrate mastery)
+- **Level 5-6:** After multiple city/regional adventures (building reputation, gaining allies, facing increasingly dangerous threats)
+- **Level 7 (Rank 3):** After your first truly legendary feat (slaying a young dragon, stopping a regional disaster, achieving something that enters folklore)
+- **Level 8-9:** After multiple mythic accomplishments (facing legendary monsters, shaping regional politics, performing impossible feats)
+- **Level 10 (Rank 4):** Campaign climax (facing the demon lord, ancient dragon, archlich, or other world-ending threat; achieving apotheosis; becoming legend)
 
 **Typical Campaign Pace:**
-- **Short campaign (10-15 sessions):** Award levels every 1-2 sessions (reach Level 5-6)
-- **Medium campaign (20-30 sessions):** Award levels every 2-3 sessions (reach Level 8-10)
-- **Long campaign (40+ sessions):** Award levels every 3-5 sessions (reach Level 10, with more time at each Rank)
+- **Short campaign (10-15 sessions):** Award levels every 1-2 sessions (reach Level 5-6, ending at Rank 2)
+- **Medium campaign (20-30 sessions):** Award levels every 2-3 sessions (reach Level 8-9, experience Rank 3)
+- **Long campaign (40+ sessions):** Award levels every 3-5 sessions (reach Level 10, experiencing all four Ranks with time to explore each tier)
 
 ---
 
@@ -383,12 +511,12 @@ Characters tackling threats significantly below their Rank often **auto-succeed 
 
 **Level Gains:**
 - **Approach increases:** Levels 2, 3, 4, 6, 7, 8, 9 (7 total)
-- **Talent increases:** Levels 2, 4, 6, 8, 10 (5 total)
+- **Talent increases:** Levels 2, 4, 6, 7, 8, 10 (6 total)
 - **Trait increases:** Levels 5, 10 (2 total)
-- **Rank increases:** Levels 4 (→ Rank 2), 8 (→ Rank 3)
+- **Rank increases:** Levels 4 (→ Rank 2), 7 (→ Rank 3), 10 (→ Rank 4)
 
 **End-Game Character (Level 10):**
 - Approaches: 5/4/3/2/0
-- Talents: 7
+- Talents: 8
 - Traits: 5
-- Rank: 3
+- Rank: 4

@@ -268,12 +268,12 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 **Typical Challenges:**
 - **Toppling watchtowers with devastating strikes**, shattering fortress foundations, **splitting cliff faces**
 - Fighting entire companies (100+ soldiers) solo, commanding vast armies
-- **Wading through lava unharmed**, **lifting three-story buildings**, forcing open doors sealed for millennia
-- Surviving in hostile dimensions for weeks, crossing oceans in hours through impossible speed
-- Building or destroying castles overnight, traveling across continents in hours
-- **Surmising exactly what happened from minimal evidence** (two hairs and blood), deciphering ancient inscriptions by intuition alone
-- Convincing kings in extraordinary circumstances, commanding legendary respect, charming ancient sorcerers
-- Making paradigm-shifting magical breakthroughs, understanding divine mysteries
+- **Lifting three-story buildings**, forcing open doors sealed for millennia, **walking through dragonfire unharmed**
+- Crossing oceans in hours through impossible speed, surviving in hostile dimensions for weeks
+- **Founding kingdoms that endure for generations**, **reshaping regions through your actions** (diverting rivers, raising fortifications that become legendary)
+- **Deciphering ancient inscriptions by intuition alone**, understanding divine mysteries
+- **Negotiating peace between nations**, charming ancient sorcerers, **becoming a voice that shapes civilizations**
+- Making paradigm-shifting magical breakthroughs, creating artifacts of legend
 - Stealing from gods, bargaining with Death, crossing into the underworld and returning
 
 **Key Note:** Rank 4 heroes exist on the threshold of divinity. Their deeds become the stuff of legend for future generations. Actions are tied to your Calling and fictional capabilities—a Sage shapes reality through magic, a Champion through martial prowess. When they die, temples are built in their honor.
@@ -291,71 +291,48 @@ The following examples illustrate the **scope and scale** of what's possible at 
 **Rank 1:**
 - Fight a small band of bandits (3-5) or an average monster
 - Break down a wooden door with effort
-- Smash through a simple barricade
-- Knock someone out with a solid punch
-- Defeat 2-3 untrained opponents
+- Defeat 2-3 untrained opponents in melee
 
 **Rank 2:**
-- Fight a dozen well-trained soldiers or a dangerous beast (dire wolf, young wyvern)
-- Break through a reinforced oak door
-- Snap a rope or chain with sustained strikes
-- Defeat 5-6 trained guards through skilled combat
-- Lead a squad effectively in battle
-- Chop through a thick wooden pillar or crack structural masonry with repeated blows
+- Fight a dozen well-trained soldiers or dangerous beast (dire wolf, young wyvern, owlbear)
+- Break through reinforced doors or snap chains with sustained strikes
+- Chop through thick wooden pillars or crack structural masonry with repeated blows
 
 **Rank 3:**
-- **Snap a heavy iron chain with a single blow**
-- **Throw back ten people with one strike**
-- **Smash a boulder in half**
-- **Blow right through a stone wall**
-- Fight a small platoon (20-30 soldiers) solo
-- Split a massive tree trunk with one sword stroke
+- **Snap heavy iron chains with single blows**, **throw back ten people with one strike**
+- **Smash boulders in half**, **blow through stone walls**
+- Fight small platoons (20-30 soldiers) solo
 
 **Rank 4:**
-- **Topple a fortified watchtower with a devastating impact**
-- **Shatter a keep's foundational wall with a single strike**
-- **Split a cliff face with a weapon strike**
-- **Incinerate a battlefield or level a fortress with magical fury**
-- Fight an entire company (100+ soldiers) and win
-- Destroy fortifications in moments
+- **Topple fortified watchtowers**, **shatter keep foundations**, **split cliff faces**
+- **Incinerate battlefields with magical fury**, **level fortresses in moments**
+- Fight entire companies (100+ soldiers) and win
 
 ---
 
 ### Defy (Overcome Danger, Resist, Endure)
 
 **Rank 1:**
-- Climb over a manor wall (15-20 feet)
-- Swim across a river
-- Survive in the wilderness for a few days
-- Hold your breath while swimming underwater
-- Duck behind cover to avoid arrows or block missiles with a shield
-- Endure minor torture or pain
+- Climb over manor walls (15-20 feet), swim across rivers
+- Survive in wilderness for days
+- Block arrows with a shield, endure minor torture
 
 **Rank 2:**
-- Climb over a castle wall (40-50 feet) with proper technique
-- Swim across a lake or wide channel
-- **Go without sleep, food, or rest for a few days**
-- **Eat something poisonous and survive**
-- **Withstand tremendous pain without breaking**
-- Endure a dangerous fall (2-3 stories) with serious injury
-- Ride dangerous animals (bears, young drakes) with training
-- Catch arrows out of the air
+- Climb castle walls (40-50 feet) with proper technique, swim across lakes
+- **Go without sleep or food for days**, **survive poisonous substances**
+- **Withstand tremendous pain without breaking**, endure dangerous falls (2-3 stories) with injury
+- Ride dangerous animals (bears, young drakes), catch arrows mid-flight
 
 **Rank 3:**
-- **Carry a loaded wagon overhead or hold a castle gate open**
-- Run up a massive cliffside in minutes
-- Swim across an ocean channel
-- **Endure a fall from a high peak** (with injury but survive)
+- **Carry loaded wagons overhead**, **hold castle gates open**, run up massive cliffsides
+- Swim across ocean channels, **endure falls from mountain peaks** (injured but alive)
 - Ride monsters without saddles (adult dragons, griffons)
-- **Walk through a burning building unscathed or survive a cursed, toxic wasteland**
-- Push on without rest for a week
+- **Walk through burning buildings unscathed**, push on without rest for a week
 
 **Rank 4:**
-- **Walk through dragonfire unharmed or endure the heart of a volcano**
-- **Lift a three-story building**
-- **Force open a sealed stone door shut for a thousand years**
-- Survive being hurled into hostile dimensions for weeks
-- **Cross oceans in hours through impossible speed**
+- **Walk through dragonfire unharmed**, **lift three-story buildings**
+- **Force open stone doors sealed for millennia**
+- **Cross oceans in hours**, survive in hostile dimensions for weeks
 - Endure wounds that would kill any mortal hero
 
 ---
@@ -365,36 +342,26 @@ The following examples illustrate the **scope and scale** of what's possible at 
 **Note on Social Influence:** High Rank grants narrative permission to attempt extraordinary persuasion—it is NOT mind control. A Rank 4 hero convincing a king to abdicate requires the right circumstances (king is already doubting, kingdom is fracturing, hero presents overwhelming evidence). Complications (Resolute, Alert) and high Will tracks still apply. Social feats at high Ranks represent exceptional persuasion in exceptional moments, not automatic success.
 
 **Rank 1:**
-- Sway a single person into aiding you
-- Get a merchant to apologize or offer better prices
-- Assume a made-up identity convincingly
-- Talk down a single aggressor
+- Sway single people into aiding you, get merchants to offer better prices
+- Assume convincing disguises, talk down single aggressors
 - Lead a handful of followers
 
 **Rank 2:**
-- Sway a small crowd (tavern, marketplace) into brief localized action
-- Convince a local lord or minor noble
-- **Pretend to be someone well-known and maintain the ruse**
-- Talk down an angry mob (with effort)
-- Lead a mercenary company or guild
-- Inspire troops before battle
+- Sway small crowds (tavern, marketplace) into brief action, convince local lords
+- **Assume high-profile identities convincingly**, talk down angry mobs
+- Lead mercenary companies or guilds, inspire troops before battle
 - Negotiate complex political arrangements
 
 **Rank 3:**
-- **Incite a city sector into open revolution or convince an enemy platoon to lay down arms**
-- **Convince a king to let you out of the dungeon** (through force of personality)
-- Charm hardened criminals or assassins
-- Lead an organization or small army
-- Build regional fame that opens doors
-- Seduce or befriend powerful figures
+- **Incite city sectors into revolution**, **convince enemy platoons to surrender**
+- Charm hardened criminals or assassins, **sway kings through sheer presence**
+- Lead small armies, build regional fame that opens doors
 
 **Rank 4:**
-- **Negotiate peace between warring nations**
-- **Unite rival kingdoms under a common cause**
-- **Convince a king to step down from his throne** (in extraordinary circumstances)
-- **Become the symbolic voice of an age** (your words shape civilizations)
-- **Charm an ancient sorcerer into aiding you**
-- Your reputation alone can end conflicts
+- **Negotiate peace between warring nations**, **unite rival kingdoms**
+- **Found dynasties**, **become a voice that shapes civilizations for generations**
+- Charm ancient sorcerers, **convince kings to abdicate in extraordinary circumstances**
+- Your reputation alone can end conflicts or spark movements
 
 ---
 
@@ -402,30 +369,22 @@ The following examples illustrate the **scope and scale** of what's possible at 
 
 **Rank 1:**
 - Spot hidden doors, traps, or concealed objects
-- Look for entrances into a building or ruin
-- Track someone through fresh tracks or days-old mud
-- Detect obvious or nearby magic
+- Track through fresh tracks or mud, detect obvious magic
 - Notice someone following you in a crowd
 
 **Rank 2:**
-- **Sense that you are being watched in a crowded city or track an elite scout**
-- Track someone through snow, rain, or difficult terrain
-- **Detect subtle hidden magic or invisible creatures**
-- **Predict the weather days in advance with accuracy**
-- Read complex social dynamics and hidden agendas
-- Notice details others miss (clothing tells, minute evidence)
+- **Sense you're being watched in crowded cities**, track through difficult terrain (snow, rain)
+- **Detect subtle magic or invisible creatures**, **predict weather days ahead**
+- Read complex social dynamics, notice minute details (clothing tells, micro-evidence)
 
 **Rank 3:**
-- **Determine the exact location of an invisible creature in a busy environment**
-- **Track by minute details** (tobacco scent, disturbed dust patterns, microscopic environmental disruptions)
-- Notice supernatural threats before they manifest
-- Sense powerful magic at great distances
-- Read intentions with uncanny accuracy
+- **Pinpoint invisible creatures in busy environments**
+- **Track by microscopic details** (scent traces, dust patterns, environmental disturbances)
+- Sense supernatural threats before they manifest, read intentions with uncanny accuracy
 
 **Rank 4:**
-- **Visualize ambient connections of magic around you** (see ley lines, power sources across entire regions)
-- Track someone across planes of existence
-- **Perceive hidden truths that others literally cannot see**
+- **Visualize ley lines and magical power sources across regions**
+- **Perceive hidden truths that others literally cannot see**, track across planes
 - Sense the presence of gods or cosmic entities
 
 ---
@@ -433,36 +392,23 @@ The following examples illustrate the **scope and scale** of what's possible at 
 ### Know (Recall, Deduce, Analyze, Research)
 
 **Rank 1:**
-- Figure out how to open a door or solve a simple puzzle
-- Decipher a text in a foreign language (with time)
-- Untangle a riddle or maze
-- Do light detective work (is this merchant cheating me?)
-- Recall common lore about monsters or regions
+- Solve simple puzzles, decipher foreign texts (with time)
+- Do light detective work, recall common monster lore
 
 **Rank 2:**
-- **Decipher an ancient text** (with proper resources and time)
-- **Research forbidden lore** in libraries
-- **Find the weak point in a complex magical seal**
-- **Figure out where someone has been by examining their clothing**
-- **Identify the specific criminal syndicate or legendary thief by their signature methods**
-- Solve complex mechanical puzzles
-- Identify rare poisons or alchemical compounds
+- **Decipher ancient texts** (with resources and time), **research forbidden lore**
+- **Find weak points in magical seals**, solve complex mechanical puzzles
+- **Deduce someone's recent locations from their clothing**, identify rare poisons
 
 **Rank 3:**
-- **Make ground-breaking discoveries in magic**
-- **Create new alchemical formulas or spells**
+- **Make breakthrough magical discoveries**, **create new spells or alchemical formulas**
+- **Translate dead languages upon first sight through pattern recognition**
 - Solve mysteries that would stump teams of experts
-- **Completely translate a dead, forgotten language upon first sight by mapping structural patterns in real-time**
-- Understand complex mechanisms at a glance
-- Predict enemy strategies with uncanny accuracy
 
 **Rank 4:**
-- **Surmise exactly what happened in a room last week from two hairs and blood**
-- **Decipher an ancient inscription by intuition alone**
-- **Guess an ancient wyrm's riddle in one go through pure insight**
-- Understand divine or cosmic mysteries
-- Make paradigm-shifting magical discoveries
-- Solve impossible problems through inspiration
+- **Reconstruct events from minimal evidence** (two hairs and blood spatter)
+- **Decipher inscriptions by intuition alone**, solve ancient riddles instantly
+- Understand divine mysteries, make paradigm-shifting magical breakthroughs
 
 ---
 

@@ -200,7 +200,7 @@ Edge and Bane represent advantage and disadvantage.
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the **lowest** result.
 
-*Design Note: This produces ~75% Setback rate, intentionally harsh to represent being completely overwhelmed. If you prefer a gentler floor (closer to 50% Setback), use 2d6-take-highest instead. The "take lowest" version emphasizes that fighting at 0 dice is a desperate, dangerous situation.*
+*Design Note: This produces ~75% Setback rate, intentionally harsh to represent being completely overwhelmed. The solution is to gain Edge (spend Momentum, Push Yourself, exploit position), switch to a better Approach, or rely on Expertise (converts Setback → Conflict). Fighting at 0 dice should feel desperate — it incentivizes creative problem-solving rather than brute-forcing the obstacle.*
 
 **Maximum Pool:** Approach 5 + 2 Edge = **7d6** (legendary tier)
 

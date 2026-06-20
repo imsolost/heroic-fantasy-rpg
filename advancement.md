@@ -74,7 +74,6 @@ When you gain an Approach increase, raise one Approach by 1. The level determine
 When you gain a Talent, choose one from the available Talent types (see Chapter 3: Characters). Work with your GM to ensure the Talent fits your character's fictional development.
 
 **Talent Types:**
-- Favored Actions (+1d in specific circumstances)
 - Potency Talents (narrative permission + mechanics)
 - Expertise (Setback → Conflict within domain)
 - Unique Moves (new actions)
@@ -164,9 +163,7 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 **Rank grants narrative permission for scale, not automatic capability.** A Rank 4 Sage can attempt world-shaping magic because they're at demigod tier—but they still need magical Talents, appropriate Traits, and fictional positioning. A Rank 4 Champion can't punch through castle walls just because they're high Rank—they need the physical prowess their Calling provides.
 
-**Magic follows the same narrative scale as all other actions.** A Rank 2 spellcaster cannot achieve Rank 4 effects simply because they wield supernatural power. Magic respects Rank boundaries just like physical actions—your Rank determines the scale of what you can attempt, magical or otherwise.
-
-**Rank determines what's possible, not what's easy or automatic.** High social Rank means you CAN attempt to convince kings or sway nations—but this requires exceptional circumstances, not mind control. Complications (Resolute, Alert) and high Will tracks still matter. A Rank 4 hero convincing a king to abdicate requires the right moment, compelling evidence, or extraordinary circumstances—it's not a "I win" button.
+**Magic follows the same narrative scale as all other actions.** A Rank 2 spellcaster cannot achieve Rank 4 effects simply because they wield supernatural power. Magic respects Rank boundaries just like physical actions—your Rank determines the scale of what you can attempt, magical or otherwise. See Chapter 10: Spellcasting for detailed magical scaling by Rank.
 
 ---
 
@@ -201,7 +198,7 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 **Archetypes:** Legendary mortal heroes—Lancelot, Odysseus, Robin Hood, Aragorn (ranger years), Geralt of Rivia, skilled sellswords, master thieves, court wizards, veteran monster hunters
 
-**Tone:** Peak human capability through training, experience, and discipline. Everything is exceptional but explainable—these heroes push the absolute limits of mortal possibility without breaking the laws of physics. Think "the greatest swordsman alive" or "the cleverest thief in the kingdom."
+**Tone:** Peak human capability through training, experience, and discipline. Everything is extraordinary but fundamentally mortal—these heroes push the absolute limits of mortal possibility. Think "the greatest swordsman alive" or "the cleverest thief in the kingdom."
 
 **Expected Scope:**
 - Protect or threaten entire cities, regions, or factions
@@ -354,7 +351,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Push on without rest for a week
 
 **Rank 4:**
-- **Wade through lava or arctic wastes for extended periods, unharmed**
+- **Walk through dragonfire unharmed or endure the heart of a volcano**
 - **Lift a three-story building**
 - **Force open a sealed stone door shut for a thousand years**
 - Survive being hurled into hostile dimensions for weeks
@@ -392,10 +389,10 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Seduce or befriend powerful figures
 
 **Rank 4:**
-- **Sway an entire nation's populace to alter their cultural beliefs**
-- **Command an invading army to turn and march against their own emperor**
-- **Convince a king to step down from his throne**
-- **Pretend to be a king for weeks without being discovered**
+- **Negotiate peace between warring nations**
+- **Unite rival kingdoms under a common cause**
+- **Convince a king to step down from his throne** (in extraordinary circumstances)
+- **Become the symbolic voice of an age** (your words shape civilizations)
 - **Charm an ancient sorcerer into aiding you**
 - Your reputation alone can end conflicts
 
@@ -426,9 +423,9 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Read intentions with uncanny accuracy
 
 **Rank 4:**
-- **Visualize ambient connections of magic around you** (see ley lines, power sources)
+- **Visualize ambient connections of magic around you** (see ley lines, power sources across entire regions)
 - Track someone across planes of existence
-- Perceive threats through time (danger sense hours ahead)
+- **Perceive hidden truths that others literally cannot see**
 - Sense the presence of gods or cosmic entities
 
 ---

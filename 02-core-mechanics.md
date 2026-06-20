@@ -200,6 +200,8 @@ Edge and Bane represent advantage and disadvantage.
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the **lowest** result.
 
+*Design Note: This produces ~75% Setback rate, intentionally harsh to represent being completely overwhelmed. If you prefer a gentler floor (closer to 50% Setback), use 2d6-take-highest instead. The "take lowest" version emphasizes that fighting at 0 dice is a desperate, dangerous situation.*
+
 **Maximum Pool:** Approach 5 + 2 Edge = **7d6** (legendary tier)
 
 **Typical Pools:**

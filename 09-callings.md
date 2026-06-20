@@ -19,7 +19,7 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 
 ### Core Talent
 **MARTIAL SUPERIORITY**
-When you invoke a Trait on a Conflict or higher result during Clash, choose 2 different Special Effects instead of 1.
+When you invoke a Trait on a Conflict or higher result during Clash, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
 
 ### Additional Talents (Examples)
 **Weapon Expertise:** Choose a weapon type: Heavy Blades, Light Blades, Bows, Crossbows, Polearms, Axes, or Hammers. You have Expertise (see Chapter 3) with that weapon type.

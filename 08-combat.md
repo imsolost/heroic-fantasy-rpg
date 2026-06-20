@@ -10,6 +10,20 @@ This chapter provides optional tactical depth for combat encounters.
 
 ---
 
+## Turn Structure
+
+**Baseline:** There is **no formal initiative system**. The GM follows the spotlight based on fiction — who's in danger, who just acted, whose turn feels dramatically right (see Chapter 7: Spotlight Rotation).
+
+**Optional Add-Ons:**
+- **Players:** Spend 1 Momentum to **Seize Spotlight** and act immediately out of turn (Chapter 7)
+- **GM:** Spend 1 Threat to **Seize Initiative** — enemy acts immediately, interrupting the current spotlight (Threat Pool, below)
+
+**When uncertain:** Go clockwise around the table.
+
+**Key Principle:** Turn order emerges from fiction and dramatic pacing, not rigid counting. The optional systems (Seize Spotlight, Threat Pool) let players and GM create urgency by interrupting the default flow.
+
+---
+
 ## Zones & Positioning
 
 Combat areas can be divided into abstract **zones** for tactical clarity while preserving theater-of-mind flexibility.
@@ -347,7 +361,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **GM:** "He's taken 0 ticks so far — 8 ticks total to drop him. And you hear horns in the distance — reinforcements might arrive in a few rounds if this drags out. Ryn gains 1 Momentum for the Triumph."
 
-**Kael:** "I spend 1 Momentum to seize initiative! I charge and go for that shoulder before he recovers. Clash with Daring, I have Edge from Ryn's Opening."
+**Kael:** "I spend 1 Momentum to Seize Spotlight! I charge and go for that shoulder before he recovers. Clash with Daring, I have Edge from Ryn's Opening."
 
 **Kael rolls 4d6 (Approach 3, Edge 1) → 6 (Success)**
 
@@ -415,7 +429,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Tactical Choices Highlighted:**
 - Ryn used Sense to create Opening (bypassed "Armored" ability)
-- Kael spent Momentum to seize initiative
+- Kael spent Momentum to Seize Spotlight (act out of turn)
 - Mira used Quick Assist to save Kael (mark Stress for Edge)
 - GM used Threat from Kael's Setback (but chose to hold it)
 - Positioning mattered (Close vs Near zones)

@@ -273,6 +273,8 @@ Some Talents automatically negate specific types of Complications:
 
 **Special Moves are active abilities the Challenge uses as Impact Moves.** When the GM makes an Impact Move (Soft or Hard), they can choose to use a Special Move instead of a standard Impact Move.
 
+*Note: "Special Moves" and "Challenge Moves" are synonyms — both refer to these active abilities. This chapter uses "Special Moves" as the canonical term.*
+
 **Soft Moves** typically telegraph the Special Move ("The dragon's throat glows orange as it draws breath...").
 
 **Hard Moves** trigger the Special Move immediately, usually as a result of PC failure (Setback or worse).
@@ -448,17 +450,17 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 ---
 
-### Consequence Moves (Active Abilities)
+### Special Moves (Active Abilities)
 
-Some Challenges have special moves they can use:
+Some Challenges have Special Moves they can use (see **Special Moves** section earlier in this chapter for full rules and limited-use notation [□□]).
 
 **Examples:**
-- **"Frightening Roar"** — All PCs must Defy or gain Frightened 2
-- **"Poisoned Blade"** — Hit inflicts Poisoned 2 directly (bypasses Stress)
-- **"Whirlwind Strike"** — Attack multiple PCs simultaneously
-- **"Teleport"** — Reposition freely, ignoring obstacles
+- **Frightening Roar [□]** — All PCs in Near range must Defy or gain Frightened 2 (1 use)
+- **Poisoned Blade (Passive)** — Hits inflict Poisoned 2 directly (always active)
+- **Whirlwind Strike [□□]** — Attack all PCs in Close range simultaneously (2 uses)
+- **Teleport [□□□]** — Reposition freely to any visible zone, ignoring obstacles (3 uses)
 
-**When to use:** When the GM makes an Impact Move (Conflict/Setback), the Challenge may use a Consequence Move if it fits the fiction.
+**When to use:** When the GM makes an Impact Move (Conflict/Setback), the Challenge may use a Special Move if it fits the fiction and has uses remaining.
 
 ---
 

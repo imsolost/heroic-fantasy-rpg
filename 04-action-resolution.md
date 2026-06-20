@@ -801,14 +801,21 @@ Complex tasks require **progress tracks** to represent multi-step efforts.
 
 ---
 
-## Disaster
+## Disaster (Edge Case / Optional)
 
-When your outcome is **Setback** and **one Complication reduces it further**, the result is **Disaster** — the worst-case scenario happens.
+**Disaster** occurs when outcomes are reduced **below Setback** by Complications. This is rare and represents catastrophic failure.
+
+**When Disaster Happens:**
+- Multiple Complications stack to reduce outcome past Setback
+- Example: Success with 3 Complications → Disaster
+- Example: Setback with 2+ Complications → Disaster
+
+**GM Discretion:** Disaster is an optional edge case. If it feels too punishing for your table, simply cap outcomes at Setback and apply the harshest possible Major Consequence instead.
 
 **How it occurs:**
-- Roll Setback (all 1-3)
-- 1 Complication reduces it below Setback → Disaster
+- Roll Setback (all 1-3) + 1 Complication → Disaster
 - Or: Roll Conflict → 1 Complication → Setback → 1 more Complication → Disaster
+- Or: Roll Success → 3+ Complications → Disaster
 
 **Disaster Consequences:**
 

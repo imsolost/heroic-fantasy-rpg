@@ -30,6 +30,36 @@ Each Action has a **Primary Effect**:
 4. **Sense → Assess** — Ask specific questions to understand the situation
 5. **Know → Recall** — GM tells you something useful from your knowledge
 
+---
+
+### Understanding Actions and Effects
+
+Each of the 5 Actions has two names:
+
+**Action Name** (what you say at the table):
+- "I **Defy** the dragon's flames"
+- "I **Clash** with the knight"
+- "I **Talk** to the guard"
+
+**Primary Effect** (mechanical result in the rules):
+- Defy → **Overcome** (mark Obstacle track or automatically overcome simple barriers)
+- Clash → **Harm** (mark Harm or Will track)
+- Talk → **Influence** (mark Will track)
+- Sense → **Assess** (ask questions)
+- Know → **Recall** (GM tells you + clarifying question)
+
+**Why both names?** Action names are evocative player verbs. Primary Effects describe what mechanically happens when you succeed. Use Action names during play; Primary Effects are reference terms in the rules.
+
+**Example:**
+> **Player:** "I Clash with the troll!"
+> **GM:** "Roll Clash + Daring."
+> **[Player rolls Conflict]**
+> **GM:** "You succeed—the Clash's Primary Effect is Harm, so mark 1 tick on the troll's Harm track. But you also take a Minor Consequence..."
+
+Throughout this rulebook, you'll see both terms. Just remember: **Actions are what you do, Effects are what happens.**
+
+---
+
 ### Five Approaches (How You Act)
 
 - **Daring** — Bold, forceful, aggressive

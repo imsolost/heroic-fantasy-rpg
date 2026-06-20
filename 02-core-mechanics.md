@@ -26,6 +26,22 @@ Make an **Action Roll** when a character faces a risky, difficult, or dramatical
 
 ---
 
+## Actions and Effects
+
+When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know). Each Action has a **Primary Effect**—the mechanical outcome when you succeed:
+
+| Action | Primary Effect | What It Does |
+|--------|----------------|--------------|
+| **Defy** | Overcome | Mark Obstacle track OR automatically overcome simple barriers |
+| **Clash** | Harm | Mark Harm or Will track OR defeat weaker foes outright |
+| **Talk** | Influence | Mark Will track OR convince lesser NPCs automatically |
+| **Sense** | Assess | Ask 2 questions (1 on Conflict) |
+| **Know** | Recall | GM tells you something + you ask 1 clarifying question |
+
+**Use Action names at the table** ("I Defy the trap", "I Sense for ambushes"). Primary Effects appear in the rules to describe what mechanically happens.
+
+---
+
 ## Actions (What You Do)
 
 Actions are fictional triggers, not rated stats. They describe **what** you're doing.
@@ -306,7 +322,24 @@ Edge and Bane represent advantage and disadvantage.
 
 More tiers would complicate; fewer would lose nuance.
 
-*Note: When facing dangerous enemies with Complications, Setback can be pushed further into **Disaster** (Severe Consequence). This is a consequence escalation, not a fifth outcome tier — see Chapter 4 for details.*
+### Disaster (Edge Case)
+
+When **multiple Complications** reduce an outcome past Setback, it becomes **Disaster** (Severe Consequence). This is rare—it requires rolling Setback AND having 2+ Complications, OR rolling Success/Conflict and having 3+ Complications.
+
+**Disaster represents catastrophic failure:**
+- Taken Out (unconscious, captured, removed from scene)
+- Gain a Burden (persistent Condition)
+- Objective fails completely with lasting consequences
+
+**GM Discretion:** Disaster is optional. If it feels too punishing, cap outcomes at Setback and apply a harsh Major Consequence instead.
+
+**Example:**
+> Kael attacks an Ancient Dragon (3 Complications: Resilient, Warded, Legendary).
+> - Rolls Success (6)
+> - Complications reduce: Success → Conflict → Setback → **Disaster**
+> - GM: "Your blade shatters against its scales. Mark a Burden: Weapon Shattered 2. You're disarmed and staggered—the dragon's counterattack sends you flying..."
+
+See Chapter 4 for Disaster Impact Moves.
 
 ---
 

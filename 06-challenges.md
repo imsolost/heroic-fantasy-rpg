@@ -21,6 +21,76 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 
 ---
 
+## Tier vs Rank: Two Different Scales
+
+**Tier** and **Rank** measure different things and **don't map 1:1 by design**.
+
+### Tier (Challenge Difficulty)
+
+**Tier measures how mechanically difficult** a Challenge is to overcome:
+- **Tier 0:** Trivial threats (untrained bandits, giant rats, common thugs)
+- **Tier 1:** Competent opposition (veteran soldiers, dire wolves, skilled guards)
+- **Tier 2:** Formidable foes (elite knights, young dragons, master thieves)
+- **Tier 3:** Legendary threats (ancient dragons, master assassins, archmages)
+- **Tier 4+:** World-ending entities (demon lords, gods, primordial forces)
+
+Tier determines:
+- How many Complications the Challenge has (0-3+)
+- How long Progress tracks are (2-10+ ticks)
+- How durable/resistant it is
+
+### Rank (PC Narrative Genre)
+
+**Rank measures what genre of fantasy** the PCs are experiencing:
+- **Rank 1 (Local Heroes):** Grounded fantasy, realistic struggle
+- **Rank 2 (Seasoned Adventurers):** Heroic fantasy, peak mortals
+- **Rank 3 (Regional Legends):** Mythic fantasy, superhuman feats
+- **Rank 4 (Mythic Heroes):** Demigod fantasy, world-shaping
+
+Rank determines:
+- What scale of actions you can attempt (narrative permission)
+- What genre tone the campaign operates in
+- What kinds of stories make sense
+
+### Why They Don't Match
+
+**Tier and Rank serve different purposes and intentionally don't correspond 1:1.**
+
+**Example: Tier 4, Rank 1 (The Goblin King)**
+- **Tier 4:** Mechanically tough boss fight (long Harm track, 3 Complications, hits hard)
+- **Rank 1:** For starting heroes in grounded fantasy
+- **Result:** Climactic campaign finale where scrappy local heroes face their greatest threat
+
+**Example: Tier 1, Rank 3 (Demon Spawn Minions)**
+- **Tier 1:** Mechanically easy (short track, 0-1 Complications)
+- **Rank 3:** Legendary heroes cutting through hordes
+- **Result:** Regional legends mowing down demon army minions (narratively impressive, mechanically trivial)
+
+### Designing Challenges
+
+**Don't match Tier to Rank.** Instead:
+
+1. **Pick Tier based on desired difficulty:**
+   - Easy fight? → Tier 0-1
+   - Balanced encounter? → Tier 2
+   - Boss fight? → Tier 3-4+
+
+2. **Use Rank for narrative scope:**
+   - Rank 1: Village-scale threats (bandits, local monsters)
+   - Rank 2: City-scale threats (conspiracies, regional beasts)
+   - Rank 3: Nation-scale threats (armies, legendary monsters)
+   - Rank 4: World-scale threats (apocalyptic forces)
+
+**A Rank 4 party can face:**
+- Tier 0-1 minions (mowing through armies)
+- Tier 2 elites (worthy opponents)
+- Tier 3-4 bosses (climactic battles)
+- Tier 5+ god-tier entities (world-ending threats)
+
+The key: **Tier = mechanical challenge, Rank = narrative genre**. Use them together to create the right difficulty AND story tone.
+
+---
+
 ## Complications
 
 **Complications** reduce your outcome by **-1 tier** after rolling, increasing the Consequence you suffer.

@@ -126,7 +126,7 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 - **Enhance** — Amplify, augment, or empower natural capabilities
 - **Deceive** — Create false images, introduce misdirection, or generate sensory lies
 
-**Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation (e.g., "I use Force to Bind the gate's momentum"). Mark 1 Stress to invoke your theoretical knowledge, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. Outcomes follow standard Consequence framework (see Chapter 4).
+**Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation (e.g., "I use Force to Bind the gate's momentum"). **Mark 1 Stress each time** you invoke your theoretical knowledge to improvise a spell, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. You can use this ability as many times per scene as you can afford the Stress cost. Outcomes follow standard Consequence framework (see Chapter 4).
 
 If you are a **Specialist** and your Arcane Formula uses your chosen Sphere, you have Expertise (Setback outcome becomes Conflict).
 
@@ -224,6 +224,6 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 **Hunter:** Wilderness tracker, Hunter's Instinct (Sense grants Potency, Expertise in Tracking/Trapping/Survival)
 
-**Sage:** Scholarly spellcaster, Spellcraft (Specialist: 1 Sphere + Expertise / Generalist: 4 theorems any Sphere, cast with Cunning, Arcane Formula once/scene)
+**Sage:** Scholarly spellcaster, Spellcraft (Specialist: 1 Sphere + Expertise / Generalist: 4 theorems any Sphere, cast with Cunning, Arcane Formula unlimited but costs 1 Stress each)
 
 **Mystic:** Spiritual channeler, Spiritual Communion (2 patron domains, cast with Spirit, Expertise when in Favor)

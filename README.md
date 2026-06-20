@@ -14,7 +14,7 @@ A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse 
 
 ### Five Actions (What You Do)
 
-Each Action has a **Primary Effect**:
+Each Action has a **Primary Effect** (Actions are player-facing verbs like "Defy"; Effects are mechanical outcomes like "Overcome"—see Chapter 1):
 
 1. **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks (dodge attacks, leap chasms, pick locks)
 2. **Clash → Harm** — Mark Harm or Will track (depending on approach) or outright defeat weaker foes
@@ -36,10 +36,12 @@ Each Action has a **Primary Effect**:
 
 Roll Xd6, check highest die (and look for double 6s):
 
-- **Setback** (all 1-3) — Failure with consequences
-- **Conflict** (any 4-5) — Success with consequence (GM makes soft Impact Move)
+- **Setback** (all 1-3) — Failure with Major Consequence (GM makes hard Impact Move)
+- **Conflict** (any 4-5) — Success with Minor Consequence (GM makes soft Impact Move)
 - **Success** (any 6) — Clean success
 - **Triumph** (two+ 6s) — Heroic success (gain Momentum, ignore Complications)
+
+**Edge Case - Disaster:** If a Setback is reduced even further by Complications (rare), it becomes a **Disaster** (Severe Consequence: Taken Out, Burden, catastrophic failure). See Chapter 4 for details.
 
 ### Traits (Special Effects)
 

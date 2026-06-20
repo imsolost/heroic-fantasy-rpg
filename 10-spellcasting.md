@@ -395,15 +395,15 @@ A Rank 4 Sage attempting to "freeze a lake" would use a Potent Spell (1 Stress, 
 
 ### Magic Trappings
 
-Describe what your magic looks like, sounds like, and feels like. Magic should be visceral and obvious unless you're specifically casting subtly (which might impose Complications or require specific touchstones like Shadowmancy or Illusion).
+Describe what your magic looks like, sounds like, and feels like. Magic should be visceral and obvious unless you're specifically casting subtly (which might impose Complications or require specific touchstones like Mind sphere for illusions or Elements for darkness).
 
 **Examples:**
-- Pyromancy: Flames, heat shimmer, smell of smoke, crackling sounds
-- Necromancy: Cold wind, shadows deepen, whispers of the dead, chill in the air
-- Wardcraft: Shimmering barriers, crystalline sounds, faint glow
-- Divination: Eyes glow, ethereal visions, sense of distant presence
+- Elements (Fire): Flames, heat shimmer, smell of smoke, crackling sounds
+- Matter (Necromancy): Cold wind, shadows deepen, whispers of the dead, chill in the air
+- Force (Wards): Shimmering barriers, crystalline sounds, faint glow
+- Time or Mind (Divination): Eyes glow, ethereal visions, sense of distant presence
 
-**Concealing Magic:** If you want to cast without being noticed, this may require a specific touchstone (Illusion, Shadow) or impose Complications (guards notice your gestures, enemy sees the spell forming). Work with your GM.
+**Concealing Magic:** If you want to cast without being noticed, this may require a specific touchstone (Mind sphere for illusions, Elements for darkness) or impose Complications (guards notice your gestures, enemy sees the spell forming). Work with your GM.
 
 ---
 
@@ -422,7 +422,7 @@ When an enemy casts a spell at you, the GM triggers a Defy roll:
 - **Cunning** (anticipate, counter)
 - **Daring** (tough it out, endure)
 
-**Countering magic directly** (dispelling, unraveling) may require specific touchstones (Wardcraft, Abjuration) or Talents. Without those, you can only Defy reactively.
+**Countering magic directly** (dispelling, unraveling) may require specific touchstones (Force sphere for wards and barriers) or Talents. Without those, you can only Defy reactively.
 
 ---
 
@@ -430,7 +430,7 @@ When an enemy casts a spell at you, the GM triggers a Defy roll:
 
 **Healing magic clears Stress and reduces Condition tiers.**
 
-When you cast healing magic (requires appropriate touchstone: Healing domain, Biomancy, Life magic, etc.):
+When you cast healing magic (requires appropriate touchstone: Body sphere, life magic, healing domain, etc.):
 
 **Magnitude determines effect:**
 
@@ -511,7 +511,7 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 
 **Sensing magical presence:**
 
-**Cantrip (requires appropriate touchstone like Divination, Wardcraft, etc.):**
+**Cantrip (requires appropriate touchstone like Time sphere, Mind sphere, or Force sphere):**
 - Automatic, no roll required
 - You sense that magic is present nearby (vague awareness)
 - No details — just "yes, there's magic here" or "no, nothing magical detected"
@@ -537,8 +537,8 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 ### Dispelling and Countering
 
 **Dispelling active magic:**
-- Requires appropriate touchstone (Wardcraft, Abjuration, or similar)
-- Roll **Defy + Wits/Spirit** to overcome the magic (treat as Obstacle track)
+- Requires appropriate touchstone (Force sphere, abjuration magic, or similar)
+- Roll **Defy + Spirit** to overcome the magic through willpower (treat as Obstacle track), or **Defy + Cunning** if using analytical counterspell techniques
 - **Simple spell:** Overcome immediately on Success
 - **Potent spell or ward:** Requires progress track (2-4 ticks)
 - **Ritual effect:** Very difficult (6+ tick track or requires counter-ritual)

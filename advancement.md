@@ -146,6 +146,8 @@ You may retrain **one secondary Talent** by replacing it with a new one when you
 
 Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (Rank 4).
 
+**Note on Rank vs Tier:** Your character's Rank (1-4) represents narrative genre and scale, not mechanical power. You can face Tier 4 threats at Rank 1 (tough boss fights) or Tier 1 threats at Rank 4 (minions). Tier measures how mechanically difficult a Challenge is, while Rank measures what narrative scale you operate at. See Chapter 6: Challenges for the full distinction between Rank (narrative permission) and Tier (mechanical difficulty).
+
 ---
 
 ### Understanding Rank: Genre, Not Just Power

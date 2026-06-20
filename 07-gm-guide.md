@@ -48,6 +48,13 @@ GM moves fall into two categories based on their fictional impact:
 
 **Golden Rule:** Never go straight to hard moves without telegraphing first (unless surprise is narratively justified). Soft move → player response → hard move if they fail or ignore the warning. This eliminates "gotcha" moments while maintaining tension.
 
+**Mapping to Consequence Framework:** This chapter uses Grimwild-inspired "Soft Move / Hard Move" vocabulary. These map directly to the Consequence Framework in Chapter 4:
+- **Soft Moves** = narrative framing for **Minor Consequences** (Conflict outcomes, mark 1 Stress or tier 1 Condition)
+- **Hard Moves** = narrative framing for **Major/Severe Consequences** (Setback/Disaster outcomes, mark 2 Stress, tier 2-3 Conditions, or Burdens)
+- **Story Moves** (below) = narrative prompts with no mechanical consequence at all
+
+The words differ but the mechanics are identical — use whichever vocabulary you prefer at your table.
+
 **Exception:** A player's dice roll bypasses the telegraph pipeline. When a PC rolls a Setback, the fiction assumes the active risk of their action constitutes the telegraph — deliver an immediate hard move. The roll itself IS the warning that failed.
 
 ### **Make every roll matter**

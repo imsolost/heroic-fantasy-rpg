@@ -304,6 +304,8 @@ Edge and Bane represent advantage and disadvantage.
 
 More tiers would complicate; fewer would lose nuance.
 
+*Note: When facing dangerous enemies with Complications, Setback can be pushed further into **Disaster** (Severe Consequence). This is a consequence escalation, not a fifth outcome tier — see Chapter 4 for details.*
+
 ---
 
 ## Quick Reference

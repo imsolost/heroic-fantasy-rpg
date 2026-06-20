@@ -586,7 +586,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 **Magnitude:**
 - **Cantrip:** Automatic minor effect (no roll)
 - **Spell:** Standard effect (Action Roll, standard difficulty)
-- **Potent Spell:** Powerful effect (Action Roll, 1 Bane / Hard difficulty)
+- **Potent Spell:** Powerful effect (Action Roll, **costs 1 Stress**, standard difficulty unless situation is Hard)
 - **Ritual:** Extraordinary effect (structured scene, multiple components)
 
 **Common Effects:**
@@ -596,7 +596,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - **Divine/Detect:** Sense (ask questions)
 - **Analyze/Identify:** Know (learn information)
 
-**Healing:** Clears 2 Stress (Spell) or 3-4 Stress (Potent Spell)
+**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 2-3 Stress OR reduce Condition by 2-3 tiers (Potent Spell, costs 1 Stress)
 
 **Buffs/Debuffs:** Grant Edge (buffs) or inflict Conditions/Complications (debuffs)
 
@@ -641,5 +641,5 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - Sage casts with **Cunning**, Mystic casts with **Spirit**
 - Cantrips are unlimited, automatic, and require no roll
 - Potent Spells always cost 1 Stress and represent dramatic magical power
-- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell), or 2-3 (Potent Spell)
+- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 2-3 Stress OR reduces Condition by 2-3 tiers (Potent Spell, costs 1 Stress)
 - Detecting magic presence is a free cantrip; getting details requires Sense or Know rolls

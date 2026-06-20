@@ -49,6 +49,8 @@ Roll Xd6 (pool = Approach + Edge - Bane), check highest die:
 - **Success** (any 6) — Clean success
 - **Triumph** (two+ 6s) — Heroic success (gain 1 Momentum, ignore Complications)
 
+*Note: Enemy Complications can push Setback even further into **Disaster** (Severe Consequence) — see Chapter 4 for full rules.*
+
 ### Momentum (Metacurrency)
 
 **Earn:** Triumph (double 6s), Trigger Tangle (character-driven complication), Build Momentum (Trait Special Effect)

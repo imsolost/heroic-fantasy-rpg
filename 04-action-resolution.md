@@ -469,13 +469,17 @@ Time pressure or deteriorating situation:
 
 ### Track Sizes
 
-| Size | Complexity | Examples |
-|------|------------|----------|
-| **1-tick** | Trivial | Minion, simple lock, convince friendly NPC |
-| **2-tick** | Quick | Guard, basic obstacle, shift attitude one step |
-| **3-tick** | Moderate | Veteran warrior, complex mechanism, win over skeptical group |
-| **6-tick** | Major | Elite enemy, fortified position, turn hostile faction neutral |
-| **10-tick** | Epic | Boss fight, legendary obstacle, forge alliance with hostile nation |
+Track lengths follow the **Tier system** (Tier 0-4):
+
+| Tier | Track Size | Complexity | Examples |
+|------|------------|------------|----------|
+| **0** | 0 ticks | Trivial | Single untrained guard, simple lock, convince friendly NPC (resolved on any Success+) |
+| **1** | 2 ticks | Minion | Bandit, basic obstacle, shift skeptical merchant's attitude |
+| **2** | 4 ticks | Standard | Veteran warrior, complex mechanism, win over hostile NPC |
+| **3** | 6 ticks | Elite | Champion fighter, fortified position, turn hostile faction neutral |
+| **4** | 8 ticks | Boss | Ancient dragon, legendary obstacle, forge alliance with enemy nation |
+
+**For campaign-scale tracks** (optional, rarely used): 10-12 ticks for multi-session objectives.
 
 ### Filling Tracks
 
@@ -552,7 +556,7 @@ Use when:
 **Examples:**
 - Knight attacks you → Defy to dodge → Success → You avoid his blade cleanly (simple task, no track)
 - Leap across chasm → Defy with Grace → Success → You make it across (simple task, no track)
-- Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 3-tick Obstacle track + take 1 Stress as mechanism activates
+- Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 4-tick Obstacle track + take 1 Stress as mechanism activates
 - Resist interrogation → Defy with Spirit → Success → You give nothing away
 
 **Example Special Effects (from Trait):**
@@ -659,7 +663,7 @@ Use when:
 
 **Examples:**
 - Convince guard to let you pass → Success → He waves you through (simple task, outright convinced)
-- Negotiate with hostile merchant → Success → Mark 1 tick on his 3-tick **Will track** (he's warming up to your offer)
+- Negotiate with hostile merchant → Success → Mark 1 tick on his 4-tick **Will track** (he's warming up to your offer)
 - Persuade noble with compelling evidence → Triumph → Mark 1 tick on **Will track** + gain 1 Momentum + invoke Trait for Greater Effect (mark 2 ticks total — she's nearly convinced)
 - Charm noble at party → Conflict → Mark 1 tick on **Will track** but you reveal something about yourself in the process (soft Impact Move)
 
@@ -753,12 +757,12 @@ Use when:
 
 Complex tasks require **progress tracks** to represent multi-step efforts.
 
-**Track Sizes:**
-- **1-tick:** Trivial (minion, simple lock, convince friendly NPC)
-- **2-tick:** Quick (guard, basic obstacle, shift attitude one step)
-- **3-tick:** Moderate (veteran warrior, complex mechanism, win over skeptical group)
-- **6-tick:** Major (elite enemy, fortified position, turn hostile faction neutral)
-- **10-tick:** Epic (boss fight, legendary obstacle, forge alliance with hostile nation)
+**Track Sizes (Tier System):**
+- **Tier 0 (0 ticks):** Trivial — resolved on any Success+ (untrained guard, simple lock, friendly NPC)
+- **Tier 1 (2 ticks):** Minion — bandit, basic obstacle, shift skeptical NPC's attitude
+- **Tier 2 (4 ticks):** Standard — veteran warrior, complex mechanism, win over hostile NPC
+- **Tier 3 (6 ticks):** Elite — champion fighter, fortified position, turn hostile faction neutral
+- **Tier 4 (8 ticks):** Boss — ancient dragon, legendary obstacle, forge alliance with enemy nation
 
 **Filling Tracks:**
 - **Setback:** 0 ticks + GM makes hard Impact Move
@@ -777,7 +781,7 @@ Complex tasks require **progress tracks** to represent multi-step efforts.
 - Any complications or countdowns that threaten the goal
 
 **Example:**
-> **GM:** "Breaking into the vault is a 3-tick complex task. The alarm countdown is a separate 2-tick track—if it fills, guards arrive."
+> **GM:** "Breaking into the vault is a 4-tick complex task (Tier 2). The alarm countdown is a separate 2-tick track—if it fills, guards arrive."
 >
 > **Player rolls Success:** "Mark 1 tick on the vault track. The alarm countdown advances 1 tick too."
 

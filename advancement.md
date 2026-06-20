@@ -149,6 +149,29 @@ Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (
 
 ---
 
+### Understanding Rank: Genre, Not Just Power
+
+Think of Rank as defining the **fantasy genre** you're playing in, not just your power level:
+
+| Rank | Genre | Examples |
+|------|-------|----------|
+| **1** | **Grounded Fantasy** | Realistic struggle, mundane threats feel dangerous |
+| **2** | **Heroic Fantasy** | Peak mortal capability, legendary heroes of history |
+| **3** | **Mythic Fantasy** | Superhuman feats, impossible by mortal standards |
+| **4** | **Demigod Fantasy** | Reality-warping, world-shaping, threshold of divinity |
+
+**Key Principles:**
+
+**Rank grants narrative permission for scale, not automatic capability.** A Rank 4 Sage can attempt world-shaping magic because they're at demigod tier—but they still need magical Talents, appropriate Traits, and fictional positioning. A Rank 4 Champion can't punch through castle walls just because they're high Rank—they need the physical prowess their Calling provides.
+
+**Magic follows the same narrative scale as all other actions.** A Rank 2 spellcaster cannot achieve Rank 4 effects simply because they wield supernatural power. Magic respects Rank boundaries just like physical actions—your Rank determines the scale of what you can attempt, magical or otherwise.
+
+**Rank determines what's possible, not what's easy or automatic.** High social Rank means you CAN attempt to convince kings or sway nations—but this requires exceptional circumstances, not mind control. Complications (Resolute, Alert) and high Will tracks still matter. A Rank 4 hero convincing a king to abdicate requires the right moment, compelling evidence, or extraordinary circumstances—it's not a "I win" button.
+
+---
+
+---
+
 ### Rank 1: Local Heroes (Levels 1-3)
 
 **Scale:** Village/neighborhood level, grounded adventures
@@ -246,17 +269,17 @@ Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (
 - Build world-spanning legend that outlives you
 
 **Typical Challenges:**
-- **Blowing holes through castle walls with fists**, using knuckles as battering rams, **splitting cliff faces**, burning away entire forests
+- **Toppling watchtowers with devastating strikes**, shattering fortress foundations, **splitting cliff faces**
 - Fighting entire companies (100+ soldiers) solo, commanding vast armies
-- **Wading through fire or ice unharmed for extended periods**, **lifting three-story buildings**, carrying ancient tree trunks across continents
-- **Forcing open doors sealed for millennia**, surviving in hostile dimensions for weeks, running across oceans
+- **Wading through lava unharmed**, **lifting three-story buildings**, forcing open doors sealed for millennia
+- Surviving in hostile dimensions for weeks, crossing oceans in hours through impossible speed
 - Building or destroying castles overnight, traveling across continents in hours
 - **Surmising exactly what happened from minimal evidence** (two hairs and blood), deciphering ancient inscriptions by intuition alone
-- Convincing kings to abdicate, pretending to be royalty for weeks, charming ancient sorcerers
+- Convincing kings in extraordinary circumstances, commanding legendary respect, charming ancient sorcerers
 - Making paradigm-shifting magical breakthroughs, understanding divine mysteries
 - Stealing from gods, bargaining with Death, crossing into the underworld and returning
 
-**Key Note:** Rank 4 heroes exist on the threshold of divinity. Their deeds become the stuff of legend for future generations. When they die, temples are built in their honor.
+**Key Note:** Rank 4 heroes exist on the threshold of divinity. Their deeds become the stuff of legend for future generations. Actions are tied to your Calling and fictional capabilities—a Sage shapes reality through magic, a Champion through martial prowess. When they die, temples are built in their honor.
 
 ---
 
@@ -295,7 +318,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - **Topple a fortified watchtower with a devastating impact**
 - **Shatter a keep's foundational wall with a single strike**
 - **Split a cliff face with a weapon strike**
-- **Burn away a small forest with a single spell**
+- **Incinerate a battlefield or level a fortress with magical fury**
 - Fight an entire company (100+ soldiers) and win
 - Destroy fortifications in moments
 
@@ -322,7 +345,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Catch arrows out of the air
 
 **Rank 3:**
-- **Lift an ox overhead or hold a castle gate open**
+- **Carry a loaded wagon overhead or hold a castle gate open**
 - Run up a massive cliffside in minutes
 - Swim across an ocean channel
 - **Endure a fall from a high peak** (with injury but survive)
@@ -333,14 +356,16 @@ The following examples illustrate the **scope and scale** of what's possible at 
 **Rank 4:**
 - **Wade through lava or arctic wastes for extended periods, unharmed**
 - **Lift a three-story building**
-- **Carry an entire ancient tree trunk across a continent**
 - **Force open a sealed stone door shut for a thousand years**
 - Survive being hurled into hostile dimensions for weeks
-- Run across an ocean
+- **Cross oceans in hours through impossible speed**
+- Endure wounds that would kill any mortal hero
 
 ---
 
 ### Talk (Influence, Persuade, Deceive, Command)
+
+**Note on Social Influence:** High Rank grants narrative permission to attempt extraordinary persuasion—it is NOT mind control. A Rank 4 hero convincing a king to abdicate requires the right circumstances (king is already doubting, kingdom is fracturing, hero presents overwhelming evidence). Complications (Resolute, Alert) and high Will tracks still apply. Social feats at high Ranks represent exceptional persuasion in exceptional moments, not automatic success.
 
 **Rank 1:**
 - Sway a single person into aiding you

@@ -79,7 +79,7 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 - **Setback** (all 1-3) — Failure with consequences
 - **Conflict** (any 4-5) — Success with consequence
 - **Success** (any 6) — Clean success
-- **Triumph** (two+ 6s) — Heroic success (gain 1 Momentum, ignore Complications)
+- **Triumph** (two+ 6s) — Heroic success (gain 1 Momentum, ignore all Complications)
 
 **Complications:** Challenges have **Complication tags** (8 total) that describe their defenses:
 - **Resilient** (hard to damage), **Warded** (magically protected), **Elusive** (hard to affect/detect—varies by fiction)
@@ -95,7 +95,7 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 **Earn:** Triumph (double 6s), Trigger Tangle (character-driven complication), Build Momentum (Trait Special Effect)
 
 **Spend:**
-- **Act with Potency (1)** — Gain 1 Boon, ignore Complication, enable extraordinary feats
+- **Create an Opening (1)** — Gain 1 Boon and 1 Edge (ignore 1 Complication), enable extraordinary feats
 - **Resist Consequence (1)** — Roll to reduce/avoid Stress, Condition, or narrative setback
 
 **Cap:** 2 (can be increased to 3 with Talent)

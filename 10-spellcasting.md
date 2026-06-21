@@ -292,7 +292,7 @@ Potent spells go beyond baseline magical effects — they affect larger areas, m
 - **Always costs 1 Stress** (mark immediately when you declare casting)
 - Requires narrative permission (must be within your touchstones and fictionally appropriate)
 - Roll normally (no automatic Banes unless GM rules the situation is Hard)
-- You can spend 1 Momentum for **Act with Potency** (1 Boon (+1d), ignore 1 Complication, narrative permission) on top of the base cost — this represents channeling your magical reserves to ensure success
+- You can spend 1 Momentum for **Create an Opening** (1 Boon (+1d) and 1 Edge (ignore 1 Complication), narrative permission) on top of the base cost — this represents channeling your magical reserves to ensure success
 
 **When to use:** When the spell's scope exceeds "solve an immediate problem" and enters "dramatically alter the scene or situation."
 
@@ -478,7 +478,7 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 **Buffs (enhancing allies):**
 - **Magnitude:** Typically Spell or Potent Spell
 - **Effect:** Grant **1 Boon** on their next action (Spell) or on all actions for the scene (Potent Spell)
-- **Alternatively:** Grant Potency (narrative permission + 1 Boon + ignore Complication) for specific feat
+- **Alternatively:** Grant 1 Boon and 1 Edge (narrative permission + 1 Boon (+1d) + ignore 1 Complication) for specific feat
 - **Examples:** Blessing grants 1 Boon (+1d) to attack, haste spell grants 1 Boon (+1d) to movement, arcane insight grants 1 Boon (+1d) to investigation
 
 **Debuffs (hindering enemies):**

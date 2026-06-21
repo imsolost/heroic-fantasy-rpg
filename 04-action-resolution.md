@@ -76,7 +76,7 @@ The GM evaluates the situation and communicates the stakes clearly:
 
 Calculate your final dice pool: **Approach rating + Boons - Banes**
 
-**Boon sources (grant Boons):** Easy tasks, Act with Potency, Talents, ally assists, positioning
+**Boon sources (grant Boons):** Easy tasks, Create an Opening, Talents, ally assists, positioning
 
 **Bane sources (impose Banes):** Hard tasks, Conditions, hostile environment, poor positioning
 
@@ -114,7 +114,7 @@ See [02-core-mechanics.md](02-core-mechanics.md) for complete dice mechanics and
 - Raw roll: Success
 - Enemy has: "Heavily Armored" (1 Complication)
 - Apply Complication: Success - 1 tier = **Conflict**
-- If you have Momentum from ally's Build Momentum: Spend it on Act with Potency to ignore the Complication → Success stays **Success**
+- If you have Momentum from ally's Build Momentum: Spend it on Create an Opening to gain 1 Boon and 1 Edge (ignore the Complication) → Success stays **Success**
 
 ---
 
@@ -890,7 +890,7 @@ Enemy Challenge Traits impose Complications on your Defy roll:
 **Example:**
 > **GM:** "The knight has 'Master Duelist' (1 Complication in melee). He attacks—Defy!"
 > **Player rolls Defy → Success:** Reduced to Conflict by Complication → "You deflect his blade (avoid the attack) but he's pressing you—mark 1 Stress from the exertion" (soft Impact Move)
-> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Act with Potency to gain 1 Boon and ignore his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
+> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Create an Opening to gain 1 Boon and 1 Edge (ignore his Complication)!" → Success stays Success → "You match his technique perfectly—no consequence"
 
 ### Other Threats Trigger Defy
 

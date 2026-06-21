@@ -55,7 +55,7 @@ You can use the Shadow calling to play all kinds of elusive opportunists. You ca
 **SHADOWCRAFT**
 You move through the world like a shadow — present, purposeful, and gone before anyone notices.
 
-**From the Shadows:** When you act from a position of advantage — concealment, surprise, or superior knowledge — your action gains Potency.
+**From the Shadows:** When you act from a position of advantage — concealment, surprise, or superior knowledge — your action gains 1 Boon and Edge.
 
 **Shadow's Expertise:** You have Expertise (see Chapter 3) in Stealth, Thievery, and Deception.
 
@@ -75,7 +75,7 @@ You can use the Hunter calling to play all kinds of focused predators. You can b
 **HUNTER'S INSTINCT**
 You turn knowledge and preparation into decisive advantage.
 
-**Hunter's Sense:** When you Sense to assess a target or situation, a Conflict or higher result grants your next action related to what you learned Potency.
+**Hunter's Sense:** When you Sense to assess a target or situation, a Conflict or higher result grants your next action related to what you learned 1 Boon and Edge.
 
 **Hunter's Expertise:** You have Expertise (see Chapter 3) in Tracking, Trapping, and Wilderness Survival.
 
@@ -220,9 +220,9 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 **Vanguard:** Protector, Iron Bulwark (Protect allies, reduce Stress)
 
-**Shadow:** Infiltration specialist, Shadowcraft (Potency from advantage, Expertise in Stealth/Thievery/Deception)
+**Shadow:** Infiltration specialist, Shadowcraft (1 Boon and Edge from advantage, Expertise in Stealth/Thievery/Deception)
 
-**Hunter:** Wilderness tracker, Hunter's Instinct (Sense grants Potency, Expertise in Tracking/Trapping/Survival)
+**Hunter:** Wilderness tracker, Hunter's Instinct (Sense grants 1 Boon and Edge, Expertise in Tracking/Trapping/Survival)
 
 **Sage:** Scholarly spellcaster, Spellcraft (Specialist: 1 Sphere + Expertise / Generalist: 4 theorems any Sphere, cast with Cunning, Arcane Formula unlimited but costs 1 Stress each)
 

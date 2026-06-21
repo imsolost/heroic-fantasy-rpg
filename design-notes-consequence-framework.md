@@ -282,6 +282,6 @@ This distinction keeps spiritual/divine language separate from scholarly/skill-b
 - **Expertise** = Convert Setback → Conflict (within domain)
 - **Deadly Complication** = Reduces outcome tier (when attacking/being attacked)
 - **Complications** = Reduce outcome tier (Success → Conflict → Setback → Disaster)
-- **Potency** = Ignore 1 Complication + gain 1 Edge + narrative permission
+- **Create an Opening** = Gain 1 Boon + 1 Edge (ignore 1 Complication) + narrative permission
 
 This framework creates a unified language for all consequence-modifying mechanics in the system.

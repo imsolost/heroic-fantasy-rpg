@@ -532,9 +532,9 @@ This extended example demonstrates a complete combat encounter, showing how mult
 
 **GM:** "You duck under the first swing, but the backswing forces you to tumble backward out of the zone into Near range. You avoid the damage, but it's a Minor Consequence: you lose your close positioning and you're now cut off from Kael. Kael, what about you?"
 
-**Kael:** "I'll spend my 1 Momentum to **Act with Potency**—locking eyes with him and using my shield to absorb the blow. Defy with Daring!"
+**Kael:** "I'll spend my 1 Momentum to **Create an Opening**—locking eyes with him and using my shield to absorb the blow. Defy with Daring!"
 
-**GM:** "Act with Potency gives you +1 Boon and ignores his Flailing Axes Complication. Roll!"
+**GM:** "Create an Opening gives you 1 Boon and 1 Edge (ignoring his Flailing Axes Complication). Roll!"
 
 **Kael rolls 4d6 (Approach 3 + 1 Boon from Potency) → double 6s (Triumph)**
 
@@ -568,13 +568,13 @@ This extended example demonstrates a complete combat encounter, showing how mult
 - All invocations come AFTER rolling, with narrative justification
 
 **Momentum Economy:**
-- Kael spends 1 Momentum → Act with Potency
+- Kael spends 1 Momentum → Create an Opening (gains 1 Boon and 1 Edge)
 - Triumph returns 1 Momentum
 - Shows resource circulation in tactical play
 
-**Act with Potency Benefits:**
-- +1 Boon (4d6 instead of 3d6)
-- Ignores 1 Complication (Flailing Axes)
+**Create an Opening Benefits:**
+- 1 Boon (+1d, making it 4d6 instead of 3d6)
+- 1 Edge (ignores 1 Complication: Flailing Axes)
 - Narrative permission for bold defensive stand
 
 **Triumph Mechanics:**

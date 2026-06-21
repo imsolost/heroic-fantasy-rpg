@@ -175,9 +175,9 @@ Reduce the number by 1 each time you act through it. Erase when it reaches 0 or 
 >
 > **GM:** You slam them hard into the wall — mark two ticks on their track. They snarl and strike back — Poisoned Blade triggers. You're already Poisoned 1, so it refreshes to Poisoned 2. Mark 1 Stress.
 >
-> **Player:** Still Poisoned 2. I spend my Momentum to Act with Potency and Clash again.
+> **Player:** Still Poisoned 2. I spend my Momentum to Create an Opening and Clash again.
 >
-> **GM:** Boons from Potency offset the Banes — roll clean.
+> **GM:** The Boon from Create an Opening offsets the Bane — roll clean.
 >
 > **Player:** Two 5s and a 6 — Success. Poisoned drops to 1 again.
 >

@@ -100,7 +100,7 @@ When Complications and Expertise are involved:
 **Effect:** Each Complication reduces outcome by 1 tier (Success → Conflict, Conflict → Setback, Setback → Disaster)
 
 **Counters:**
-- **Act with Potency** (spend 1 Momentum) → Ignore 1 Complication + gain 1 Boon + narrative permission for bold action
+- **Create an Opening** (spend 1 Momentum) → Gain 1 Boon and 1 Edge (ignore 1 Complication) + narrative permission for bold action
 - **Triumph** → Ignores ALL Complications automatically
 
 **Common Complications:**
@@ -136,7 +136,7 @@ When Complications and Expertise are involved:
 - Enemy rolls Setback near you + you have "Opportunist" Talent → Gain 1 Momentum
 
 **Spend (choose one):**
-- **Act with Potency:** Gain 1 Boon + ignore 1 Complication + narrative permission for bold action
+- **Create an Opening:** Gain 1 Boon and 1 Edge (ignore 1 Complication) + narrative permission for bold action
 - **Resist Consequence:** Roll Defy to reduce incoming Stress/Condition (Success = -2 steps, Conflict = -1 step)
 - **Quick Assist:** Grant an ally 1 Boon on their next roll (no action required, can do on their turn)
 
@@ -282,9 +282,9 @@ When Complications and Expertise are involved:
 >
 > **GM:** "You're Clashing with Daring. The knight is Heavily Armored — 2 Complications. On Setback, his counterattack hits hard (mark 2 Stress). On Conflict, you land a blow but his armor jars your sword arm (mark 1 Stress)."
 >
-> **Player:** "I spend 1 Momentum to Act with Potency — ignoring 1 Complication and gaining 1 Boon."
+> **Player:** "I spend 1 Momentum to Create an Opening — gaining 1 Boon and 1 Edge that ignores 1 Complication."
 >
-> **GM:** "Potency ignores 1 Complication (1 remains). Roll Daring (3d) + 1 Boon = 4d, keep highest."
+> **GM:** "Your Edge ignores 1 Complication (1 remains). Roll Daring (3d) + 1 Boon = 4d, keep highest."
 >
 > **Player rolls:** 6, 5, 3, 2 → **Success (6)**
 >

@@ -227,12 +227,12 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - Grant Warrior: 1 Momentum
 
 **Warrior's Next Turn:**
-- Spends 1 Momentum on Act with Potency (gains +1d, ignores 1 Complication, narrative permission)
+- Spends 1 Momentum on Create an Opening (gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), narrative permission)
 - Roll 4d6 → Success
-- "Heavily Armored" ignored by Potency
+- "Heavily Armored" ignored by Edge
 - Final: Mark 1 tick, clean Success (no consequence)
 
-**Analysis:** Scout's Trait enabled teamwork through Build Momentum, allowing Warrior to use Act with Potency.
+**Analysis:** Scout's Trait enabled teamwork through Build Momentum, allowing Warrior to use Create an Opening.
 
 ---
 
@@ -255,23 +255,25 @@ Grant bonus when using a specific Action in specific circumstances.
 
 ---
 
-**2. Potency Talents**
+**2. Edge Talents**
 
 Grant narrative permission + mechanical advantage for specific feats.
 
 **Examples:**
-- "Herculean Strength" — Potency on feats of physical might (lift boulders, bend iron bars)
-- "Cat's Grace" — Potency on feats of agility and acrobatics (wall-run, precision jumps)
-- "Arcane Mastery" — Potency when wielding your signature school of magic
+- "Herculean Strength" — Create an Opening on feats of physical might (lift boulders, bend iron bars)
+- "Cat's Grace" — Create an Opening on feats of agility and acrobatics (wall-run, precision jumps)
+- "Arcane Mastery" — Create an Opening when wielding your signature school of magic
 
-**"Gaining Potency" (Game Term):**
+**"Gaining Edge" (Game Term):**
 
-When a Talent or ability says your action "gains Potency" or "has Potency," this means you receive the **same benefits as Act with Potency** without spending Momentum:
-- Gain +1 Boon on your roll
-- Ignore 1 Complication
+When a Talent or ability says your action "gains Edge" or "has Edge," this means you may ignore 1 Complication on that action.
+
+Some Talents grant both "1 Boon and Edge" (or "Create an Opening") — this means:
+- Gain +1d on your roll (1 Boon)
+- Ignore 1 Complication (1 Edge)
 - Narrative permission to attempt extraordinary feats
 
-This is domain-specific and free (no Momentum cost). Potency from Talents does NOT stack with spending Momentum on Act with Potency — you gain the benefits once, not twice. If you already have Potency from a Talent, spending Momentum on Act with Potency provides no additional benefit.
+This is domain-specific and free (no Momentum cost). Edge from Talents DOES stack with spending Momentum on Create an Opening — you could have 2 Edge total (ignore 2 Complications). Boons also stack — you could gain multiple Boons on a single roll.
 
 ---
 
@@ -409,7 +411,7 @@ Characters advance through play, gaining increased Approaches, new Talents, addi
 
 **Talent Types:**
 - Favored Actions (+1d in specific circumstances)
-- Potency Talents (narrative permission + mechanics)
+- Edge Talents (narrative permission + mechanics)
 - Unique Moves (new actions)
 - Passive Effects (ongoing benefits)
 - Triggered Effects (reactive abilities)

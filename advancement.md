@@ -74,7 +74,7 @@ When you gain an Approach increase, raise one Approach by 1. The level determine
 When you gain a Talent, choose one from the available Talent types (see Chapter 3: Characters). Work with your GM to ensure the Talent fits your character's fictional development.
 
 **Talent Types:**
-- Potency Talents (narrative permission + mechanics)
+- Edge Talents (grant Edge to ignore Complications, may include Boons)
 - Expertise (Setback → Conflict within domain)
 - Unique Moves (new actions)
 - Passive Effects (ongoing benefits)
@@ -136,7 +136,7 @@ You may retrain **one secondary Talent** by replacing it with a new one when you
 **Why this matters:** If your sword shatters mid-level, you shouldn't be mechanically penalized for multiple sessions waiting for the next level-up. Narrative consequences should enable mechanical adaptation immediately.
 
 **Example:**
-> Kael (Champion) has "Flashing Steel" (+1d when Clashing with swords). Mid-Level 5, his sword shatters in battle with a demon lord. He picks up a massive warhammer from a fallen knight. During the next Interlude, he retrains "Flashing Steel" into "Titan's Grip" (Potency on feats of strength) immediately—no need to wait for Level 6.
+> Kael (Champion) has "Flashing Steel" (+1d when Clashing with swords). Mid-Level 5, his sword shatters in battle with a demon lord. He picks up a massive warhammer from a fallen knight. During the next Interlude, he retrains "Flashing Steel" into "Titan's Grip" (1 Boon and Edge on feats of strength) immediately—no need to wait for Level 6.
 
 ---
 

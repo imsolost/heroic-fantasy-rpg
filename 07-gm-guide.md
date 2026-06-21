@@ -506,7 +506,7 @@ This signals to players that:
 1. Frontal assault will likely result in Disaster (Success → Conflict → Setback)
 2. They should use **Sense** to find weaknesses
 3. They should **Build Momentum** via Traits to enable coordinated strikes
-4. They should use **Act with Potency** to negate Complications
+4. They should use **Create an Opening** to gain Edge and negate Complications
 5. Alternate approaches (Talk, environmental hazards) may bypass defenses
 
 **Example:**
@@ -514,7 +514,7 @@ This signals to players that:
 > 
 > **Player (Ranger):** "I use Sense to look for a weakness — maybe fire stops the regeneration?"
 > 
-> **Player (Mage):** "While she scouts, I'll prepare a flame spell and Build Momentum for when we strike."
+> **Player (Mage):** "While she scouts, I'll prepare a flame spell. When she finds the weakness, I'll spend Momentum to Create an Opening — I want to gain Edge and blast through its defenses with concentrated fire."
 > 
 > This turns a potential TPK into a tactical puzzle solved through teamwork.
 

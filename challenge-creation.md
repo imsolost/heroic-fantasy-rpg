@@ -248,12 +248,12 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **2 Complications (Hard encounter) is viable because:**
 - **Scouts/Supporters** can Build Momentum on less-contested actions (Sense has no Complications from enemy armor)
-- **Strikers** use Momentum for **Act with Potency** (ignore 1 Complication + gain Edge)
+- **Strikers** use Momentum for **Create an Opening** (gain 1 Boon and 1 Edge to ignore 1 Complication)
 - **Traits** grant **Greater Effect** (double progress when relevant)
 
 **Expected flow:**
 1. Scout uses Sense (no Complications) → Rolls Conflict+ → Invokes Trait for **Build Momentum**
-2. Fighter uses Momentum for **Act with Potency** → Faces 1 Complication instead of 2 → Rolls with Edge
+2. Fighter uses Momentum for **Create an Opening** → Gains 1 Boon and 1 Edge → Faces 1 Complication instead of 2
 3. Fighter rolls Conflict → Invokes Trait for **Greater Effect** → Marks 2 ticks
 
 **Result:** 2 rolls to mark 2 ticks (net 1 tick per roll) = **manageable pacing**

@@ -132,7 +132,7 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ### Complication Tags
 
-**Complications make actions harder, never grant immunity.** Tags reduce outcome tiers (Success → Conflict, Conflict → Setback, Setback → Disaster), but Triumph, Act with Potency, and teamwork can overcome any Complication.
+**Complications make actions harder, never grant immunity.** Tags reduce outcome tiers (Success → Conflict, Conflict → Setback, Setback → Disaster), but Triumph, Create an Opening, and teamwork can overcome any Complication.
 
 ---
 
@@ -182,14 +182,14 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 - Hinders ALL actions regardless of approach
 - Overwhelming presence, mythic power, reality-warping nature
 - The dragon's mere presence is oppressive; negotiating with the demon lord is as hard as fighting it
-- Countered by: Triumph, Act with Potency, exploiting weaknesses, divine intervention
+- Countered by: Triumph, Create an Opening, exploiting weaknesses, divine intervention
 
 **Deadly** - Applies when attacking or being attacked
 - Hinders combat actions (both offense and defense)
 - Supreme combat skill, lethal weapons, battle-honed reflexes
 - Master assassin in combat, elite knight's deadly blade, war troll's brutal strikes
 - Does NOT apply to: Negotiation, investigation, non-combat actions
-- Countered by: Triumph, Act with Potency, avoiding direct confrontation
+- Countered by: Triumph, Create an Opening, avoiding direct confrontation
 
 ---
 
@@ -407,12 +407,12 @@ These typically last for the scene or until the environment changes.
 - **Showcase moments** — Demonstrating that an enemy is genuinely terrifying and cannot be brute-forced
 
 **What 3+ Complications signal to players:**
-"Don't engage head-on without preparation. You need Triumph, Momentum for Potency, teamwork (Build Momentum), or a clever solution (flank, use environment, exploit weakness)."
+"Don't engage head-on without preparation. You need Triumph, Momentum for Create an Opening, teamwork (Build Momentum), or a clever solution (flank, use environment, exploit weakness)."
 
 **Example:**
 > **Ancient Dragon (3 Complications: Armored Scales, Fearsome Presence, Aerial Superiority)**
 > - This signals: "You can't just walk up and hit it. You need a plan."
-> - Players respond: Scout with Sense (find weak point), Build Momentum (teamwork), Act with Potency (strip 1 Complication), aim for Triumph (bypasses all 3)
+> - Players respond: Scout with Sense (find weak point), Build Momentum (teamwork), Create an Opening (strip 1 Complication), aim for Triumph (bypasses all 3)
 > - The fight becomes tactical problem-solving, not "roll and hope"
 
 **Don't use 3+ Complications for:**
@@ -431,11 +431,11 @@ These typically last for the scene or until the environment changes.
 
 Three ways to deal with Complications:
 
-### 1. Act with Potency (1 Momentum)
+### 1. Create an Opening (1 Momentum)
 
 Spend 1 Momentum before rolling to gain:
-- +1 Boon (+1d)
-- Ignore 1 Complication
+- 1 Boon (+1d)
+- 1 Edge (ignore 1 Complication)
 - Narrative permission for extraordinary feats
 
 **Most common way** to handle single Complication.
@@ -444,7 +444,7 @@ Spend 1 Momentum before rolling to gain:
 
 ### 2. Build Momentum (Trait Special Effect)
 
-When allies use **Build Momentum** (Trait Special Effect), grant 1 Momentum to you. You can then spend it on Act with Potency to ignore 1 Complication.
+When allies use **Build Momentum** (Trait Special Effect), grant 1 Momentum to you. You can then spend it on Create an Opening to ignore 1 Complication.
 
 **Primary teamwork mechanic** — allies create opportunities for each other.
 
@@ -723,8 +723,8 @@ Tiers represent overall power level and narrative threat level:
 
 **Balance Note:** More Traits = more preparation required. Challenges with 2+ Complications usually require:
 - Allies to Build Momentum for each other
-- Act with Potency Momentum spends
-- Talents that negate specific Complications
+- Create an Opening Momentum spends (gain Edge to ignore Complications)
+- Talents that grant Edge or negate specific Complications
 - OR Triumph to bypass entirely
 
 ---
@@ -1089,7 +1089,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 **Tactics:** Advance steadily, shield bash to create openings
 
 **How PCs deal with it:**
-- **Fight directly:** Act with Potency (1 Momentum) to ignore Resilient, ally uses Build Momentum to set up, or Talents like "Armor Piercer"
+- **Fight directly:** Create an Opening (1 Momentum) to ignore Resilient, ally uses Build Momentum to set up, or Talents like "Armor Piercer"
 - **Break their will:** Talk/Clash socially (intimidation/taunts) to mark Will — still faces Resolute but might be easier than breaking armor
 - **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant a Boon on social roll)
 - **Triumph:** Ignores all Complications on either track
@@ -1114,7 +1114,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 **How PCs deal with it:**
 - **Primary approach:** Physical combat (Harm track)
   - Exploit fire weakness (negate 1 Complication, still faces Resilient + Deadly)
-  - Multiple allies Build Momentum, coordinated assault with Act with Potency
+  - Multiple allies Build Momentum, coordinated assault with Create an Opening
   - Triumph ignores all Complications
 - **Social approach:** Effectively impossible (Will 10 + 2 Complications = designed to resist social defeat)
 - **Best strategy:** Teamwork to overcome physical defenses, don't waste time trying to intimidate it
@@ -1173,7 +1173,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 **How PCs deal with it:**
 - Find the key (bypasses entirely, narrative solution)
 - Dispel wards first (removes Warded via Know or magic)
-- Act with Potency + ally support (Build Momentum teamwork)
+- Create an Opening + ally support (Build Momentum teamwork)
 - Brute force with Talents or Triumph (ignore Complications)
 
 **Design Note:** No Harm or Will track — violence and persuasion don't work on inanimate objects. Only Obstacle track = only skill/knowledge/magic approaches matter.
@@ -1369,7 +1369,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 **Complications:**
 - Reduce outcome by -1 tier per Complication (Success → Conflict → Setback → Taken Out)
 - Triumph ignores all Complications
-- Negate with: Act with Potency (1 Momentum), Talents, Build Momentum teamwork
+- Negate with: Create an Opening (1 Momentum), Talents, Build Momentum teamwork
 
 **Common Challenge Elements:**
 - **Complications:** Defensive traits with tags (Resilient, Warded, Elusive, Resolute, Legendary, Deadly, etc.)
@@ -1384,7 +1384,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - **0 Complications:** Trivial to standard opposition
 - **1 Complication:** Competent to dangerous opposition
 - **2 Complications:** Elite opposition (requires teamwork or resources)
-- **3+ Complications:** Boss-tier (requires coordination + Triumph/Potency/weaknesses)
+- **3+ Complications:** Boss-tier (requires coordination + Triumph/Create an Opening/weaknesses)
 
 **Complication Tags:**
 - **Resilient** - Hard to damage/break
@@ -1643,12 +1643,12 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **2 Complications (Hard encounter) is viable because:**
 - **Scouts/Supporters** can Build Momentum on less-contested actions (Sense has no Complications from enemy armor)
-- **Strikers** use Momentum for **Act with Potency** (ignore 1 Complication + gain a Boon)
+- **Strikers** use Momentum for **Create an Opening** (gain 1 Boon and 1 Edge to ignore 1 Complication)
 - **Traits** grant **Greater Effect** (double progress when relevant)
 
 **Expected flow:**
 1. Scout uses Sense (no Complications) → Rolls Conflict+ → Invokes Trait for **Build Momentum**
-2. Fighter uses Momentum for **Act with Potency** → Faces 1 Complication instead of 2 → Rolls with a Boon
+2. Fighter uses Momentum for **Create an Opening** → Faces 1 Complication instead of 2 → Rolls with a Boon
 3. Fighter rolls Conflict → Invokes Trait for **Greater Effect** → Marks 2 ticks
 
 **Result:** 2 rolls to mark 2 ticks (net 1 tick per roll) = **manageable pacing**
@@ -1665,7 +1665,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 **Expected flow:**
 1. Party scouts for weakness (Sense, Know)
 2. Party creates advantage (Defy to position, Talk to distract)
-3. Striker uses Potency + Complication Negation Talent → Faces 1 Complication
+3. Striker uses Create an Opening + Complication Negation Talent → Faces 1 Complication
 4. Striker aims for Triumph (only reliable way to mark progress)
 
 **Result:** Requires 3-4 rolls of setup + tactics before each 1-2 ticks of progress = **epic, tactical encounter**

@@ -187,13 +187,13 @@ There are three ways to help allies during combat:
 **Examples:**
 
 **Physical Combat:**
-- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it on Act with Potency for his next attack (gains Boon + ignores Complication + narrative permission for extraordinary feat).
+- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it to Create an Opening for his next attack (gains 1 Boon and 1 Edge, ignoring 1 Complication + narrative permission for extraordinary feat).
 
 **Social Conflict:**
-- Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Act with Potency on her physical attack (gains Boon + ignores his armor Complication).
+- Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Create an Opening on her physical attack (gains 1 Boon and 1 Edge, ignoring his armor Complication).
 - Finn invokes "Inspirational Presence" on a successful Talk roll convincing the noble → grants the party 1 Momentum. The noble is warming to their cause (marks 1 tick on his **Will track**).
 
-**Advantage:** Enables big heroic moments via Act with Potency
+**Advantage:** Enables big heroic moments via Create an Opening
 
 ---
 
@@ -236,7 +236,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 **Armored / Heavily Defended**
 - **Effect:** This foe possesses layered defenses (2 Complications on direct attacks). A Success downshifts to Conflict, Conflict downshifts to Setback. Direct attacks without Boon or tactical advantage deal minimal progress.
-- **Counter:** PCs must create Opening (use Sense to identify weakness, Defy to create advantage, or Act with Potency) to negate Complications before full damage can be dealt.
+- **Counter:** PCs must create Opening (use Sense to identify weakness, Defy to create advantage, or spend Momentum to Create an Opening) to negate Complications before full damage can be dealt.
 - **Example:** Dragon's scales, knight's plate armor, magical ward
 - **Design Note:** This creates the same effect as "requires Opening to damage" without contradicting the base resolution system. Success still marks ticks, but Complications downshift the outcome tier as normal.
 

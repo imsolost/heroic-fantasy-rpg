@@ -161,7 +161,7 @@ Boon and Bane represent advantage and disadvantage.
 
 **Sources:**
 - Easy tasks (GM grants when conditions favor success)
-- Act with Potency (spend 1 Momentum for +1d + ignore Complication + narrative permission)
+- Create an Opening (spend 1 Momentum for +1 Boon and 1 Edge + narrative permission)
 - Environmental advantage (perfect lighting, stable footing, ideal weather)
 - Tactical superiority (outnumbering enemy, ambush, surprise)
 - Talents (specific circumstances)
@@ -180,7 +180,7 @@ Boon and Bane represent advantage and disadvantage.
 
 **Sources:**
 - Hard tasks (GM imposes when conditions work against success)
-- Very Hard tasks (GM imposes 2 Banes — requires Potency to attempt reliably)
+- Very Hard tasks (GM imposes 2 Banes — requires Create an Opening or other Boon sources to attempt reliably)
 - Conditions (each Condition = 1 Bane, maximum 2 Banes from Conditions total)
 - Hostile environment (darkness, unstable ground, harsh weather)
 - Poor positioning (flanked, prone, exposed)
@@ -189,6 +189,48 @@ Boon and Bane represent advantage and disadvantage.
 **Maximum:** 2 Banes (-2d cap)
 
 **Multiple sources stack** — each imposes -1d, up to the cap.
+
+---
+
+## Edge
+
+**Edge** is a state that allows you to cut through interference and complications on your action.
+
+**What Edge Does:**
+- Each Edge on your action allows you to ignore one Complication
+- Edge stacks numerically: 2 Edges = ignore 2 Complications, 3 Edges = ignore 3 Complications
+
+**How to Gain Edge:**
+- **Create an Opening** (spend 1 Momentum): Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats
+- **Talents** (specific circumstances grant Edge as noted in Talent descriptions)
+- **GM Discretion** (situational advantages may grant Edge)
+
+**Edge is Per-Action:**
+- Edge applies only to the specific action it is granted to
+- Edge does not persist across multiple actions
+- You must gain Edge separately for each action that needs it
+
+**Example:**
+> Kael attacks an armored knight with 2 Complications (Resilient, Heavily Armored).
+>
+> **Setup:** Kael spends 1 Momentum to Create an Opening.
+> - Gains 1 Boon (+1d to his pool)
+> - Gains 1 Edge (ignore 1 Complication)
+>
+> **Roll:** Kael rolls 4d6 (Daring 3 + 1 Boon) → highest die is 6 (Success)
+>
+> **Apply Complications:**
+> - Knight has 2 Complications (Resilient, Heavily Armored)
+> - Kael's 1 Edge ignores 1 Complication
+> - Only 1 Complication applies
+> - Success → Conflict (reduced by 1 tier)
+>
+> **Result:** Conflict outcome — Kael succeeds but with Minor Consequence
+
+**Edge vs Boon:**
+- **Boon** increases your dice pool (improves probability of better outcomes)
+- **Edge** ignores Complications (prevents outcome reduction after the roll)
+- These are separate benefits that can be granted independently
 
 ---
 

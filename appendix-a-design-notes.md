@@ -258,7 +258,7 @@ This section covers advanced Expertise interactions and edge cases. For core rul
 
 **Design Rationale:** Expertise represents mastery, not immunity. Against overwhelming odds (3+ Complications), even experts can fail catastrophically. This maintains tension and prevents Expertise from trivializing high-Complication encounters.
 
-**GM Guidance:** 3+ Complications should be rare and signal genuinely dangerous foes. Against such enemies, players need better positioning, Momentum for Potency, or teamwork — not just Expertise.
+**GM Guidance:** 3+ Complications should be rare and signal genuinely dangerous foes. Against such enemies, players need better positioning, Create an Opening, or teamwork — not just Expertise.
 
 ---
 

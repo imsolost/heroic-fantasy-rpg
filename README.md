@@ -60,7 +60,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - **Build Momentum (Trait)** — Grant 1 Momentum to self/ally when invoking Trait on Conflict+
 
 **Spend Momentum:**
-- **Act with Potency (1 Momentum)** — Gain 1 Boon (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
+- **Create an Opening (1 Momentum)** — Gain 1 Boon (+1d) and 1 Edge (ignore 1 Complication), and gain narrative permission for extraordinary feats
 - **Resist Consequence (1 Momentum)** — Roll Defy to reduce/avoid any consequence (Stress, Condition, or narrative setback)
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)
@@ -79,7 +79,7 @@ Characters with **Expertise** in a domain (e.g., Heavy Blades, Stealth, your cho
 
 **Complications** reduce outcome by -1 tier each (Success → Conflict → Setback → Disaster)
 - Source: Challenge Complication tags (enemy defensive abilities)
-- Negate with: Act with Potency (ignore 1), Talents, Triumph
+- Negate with: Create an Opening (ignore 1 via Edge), Talents, Triumph
 - Unlimited stacking
 
 **Common Complication Tags:**

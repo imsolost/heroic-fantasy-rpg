@@ -72,7 +72,7 @@ Your Calling determines which Approach you use when casting spells:
 - **Sage** uses **Cunning** (clever application of knowledge, precise calculation, studied technique)
 - **Mystic** uses **Spirit** (spiritual connection, force of will, channeling divine/primal power)
 
-This means when a Sage casts a fireball (Clash), they roll **Cunning + Clash**. When a Mystic heals an ally, they roll **Spirit + appropriate Action** (varies based on the healing method — might be Defy to overcome injury, or Know to commune with their patron for guidance).
+This means when a Sage casts a fireball, they **Clash using Cunning**. When a Mystic heals an ally, they use **Spirit with the appropriate Action** (varies based on the healing method — might be Defy to overcome injury, or Know to commune with their patron for guidance).
 
 **Other magical Talents** (non-Calling magic) specify their Approach in the Talent description.
 
@@ -517,8 +517,8 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 - No details — just "yes, there's magic here" or "no, nothing magical detected"
 - Range: immediate area (same room, within a few paces)
 
-**Spell (Sense + appropriate touchstone):**
-- Roll **Cunning/Spirit + Sense** (depending on your Calling)
+**Spell (Sense with appropriate touchstone):**
+- **Sense using Cunning** (Sage) or **Sense using Spirit** (Mystic)
 - **Success:** Ask 2 questions about the magic:
   - What kind of magic is this? (school/domain)
   - Who cast it or where did it come from?
@@ -527,8 +527,8 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
   - How can I dispel or counter it?
 - **Conflict:** Ask 2 questions but GM makes soft Impact Move (takes time, alerts caster, drains you slightly)
 
-**Potent Spell (Know + appropriate touchstone, costs 1 Stress):**
-- Roll **Cunning/Spirit + Know**
+**Potent Spell (Know with appropriate touchstone, costs 1 Stress):**
+- **Know using Cunning** (Sage) or **Know using Spirit** (Mystic)
 - **Success:** GM tells you everything about the magical effect — its nature, origin, power, purpose, weaknesses, and how to counter it
 - Use when you need complete understanding quickly
 

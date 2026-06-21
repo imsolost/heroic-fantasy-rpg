@@ -199,7 +199,7 @@ You cannot take Core Talents from multiple Callings. Your Calling defines your h
 ## Design Notes
 
 **Callings vs. Classes:**
-Callings are not restrictive classes. They define what you excel at, not what you can do. A Champion can still pick locks (using Cunning + Defy), and a Shadow can still fight (using Grace + Clash). The difference is that the Champion has tools (Martial Superiority, Weapon Expertise) that make them devastating in combat, while the Shadow has tools (From the Shadows, Shadow's Expertise) that make them exceptional at infiltration.
+Callings are not restrictive classes. They define what you excel at, not what you can do. A Champion can still pick locks (Defy using Cunning), and a Shadow can still fight (Clash using Grace). The difference is that the Champion has tools (Martial Superiority, Weapon Expertise) that make them devastating in combat, while the Shadow has tools (From the Shadows, Shadow's Expertise) that make them exceptional at infiltration.
 
 **Why Core Talents Are Strong:**
 Core Talents define your Calling's identity. They should feel impactful every session. Martial Superiority turns Champions into combat monsters. Shadowcraft makes Shadows exceptional infiltrators. These are intentionally powerful — they're the reason you chose this Calling.

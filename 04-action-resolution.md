@@ -62,8 +62,8 @@ The GM evaluates the situation and communicates the stakes clearly:
 - Describe each Complication and its effect (reduces outcome by one tier)
 
 **Other Modifiers:**
-- Any additional Boon from allies, positioning, preparation?
-- Any additional Bane from injuries, Conditions, environment?
+- Any additional Boons from allies, positioning, preparation?
+- Any additional Banes from injuries, Conditions, environment?
 
 **Example:**
 > **GM:** "This is a simple task—one roll to get past. It's Hard (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from the difficulty."
@@ -74,11 +74,11 @@ The GM evaluates the situation and communicates the stakes clearly:
 
 ### 3. Calculate Boon and Bane
 
-Calculate your final dice pool: **Approach rating + Boon - Bane**
+Calculate your final dice pool: **Approach rating + Boons - Banes**
 
-**Boon sources:** Easy tasks, Act with Potency, Talents, ally assists, positioning
+**Boon sources (grant Boons):** Easy tasks, Act with Potency, Talents, ally assists, positioning
 
-**Bane sources:** Hard tasks, Conditions, hostile environment, poor positioning
+**Bane sources (impose Banes):** Hard tasks, Conditions, hostile environment, poor positioning
 
 See [02-core-mechanics.md](02-core-mechanics.md#boon--bane) for complete list of sources.
 
@@ -86,7 +86,7 @@ See [02-core-mechanics.md](02-core-mechanics.md#boon--bane) for complete list of
 
 ### 4. Player Rolls
 
-Roll Xd6 dice pool (Approach + Boon - Bane). Check the highest single die (and look for double 6s):
+Roll Xd6 dice pool (Approach + Boons - Banes). Check the highest single die (and look for double 6s):
 
 - **All 1-3:** Setback — Things go wrong, situation worsens
 - **Any 4-5:** Conflict — Success with consequence (GM makes soft Impact Move)
@@ -390,7 +390,7 @@ The Condition is primarily narrative. It changes what the enemy can reasonably d
 **Mechanical Effect (optional, GM discretion):**
 The GM may impose mechanical disadvantages when it makes sense:
 - **Reduce enemy's effective Tier** by 1 for duration of Condition (fewer ticks marked by PC attacks)
-- **Grant PCs Boon** on actions against impaired enemy (justified by fiction)
+- **Grant PCs Boons** on actions against impaired enemy (justified by fiction)
 - **Prevent specific Challenge Moves** (blinded enemy can't use "Precise Shot" move, frightened enemy can't use "Rallying Cry")
 
 **Duration:**
@@ -399,9 +399,9 @@ The GM may impose mechanical disadvantages when it makes sense:
 
 **Example in Play:**
 > **PC (Triumph + Trait):** "I kick sand in his eyes as I strike — I want to Blind him!"
-> **GM:** "Alright, he's Blinded. He stumbles back, pawing at his face. I'm not going to have him attack this round — he's focused on clearing his vision. Anyone acting against him this round has Boon."
+> **GM:** "Alright, he's Blinded. He stumbles back, pawing at his face. I'm not going to have him attack this round — he's focused on clearing his vision. Anyone acting against him this round gains 1 Boon."
 > *(Next round)*
-> **GM:** "He's blinking away the sand but still disoriented. I'll say he's still Blinded for one more exchange — Boon still applies if you press him."
+> **GM:** "He's blinking away the sand but still disoriented. I'll say he's still Blinded for one more exchange — the Boon still applies if you press him."
 
 ---
 
@@ -890,7 +890,7 @@ Enemy Challenge Traits impose Complications on your Defy roll:
 **Example:**
 > **GM:** "The knight has 'Master Duelist' (1 Complication in melee). He attacks—Defy!"
 > **Player rolls Defy → Success:** Reduced to Conflict by Complication → "You deflect his blade (avoid the attack) but he's pressing you—mark 1 Stress from the exertion" (soft Impact Move)
-> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Act with Potency for Boon to ignore his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
+> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Act with Potency to gain 1 Boon and ignore his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
 
 ### Other Threats Trigger Defy
 
@@ -995,7 +995,7 @@ Defy serves dual purpose:
 This creates:
 - Clear structure for enemy actions (no GM rolls, player-facing)
 - Active defense feels engaging (you roll to avoid, not passively marked)
-- Tactical depth (spend Momentum for Boon on defense, use Traits to negate Complications)
+- Tactical depth (spend Momentum for Boons on defense, use Traits to negate Complications)
 - Heroic fantasy feel (defending against overwhelming odds)
 
 **Defense Model (Eternal Ruins/Grimwild):** External threats trigger free Defy. Your own action consequences cannot be Defied for free—spend 1 Momentum to Resist Consequence if needed. This preserves consequence weight while allowing heroic last stands.
@@ -1017,8 +1017,8 @@ This creates:
 **Action Roll Steps:**
 1. Player declares intent (Action + Approach)
 2. GM telegraphs stakes (track type, difficulty, consequences, Complications)
-3. Calculate Boon and Bane from all sources (cancel 1:1)
-4. Player rolls dice pool (Approach + Boon - Bane)
+3. Calculate Boons and Banes from all sources (cancel 1:1)
+4. Player rolls dice pool (Approach + Boons - Banes)
 5. Determine raw outcome (check highest die and double 6s)
 6. Apply Complications to reduce tier (Triumph ignores all)
 7. Determine final outcome

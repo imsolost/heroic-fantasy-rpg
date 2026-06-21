@@ -144,12 +144,12 @@ Latest updates:
 - **Stress overflow → Burdens** — When Stress full, choose: take Burden (persistent Condition) or be Taken Out
 - **Replaced Conditions system** with flexible named Conditions (Poisoned, Frightened, Blinded, etc.)
   - Simple tier tracking (1-3), each Condition = 1 Bane (you can have 3+ Conditions)
-  - Pool modifier cap: ±2d (universal rule, applies after Boon/Bane cancel 1:1)
+  - Pool modifier cap: ±2d (universal rule, applies after Boons/Banes cancel 1:1)
   - Ticks down through action, clears on short rest
   - Burdens persist beyond short rest (recover via Long Rest or special narrative resolution)
 - **Tangles** system added for player-driven Momentum (inspired by Grimwild)
 - Merged Negate + Resist Consequence into unified mechanic
-- Capped Boon/Bane at ±2d (pools range from 3d6 to 7d6)
+- Capped Boons/Banes at ±2d (pools range from 3d6 to 7d6)
 - Trait system provides free Special Effects on Conflict+ when narratively relevant
 - Locked in FitD highest-die resolution method
 

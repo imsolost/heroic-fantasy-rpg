@@ -74,7 +74,7 @@ Starting array: **3/2/1/1/0** (assign as desired)
 
 ### Four Outcomes
 
-Roll Xd6 (pool = Approach + Boon - Bane, **cap ±2d after canceling**), check highest die:
+Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check highest die:
 
 - **Setback** (all 1-3) — Failure with consequences
 - **Conflict** (any 4-5) — Success with consequence
@@ -95,7 +95,7 @@ Roll Xd6 (pool = Approach + Boon - Bane, **cap ±2d after canceling**), check hi
 **Earn:** Triumph (double 6s), Trigger Tangle (character-driven complication), Build Momentum (Trait Special Effect)
 
 **Spend:**
-- **Act with Potency (1)** — Gain Boon, ignore Complication, enable extraordinary feats
+- **Act with Potency (1)** — Gain 1 Boon, ignore Complication, enable extraordinary feats
 - **Resist Consequence (1)** — Roll to reduce/avoid Stress, Condition, or narrative setback
 
 **Cap:** 2 (can be increased to 3 with Talent)
@@ -112,7 +112,7 @@ Roll Xd6 (pool = Approach + Boon - Bane, **cap ±2d after canceling**), check hi
 
 **Conditions:** Named temporary impairments (Poisoned, Frightened, Wounded, etc.)
 - Each Condition = 1 Bane (you can have multiple Conditions)
-- Pool modifier cap: ±2d (after Boon/Bane cancel 1:1) — universal rule
+- Pool modifier cap: ±2d (after Boons/Banes cancel 1:1) — universal rule
 - Tier (1-3) = duration, reduces by 1 per relevant action roll
 - Clear when tier reaches 0 OR on short rest (10-15 minutes)
 - Example: Poisoned 2 → act through it → Poisoned 1 → act again → clears

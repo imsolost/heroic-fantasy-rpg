@@ -338,7 +338,7 @@ Complications:
 - **Total: 0 Complications**
 
 **PC throws flour in the air:**
-- Creating advantage (doesn't remove Elusive, but grants Boon to allies or reveals it temporarily)
+- Creating advantage (doesn't remove Elusive, but grants Boons to allies or reveals it temporarily)
 - **Tactical play rewarded!**
 
 ---
@@ -651,7 +651,7 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 **Examples:**
 - **"Easily Frightened"** — When intimidated/surprised, grants 1 Boon to PCs
-- **"Overconfident"** — When pride exploited, reduce Tier by 1 or grant Boon
+- **"Overconfident"** — When pride exploited, reduce Tier by 1 or grant a Boon
 - **"Slow"** — When speed/agility used against it, grants 1 Boon
 - **"Arrogant"** — Social flattery grants 1 Boon
 - **"Weak to Fire"** — Fire attacks grant 1 Boon or negate 1 Complication
@@ -1091,7 +1091,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 **How PCs deal with it:**
 - **Fight directly:** Act with Potency (1 Momentum) to ignore Resilient, ally uses Build Momentum to set up, or Talents like "Armor Piercer"
 - **Break their will:** Talk/Clash socially (intimidation/taunts) to mark Will — still faces Resolute but might be easier than breaking armor
-- **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant Boon on social roll)
+- **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant a Boon on social roll)
 - **Triumph:** Ignores all Complications on either track
 
 **Design Note:** Symmetrical tracks (both 4 ticks, both 1 Complication) = balanced opponent, multiple valid approaches.
@@ -1518,7 +1518,7 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 
 **Examples:**
 - **"Easily Frightened"** — When intimidated/surprised, grants 1 Boon to PCs
-- **"Overconfident"** — When pride exploited, grant 1 Boon
+- **"Overconfident"** — When pride exploited, grant a Boon
 - **"Slow"** — When speed/agility used against it, grants 1 Boon
 - **"Weak to Fire"** — Fire attacks grant 1 Boon or negate 1 Complication
 - **"Blind"** — Stealth approaches grant 1 Boon
@@ -1643,12 +1643,12 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **2 Complications (Hard encounter) is viable because:**
 - **Scouts/Supporters** can Build Momentum on less-contested actions (Sense has no Complications from enemy armor)
-- **Strikers** use Momentum for **Act with Potency** (ignore 1 Complication + gain Boon)
+- **Strikers** use Momentum for **Act with Potency** (ignore 1 Complication + gain a Boon)
 - **Traits** grant **Greater Effect** (double progress when relevant)
 
 **Expected flow:**
 1. Scout uses Sense (no Complications) → Rolls Conflict+ → Invokes Trait for **Build Momentum**
-2. Fighter uses Momentum for **Act with Potency** → Faces 1 Complication instead of 2 → Rolls with Boon
+2. Fighter uses Momentum for **Act with Potency** → Faces 1 Complication instead of 2 → Rolls with a Boon
 3. Fighter rolls Conflict → Invokes Trait for **Greater Effect** → Marks 2 ticks
 
 **Result:** 2 rolls to mark 2 ticks (net 1 tick per roll) = **manageable pacing**

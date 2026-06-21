@@ -134,7 +134,7 @@ Choose the Approach that describes **how** you're acting.
 
 **Roll Xd6, check the highest single die result (and look for double 6s).**
 
-Your dice pool = **Approach rating + Boon - Bane**
+Your dice pool = **Approach rating + Boons - Banes**
 
 ### Outcome Tiers
 
@@ -168,7 +168,7 @@ Boon and Bane represent advantage and disadvantage.
 - Quick Assist (ally marks 1 Stress to grant you 1 Boon)
 - Push Yourself (mark 1 Stress to gain 1 Boon)
 
-**Maximum:** +2d Boon (cap)
+**Maximum:** 2 Boons (+2d cap)
 
 **Multiple sources stack** — each grants +1d, up to the cap.
 
@@ -186,7 +186,7 @@ Boon and Bane represent advantage and disadvantage.
 - Poor positioning (flanked, prone, exposed)
 - Injuries (overlaps with Conditions)
 
-**Maximum:** -2d Bane (cap)
+**Maximum:** 2 Banes (-2d cap)
 
 **Multiple sources stack** — each imposes -1d, up to the cap.
 
@@ -194,7 +194,7 @@ Boon and Bane represent advantage and disadvantage.
 
 ### Difficulty Guidelines
 
-**Standard Difficulty:** Roll your pool and check results (no Boon or Bane). This is the default.
+**Standard Difficulty:** Roll your pool and check results (no Boons or Banes). This is the default.
 
 **Easy Tasks:** Grant **1 Boon** (+1d)
 - Task within character competence, conditions favor success
@@ -208,7 +208,7 @@ Boon and Bane represent advantage and disadvantage.
 - Task at extreme difficulty, multiple unfavorable factors
 - Examples: Climbing sheer ice wall, convincing enemy general to surrender, fighting while Poisoned + Frightened
 
-**GM Note:** Default to standard difficulty. Use Boon when PCs have clear advantage. Reserve Bane for moments where conditions work against them.
+**GM Note:** Default to standard difficulty. Grant Boons when PCs have clear advantage. Impose Banes for moments where conditions work against them.
 
 ---
 
@@ -216,9 +216,9 @@ Boon and Bane represent advantage and disadvantage.
 
 **Boon and Bane cancel 1:1** before rolling.
 
-**Caps:** Maximum +2 Boon, maximum -2 Bane (after cancellation). You can have more than 2 sources of Boon or Bane, but the net modifier after cancellation caps at ±2d.
+**Caps:** Maximum 2 Boons, maximum 2 Banes (after cancellation). You can have more than 2 sources of Boon or Bane, but the net modifier after cancellation caps at ±2d.
 
-**Example:** 3 Conditions (3 Banes) + 1 Boon = 2 net Banes (within cap). Or: 3 Boon sources + 1 Bane = 2 net Boon (within cap).
+**Example:** 3 Conditions (3 Banes) + 1 Boon = 2 net Banes (within cap). Or: 3 Boon sources + 1 Bane = 2 net Boons (within cap).
 
 **Why caps?** Keeps pools in the 3d6-7d6 range, maintaining tension at all power levels. Even heroes at their worst (or best) can't reach auto-fail or auto-success territory.
 
@@ -226,13 +226,13 @@ Boon and Bane represent advantage and disadvantage.
 
 *Design Note: This produces ~75% Setback rate, intentionally harsh to represent being completely overwhelmed. The solution is to gain Boon (spend Momentum, Push Yourself, exploit position), switch to a better Approach, or rely on Expertise (converts Setback → Conflict). Fighting at 0 dice should feel desperate — it incentivizes creative problem-solving rather than brute-forcing the obstacle.*
 
-**Maximum Pool:** Approach 5 + 2 Boon = **7d6** (legendary tier)
+**Maximum Pool:** Approach 5 + 2 Boons = **7d6** (legendary tier)
 
 **Typical Pools:**
 - Starting character (Approach 3): **3d6** base
 - With Easy task (+1 Boon): **4d6**
 - With Hard task (+1 Bane): **2d6**
-- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes → cancel 0 Boon → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
+- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes → no Boons to cancel → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
 
 ---
 
@@ -250,7 +250,7 @@ Boon and Bane represent advantage and disadvantage.
 **Expertise does NOT:**
 - Protect against Disaster outcomes (only converts Setback)
 - Reduce Consequence severity (you still mark same Stress/Conditions)
-- Add Boon or negate Complications
+- Add Boons or negate Complications
 
 **Expertise converts failure → success, but success at a cost.**
 
@@ -341,7 +341,7 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 - Success tier remains consistent (38-40%) across most pool sizes
 - Triumph rate grows but caps around 33% due to double-6 requirement
 
-**Pool Range:** With ±2d Boon/Bane cap, pools stay in 3d6-7d6 range, maintaining tension at all tiers.
+**Pool Range:** With ±2d Boons/Banes cap, pools stay in 3d6-7d6 range, maintaining tension at all tiers.
 
 ---
 
@@ -423,7 +423,7 @@ See Chapter 4 for Disaster Impact Moves.
 
 **Roll Xd6, check highest die (and look for double 6s)**
 
-**Pool = Approach + Boon - Bane**
+**Pool = Approach + Boons - Banes**
 
 **Typical Starting Roll:** 3d6 (Approach 3)
 - All 1-3 = Setback (12.4%)
@@ -439,7 +439,7 @@ See Chapter 4 for Disaster Impact Moves.
 
 **Boon/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
 
-**Pool Range:** 3d6 (worst case: 5d6 - 2 Bane) to 7d6 (best case: 5d6 + 2 Boon)
+**Pool Range:** 3d6 (worst case: 5d6 - 2 Banes) to 7d6 (best case: 5d6 + 2 Boons)
 
 **Zero Dice:** If pool reduced to 0d, roll 2d6 and take lowest result
 

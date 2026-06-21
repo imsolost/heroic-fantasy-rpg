@@ -38,7 +38,7 @@ When you cast a spell, follow the standard **Action Roll** procedure (see Chapte
 - What happens on Conflict or Setback?
 
 **3. Roll Dice**
-- Roll your pool: **Approach + Boon - Bane**
+- Roll your pool: **Approach + Boons - Banes**
 - Check highest die: Setback (all 1-3) / Conflict (any 4-5) / Success (any 6) / Triumph (two+ 6s)
 - Apply Complications (reduce outcome tier)
 - Invoke Trait if relevant (Special Effect)
@@ -265,7 +265,7 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 - **Success:** Spell works as intended
 - **Triumph:** Spell succeeds + Momentum + ignore Complications
 
-**Default Difficulty:** Standard (no Boon or Bane) for most spells within your touchstones.
+**Default Difficulty:** Standard (no Boons or Banes) for most spells within your touchstones.
 
 ---
 
@@ -291,8 +291,8 @@ Potent spells go beyond baseline magical effects — they affect larger areas, m
 **Mechanics:**
 - **Always costs 1 Stress** (mark immediately when you declare casting)
 - Requires narrative permission (must be within your touchstones and fictionally appropriate)
-- Roll normally (no automatic Bane unless GM rules the situation is Hard)
-- You can spend 1 Momentum for **Act with Potency** (+1d Boon, ignore 1 Complication, narrative permission) on top of the base cost — this represents channeling your magical reserves to ensure success
+- Roll normally (no automatic Banes unless GM rules the situation is Hard)
+- You can spend 1 Momentum for **Act with Potency** (1 Boon (+1d), ignore 1 Complication, narrative permission) on top of the base cost — this represents channeling your magical reserves to ensure success
 
 **When to use:** When the spell's scope exceeds "solve an immediate problem" and enters "dramatically alter the scene or situation."
 
@@ -478,8 +478,8 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 **Buffs (enhancing allies):**
 - **Magnitude:** Typically Spell or Potent Spell
 - **Effect:** Grant **1 Boon** on their next action (Spell) or on all actions for the scene (Potent Spell)
-- **Alternatively:** Grant Potency (narrative permission + Boon + ignore Complication) for specific feat
-- **Examples:** Blessing grants +1d to attack, haste spell grants +1d to movement, arcane insight grants +1d to investigation
+- **Alternatively:** Grant Potency (narrative permission + 1 Boon + ignore Complication) for specific feat
+- **Examples:** Blessing grants 1 Boon (+1d) to attack, haste spell grants 1 Boon (+1d) to movement, arcane insight grants 1 Boon (+1d) to investigation
 
 **Debuffs (hindering enemies):**
 - **Magnitude:** Typically Spell
@@ -554,7 +554,7 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 **Potions:**
 - Drinking/applying a potion is an Action (typically Defy to consume safely, or automatic in safe circumstances)
 - Effect is automatic (no roll) once consumed
-- Potions replicate spell effects: healing (clear 2 Stress), invisibility (scene-long), fire resistance (Boon vs fire), etc.
+- Potions replicate spell effects: healing (clear 2 Stress), invisibility (scene-long), fire resistance (grants Boons against fire), etc.
 
 **Magical Items:**
 - Using a magical item follows its specific rules (defined by GM)
@@ -662,7 +662,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 **Casting a Spell:**
 1. Declare intent (what you want, which touchstone, which Action)
 2. GM assesses magnitude and difficulty
-3. Roll Action (Approach + Boon - Bane)
+3. Roll Action (Approach + Boons - Banes)
 4. Resolve outcome (Setback/Conflict/Success/Triumph)
 
 **Magnitude:**
@@ -680,7 +680,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 
 **Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 2-3 Stress OR reduce Condition by 2-3 tiers (Potent Spell, costs 1 Stress)
 
-**Buffs/Debuffs:** Grant Boon (buffs) or inflict Conditions/Complications (debuffs)
+**Buffs/Debuffs:** Grant Boons (buffs) or inflict Conditions/Complications (debuffs)
 
 **Duration:** Instantaneous / Scene-long / Hours (Potent) / Permanent (Ritual)
 

@@ -375,7 +375,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Kael (3/5 Stress, Prone):** "Mira, help!"
 
-**Mira:** "I'll Quick Assist! I shout 'Kael, roll left!' as the Warboss raises his axes again. I mark 1 Stress to give Kael Boon on his next roll."
+**Mira:** "I'll Quick Assist! I shout 'Kael, roll left!' as the Warboss raises his axes again. I mark 1 Stress to give Kael 1 Boon on his next roll."
 
 **Mira (1/5 Stress)**
 

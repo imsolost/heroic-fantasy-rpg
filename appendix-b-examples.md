@@ -36,7 +36,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Setup:** Lyra has 1/5 Stress. Her ally Kael is about to roll Defy to dodge a boulder.
 
-**Lyra:** "I shout a warning to Kael — I'll mark 1 Stress to give him Boon on his Defy roll!"
+**Lyra:** "I shout a warning to Kael — I'll mark 1 Stress to give him 1 Boon on his Defy roll!"
 
 **Lyra marks 1 Stress (now 2/5).** Kael gains 1 Boon on his roll.
 
@@ -44,7 +44,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Setup:** Finn has 3/5 Stress. He's sprinting to catch a fleeing thief.
 
-**Finn:** "I dig deep and push harder — mark 1 Stress for Boon on this chase?"
+**Finn:** "I dig deep and push harder — mark 1 Stress for 1 Boon on this chase?"
 
 **GM:** "Yeah, you're clearly pushing beyond normal limits. Mark 1 Stress, gain 1 Boon."
 
@@ -111,7 +111,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Kael's turn:** "I use Know to recall what I know about these creatures."
 
-**GM:** "Being blind doesn't affect recalling lore. Blinded 2 doesn't apply to this roll — no Bane. And it doesn't tick down because it didn't affect your action."
+**GM:** "Being blind doesn't affect recalling lore. Blinded 2 doesn't apply to this roll — no Banes. And it doesn't tick down because it didn't affect your action."
 
 **Next turn:** "I use Clash to strike at the sound of footsteps."
 
@@ -367,7 +367,7 @@ Lyra rolls Talk → Success.
 **GM (to Kael, hard Impact Move):** "The alpha's flail cracks into your ribs — mark 2 Stress."
 - Kael: 4/5 Stress
 
-**Aria:** "I Push Myself on this attack — mark 1 Stress for Boon."
+**Aria:** "I Push Myself on this attack — mark 1 Stress for 1 Boon."
 - Aria: 2/5 Stress, gains 1 Boon
 
 ---
@@ -449,7 +449,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 
 **Aria's turn:** "I use Sense to scan the room for traps."
 
-**GM:** "Being deaf doesn't affect visually scanning for traps. Deafened 2 doesn't apply — no Bane. And it doesn't tick down since it didn't affect your action."
+**GM:** "Being deaf doesn't affect visually scanning for traps. Deafened 2 doesn't apply — no Banes. And it doesn't tick down since it didn't affect your action."
 
 **Next turn:** "I use Talk to negotiate with the guard."
 
@@ -497,7 +497,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Condition Ticks Down | "After the roll, Poisoned 2 → Poisoned 1" |
 | Condition Clears | "Poisoned 1 ticks down to tier 0 — clears" |
 | Short Rest | "10 minutes pass — all Stress and all Conditions clear (Burdens persist)" |
-| Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Bane, doesn't tick" |
+| Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Banes, doesn't tick" |
 | Resist Consequence | "Spend 1 Momentum, roll Defy. Success = reduce by 2 steps" |
 | Burden (persistent) | "Stress overflow: take Wounded 2 (Burden) or be Taken Out. Burdens don't clear on short rest" |
 | Burden from Boss | "Boss curses you — Cursed 2 (Burden). Requires narrative resolution (quest/magic)" |
@@ -598,7 +598,7 @@ This extended example demonstrates a complete combat encounter, showing how mult
 - Shows both quick (minion) and extended (boss) fights
 
 **Tactical Coordination:**
-- Kael flanks for positioning advantage (Boon)
+- Kael flanks for positioning advantage (a Boon)
 - Ryn repositions after being pushed back
 - Mira clears minion while others engage boss
 - Multiple PCs working together, not solo spotlight

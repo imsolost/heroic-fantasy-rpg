@@ -11,7 +11,7 @@ Quick reference for running the game. For complete rules, see the full chapters.
 
 ### 2. GM Telegraphs Stakes
 - **Action:** Which of the 5 Actions? (Clash, Defy, Talk, Sense, Know)
-- **Difficulty:** Easy (+1d Boon), Standard (no mod), Hard (-1d Bane), Very Hard (-2d Bane)
+- **Difficulty:** Easy (1 Boon), Standard (no mod), Hard (1 Bane), Very Hard (2 Banes)
 - **Complications:** List any Complications that apply (each reduces outcome by 1 tier)
 - **Consequences:** "On Setback, [X happens]. On Conflict, [Y happens]."
 
@@ -59,7 +59,7 @@ When Complications and Expertise are involved:
 - Lose advantageous position
 - Side effect occurs (noise, time passes, resource consumed)
 - Countdown track advances 1 tick
-- Enemy gains Boon on next action
+- Enemy gains 1 Boon on next action
 - Environmental shift (fire spreads, alarm triggers)
 
 ### Major Consequence (Setback)
@@ -161,7 +161,7 @@ When Complications and Expertise are involved:
 ### Conditions
 - **Name + Tier** (e.g., Poisoned 2, Frightened 1)
 - **Effect:** 1 Bane per Condition (multiple Conditions stack)
-- **Pool Modifier Cap:** ±2d maximum (universal rule — Boon and Bane cancel 1:1 before cap)
+- **Pool Modifier Cap:** ±2d maximum (universal rule — Boons and Banes cancel 1:1 before cap)
 - **Tick Down:** Reduce tier by 1 each time you roll where Condition applies
 - **Clear:** All Conditions clear on short rest (10-15 min)
 
@@ -284,7 +284,7 @@ When Complications and Expertise are involved:
 >
 > **Player:** "I spend 1 Momentum to Act with Potency — ignoring 1 Complication and gaining 1 Boon."
 >
-> **GM:** "Potency ignores 1 Complication (1 remains). Roll Daring (3d) + 1d Boon = 4d, keep highest."
+> **GM:** "Potency ignores 1 Complication (1 remains). Roll Daring (3d) + 1 Boon = 4d, keep highest."
 >
 > **Player rolls:** 6, 5, 3, 2 → **Success (6)**
 >

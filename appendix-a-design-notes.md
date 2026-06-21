@@ -148,7 +148,7 @@ This creates **escalating risk** across multiple encounters while maintaining **
 
 **Alternative: All Conditions = 1 Bane, unlimited stacking**
 - **Problem:** Three Conditions = 3 Banes feels too punishing
-- **Problem:** Overlaps with Boon/Bane cap (±2d from all sources), creates confusion
+- **Problem:** Overlaps with Boons/Banes cap (±2d from all sources), creates confusion
 
 **Flat 1 Bane per Condition, capped at 2 total** models impairment simply:
 - 1 Condition = 1 Bane = hurt but functional
@@ -201,7 +201,7 @@ Inspired by **Grimwild's Marks** system.
 **Alternative: Add separate instances**
 - Track "Poisoned 2" and "Poisoned 2 (second dose)" separately
 - **Problem:** Tracking nightmare — which one ticks down when?
-- **Problem:** Each instance = 1 Bane → could exceed 2 Bane cap from Conditions
+- **Problem:** Each instance = 1 Bane → could exceed 2 Banes cap from Conditions
 
 **Refresh (reset to max tier)** models persistence without escalation:
 - First hit: Poisoned 2 (2 actions to clear)
@@ -508,7 +508,7 @@ Multiple Conditions stack, but maximum 2 Banes from Conditions total.
 **Why stop at 2?** 
 - **Math stays manageable** — 2 Banes on 3d6 = ~6% Setback (challenging but not crushing)
 - **Heroic feel** — You CAN still succeed when impaired, just harder
-- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Very Hard task = 4 total, keeping Boon/Bane system consistent (max ±2d from any single source)
+- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Very Hard task = 4 total, keeping Boons/Banes system consistent (max ±2d from any single source)
 
 **Considered higher caps:**
 - **3+ Banes from Conditions alone:** Too punishing, especially when combined with situational Banes (Hard task, poor positioning, etc.)
@@ -537,13 +537,13 @@ Resist competes with other Momentum uses, creating interesting choices:
 - "Do I Resist this Condition, or save Momentum for my signature move?"
 - "I'm at 2 Momentum, do I Resist now or wait to see if the next hit is worse?"
 
-### Boon/Bane Interaction
+### Boons/Banes Interaction
 
-Boon and Bane cancel 1:1 before rolling. This creates Condition mitigation through Boon generation:
-- "I'm at 2 Banes from Conditions, but I have 2 Boon from setup, so I roll normally"
-- "I Quick Assist my wounded ally to cancel some of their Bane penalties"
+Boons and Banes cancel 1:1 before rolling. This creates Condition mitigation through Boons generation:
+- "I'm at 2 Banes from Conditions, but I have 2 Boons from setup, so I roll normally"
+- "I Quick Assist my wounded ally to cancel some of their Banes penalties"
 
-Boon-generating builds become more valuable when the party is hurt — support characters shine.
+Boons-generating builds become more valuable when the party is hurt — support characters shine.
 
 ### Short Rest Pacing
 
@@ -628,7 +628,7 @@ GMs control pacing by controlling short rest opportunities. Want attrition to ma
 
 - Unified Stress track (players loved simplicity)
 - Minor clearing after action (created heroic moments)
-- Boon/Bane cancellation (felt intuitive)
+- Boons/Banes cancellation (felt intuitive)
 - Taken Out instead of death (kept stakes without lethality)
 
 ---

@@ -62,9 +62,9 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 
 **Multiple Conditions stack** — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously.
 
-**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Boon or -2d Bane, regardless of how many sources you have. This applies to everything (Conditions, difficulty, environment, etc.), not just Conditions.
+**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Boons or -2d Banes, regardless of how many sources you have. This applies to everything (Conditions, difficulty, environment, etc.), not just Conditions.
 
-**Boon and Bane cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Boon, they cancel to 2 net Banes — within the cap. If you have 3 Conditions (3 Banes) and no Boon, the net is 3 Banes → capped at -2d when applied to your pool.
+**Boons and Banes cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Boon, they cancel to 2 net Banes — within the cap. If you have 3 Conditions (3 Banes) and no Boons, the net is 3 Banes → capped at -2d when applied to your pool.
 
 **Why the ±2d cap?** Even heroes at their worst (or best) retain some capacity for meaningful action. The cap prevents auto-fail or auto-success territory while keeping accumulated harm impactful.
 
@@ -177,7 +177,7 @@ Reduce the number by 1 each time you act through it. Erase when it reaches 0 or 
 >
 > **Player:** Still Poisoned 2. I spend my Momentum to Act with Potency and Clash again.
 >
-> **GM:** Boon from Potency offsets the Bane — roll clean.
+> **GM:** Boons from Potency offset the Banes — roll clean.
 >
 > **Player:** Two 5s and a 6 — Success. Poisoned drops to 1 again.
 >
@@ -254,7 +254,7 @@ A Burden has a **name**, a **tier** (1–3), and a **recovery method**. Like Con
 
 - **Multiple Burdens:** A character can have multiple Burdens simultaneously (e.g., Wounded 3 + Cursed 2)
 - **Same-name Burdens:** If you gain a Burden with the same name as an existing Burden, refresh to whichever tier is higher
-- **Bane Cap:** All Banes (from Conditions, Burdens, and other sources) share the -2d cap. Boon and Bane cancel 1:1 before applying the cap.
+- **Bane Cap:** All Banes (from Conditions, Burdens, and other sources) share the -2d cap. Boons and Banes cancel 1:1 before applying the cap.
 - **Narrative Restrictions:** Burdens may carry fictional restrictions (Wounded limits strenuous activity, Cursed causes NPCs to react with fear). These are separate from the mechanical Bane penalty.
 
 **Gaining Burdens:**
@@ -353,7 +353,7 @@ When assigning a Burden, immediately clarify how it clears:
 |-----------|--------|
 | Gain a Condition | Named + tier set at infliction (1–3) |
 | Condition applies | 1 Bane to affected rolls |
-| Multiple Conditions | Each applies 1 Bane (can have 3+); pool modifier cap is ±2d (universal) |
+| Multiple Conditions | Each applies 1 Bane (can have 3+); pool modifier cap is ±2d (±2 Boons/Banes) |
 | Same Condition inflicted again | Refreshes to original tier |
 | Make a roll where Condition applies | Reduce tier by 1 |
 | Condition reaches tier 0 | Clears |

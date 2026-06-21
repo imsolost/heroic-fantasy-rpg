@@ -345,7 +345,7 @@ Activate in response to specific fiction.
 
 **6. Resource Manipulation**
 
-Change how Momentum, Stress, or Boon work.
+Change how Momentum, Stress, or Boons work.
 
 **Examples:**
 - "Battle Trance" — Once per scene, clear all Stress as a free action (requires you dealt harm this scene)
@@ -413,5 +413,5 @@ Characters advance through play, gaining increased Approaches, new Talents, addi
 - Unique Moves (new actions)
 - Passive Effects (ongoing benefits)
 - Triggered Effects (reactive abilities)
-- Resource Manipulation (change Momentum/Stress/Boon)
+- Resource Manipulation (change Momentum/Stress/Boons)
 - Complication Negation (counter specific defenses)

@@ -232,18 +232,18 @@ This is your key question. After presenting situation (danger, opportunity, comp
 
 ## Setting Difficulty
 
-Difficulty modifies the dice pool via Edge and Bane, not the outcome thresholds. The outcome tiers (Setback/Conflict/Success/Triumph) remain constant regardless of difficulty.
+Difficulty modifies the dice pool via Boon and Bane, not the outcome thresholds. The outcome tiers (Setback/Conflict/Success/Triumph) remain constant regardless of difficulty.
 
 | Difficulty | Modifier | Use When |
 |------------|----------|----------|
-| **Easy** | Grant 1 Edge (+1d) | Task within competence, favorable conditions, clear advantage |
+| **Easy** | Grant 1 Boon (+1d) | Task within competence, favorable conditions, clear advantage |
 | **Moderate** | No modifier | Standard challenge, neutral conditions (MOST COMMON) |
 | **Hard** | Impose 1 Bane (-1d) | Task at edge of capability, poor conditions, working against you |
 | **Very Hard** | Impose 2 Banes (-2d) | Extreme difficulty, multiple unfavorable factors, near-impossible |
 
-**Default to Moderate.** Only grant Edge when PCs have clear advantage or expertise. Reserve Bane for moments where conditions actively work against success.
+**Default to Moderate.** Only grant Boon when PCs have clear advantage or expertise. Reserve Bane for moments where conditions actively work against success.
 
-**Remember:** Edge/Bane modify the dice pool size. They do not change what counts as Success (any 6) or Conflict (any 4-5).
+**Remember:** Boon/Bane modify the dice pool size. They do not change what counts as Success (any 6) or Conflict (any 4-5).
 
 ---
 
@@ -531,7 +531,7 @@ Terrain or objects PCs can use:
 - "Crumbling pillars" (cover, can be toppled)
 - "Chandelier" (can be dropped on enemies)
 - "Narrow bridge" (limits movement, risk of falling)
-- "High ground" (grants Edge when attacking from above)
+- "High ground" (grants Boon when attacking from above)
 
 ### **Threats** (Environmental Hazards)
 Dangers that can be triggered (Suspense/Impact Moves):

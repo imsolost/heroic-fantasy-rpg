@@ -11,7 +11,7 @@ Quick reference for running the game. For complete rules, see the full chapters.
 
 ### 2. GM Telegraphs Stakes
 - **Action:** Which of the 5 Actions? (Clash, Defy, Talk, Sense, Know)
-- **Difficulty:** Easy (+1d Edge), Standard (no mod), Hard (-1d Bane), Very Hard (-2d Bane)
+- **Difficulty:** Easy (+1d Boon), Standard (no mod), Hard (-1d Bane), Very Hard (-2d Bane)
 - **Complications:** List any Complications that apply (each reduces outcome by 1 tier)
 - **Consequences:** "On Setback, [X happens]. On Conflict, [Y happens]."
 
@@ -59,7 +59,7 @@ When Complications and Expertise are involved:
 - Lose advantageous position
 - Side effect occurs (noise, time passes, resource consumed)
 - Countdown track advances 1 tick
-- Enemy gains Edge on next action
+- Enemy gains Boon on next action
 - Environmental shift (fire spreads, alarm triggers)
 
 ### Major Consequence (Setback)
@@ -100,7 +100,7 @@ When Complications and Expertise are involved:
 **Effect:** Each Complication reduces outcome by 1 tier (Success → Conflict, Conflict → Setback, Setback → Disaster)
 
 **Counters:**
-- **Act with Potency** (spend 1 Momentum) → Ignore 1 Complication + gain 1 Edge + narrative permission for bold action
+- **Act with Potency** (spend 1 Momentum) → Ignore 1 Complication + gain 1 Boon + narrative permission for bold action
 - **Triumph** → Ignores ALL Complications automatically
 
 **Common Complications:**
@@ -136,9 +136,9 @@ When Complications and Expertise are involved:
 - Enemy rolls Setback near you + you have "Opportunist" Talent → Gain 1 Momentum
 
 **Spend (choose one):**
-- **Act with Potency:** Gain 1 Edge + ignore 1 Complication + narrative permission for bold action
+- **Act with Potency:** Gain 1 Boon + ignore 1 Complication + narrative permission for bold action
 - **Resist Consequence:** Roll Defy to reduce incoming Stress/Condition (Success = -2 steps, Conflict = -1 step)
-- **Quick Assist:** Grant an ally 1 Edge on their next roll (no action required, can do on their turn)
+- **Quick Assist:** Grant an ally 1 Boon on their next roll (no action required, can do on their turn)
 
 **Cap:** 2 Momentum maximum (some Talents raise to 3)
 
@@ -161,7 +161,7 @@ When Complications and Expertise are involved:
 ### Conditions
 - **Name + Tier** (e.g., Poisoned 2, Frightened 1)
 - **Effect:** 1 Bane per Condition (multiple Conditions stack)
-- **Pool Modifier Cap:** ±2d maximum (universal rule — Edge and Bane cancel 1:1 before cap)
+- **Pool Modifier Cap:** ±2d maximum (universal rule — Boon and Bane cancel 1:1 before cap)
 - **Tick Down:** Reduce tier by 1 each time you roll where Condition applies
 - **Clear:** All Conditions clear on short rest (10-15 min)
 
@@ -268,7 +268,7 @@ When Complications and Expertise are involved:
 
 **Ignoring Expertise:** When an Expert rolls Setback (after Complications), convert to Conflict — they succeed at a cost.
 
-**Stacking Banes Beyond Cap:** All pool modifiers cap at ±2d. If player has 3 Banes and 1 Edge, net is 2 Banes → capped at -2d when applied.
+**Stacking Banes Beyond Cap:** All pool modifiers cap at ±2d. If player has 3 Banes and 1 Boon, net is 2 Banes → capped at -2d when applied.
 
 **Know Marking Tracks:** Know provides information only. Use Defy (with Cunning) to overcome knowledge-based obstacles.
 
@@ -282,9 +282,9 @@ When Complications and Expertise are involved:
 >
 > **GM:** "You're Clashing with Daring. The knight is Heavily Armored — 2 Complications. On Setback, his counterattack hits hard (mark 2 Stress). On Conflict, you land a blow but his armor jars your sword arm (mark 1 Stress)."
 >
-> **Player:** "I spend 1 Momentum to Act with Potency — ignoring 1 Complication and gaining 1 Edge."
+> **Player:** "I spend 1 Momentum to Act with Potency — ignoring 1 Complication and gaining 1 Boon."
 >
-> **GM:** "Potency ignores 1 Complication (1 remains). Roll Daring (3d) + 1d Edge = 4d, keep highest."
+> **GM:** "Potency ignores 1 Complication (1 remains). Roll Daring (3d) + 1d Boon = 4d, keep highest."
 >
 > **Player rolls:** 6, 5, 3, 2 → **Success (6)**
 >

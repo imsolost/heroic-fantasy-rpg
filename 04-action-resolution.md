@@ -48,7 +48,7 @@ The GM evaluates the situation and communicates the stakes clearly:
   - State track size: 4-tick (quick), 6-tick (moderate), 8-tick (major), 12-tick (campaign)
 
 **Difficulty:**
-- **Easy:** Grant 1 Edge (favorable conditions, well-prepared)
+- **Easy:** Grant 1 Boon (favorable conditions, well-prepared)
 - **Standard:** No modifier (most common)
 - **Hard:** Impose 1 Bane (unfavorable conditions, working against you)
 - **Very Hard:** Impose 2 Banes (extreme difficulty, multiple obstacles)
@@ -62,31 +62,31 @@ The GM evaluates the situation and communicates the stakes clearly:
 - Describe each Complication and its effect (reduces outcome by one tier)
 
 **Other Modifiers:**
-- Any additional Edge from allies, positioning, preparation?
+- Any additional Boon from allies, positioning, preparation?
 - Any additional Bane from injuries, Conditions, environment?
 
 **Example:**
-> **GM:** "This is a simple task—one roll to get past. It's Hard (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Edge, which cancels the Bane from the difficulty."
+> **GM:** "This is a simple task—one roll to get past. It's Hard (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from the difficulty."
 
 **Key Principle:** Players should know the stakes before they roll. No surprise consequences.
 
 ---
 
-### 3. Calculate Edge and Bane
+### 3. Calculate Boon and Bane
 
-Calculate your final dice pool: **Approach rating + Edge - Bane**
+Calculate your final dice pool: **Approach rating + Boon - Bane**
 
-**Edge sources:** Easy tasks, Act with Potency, Talents, ally assists, positioning
+**Boon sources:** Easy tasks, Act with Potency, Talents, ally assists, positioning
 
 **Bane sources:** Hard tasks, Conditions, hostile environment, poor positioning
 
-See [02-core-mechanics.md](02-core-mechanics.md#edge--bane) for complete list of sources.
+See [02-core-mechanics.md](02-core-mechanics.md#boon--bane) for complete list of sources.
 
 ---
 
 ### 4. Player Rolls
 
-Roll Xd6 dice pool (Approach + Edge - Bane). Check the highest single die (and look for double 6s):
+Roll Xd6 dice pool (Approach + Boon - Bane). Check the highest single die (and look for double 6s):
 
 - **All 1-3:** Setback — Things go wrong, situation worsens
 - **Any 4-5:** Conflict — Success with consequence (GM makes soft Impact Move)
@@ -384,13 +384,13 @@ The Condition is primarily narrative. It changes what the enemy can reasonably d
 
 - **Blinded enemy:** Can't target specific PCs accurately (GM may have them strike wildly, miss, or act defensively)
 - **Disarmed enemy:** Can't use weapon-based attacks (must retrieve weapon, draw backup, or use improvised attack)
-- **Prone enemy:** Vulnerable to follow-up attacks, must spend effort standing (GM may give PCs Edge on next action, or have enemy use turn standing)
+- **Prone enemy:** Vulnerable to follow-up attacks, must spend effort standing (GM may give PCs Boon on next action, or have enemy use turn standing)
 - **Frightened enemy:** May flee, fight defensively, or hesitate (GM narrates accordingly)
 
 **Mechanical Effect (optional, GM discretion):**
 The GM may impose mechanical disadvantages when it makes sense:
 - **Reduce enemy's effective Tier** by 1 for duration of Condition (fewer ticks marked by PC attacks)
-- **Grant PCs Edge** on actions against impaired enemy (justified by fiction)
+- **Grant PCs Boon** on actions against impaired enemy (justified by fiction)
 - **Prevent specific Challenge Moves** (blinded enemy can't use "Precise Shot" move, frightened enemy can't use "Rallying Cry")
 
 **Duration:**
@@ -399,9 +399,9 @@ The GM may impose mechanical disadvantages when it makes sense:
 
 **Example in Play:**
 > **PC (Triumph + Trait):** "I kick sand in his eyes as I strike — I want to Blind him!"
-> **GM:** "Alright, he's Blinded. He stumbles back, pawing at his face. I'm not going to have him attack this round — he's focused on clearing his vision. Anyone acting against him this round has Edge."
+> **GM:** "Alright, he's Blinded. He stumbles back, pawing at his face. I'm not going to have him attack this round — he's focused on clearing his vision. Anyone acting against him this round has Boon."
 > *(Next round)*
-> **GM:** "He's blinking away the sand but still disoriented. I'll say he's still Blinded for one more exchange — Edge still applies if you press him."
+> **GM:** "He's blinking away the sand but still disoriented. I'll say he's still Blinded for one more exchange — Boon still applies if you press him."
 
 ---
 
@@ -761,7 +761,7 @@ Use when:
 
 **Example Special Effects (from Trait):**
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)
-- Secondary Effect: Grant 1 Edge (your insight gives you or an ally tactical advantage when acting on the information)
+- Secondary Effect: Grant 1 Boon (your insight gives you or an ally tactical advantage when acting on the information)
 - Secondary Effect: Reveal Hidden Implication (expose secret connection, hidden vulnerability, or crucial context)
 - Build Momentum (your knowledge prepares you or an ally for action)
 
@@ -890,7 +890,7 @@ Enemy Challenge Traits impose Complications on your Defy roll:
 **Example:**
 > **GM:** "The knight has 'Master Duelist' (1 Complication in melee). He attacks—Defy!"
 > **Player rolls Defy → Success:** Reduced to Conflict by Complication → "You deflect his blade (avoid the attack) but he's pressing you—mark 1 Stress from the exertion" (soft Impact Move)
-> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Act with Potency to ignore his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
+> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Act with Potency for Boon to ignore his Complication!" → Success stays Success → "You match his technique perfectly—no consequence"
 
 ### Other Threats Trigger Defy
 
@@ -995,7 +995,7 @@ Defy serves dual purpose:
 This creates:
 - Clear structure for enemy actions (no GM rolls, player-facing)
 - Active defense feels engaging (you roll to avoid, not passively marked)
-- Tactical depth (spend Momentum for Edge on defense, use Traits to negate Complications)
+- Tactical depth (spend Momentum for Boon on defense, use Traits to negate Complications)
 - Heroic fantasy feel (defending against overwhelming odds)
 
 **Defense Model (Eternal Ruins/Grimwild):** External threats trigger free Defy. Your own action consequences cannot be Defied for free—spend 1 Momentum to Resist Consequence if needed. This preserves consequence weight while allowing heroic last stands.
@@ -1017,8 +1017,8 @@ This creates:
 **Action Roll Steps:**
 1. Player declares intent (Action + Approach)
 2. GM telegraphs stakes (track type, difficulty, consequences, Complications)
-3. Calculate Edge and Bane from all sources (cancel 1:1)
-4. Player rolls dice pool (Approach + Edge - Bane)
+3. Calculate Boon and Bane from all sources (cancel 1:1)
+4. Player rolls dice pool (Approach + Boon - Bane)
 5. Determine raw outcome (check highest die and double 6s)
 6. Apply Complications to reduce tier (Triumph ignores all)
 7. Determine final outcome

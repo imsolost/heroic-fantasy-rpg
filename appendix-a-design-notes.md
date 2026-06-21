@@ -40,8 +40,8 @@ With 5 boxes, players typically finish a fight with 2-4 Stress marked — hurt b
 **Quick Assist** and **Push Yourself** both cost 1 Stress. This creates tactical tension: do you spend your buffer to gain an edge, or preserve it to absorb incoming harm?
 
 In playtesting, this led to interesting choices:
-- The rogue marks 1 Stress to give the fighter Edge on a critical save
-- The wizard Pushes herself (1 Stress) to gain Edge on a desperate spell
+- The rogue marks 1 Stress to give the fighter Boon on a critical save
+- The wizard Pushes herself (1 Stress) to gain Boon on a desperate spell
 - The fighter refuses to Quick Assist because he's already at 4/5 Stress and doesn't want to take a Condition
 
 These choices make Stress feel valuable beyond just a hit point buffer.
@@ -148,14 +148,14 @@ This creates **escalating risk** across multiple encounters while maintaining **
 
 **Alternative: All Conditions = 1 Bane, unlimited stacking**
 - **Problem:** Three Conditions = 3 Banes feels too punishing
-- **Problem:** Overlaps with Edge/Bane cap (±2d from all sources), creates confusion
+- **Problem:** Overlaps with Boon/Bane cap (±2d from all sources), creates confusion
 
 **Flat 1 Bane per Condition, capped at 2 total** models impairment simply:
 - 1 Condition = 1 Bane = hurt but functional
 - 2+ Conditions = 2 Banes = significantly impaired, need to adapt tactics
 - Tier represents duration (how long it lasts), not severity (how bad the penalty is)
 
-**Maximum 2 Banes from Conditions** keeps it heroic while stacking with the Edge/Bane cap (±2d from all sources). You can have 2 Banes from Conditions + 2 Banes from difficulty = 4 total Banes, but Conditions alone cap at 2.
+**Maximum 2 Banes from Conditions** keeps it heroic while stacking with the Boon/Bane cap (±2d from all sources). You can have 2 Banes from Conditions + 2 Banes from difficulty = 4 total Banes, but Conditions alone cap at 2.
 
 **Why 2 not 3?** Playtesting showed 3 Banes from Conditions alone felt too punishing, especially combined with difficult circumstances. 2 Banes = ~6% Setback rate on 3d6, still challenging but not crushing.
 
@@ -508,7 +508,7 @@ Multiple Conditions stack, but maximum 2 Banes from Conditions total.
 **Why stop at 2?** 
 - **Math stays manageable** — 2 Banes on 3d6 = ~6% Setback (challenging but not crushing)
 - **Heroic feel** — You CAN still succeed when impaired, just harder
-- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Very Hard task = 4 total, keeping Edge/Bane system consistent (max ±2d from any single source)
+- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Very Hard task = 4 total, keeping Boon/Bane system consistent (max ±2d from any single source)
 
 **Considered higher caps:**
 - **3+ Banes from Conditions alone:** Too punishing, especially when combined with situational Banes (Hard task, poor positioning, etc.)
@@ -537,13 +537,13 @@ Resist competes with other Momentum uses, creating interesting choices:
 - "Do I Resist this Condition, or save Momentum for my signature move?"
 - "I'm at 2 Momentum, do I Resist now or wait to see if the next hit is worse?"
 
-### Edge/Bane Interaction
+### Boon/Bane Interaction
 
-Edge and Bane cancel 1:1 before rolling. This creates Condition mitigation through Edge generation:
-- "I'm at 2 Banes from Conditions, but I have 2 Edge from setup, so I roll normally"
+Boon and Bane cancel 1:1 before rolling. This creates Condition mitigation through Boon generation:
+- "I'm at 2 Banes from Conditions, but I have 2 Boon from setup, so I roll normally"
 - "I Quick Assist my wounded ally to cancel some of their Bane penalties"
 
-Edge-generating builds become more valuable when the party is hurt — support characters shine.
+Boon-generating builds become more valuable when the party is hurt — support characters shine.
 
 ### Short Rest Pacing
 
@@ -628,7 +628,7 @@ GMs control pacing by controlling short rest opportunities. Want attrition to ma
 
 - Unified Stress track (players loved simplicity)
 - Minor clearing after action (created heroic moments)
-- Edge/Bane cancellation (felt intuitive)
+- Boon/Bane cancellation (felt intuitive)
 - Taken Out instead of death (kept stakes without lethality)
 
 ---

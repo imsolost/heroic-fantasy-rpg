@@ -267,7 +267,7 @@ Grant narrative permission + mechanical advantage for specific feats.
 **"Gaining Potency" (Game Term):**
 
 When a Talent or ability says your action "gains Potency" or "has Potency," this means you receive the **same benefits as Act with Potency** without spending Momentum:
-- Gain +1 Edge on your roll
+- Gain +1 Boon on your roll
 - Ignore 1 Complication
 - Narrative permission to attempt extraordinary feats
 
@@ -345,7 +345,7 @@ Activate in response to specific fiction.
 
 **6. Resource Manipulation**
 
-Change how Momentum, Stress, or Edge work.
+Change how Momentum, Stress, or Boon work.
 
 **Examples:**
 - "Battle Trance" — Once per scene, clear all Stress as a free action (requires you dealt harm this scene)
@@ -413,5 +413,5 @@ Characters advance through play, gaining increased Approaches, new Talents, addi
 - Unique Moves (new actions)
 - Passive Effects (ongoing benefits)
 - Triggered Effects (reactive abilities)
-- Resource Manipulation (change Momentum/Stress/Edge)
+- Resource Manipulation (change Momentum/Stress/Boon)
 - Complication Negation (counter specific defenses)

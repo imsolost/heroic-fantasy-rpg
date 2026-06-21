@@ -32,8 +32,8 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 See **Chapter 4: Action Resolution** for complete Consequence framework.
 
 **Voluntarily (as a resource):**
-- **Quick Assist** → Mark 1 Stress to grant an ally 1 Edge on their next roll
-- **Push Yourself** → Mark 1 Stress to gain 1 Edge on your roll
+- **Quick Assist** → Mark 1 Stress to grant an ally 1 Boon on their next roll
+- **Push Yourself** → Mark 1 Stress to gain 1 Boon on your roll
 
 ### Recovery
 
@@ -62,9 +62,9 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 
 **Multiple Conditions stack** — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously.
 
-**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Edge or -2d Bane, regardless of how many sources you have. This applies to everything (Conditions, difficulty, environment, etc.), not just Conditions.
+**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Boon or -2d Bane, regardless of how many sources you have. This applies to everything (Conditions, difficulty, environment, etc.), not just Conditions.
 
-**Edge and Bane cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Edge, they cancel to 2 net Banes — within the cap. If you have 3 Conditions (3 Banes) and no Edge, the net is 3 Banes → capped at -2d when applied to your pool.
+**Boon and Bane cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Boon, they cancel to 2 net Banes — within the cap. If you have 3 Conditions (3 Banes) and no Boon, the net is 3 Banes → capped at -2d when applied to your pool.
 
 **Why the ±2d cap?** Even heroes at their worst (or best) retain some capacity for meaningful action. The cap prevents auto-fail or auto-success territory while keeping accumulated harm impactful.
 
@@ -177,7 +177,7 @@ Reduce the number by 1 each time you act through it. Erase when it reaches 0 or 
 >
 > **Player:** Still Poisoned 2. I spend my Momentum to Act with Potency and Clash again.
 >
-> **GM:** Edge from Potency offsets the Bane — roll clean.
+> **GM:** Boon from Potency offsets the Bane — roll clean.
 >
 > **Player:** Two 5s and a 6 — Success. Poisoned drops to 1 again.
 >
@@ -254,7 +254,7 @@ A Burden has a **name**, a **tier** (1–3), and a **recovery method**. Like Con
 
 - **Multiple Burdens:** A character can have multiple Burdens simultaneously (e.g., Wounded 3 + Cursed 2)
 - **Same-name Burdens:** If you gain a Burden with the same name as an existing Burden, refresh to whichever tier is higher
-- **Bane Cap:** All Banes (from Conditions, Burdens, and other sources) share the -2d cap. Edge and Bane cancel 1:1 before applying the cap.
+- **Bane Cap:** All Banes (from Conditions, Burdens, and other sources) share the -2d cap. Boon and Bane cancel 1:1 before applying the cap.
 - **Narrative Restrictions:** Burdens may carry fictional restrictions (Wounded limits strenuous activity, Cursed causes NPCs to react with fear). These are separate from the mechanical Bane penalty.
 
 **Gaining Burdens:**
@@ -363,5 +363,5 @@ When assigning a Burden, immediately clarify how it clears:
 | Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on short rest |
 | Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (soft Impact Move) or 2 (hard Impact Move) |
-| Quick Assist | Mark 1 Stress, grant ally 1 Edge |
-| Push Yourself | Mark 1 Stress, gain 1 Edge |
+| Quick Assist | Mark 1 Stress, grant ally 1 Boon |
+| Push Yourself | Mark 1 Stress, gain 1 Boon |

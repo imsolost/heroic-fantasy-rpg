@@ -36,19 +36,19 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Setup:** Lyra has 1/5 Stress. Her ally Kael is about to roll Defy to dodge a boulder.
 
-**Lyra:** "I shout a warning to Kael — I'll mark 1 Stress to give him Edge on his Defy roll!"
+**Lyra:** "I shout a warning to Kael — I'll mark 1 Stress to give him Boon on his Defy roll!"
 
-**Lyra marks 1 Stress (now 2/5).** Kael gains 1 Edge on his roll.
+**Lyra marks 1 Stress (now 2/5).** Kael gains 1 Boon on his roll.
 
 ---
 
 **Setup:** Finn has 3/5 Stress. He's sprinting to catch a fleeing thief.
 
-**Finn:** "I dig deep and push harder — mark 1 Stress for Edge on this chase?"
+**Finn:** "I dig deep and push harder — mark 1 Stress for Boon on this chase?"
 
-**GM:** "Yeah, you're clearly pushing beyond normal limits. Mark 1 Stress, gain 1 Edge."
+**GM:** "Yeah, you're clearly pushing beyond normal limits. Mark 1 Stress, gain 1 Boon."
 
-**Finn marks 1 Stress (now 4/5).** Gains 1 Edge on the Defy roll.
+**Finn marks 1 Stress (now 4/5).** Gains 1 Boon on the Defy roll.
 
 ---
 
@@ -355,7 +355,7 @@ Lyra rolls Talk → Success.
 
 **Finn:** "I use Quick Assist to shout a warning to Kael for his next roll — mark 1 Stress."
 - Finn: 1/5 Stress
-- Kael gains 1 Edge on his next roll
+- Kael gains 1 Boon on his next roll
 
 ---
 
@@ -367,8 +367,8 @@ Lyra rolls Talk → Success.
 **GM (to Kael, hard Impact Move):** "The alpha's flail cracks into your ribs — mark 2 Stress."
 - Kael: 4/5 Stress
 
-**Aria:** "I Push Myself on this attack — mark 1 Stress for Edge."
-- Aria: 2/5 Stress, gains 1 Edge
+**Aria:** "I Push Myself on this attack — mark 1 Stress for Boon."
+- Aria: 2/5 Stress, gains 1 Boon
 
 ---
 
@@ -518,7 +518,7 @@ This extended example demonstrates a complete combat encounter, showing how mult
 
 **Kael:** "I seize the moment while he's turned away! I drive my blade straight between his shoulder blades. Clash with Daring, and I'll invoke my **Veteran of the Iron Wars** Trait since this is a textbook battlefield flank."
 
-**Kael rolls 4d6 (Approach 3 + 1 Edge for the flank) → highest is a 6 (Success)**
+**Kael rolls 4d6 (Approach 3 + 1 Boon for the flank) → highest is a 6 (Success)**
 
 **GM:** "A clean hit! Your sword drives deep into his back, bypassing his armor entirely because of the positioning—no Complication from his Heavily Armored trait. You mark 1 tick base for the Success. Since you rolled Success and your Trait is narratively relevant, you can invoke it for a Special Effect. What do you choose?"
 
@@ -534,9 +534,9 @@ This extended example demonstrates a complete combat encounter, showing how mult
 
 **Kael:** "I'll spend my 1 Momentum to **Act with Potency**—locking eyes with him and using my shield to absorb the blow. Defy with Daring!"
 
-**GM:** "Act with Potency gives you +1 Edge and ignores his Flailing Axes Complication. Roll!"
+**GM:** "Act with Potency gives you +1 Boon and ignores his Flailing Axes Complication. Roll!"
 
-**Kael rolls 4d6 (Approach 3 + 1 Edge from Potency) → double 6s (Triumph)**
+**Kael rolls 4d6 (Approach 3 + 1 Boon from Potency) → double 6s (Triumph)**
 
 **GM:** "Incredible! Your shield catches the full brunt of his desperate assault. The Triumph means you ignore any complications, gain 1 Momentum back, and can invoke a Trait for free. Do you want to use **Veteran of the Iron Wars** again?"
 
@@ -573,7 +573,7 @@ This extended example demonstrates a complete combat encounter, showing how mult
 - Shows resource circulation in tactical play
 
 **Act with Potency Benefits:**
-- +1 Edge (4d6 instead of 3d6)
+- +1 Boon (4d6 instead of 3d6)
 - Ignores 1 Complication (Flailing Axes)
 - Narrative permission for bold defensive stand
 
@@ -598,7 +598,7 @@ This extended example demonstrates a complete combat encounter, showing how mult
 - Shows both quick (minion) and extended (boss) fights
 
 **Tactical Coordination:**
-- Kael flanks for positioning advantage (Edge)
+- Kael flanks for positioning advantage (Boon)
 - Ryn repositions after being pushed back
 - Mira clears minion while others engage boss
 - Multiple PCs working together, not solo spotlight

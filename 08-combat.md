@@ -51,9 +51,9 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 ### Positioning Benefits
 
-The GM grants **Edge** or imposes **Complications** based on fictional positioning:
+The GM grants **Boon** or imposes **Complications** based on fictional positioning:
 
-**Advantageous Position (Edge):**
+**Advantageous Position (Boon):**
 - High ground
 - Cover from ranged attacks
 - Flanking an enemy with ally
@@ -112,7 +112,7 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 
 **Create Opening** — "I feint high to draw his guard up."
 - Action: Clash with Cunning (could also be Sense to spot weakness)
-- Success: Ally gains fictional positioning for next action (GM may grant Edge)
+- Success: Ally gains fictional positioning for next action (GM may grant Boon)
 - + Secondary Effect: Multiple allies gain positioning (Affect Additional Target), enemy is off-balance and vulnerable (Impair)
 
 **Sunder Equipment** — "I target his shield, trying to splinter it."
@@ -154,13 +154,13 @@ There are three ways to help allies during combat:
 
 **Cost:** Mark 1 Stress
 
-**Effect:** Grant ally 1 Edge on their roll
+**Effect:** Grant ally 1 Boon on their roll
 
 **Limits:**
 - You must be in a fictional position to help (can see them, can shout to them, can physically reach them)
 - An ally can only receive **one Quick Assist per roll** (multiple allies cannot stack Quick Assists)
 
-**Example:** "I shout a warning to Kael as the orc swings!" → Mark 1 Stress, Kael gains 1 Edge on Defy roll
+**Example:** "I shout a warning to Kael as the orc swings!" → Mark 1 Stress, Kael gains 1 Boon on Defy roll
 
 **Advantage:** Doesn't consume your action, immediate
 
@@ -170,9 +170,9 @@ There are three ways to help allies during combat:
 
 **Cost:** Your action
 
-**Effect:** Ally gains Edge on their next roll against the target
+**Effect:** Ally gains Boon on their next roll against the target
 
-**Example:** "I reposition to flank the knight so Mira can strike from behind." → Mira gains Edge on her next Clash
+**Example:** "I reposition to flank the knight so Mira can strike from behind." → Mira gains Boon on her next Clash
 
 **Advantage:** No Stress cost, creates clear fictional setup
 
@@ -187,10 +187,10 @@ There are three ways to help allies during combat:
 **Examples:**
 
 **Physical Combat:**
-- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it on Act with Potency for his next attack (gains Edge + ignores Complication + narrative permission for extraordinary feat).
+- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it on Act with Potency for his next attack (gains Boon + ignores Complication + narrative permission for extraordinary feat).
 
 **Social Conflict:**
-- Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Act with Potency on her physical attack (gains Edge + ignores his armor Complication).
+- Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Act with Potency on her physical attack (gains Boon + ignores his armor Complication).
 - Finn invokes "Inspirational Presence" on a successful Talk roll convincing the noble → grants the party 1 Momentum. The noble is warming to their cause (marks 1 tick on his **Will track**).
 
 **Advantage:** Enables big heroic moments via Act with Potency
@@ -235,7 +235,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 #### Common Epic Abilities
 
 **Armored / Heavily Defended**
-- **Effect:** This foe possesses layered defenses (2 Complications on direct attacks). A Success downshifts to Conflict, Conflict downshifts to Setback. Direct attacks without Edge or tactical advantage deal minimal progress.
+- **Effect:** This foe possesses layered defenses (2 Complications on direct attacks). A Success downshifts to Conflict, Conflict downshifts to Setback. Direct attacks without Boon or tactical advantage deal minimal progress.
 - **Counter:** PCs must create Opening (use Sense to identify weakness, Defy to create advantage, or Act with Potency) to negate Complications before full damage can be dealt.
 - **Example:** Dragon's scales, knight's plate armor, magical ward
 - **Design Note:** This creates the same effect as "requires Opening to damage" without contradicting the base resolution system. Success still marks ticks, but Complications downshift the outcome tier as normal.
@@ -361,9 +361,9 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **GM:** "He's taken 0 ticks so far — 8 ticks total to drop him. And you hear horns in the distance — reinforcements might arrive in a few rounds if this drags out. Ryn gains 1 Momentum for the Triumph."
 
-**Kael:** "I spend 1 Momentum to Seize Spotlight! I charge and go for that shoulder before he recovers. Clash with Daring, I have Edge from Ryn's Opening."
+**Kael:** "I spend 1 Momentum to Seize Spotlight! I charge and go for that shoulder before he recovers. Clash with Daring, I have Boon from Ryn's Opening."
 
-**Kael rolls 4d6 (Approach 3, Edge 1) → 6 (Success)**
+**Kael rolls 4d6 (Approach 3, Boon 1) → 6 (Success)**
 
 **GM:** "Your blade slices into the exposed shoulder. The Warboss bellows in pain. Mark 2 ticks — he's at 2/8 now. But now he's enraged. Both axes come down at you in a massive overhead swing. What do you do?"
 
@@ -375,13 +375,13 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Kael (3/5 Stress, Prone):** "Mira, help!"
 
-**Mira:** "I'll Quick Assist! I shout 'Kael, roll left!' as the Warboss raises his axes again. I mark 1 Stress to give Kael Edge on his next roll."
+**Mira:** "I'll Quick Assist! I shout 'Kael, roll left!' as the Warboss raises his axes again. I mark 1 Stress to give Kael Boon on his next roll."
 
 **Mira (1/5 Stress)**
 
 **Kael:** "I roll left and scramble to my feet. Defy to get up and avoid his follow-up."
 
-**Kael rolls 3d6 (Daring 3, Edge 1 from Mira) → 6 (Success)**
+**Kael rolls 3d6 (Daring 3, Boon 1 from Mira) → 6 (Success)**
 
 **GM:** "You roll clear and spring to your feet. His axes crash into the ground where you were a moment ago. You're up, Close zone with him. Meanwhile, the two remaining orcs reach Mira. They both swing at her. Mira, roll Defy."
 
@@ -395,9 +395,9 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **GM:** "Your blade opens his throat. Mark 2 ticks — he's dead (Minion). You gain 1 Momentum. Triumph ignores all Complications — the second orc doesn't get a counterattack. He's backing up, clearly unnerved. One orc left."
 
-**Ryn:** "I circle around and backstab the Warboss in that exposed shoulder. Clash with Cunning, I still have Edge from the Opening I found?"
+**Ryn:** "I circle around and backstab the Warboss in that exposed shoulder. Clash with Cunning, I still have Boon from the Opening I found?"
 
-**GM:** "Yes, the Opening persists. Roll with Edge."
+**GM:** "Yes, the Opening persists. Roll with Boon."
 
 **Ryn rolls 4d6 → 6 (Success)**
 
@@ -430,7 +430,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 **Tactical Choices Highlighted:**
 - Ryn used Sense to create Opening (bypassed "Armored" ability)
 - Kael spent Momentum to Seize Spotlight (act out of turn)
-- Mira used Quick Assist to save Kael (mark Stress for Edge)
+- Mira used Quick Assist to save Kael (mark Stress for Boon)
 - GM used Threat from Kael's Setback (but chose to hold it)
 - Positioning mattered (Close vs Near zones)
 - Triumph bypassed orc's counterattack opportunity

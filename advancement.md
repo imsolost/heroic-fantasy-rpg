@@ -79,7 +79,7 @@ When you gain a Talent, choose one from the available Talent types (see Chapter 
 - Unique Moves (new actions)
 - Passive Effects (ongoing benefits)
 - Triggered Effects (reactive abilities)
-- Resource Manipulation (Momentum/Stress/Edge changes)
+- Resource Manipulation (Momentum/Stress/Boon changes)
 - Complication Negation (counter specific defenses)
 
 **Calling-Specific Talents:**
@@ -446,7 +446,7 @@ Characters tackling threats significantly below their Rank often **auto-succeed 
 Even when complications force a roll against a lower-Rank challenge (hostage situation, time pressure, specific constraints), the GM should reflect the power difference through fiction and adjudication:
 
 **GM Tools:**
-- **Grant Edge** - The task is easier than normal (lower-Rank foes are less skilled, less durable, less perceptive)
+- **Grant Boon** - The task is easier than normal (lower-Rank foes are less skilled, less durable, less perceptive)
 - **Reduce consequence severity** - Failure against Rank 1 bandits as Rank 3 hero might cause Minor consequence, not Major
 - **Narrative framing** - Even a Conflict result feels dominant ("You defeat them all, but one escapes with the hostage in the chaos")
 - **Shorter tracks (optional)** - For extended challenges, use shorter Progress Tracks (Rank 1 threat might use 2-tick track instead of 4)

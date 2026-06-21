@@ -338,7 +338,7 @@ Complications:
 - **Total: 0 Complications**
 
 **PC throws flour in the air:**
-- Creating advantage (doesn't remove Elusive, but grants Edge to allies or reveals it temporarily)
+- Creating advantage (doesn't remove Elusive, but grants Boon to allies or reveals it temporarily)
 - **Tactical play rewarded!**
 
 ---
@@ -434,7 +434,7 @@ Three ways to deal with Complications:
 ### 1. Act with Potency (1 Momentum)
 
 Spend 1 Momentum before rolling to gain:
-- +1 Edge (+1d)
+- +1 Boon (+1d)
 - Ignore 1 Complication
 - Narrative permission for extraordinary feats
 
@@ -650,13 +650,13 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 **Grant advantage** when PCs exploit them.
 
 **Examples:**
-- **"Easily Frightened"** — When intimidated/surprised, grants 1 Edge to PCs
-- **"Overconfident"** — When pride exploited, reduce Tier by 1 or grant Edge
-- **"Slow"** — When speed/agility used against it, grants 1 Edge
-- **"Arrogant"** — Social flattery grants 1 Edge
-- **"Weak to Fire"** — Fire attacks grant 1 Edge or negate 1 Complication
-- **"Blind"** — Stealth approaches grant 1 Edge
-- **"Greedy"** — Bribery/treasure as bait grants 1 Edge
+- **"Easily Frightened"** — When intimidated/surprised, grants 1 Boon to PCs
+- **"Overconfident"** — When pride exploited, reduce Tier by 1 or grant Boon
+- **"Slow"** — When speed/agility used against it, grants 1 Boon
+- **"Arrogant"** — Social flattery grants 1 Boon
+- **"Weak to Fire"** — Fire attacks grant 1 Boon or negate 1 Complication
+- **"Blind"** — Stealth approaches grant 1 Boon
+- **"Greedy"** — Bribery/treasure as bait grants 1 Boon
 
 ---
 
@@ -960,10 +960,10 @@ Complications apply to Will-based actions just as they do to Harm-based actions.
 - **"Iron Discipline"** — Military bearing; taunts and insults face 1 Complication
 
 **Example Will-based Exploitable Traits:**
-- **"Arrogant"** — Flattery grants 1 Edge on Talk rolls
-- **"Greedy"** — Bribery or appeals to self-interest grant 1 Edge
-- **"Proud"** — Challenges to honor grant 1 Edge on social Clash
-- **"Fearful"** — Intimidation grants 1 Edge on social Clash
+- **"Arrogant"** — Flattery grants 1 Boon on Talk rolls
+- **"Greedy"** — Bribery or appeals to self-interest grant 1 Boon
+- **"Proud"** — Challenges to honor grant 1 Boon on social Clash
+- **"Fearful"** — Intimidation grants 1 Boon on social Clash
 
 ---
 
@@ -1019,8 +1019,8 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 ### Cross-Track Advantages
 
 **Social attacks can create advantages** for physical ones:
-- Demoralize an enemy (mark Will) → GM may grant 1 Edge on next physical Clash
-- Wound an enemy (mark Harm) → GM may grant 1 Edge on next social Clash (they're rattled)
+- Demoralize an enemy (mark Will) → GM may grant 1 Boon on next physical Clash
+- Wound an enemy (mark Harm) → GM may grant 1 Boon on next social Clash (they're rattled)
 - Use **Build Momentum** (special effect) to set up allies for either approach
 
 **Neither track affects the other mechanically.** A badly wounded adversary doesn't automatically have a weakened Will track — though the GM may reflect their deteriorating position in the fiction, making certain social approaches more or less effective.
@@ -1069,7 +1069,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 - **Tier:** 1
 - **Tracks:** Harm 2, Will 2
 - **Traits:** "Easily Frightened" (Exploitable), "Pathetic" (can only trigger Soft Impact Moves)
-  - When intimidated, grants 1 Edge to PCs
+  - When intimidated, grants 1 Boon to PCs
   - Impact Moves: max 1 Stress (Soft only)
 
 **Tactics:** Skirmish from range, flee when threatened
@@ -1091,7 +1091,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 **How PCs deal with it:**
 - **Fight directly:** Act with Potency (1 Momentum) to ignore Resilient, ally uses Build Momentum to set up, or Talents like "Armor Piercer"
 - **Break their will:** Talk/Clash socially (intimidation/taunts) to mark Will — still faces Resolute but might be easier than breaking armor
-- **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant Edge on social roll)
+- **Mix approaches:** Wound them first (mark some Harm) → easier to intimidate a bleeding knight (GM may grant Boon on social roll)
 - **Triumph:** Ignores all Complications on either track
 
 **Design Note:** Symmetrical tracks (both 4 ticks, both 1 Complication) = balanced opponent, multiple valid approaches.
@@ -1107,7 +1107,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
   - Resolute - fearless, unbreakable will
 - **Challenge Moves:**
   - **Brutal Swing [□□]** - Close range, 2 Stress + Stunned 1 (2 uses)
-- **Weakness:** Fire (Fire attacks grant 1 Edge or negate 1 Complication)
+- **Weakness:** Fire (Fire attacks grant 1 Boon or negate 1 Complication)
 
 **Tactics:** Aggressive, brutal, relentless — won't flee or surrender
 
@@ -1149,7 +1149,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Complications:**
   - Resolute - fanatic faith
 - **Exploitable:** "Frail"
-  - Physical Clash grants 1 Edge (easy to hurt)
+  - Physical Clash grants 1 Boon (easy to hurt)
 
 **Tactics:** Preach zealously, martyr complex, won't be swayed by reason
 
@@ -1186,14 +1186,14 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Complications:**
   - Resolute - disciplined, suspicious
   - Vigilant - well-informed, knows local rumors
-- **Exploitable:** Arrogant (Flattery grants 1 Edge)
+- **Exploitable:** Arrogant (Flattery grants 1 Boon)
 
 **Tactics:** Ask probing questions, demand proof
 
 **How PCs deal with it:**
 - **Talk honestly:** Present compelling evidence, mark Will (faces Resolute)
 - **Deceive:** Try to lie/manipulate (faces both Resolute + Vigilant = 2 Complications!)
-- **Use flattery:** Exploit "Arrogant" (grants 1 Edge) to offset Complications
+- **Use flattery:** Exploit "Arrogant" (grants 1 Boon) to offset Complications
 - **Build Momentum:** Allies support each other through teamwork to overcome 2 Complications on deception attempts
 
 **Fiction:** Once Will track fills, the Noble is convinced, becomes an ally, or at least stops opposing the PCs.
@@ -1209,7 +1209,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
   - Vigilant - keen senses (applies to Obstacle: stealth/bypass)
   - Deadly - devastating in combat (applies when attacking/being attacked)
 - **Exploitable:** "Prideful"
-  - Flattery/challenges to pride grant 1 Edge on social rolls (Will)
+  - Flattery/challenges to pride grant 1 Boon on social rolls (Will)
 
 **Tactics:** Territorial, intelligent, prefers negotiation but will incinerate threats
 
@@ -1234,7 +1234,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
    - Victory = objective achieved without confrontation (steal treasure, rescue prisoner, etc.)
 
 4. **Mixed approaches:**
-   - Wound dragon slightly (mark 2-4 Harm) → easier to intimidate (GM grants Edge on Will Clash)
+   - Wound dragon slightly (mark 2-4 Harm) → easier to intimidate (GM grants Boon on Will Clash)
    - Negotiate poorly (mark Will but don't fill) → dragon becomes hostile, switches to combat
    - Feint combat while another PC sneaks (mark Harm + Obstacle simultaneously)
 
@@ -1373,7 +1373,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 
 **Common Challenge Elements:**
 - **Complications:** Defensive traits with tags (Resilient, Warded, Elusive, Resolute, Legendary, Deadly, etc.)
-- **Exploitable:** Grant 1 Edge when exploited (e.g., "Arrogant," "Weak to Fire," "Slow")
+- **Exploitable:** Grant 1 Boon when exploited (e.g., "Arrogant," "Weak to Fire," "Slow")
 - **Challenge Moves:** Active abilities used as Impact Moves with limited uses [□□]
 
 ---
@@ -1517,12 +1517,12 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 **Exploitable Traits grant advantage** when PCs exploit them.
 
 **Examples:**
-- **"Easily Frightened"** — When intimidated/surprised, grants 1 Edge to PCs
-- **"Overconfident"** — When pride exploited, grant 1 Edge
-- **"Slow"** — When speed/agility used against it, grants 1 Edge
-- **"Weak to Fire"** — Fire attacks grant 1 Edge or negate 1 Complication
-- **"Blind"** — Stealth approaches grant 1 Edge
-- **"Greedy"** — Bribery/treasure as bait grants 1 Edge
+- **"Easily Frightened"** — When intimidated/surprised, grants 1 Boon to PCs
+- **"Overconfident"** — When pride exploited, grant 1 Boon
+- **"Slow"** — When speed/agility used against it, grants 1 Boon
+- **"Weak to Fire"** — Fire attacks grant 1 Boon or negate 1 Complication
+- **"Blind"** — Stealth approaches grant 1 Boon
+- **"Greedy"** — Bribery/treasure as bait grants 1 Boon
 
 **Keep it simple:** 0-1 exploitable traits for most Challenges. Reserve multiple weaknesses for puzzle-lock encounters.
 
@@ -1643,12 +1643,12 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **2 Complications (Hard encounter) is viable because:**
 - **Scouts/Supporters** can Build Momentum on less-contested actions (Sense has no Complications from enemy armor)
-- **Strikers** use Momentum for **Act with Potency** (ignore 1 Complication + gain Edge)
+- **Strikers** use Momentum for **Act with Potency** (ignore 1 Complication + gain Boon)
 - **Traits** grant **Greater Effect** (double progress when relevant)
 
 **Expected flow:**
 1. Scout uses Sense (no Complications) → Rolls Conflict+ → Invokes Trait for **Build Momentum**
-2. Fighter uses Momentum for **Act with Potency** → Faces 1 Complication instead of 2 → Rolls with Edge
+2. Fighter uses Momentum for **Act with Potency** → Faces 1 Complication instead of 2 → Rolls with Boon
 3. Fighter rolls Conflict → Invokes Trait for **Greater Effect** → Marks 2 ticks
 
 **Result:** 2 rolls to mark 2 ticks (net 1 tick per roll) = **manageable pacing**
@@ -1696,7 +1696,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 2. ☐ Set Will/Obstacle tracks if needed (2-8 ticks based on difficulty)
 3. ☐ Add Complications (0 = easy, 1 = standard, 2 = hard, 3+ = legendary) with tags
 4. ☐ Add 1-2 Challenge Moves with limited uses [□□]
-5. ☐ Add Exploitable Traits for flavor (optional, grants Edge when exploited)
+5. ☐ Add Exploitable Traits for flavor (optional, grants Boon when exploited)
 6. ☐ Estimate duration (1 roll ≈ 1-2 minutes play)
 
 ---
@@ -1736,7 +1736,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 2. **Harm Track:** 2 ticks (representing 4-6 bandits as a group)
 3. **Complications:** 0 (easy warm-up encounter)
 4. **Challenge Move:** Coordinated Strike [□□] — When one bandit engages a PC, another attacks from flanking position (mark 1 Stress, 2 uses)
-5. **Exploitable:** Undisciplined — Intimidation grants 1 Edge (they break easily)
+5. **Exploitable:** Undisciplined — Intimidation grants 1 Boon (they break easily)
 6. **Estimate:** 2 ticks, 0 Complications = **1-2 rolls per PC = 3-5 minutes**
 
 **Result:** Bandit squad (Tier 1, 2 ticks, 0 Complications, group of 4-6 bandits) ambushes the party. Quick, punchy encounter to drain some Stress before the real challenge.

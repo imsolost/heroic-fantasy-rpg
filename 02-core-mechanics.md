@@ -134,7 +134,7 @@ Choose the Approach that describes **how** you're acting.
 
 **Roll Xd6, check the highest single die result (and look for double 6s).**
 
-Your dice pool = **Approach rating + Edge - Bane**
+Your dice pool = **Approach rating + Boon - Bane**
 
 ### Outcome Tiers
 
@@ -151,13 +151,13 @@ Check your dice results:
 
 ---
 
-## Edge & Bane
+## Boon & Bane
 
-Edge and Bane represent advantage and disadvantage.
+Boon and Bane represent advantage and disadvantage.
 
-### Edge (Advantage)
+### Boon (Advantage)
 
-**1 Edge = +1d to your pool**
+**1 Boon = +1d to your pool**
 
 **Sources:**
 - Easy tasks (GM grants when conditions favor success)
@@ -165,10 +165,10 @@ Edge and Bane represent advantage and disadvantage.
 - Environmental advantage (perfect lighting, stable footing, ideal weather)
 - Tactical superiority (outnumbering enemy, ambush, surprise)
 - Talents (specific circumstances)
-- Quick Assist (ally marks 1 Stress to grant you 1 Edge)
-- Push Yourself (mark 1 Stress to gain 1 Edge)
+- Quick Assist (ally marks 1 Stress to grant you 1 Boon)
+- Push Yourself (mark 1 Stress to gain 1 Boon)
 
-**Maximum:** +2d Edge (cap)
+**Maximum:** +2d Boon (cap)
 
 **Multiple sources stack** — each grants +1d, up to the cap.
 
@@ -194,9 +194,9 @@ Edge and Bane represent advantage and disadvantage.
 
 ### Difficulty Guidelines
 
-**Standard Difficulty:** Roll your pool and check results (no Edge or Bane). This is the default.
+**Standard Difficulty:** Roll your pool and check results (no Boon or Bane). This is the default.
 
-**Easy Tasks:** Grant **1 Edge** (+1d)
+**Easy Tasks:** Grant **1 Boon** (+1d)
 - Task within character competence, conditions favor success
 - Examples: Climbing with good handholds, persuading friendly NPC, fighting distracted enemies
 
@@ -208,31 +208,31 @@ Edge and Bane represent advantage and disadvantage.
 - Task at extreme difficulty, multiple unfavorable factors
 - Examples: Climbing sheer ice wall, convincing enemy general to surrender, fighting while Poisoned + Frightened
 
-**GM Note:** Default to standard difficulty. Use Edge when PCs have clear advantage. Reserve Bane for moments where conditions work against them.
+**GM Note:** Default to standard difficulty. Use Boon when PCs have clear advantage. Reserve Bane for moments where conditions work against them.
 
 ---
 
 ### Pool Calculations
 
-**Edge and Bane cancel 1:1** before rolling.
+**Boon and Bane cancel 1:1** before rolling.
 
-**Caps:** Maximum +2 Edge, maximum -2 Bane (after cancellation). You can have more than 2 sources of Edge or Bane, but the net modifier after cancellation caps at ±2d.
+**Caps:** Maximum +2 Boon, maximum -2 Bane (after cancellation). You can have more than 2 sources of Boon or Bane, but the net modifier after cancellation caps at ±2d.
 
-**Example:** 3 Conditions (3 Banes) + 1 Edge = 2 net Banes (within cap). Or: 3 Edge sources + 1 Bane = 2 net Edge (within cap).
+**Example:** 3 Conditions (3 Banes) + 1 Boon = 2 net Banes (within cap). Or: 3 Boon sources + 1 Bane = 2 net Boon (within cap).
 
 **Why caps?** Keeps pools in the 3d6-7d6 range, maintaining tension at all power levels. Even heroes at their worst (or best) can't reach auto-fail or auto-success territory.
 
 **Minimum Pool:** If reduced to 0 dice, roll 2d6 and take the **lowest** result.
 
-*Design Note: This produces ~75% Setback rate, intentionally harsh to represent being completely overwhelmed. The solution is to gain Edge (spend Momentum, Push Yourself, exploit position), switch to a better Approach, or rely on Expertise (converts Setback → Conflict). Fighting at 0 dice should feel desperate — it incentivizes creative problem-solving rather than brute-forcing the obstacle.*
+*Design Note: This produces ~75% Setback rate, intentionally harsh to represent being completely overwhelmed. The solution is to gain Boon (spend Momentum, Push Yourself, exploit position), switch to a better Approach, or rely on Expertise (converts Setback → Conflict). Fighting at 0 dice should feel desperate — it incentivizes creative problem-solving rather than brute-forcing the obstacle.*
 
-**Maximum Pool:** Approach 5 + 2 Edge = **7d6** (legendary tier)
+**Maximum Pool:** Approach 5 + 2 Boon = **7d6** (legendary tier)
 
 **Typical Pools:**
 - Starting character (Approach 3): **3d6** base
-- With Easy task (+1 Edge): **4d6**
+- With Easy task (+1 Boon): **4d6**
 - With Hard task (+1 Bane): **2d6**
-- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes → cancel 0 Edge → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
+- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes → cancel 0 Boon → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
 
 ---
 
@@ -250,7 +250,7 @@ Edge and Bane represent advantage and disadvantage.
 **Expertise does NOT:**
 - Protect against Disaster outcomes (only converts Setback)
 - Reduce Consequence severity (you still mark same Stress/Conditions)
-- Add Edge or negate Complications
+- Add Boon or negate Complications
 
 **Expertise converts failure → success, but success at a cost.**
 
@@ -336,12 +336,12 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 - 0.8% Setback, 27.1% Conflict, 39.0% Success, 33.1% Triumph
 - Success/Triumph combined = 72%, catastrophic setback nearly impossible
 
-**Edge/Bane Impact:**
-- Each Edge significantly reduces setback chance (especially at low pools)
+**Boon/Bane Impact:**
+- Each Boon significantly reduces setback chance (especially at low pools)
 - Success tier remains consistent (38-40%) across most pool sizes
 - Triumph rate grows but caps around 33% due to double-6 requirement
 
-**Pool Range:** With ±2d Edge/Bane cap, pools stay in 3d6-7d6 range, maintaining tension at all tiers.
+**Pool Range:** With ±2d Boon/Bane cap, pools stay in 3d6-7d6 range, maintaining tension at all tiers.
 
 ---
 
@@ -363,7 +363,7 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 ### Tier 3 (Heroic Tier)
 **5d6 → 6d6+ progression**
-- Stack multiple Edge sources, powerful Talents
+- Stack multiple Boon sources, powerful Talents
 - Target: 6-7d6 pools (1.6-0.8% setback, 26-33% Triumph)
 
 **Maximum Recommended Pool:** 7d6 (represents legendary heroes, Triumph caps around 33%)
@@ -423,7 +423,7 @@ See Chapter 4 for Disaster Impact Moves.
 
 **Roll Xd6, check highest die (and look for double 6s)**
 
-**Pool = Approach + Edge - Bane**
+**Pool = Approach + Boon - Bane**
 
 **Typical Starting Roll:** 3d6 (Approach 3)
 - All 1-3 = Setback (12.4%)
@@ -431,15 +431,15 @@ See Chapter 4 for Disaster Impact Moves.
 - Any 6 = Success (34.7%)
 - Two+ 6s = Triumph (7.3%, gain 1 Momentum + ignore all Complications)
 
-**Easy Tasks:** Grant 1 Edge (+1d)
+**Easy Tasks:** Grant 1 Boon (+1d)
 
 **Hard Tasks:** Impose 1 Bane (-1d)
 
 **Very Hard Tasks:** Impose 2 Banes (-2d)
 
-**Edge/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
+**Boon/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
 
-**Pool Range:** 3d6 (worst case: 5d6 - 2 Bane) to 7d6 (best case: 5d6 + 2 Edge)
+**Pool Range:** 3d6 (worst case: 5d6 - 2 Bane) to 7d6 (best case: 5d6 + 2 Boon)
 
 **Zero Dice:** If pool reduced to 0d, roll 2d6 and take lowest result
 

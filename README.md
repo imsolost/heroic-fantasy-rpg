@@ -60,7 +60,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - **Build Momentum (Trait)** — Grant 1 Momentum to self/ally when invoking Trait on Conflict+
 
 **Spend Momentum:**
-- **Act with Potency (1 Momentum)** — Gain 1 Edge (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
+- **Act with Potency (1 Momentum)** — Gain 1 Boon (+1d), ignore 1 Complication, and gain narrative permission for extraordinary feats
 - **Resist Consequence (1 Momentum)** — Roll Defy to reduce/avoid any consequence (Stress, Condition, or narrative setback)
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)
@@ -107,7 +107,7 @@ Read the chapters in order for the best learning experience:
 
 ### Core Chapters
 1. **[01-introduction.md](01-introduction.md)** — What is this game? Quick start and core concepts
-2. **[02-core-mechanics.md](02-core-mechanics.md)** — Dice rolling, Actions, Approaches, Edge/Bane, probability
+2. **[02-core-mechanics.md](02-core-mechanics.md)** — Dice rolling, Actions, Approaches, Boon/Bane, probability
 3. **[03-characters.md](03-characters.md)** — Character creation, Traits, Talents, advancement
 4. **[04-action-resolution.md](04-action-resolution.md)** — Complete Action Roll procedures, tracks, Momentum
 5. **[05-resilience.md](05-resilience.md)** — Stress & Conditions system, Burdens, recovery
@@ -144,12 +144,12 @@ Latest updates:
 - **Stress overflow → Burdens** — When Stress full, choose: take Burden (persistent Condition) or be Taken Out
 - **Replaced Conditions system** with flexible named Conditions (Poisoned, Frightened, Blinded, etc.)
   - Simple tier tracking (1-3), each Condition = 1 Bane (you can have 3+ Conditions)
-  - Pool modifier cap: ±2d (universal rule, applies after Edge/Bane cancel 1:1)
+  - Pool modifier cap: ±2d (universal rule, applies after Boon/Bane cancel 1:1)
   - Ticks down through action, clears on short rest
   - Burdens persist beyond short rest (recover via Long Rest or special narrative resolution)
 - **Tangles** system added for player-driven Momentum (inspired by Grimwild)
 - Merged Negate + Resist Consequence into unified mechanic
-- Capped Edge/Bane at ±2d (pools range from 3d6 to 7d6)
+- Capped Boon/Bane at ±2d (pools range from 3d6 to 7d6)
 - Trait system provides free Special Effects on Conflict+ when narratively relevant
 - Locked in FitD highest-die resolution method
 

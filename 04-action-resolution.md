@@ -362,14 +362,16 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 **Change Positioning** — Knock them down, shove them back, pin them, block passage, reach important location, interpose between enemy and ally, corner them
 - *Examples: Knockdown, push off ledge, pin against wall, leap to advantage, trap them in conversation*
 
-**Impair or Weaken** — Impose a disadvantage on an enemy that affects their future actions (see "Inflicting Conditions" below)
-- *Examples: Blinded, disoriented, frightened, demoralized, off-balance, exposed*
+**Impair or Weaken** — Inflict a Condition on target (GM determines mechanical effect based on fiction; see "Inflicting Conditions" below)
+- *Examples: Blinded (can't see), Frightened (1 Bane on actions or may flee), Off-Balance (1 Boon to actions against them), Disoriented (1 Bane on actions), Exposed (1 Boon to actions against them)*
 
-**Create Advantage** — Create opening for ally, knock over environmental hazard (brazier, chandelier), break enemy formation, reveal weakness, distract them, establish rapport, gain leverage
-- *Examples: Ally gains fictional positioning for next action, fire spreads to enemy's advantage, reveal critical information*
+**Create Advantage** — An ally's next action roll against the target gains 1 Boon
+- *Examples: Expose weak point (ally gains 1 Boon), knock off-balance (ally gains 1 Boon), reveal information (ally gains 1 Boon), distract them (ally gains 1 Boon), break formation (ally gains 1 Boon)*
 
 **Keep Them Busy** — Impede them (negate advantage/opportunity/resistance they had), distract them, exhaust them, occupy their attention
 - *Examples: Cancel enemy's prepared action, hold them off while allies advance, prevent reinforcements from arriving*
+
+**Note:** "Create Advantage" (Secondary Effect) grants ally 1 Boon only. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge. Edge remains premium/scarce—only from Momentum spends and Talents.
 
 ---
 
@@ -427,7 +429,7 @@ The GM may impose mechanical disadvantages when it makes sense:
 - ✓ "My strike cuts through him and into the enemy behind" — Affect Additional Target (reasonable)
 - ✓ "I knock her prone with the shield bash" — Change Positioning (reasonable)
 - ✓ "I kick sand in his eyes to Blind him" — Impair/Weaken (creates fictional positioning)
-- ✓ "I convince her and she offers to help beyond what we asked" — Create Advantage (reasonable)
+- ✓ "I expose his weak point — ally gains 1 Boon on next attack against him" — Create Advantage (reasonable)
 - ✓ "I hold them off while my allies escape" — Keep Them Busy (reasonable)
 - ⚠️ "I kill the boss in one hit" — Too much (instant defeat without Talent). **Suggest:** "You deal devastating harm and he's clearly on death's door, but still standing."
 - ⚠️ "I convince the entire city guard" — Too much (scale too large). **Suggest:** "Affect their captain and 2-3 nearby guards."
@@ -575,6 +577,7 @@ Use when:
 - Greater Effect (mark 2 ticks on Obstacle track instead of 1)
 - Secondary Effect: Take Something (disarm opponent, seize position, grab object mid-dodge)
 - Secondary Effect: Change Positioning (knock them down, shove them back)
+- Secondary Effect: Create Advantage (ally gains 1 Boon on next attack against target)
 - Build Momentum (your defensive positioning energizes you or an ally)
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
@@ -640,6 +643,7 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 - Secondary Effect: Take Something (disarm, seize position, steal momentum)
 - Secondary Effect: Inflict Condition (wound/stun for Harm, demoralized/humiliated for Will)
 - Secondary Effect: Affect Multiple Targets (cleave through enemies, demoralize entire squad)
+- Secondary Effect: Create Advantage (ally gains 1 Boon on next attack against target)
 - Build Momentum (your strike energizes you or an ally for their next move)
 
 ---
@@ -686,6 +690,7 @@ Use when:
 - Secondary Effect: Shift Attitude dramatically (Hostile → Neutral, or Neutral → Friendly beyond what track filling would grant)
 - Secondary Effect: Inflict Social Condition (charmed, sympathetic, indebted)
 - Secondary Effect: Affect Multiple Targets (convince entire group instead of one person)
+- Secondary Effect: Create Advantage (ally gains 1 Boon on next social action against target)
 - Build Momentum (your words energize you or an ally)
 
 ---

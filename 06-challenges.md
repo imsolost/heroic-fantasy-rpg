@@ -338,7 +338,7 @@ Complications:
 - **Total: 0 Complications**
 
 **PC throws flour in the air:**
-- Creating advantage (doesn't remove Elusive, but grants Boons to allies or reveals it temporarily)
+- Creating advantage (doesn't remove Elusive, but an ally's next action roll against the target gains 1 Boon)
 - **Tactical play rewarded!**
 
 ---
@@ -1019,8 +1019,8 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 ### Cross-Track Advantages
 
 **Social attacks can create advantages** for physical ones:
-- Demoralize an enemy (mark Will) → GM may grant 1 Boon on next physical Clash
-- Wound an enemy (mark Harm) → GM may grant 1 Boon on next social Clash (they're rattled)
+- Demoralize an enemy (mark Will) → grants 1 Boon on next physical Clash
+- Wound an enemy (mark Harm) → grants 1 Boon on next social Clash (they're rattled)
 - Use **Build Momentum** (special effect) to set up allies for either approach
 
 **Neither track affects the other mechanically.** A badly wounded adversary doesn't automatically have a weakened Will track — though the GM may reflect their deteriorating position in the fiction, making certain social approaches more or less effective.
@@ -1664,7 +1664,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **Expected flow:**
 1. Party scouts for weakness (Sense, Know)
-2. Party creates advantage (Defy to position, Talk to distract)
+2. Party creates advantage (Defy to position, Talk to distract) — an ally's next action roll against the target gains 1 Boon
 3. Striker uses Create an Opening + Complication Negation Talent → Faces 1 Complication
 4. Striker aims for Triumph (only reliable way to mark progress)
 

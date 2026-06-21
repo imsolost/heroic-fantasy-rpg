@@ -157,8 +157,39 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **Special Effects:**
 1. **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
-2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, Disarm, Create Advantage, GM reveals important detail that would otherwise escape notice, etc.)
+2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, Create Advantage - ally gains 1 Boon, etc.)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
+
+### Secondary Effect Categories
+
+When you choose the **Secondary Effect** option, you produce an additional consequence beyond the base outcome. Common Secondary Effect categories include:
+
+**Create Advantage:**
+- **Effect:** An ally's next action roll against the target gains 1 Boon
+- Clear mechanical benefit requiring no GM adjudication
+- Always useful (Boon helps against any target)
+- **Examples:** Expose weak point, knock off-balance, reveal information, distract them, break formation
+  - Fictional positioning varies (expose weak point vs knock off-balance vs reveal information)
+  - Mechanical benefit is always the same: ally's next action gains 1 Boon
+
+**Impair or Weaken:**
+- **Effect:** Inflict a Condition on target (Blinded, Frightened, Disoriented, Off-Balance, Exposed, Silenced, etc.)
+- GM determines mechanical effect based on fiction:
+  - 1 Bane on target's actions (Frightened, Disoriented)
+  - Grant 1 Boon to actions against them (Off-Balance, Exposed)
+  - Fictional restriction (Blinded can't see, Silenced can't speak)
+
+**Other Secondary Effects:**
+- **Take Something:** Disarm weapon, steal item, grab hostage
+- **Affect Multiple Targets:** Your action affects additional targets nearby
+- **GM Reveals Detail:** GM reveals important detail that would otherwise escape notice
+- **Environmental Effect:** Knock over hazard, break door, collapse scaffold
+
+**Why Create Advantage grants Boon (not Edge):**
+- Edge should be premium/scarce (Momentum, Talents only)
+- Boon is always useful (even against targets with 0 Complications)
+- Preserves Momentum value (Create an Opening grants BOTH Boon and Edge)
+- Simpler (no choice paralysis)
 
 **If Setback:** Cannot invoke Trait (you failed)
 
@@ -179,7 +210,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **"Veteran of the Iron Wars" + Clash in melee:**
 - Roll Conflict or higher → Choose Special Effect
 - Greater Effect: Mark 2 ticks on Harm track (instead of 1)
-- Secondary Effect: Disarm enemy or knock them prone
+- Secondary Effect: Create Advantage (expose weak point → ally's next action gains 1 Boon)
 - Build Momentum: Grant 1 Momentum to ally
 
 **"Silver Tongue" + Talk to influence:**

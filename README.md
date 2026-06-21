@@ -49,7 +49,7 @@ Roll Xd6, check highest die (and look for double 6s):
 
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
 - **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
-- **Secondary Effect** — Take Something, Inflict Condition, Affect Multiple Targets, etc.
+- **Secondary Effect** — Take Something, Inflict Condition, Affect Multiple Targets, Create Advantage (ally gains 1 Boon on next action), etc.
 - **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 ### Momentum (Metacurrency)

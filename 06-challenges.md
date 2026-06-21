@@ -221,6 +221,20 @@ All Complications work the same **mechanically** (reduce outcome tier by 1), but
 
 ---
 
+### Example: The Vault Door (When NOT Everything Applies)
+
+**A reinforced vault door in a wizard's tower has three Complication tags: Complex + Warded + Resilient.**
+
+**Important:** Only the relevant Complications apply to your approach.
+
+- **Smash it down (Clash using Daring):** Only **Resilient** applies (tough construction, reinforced steel). Roll against 1 Complication.
+- **Pick the lock (Defy using Cunning):** Only **Complex** applies (intricate mechanism, multiple tumblers). Roll against 1 Complication.
+- **Dispel the ward (Know using Cunning or Spirit):** Only **Warded** applies (magical protection). Roll against 1 Complication.
+
+**Design principle:** Not every Challenge needs Complications. **A Complication represents an exceptional quality that changes how the challenge must be approached.** Run-of-the-mill bandits, ordinary doors, simple persuasion attempts — none of these need tags. Save Complications for challenges that genuinely push heroes to adapt their approach.
+
+---
+
 ### Checking Complications
 
 **When you act against a Challenge with Complications:**

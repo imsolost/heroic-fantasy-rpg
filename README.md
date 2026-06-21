@@ -17,10 +17,12 @@ A streamlined, fiction-first TTRPG system inspired by Powered by the Apocalypse 
 Each Action has a **Primary Effect** (Actions are player-facing verbs like "Defy"; Effects are mechanical outcomes like "Overcome"—see Chapter 1):
 
 1. **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks (dodge attacks, leap chasms, pick locks)
-2. **Clash → Harm** — Mark Harm or Will track (depending on approach) or outright defeat weaker foes
-3. **Talk → Influence** — Mark Will track or outright convince lesser creatures (persuade, deceive, influence)
+2. **Clash → Harm** — Force compliance through violence, break resistance (mark Harm or Will track). *Clash breaks resistance.*
+3. **Talk → Influence** — Persuade, deceive, negotiate to change minds (mark Will track). *Talk changes minds.*
 4. **Sense → Assess** — Ask 2 questions (Conflict or Success)
 5. **Know → Recall** — GM tells you one specific, actionable thing + you may ask one clarifying question
+
+**Clash vs Talk:** Threatening violence to force compliance = Clash. Negotiating or persuading them to comply = Talk.
 
 ### Five Approaches (How You Act)
 

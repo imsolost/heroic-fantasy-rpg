@@ -58,16 +58,24 @@ Act despite an imminent threat, danger, or obstacle.
 ---
 
 ### 2. Clash — Harm
-Try to hurt someone, physically or mentally.
+Try to hurt someone, physically or mentally. **Clash breaks resistance through force.**
 
 **Primary Effect:** Mark 1 tick on Harm track OR defeat the target entirely (when no track is present because the target is minor or vulnerable)
 
-**Examples:** Sword strikes, thrown daggers, vicious insults, intimidating roars, brutal tackles
+**Examples:** Sword strikes, thrown daggers, vicious insults, intimidating roars, brutal tackles, forcing compliance through violence or domination
+
+**Clash vs Talk:** If you're threatening violence to make them comply, that's Clash (breaking their will through force). If you're negotiating or persuading them to comply, that's Talk (changing their mind).
 
 ---
 
 ### 3. Talk — Influence
-Convince, threaten, or manipulate someone into doing what you want.
+Convince, persuade, or deceive someone. **Talk changes minds through social influence.**
+
+**Primary Effect:** Mark 1 tick on Will track OR convince the target outright (when no track is present because the target is minor or vulnerable)
+
+**Examples:** Persuasion, deception, seduction, negotiation, inspiration, building trust, appealing to values
+
+**Talk vs Clash:** If they choose to comply (you convinced them), that's Talk. If you force compliance (threatening harm, domination), that's Clash.
 
 **Primary Effect:** Mark 1 tick on Will track OR convince the target entirely (when no track is present because the target is minor or vulnerable)
 

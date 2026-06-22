@@ -2,6 +2,8 @@
 
 **Inspired by:** Dungeon World 2, PbtA principles, and narrative-first design
 
+**Quick Reference:** For condensed tables and mid-session quick-lookup rules, see [gm-cheat-sheet.md](gm-cheat-sheet.md)
+
 ---
 
 ## GM Agendas

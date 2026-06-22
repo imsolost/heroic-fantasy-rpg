@@ -1,6 +1,6 @@
 # GM Cheat Sheet
 
-Quick reference for running the game. For complete rules, see the full chapters.
+Quick reference for running the game. For complete GM guidance, principles, moves, and examples, see **[Chapter 7: GM Guide](07-gm-guide.md)**.
 
 ---
 
@@ -316,4 +316,11 @@ When Complications and Expertise are involved:
 
 ---
 
-For complete rules, see the full chapters. This cheat sheet is a quick reference only.
+## Additional Resources
+
+**For complete guidance:**
+- **[Chapter 7: GM Guide](07-gm-guide.md)** — GM principles, moves, spotlight management, and session prep
+- **[Chapter 4: Action Resolution](04-action-resolution.md)** — Complete Action Roll procedures and resolution algorithm
+- **[Chapter 6: Challenges](06-challenges.md)** — Enemy design, Complications, Challenge Moves, and balancing encounters
+
+This cheat sheet is a quick reference only.

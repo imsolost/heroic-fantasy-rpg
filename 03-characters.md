@@ -498,7 +498,7 @@ You may retrain **one secondary Talent** by replacing it with a new one when you
 
 Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (Rank 4).
 
-**Note on Rank vs Tier:** Your character's Rank (1-4) represents narrative genre and scale, not mechanical power. You can face Tier 4 threats at Rank 1 (tough boss fights) or Tier 1 threats at Rank 4 (minions). Tier measures how mechanically difficult a Challenge is, while Rank measures what narrative scale you operate at. See Chapter 6: Challenges for the full distinction between Rank (narrative permission) and Tier (mechanical difficulty).
+**Note on Rank vs Tier:** Your character's Rank (1-4) represents narrative genre and scale, not mechanical power. You might encounter a Tier 3 Challenge at Rank 1 (epic boss fight requiring every advantage) or Tier 1 Challenges at Rank 4 (trivial obstacles easily overcome). Tier measures how mechanically difficult a Challenge is, while Rank measures what narrative scale you operate at. See Chapter 6: Challenges for the full distinction between Rank (narrative permission) and Tier (mechanical difficulty).
 
 ---
 
@@ -672,8 +672,8 @@ The following examples illustrate the **scope and scale** of what's possible at 
 
 **Rank 4:**
 - **Topple fortified watchtowers**, **shatter keep foundations**, **split cliff faces**
-- **Incinerate battlefields with magical fury**, **level fortresses in moments**
-- Fight entire companies (100+ soldiers) and win
+- **Shatter entire battle lines** (whether through magical fury or martial prowess), **level fortresses in moments**
+- **Hold entire armies at narrow passes through lone prowess**, fight entire companies (100+ soldiers) and win
 
 ---
 

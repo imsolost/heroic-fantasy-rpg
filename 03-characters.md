@@ -567,13 +567,14 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 **Typical Challenges:**
 - **Fighting dozens of well-trained soldiers and plausibly winning**, defeating dangerous beasts (dire wolves, young wyverns, owlbears)
+- **Leading mercenary companies or platoons into battle**, **intimidating small groups into retreat**, **breaking morale of professional soldiers**
 - **Leaping impossible gaps** (20-30 feet), **scaling castle walls in minutes**, swimming storm-tossed channels, riding dangerous animals (bears, young drakes)
-- **Smashing through wooden barricades with shoulder charges**, **breaking through reinforced doors and cracking light stonework with repeated strikes**
+- **Breaking through reinforced doors**, **forcing open barred gates**, **snapping chains with sustained effort**
 - **Lifting or carrying loads that would require multiple people** (flip carts, hold up collapsing beams, carry injured allies while fighting)
 - **Surviving falls that would cripple ordinary people** (3-4 stories, with injury), going without sleep for days, **withstanding tremendous pain without breaking**
-- Sensing master assassins stalking you, tracking through rain or snow, **detecting subtle magic or invisible creatures**, predicting weather days ahead
+- Sensing trained assassins stalking you, tracking through rain or snow, **detecting subtle magic or invisible creatures**, predicting weather days ahead
 - **Deciphering unfamiliar languages while reading them**, reverse-engineering unfamiliar devices after brief examination, **predicting enemy tactics from minimal intelligence**
-- Swaying small crowds into action, convincing minor nobles, **assuming high-profile identities convincingly**, leading mercenary companies
+- Swaying small crowds into action, convincing minor nobles, **assuming high-profile identities convincingly**
 - **Inventing useful gadgets from available materials**, forging masterwork weapons in days, creating potent alchemical formulas
 
 **Key Note:** These heroes are legendary within mortal bounds. A Rank 2 swordmaster can defeat a dozen trained soldiers through superior skill, timing, and tactics—not by throwing them across the room with one blow.
@@ -662,28 +663,37 @@ The following examples illustrate the **scope and scale** of what's possible at 
 
 **Note on Sense vs Know:** *Sense* is about perceiving what's there (spotting the clues, detecting the magic, noticing the details). *Know* is about understanding what it means (deducing the conclusion, analyzing the pattern, reconstructing the story). A Rank 4 hero using *Sense* perceives two hairs and blood instantly—the godlike part of *Know* is the deductive leap from those hairs to complete historical reconstruction.
 
-#### Clash (Attack, Harm, Destroy)
+#### Clash (Attack, Harm, Destroy, Intimidate, Command)
 
 **Rank 1:**
 - Fight a small band of bandits (3-5) or an average monster
-- Break down a wooden door with effort
 - Defeat 2-3 untrained opponents in melee
+- Lead a handful of people into battle
+- Intimidate a single person, force surrender from a fleeing thief
+- Smash through a wooden door with aggressive strikes
 
 **Rank 2:**
 - **Fight dozens of well-trained soldiers and plausibly win**, defeat dangerous beasts (dire wolf, young wyvern, owlbear)
-- **Smash through wooden barricades with shoulder charges**, **break through reinforced doors**
-- **Crack light stonework with repeated strikes**, snap chains with sustained effort
-- Chop through thick wooden pillars or crack structural masonry with repeated blows
+- **Lead mercenary companies or platoons into battle effectively**
+- **Intimidate small groups, force outnumbered enemies to retreat**
+- **Make hardened killers hesitate, break morale of professional soldiers**
+- Smash through barricades during charges
 
 **Rank 3:**
+- **Fight small platoons (20-30 soldiers) solo**
+- **Lead armies into battle with legendary effectiveness**
+- **Intimidate entire units, force large groups to surrender through presence alone**
+- **Break the will of legendary opponents**
 - **Snap heavy iron chains with single blows**, **throw back ten people with one strike**
 - **Smash boulders in half**, **blow through stone walls**
-- Fight small platoons (20-30 soldiers) solo
 
 **Rank 4:**
+- **Fight entire companies (100+ soldiers) and win**
+- **Command vast armies with legendary mastery**
+- **Your presence alone causes armies to falter, force mass surrenders**
+- **Break the will of demigods and cosmic entities**
 - **Topple fortified watchtowers**, **shatter keep foundations**, **split cliff faces**
 - **Shatter entire battle lines** (whether through magical fury or martial prowess), **level fortresses in moments**
-- **Hold entire armies at narrow passes through lone prowess**, fight entire companies (100+ soldiers) and win
 
 ---
 
@@ -693,16 +703,17 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Climb over manor walls (15-20 feet), swim across rivers
 - Survive in wilderness for days
 - Block arrows with a shield, endure minor torture
+- Break down a wooden door with effort
 
 **Rank 2:**
 - **Leap impossible gaps** (20-30 feet), climb castle walls (40-50 feet) in minutes, **swim storm-tossed channels**
 - **Run across tightropes or narrow beams at full speed**, perform acrobatic combat maneuvers (backflip over attacks, wall-runs)
 - **Lift or carry loads requiring multiple people** (flip carts, hold up collapsing beams, carry injured allies while running)
+- **Break through reinforced doors**, **force open barred gates**, **snap chains with sustained effort**
 - **Survive falls that would cripple ordinary people** (3-4 stories, with injury)
 - **Go without sleep or food for days**, **survive poisonous substances**
 - **Withstand tremendous pain without breaking**, push through injuries that would incapacitate others
 - **Catch arrows mid-flight**, perform impossible feats of precision (juggle while sprinting, land perfectly balanced after acrobatic leaps)
-- **Smash through wooden doors with shoulder charges**, break through barricades
 
 **Rank 3:**
 - **Carry loaded wagons overhead**, **hold castle gates open**, run up massive cliffsides
@@ -754,7 +765,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Notice someone following you in a crowd
 
 **Rank 2:**
-- **Sense master assassins stalking you in crowded cities**, track through difficult terrain (snow, rain, running water)
+- **Sense trained assassins stalking you in crowded cities**, track through difficult terrain (snow, rain, running water)
 - **Detect subtle magic or invisible creatures**, **predict weather days ahead**
 - Read complex social dynamics at a glance, **notice minute details others would miss** (clothing tells, micro-evidence, trace scents)
 - Spot concealed weapons, sense ambushes before they trigger

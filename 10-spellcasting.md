@@ -333,7 +333,7 @@ Potent spells go beyond baseline magical effects — they affect larger areas, m
 **When you cast a Potent Spell (costs 1 Stress), choose ONE enhancement:**
 
 - **Greater Impact** — Mark 1 additional tick, make construct nearly indestructible (Resilient tag), or significantly amplify the spell's primary impact
-- **Affect Multiple Targets** — Target a samll group individuals or affect a larger area
+- **Affect Multiple Targets** — Target a small group of individuals or affect a larger area
 - **Increased Duration** — The spell lasts the entire scene instead of a moment (does not apply to instantaneous effects like damage or healing)
 - **Additional Effect** — Add a secondary consequence (inflict Condition, create advantage, impose positioning change, etc.)
 
@@ -415,7 +415,7 @@ Rituals are not Action Rolls — they are structured scenes requiring preparatio
 
 ## Magic and Rank
 
-**Magic follows the same narrative scale as all other actions.** Your Rank (see Chapter: Advancement) determines the scale of what you can attempt, magical or otherwise.
+**Magic follows the same narrative scale as all other actions.** Your Rank (see the dedicated Advancement chapter for character progression details) determines the scale of what you can attempt, magical or otherwise.
 
 A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatural power. Being a spellcaster doesn't bypass Rank boundaries—it just means you accomplish feats through magic instead of martial prowess or social influence.
 
@@ -576,13 +576,15 @@ Spirit sphere spells can heal injuries and restore vitality.
 - Clear 3 Stress OR remove a Condition entirely
 - Examples: Heal severe wounds, cure disease, remove poison, restore vitality
 
-**On Conflict:** The healing succeeds, but choose a narrative consequence (not additional Stress):
+**On Conflict:** The healing succeeds, but you must choose a consequence using the standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited effect).
+
+**Note:** Narrative consequences often make more sense for healing than the caster marking Stress. Consider options like:
 - The healing is unstable (target gains Exhausted 1 Condition)
 - It leaves a glowing magical mark that attracts attention
-- The caster loses position (cannot cast next turn without narrative justification)
 - The healing draws unwanted spiritual attention
+- The caster loses position (cannot cast next turn without narrative justification)
 
-Simple, fixed numbers. No ranges, no choices, no special cases. Conflict outcome uses narrative consequences, not extra Stress tax.
+These narrative side effects are more interesting than simply taxing the caster with Stress.
 
 ---
 
@@ -629,45 +631,11 @@ When you place a debuff on an enemy, allies gain 1 Boon on actions against that 
 
 All mechanically identical (1 Boon for X actions), but fiction explains why.
 
-**GM Tracking:** See GM Guide for physical marker tracking system.
+**GM Tracking:** See Chapter 7: GM Guide for physical marker tracking system.
 
 **Conflict outcome:** Buff/debuff succeeds but is weaker (lasts shorter, grants less benefit) or costs you (mark 1 Stress).
 
----
-
-### Duration
-
-**How long do spell effects last?**
-
-**Default spell durations:**
-- **Instantaneous:** Damage, healing, teleportation (happens once, effect is immediate and done)
-- **Moment (1-2 actions):** Buffs, barriers, constructs, ongoing tactical effects
-- **Scene:** Only via Potent Spell + Increased Duration enhancement
-- **Hours or longer:** Requires specific narrative justification and GM permission (typically Rank 2+)
-- **Permanent:** Only via Rituals
-
-**Examples:**
-
-**Normal Spell (Moment duration):**
-- Fire barrier blocks doorway for 1-2 actions
-- Haste buff lasts 1-2 actions
-- Magical light illuminates area for 1-2 actions
-- Summoned creature persists for 1-2 actions
-
-**Potent Spell + Increased Duration (Scene duration):**
-- Fire barrier blocks doorway entire scene
-- Haste buff lasts entire combat/scene
-- Magical light illuminates area for entire scene
-- Summoned creature persists entire scene
-
-**Ritual (Permanent):**
-- Consecrated ground remains sacred indefinitely
-- Enchanted sword retains its magic permanently
-- Curse on bloodline lasts generations
-
-**GM Discretion:** When duration matters, set it based on magnitude and fiction. An illusion might persist until disrupted (someone touches it, caster loses concentration, etc.).
-
-**Concentration:** Some effects require your focus. If you take damage (mark Stress) or are distracted (Condition applied), the GM may rule the effect ends or requires a Defy roll to maintain.
+**Duration:** See "Default Spell Durations" section above for how long buffs and debuffs last.
 
 ---
 
@@ -686,21 +654,7 @@ Pattern sphere can reveal magical presence and details.
 
 Use core Sense mechanics. No special procedures.
 
----
-
-### Resisting Magic
-
-**Everyone can resist magical effects using Defy:**
-- **Dodge area spell:** Defy using Grace (evade the blast)
-- **Resist mental control:** Defy using Spirit (force of will)
-- **Endure magical harm:** Defy using Daring (tough it out)
-
-When an enemy casts a spell at you, the GM triggers a Defy roll:
-- **Success:** You avoid/resist the spell cleanly
-- **Conflict:** You partially resist but suffer soft consequence (mark 1 Stress, limited effect)
-- **Setback:** Spell affects you fully + hard Impact Move
-
-**Resisting is reactive defense.** You cannot prevent the spell from being cast—you're avoiding or enduring its effects.
+**For magical defense, see "Magical Defense" section above.**
 
 ---
 
@@ -860,7 +814,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - **Divine/Detect:** Sense (ask questions)
 - **Analyze/Identify:** Know (learn information)
 
-**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 3 Stress OR remove Condition entirely (Potent Spell, costs 1 Stress). On Conflict, healing succeeds but with narrative consequence, not additional Stress.
+**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 3 Stress OR remove Condition entirely (Potent Spell, costs 1 Stress). On Conflict, use standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited), though narrative consequences often make more sense for healing.
 
 **Detect Magic:** Cantrip for presence (yes/no), Sense action for details (ask questions)
 
@@ -908,5 +862,5 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - Cantrips are unlimited, automatic, and require no roll
 - Potent Spells always cost 1 Stress + choose ONE enhancement (Greater Effect, Affect Multiple Targets, Increased Duration, or Additional Effect)
 - Default spell durations: Instantaneous (damage, healing) / Moment (1-2 actions: buffs, barriers) / Scene (Potent + Duration) / Permanent (Ritual only)
-- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 3 Stress OR removes Condition entirely (Potent Spell, costs 1 Stress). On Conflict, healing succeeds but with narrative consequence, not additional Stress.
+- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 3 Stress OR removes Condition entirely (Potent Spell, costs 1 Stress). On Conflict, use standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited), though narrative consequences often make more sense for healing.
 - Detecting magic presence is a cantrip (yes/no); getting details uses Sense action (ask questions)

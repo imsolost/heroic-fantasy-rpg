@@ -108,7 +108,7 @@ When Complications and Expertise are involved:
 - **Warded** — Magical attacks reduced by 1 tier
 - **Fortified Position** — Attacks against this target reduced by 1 tier
 - **Suspicious** — Talk actions to deceive reduced by 1 tier
-- **Alert** — Stealth attempts reduced by 1 tier
+- **Vigilant** — Stealth and surprise attempts reduced by 1 tier
 
 ---
 

@@ -341,7 +341,7 @@ The following examples illustrate the **scope and scale** of what's possible at 
 
 ### Talk (Influence, Persuade, Deceive, Command)
 
-**Note on Social Influence:** High Rank grants narrative permission to attempt extraordinary persuasion—it is NOT mind control. A Rank 4 hero convincing a king to abdicate requires the right circumstances (king is already doubting, kingdom is fracturing, hero presents overwhelming evidence). Complications (Resolute, Alert) and high Will tracks still apply. Social feats at high Ranks represent exceptional persuasion in exceptional moments, not automatic success.
+**Note on Social Influence:** High Rank grants narrative permission to attempt extraordinary persuasion—it is NOT mind control. A Rank 4 hero convincing a king to abdicate requires the right circumstances (king is already doubting, kingdom is fracturing, hero presents overwhelming evidence). Complications (Resolute, Vigilant) and high Will tracks still apply. Social feats at high Ranks represent exceptional persuasion in exceptional moments, not automatic success.
 
 **Rank 1:**
 - Sway single people into aiding you, get merchants to offer better prices

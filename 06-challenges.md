@@ -410,7 +410,10 @@ These typically last for the scene or until the environment changes.
 "Don't engage head-on without preparation. You need Triumph, Momentum for Create an Opening, teamwork (Build Momentum), or a clever solution (flank, use environment, exploit weakness)."
 
 **Example:**
-> **Ancient Dragon (3 Complications: Armored Scales, Fearsome Presence, Aerial Superiority)**
+> **Ancient Dragon (3 Complications: Resilient, Legendary, Elusive)**
+> - **Resilient** - impenetrable dragon scales (applies to direct attacks)
+> - **Legendary** - overwhelming mythic presence (always applies)
+> - **Elusive** - aerial superiority, hard to reach (applies when targeting/pursuing)
 > - This signals: "You can't just walk up and hit it. You need a plan."
 > - Players respond: Scout with Sense (find weak point), Build Momentum (teamwork), Create an Opening (strip 1 Complication), aim for Triumph (bypasses all 3)
 > - The fight becomes tactical problem-solving, not "roll and hope"
@@ -1244,7 +1247,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ## Boss Design Patterns
 
-Boss encounters should require **team coordination** and **multiple rounds**.
+Boss encounters should require **team coordination** and **multiple actions**.
 
 **Elements of Boss Design:**
 
@@ -1390,7 +1393,7 @@ Boss encounters should require **team coordination** and **multiple rounds**.
 - **Resilient** - Hard to damage/break
 - **Warded** - Resists magical effects (non-damaging)
 - **Elusive** - Hard to hit/catch
-- **Stealthy** - Hard to perceive
+- **Elusive** - Hard to perceive
 - **Vigilant** - Perceives others well
 - **Complex** - Hard to understand/solve
 - **Resolute** - Hard to influence
@@ -1466,7 +1469,7 @@ How significant is this threat?
 - Resilient - steel scales, tough hide, armor
 - Warded - arcane protections, magic immunity, counterspells
 - Elusive - lightning reflexes, small size, supernatural speed
-- Stealthy - invisibility, silence, camouflage
+- Elusive - invisibility, silence, camouflage
 - Vigilant - keen senses, multiple eyes, tremorsense
 - Complex - intricate mechanisms, layered defenses
 - Resolute - iron will, discipline, fanatic faith
@@ -1488,7 +1491,7 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 
 **Offensive Moves:**
 - **Strike:** Deal harm (mark Stress based on Consequence tier)
-- **Devastating Strike [□□]:** Increase Consequence tier by 1 for this attack (Minor → Major, Major → Severe). Limited uses per encounter.
+- **Devastating Strike [□□]:** Mark 3 Stress (2 uses)
 - **Area Attack [□]:** Target multiple PCs simultaneously (e.g., "All in Near range mark 1 Stress + Burned 1")
 - **Grab/Grapple:** Inflict Condition (Grappled, Restrained)
 - **Elemental Attack [□□]:** Fire breath, lightning bolt, acid spray (inflict Stress + Condition)
@@ -1626,7 +1629,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 **Tier 2 | Kobold Minions** (4 ticks, group track representing waves)
 - **Complications:** None (Tier 1 group scaled to Tier 2)
 - **Challenge Move:** Die for Master — Swarm one PC (1 additional Complication on their actions this round)
-- Reinforcements arrive every 2 rounds
+- Reinforcements arrive every 2 actions
 
 **Strategy:**
 - PCs can focus Body (slow grind through Complications)

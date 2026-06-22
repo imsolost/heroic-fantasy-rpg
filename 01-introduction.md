@@ -108,7 +108,7 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 
 ### Resilience
 
-**Stress Track:** 5 boxes — absorbs harm from all sources, clears on short rest
+**Stress Track:** 5 boxes — absorbs harm from all sources, clears on short rest (1 hour, safe location)
 
 **Conditions:** Named temporary impairments (Poisoned, Frightened, Wounded, etc.)
 - Each Condition = 1 Bane (you can have multiple Conditions)
@@ -182,6 +182,10 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 **Chapter 7: GM Guide** — Principles, moves, difficulty, pacing
 
 **Chapter 8: Combat** — Combat flow, enemy design, tactical considerations
+
+**Chapter 9: Callings**
+
+**Chapter 10: Spellcasting**
 
 ---
 

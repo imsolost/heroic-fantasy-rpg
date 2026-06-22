@@ -114,6 +114,8 @@ Read the chapters in order for the best learning experience:
 6. **[06-challenges.md](06-challenges.md)** — Creating enemies, Complications, Challenge design
 7. **[07-gm-guide.md](07-gm-guide.md)** — GM principles, moves, difficulty, pacing
 8. **[08-combat.md](08-combat.md)** — Combat flow, enemy design, tactical considerations
+9. **[09-callings.md](09-callings.md)** — Callings, Talents, archetypes
+10. **[10-spellcasting.md](10-spellcasting.md)** — Magic system, Touchstones, Rituals
 
 ### Appendices (Optional Reading)
 - **[appendix-a-design-notes.md](appendix-a-design-notes.md)** — Design rationale and decisions

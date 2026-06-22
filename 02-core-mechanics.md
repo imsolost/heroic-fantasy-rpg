@@ -77,10 +77,6 @@ Convince, persuade, or deceive someone. **Talk changes minds through social infl
 
 **Talk vs Clash:** If they choose to comply (you convinced them), that's Talk. If you force compliance (threatening harm, domination), that's Clash.
 
-**Primary Effect:** Mark 1 tick on Will track OR convince the target entirely (when no track is present because the target is minor or vulnerable)
-
-**Examples:** Persuade guards to let you pass, deceive merchants about value, intimidate thugs into fleeing, seduce nobles for information
-
 ---
 
 ### 4. Sense — Assess

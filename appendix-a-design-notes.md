@@ -166,11 +166,11 @@ This creates **escalating risk** across multiple encounters while maintaining **
 Each time you make an action roll where the Condition applies, reduce tier by 1. When tier reaches 0, it clears.
 
 **Alternative: Time-based clearing**
-- Tier 1 → clears after 1 round
-- Tier 2 → clears after 2 rounds
-- Tier 3 → clears after 3 rounds
+- Tier 1 → clears after 1 action
+- Tier 2 → clears after 2 actions
+- Tier 3 → clears after 3 actions
 - **Problem:** Passive waiting feels un-heroic — "I hide and wait for it to wear off"
-- **Problem:** Tracking rounds adds overhead
+- **Problem:** Tracking actions adds overhead
 
 **Alternative: Flat duration regardless of tier**
 - All Conditions clear after 3 actions
@@ -181,7 +181,7 @@ Each time you make an action roll where the Condition applies, reduce tier by 1.
 2. "I push through again (Tier 2 → Tier 1)"
 3. "One more action and I'm clear (Tier 1 → clears)"
 
-This models **action as recovery** — heroes fight through adversity rather than passively waiting for it to pass. Very different feel from "wait 3 rounds for it to wear off."
+This models **action as recovery** — heroes fight through adversity rather than passively waiting for it to pass. Very different feel from "wait 3 actions for it to wear off."
 
 Inspired by **Grimwild's Marks** system.
 

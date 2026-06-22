@@ -30,32 +30,13 @@ Specific techniques to achieve your agendas:
 
 ### **Telegraph danger, then follow through**
 
-GM moves fall into two categories based on their fictional impact:
+Never deliver consequences without warning (unless surprise is narratively justified). Use the **Hint → Reveal → Strike** escalation pattern (see *Vigilance* section below) to telegraph danger before it lands.
 
-**Soft Moves** (Setup, Warning, Telegraph):
-- Show signs of danger without immediate mechanical consequence
-- Give players opportunity to react before harm occurs
-- Examples: "The dragon inhales deeply, flames flickering in its throat", "The bridge creaks ominously under your weight", "The guard's hand moves to his sword hilt"
-- **When to use:** After Conflict results, when building tension, or anytime you want to create pressure without forcing consequences
-- Soft moves are your "setup" — they promise danger is coming and give players a chance to act
+**Golden Rule:** Always give players a chance to respond to danger before delivering hard consequences. Telegraphed threat → player response → consequence if they fail or ignore the warning. This eliminates "gotcha" moments while maintaining tension.
 
-**Hard Moves** (Consequence, Follow-Through):
-- Deliver immediate mechanical or narrative consequences
-- Follow through on threatened danger
-- Examples: "Flames engulf you, mark 3 Stress", "The bridge collapses, you're falling", "The guard draws and attacks, roll Defy!"
-- **When to use:** After Setback results, when a soft move was ignored or failed, or when the fiction demands immediate consequence
-- Hard moves are your "payoff" — danger that was telegraphed now arrives
+**Implementation:** Use **Suspense Moves** (setup/warning) before **Impact Moves** (consequence). See *GM Moves* section below for complete move taxonomy and when to use each tier.
 
-**Golden Rule:** Never go straight to hard moves without telegraphing first (unless surprise is narratively justified). Soft move → player response → hard move if they fail or ignore the warning. This eliminates "gotcha" moments while maintaining tension.
-
-**Mapping to Consequence Framework:** This chapter uses Grimwild-inspired "Soft Move / Hard Move" vocabulary. These map directly to the Consequence Framework in Chapter 4:
-- **Soft Moves** = narrative framing for **Minor Consequences** (Conflict outcomes, mark 1 Stress or tier 1 Condition)
-- **Hard Moves** = narrative framing for **Major/Severe Consequences** (Setback/Disaster outcomes, mark 2 Stress, tier 2-3 Conditions, or Burdens)
-- **Story Moves** (below) = narrative prompts with no mechanical consequence at all
-
-The words differ but the mechanics are identical — use whichever vocabulary you prefer at your table.
-
-**Exception:** A player's dice roll bypasses the telegraph pipeline. When a PC rolls a Setback, the fiction assumes the active risk of their action constitutes the telegraph — deliver an immediate hard move. The roll itself IS the warning that failed.
+**Exception:** A player's dice roll bypasses the telegraph pipeline. When a PC rolls Setback, the active risk of their action constitutes the telegraph — deliver an immediate Impact Move. The roll itself IS the warning that failed.
 
 ### **Make every roll matter**
 - Only call for rolls when outcome uncertain and both success/failure interesting
@@ -115,19 +96,11 @@ Examples:
 
 **When:** PC Conflict result, or when building tension. These are *setups* for Impact Moves.
 
-**Soft Impact Moves:** When a PC rolls Conflict in combat or high-stakes situations, you can combine a Suspense Move with mechanical consequence. A **soft Impact Move** includes both narrative setup (Suspense) AND immediate friction (mark 1 Stress, apply tier 1 Condition, lose position). Examples:
-- "You deflect his blade but he presses you into the corner — mark 1 Stress from the exertion" (Deal damage + Put in a spot)
-- "Your arrow grazes his armor. He roars in fury and charges straight at you" (No progress + Show approaching threat)
-- "You dodge the trap's blade but it catches your arm — Bleeding 1" (Inflict Condition + Entangle)
+**Conflict Results in Dangerous Situations:** When a PC rolls Conflict in combat or high-stakes situations, combine a Suspense Move with minor mechanical consequence (mark 1 Stress, apply tier 1 Condition, or lose position). Examples:
+- "You deflect his blade but he presses you into the corner — mark 1 Stress from the exertion"
+- "You dodge the trap's blade but it catches your arm — Bleeding 1"
 
-The key: **Soft Impact Moves deliver consequence but leave room for response.** Hard Impact Moves (Setback results) are more severe and may leave PCs reeling or unable to act immediately.
-
-**Impact Move Severity Scales to Fiction:** The severity of an Impact Move should match the fictional danger level, not just the dice result. Examples:
-- **Sense in a library (Conflict):** "The librarian notices you snooping — he approaches suspiciously" (narrative complication, no Stress)
-- **Sense during combat (Conflict):** "You spot the weakness, but he capitalizes on your distraction — mark 1 Stress as his blade grazes you" (mechanical consequence)
-- **Know while fleeing (Conflict):** "You recall the exit route, but stumble in your distraction — mark 1 Stress from the fall" (mechanical + positional)
-
-Safe environments = narrative complications. Active danger = mechanical consequences.
+**Severity Scales to Fiction:** Match consequence severity to the fictional danger level, not just the dice result. Safe environments = narrative complications. Active danger = mechanical consequences.
 
 ---
 
@@ -186,16 +159,14 @@ Examples:
 ### **Strike** (Threat Acts)
 - Danger follows through
 - Triggered by player inaction or failure
-- This is when Impact Move happens
+- This is when Impact Move happens (see *GM Moves* section)
 
 Examples:
 - "The trap triggers. Defy with Grace or mark 2 Stress."
 - "The beast lunges from the shadows. What do you do?"
 - "The merchant draws and stabs. Roll Defy!"
 
-**Golden Rule:** Never skip Hint or Reveal unless surprise is narratively justified (ambush, invisible enemy, etc.). Escalate through stages based on player attention and actions.
-
-This eliminates "gotcha" moments while maintaining tension.
+**When to skip stages:** Only skip Hint or Reveal when surprise is narratively justified (ambush, invisible enemy, etc.). Otherwise, escalate through stages based on player attention and actions.
 
 ---
 
@@ -390,7 +361,7 @@ When players place debuff spells or Conditions on enemies, allies gain advantage
 
 Since enemies don't roll (only players do), ALL debuffs on enemies work identically:
 - Allies gain 1 Boon on actions against that enemy
-- Duration measured in ally actions (not enemy actions or rounds)
+- Duration measured in ally actions (not enemy actions)
 - Narrative flavor explains WHY (blinded, marked, slowed, cursed, etc.)
 - Mechanically identical
 
@@ -656,14 +627,6 @@ Segmented progress indicators representing ongoing situations, threats, and effo
 - Mark segments when fiction demands it (typically on Conflict/Failure results, or when time passes)
 - Clock size = how long you want the situation to last (4 = short, 6 = medium, 8 = long)
 - Multiple clocks can run simultaneously (ritual clock vs. escape clock creates tension)
-
-**Diminishing Pools (Alternative):**
-
-Roll a pool of dice; drop dice on low results. When the pool empties, something changes.
-
-Example: Boss enemy has Morale 5d6. When PCs deal significant blow, roll the pool. For each 1-3, remove a die. At 0d, enemy flees or surrenders.
-
-**When to use:** Dramatic unpredictability matters more than a steady march. Creates sudden tipping points.
 
 ---
 

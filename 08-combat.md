@@ -51,7 +51,7 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 ### Positioning Benefits
 
-The GM grants **Boon** or imposes **Complications** based on fictional positioning:
+The GM grants **Boon** or imposes **Banes** based on fictional positioning:
 
 **Advantageous Position (Boon):**
 - High ground
@@ -59,7 +59,7 @@ The GM grants **Boon** or imposes **Complications** based on fictional positioni
 - Flanking an enemy with ally
 - Superior terrain (stable footing vs unstable enemy ground)
 
-**Disadvantageous Position (Complication):**
+**Disadvantageous Position (Bane):**
 - Surrounded by enemies
 - Pinned down or cornered
 - Poor footing (slippery, narrow ledge, debris)
@@ -273,24 +273,6 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 - **Effect:** When defeated, Epic Foe triggers final action (curse, explosion, summon reinforcements, prophetic warning).
 - **Example:** Lich whispers curse → Finn gains Cursed 2 (Burden), Dragon's dying breath ignites forest
 
-#### Morale Break (Bridging Physical Damage to Will Track)
-
-Use this to translate overwhelming physical dominance into psychological collapse. Instead of tracking a separate Morale pool, mark the enemy's **Will Track** when they suffer devastating blows.
-
-**Trigger:** When PCs deal overwhelming physical damage (Triumph, mark 3+ ticks in one hit, kill enemy leader, exploit critical weakness), immediately mark the enemy's **Will Track** to represent shock, fear, or broken morale.
-
-**How Much to Mark:**
-- **Triumph or 3+ ticks in one hit:** Mark 2 ticks on Will Track
-- **Kill enemy leader/champion:** Mark 2 ticks on all allies' Will Tracks
-- **Strike a weakness (fire vs. troll):** Mark 1 tick on Will Track in addition to normal Harm damage
-
-**When Will Track Fills:** Enemy flees, surrenders, or makes desperate all-or-nothing attack (GM's choice based on fiction).
-
-**Example:**
-> The troll takes a Triumph hit from Kael's flaming sword (marks 2 ticks on Harm Track). The GM immediately marks 2 ticks on the troll's Will Track (6 ticks total). The troll roars in pain and terror — its legendary regeneration useless against fire. It's now at 2/6 Harm, 2/10 Will.
-
-**Design Note:** This unifies psychological collapse into the existing Will Track system. Enemies with high Will (War Troll: Will 10) can take devastating hits and keep fighting, while enemies with low Will (Bandit: Will 2-4) break quickly under overwhelming assault. No separate dice pool needed.
-
 ---
 
 ## Enemy Quick Reference
@@ -359,7 +341,7 @@ Use this to translate overwhelming physical dominance into psychological collaps
 
 **Ryn:** "How many more hits can he take? And are there more enemies coming?"
 
-**GM:** "He's taken 0 ticks so far — 8 ticks total to drop him. And you hear horns in the distance — reinforcements might arrive in a few rounds if this drags out. Ryn gains 1 Momentum for the Triumph."
+**GM:** "He's taken 0 ticks so far — 8 ticks total to drop him. And you hear horns in the distance — reinforcements might arrive in a few actions if this drags out. Ryn gains 1 Momentum for the Triumph."
 
 **Kael:** "I spend 1 Momentum to Seize Spotlight! I charge and go for that shoulder before he recovers. Clash with Daring, I have Boon from Ryn's Opening."
 

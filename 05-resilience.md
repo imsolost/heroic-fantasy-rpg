@@ -265,12 +265,12 @@ When your Stress track is full and you'd mark more, choose: take a Burden (Stres
 - 2 Stress overflow → Burden tier 2
 - 3 Stress overflow → Burden tier 3
 
-> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 2 (Burden) rather than be Taken Out. His Stress clears to 0/5 — a second wind, but now injured.*
+> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 1 (Burden) rather than be Taken Out. His Stress clears to 0/5 — a second wind, but now injured.*
 
 **Severe Consequences (Disaster):**
 When Complications reduce an outcome to Disaster, you suffer a Severe Consequence. The GM may assign a Burden alongside other catastrophic effects (Taken Out, objective fails, etc.).
 
-> *Example: Aria rolls Setback on a rooftop jump. A Complication reduces it to Disaster (Severe Consequence). She marks 2 Stress and gains Sprained Ankle 1 (Burden).*
+> *Example: Aria rolls Setback on a rooftop jump. A Complication reduces it to Disaster (Severe Consequence). She's Taken Out — she crashes through the roof, unconscious and at the mercy of the guards below.*
 
 **Death Moves:**
 When significant enemies are defeated, they may trigger a Death Move — a final action that leaves a lasting mark. Death Move Burdens are tier 2 by default.

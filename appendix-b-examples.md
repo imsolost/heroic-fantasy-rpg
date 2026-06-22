@@ -325,7 +325,7 @@ Kael rolls Clash → Conflict (can invoke Trait).
 
 **Setup:** Kael is Taken Out.
 
-**Two rounds later:**
+**Two actions later:**
 
 **GM:** "Lyra, you reach Kael. He's breathing but barely conscious."
 
@@ -496,7 +496,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Condition Refreshes | "Already Poisoned 2, take Poisoned again → still Poisoned 2 (doesn't escalate to tier 3)" |
 | Condition Ticks Down | "After the roll, Poisoned 2 → Poisoned 1" |
 | Condition Clears | "Poisoned 1 ticks down to tier 0 — clears" |
-| Short Rest | "10 minutes pass — all Stress and all Conditions clear (Burdens persist)" |
+| Short Rest | "1 hour passes — all Stress and all Conditions clear (Burdens persist)" |
 | Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Banes, doesn't tick" |
 | Resist Consequence | "Spend 1 Momentum, roll Defy. Success = reduce by 2 steps" |
 | Burden (persistent) | "Stress overflow: take Wounded 2 (Burden) or be Taken Out. Burdens don't clear on short rest" |

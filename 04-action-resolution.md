@@ -388,7 +388,7 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 
 **Core Principle:** Since enemies don't roll (only players do), ALL debuffs on enemies work identically:
 - Allies gain 1 Boon on actions against that enemy
-- Duration measured in ally actions (not enemy actions or rounds)
+- Duration measured in ally actions (not enemy actions)
 - Narrative flavor explains WHY (blinded, marked, slowed, cursed, etc.)
 - Mechanically identical
 
@@ -790,40 +790,6 @@ Use when:
 
 ---
 
-## Progress Tracks
-
-Complex tasks require **progress tracks** to represent multi-step efforts.
-
-**Track Sizes (Tier System):**
-- **Tier 0 (0 ticks):** Trivial — resolved on any Success+ (untrained guard, simple lock, friendly NPC)
-- **Tier 1 (2 ticks):** Minion — bandit, basic obstacle, shift skeptical NPC's attitude
-- **Tier 2 (4 ticks):** Standard — veteran warrior, complex mechanism, win over hostile NPC
-- **Tier 3 (6 ticks):** Elite — champion fighter, fortified position, turn hostile faction neutral
-- **Tier 4 (8 ticks):** Boss — ancient dragon, legendary obstacle, forge alliance with enemy nation
-
-**Filling Tracks:**
-- **Setback:** 0 ticks + GM makes hard Impact Move
-- **Conflict:** 1 tick (or 2 with Greater Effect Trait) + GM makes soft Impact Move
-- **Success:** 1 tick (or 2 with Greater Effect Trait)
-- **Triumph:** 1 tick (or 2 with Greater Effect Trait) + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
-
-**Trait Invocation (Greater Effect):**
-- Conflict/Success/Triumph with Trait: Mark 2 ticks (instead of 1)
-
-**When Track Fills:** You accomplish your goal. New scene phase begins.
-
-**Visibility:** Progress tracks should be visible to players. The GM should communicate:
-- Track size upfront
-- Current progress after each roll
-- Any complications or countdowns that threaten the goal
-
-**Example:**
-> **GM:** "Breaking into the vault is a 4-tick complex task (Tier 2). The alarm countdown is a separate 2-tick track—if it fills, guards arrive."
->
-> **Player rolls Success:** "Mark 1 tick on the vault track. The alarm countdown advances 1 tick too."
-
----
-
 ## Disaster (Edge Case / Optional)
 
 **Disaster** occurs when outcomes are reduced **below Setback** by Complications. This is rare and represents catastrophic failure.
@@ -1071,10 +1037,10 @@ This creates:
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **Track Types & Sizes:**
-- **Harm Track** (Clash): Defeating enemies — 1 (trivial), 2 (quick), 3-4 (moderate), 5-7 (major), 8-10 (epic)
-- **Obstacle Track** (Defy): Overcoming obstacles — Same sizes
-- **Will Track** (Talk): Influencing people — Same sizes
-- **Countdown Track** (GM): Threat escalation timer
+- **Harm Track** (Clash): Defeating enemies — Tier-based: Tier 0 = 0 ticks, Tier 1 = 2 ticks, Tier 2 = 4 ticks, Tier 3 = 6 ticks, Tier 4 = 8 ticks
+- **Obstacle Track** (Defy): Overcoming obstacles — Same Tier-based sizes
+- **Will Track** (Talk): Influencing people — Same Tier-based sizes
+- **Countdown Track** (GM): Threat escalation timer — GM-determined size
 
 **Enemy Actions:**
 - Enemy attacks → Defy to resist (doesn't consume your action)

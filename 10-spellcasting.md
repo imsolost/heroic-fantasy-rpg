@@ -40,7 +40,8 @@ When you cast a spell, follow the standard **Action Roll** procedure (see Chapte
 **3. Roll Dice**
 - Roll your pool: **Approach + Boons - Banes**
 - Check highest die: Setback (all 1-3) / Conflict (any 4-5) / Success (any 6) / Triumph (two+ 6s)
-- Apply Complications (reduce outcome tier)
+- Apply Edge cancellation: Each Edge on your action cancels one Complication
+- Apply remaining uncanceled Complications (reduce outcome tier)
 - Invoke Trait if relevant (Special Effect)
 
 **4. Resolve Outcome**
@@ -72,7 +73,7 @@ Your Calling determines which Approach you use when casting spells:
 - **Sage** uses **Cunning** (clever application of knowledge, precise calculation, studied technique)
 - **Mystic** uses **Spirit** (spiritual connection, force of will, channeling divine/primal power)
 
-This means when a Sage casts a fireball, they **Clash using Cunning**. When a Mystic heals an ally, they use **Spirit with the appropriate Action** (varies based on the healing method — might be Defy to overcome injury, or Know to commune with their patron for guidance).
+This means when a Sage casts a fireball, they roll their Cunning pool to resolve a Clash action. When a Mystic heals an ally, they roll their Spirit pool to resolve the appropriate Action (varies based on the healing method — might be Defy to overcome injury, or Know to commune with their patron for guidance).
 
 **Other magical Talents** (non-Calling magic) specify their Approach in the Talent description.
 
@@ -115,9 +116,37 @@ Sages structure their magic through **Spheres of Power** — fundamental forces 
 - **Can:** Hasten/slow targets, glimpse future/past, manipulate duration, age/de-age objects
 - **Cannot:** Teleport through space, heal (except by reversing time), create matter, read current thoughts
 
-**Pattern** — Information, probability, raw mana, and active magical architecture
-- **Can:** Detect/analyze magic, dispel effects, alter probability, identify enchantments, counterspell, manipulate fate
-- **Cannot:** Direct damage (except to magical constructs), heal, create physical objects, read non-magical thoughts
+**Pattern** — Information, probability, raw mana, and magical structure
+
+Pattern is the "meta-magic" sphere, dealing with the underlying fabric of reality and magic itself.
+
+**Information Applications:**
+- Scrying (see distant locations)
+- Detect magic (sense magical auras)
+- Read surface thoughts
+- Analyze magical signatures
+
+**Probability Applications:**
+- Bless/curse (shift luck)
+- Divination (glimpse possible futures)
+- Luck manipulation
+- Enhance/reduce chances
+
+**Mana Applications:**
+- Counterspells (nullify magic)
+- Dispel ongoing effects
+- Steal or redirect magical energy
+- Identify spell components
+
+**Structure Applications:**
+- Identify weaknesses in objects/creatures
+- Analyze patterns and codes
+- Break enchantments
+- Understand complex systems
+
+Pattern is abstract but powerful — it's the wizard's wizard sphere.
+
+- **Cannot:** Direct damage (except to magical constructs), heal, create physical objects
 
 **The Nine Operations:**
 
@@ -180,7 +209,7 @@ Each Spell Theorem combines a Sphere with an Operation:
 - **Counterspell** [Pattern, Destroy] — Unravel a spell as it's being cast
 - **Dispel Magic** [Pattern, Destroy] — End an ongoing magical effect
 - **Identify** [Pattern, Reveal] — Analyze the properties of a magical item
-- **Fortuitous Edge** [Pattern, Enhance] — Manipulate probability to grant advantage
+- **Fortune's Favor** [Pattern, Enhance] — Manipulate probability to grant advantage (grants Boon to an ally's next action)
 
 ### For Mystics: Spiritual Domains
 
@@ -285,7 +314,7 @@ Potent spells go beyond baseline magical effects — they affect larger areas, m
 - Strike multiple enemies with lightning (affect entire group)
 - Turn someone invisible for hours
 - Teleport across a significant distance
-- Heal severe injuries (clear 2-3 Stress)
+- Heal severe injuries (clear 3 Stress)
 - Summon a powerful elemental
 
 **Mechanics:**
@@ -325,7 +354,7 @@ A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatur
   - Fireball destroys a door or injures one enemy
   - Charm one guard into letting you pass
   - Become invisible briefly (scene duration)
-  - Heal moderate wounds (2-3 Stress)
+  - Heal moderate wounds (clear 3 Stress with Potent Spell)
   - Levitate a person
   - Scry nearby locations (same city)
   - Create illusions filling a room
@@ -385,9 +414,43 @@ A Rank 1 Sage can cast a Potent Spell (pay 1 Stress, roll with risk)—but they 
 
 A Rank 4 Sage attempting to "freeze a lake" would use a Potent Spell (1 Stress, roll) or Ritual (structured scene), but they have the narrative permission to attempt it because they're at mythic tier.
 
-**Key principle:** Don't let players bypass Rank by saying "but I'm using magic!" A Rank 1 spellcaster healing someone heals moderate wounds (2-3 Stress). A Rank 4 spellcaster healing someone can cure mortal wounds that would kill any other hero, restore severed limbs, or even reverse aging—because they're at demigod tier, not because "healing magic is just better."
+**Key principle:** Don't let players bypass Rank by saying "but I'm using magic!" A Rank 1 spellcaster healing someone heals moderate wounds (3 Stress via Potent Spell). A Rank 4 spellcaster healing someone can cure mortal wounds that would kill any other hero, restore severed limbs, or even reverse aging—because they're at demigod tier, not because "healing magic is just better."
 
 **Fiction matters:** A Rank 4 Champion can't level a fortress with a punch just because they're high Rank—they need the fictional capability (superhuman strength through their Calling). Similarly, a Rank 4 Sage can't level a fortress without magical means (appropriate Sphere/Domain, preparation, or ritual). Your Calling and fictional positioning still matter.
+
+---
+
+### Magical Scale by Rank
+
+These examples help GMs judge appropriate magical scale across different Ranks:
+
+**Rank 1 Magic:**
+- Throw lightning at one foe
+- Charm a single guard
+- Heal moderate injuries
+- Create a room-sized illusion
+- Teleport across a building
+
+**Rank 2 Magic:**
+- Teleport across a city
+- Summon a powerful spirit
+- Freeze a river section
+- Fly for hours
+- Raise stone walls
+
+**Rank 3 Magic:**
+- Open portals between kingdoms
+- Animate an army of statues
+- Raise a fortress from stone
+- Summon dragons
+- Walk physically into the spirit realm
+
+**Rank 4 Magic:**
+- Move entire cities
+- Create pocket dimensions
+- Seal gods or primordial forces
+- Rewrite curses affecting nations
+- Alter regional climates permanently
 
 ---
 
@@ -428,33 +491,23 @@ When an enemy casts a spell at you, the GM triggers a Defy roll:
 
 ### Healing Magic
 
-**Healing magic clears Stress and reduces Condition tiers.**
+Spirit sphere spells can heal injuries and restore vitality.
 
-When you cast healing magic (requires appropriate touchstone: Body sphere, life magic, healing domain, etc.):
+**Spell (Spirit + Mend):**
+- Clear 1 Stress OR reduce a Condition by 1 tier
+- Examples: Close wounds, ease pain, stabilize dying, reduce Poisoned 2 to Poisoned 1
 
-**Magnitude determines effect:**
+**Potent Spell (Spirit + Mend, costs 1 Stress):**
+- Clear 3 Stress OR remove a Condition entirely
+- Examples: Heal severe wounds, cure disease, remove poison, restore vitality
 
-**Cantrip:** Stabilize dying creature (no roll, automatic, prevents death — they're still at 5 Stress but stable)
+**On Conflict:** The healing succeeds, but choose a narrative consequence (not additional Stress):
+- The healing is unstable (target gains Exhausted 1 Condition)
+- It leaves a glowing magical mark that attracts attention
+- The caster loses position (cannot cast next turn without narrative justification)
+- The healing draws unwanted spiritual attention
 
-**Spell (standard healing):**
-- **Success:** Choose one:
-  - Clear **1 Stress**
-  - Reduce one Condition tier by **1** (tier 3 → tier 2, tier 2 → tier 1, tier 1 → cleared)
-- **Conflict:** Healing succeeds (as Success) but choose one:
-  - Mark 1 Stress on caster (strain from channeling life energy)
-  - Healing is weaker than intended (GM may limit effect)
-  - Side effect (target is exhausted, magic leaves mark, attracts unwanted attention)
-
-**Potent Spell (powerful healing, costs 1 Stress):**
-- **Success:** Choose one:
-  - Clear **2-3 Stress** (player chooses amount up to 3)
-  - Reduce one Condition tier by **2-3** (tier 3 → tier 1 or cleared, tier 2 → cleared)
-  - Clear **1 Stress** AND reduce one Condition by **1 tier**
-- **Conflict:** Healing succeeds but you mark 1 Stress (on top of the 1 Stress already spent to cast) or another consequence
-
-**Ritual:** Cure diseases, regrow limbs, remove curses, heal Burdens (requires structured ritual — see Rituals section)
-
-**Design Note:** Healing 1 Stress per spell keeps healing valuable but not trivializing. With 5 Stress total, healing 1 at a time means it takes multiple spells to fully recover someone from near-death. Potent Spells (which cost 1 Stress to cast) can heal 2-3, making them efficient for critical moments but costly for the caster.
+Simple, fixed numbers. No ranges, no choices, no special cases. Conflict outcome uses narrative consequences, not extra Stress tax.
 
 ---
 
@@ -509,43 +562,55 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 
 ### Detecting Magic
 
-**Sensing magical presence:**
+Pattern sphere can reveal magical presence and details.
 
-**Cantrip (requires appropriate touchstone like Time sphere, Mind sphere, or Force sphere):**
-- Automatic, no roll required
-- You sense that magic is present nearby (vague awareness)
-- No details — just "yes, there's magic here" or "no, nothing magical detected"
-- Range: immediate area (same room, within a few paces)
+**Cantrip (Pattern + Reveal):**
+- Sense magical presence within close range (yes/no)
+- No questions, just awareness
 
-**Spell (Sense with appropriate touchstone):**
-- **Sense using Cunning** (Sage) or **Sense using Spirit** (Mystic)
-- **Success:** Ask 2 questions about the magic:
-  - What kind of magic is this? (school/domain)
-  - Who cast it or where did it come from?
-  - What does it do?
-  - How powerful is it?
-  - How can I dispel or counter it?
-- **Conflict:** Ask 2 questions but GM makes soft Impact Move (takes time, alerts caster, drains you slightly)
+**Spell/Potent Spell (Pattern + Reveal):**
+- Use Sense action to investigate magic
+- Ask questions based on outcome (2 questions on Success, 1 on Conflict)
+- Questions: What type of magic? Who cast it? What does it do? How strong? Where is the source?
 
-**Potent Spell (Know with appropriate touchstone, costs 1 Stress):**
-- **Know using Cunning** (Sage) or **Know using Spirit** (Mystic)
-- **Success:** GM tells you everything about the magical effect — its nature, origin, power, purpose, weaknesses, and how to counter it
-- Use when you need complete understanding quickly
+Use core Sense mechanics. No special procedures.
 
 ---
 
-### Dispelling and Countering
+### Resisting Magic
 
-**Dispelling active magic:**
-- Requires appropriate touchstone (Force sphere, abjuration magic, or similar)
-- Roll **Defy + Spirit** to overcome the magic through willpower (treat as Obstacle track), or **Defy + Cunning** if using analytical counterspell techniques
+**Everyone can resist magical effects using Defy:**
+- **Dodge area spell:** Defy using Grace (evade the blast)
+- **Resist mental control:** Defy using Spirit (force of will)
+- **Endure magical harm:** Defy using Daring (tough it out)
+
+When an enemy casts a spell at you, the GM triggers a Defy roll:
+- **Success:** You avoid/resist the spell cleanly
+- **Conflict:** You partially resist but suffer soft consequence (mark 1 Stress, limited effect)
+- **Setback:** Spell affects you fully + hard Impact Move
+
+**Resisting is reactive defense.** You cannot prevent the spell from being cast—you're avoiding or enduring its effects.
+
+---
+
+### Countering Magic (Talent Required)
+
+**Active nullification of spells requires specialized training.** Characters with counterspell Talents can:
+- **Interrupt spellcasting mid-cast** (prevent the spell from completing)
+- **Dispel ongoing magical effects** (unravel active magic)
+- **Unravel magical constructs** (destroy wards, barriers, summoned creatures)
+
+This is a **Talent ability**, not a default spellcasting capability. Without the appropriate Talent, you can only Defy to resist magic—you cannot counter or dispel it.
+
+**Example Counterspell Talent:**
+> **Counter-Spell** — When targeted by hostile magic, you may roll **Defy + Cunning** to unravel the spell as it's cast. On Success, the spell is negated before it takes effect.
+
+**Dispelling active magic (with appropriate Talent or touchstone):**
+- Requires appropriate touchstone (Pattern sphere, abjuration magic, or counterspell Talent)
+- Roll **Defy + Spirit** to overcome the magic through willpower (treat as Obstacle track), or **Defy + Cunning** if using analytical techniques
 - **Simple spell:** Overcome immediately on Success
 - **Potent spell or ward:** Requires progress track (2-4 ticks)
 - **Ritual effect:** Very difficult (6+ tick track or requires counter-ritual)
-
-**Countering a spell as it's cast:**
-- Requires specific Talent (e.g., "Counter-Spell" — when targeted by hostile magic, roll Defy to negate)
-- Otherwise, you can only Defy to resist the effect, not prevent the casting
 
 ---
 
@@ -678,7 +743,9 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - **Divine/Detect:** Sense (ask questions)
 - **Analyze/Identify:** Know (learn information)
 
-**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 2-3 Stress OR reduce Condition by 2-3 tiers (Potent Spell, costs 1 Stress)
+**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 3 Stress OR remove Condition entirely (Potent Spell, costs 1 Stress). On Conflict, healing succeeds but with narrative consequence, not additional Stress.
+
+**Detect Magic:** Cantrip for presence (yes/no), Sense action for details (ask questions)
 
 **Buffs/Debuffs:** Grant Boons (buffs) or inflict Conditions/Complications (debuffs)
 
@@ -723,5 +790,5 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - Sage casts with **Cunning**, Mystic casts with **Spirit**
 - Cantrips are unlimited, automatic, and require no roll
 - Potent Spells always cost 1 Stress and represent dramatic magical power
-- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 2-3 Stress OR reduces Condition by 2-3 tiers (Potent Spell, costs 1 Stress)
-- Detecting magic presence is a free cantrip; getting details requires Sense or Know rolls
+- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 3 Stress OR removes Condition entirely (Potent Spell, costs 1 Stress). On Conflict, healing succeeds but with narrative consequence, not additional Stress.
+- Detecting magic presence is a cantrip (yes/no); getting details uses Sense action (ask questions)

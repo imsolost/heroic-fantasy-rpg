@@ -548,9 +548,9 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 **Scale:** City/regional level, professional adventurers
 
-**Archetypes:** Legendary mortal heroes—Lancelot, Odysseus, Robin Hood, Aragorn (ranger years), Geralt of Rivia, skilled sellswords, master thieves, court wizards, veteran monster hunters
+**Archetypes:** Action heroes and legendary warriors—John Wick, Captain America, Lancelot, Odysseus, Hawkeye, Black Widow, Geralt of Rivia, Mugen (Samurai Champloo), Thorfinn (Vinland Saga), Daniel Jackson (Stargate), Tony Stark, Batman
 
-**Tone:** Peak human capability through training, experience, and discipline. Everything is extraordinary but fundamentally mortal—these heroes push the absolute limits of mortal possibility. Think "the greatest swordsman alive" or "the cleverest thief in the kingdom."
+**Tone:** Beyond human capability—action heroes who perform feats that defy real-world biology but remain grounded in mortal achievement rather than outright magic. These heroes execute impossible competence: defeating dozens of trained soldiers, deciphering ancient languages on the fly, surviving injuries that would cripple ordinary people, building incredible devices from scraps. We suspend our disbelief because of the genre—they exceed what any real person could accomplish, but through extraordinary skill, intellect, and determination, not supernatural power.
 
 **Expected Scope:**
 - Protect or threaten entire cities, regions, or factions
@@ -560,15 +560,29 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 - Accomplish feats that would require extensive preparation at Rank 1
 
 **Typical Challenges:**
-- Fighting dozens of well-trained soldiers or dangerous beasts (dire wolves, young wyverns, owlbears)
-- Scaling castle walls (40-50 feet) with proper technique, swimming across lakes, riding dangerous animals (bears, young drakes)
-- Going without sleep for days, eating poisonous substances and surviving, withstanding tremendous pain
-- Sensing master assassins stalking you, tracking through rain or snow, detecting subtle magic, predicting weather days ahead
-- Deciphering ancient texts (with resources), researching forbidden lore, identifying monster weaknesses
-- Swaying small crowds, convincing minor nobles, maintaining elaborate disguises, leading mercenary companies
-- Forging masterwork weapons in days, creating potent alchemical formulas, breaking through reinforced doors
+- **Fighting dozens of well-trained soldiers and plausibly winning**, defeating dangerous beasts (dire wolves, young wyverns, owlbears)
+- **Leaping impossible gaps** (20-30 feet), **scaling castle walls in minutes**, swimming storm-tossed channels, riding dangerous animals (bears, young drakes)
+- **Smashing through wooden barricades with shoulder charges**, **punching through wooden doors and thin masonry walls**
+- **Lifting or carrying loads that would require multiple people** (flip carts, hold up collapsing beams, carry injured allies while fighting)
+- **Surviving falls that would cripple ordinary people** (3-4 stories, with injury), going without sleep for days, **withstanding tremendous pain without breaking**
+- Sensing master assassins stalking you, tracking through rain or snow, **detecting subtle magic or invisible creatures**, predicting weather days ahead
+- **Deciphering unfamiliar languages while reading them**, reverse-engineering unfamiliar devices after brief examination, **predicting enemy tactics from minimal intelligence**
+- Swaying small crowds into action, convincing minor nobles, **assuming high-profile identities convincingly**, leading mercenary companies
+- **Inventing useful gadgets from available materials**, forging masterwork weapons in days, creating potent alchemical formulas
 
 **Key Note:** These heroes are legendary within mortal bounds. A Rank 2 swordmaster can defeat a dozen trained soldiers through superior skill, timing, and tactics—not by throwing them across the room with one blow.
+
+**Rank 2 vs Rank 3: The Mythological Threshold**
+
+Rank 2 heroes are **impossible but not mythological**. They exceed real-world capability through extraordinary skill, training, and talent—but their feats still feel like extreme human achievement rather than supernatural power.
+
+- **Rank 2 Champion:** Defeats dozens of trained soldiers through superior speed, technique, and tactics. Survives a three-story fall with broken ribs. Smashes through a wooden barricade with a shoulder charge. Leaps between rooftops.
+- **Rank 3 Champion:** Throws ten soldiers across the room with one blow. Survives a mountain fall (injured but alive). Punches through stone walls. Runs up vertical cliffs.
+
+- **Rank 2 Sage:** Teleports across a city district (Potent Spell). Strikes multiple foes with fireball (Potent Spell). Creates nearly indestructible barriers for a scene (Potent Spell). Summons powerful spirits for days (Ritual).
+- **Rank 3 Sage:** Teleports across kingdoms (Potent Spell). Freezes entire lakes solid. Raises fortresses from stone. Opens portals between worlds.
+
+The difference is **genre**, not just scale. Rank 2 heroes push the limits of believability while remaining recognizably mortal. Rank 3 heroes openly violate physics and enter the realm of myth.
 
 ---
 
@@ -646,7 +660,8 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Defeat 2-3 untrained opponents in melee
 
 **Rank 2:**
-- Fight a dozen well-trained soldiers or dangerous beast (dire wolf, young wyvern, owlbear)
+- **Fight dozens of well-trained soldiers and plausibly win**, defeat dangerous beasts (dire wolf, young wyvern, owlbear)
+- **Smash through wooden barricades with shoulder charges**, **punch through wooden doors and thin masonry walls**
 - Break through reinforced doors or snap chains with sustained strikes
 - Chop through thick wooden pillars or crack structural masonry with repeated blows
 
@@ -670,10 +685,14 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Block arrows with a shield, endure minor torture
 
 **Rank 2:**
-- Climb castle walls (40-50 feet) with proper technique, swim across lakes
+- **Leap impossible gaps** (20-30 feet), climb castle walls (40-50 feet) in minutes, **swim storm-tossed channels**
+- **Run across tightropes or narrow beams at full speed**, perform acrobatic combat maneuvers (backflip over attacks, wall-runs)
+- **Lift or carry loads requiring multiple people** (flip carts, hold up collapsing beams, carry injured allies while running)
+- **Survive falls that would cripple ordinary people** (3-4 stories, with injury)
 - **Go without sleep or food for days**, **survive poisonous substances**
-- **Withstand tremendous pain without breaking**, endure dangerous falls (2-3 stories) with injury
-- Ride dangerous animals (bears, young drakes), catch arrows mid-flight
+- **Withstand tremendous pain without breaking**, push through injuries that would incapacitate others
+- **Catch arrows mid-flight**, perform impossible feats of precision (juggle while sprinting, land perfectly balanced after acrobatic leaps)
+- **Smash through wooden doors with shoulder charges**, break through barricades
 
 **Rank 3:**
 - **Carry loaded wagons overhead**, **hold castle gates open**, run up massive cliffsides
@@ -725,9 +744,10 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Notice someone following you in a crowd
 
 **Rank 2:**
-- **Sense you're being watched in crowded cities**, track through difficult terrain (snow, rain)
+- **Sense master assassins stalking you in crowded cities**, track through difficult terrain (snow, rain, running water)
 - **Detect subtle magic or invisible creatures**, **predict weather days ahead**
-- Read complex social dynamics, notice minute details (clothing tells, micro-evidence)
+- Read complex social dynamics at a glance, **notice minute details others would miss** (clothing tells, micro-evidence, trace scents)
+- Spot concealed weapons, sense ambushes before they trigger
 
 **Rank 3:**
 - **Pinpoint invisible creatures in busy environments**
@@ -748,9 +768,12 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - Do light detective work, recall common monster lore
 
 **Rank 2:**
-- **Decipher ancient texts** (with resources and time), **research forbidden lore**
-- **Find weak points in magical seals**, solve complex mechanical puzzles
-- **Deduce someone's recent locations from their clothing**, identify rare poisons
+- **Decipher unfamiliar languages while reading them** (pattern recognition, linguistic intuition)
+- **Reverse-engineer unfamiliar devices after brief examination**, **invent useful gadgets from available materials**
+- **Predict enemy tactics from minimal battlefield intelligence**, recognize forgeries or deceptions at a glance
+- **Solve complex mechanical puzzles intuitively** rather than through trial-and-error
+- **Deduce someone's recent locations and activities from their clothing**, identify rare poisons instantly
+- **Research forbidden lore**, find weak points in magical seals
 
 **Rank 3:**
 - **Make breakthrough magical discoveries**, **create new spells or alchemical formulas**

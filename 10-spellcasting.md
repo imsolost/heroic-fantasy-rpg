@@ -435,19 +435,13 @@ A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatur
   - Create illusions filling a room
 
 **Rank 2: City/Regional-Scale Magic (Heroic Fantasy)**
-- **Spells:** Enhanced precision and reliability
-- **Potent Spells:** Affect entire buildings, multiple targets, extended duration
-- **Rituals:** Begin to be accessible (with proper preparation)
+- **Spells:** Enhanced precision and reliability, affect single targets within city-wide range
+- **Potent Spells:** Affect entire buildings, multiple targets, scene-long duration, or significantly amplified effects
+- **Rituals:** Begin to be accessible (with proper preparation) — extended durations, permanent effects, or summoning powerful entities
 - **Examples:**
-  - Fireball destroys a building's interior or strikes multiple foes
-  - Flight for hours
-  - Teleport across a city
-  - Summon powerful spirits
-  - Speak with the dead
-  - Turn invisible for hours
-  - Create magical barriers that last days
-  - Control weather in a local area (summon rain, disperse fog)
-  - Scry across a region
+  - **Spells:** Fireball strikes one foe, teleport across a building, charm one guard, create barrier for 1-2 actions
+  - **Potent Spells:** Fireball destroys a building's interior or strikes multiple foes, teleport across a city district, turn invisible for entire scene, create nearly indestructible barrier for the scene, fly for the scene
+  - **Rituals:** Teleport across the entire city, summon powerful spirits that serve for days, speak with the long-dead, create permanent magical wards, control weather for hours (summon storm, disperse fog), scry across a region, raise stone walls that last days
 
 **Rank 3: National-Scale Magic (Mythic Fantasy)**
 - **Potent Spells:** Affect battlefields, reshape terrain, create lasting magical constructs
@@ -507,11 +501,8 @@ These examples help GMs judge appropriate magical scale across different Ranks:
 - Teleport across a building
 
 **Rank 2 Magic:**
-- Teleport across a city
-- Summon a powerful spirit
-- Freeze a river section
-- Fly for hours
-- Raise stone walls
+- **Potent Spells:** Teleport across a city district, fly for a scene, turn invisible for entire scene, strike multiple foes with fireball
+- **Rituals:** Teleport across entire city, summon powerful spirits (serve for days), freeze a river section, raise stone walls (last days)
 
 **Rank 3 Magic:**
 - Open portals between kingdoms

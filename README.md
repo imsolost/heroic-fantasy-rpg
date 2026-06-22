@@ -145,8 +145,8 @@ Latest updates:
 - **Replaced Conditions system** with flexible named Conditions (Poisoned, Frightened, Blinded, etc.)
   - Simple tier tracking (1-3), each Condition = 1 Bane (you can have 3+ Conditions)
   - Pool modifier cap: ±2d (universal rule, applies after Boons/Banes cancel 1:1)
-  - Ticks down through action, clears on short rest
-  - Burdens persist beyond short rest (recover via Long Rest or special narrative resolution)
+  - Ticks down through action, clears on Short rest (1 hour, safe location)
+  - Burdens persist beyond Short rest (recover via Long Rest or special narrative resolution)
 - **Tangles** system added for player-driven Momentum (inspired by Grimwild)
 - Merged Negate + Resist Consequence into unified mechanic
 - Capped Boons/Banes at ±2d (pools range from 3d6 to 7d6)

@@ -37,7 +37,7 @@ See **Chapter 4: Action Resolution** for complete Consequence framework.
 
 ### Recovery
 
-**Short rest (10–15 minutes of safety):**
+**Short rest (1 hour, safe location):**
 - Clear all Stress
 - Clear all Conditions (Burdens do NOT clear)
 
@@ -116,7 +116,7 @@ The tier set at infliction is the **maximum severity** of that Condition. It nev
 
 Each time you make an action roll where the Condition applies, reduce its tier by 1. When it reaches 0, it clears.
 
-**All Conditions clear on short rest** (10–15 minutes of safety), regardless of remaining tier.
+**All Conditions clear on short rest** (1 hour, safe location), regardless of remaining tier.
 
 ### Multiple Conditions
 
@@ -132,7 +132,7 @@ You can have multiple different Conditions simultaneously. Each tracks independe
 
 **Through action:** Make action rolls where the Condition applies. Each relevant roll reduces the tier by 1.
 
-**Through short rest:** All Conditions clear after a short rest (10–15 minutes of safety).
+**Through short rest:** All Conditions clear after a short rest (1 hour, safe location).
 
 **Through Trait Special Effects:** When you invoke a Trait and choose Secondary Effect, you may reduce any one Condition by 1 tier — provided the Trait is fictionally relevant to shaking off that Condition.
 
@@ -232,12 +232,12 @@ Direct Conditions bypass the Stress buffer — they represent harm too significa
 
 ### Pacing Recovery
 
-**Short rests** (10-15 minutes) should happen:
+**Short rests** (1 hour, safe location) should happen:
 - After each significant combat
 - During travel when the party takes a breather
 - When players explicitly seek safety to catch their breath
 
-This ensures Conditions don't carry over from scene to scene, while still making them relevant within a scene.
+This ensures Conditions don't carry over from scene to scene, while still making them relevant within a scene. The 1-hour duration prevents rapid recovery abuse and makes resource management more strategic.
 
 **Long rests** (overnight) should happen:
 - After returning to town or safe haven
@@ -357,7 +357,7 @@ When assigning a Burden, immediately clarify how it clears:
 | Same Condition inflicted again | Refreshes to original tier |
 | Make a roll where Condition applies | Reduce tier by 1 |
 | Condition reaches tier 0 | Clears |
-| Short rest (10–15 min) | All Stress and all Conditions clear (Burdens persist) |
+| Short rest (1 hour, safe location) | All Stress and all Conditions clear (Burdens persist) |
 | Long rest (overnight) | All Stress and all Conditions clear; Burdens reduce 1 tier |
 | Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
 | Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on short rest |

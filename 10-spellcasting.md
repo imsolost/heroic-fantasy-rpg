@@ -81,7 +81,17 @@ This means when a Sage casts a fireball, they roll their Cunning pool to resolve
 
 ## Touchstones
 
-**Touchstones** are narrative boundaries that define what your magic can and cannot do. They provide:
+**Touchstones** define what your spell can do. A touchstone is the standard by which magic is judged — combine a **Sphere** (what you're affecting) with an **Operation** (what you're doing to it) to determine if your spell is possible.
+
+When you cast a spell, describe what you want to accomplish, then identify:
+- **Sphere:** What aspect of reality are you manipulating?
+- **Operation:** What are you doing to it?
+
+This combination is your spell's touchstone — the foundation that determines whether the magic is possible within your abilities.
+
+**Example:** Energy + Destroy = firebolt, Matter + Create = stone wall, Mind + Deceive = illusion
+
+**Touchstones provide:**
 - **Identity** — Your magic feels distinct and thematic
 - **Clarity** — Clear guidelines for what you can attempt
 - **Balance** — Prevents magic from solving every problem
@@ -96,9 +106,15 @@ Sages structure their magic through **Spheres of Power** — fundamental forces 
 - **Can:** Transform physical properties, harden/soften materials, change shape, alter density, reshape objects
 - **Cannot:** Manipulate energy directly, affect minds, teleport, control time
 
-**Force** — Thermal, elemental, kinetic, and raw thermodynamic energy
-- **Can:** Generate fire/lightning/cold, propel objects, create force barriers, channel elemental power
-- **Cannot:** Transform solid matter's structure, read thoughts, teleport, heal living tissue directly
+**Energy** — Thermal, elemental, kinetic, and arcane forces
+
+The Energy sphere encompasses all forms of energetic phenomena: the heat of flames, the crushing force of telekinesis, the crackle of lightning, and the raw arcane power of pure magical energy. It also includes negative energy - the void that drains life and light.
+
+**Energy Types:**
+- **Elemental:** Fire, cold, lightning, acid, thunder
+- **Kinetic:** Force blasts, crushing pressure, telekinetic push/pull
+- **Arcane:** Pure magical energy, mage bolts, protective wards
+- **Negative:** Void, shadow, necrotic (life-draining effects)
 
 **Mind** — Thought, emotion, perception, and consciousness
 - **Can:** Read/alter thoughts, create illusions, compel actions, cloud judgment, enhance mental faculties
@@ -118,33 +134,44 @@ Sages structure their magic through **Spheres of Power** — fundamental forces 
 
 **Pattern** — Information, probability, raw mana, and magical structure
 
-Pattern is the "meta-magic" sphere, dealing with the underlying fabric of reality and magic itself.
+Pattern is **meta-magic** — the study of magic itself rather than the elements of reality. Where other spheres manipulate matter, energy, or minds, Pattern manipulates the underlying **fabric of magic and reality**.
 
-**Information Applications:**
-- Scrying (see distant locations)
-- Detect magic (sense magical auras)
-- Read surface thoughts
-- Analyze magical signatures
+This is the wizard's wizard sphere — abstract, intellectual, and deeply arcane.
 
-**Probability Applications:**
-- Bless/curse (shift luck)
-- Divination (glimpse possible futures)
-- Luck manipulation
-- Enhance/reduce chances
+**Information Weaving:**
+- Scrying and clairvoyance (perceive distant locations)
+- Detect magic (sense magical auras and signatures)
+- Read surface thoughts (access mental information)
+- Analyze magical effects (understand spell components)
 
-**Mana Applications:**
-- Counterspells (nullify magic)
-- Dispel ongoing effects
-- Steal or redirect magical energy
-- Identify spell components
+**Probability Threading:**
+- Bless/curse (shift likelihood of success/failure)
+- Divination (glimpse probable futures)
+- Luck manipulation (bend chance in your favor)
+- Fortune's favor (grant advantages or disadvantages)
 
-**Structure Applications:**
-- Identify weaknesses in objects/creatures
-- Analyze patterns and codes
-- Break enchantments
-- Understand complex systems
+**Mana Structuring:**
+- Counterspells (unravel enemy magic)
+- Dispel ongoing effects (break enchantments)
+- Spell absorption (redirect magical energy)
+- Identify magical components (understand spell construction)
 
-Pattern is abstract but powerful — it's the wizard's wizard sphere.
+**Reality Patterns:**
+- Identify weaknesses (see structural flaws in objects/creatures)
+- Analyze systems (understand complex patterns and codes)
+- Break enchantments (unweave magical bindings)
+- Understand the weave (perceive underlying magical structure)
+
+**Why Pattern is Different:**
+
+Other spheres ask: "What do I affect?"
+- Body = living tissue
+- Energy = forces and phenomena
+- Matter = physical substance
+
+Pattern asks: "How does magic itself work?"
+
+It's the sphere of understanding, manipulation, and unraveling the arcane itself.
 
 - **Cannot:** Direct damage (except to magical constructs), heal, create physical objects
 
@@ -170,11 +197,11 @@ Each Spell Theorem combines a Sphere with an Operation:
 - **Polymorph** [Matter, Alter] — Transform a creature's physical form
 - **Disintegrate** [Matter, Destroy] — Unmake physical matter into dust
 
-**Force Theorems:**
-- **Searing Bolt** [Force, Destroy] — Project concentrated thermal energy at a target
-- **Force Barrier** [Force, Create] — Conjure a wall of kinetic energy
-- **Lightning Arc** [Force, Destroy] — Channel electrical energy through multiple targets
-- **Levitate** [Force, Move] — Exert kinetic force to lift objects or creatures
+**Energy Theorems:**
+- **Searing Bolt** [Energy, Destroy] — Project concentrated thermal energy at a target
+- **Force Barrier** [Energy, Create] — Conjure a wall of kinetic energy
+- **Lightning Arc** [Energy, Destroy] — Channel electrical energy through multiple targets
+- **Levitate** [Energy, Move] — Exert kinetic force to lift objects or creatures
 
 **Mind Theorems:**
 - **Calm Emotions** [Mind, Alter] — Soothe agitation and reduce strong feelings
@@ -240,11 +267,11 @@ When a player proposes a spell effect, ask:
 2. **Is this reasonable in scope?** (See Magnitude below)
 3. **What's the risk?** (Set difficulty and telegraph consequences)
 
-**Touchstones should be flexible but not infinite.** A Force mage can create light (fire produces light) but cannot read thoughts. A Mind mage can compel actions but cannot teleport.
+**Touchstones should be flexible but not infinite.** An Energy mage can create light (fire produces light) but cannot read thoughts. A Mind mage can compel actions but cannot teleport.
 
 **Sage Arcane Formula:** When using Arcane Formula to cast outside known theorems, the player must declare which Sphere + Operation they're using. The GM judges whether it fits the fiction and sets difficulty (always at least 1 Bane).
 
-**When touchstones overlap creatively, reward it.** If a player combines effects cleverly within their Sphere ("I use Force to Bind the gate's downward momentum"), that's excellent problem-solving — allow it as Arcane Formula if it's outside their known theorems.
+**When touchstones overlap creatively, reward it.** If a player combines effects cleverly within their Sphere ("I use Energy to Bind the gate's downward momentum"), that's excellent problem-solving — allow it as Arcane Formula if it's outside their known theorems.
 
 ---
 
@@ -303,29 +330,77 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 
 Potent spells go beyond baseline magical effects — they affect larger areas, multiple targets, create lasting changes, or produce effects that ordinary actions cannot replicate. These are the dramatic, scene-defining spells that showcase true magical power.
 
-**Scope:**
-- Affect multiple targets or large area (entire room, group of enemies)
-- Exceed what a non-magical action could achieve
-- Create significant lasting effects (longer than a scene)
-- Accomplish jaw-dropping effects
+**When you cast a Potent Spell (costs 1 Stress), choose ONE enhancement:**
+
+- **Greater Impact** — Mark 1 additional tick, make construct nearly indestructible (Resilient tag), or significantly amplify the spell's primary impact
+- **Affect Multiple Targets** — Target a samll group individuals or affect a larger area
+- **Increased Duration** — The spell lasts the entire scene instead of a moment (does not apply to instantaneous effects like damage or healing)
+- **Additional Effect** — Add a secondary consequence (inflict Condition, create advantage, impose positioning change, etc.)
+
+You cannot stack multiple enhancements — choose one per Potent Spell.
+
+**Boosting Further:** You can also spend 1 Momentum to Create an Opening (gain 1 Boon and 1 Edge) when casting any spell, including Potent Spells. This is separate from the enhancement choice.
 
 **Examples:**
-- Conjure a wall of stone (permanent obstacle)
-- Strike multiple enemies with lightning (affect entire group)
-- Turn someone invisible for hours
-- Teleport across a significant distance
-- Heal severe injuries (clear 3 Stress)
-- Summon a powerful elemental
+
+**Stone Wall (Matter + Create):**
+- Normal Spell: Barrier lasts 1-2 actions
+- Potent + Greater Effect: Nearly indestructible wall (Resilient tag)
+- Potent + Increased Duration: Wall lasts entire scene
+- Potent + Affect Multiple Targets: Create 2-3 walls or one much larger wall
+- Potent + Additional Effect: Wall + creates difficult terrain (Hindered 1 Condition to those nearby)
+
+**Lightning Bolt (Energy + Destroy):**
+- Normal Spell: Mark 1 tick on Harm track against single target
+- Potent + Greater Effect: Mark 2 ticks on Harm track against single target
+- Potent + Affect Multiple Targets: Mark 1 tick on 2-3 targets
+- Potent + Additional Effect: Mark 1 tick + inflict Stunned 1 Condition
+- Potent + Increased Duration: N/A (instantaneous effect)
+
+**Charm Person (Mind + Bind):**
+- Normal Spell: Mark 1 tick on Will track against single target, lasts 1-2 actions
+- Potent + Greater Effect: Mark 2 ticks on Will track against single target
+- Potent + Affect Multiple Targets: Mark 1 tick on 2-3 targets
+- Potent + Increased Duration: Charm lasts entire scene
+- Potent + Additional Effect: Mark 1 tick + target becomes Distracted 1
+
+**Invisibility (Mind + Deceive or Pattern + Alter):**
+- Normal Spell: Become invisible for 1-2 actions
+- Potent + Greater Effect: Become completely undetectable (sight, sound, scent)
+- Potent + Affect Multiple Targets: Make 2-3 people invisible
+- Potent + Increased Duration: Remain invisible entire scene
+- Potent + Additional Effect: Invisibility + gain 1 Boon on stealth-related actions
 
 **Mechanics:**
 - **Always costs 1 Stress** (mark immediately when you declare casting)
 - Requires narrative permission (must be within your touchstones and fictionally appropriate)
 - Roll normally (no automatic Banes unless GM rules the situation is Hard)
-- You can spend 1 Momentum for **Create an Opening** (1 Boon (+1d) and 1 Edge (ignore 1 Complication), narrative permission) on top of the base cost — this represents channeling your magical reserves to ensure success
 
 **When to use:** When the spell's scope exceeds "solve an immediate problem" and enters "dramatically alter the scene or situation."
 
 **Why cost Stress?** Potent spells are dramatic and powerful. The Stress cost represents the magical strain of channeling such vast energies. Even on Success, you've pushed yourself. This makes Potent spells feel weighty and significant — not something you cast lightly.
+
+---
+
+### Default Spell Durations
+
+Unless stated otherwise:
+
+- **Instantaneous:** Damage spells, healing, teleportation, dispelling (effect happens once and completes immediately)
+- **Moment:** Buffs, barriers, constructs, summoned effects (lasts 1-2 actions, enough to matter in immediate action)
+- **Scene:** Only via Potent Spell + Increased Duration enhancement (lasts entire scene or until dispelled)
+- **Permanent:** Only via Rituals (hours, days, or indefinite)
+
+**Examples:**
+
+- **Firebolt (Normal):** Instantaneous (damage happens, done)
+- **Stone Wall (Normal):** Moment (barrier lasts 1-2 actions, then fades)
+- **Stone Wall (Potent + Duration):** Scene (barrier lasts entire scene)
+- **Shield Ward (Normal):** Moment (grants Boon on next defensive action)
+- **Shield Ward (Potent + Duration):** Scene (grants Boon on all defensive actions this scene)
+- **Permanent Teleportation Circle:** Ritual only
+
+This prevents "I cast Stone Wall and it lasts forever" without spending resources.
 
 ---
 
@@ -463,7 +538,7 @@ Describe what your magic looks like, sounds like, and feels like. Magic should b
 **Examples:**
 - Elements (Fire): Flames, heat shimmer, smell of smoke, crackling sounds
 - Matter (Necromancy): Cold wind, shadows deepen, whispers of the dead, chill in the air
-- Force (Wards): Shimmering barriers, crystalline sounds, faint glow
+- Energy (Wards): Shimmering barriers, crystalline sounds, faint glow
 - Time or Mind (Divination): Eyes glow, ethereal visions, sense of distant presence
 
 **Concealing Magic:** If you want to cast without being noticed, this may require a specific touchstone (Mind sphere for illusions, Elements for darkness) or impose Complications (guards notice your gestures, enemy sees the spell forming). Work with your GM.
@@ -485,7 +560,7 @@ When an enemy casts a spell at you, the GM triggers a Defy roll:
 - **Cunning** (anticipate, counter)
 - **Daring** (tough it out, endure)
 
-**Countering magic directly** (dispelling, unraveling) may require specific touchstones (Force sphere for wards and barriers) or Talents. Without those, you can only Defy reactively.
+**Countering magic directly** (dispelling, unraveling) may require specific touchstones (Energy sphere for wards and barriers) or Talents. Without those, you can only Defy reactively.
 
 ---
 
@@ -534,10 +609,27 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 - **Alternatively:** Grant 1 Boon and 1 Edge (narrative permission + 1 Boon (+1d) + ignore 1 Complication) for specific feat
 - **Examples:** Blessing grants 1 Boon (+1d) to attack, haste spell grants 1 Boon (+1d) to movement, arcane insight grants 1 Boon (+1d) to investigation
 
-**Debuffs (hindering enemies):**
-- **Magnitude:** Typically Spell
-- **Effect:** Inflict Condition (tier 1-2) or impose Complication on their actions
-- **Examples:** Curse of weakness (Weakened 1), blinding light (Blinded 1), fear aura (Frightened 1)
+**Debuff Spells (Negative Effects on Enemies)**
+
+When you place a debuff on an enemy, allies gain 1 Boon on actions against that target. The narrative describes why (blinded, marked, slowed, cursed, weakened), but the mechanical effect is consistent.
+
+**Why This Works:** Since enemies don't roll (only players do), debuffs create advantage for allies rather than penalties for enemies.
+
+**Duration:**
+- **Normal Spell:** Allies' next 1-2 actions against target gain 1 Boon
+  - GM decides: Simple/clear effect = 1, Sticky/complex effect = 2
+- **Potent Spell + Duration:** All ally actions against target gain 1 Boon (entire scene)
+
+**Examples:**
+- **Blind:** Brilliant flash blinds enemy - allies get Boon (can't see attacks) for 1-2 ally actions
+- **Slow:** Enemy moves in slow-motion - allies get Boon (easier to hit) for 1-2 ally actions
+- **Mark:** Magical tracking mark - allies get Boon (highlighted target) for 1-2 ally actions
+- **Hex:** Curse of misfortune - allies get Boon (magically vulnerable) for 1-2 ally actions
+- **Weaken:** Sap enemy strength - allies get Boon (less resistant) for 1-2 ally actions
+
+All mechanically identical (1 Boon for X actions), but fiction explains why.
+
+**GM Tracking:** See GM Guide for physical marker tracking system.
 
 **Conflict outcome:** Buff/debuff succeeds but is weaker (lasts shorter, grants less benefit) or costs you (mark 1 Stress).
 
@@ -547,14 +639,33 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 
 **How long do spell effects last?**
 
-**Default guidance:**
-- **Instantaneous:** Damage, healing, teleportation (effect happens immediately and ends)
-- **Momentary (a few seconds):** Light burst, sound, brief illusion
-- **Scene-long (a few minutes):** Barriers, buffs, summons, ongoing effects
-- **Hours:** Requires Potent Spell
-- **Permanent:** Requires Ritual
+**Default spell durations:**
+- **Instantaneous:** Damage, healing, teleportation (happens once, effect is immediate and done)
+- **Moment (1-2 actions):** Buffs, barriers, constructs, ongoing tactical effects
+- **Scene:** Only via Potent Spell + Increased Duration enhancement
+- **Hours or longer:** Requires specific narrative justification and GM permission (typically Rank 2+)
+- **Permanent:** Only via Rituals
 
-**GM Discretion:** When duration matters, set it based on magnitude and fiction. A Spell-level light might last a scene; a Potent Spell version might last hours. An illusion might persist until disrupted (someone touches it, caster loses concentration, etc.).
+**Examples:**
+
+**Normal Spell (Moment duration):**
+- Fire barrier blocks doorway for 1-2 actions
+- Haste buff lasts 1-2 actions
+- Magical light illuminates area for 1-2 actions
+- Summoned creature persists for 1-2 actions
+
+**Potent Spell + Increased Duration (Scene duration):**
+- Fire barrier blocks doorway entire scene
+- Haste buff lasts entire combat/scene
+- Magical light illuminates area for entire scene
+- Summoned creature persists entire scene
+
+**Ritual (Permanent):**
+- Consecrated ground remains sacred indefinitely
+- Enchanted sword retains its magic permanently
+- Curse on bloodline lasts generations
+
+**GM Discretion:** When duration matters, set it based on magnitude and fiction. An illusion might persist until disrupted (someone touches it, caster loses concentration, etc.).
 
 **Concentration:** Some effects require your focus. If you take damage (mark Stress) or are distracted (Condition applied), the GM may rule the effect ends or requires a Defy roll to maintain.
 
@@ -733,8 +844,14 @@ Rituals should always have **narrative cost or consequence**, even on success:
 **Magnitude:**
 - **Cantrip:** Automatic minor effect (no roll)
 - **Spell:** Standard effect (Action Roll, standard difficulty)
-- **Potent Spell:** Powerful effect (Action Roll, **costs 1 Stress**, standard difficulty unless situation is Hard)
+- **Potent Spell:** Powerful effect (Action Roll, **costs 1 Stress** + choose ONE enhancement: Greater Effect, Affect Multiple Targets, Increased Duration, or Additional Effect)
 - **Ritual:** Extraordinary effect (structured scene, multiple components)
+
+**Potent Spell Enhancements (choose one):**
+- **Greater Effect:** Double impact (2 ticks, double damage, nearly indestructible)
+- **Affect Multiple Targets:** 2-3 targets or small group
+- **Increased Duration:** Moment → Scene (entire scene)
+- **Additional Effect:** Add secondary consequence (Condition, advantage, etc.)
 
 **Common Effects:**
 - **Attack:** Clash (marks Harm track)
@@ -749,7 +866,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 
 **Buffs/Debuffs:** Grant Boons (buffs) or inflict Conditions/Complications (debuffs)
 
-**Duration:** Instantaneous / Scene-long / Hours (Potent) / Permanent (Ritual)
+**Duration:** Instantaneous (damage, healing) / Moment (1-2 actions: buffs, barriers) / Scene (Potent + Duration) / Permanent (Ritual only)
 
 **Rituals:** Source + Anchors (2-3) + Rites (progress tracks / required actions)
 
@@ -772,7 +889,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 **Why magnitude tiers?**
 - Provides clear framework for "is this possible?"
 - Cantrips feel magical without being powerful
-- Potent Spells require investment (Bane or Momentum spend) for dramatic effects
+- Potent Spells require investment (1 Stress cost + choose enhancement) for dramatic effects
 - Rituals create adventure content (gathering anchors, performing rites)
 
 **Inspirations:**
@@ -789,6 +906,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - Magic uses existing Actions (Defy/Clash/Talk/Sense/Know) based on intent
 - Sage casts with **Cunning**, Mystic casts with **Spirit**
 - Cantrips are unlimited, automatic, and require no roll
-- Potent Spells always cost 1 Stress and represent dramatic magical power
+- Potent Spells always cost 1 Stress + choose ONE enhancement (Greater Effect, Affect Multiple Targets, Increased Duration, or Additional Effect)
+- Default spell durations: Instantaneous (damage, healing) / Moment (1-2 actions: buffs, barriers) / Scene (Potent + Duration) / Permanent (Ritual only)
 - Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 3 Stress OR removes Condition entirely (Potent Spell, costs 1 Stress). On Conflict, healing succeeds but with narrative consequence, not additional Stress.
 - Detecting magic presence is a cantrip (yes/no); getting details uses Sense action (ask questions)

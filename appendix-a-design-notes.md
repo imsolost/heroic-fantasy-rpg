@@ -378,16 +378,16 @@ Multiple Conditions stack (each = 1 Bane) but cap at 2 Banes from Conditions tot
 
 ## Why Short Rests Clear All Conditions?
 
-**10-15 minutes of safety** — This is the "catch your breath after a fight" beat.
+**1 hour in a safe location** — This is the "recover after a significant encounter" beat.
 
-**All Conditions clear on short rest** regardless of tier. This creates clean scene boundaries.
+**All Conditions clear on short rest** regardless of tier. This creates clean encounter boundaries.
 
 In playtesting, we found:
 - **Clearing only Stress:** Players still had Conditions from prior fights, felt punished across multiple encounters
 - **Tier-based clearing (Tier 1-2 clear, Tier 3 stays):** Tracking burden — "which tier was this again?" — and Tier 3 Conditions dragged across scenes
-- **All Conditions clear:** Perfect pacing — one tough fight leaves you with Conditions, short rest resets for next fight
+- **All Conditions clear:** Perfect pacing — one tough fight leaves you with Conditions, short rest resets for next major encounter
 
-**Design intent:** Conditions are scene-level impairment, not adventure-level. They create tension within a fight or sequence, then clear for the next scene.
+**Design intent:** Conditions are encounter-level impairment, not adventure-level. They create tension within a fight or sequence, then clear for the next encounter. The 1-hour duration prevents Stress arbitrage (particularly with Potent spellcasting costing 1 Stress) and makes rest a meaningful tactical commitment rather than a quick reset button.
 
 **Burdens (rare):** For persistent Conditions that DO carry across scenes, use Burdens — explicitly marked as requiring narrative resolution instead of normal rest.
 

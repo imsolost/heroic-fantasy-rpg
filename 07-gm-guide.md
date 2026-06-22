@@ -326,7 +326,7 @@ Conditions have a **name** and a **tier** (1-3):
 
 **Through Action:** Each relevant roll reduces tier by 1 (tier reaches 0 = cleared)
 
-**Through Short Rest:** All Conditions clear after 10-15 minutes of safety
+**Through Short Rest:** All Conditions clear after 1 hour in a safe location
 
 **Through Trait Special Effects:** Secondary Effect can reduce one relevant Condition by 1 tier
 
@@ -379,6 +379,58 @@ Conditions have a **name** and a **tier** (1-3):
 - Give special abilities (see 08-combat.md)
 - Multi-phase (tactics change at 50% track)
 - Describe escalation ("The dragon, enraged, takes flight...")
+
+---
+
+## Tracking Enemy Debuffs
+
+When players place debuff spells or Conditions on enemies, allies gain advantage (1 Boon) on actions against that target. Use physical markers to track duration.
+
+### **Unified Debuff Framework**
+
+Since enemies don't roll (only players do), ALL debuffs on enemies work identically:
+- Allies gain 1 Boon on actions against that enemy
+- Duration measured in ally actions (not enemy actions or rounds)
+- Narrative flavor explains WHY (blinded, marked, slowed, cursed, etc.)
+- Mechanically identical
+
+**Duration:**
+- **Normal Spell/Secondary Effect:** 1-2 ally actions (GM decides: simple = 1, sticky = 2)
+- **Potent Spell + Duration:** All ally actions this scene
+
+This applies to:
+- Spell debuffs (cast on enemy)
+- Secondary Effect: Impair or Weaken (inflict Condition)
+- Both mechanically identical
+
+### **Tracking at the Table**
+
+Use a marker to track remaining actions:
+- Write debuff and count on paper: "Slowed 2" or "Marked 1"
+- Place near enemy miniature/token (or next to name on list)
+- Tick down after each ally action that benefits from it
+
+**Example:**
+1. Sage casts Blind on troll (normal spell, GM decides sticky = 2 actions)
+2. GM writes "Blinded 2" on paper, places by troll's mini
+3. Fighter attacks with 1 Boon (uses Blinded) → Tick to "Blinded 1"
+4. Shadow attacks with 1 Boon (uses Blinded) → Tick to 0, remove marker
+5. Debuff cleared
+
+**Important:** Only tick down when ally actually uses the advantage (acts against that enemy). If allies ignore debuffed enemy, it doesn't tick.
+
+### **Scene-Long Debuffs**
+
+For scene-duration debuffs (Potent Spell + Duration), use different marker:
+- Write "Hexed (Scene)" on paper
+- Keep visible whole scene
+- Don't tick down — all ally actions benefit until scene ends
+
+### **Why This Works**
+- Visual reminder for everyone
+- Easy to track (tick marks)
+- Players make tactical decisions ("Who uses the last Marked advantage?")
+- No mental math
 
 ---
 

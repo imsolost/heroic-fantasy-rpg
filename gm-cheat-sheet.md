@@ -148,7 +148,7 @@ When Complications and Expertise are involved:
 
 ### Stress Track (5 boxes)
 - Mark left to right
-- Clear all Stress on short rest (10-15 min)
+- Clear all Stress on short rest (1 hour, safe location)
 - When full and you'd mark more → Choose: **Take a Burden** or **Be Taken Out**
 
 **Stress Overflow Procedure:**
@@ -163,7 +163,7 @@ When Complications and Expertise are involved:
 - **Effect:** 1 Bane per Condition (multiple Conditions stack)
 - **Pool Modifier Cap:** ±2d maximum (universal rule — Boons and Banes cancel 1:1 before cap)
 - **Tick Down:** Reduce tier by 1 each time you roll where Condition applies
-- **Clear:** All Conditions clear on short rest (10-15 min)
+- **Clear:** All Conditions clear on short rest (1 hour, safe location)
 
 **Common Conditions:** Poisoned, Burned, Blinded, Frightened, Stunned, Prone, Disarmed, Grappled, Weakened
 

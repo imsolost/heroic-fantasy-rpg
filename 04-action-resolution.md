@@ -362,8 +362,17 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 **Change Positioning** — Knock them down, shove them back, pin them, block passage, reach important location, interpose between enemy and ally, corner them
 - *Examples: Knockdown, push off ledge, pin against wall, leap to advantage, trap them in conversation*
 
-**Impair or Weaken** — Inflict a Condition on target (GM determines mechanical effect based on fiction; see "Inflicting Conditions" below)
-- *Examples: Blinded (can't see), Frightened (1 Bane on actions or may flee), Off-Balance (1 Boon to actions against them), Disoriented (1 Bane on actions), Exposed (1 Boon to actions against them)*
+**Impair or Weaken** — Inflict a Condition on the target that creates vulnerability
+- **Effect:** Allies' next 1-2 actions against that target gain 1 Boon (GM decides: simple = 1, sticky = 2)
+- The Condition's name describes why allies gain advantage:
+  - **Blinded** — Can't see attacks coming
+  - **Off-Balance** — Vulnerable to follow-up
+  - **Frightened** — Distracted by fear
+  - **Disoriented** — Can't defend effectively
+  - **Exposed** — Guard is down
+  - **Wounded** — Visible injury creates opening
+- **Mechanically identical** to spell debuffs — allies get 1 Boon for 1-2 ally actions
+- **GM Tracking:** Place marker near enemy (e.g., "Blinded 2"), tick down as allies use advantage
 
 **Create Advantage** — An ally's next action roll against the target gains 1 Boon
 - *Examples: Expose weak point (ally gains 1 Boon), knock off-balance (ally gains 1 Boon), reveal information (ally gains 1 Boon), distract them (ally gains 1 Boon), break formation (ally gains 1 Boon)*
@@ -375,35 +384,44 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 
 ---
 
-### Inflicting Conditions on Enemies
+### Inflicting Conditions on Enemies (Unified Debuff Framework)
 
-**PCs can suffer Conditions** (tier-based, apply 1 Bane, tick down through action). **Enemies typically do not track Conditions the same way** — they don't roll dice, so Banes don't apply.
-
-**When you inflict a Condition on an enemy via Secondary Effect, it creates fictional positioning that affects how the GM narrates and adjudicates:**
-
-**Fictional Impairment (most common):**
-The Condition is primarily narrative. It changes what the enemy can reasonably do and provides fictional justification for player advantage.
-
-- **Blinded enemy:** Can't target specific PCs accurately (GM may have them strike wildly, miss, or act defensively)
-- **Disarmed enemy:** Can't use weapon-based attacks (must retrieve weapon, draw backup, or use improvised attack)
-- **Prone enemy:** Vulnerable to follow-up attacks, must spend effort standing (GM may give PCs Boon on next action, or have enemy use turn standing)
-- **Frightened enemy:** May flee, fight defensively, or hesitate (GM narrates accordingly)
-
-**Mechanical Effect (optional, GM discretion):**
-The GM may impose mechanical disadvantages when it makes sense:
-- **Reduce enemy's effective Tier** by 1 for duration of Condition (fewer ticks marked by PC attacks)
-- **Grant PCs Boons** on actions against impaired enemy (justified by fiction)
-- **Prevent specific Challenge Moves** (blinded enemy can't use "Precise Shot" move, frightened enemy can't use "Rallying Cry")
+**Core Principle:** Since enemies don't roll (only players do), ALL debuffs on enemies work identically:
+- Allies gain 1 Boon on actions against that enemy
+- Duration measured in ally actions (not enemy actions or rounds)
+- Narrative flavor explains WHY (blinded, marked, slowed, cursed, etc.)
+- Mechanically identical
 
 **Duration:**
-- Minor impairments (tier 1-2 equivalent): Last until enemy takes action to clear it (stand up, retrieve weapon, shake off fear)
-- Significant impairments (tier 3 equivalent): Last for multiple exchanges or until PC sustains pressure
+- **Normal Spell/Secondary Effect:** 1-2 actions (GM decides: simple = 1, sticky = 2)
+- **Potent Spell + Duration:** All ally actions this scene
+
+**Tracking:**
+- Physical marker near enemy ("Blinded 2", "Marked 1")
+- Tick down as allies use the advantage
+- Scene-long = no tick down
+
+**This applies to:**
+- Spell debuffs (cast on enemy)
+- Secondary Effect: Impair or Weaken (inflict Condition)
+- Both mechanically identical
 
 **Example in Play:**
 > **PC (Triumph + Trait):** "I kick sand in his eyes as I strike — I want to Blind him!"
-> **GM:** "Alright, he's Blinded. He stumbles back, pawing at his face. I'm not going to have him attack this round — he's focused on clearing his vision. Anyone acting against him this round gains 1 Boon."
-> *(Next round)*
-> **GM:** "He's blinking away the sand but still disoriented. I'll say he's still Blinded for one more exchange — the Boon still applies if you press him."
+> **GM:** "Alright, he's Blinded 2. He stumbles back, pawing at his face." *(Places marker near enemy)*
+> **Ally 1 attacks:** "I'm using his blindness to strike!" → Gains 1 Boon → *(GM ticks marker to "Blinded 1")*
+> **Ally 2 follows up:** "Same!" → Gains 1 Boon → *(GM removes marker - effect ends)*
+
+**Common Conditions and Why They Grant Boons:**
+- **Blinded** — Can't see attacks coming
+- **Off-Balance** — Vulnerable to follow-up
+- **Frightened** — Distracted by fear
+- **Disoriented** — Can't defend effectively
+- **Exposed** — Guard is down
+- **Wounded** — Visible injury creates opening
+- **Marked** (spell) — Mystically vulnerable
+- **Slowed** (spell) — Can't evade effectively
+- **Cursed** (spell) — Weakened by magic
 
 ---
 
@@ -417,7 +435,7 @@ The GM may impose mechanical disadvantages when it makes sense:
 
 **Scope Guidelines (Per Category):**
 - Affect 2-3 additional targets (physical), or entire small group (social, typically 4-6 NPCs)
-- Inflict impairments that last 1-2 exchanges or until enemy acts to clear them
+- Inflict impairments that last 1-2 actions or until enemy acts to clear them
 - Take one object, gain one strategic advantage, create one significant narrative shift
 
 **Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets, permanent changes).

@@ -173,11 +173,17 @@ When you choose the **Secondary Effect** option, you produce an additional conse
   - Mechanical benefit is always the same: ally's next action gains 1 Boon
 
 **Impair or Weaken:**
-- **Effect:** Inflict a Condition on target (Blinded, Frightened, Disoriented, Off-Balance, Exposed, Silenced, etc.)
-- GM determines mechanical effect based on fiction:
-  - 1 Bane on target's actions (Frightened, Disoriented)
-  - Grant 1 Boon to actions against them (Off-Balance, Exposed)
-  - Fictional restriction (Blinded can't see, Silenced can't speak)
+- **Effect:** Inflict a Condition on the target that creates vulnerability
+- Allies' next 1-2 actions against that target gain 1 Boon (GM decides: simple = 1, sticky = 2)
+- The Condition's name describes why allies gain advantage:
+  - **Blinded** — Can't see attacks coming
+  - **Off-Balance** — Vulnerable to follow-up
+  - **Frightened** — Distracted by fear
+  - **Disoriented** — Can't defend effectively
+  - **Exposed** — Guard is down
+  - **Wounded** — Visible injury creates opening
+- **Mechanically identical** to spell debuffs — allies get 1 Boon for 1-2 actions
+- **GM Tracking:** Place marker near enemy (e.g., "Blinded 2"), tick down as allies use advantage
 
 **Other Secondary Effects:**
 - **Take Something:** Disarm weapon, steal item, grab hostage

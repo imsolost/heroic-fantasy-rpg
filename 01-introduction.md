@@ -114,7 +114,7 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 - Each Condition = 1 Bane (you can have multiple Conditions)
 - Pool modifier cap: ±2d (after Boons/Banes cancel 1:1) — universal rule
 - Tier (1-3) = duration, reduces by 1 per relevant action roll
-- Clear when tier reaches 0 OR on short rest (10-15 minutes)
+- Clear when tier reaches 0 OR on short rest (1 hour, safe location)
 - Example: Poisoned 2 → act through it → Poisoned 1 → act again → clears
 - Example: 3 Conditions = 3 Banes → capped at -2d to your pool
 

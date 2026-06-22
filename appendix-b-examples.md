@@ -176,7 +176,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 - Aria: Poisoned 3 (1 Bane), 5/5 Stress
 - Finn: Bleeding 1 (1 Bane), 3/5 Stress
 
-**GM:** "You catch your breath in the alcove. 10 minutes pass — take a short rest."
+**GM:** "You catch your breath in the alcove. An hour passes in safety — take a short rest."
 
 **After short rest:**
 - Kael: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
@@ -416,7 +416,7 @@ Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **GM:** "The fight ends. You're all bloodied and exhausted. Take a short rest while you catch your breath."
 
-**After 10-15 minutes:**
+**After 1 hour:**
 - Aria: 0/5 Stress, no Conditions (fully recovered)
 - Kael: 0/5 Stress, Wounded 2 (Burden) still persists — Burdens don't clear on short rest
 - Finn: 0/5 Stress, no Conditions (fully recovered)

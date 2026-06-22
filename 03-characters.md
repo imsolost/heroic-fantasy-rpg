@@ -554,7 +554,7 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 **Scale:** City/regional level, professional adventurers
 
-**Archetypes:** Action heroes and legendary warriors—John Wick, Captain America, Batman, Lancelot, Odysseus, Legolas, Geralt of Rivia, Conan, Mugen (Samurai Champloo), Sherlock Holmes, Indiana Jones
+**Archetypes:** Action heroes and legendary warriors—John Wick, Captain America, Batman, Lancelot, Odysseus, Legolas, Geralt of Rivia, Conan, Thors Snorresson (Vinland Saga), Sherlock Holmes, Indiana Jones
 
 **Tone:** Beyond human capability—action heroes who perform feats that defy real-world biology but remain grounded in mortal achievement rather than outright magic. These heroes execute impossible competence: defeating dozens of trained soldiers, deciphering ancient languages on the fly, surviving injuries that would cripple ordinary people, building incredible devices from scraps. We suspend our disbelief because of the genre—they exceed what any real person could accomplish, but through extraordinary skill, intellect, and determination, not supernatural power.
 

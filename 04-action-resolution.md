@@ -351,36 +351,36 @@ Any character attacks enemy with 3 Complications
 
 When you choose Secondary Effect (from Trait invocation), produce an additional consequence beyond the base effect of your action. Secondary Effects should feel impactful and heroic, but not encounter-ending.
 
-**The Six Categories:**
+**The Eight Categories:**
 
 When you invoke a Trait for Secondary Effect, choose one of these categories and describe the specific fictional expression. This framework preserves creative flexibility while eliminating negotiation overhead.
 
-**Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum, wrest control of authority/situation, claim resource
-- *Examples: Disarm weapon, grab key, seize high ground, steal credibility, claim enemy's plan as your own*
+**Greater Effect** — Mark 2 ticks instead of 1
+- *Examples: Devastating strike, comprehensive argument, thorough investigation*
 
 **Affect Additional Target** — Your action impacts additional targets beyond the primary (strike cuts through multiple foes, words sway entire group, environmental effect spreads)
 - *Examples: Cleave through 2-3 enemies, convince multiple listeners, trigger chain reaction*
 
-**Change Positioning** — Knock them down, shove them back, pin them, block passage, reach important location, interpose between enemy and ally, corner them
-- *Examples: Knockdown, push off ledge, pin against wall, leap to advantage, trap them in conversation*
-
-**Impair or Weaken** — Inflict a Condition on the target that creates vulnerability
+**Inflict Condition** — Apply a debuff that creates vulnerability (see Inflicting Conditions section below)
 - **Effect:** Allies' next 1-2 actions against that target gain 1 Boon (GM decides: simple = 1, sticky = 2)
-- The Condition's name describes why allies gain advantage:
-  - **Blinded** — Can't see attacks coming
-  - **Off-Balance** — Vulnerable to follow-up
-  - **Frightened** — Distracted by fear
-  - **Disoriented** — Can't defend effectively
-  - **Exposed** — Guard is down
-  - **Wounded** — Visible injury creates opening
-- **Mechanically identical** to spell debuffs — allies get 1 Boon for 1-2 ally actions
-- **GM Tracking:** Place marker near enemy (e.g., "Blinded 2"), tick down as allies use advantage
+- *Examples: Blind them (kick sand in eyes), Frighten them (intimidating display), Weaken them (wound leg), Disorient them (stun with blow)*
 
-**Create Advantage** — An ally's next action roll against the target gains 1 Boon
-- *Examples: Expose weak point (ally gains 1 Boon), knock off-balance (ally gains 1 Boon), reveal information (ally gains 1 Boon), distract them (ally gains 1 Boon), break formation (ally gains 1 Boon)*
+**Create Advantage** — Help ally or hinder foe to grant 1 Boon on next action(s) against target
+- **Effect:** One ally gains 1 Boon on their next action against the target (GM may extend to 1-2 actions if particularly sticky)
+- *Examples: Flank enemy (help ally), throw flour on invisible foe (hinder and reveal), disrupt formation, expose weak point, break concentration, create opening*
 
-**Keep Them Busy** — Impede them (negate advantage/opportunity/resistance they had), distract them, exhaust them, occupy their attention
-- *Examples: Cancel enemy's prepared action, hold them off while allies advance, prevent reinforcements from arriving*
+**Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum, wrest control of authority/situation, claim resource, acquire information
+- *Examples: Disarm weapon, grab key, seize high ground, steal credibility, extract secret during conversation*
+- **Note:** Can remove Complications if you take their source (disarm Deadly sword, steal warded amulet)
+
+**Reposition** — Move target, change positioning, control space, alter tactical situation
+- *Examples: Knockdown, push off ledge, pin against wall, shove into hazard, leap to advantage, trap them in conversation, deny access to zone*
+
+**Keep Them Busy** — Occupy attention, prevent reinforcements, delay, distract
+- *Examples: Hold off enemies while allies escape, cancel prepared action, prevent reinforcements from arriving*
+
+**Environmental Effect** — Create lasting change to the environment or situation
+- *Examples: Catch structure on fire, collapse supports, create hazard, alter terrain, break through barrier, trigger mechanism*
 
 **Note:** "Create Advantage" (Secondary Effect) grants ally 1 Boon only. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge. Edge remains premium/scarce—only from Momentum spends and Talents.
 
@@ -427,9 +427,51 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 
 ---
 
+### Using Secondary Effects to Bypass Complications
+
+**Fiction Changes Complications:**
+
+Secondary Effects can change the fiction in ways that remove or bypass enemy Complications:
+
+- **Take Something:** Disarm Death Knight's legendary sword → Remove **Deadly** Complication
+- **Create Advantage:** Throw flour on invisible assassin → Remove **Elusive** Complication (allies get Boon)
+- **Environmental Effect:** Smash knight's armor with warhammer → Remove **Armored** Complication  
+- **Reposition:** Knockdown charging bull → Remove movement-based threat
+
+When a Secondary Effect changes the fiction in a way that logically removes a Complication's source, that Complication no longer applies.
+
+**Examples in Play:**
+
+> **PC attacks armored knight (Resilient 2), rolls Triumph + invokes "Warhammer Master" Trait:**
+> "I want to smash his breastplate with my hammer — Take Something to destroy his armor!"
+> **GM:** "His armor crumples under the blow. The Resilient Complication is gone — future attacks don't face it."
+
+> **PC attacks invisible foe (Elusive 2), rolls Success + invokes "Quick Thinking" Trait:**
+> "I grab flour from my pouch and toss it — Create Advantage by revealing them!"
+> **GM:** "The flour outlines their form. They're visible now — no more Elusive Complication. Your ally gets 1 Boon on the next attack too."
+
+---
+
+### Creative Narrative Effects
+
+**Work with Your GM:**
+
+Secondary Effects can create narrative advantages that don't fit neatly into the categories above. If your success should logically produce a lasting fictional change, work with your GM to determine the impact:
+
+- Make a merchant remain friendly after negotiation
+- Extract secrets from someone during conversation  
+- Impress witnesses to gain reputation
+- Create a distraction that complicates enemy plans
+- Establish a fact about the environment
+- Change the tone or stakes of a negotiation
+
+If the effect changes the fiction in a meaningful way that doesn't grant immediate mechanical bonuses, it's still a valid Secondary Effect. The key is that it creates a **lasting fictional advantage** that could pay off later.
+
+---
+
 ### GM Guidance: Adjudicating Secondary Effects
 
-**Use the Six Categories:** Players choose a category (Take Something, Affect Additional Target, Change Positioning, Impair or Weaken, Create Advantage, Keep Them Busy), then describe the specific fictional expression. This eliminates "what counts as a Secondary Effect?" negotiations while preserving creative flexibility.
+**Use the Eight Categories:** Players choose a category, then describe the specific fictional expression. This eliminates "what counts as a Secondary Effect?" negotiations while preserving creative flexibility.
 
 **Fiction First:** Does it make sense given what just happened? The Secondary Effect should flow naturally from the action and fiction.
 
@@ -815,6 +857,26 @@ Use when:
 - Identify the artifact → Success → GM: "It's the Sundering Stone—it breaks magical wards when activated." You: "What's the activation trigger?" GM: "Blood from a willing participant."
 - Deduce trap mechanism → Conflict → GM: "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (soft Impact Move)
 - Remember demon lore → Triumph → GM: "This is a bound demon—it cannot leave the summoning circle." You: "How long until the binding breaks?" GM: "Days, not weeks." + gain 1 Momentum
+
+**Know Does NOT Mark Tracks:**
+
+Know provides information only—it doesn't overcome obstacles directly. After gaining knowledge, you typically need another Action to apply it:
+
+**Example: The Know → Defy Loop**
+
+> **PC approaches locked door with complex mechanism:**
+> 
+> **PC:** "I study the lock mechanism to understand how it works — Know with Cunning."
+> **Rolls:** Success
+> **GM:** "You recognize it's a three-tumbler ward lock—tricky, but beatable if you work the pins in sequence." 
+> **PC:** "What's the sequence?" 
+> **GM:** "Left, center, right."
+> 
+> **PC:** "Now I pick the lock following that sequence — Defy with Cunning."
+> **Rolls:** Success (using the knowledge gained)
+> **GM:** "You work the pins methodically. *Click, click, click.* The lock opens."
+
+The Know roll **gave you information**. The Defy roll **applied that knowledge** to overcome the obstacle. This two-step loop prevents Know from trivializing challenges while rewarding characters who take time to study problems before acting.
 
 **Example Special Effects (from Trait):**
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)

@@ -82,6 +82,15 @@ Combat maneuvers are just **regular Actions with declared intent**. You don't ne
 - **Conflict or higher + Trait:** You achieve your intent **and** may invoke a relevant Trait for **Secondary Effect** (see Chapter 4)
 - **Setback:** You fail and suffer consequence
 
+**Secondary Effects are the key tool** for achieving impressive combat maneuvers:
+- **Take Something:** Disarm weapon, steal object, seize position
+- **Reposition:** Knockdown, pin, push, pull, trap in position
+- **Inflict Condition:** Blind, stun, weaken, disorient (allies gain Boon)
+- **Create Advantage:** Expose weakness, break formation, distract (ally gains Boon)
+- **Environmental Effect:** Kick brazier into face, trigger trap, collapse structure
+
+See **Chapter 4: Secondary Effects** for the complete framework.
+
 **On enemies, maneuvers create fictional positioning** that affects how the GM narrates and adjudicates (see "Inflicting Conditions on Enemies" in Chapter 4).
 
 ---
@@ -98,12 +107,12 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 **Knockdown** — "I sweep his legs as he overextends."
 - Action: Clash with Grace
 - Success: Enemy knocked prone (vulnerable to follow-up, must use effort to stand)
-- + Secondary Effect: Also stun them (Impair), create opening for ally - ally gains 1 Boon on next action (Create Advantage), affect nearby enemy as well (Affect Additional Target)
+- + Secondary Effect: Also stun them (Inflict Condition), create opening for ally - ally gains 1 Boon on next action (Create Advantage), affect nearby enemy as well (Affect Additional Target)
 
 **Pin/Grapple** — "I tackle him and pin his arms."
 - Action: Clash with Daring
 - Success: Enemy pinned (can't move zones, you're also engaged and can't freely move)
-- + Secondary Effect: Also disarm them (Take Something), apply chokehold (Impair), drag them into hazard (Reposition)
+- + Secondary Effect: Also disarm them (Take Something), apply chokehold (Inflict Condition), drag them into hazard (Reposition)
 
 **Shove/Push** — "I shield-bash him toward the cliff edge."
 - Action: Clash with Daring
@@ -113,22 +122,22 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 **Create Opening** — "I feint high to draw his guard up."
 - Action: Clash with Cunning (could also be Sense to spot weakness)
 - Success: Ally gains 1 Boon on next action against this target
-- + Secondary Effect: Multiple allies gain 1 Boon on next action (Affect Additional Target), enemy is off-balance and vulnerable (Impair)
+- + Secondary Effect: Multiple allies gain 1 Boon on next action (Affect Additional Target), enemy is off-balance and vulnerable (Inflict Condition)
 
 **Sunder Equipment** — "I target his shield, trying to splinter it."
 - Action: Clash with Daring
 - Success: Damage shield (enemy loses defensive advantage fictionally, or reduces armor uses)
-- + Secondary Effect: Shield breaks completely (Take Something), splinters strike him in face (Impair)
+- + Secondary Effect: Shield breaks completely (Take Something - removes Armored Complication), splinters strike him in face (Inflict Condition - Blinded)
 
 **Environmental Combo** — "I kick the brazier into his face."
 - Action: Clash with Daring
 - Success: Deal damage + environmental effect (fire, distraction)
-- + Secondary Effect: Blind him with hot coals (Impair), flames distract enemy (Create Advantage: ally's next roll against target gains 1 Boon)
+- + Secondary Effect: Blind him with hot coals (Inflict Condition), flames distract enemy (Create Advantage: ally's next roll against target gains 1 Boon)
 
 **Keep Them Busy** — "I hold them off while my allies escape."
 - Action: Clash or Defy with intent to occupy
 - Success: Enemy focuses on you, cannot easily pursue allies
-- + Secondary Effect: Impede their reinforcements (negate advantage they had), exhaust them (Impair for future), block passage completely (Reposition)
+- + Secondary Effect: Impede their reinforcements (negate advantage they had), exhaust them (Inflict Condition for future), block passage completely (Reposition)
 
 ---
 

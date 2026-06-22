@@ -2,6 +2,8 @@
 
 When a Player Character faces a risky, difficult, or dramatically significant situation, the outcome is determined by the **Action Roll**.
 
+**Complete Reference:** This chapter provides comprehensive procedures, edge cases, and detailed examples. For a quick-start overview of the core loop, see **Chapter 2: Core Mechanics**.
+
 For core mechanics (Actions, Approaches, Momentum, Stress), see [02-core-mechanics.md](02-core-mechanics.md).
 
 ---

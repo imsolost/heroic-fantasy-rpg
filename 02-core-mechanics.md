@@ -2,6 +2,8 @@
 
 This chapter covers the fundamental resolution system: how to roll dice, interpret outcomes, and understand probability.
 
+**Quick Start:** This chapter provides the core loop—enough to start playing. For complete procedures, edge cases, and detailed examples, see **Chapter 4: Action Resolution**.
+
 For character creation and Traits, see **Chapter 3: Characters**.  
 For complete Action Roll procedures and tracks, see **Chapter 4: Action Resolution**.  
 For Stress & Conditions, see **Chapter 5: Resilience**.
@@ -144,6 +146,8 @@ Check your dice results:
 - **Two or more 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications *(see Chapter 6 for Complication tags)*
 
 **Key Principle:** Only the highest single die matters (except for double 6s triggering Triumph).
+
+**Important:** Triumph can only be achieved by rolling two or more 6s—it cannot be created through Expertise, Edge, or Boons upgrading a lower result. These modifiers can improve outcomes up to Success, but Triumph requires the raw roll.
 
 **Design Note:** This method feels fast and forgiving. Setbacks become rare past 3d6 (12.4% at 3d6, 6.2% at 4d6), creating a competent-hero feel from the start.
 
@@ -293,6 +297,8 @@ Boon and Bane represent advantage and disadvantage.
 - Add Boons or negate Complications
 
 **Expertise converts failure → success, but success at a cost.**
+
+**Warning:** Against 2+ Complications without Edge or Boons, even Expertise cannot prevent Disaster. When Success reduces through multiple Complications (Success → Conflict → Setback → Disaster), Expertise only upgrades the final Setback to Conflict, leaving you at Disaster. Against heavily Complicated foes, you must Create an Opening (spend Momentum for Edge) or gain Boons to avoid catastrophic outcomes.
 
 ### Common Expertise Domains
 

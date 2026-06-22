@@ -40,15 +40,31 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 ---
 
-## Resolution Order Algorithm (Quick Reference)
+## Resolution Order (Step-by-Step)
 
 **For complete algorithm with examples, see Chapter 4: Action Resolution**
 
-When Complications and Expertise are involved:
+```
+1. Roll Dice
+   ↓
+2. Read Outcome (highest die, or two+ 6s = Triumph)
+   ↓
+3. Apply Complications (each reduces outcome 1 tier)
+   ↓
+4. Apply Edge (cancels Complications 1:1)
+   ↓
+5. Apply Expertise (Setback → Conflict if in domain)
+   ↓
+6. Final Outcome & Consequence Tier
+   ↓
+7. Invoke Trait (if Conflict+ and relevant)
+```
 
-1. Roll dice → 2. Apply Complications (check tags) → 3. Apply Expertise → 4. Map to Consequence tier → 5. Resolve
-
-**Key:** Triumph ignores all Complications | Expertise converts Setback→Conflict (not Disaster) | Check Complication tags to see which apply (Chapter 6)
+**Key Reminders:**
+- **Triumph ignores ALL Complications** (skip steps 3-5, go straight to step 6)
+- **Expertise does NOT prevent Disaster** (only upgrades Setback → Conflict)
+- **Triumph cannot be created** (requires raw roll of two+ 6s, not upgraded via Expertise/Edge)
+- **Check Complication tags** to see which apply to the action (Chapter 6)
 
 ---
 

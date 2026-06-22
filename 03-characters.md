@@ -515,13 +515,17 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 **Key Principles:**
 
-**Rank grants narrative permission for scale, not automatic capability.** A Rank 4 Sage can attempt world-shaping magic because they're at demigod tier—but they still need magical Talents, appropriate Traits, and fictional positioning. A Rank 4 Champion can't punch through castle walls just because they're high Rank—they need the physical prowess their Calling provides.
+**Rank determines the scale of feats available—your Calling, Talents, Traits, and fictional positioning determine which feats you can actually perform.** A Rank 3 hero operating at mythic scale doesn't automatically gain the ability to lift oxen overhead or translate dead languages. A Rank 3 Champion with appropriate physical prowess can lift incredible weights; a Rank 3 Scholar with linguistic expertise can translate lost tongues. Rank says "heroes at this tier can operate at this scale"—your character build says "this is what my hero can do at that scale."
+
+**Example:** A Rank 3 merchant cannot lift an ox overhead simply because they're Rank 3. That feat requires appropriate fictional capability (supernatural strength, divine blessing, a Calling focused on physical prowess). Rank grants narrative permission to attempt feats of that scale; your character specifics determine what you actually accomplish.
 
 **Magic follows the same narrative scale as all other actions.** A Rank 2 spellcaster cannot achieve Rank 4 effects simply because they wield supernatural power. Magic respects Rank boundaries just like physical actions—your Rank determines the scale of what you can attempt, magical or otherwise. See Chapter 10: Spellcasting for detailed magical scaling by Rank.
 
 ---
 
 #### Rank 1: Local Heroes (Levels 1-3)
+
+**Genre:** Exceptional mortals—the greatest heroes a real-world legend might plausibly produce.
 
 **Scale:** Village/neighborhood level, grounded adventures
 
@@ -546,9 +550,11 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 
 #### Rank 2: Seasoned Adventurers (Levels 4-6)
 
+**Genre:** Action heroes—impossible competence and cinematic feats that exceed human limits.
+
 **Scale:** City/regional level, professional adventurers
 
-**Archetypes:** Action heroes and legendary warriors—John Wick, Captain America, Lancelot, Odysseus, Hawkeye, Black Widow, Geralt of Rivia, Mugen (Samurai Champloo), Thorfinn (Vinland Saga), Daniel Jackson (Stargate), Tony Stark, Batman
+**Archetypes:** Action heroes and legendary warriors—John Wick, Captain America, Batman, Lancelot, Odysseus, Legolas, Geralt of Rivia, Conan, Mugen (Samurai Champloo), Sherlock Holmes, Indiana Jones
 
 **Tone:** Beyond human capability—action heroes who perform feats that defy real-world biology but remain grounded in mortal achievement rather than outright magic. These heroes execute impossible competence: defeating dozens of trained soldiers, deciphering ancient languages on the fly, surviving injuries that would cripple ordinary people, building incredible devices from scraps. We suspend our disbelief because of the genre—they exceed what any real person could accomplish, but through extraordinary skill, intellect, and determination, not supernatural power.
 
@@ -562,7 +568,7 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 **Typical Challenges:**
 - **Fighting dozens of well-trained soldiers and plausibly winning**, defeating dangerous beasts (dire wolves, young wyverns, owlbears)
 - **Leaping impossible gaps** (20-30 feet), **scaling castle walls in minutes**, swimming storm-tossed channels, riding dangerous animals (bears, young drakes)
-- **Smashing through wooden barricades with shoulder charges**, **punching through wooden doors and thin masonry walls**
+- **Smashing through wooden barricades with shoulder charges**, **breaking through reinforced doors and cracking light stonework with repeated strikes**
 - **Lifting or carrying loads that would require multiple people** (flip carts, hold up collapsing beams, carry injured allies while fighting)
 - **Surviving falls that would cripple ordinary people** (3-4 stories, with injury), going without sleep for days, **withstanding tremendous pain without breaking**
 - Sensing master assassins stalking you, tracking through rain or snow, **detecting subtle magic or invisible creatures**, predicting weather days ahead
@@ -587,6 +593,8 @@ The difference is **genre**, not just scale. Rank 2 heroes push the limits of be
 ---
 
 #### Rank 3: Regional Legends (Levels 7-9)
+
+**Genre:** Mythic heroes—physics-defying champions whose deeds become folklore.
 
 **Scale:** Regional/national threats, wuxia/mythological heroes
 
@@ -617,6 +625,8 @@ The difference is **genre**, not just scale. Rank 2 heroes push the limits of be
 ---
 
 #### Rank 4: Mythic Heroes (Level 10)
+
+**Genre:** Demigods—world-shaping figures whose actions alter history.
 
 **Scale:** World-ending threats, demigod tier
 
@@ -661,8 +671,8 @@ The following examples illustrate the **scope and scale** of what's possible at 
 
 **Rank 2:**
 - **Fight dozens of well-trained soldiers and plausibly win**, defeat dangerous beasts (dire wolf, young wyvern, owlbear)
-- **Smash through wooden barricades with shoulder charges**, **punch through wooden doors and thin masonry walls**
-- Break through reinforced doors or snap chains with sustained strikes
+- **Smash through wooden barricades with shoulder charges**, **break through reinforced doors**
+- **Crack light stonework with repeated strikes**, snap chains with sustained effort
 - Chop through thick wooden pillars or crack structural masonry with repeated blows
 
 **Rank 3:**
@@ -776,9 +786,11 @@ The following examples illustrate the **scope and scale** of what's possible at 
 - **Research forbidden lore**, find weak points in magical seals
 
 **Rank 3:**
-- **Make breakthrough magical discoveries**, **create new spells or alchemical formulas**
+- **Make breakthrough magical discoveries**, **create entirely new spells or alchemical formulas on the spot**
 - **Translate dead languages upon first sight through pattern recognition**
-- Solve mysteries that would stump teams of experts
+- **Reconstruct lost history from minimal fragments**, understand ancient machines after brief examination
+- **Derive new magical theories through intuition alone**, solve mysteries that baffled generations of scholars
+- Predict a kingdom's future trajectory from current political currents
 
 **Rank 4:**
 - **Reconstruct events from minimal evidence** (two hairs and blood spatter)

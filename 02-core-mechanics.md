@@ -58,13 +58,15 @@ Act despite an imminent threat, danger, or obstacle.
 ---
 
 ### 2. Clash — Harm
-Try to hurt someone, physically or mentally. **Clash breaks resistance through force.**
+Try to hurt someone, physically or mentally. **Clash breaks resistance through force and confrontation.**
 
 **Primary Effect:** Mark 1 tick on Harm track OR defeat the target entirely (when no track is present because the target is minor or vulnerable)
 
-**Examples:** Sword strikes, thrown daggers, vicious insults, intimidating roars, brutal tackles, forcing compliance through violence or domination
+**Examples:** Sword strikes, thrown daggers, vicious insults, intimidating roars, brutal tackles, forcing compliance through violence or domination, leading troops in battle, breaking enemy morale, commanding forces against opposition
 
 **Clash vs Talk:** If you're threatening violence to make them comply, that's Clash (breaking their will through force). If you're negotiating or persuading them to comply, that's Talk (changing their mind).
+
+**Note:** Clash encompasses all forms of direct confrontation—physical combat, intimidation, and battle leadership. If you're directly opposing someone (fighting, threatening, commanding troops against them), it's Clash. If you're overcoming an obstacle or challenge without direct opposition, use Defy instead.
 
 ---
 

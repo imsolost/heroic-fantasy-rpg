@@ -617,8 +617,10 @@ Mark progress on a **Harm or Will track** (depending on delivery) OR defeat the 
 Use when:
 - Attacking with weapons, fists, or magic (marks **Harm track**)
 - Trading blows in combat (marks **Harm track**)
+- Leading troops in battle against enemy forces (marks **Harm track** on enemy force)
 - Hurling vicious insults, taunts, or intimidation with intent to break them (marks **Will track**)
 - Demoralizing, humiliating, or psychologically dominating an opponent (marks **Will track**)
+- Breaking enemy morale, forcing surrenders through intimidation (marks **Will track**)
 
 **Your fictional approach determines which track you mark:**
 - **Physical delivery** (weapons, fists, magic blasts) → marks **Harm track**

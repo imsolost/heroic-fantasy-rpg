@@ -100,44 +100,44 @@ See **Chapter 4: Secondary Effects** for the complete framework.
 These are examples to illustrate the variety possible. Declare your intent, the GM determines the Action and stakes, you roll.
 
 **Disarm** — "I hook his sword with my axe and twist to disarm him."
-- Action: Clash with Daring
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Grace (if just trying to disarm)
 - Success: Enemy drops weapon (must spend effort to retrieve or draw backup)
 - + Secondary Effect: Kick weapon away (Take Something), shove enemy back (Reposition), catch their weapon mid-air (Take Something + impressive)
 
 **Knockdown** — "I sweep his legs as he overextends."
-- Action: Clash with Grace
+- Action: Clash with Grace (if trying to hurt them) OR Defy with Grace (if just trying to trip them)
 - Success: Enemy knocked prone (vulnerable to follow-up, must use effort to stand)
-- + Secondary Effect: Also stun them (Inflict Condition), create opening for ally - ally gains 1 Boon on next action (Create Advantage), affect nearby enemy as well (Affect Additional Target)
+- + Secondary Effect: Create opening for ally - Dazed 1 (ally gains 1 Boon on next action), affect nearby enemy as well (Affect Additional Target)
 
 **Pin/Grapple** — "I tackle him and pin his arms."
-- Action: Clash with Daring
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (if just restraining)
 - Success: Enemy pinned (can't move zones, you're also engaged and can't freely move)
-- + Secondary Effect: Also disarm them (Take Something), apply chokehold (Inflict Condition), drag them into hazard (Reposition)
+- + Secondary Effect: Also disarm them (Take Something), apply chokehold - Choking 1 (Create Advantage), drag them into hazard (Reposition)
 
 **Shove/Push** — "I shield-bash him toward the cliff edge."
-- Action: Clash with Daring
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (if just repositioning)
 - Success: Move enemy one zone (into hazard, off ledge, away from ally)
-- + Secondary Effect: Enemy falls and is prone (Reposition + Impair), you also push nearby enemy (Affect Additional Target)
+- + Secondary Effect: Enemy falls and is prone (Reposition), you also push nearby enemy (Affect Additional Target)
 
 **Create Opening** — "I feint high to draw his guard up."
-- Action: Clash with Cunning (could also be Sense to spot weakness)
-- Success: Ally gains 1 Boon on next action against this target
-- + Secondary Effect: Multiple allies gain 1 Boon on next action (Affect Additional Target), enemy is off-balance and vulnerable (Inflict Condition)
+- Action: Clash with Cunning (if harming), Defy with Cunning (if maneuvering), or Sense to spot weakness
+- Success: Create Advantage - Off-Balance 1 (ally gains 1 Boon on next action against target)
+- + Secondary Effect: Greater Effect (Off-Balance 2 - lasts 2 actions) OR Affect Additional Target (multiple enemies Off-Balance 1)
 
 **Sunder Equipment** — "I target his shield, trying to splinter it."
-- Action: Clash with Daring
+- Action: Clash with Daring (if trying to hurt them while breaking gear)
 - Success: Damage shield (enemy loses defensive advantage fictionally, or reduces armor uses)
-- + Secondary Effect: Shield breaks completely (Take Something - removes Armored Complication), splinters strike him in face (Inflict Condition - Blinded)
+- + Secondary Effect: Shield breaks completely (Take Something - removes Armored Complication), splinters strike him in face - Blinded 1 (Create Advantage)
 
 **Environmental Combo** — "I kick the brazier into his face."
-- Action: Clash with Daring
+- Action: Clash with Daring (if trying to harm) OR Defy with Daring (if just repositioning environment)
 - Success: Deal damage + environmental effect (fire, distraction)
-- + Secondary Effect: Blind him with hot coals (Inflict Condition), flames distract enemy (Create Advantage: ally's next roll against target gains 1 Boon)
+- + Secondary Effect: Blind him with hot coals - Blinded 1 (Create Advantage), flames spread to create hazard (Environmental Effect)
 
 **Keep Them Busy** — "I hold them off while my allies escape."
-- Action: Clash or Defy with intent to occupy
+- Action: Clash (if trying to harm) or Defy (if just occupying/distracting)
 - Success: Enemy focuses on you, cannot easily pursue allies
-- + Secondary Effect: Impede their reinforcements (negate advantage they had), exhaust them (Inflict Condition for future), block passage completely (Reposition)
+- + Secondary Effect: Impede their reinforcements (negate advantage they had), exhaust them - Tired 1 (Create Advantage), block passage completely (Reposition)
 
 ---
 

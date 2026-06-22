@@ -99,13 +99,13 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 | Action | Intent | Marks Track | Examples |
 |--------|--------|-------------|----------|
-| **Clash** | Harm/destroy | Harm | Attack enemy, smash object, break through barrier |
-| **Defy** | Overcome danger | Obstacle | Dodge trap, resist spell, endure pain, overcome physical challenge |
-| **Talk** | Influence/persuade | Will | Convince, intimidate, deceive, inspire, seduce |
+| **Clash** | Harm/destroy | Harm or Will | Attack enemy, smash object, intimidate through force |
+| **Defy** | Push limits / risky action | Obstacle (if sustained) | Dodge trap, leap chasm, pickpocket, knockdown foe (no harm), resist spell, cast debuff spell |
+| **Talk** | Influence/persuade | Will | Convince, inspire, deceive, negotiate |
 | **Sense** | Observe/perceive | — | Spot hidden, read situation, track, detect lies (ask 2 questions) |
-| **Know** | Recall/deduce | — | Remember lore, solve puzzle, analyze clue (gain information only, use Defy to overcome obstacles) |
+| **Know** | Recall/deduce | — | Remember lore, solve puzzle, analyze clue (gain info, then use Defy to act on it) |
 
-**Know does NOT mark tracks.** Use Know to gain information, then use Defy (with Cunning) to overcome the obstacle with that knowledge.
+**Defy is the catch-all for risky/extraordinary actions** not covered by other Actions. Simple tasks resolve in one roll; complex challenges use Obstacle tracks.
 
 ---
 

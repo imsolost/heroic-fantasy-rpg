@@ -58,7 +58,7 @@ When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know
 
 | Action | Primary Effect | What It Does |
 |--------|----------------|--------------|
-| **Defy** | Overcome | Mark Obstacle track OR automatically overcome simple barriers |
+| **Defy** | Overcome | Achieve risky/extraordinary intent OR mark Obstacle track for sustained challenges |
 | **Clash** | Harm | Mark Harm or Will track OR defeat weaker foes outright |
 | **Talk** | Influence | Mark Will track OR convince lesser NPCs automatically |
 | **Sense** | Assess | Ask 2 questions (1 on Conflict) |
@@ -74,12 +74,28 @@ Actions are fictional triggers, not rated stats. They describe **what** you're d
 
 **The Five Actions:**
 
-### 1. Defy — Overcome
-Act despite an imminent threat, danger, or obstacle.
+### 1. Defy — Push Your Limits
+When you attempt something risky, extraordinary, or dangerous that's not covered by another Action, OR when you avert imminent danger to yourself or others.
 
-**Primary Effect:** Mark 1 tick on Obstacle track OR overcome the obstacle entirely (when no track is present because the target is minor or vulnerable)
+**Primary Effect:** Achieve your intent OR mark progress on Obstacle track (when task requires sustained effort)
 
-**Examples:** Dodge attacks, leap chasms, pick locks, resist fear, endure hardship, break free from restraints
+**Use Defy for:**
+- Overcoming physical obstacles (leap chasm, pick lock, climb wall, break restraints)
+- Defending against attacks (dodge blade, resist spell, block strike)
+- Performing risky maneuvers (knockdown foe without harming, disarm cleverly, trip them up, push enemy aside)
+- Acting under pressure (smuggle past guards, pickpocket in combat, catch falling ally)
+- Pushing physical/mental limits (resist interrogation, endure hardship, maintain composure)
+- Drawing danger to yourself (distract enemy, hold the line, cover ally's escape)
+
+**Don't use Defy when:**
+- Trying to harm/break someone → Use **Clash**
+- Trying to persuade/influence → Use **Talk**
+- Observing/investigating → Use **Sense**
+- Recalling information → Use **Know**
+
+**Track vs Simple Task:**
+- **Simple Task:** One roll achieves intent (dodge attack, leap chasm, pickpocket, knockdown foe)
+- **Track Required:** Sustained effort needed (complex lock, fortified door, prolonged chase)
 
 ---
 

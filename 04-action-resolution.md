@@ -614,19 +614,40 @@ Use when:
 
 Mark progress on a **Harm or Will track** (depending on delivery) OR defeat the target entirely (when no track is present because the target is minor or vulnerable).
 
-**When you try to harm someone — physically or emotionally — inflict harm.**
+**When you try to break someone — physically, mentally, or through dominance — you Clash.**
 
-Use when:
-- Attacking with weapons, fists, or magic (marks **Harm track**)
-- Trading blows in combat (marks **Harm track**)
-- Leading troops in battle against enemy forces (marks **Harm track** on enemy force)
-- Hurling vicious insults, taunts, or intimidation with intent to break them (marks **Will track**)
-- Demoralizing, humiliating, or psychologically dominating an opponent (marks **Will track**)
-- Breaking enemy morale, forcing surrenders through intimidation (marks **Will track**)
+Clash is about **forcing submission** through overwhelming force, fear, or psychological domination. Whether you're breaking their body or breaking their will, the target complies because they're forced to, not because they want to.
+
+**Physical Clash (marks Harm track):**
+- Attacking with weapons, fists, or magic
+- Trading blows in combat
+- Leading troops in battle against enemy forces
+- Defeating their champion to shatter army morale
+
+**Mental/Social Clash (marks Will track):**
+- Vicious taunts meant to break confidence before they flee
+- Threatening violence: "Tell me where the artifact is or I break your fingers"
+- Interrogating prisoners through fear and psychological pressure
+- Commanding through dominance: "You WILL obey me" (not inspiring, dominating)
+- Demoralizing enemies: brutal displays of force to make them surrender
+- Intimidating through reputation backed by real threat: "I am the one who burned the Iron Keep"
 
 **Your fictional approach determines which track you mark:**
 - **Physical delivery** (weapons, fists, magic blasts) → marks **Harm track**
-- **Social delivery** (taunts, intimidation, cutting insults, rhetoric) → marks **Will track**
+- **Social delivery** (taunts, intimidation, cutting insults, threats) → marks **Will track**
+
+**Clash vs Talk — Critical Distinction:**
+
+Both Clash and Talk can mark the **Will track**, but they produce fundamentally different outcomes:
+
+| | Clash (Breaking) | Talk (Persuading) |
+|---|---|---|
+| **Method** | Force, fear, domination, threats | Appeal, reason, charm, negotiation |
+| **Result** | Coerced compliance, submission through terror | Willing cooperation, genuine agreement |
+| **Relationship** | They resent you, will flee or betray when able | They may become allies, remain cooperative |
+| **Example** | "Tell me or I'll break your fingers" → They talk because they're terrified | "Help us stop the demon and we'll share the reward" → They help because it's a good deal |
+
+**Rule of thumb:** If you're threatening harm to force compliance, use Clash. If you're appealing to their interests or values to gain willing cooperation, use Talk.
 
 **Your Approach determines your dice pool:**
 - **Daring/Grace:** Typically physical harm
@@ -686,10 +707,19 @@ Use when:
 - Making an offer, presenting evidence, appealing to reason/emotion
 
 **Distinction from Clash (social):** 
-- **Talk** aims to **win someone over** — persuade, convince, influence behavior (marks **Will track**)
-- **Clash (social)** aims to **break them down** — intimidate, taunt, dominate, wound pride (marks **Will track**)
-- **Both mark Will**, but Talk creates positive relationships (they're convinced), while social Clash creates coerced compliance (they're broken)
-- If your intent is to hurt or dominate, use Clash. If your intent is to persuade or win them over, use Talk.
+
+Both Talk and social Clash can mark the **Will track**, but they produce fundamentally different outcomes:
+
+- **Talk** aims to **win someone over** — persuade, convince, appeal to their interests (marks **Will track**)
+- **Clash (social)** aims to **break them down** — intimidate, threaten, dominate, wound pride (marks **Will track**)
+
+**Outcome difference:**
+- **Talk success:** They cooperate willingly because you've convinced them. They may become allies, remain cooperative even without your presence, and genuinely agree with the course of action.
+- **Clash success:** They submit because they're forced, terrified, or broken. They resent you, will flee or betray when the threat is gone, and comply only as long as you maintain dominance.
+
+**Rule of thumb:** If you're threatening harm to force compliance, use Clash. If you're appealing to their interests, values, or reason to gain willing cooperation, use Talk.
+
+See the **Clash - Harm** section above for a detailed comparison table.
 
 **Outcomes:**
 - **Setback:** Mark 0 ticks + GM makes hard Impact Move (they're offended, call guards, situation worsens dramatically)

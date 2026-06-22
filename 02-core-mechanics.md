@@ -60,13 +60,32 @@ Act despite an imminent threat, danger, or obstacle.
 ---
 
 ### 2. Clash — Harm
-Try to hurt someone, physically or mentally. **Clash breaks resistance through force and confrontation.**
+Try to hurt, break, or dominate someone. **Clash breaks resistance through force, confrontation, and dominance.**
 
-**Primary Effect:** Mark 1 tick on Harm track OR defeat the target entirely (when no track is present because the target is minor or vulnerable)
+**Primary Effect:** Mark 1 tick on Harm or Will track (depending on approach), OR defeat the target entirely (when no track is present)
 
-**Examples:** Sword strikes, thrown daggers, vicious insults, intimidating roars, brutal tackles, forcing compliance through violence or domination, leading troops in battle, breaking enemy morale, commanding forces against opposition
+**Physical Examples (mark Harm track):**
+- Sword strikes, thrown daggers, brutal tackles
+- Leading troops in battle, commanding forces in combat
+- Defeating their champion to break army morale
 
-**Clash vs Talk:** If you're threatening violence to make them comply, that's Clash (breaking their will through force). If you're negotiating or persuading them to comply, that's Talk (changing their mind).
+**Mental/Social Examples (mark Will track):**
+- Vicious insults meant to break confidence, intimidating roars
+- Threatening violence: "Lower your price or I'll burn your shop"
+- Interrogating through fear and psychological pressure
+- Commanding through dominance: "You WILL follow my orders" (not inspiring, dominating)
+- Demoralizing taunts before forcing surrender
+- Breaking enemy morale through displays of overwhelming force
+
+**Clash vs Talk — The Key Distinction:**
+
+Both Clash and Talk can mark the Will track, but the **outcome** is completely different:
+
+- **Clash breaks them:** They submit because they're forced, terrified, or psychologically dominated. They comply out of fear or because their will to resist is shattered. Result: coerced obedience, potential resentment, they may flee or betray when the threat is gone.
+
+- **Talk persuades them:** They cooperate because you've convinced them it's the right choice. They comply willingly because they agree, trust you, or see mutual benefit. Result: genuine cooperation, potential alliance, they remain cooperative even without threat.
+
+**Rule of thumb:** If you're threatening harm (physical or social) to force compliance, that's Clash. If you're appealing to reason, values, or mutual interest to gain willing cooperation, that's Talk.
 
 **Note:** Clash encompasses all forms of direct confrontation—physical combat, intimidation, and battle leadership. If you're directly opposing someone (fighting, threatening, commanding troops against them), it's Clash. If you're overcoming an obstacle or challenge without direct opposition, use Defy instead.
 

@@ -28,6 +28,30 @@ Make an **Action Roll** when a character faces a risky, difficult, or dramatical
 
 ---
 
+## Vantage
+
+**Vantage** is your character's frame of reference—the sum of your capabilities (Expertise, Traits, gear) and the current fiction (positioning, preparation, circumstances). It determines what you can attempt.
+
+**How Vantage Works:**
+
+- **Clear Vantage:** Anyone can attempt this action (no special permission needed)
+- **Limited Vantage:** Requires Expertise, relevant Trait, or specific fictional setup
+- **No Vantage:** Impossible given who you are or the current situation
+
+**Examples:**
+- A doctor can suture wounds (Expertise grants vantage)
+- A thief likely has lockpicks (Calling/gear grants vantage)
+- You can't swing a sword with a broken arm (Condition removes vantage)
+- You can't pick a lock if you're across the room (fiction denies vantage)
+
+**Effect on Play:**
+
+Proper vantage opens up possibilities and gives freedom to declare story details. Lacking it makes things more difficult (Banes) or even impossible (GM says no).
+
+When a question arises about what you can do, have, or know, check it against your vantage: **does it feel like a given, a stretch, or a reach?**
+
+---
+
 ## Actions and Effects
 
 When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know). Each Action has a **Primary Effect**—the mechanical outcome when you succeed:

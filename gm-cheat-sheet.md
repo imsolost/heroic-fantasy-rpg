@@ -117,14 +117,25 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 **Counters:**
 - **Create an Opening** (spend 1 Momentum) → Gain 1 Boon and 1 Edge (ignore 1 Complication) + narrative permission for bold action
+- **Create Advantage** (Secondary Effect) → Grant ally 1 Boon OR 1 Edge (player suggests, GM decides)
+  - **Boon:** General advantage (flanking, distraction, high ground)
+  - **Edge:** Bypass specific Complication (target armor gap, reveal hidden foe)
 - **Triumph** → Ignores ALL Complications automatically
+- **Fictional Positioning** → Smart setup can bypass or remove Complications (see Chapter 6)
+
+**Boon vs Edge Decision:**
+- Does it target a specific Complication source? → Edge
+- Does it create general advantage? → Boon
 
 **Common Complications:**
-- **Heavily Armored** — Physical attacks reduced by 1 tier
-- **Warded** — Magical attacks reduced by 1 tier
-- **Fortified Position** — Attacks against this target reduced by 1 tier
-- **Suspicious** — Talk actions to deceive reduced by 1 tier
-- **Vigilant** — Stealth and surprise attempts reduced by 1 tier
+- **Resilient** — Physical attacks reduced by 1 tier (armor, tough hide)
+- **Warded** — Magical effects reduced by 1 tier (counterspells, wards)
+- **Elusive** — Targeting/detection reduced by 1 tier (speed, stealth, small size)
+- **Vigilant** — Stealth/deception reduced by 1 tier (keen senses, awareness)
+- **Complex** — Understanding/navigation reduced by 1 tier (mechanisms, politics)
+- **Resolute** — Social influence reduced by 1 tier (discipline, conviction)
+- **Deadly** — Combat actions face increased lethality (Consequence tier +1)
+- **Legendary** — ALL actions reduced by 1 tier (overwhelming presence)
 
 ---
 
@@ -264,13 +275,30 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 ---
 
+## Vantage (Chapter 2)
+
+Your character's capabilities and current situation—determines what you can attempt.
+
+- **Clear Vantage:** Anyone can try (no permission needed)
+- **Limited Vantage:** Requires Expertise, Trait, gear, or fictional setup
+- **No Vantage:** Impossible given who you are or current circumstances
+
+**Examples:**
+- Doctor can suture wounds (Expertise grants vantage)
+- Can't pick lock without tools (no vantage)
+- Can't swing sword with broken arm (Condition removes vantage)
+
+**At the table:** When a player attempts something unusual, ask: "Do you have vantage for that?"
+
+---
+
 ## GM Principles
 
 1. **Telegraph stakes before rolls** — Players should know consequences before committing
 2. **Complications signal danger** — Use Complications to show what makes encounters harder
 3. **Consequences drive action** — Impact Moves advance threats, change positioning, create urgency
 4. **Respect player choices** — When players spend resources (Momentum, Stress, Traits), honor those choices
-5. **Fiction first** — If it doesn't make sense in the fiction, don't allow it (even if mechanically valid)
+5. **Fiction first / Check Vantage** — If they lack vantage, it may be harder (Banes) or impossible
 6. **Pace with rests** — Short rests after fights, long rests between adventures
 7. **Fail forward** — Setbacks complicate, they don't halt story (unless fiction demands)
 

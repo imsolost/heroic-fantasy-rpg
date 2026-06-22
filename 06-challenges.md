@@ -195,6 +195,68 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 ---
 
+### Bypassing Complications Through Vantage and Fiction
+
+**Core Principle:** Smart planning, superior positioning, and clever tactics can bypass or remove Complications without spending resources.
+
+**Three Ways to Handle Complications:**
+
+**1. Face Them (Standard):**
+- Roll normally, Complications reduce outcome tier
+- Spend Momentum for Edge (Create an Opening)
+- Use Talents that negate specific tags
+
+**2. Bypass Temporarily (Setup Action):**
+- One character creates advantage for ally
+- **Create Advantage** (Secondary Effect) grants ally **1 Edge**
+- Ally's next action ignores 1 Complication
+- *Examples:*
+  - Sense weak point in armor → Ally bypasses Resilient for their strike
+  - Cast Light spell → Ally bypasses Elusive against revealed foe
+  - Pin shield arm → Ally bypasses Armored for one attack
+
+**3. Remove Permanently (Fictional Elimination):**
+- Change the fiction so the Complication source no longer exists
+- Usually requires successful roll + **Take Something** or **Environmental Effect**
+- *Examples:*
+  - Disarm Deadly sword → Remove Deadly until they retrieve weapon
+  - Destroy ward stone → Remove Warded permanently
+  - Shove enemy from fortified position → Remove Fortified
+  - Smash armor completely → Remove Resilient
+
+**Vantage and Permission:**
+
+Before rolling, ask: **"Do I have vantage to even attempt this?"**
+
+- **Clear Vantage:** No special permission needed (anyone can try)
+- **Limited Vantage:** Requires Expertise, Trait, gear, or fictional setup
+- **No Vantage:** Impossible given current situation
+
+*Examples:*
+- Can't pick a lock without tools (no vantage)
+- Can't swing sword with broken arm (Condition removes vantage)
+- Can't Clash armored knight if across the room (fiction denies vantage)
+- Doctor can suture wounds (Expertise grants vantage)
+
+**GM Adjudication - Boon vs Edge:**
+
+When players describe clever positioning, ask: **"Does this target a specific Complication, or just create general advantage?"**
+
+- **General advantage** (flanking, high ground, distraction) → Grant **Boon** (+1d)
+- **Targets specific Complication** (aim for armor gap, reveal hidden foe, pin shield) → Grant **Edge** (bypass 1 Complication)
+
+Most positioning grants Boons. Edge requires explicitly working around a Complication's source.
+
+**Example in Play:**
+
+> **PC:** "I want to flank the armored knight to get a better angle."
+> **GM:** "That gives you 1 Boon for superior positioning, but his armor (Resilient) still applies—flanking doesn't remove plate mail."
+>
+> **PC:** "What if I aim for the joints in his armor where the plates meet?"
+> **GM:** "That's targeting a weak point specifically. Make it a Clash with Grace—if you succeed, you can invoke a Trait for Secondary Effect (Create Advantage) to give an ally 1 Edge against his Resilient."
+
+---
+
 ### GM Advice: Choosing Consequences by Tag
 
 All Complications work the same **mechanically** (reduce outcome tier by 1), but the tag suggests what **KIND** of consequence fits the fiction:

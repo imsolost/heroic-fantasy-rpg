@@ -365,9 +365,19 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 - **Effect:** Allies' next 1-2 actions against that target gain 1 Boon (GM decides: simple = 1, sticky = 2)
 - *Examples: Blind them (kick sand in eyes), Frighten them (intimidating display), Weaken them (wound leg), Disorient them (stun with blow)*
 
-**Create Advantage** — Help ally or hinder foe to grant 1 Boon on next action(s) against target
-- **Effect:** One ally gains 1 Boon on their next action against the target (GM may extend to 1-2 actions if particularly sticky)
-- *Examples: Flank enemy (help ally), throw flour on invisible foe (hinder and reveal), disrupt formation, expose weak point, break concentration, create opening*
+**Create Advantage** — Set up an ally with tactical advantage OR help them bypass a specific obstacle
+- **Effect:** Grant one ally **1 Boon OR 1 Edge** (player suggests, GM decides based on fiction)
+  - **Boon:** General advantage on the roll (superior positioning, distraction, revealed weakness in stance/timing)
+  - **Edge:** Bypass 1 specific Complication on their next roll (targets the source of a Complication)
+- **Duration:** Applies to ally's next 1-2 actions (GM decides: quick setup = 1, sticky advantage = 2)
+
+**Examples:**
+- Sense weak point in foe's **stance** → Ally gains **1 Boon** (better opportunity, doesn't bypass armor)
+- Sense weak point in foe's **armor** → Ally gains **1 Edge** (bypasses Resilient Complication)
+- Cast Light spell on hidden assassin → Ally gains **1 Edge** (bypasses Elusive Complication)
+- Feint to draw guard up → Ally gains **1 Boon** (exploits opening, doesn't remove defenses)
+- Pin enemy's shield arm → Ally gains **1 Edge** (bypasses Armored Complication)
+- Flank enemy for better angle → Ally gains **1 Boon** (superior position, armor still applies)
 
 **Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum, wrest control of authority/situation, claim resource, acquire information
 - *Examples: Disarm weapon, grab key, seize high ground, steal credibility, extract secret during conversation*
@@ -382,7 +392,7 @@ When you invoke a Trait for Secondary Effect, choose one of these categories and
 **Environmental Effect** — Create lasting change to the environment or situation
 - *Examples: Catch structure on fire, collapse supports, create hazard, alter terrain, break through barrier, trigger mechanism*
 
-**Note:** "Create Advantage" (Secondary Effect) grants ally 1 Boon only. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge. Edge remains premium/scarce—only from Momentum spends and Talents.
+**Note:** "Create Advantage" (Secondary Effect) grants ally 1 Boon OR 1 Edge, chosen based on the fiction. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously + narrative permission for bold action. Gaining both simultaneously remains premium—only from Momentum spends and specific Talents.
 
 ---
 
@@ -449,6 +459,41 @@ When a Secondary Effect changes the fiction in a way that logically removes a Co
 > **PC attacks invisible foe (Elusive 2), rolls Success + invokes "Quick Thinking" Trait:**
 > "I grab flour from my pouch and toss it — Create Advantage by revealing them!"
 > **GM:** "The flour outlines their form. They're visible now — no more Elusive Complication. Your ally gets 1 Boon on the next attack too."
+
+---
+
+### Bypass vs Remove: Duration of Complication Changes
+
+**Two ways to handle Complications through fiction:**
+
+**BYPASS (Temporary - This Roll Only):**
+- Granted via **Create Advantage** (1 Edge to ally)
+- Applies to one ally's next action only
+- Source remains intact, Complication returns after
+- *Examples:*
+  - Sense weak point in armor joints → Ally bypasses Resilient for their next strike (armor still intact)
+  - Cast Light spell on hiding assassin → Ally bypasses Elusive for their attack (assassin can hide again)
+  - Pin enemy's shield arm → Ally bypasses Armored for one strike (shield still held)
+  - Attack from high ground with better angle → Ignore positioning penalty for this roll (terrain unchanged)
+
+**REMOVE (Permanent - Until Fiction Changes):**
+- Requires extreme action or sustained effort
+- Usually via **Take Something** or **Environmental Effect**
+- Source is destroyed, stolen, or fundamentally changed
+- *Examples:*
+  - Disarm Death Knight's Deadly sword → Complication gone (until they retrieve/draw new weapon)
+  - Smash knight's breastplate completely → Resilient removed (armor destroyed)
+  - Shove enemy out of fortified position → Fortified removed (no longer behind cover)
+  - Destroy magical ward stone → Warded removed (source eliminated)
+
+**GM Adjudication:**
+
+Ask: **"Does the fiction justify the Complication being gone permanently, or just bypassed momentarily?"**
+
+- If you're **working around** the source → Bypass (1 Edge via Create Advantage)
+- If you're **removing/destroying** the source → Remove (permanent via Take Something/Environmental Effect)
+
+Most clever tactical setups grant Edge for temporary bypass. Permanent removal requires significant fictional commitment (destroying equipment, eliminating magical sources, dramatically changing positioning).
 
 ---
 

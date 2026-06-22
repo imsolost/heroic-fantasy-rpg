@@ -186,10 +186,12 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 
 **Deadly** - Applies when attacking or being attacked
 - Hinders combat actions (both offense and defense)
-- Supreme combat skill, lethal weapons, battle-honed reflexes
-- Master assassin in combat, elite knight's deadly blade, war troll's brutal strikes
+- Represents ANY source of exceptional lethality: combat mastery, superior weapons, size/strength advantage, **numerical/tactical advantage (pack tactics, overwhelming numbers)**
+- Examples: Master assassin's precision, elite knight's legendary blade, giant's crushing strength, **pack of wolves coordinating attacks**, Death Knight with Unholy Avenger, bandit squad swarming from all sides
 - Does NOT apply to: Negotiation, investigation, non-combat actions
 - Countered by: Triumph, Create an Opening, avoiding direct confrontation
+
+**Note:** When a group acts as a coordinated unit (pack of wolves, bandit squad, swarm), model them as a **single Challenge with "Deadly"** representing their combined threat, rather than tracking each individual enemy.
 
 ---
 
@@ -624,7 +626,28 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 
 **Narrative Flexibility:** The exact number of enemies is flexible — "a squad of soldiers" might be 4 or 8 depending on the scene. The track represents their collective threat, not a precise headcount.
 
-**Complications for Groups:** Groups can have Complications just like individuals. A squad of armored knights might have **Resilient**, representing their collective defensive posture.
+**Complications for Groups:** Groups can have Complications just like individuals. A squad of armored knights might have **Resilient**, representing their collective defensive posture. Groups that attack with coordinated tactics or overwhelming numbers often have **"Deadly"** (pack tactics, flanking, swarming).
+
+---
+
+### When to Use Single-Group vs Multiple Enemies
+
+**Model as Single Challenge when:**
+- The group acts as a coordinated unit (pack of wolves, bandit squad, swarm of rats)
+- You want simplified tracking for mass combat
+- The group's coordination/numbers make them more dangerous (use **"Deadly"** Complication)
+
+**Model as Multiple Separate Challenges when:**
+- Each enemy is significant/unique (two elite knights, three named bosses)
+- Enemies act independently with different tactics
+- You want spotlight on individual opponents
+
+**Hybrid Approach:**
+Use both in the same encounter:
+- **Bandit Squad** (single 4-tick Challenge with "Deadly") + **Bandit Captain** (separate 4-tick Challenge with "Resilient")
+- **Pack of Wolves** (single 4-tick Challenge with "Pack Tactics - Deadly") + **Alpha Wolf** (separate 6-tick Challenge)
+
+This gives you fodder (the group) plus a spotlight enemy (the leader) without overwhelming bookkeeping.
 
 ---
 

@@ -45,6 +45,37 @@ Create a comprehensive "Session in Play" chapter showing how different scene typ
 
 ## Medium Priority
 
+### Scene-Long Debuff Counter-Play Guidance
+**Priority:** Medium  
+**Estimated Effort:** Small
+
+Add GM guidance for handling scene-long debuffs (Potent spells, conditions) against Tier 3-4 boss enemies to prevent "land one debuff, coast to victory" scenarios.
+
+**Suggested approaches:**
+- Boss spends turn dramatically breaking the effect
+- Impact Move: "Dragon's rage burns through your curse" (remove debuff + create danger)
+- Soft Move: Weaken from scene-long to "2 actions remaining"
+- Boss phases: Each phase sheds debuffs (keeps fight dynamic)
+
+**Location Options:**
+- Chapter 6 (Challenges) - GM Advice section
+- Chapter 4 (Action Resolution) - Debuff Duration section
+- GM Cheat Sheet - as principle
+
+---
+
+### Spotlight Management in Combat
+**Priority:** Medium  
+**Estimated Effort:** Small
+
+Add formal GM guidance for ensuring all players get actions in complex encounters without formal initiative system.
+
+**Suggested rule:** Check in with each player in a different zone/Feature before anyone acts twice in the same round.
+
+**Location:** Chapter 7 (GM Guide) or Chapter 8 (Combat)
+
+---
+
 ### Review Appendix B: Examples
 Check what's currently in Appendix B and see if it duplicates or conflicts with proposed "Session in Play" chapter. Consider consolidating or distinguishing their purposes.
 
@@ -66,3 +97,6 @@ Consider adding a comprehensive index for quick reference.
 - Deadly Complication expansion for groups
 - GM Cheat Sheet visual resolution flow
 - Cross-links between GM Guide and Cheat Sheet
+- Secondary Effects framework expansion (8 categories, Complication bypass)
+- Vantage framework and Boon/Edge distinction for fictional positioning
+- Create Advantage revision (grants Boon OR Edge based on fiction)

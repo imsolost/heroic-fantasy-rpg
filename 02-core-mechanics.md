@@ -548,14 +548,17 @@ More tiers would complicate; fewer would lose nuance.
 
 ### Disaster (Edge Case)
 
-When **multiple Complications** reduce an outcome past Setback, it becomes **Disaster** (Severe Consequence). This is rare—it requires rolling Setback AND having 2+ Complications, OR rolling Success/Conflict and having 3+ Complications.
+When **Complications reduce an outcome below Setback**, it becomes **Disaster** (Severe Consequence). This happens when you're truly overmatched:
+- Setback + 1 Complication = Disaster
+- Conflict + 2 Complications = Disaster
+- Success + 3+ Complications = Disaster
 
 **Disaster represents catastrophic failure:**
 - Taken Out (unconscious, captured, removed from scene)
 - Gain a Burden (persistent Condition)
 - Objective fails completely with lasting consequences
 
-**GM Discretion:** Disaster is optional. If it feels too punishing, cap outcomes at Setback and apply a harsh Major Consequence instead.
+**Disaster creates dramatic stakes** when heroes face threats beyond their capability without proper preparation. It should feel infrequent because most foes have 0-1 Complications (see Chapter 6 for encounter building).
 
 **Example:**
 > Kael attacks an Ancient Dragon (3 Complications: Resilient, Warded, Legendary).

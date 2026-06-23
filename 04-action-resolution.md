@@ -1029,16 +1029,18 @@ The Know roll **gave you information**. The Defy roll **applied that knowledge**
 
 ---
 
-## Disaster (Edge Case / Optional)
+## Disaster
 
-**Disaster** occurs when outcomes are reduced **below Setback** by Complications. This is rare and represents catastrophic failure.
+**Disaster** occurs when Complications reduce your outcome **below Setback**. This represents catastrophic failure when you're truly out of your depth.
 
 **When Disaster Happens:**
-- Multiple Complications stack to reduce outcome past Setback
-- Example: Success with 3 Complications → Disaster
-- Example: Setback with 2+ Complications → Disaster
+- Setback + 1 Complication = Disaster
+- Conflict + 2 Complications = Disaster  
+- Success + 3+ Complications = Disaster
 
-**GM Discretion:** Disaster is an optional edge case. If it feels too punishing for your table, simply cap outcomes at Setback and apply the harshest possible Major Consequence instead.
+**Disaster Creates Dramatic Stakes:** This is how heroes get captured, how lasting consequences stick, how truly dangerous situations feel dangerous. If you're facing 2+ Complications, you're in over your head—find another approach or spend resources (Momentum for Edge, Traits to bypass, alternative tracks).
+
+**Key to Appropriate Frequency:** Keep Complications RARE (most foes 0-1 Complications, see Chapter 6). Disaster should feel like "you took on something truly dangerous without preparation" not "this happens every fight."
 
 **How it occurs:**
 - Roll Setback (all 1-3) + 1 Complication → Disaster

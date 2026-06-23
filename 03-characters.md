@@ -253,18 +253,7 @@ Talents represent training, heritage, or supernatural gifts. Each character star
 
 ### Types of Talents
 
-**1. Favored Actions**
-
-Grant bonus when using a specific Action in specific circumstances.
-
-**Examples:**
-- "Flashing Steel" — +1d when you Clash with a sword in melee
-- "Keen Eye" — +1d when you Sense to spot hidden dangers
-- "Charmer" — +1d when you Talk to persuade (not intimidate or deceive)
-
----
-
-**2. Edge Talents**
+**1. Edge Talents**
 
 Grant narrative permission + mechanical advantage for specific feats.
 
@@ -286,7 +275,7 @@ This is domain-specific and free (no Momentum cost). Edge from Talents DOES stac
 
 ---
 
-**3. Expertise (Mastery Mechanic)**
+**2. Expertise (Mastery Mechanic)**
 
 Some Talents grant Expertise in a specific domain (e.g., "Heavy Blades," "Stealth," "Tracking"). Expertise converts Setback outcomes to Conflict within your area of mastery.
 
@@ -294,7 +283,7 @@ For complete Expertise rules, see **Chapter 2: Core Mechanics**.
 
 ---
 
-**4. Unique Moves**
+**3. Unique Moves**
 
 Unlock new actions or special maneuvers.
 
@@ -305,7 +294,7 @@ Unlock new actions or special maneuvers.
 
 ---
 
-**5. Passive Effects**
+**4. Passive Effects**
 
 Ongoing benefits or modifications.
 
@@ -373,7 +362,7 @@ Characters grow more powerful through play, gaining new abilities and expanding 
 | **4** | **Rank 2**, +1 Approach (cap 4), +1 Talent | Seasoned Adventurers |
 | **5** | +1 Trait | |
 | **6** | +1 Approach (cap 2), +1 Talent | |
-| **7** | **Rank 3**, +1 Approach (cap 3), +1 Talent | Regional Legends |
+| **7** | **Rank 3**, +1 Approach (cap 3) | Regional Legends |
 | **8** | +1 Approach (cap 4), +1 Talent | |
 | **9** | +1 Approach (cap 5) | Legendary Approach |
 | **10** | **Rank 4**, +1 Trait, +1 Talent | Mythic Heroes |
@@ -913,8 +902,8 @@ Even when complications force a roll against a lower-Rank challenge (hostage sit
 - Build Momentum (grant 1 Momentum to self/ally)
 
 **Talent Types:**
-- Favored Actions (+1d in specific circumstances)
 - Edge Talents (narrative permission + mechanics)
+- Expertise (mastery in specific domains)
 - Unique Moves (new actions)
 - Passive Effects (ongoing benefits)
 - Triggered Effects (reactive abilities)

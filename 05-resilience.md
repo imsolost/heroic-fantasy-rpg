@@ -96,7 +96,7 @@ Conditions come from three sources:
 **Stress Overflow:** When your Stress track is full and you would mark more Stress, follow this procedure:
 
 1. **GM announces:** "You would mark [X] Stress, but your track is full."
-2. **Resist Consequence (optional):** You may spend 1 Momentum to roll Defy and reduce the Stress (Success = reduce by 2, Conflict = reduce by 1, Setback = no reduction). This is a **special exception** to the normal rule (you normally can't Resist consequences from Reactive Defy) — it represents your last desperate effort to stay in the fight. See Resist Consequence below for full rules.
+2. **Resist Consequence (optional):** You may spend 1 Momentum to automatically reduce the Consequence Tier by 1. See Resist Consequence below for full rules.
 3. **Choose your fate:** If any Stress remains after Resist (or you don't Resist), you choose:
    - **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on **overflow amount** beyond your 5th box (1 overflow → tier 1, 2 overflow → tier 2, 3+ overflow → tier 3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
      - *Example: At 4/5 Stress, you take 2 Stress. Mark the 5th box + 1 overflow = Tier 1 Burden if you choose to take it.*
@@ -193,13 +193,40 @@ Reduce the number by 1 each time you act through it. Erase when it reaches 0 or 
 
 **Cost:** 1 Momentum
 
-When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum and roll Defy to reduce or avoid it.
+When you would suffer a consequence from an Impact Move (Stress, Condition, or narrative setback), spend 1 Momentum to automatically reduce the Consequence Tier by 1.
 
-| Outcome | Effect |
-|---------|--------|
-| **Success** | Mechanical: Reduce by 2 steps (2 Stress → 0, tier 3 → tier 1, tier 2 → clear) / Narrative: Avoid entirely |
-| **Conflict** | Mechanical: Reduce by 1 step (2 Stress → 1, tier 3 → tier 2, tier 2 → tier 1) / Narrative: Reduce severity |
-| **Setback** | Take the full consequence — Momentum is spent, nothing reduced |
+**No roll required** — the reduction is immediate and guaranteed.
+
+### What This Reduces
+
+**Stress Consequences:**
+- Major Consequence (2 Stress) → Minor Consequence (1 Stress)
+- Minor Consequence (1 Stress) → No Stress
+- Severe Consequence (3 Stress) → Major Consequence (2 Stress)
+
+**Condition Consequences:**
+- Condition tier 3 → Condition tier 2
+- Condition tier 2 → Condition tier 1
+- Condition tier 1 → No Condition
+
+**Narrative Consequences:**
+- GM reduces severity (lose footing → keep position, weapon knocked away → weapon stays, separated from party → stay together)
+
+### When to Use
+
+- **After Impact Move lands:** The GM announces a consequence, you declare "I Resist" and spend 1 Momentum
+- **Before Stress Overflow:** When full Stress and would mark more, Resist reduces the overflow amount (possibly avoiding Burden choice entirely)
+- **Your choice:** Decide whether the Momentum is worth avoiding/reducing this specific consequence
+
+### Example in Play
+
+> **GM (Impact Move):** "The knight's mace slams into your shield. Mark 2 Stress."
+> **PC:** "I spend Momentum to Resist—I roll with the blow, reducing it to 1 Stress."
+> **GM:** "The impact jars your arm but you stay firm."
+
+> **GM (Impact Move):** "The dragon's roar fills you with terror. Frightened 3."
+> **PC:** "I Resist—I've faced worse. Reduce it to Frightened 2."
+> **GM:** "You grit your teeth and hold your ground, though fear still grips you."
 
 ---
 
@@ -363,5 +390,6 @@ When assigning a Burden, immediately clarify how it clears:
 | Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on short rest |
 | Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (soft Impact Move) or 2 (hard Impact Move) |
+| Resist Consequence | Spend 1 Momentum, reduce Consequence Tier by 1 (automatic, no roll) |
 | Quick Assist | Mark 1 Stress, grant ally 1 Boon |
 | Push Yourself | Mark 1 Stress, gain 1 Boon |

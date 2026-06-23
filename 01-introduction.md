@@ -96,7 +96,7 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 
 **Spend:**
 - **Create an Opening (1)** — Gain 1 Boon and 1 Edge (ignore 1 Complication), enable extraordinary feats
-- **Resist Consequence (1)** — Roll to reduce/avoid Stress, Condition, or narrative setback
+- **Resist Consequence (1)** — Reduce Consequence Tier by 1 (automatic, no roll)
 
 **Cap:** 2 (can be increased to 3 with Talent)
 

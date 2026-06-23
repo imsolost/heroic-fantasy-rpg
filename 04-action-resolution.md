@@ -751,39 +751,46 @@ Your intent might be to achieve one of the fictional effects directly:
 
 ---
 
-### Which Type of Defy?
+### When to Use Defy
 
-Defy serves multiple purposes. Use this guide to identify which variant applies:
+Defy is a **proactive action** — you use it when actively overcoming obstacles or responding to telegraphed threats.
 
-**PROACTIVE DEFY (your action):**
-- You declare: "I want to [overcome obstacle / perform risky action]"
-- You spend your action
-- Examples: Pick lock, leap chasm, grapple enemy, dodge trap, pickpocket guard
+**OVERCOMING OBSTACLES (sustained challenges):**
+- Pick lock, disarm trap, scale wall, sneak past guards
+- Marks Obstacle track until complete
 
-**REACTIVE DEFY (GM-triggered, free):**
-- Enemy attacks you
-- GM: "The knight swings at you — Defy to dodge?"
-- You roll to defend (doesn't cost your action)
-- You CANNOT spend Momentum to Resist consequences from this roll
+**RESPONDING TO TELEGRAPHED DANGER (Suspense Moves):**
+- GM telegraphs threat: "The orc raises his axe high!" or "The floor cracks beneath you!"
+- You respond with Defy: "I dive aside!" or "I leap to solid ground!"
+- Success = avoid threat, Conflict = minor consequence, Setback = Impact Move lands
 
-**RESIST CONSEQUENCE (Momentum spend):**
-- You rolled Conflict/Setback on your own action (Clash, Talk, Sense, Know)
-- You want to reduce the consequence
-- Costs 1 Momentum
-- Roll Defy: Success = reduce 2 steps, Conflict = reduce 1 step
+**RISKY ACTIONS (immediate effects):**
+- Grapple enemy, pickpocket guard, leap chasm, shove opponent
+- Success = achieve your intent (Seize Control, Take Something, etc.)
 
-**STRESS OVERFLOW RESIST (special exception):**
-- Your Stress track is full and you'd mark more
-- You MAY spend 1 Momentum to Resist (exception to Reactive rule)
-- See Chapter 5: Stress Overflow Procedure for complete rules
+**Defy is NOT used for:**
+- Defending against enemy attacks that land without warning (those are Impact Moves — you can Resist with Momentum)
+- Reducing consequences after they happen (that's Resist Consequence)
 
----
+### The Defensive Framework
 
-**Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
+**Proactive Defense (Defy):**
+When the GM telegraphs danger (Suspense Move), you can respond with any action — including Defy to avoid it.
 
-**Important:** You cannot spend Momentum to Resist consequences from a Reactive Defy roll (when defending against enemy attacks). The Reactive Defy roll **is** your chance to resist — that's what the roll represents.
+> **GM (Suspense Move):** "The dragon rears back, flames gathering in its throat—you've got seconds!"
+> **PC:** "I Defy by diving behind the pillar!" (rolls Defy)
+> - Success = avoid fire breath
+> - Conflict = singed, mark 1 Stress  
+> - Setback = full blast (Impact Move)
 
-*For the Stress Overflow exception to this rule, see Chapter 5: Stress Overflow Procedure.*
+**Reactive Defense (Resist Consequence):**
+When an Impact Move lands (consequence from your Setback, enemy attack without telegraph, trap triggers), you can spend 1 Momentum to automatically reduce Consequence Tier by 1. No roll required.
+
+> **PC:** Rolls Clash, gets Setback
+> **GM (Impact Move):** "The knight's counterattack slams into your ribs. Mark 2 Stress."
+> **PC:** "I spend Momentum to Resist—I roll with the blow, reducing it to 1 Stress."
+
+See **Chapter 5: Resist Consequence** for complete rules.
 
 ---
 
@@ -1078,74 +1085,106 @@ The GM makes a Disaster Move — harsher than a normal Setback:
 
 ---
 
-## Enemy Actions & Reactive Defy
+## Enemy Actions & Impact Moves
 
-When enemies act, they trigger player Defy rolls. **Enemies do not roll dice**—the player's Defy result determines what happens.
+**Enemies do not roll dice.** Instead, the GM makes Impact Moves that affect PCs directly.
 
-### When Enemies Attack
+### How Enemy Attacks Work
 
-**GM triggers Defy:**
-> "The knight swings his sword at you—Defy to avoid it!"
+Enemy actions follow the **Suspense Move → Impact Move** pattern:
 
-The player rolls Defy using the appropriate Approach:
-- **Grace** (dodge, parry, agile defense)
-- **Daring** (block, endure, tough it out)
-- **Spirit** (mental/spiritual resistance)
-- **Cunning** (anticipate, misdirect)
-- **Charm** (social defense, deflect with words)
+**SUSPENSE MOVE (Telegraph):**
+The GM signals danger, giving PCs a chance to respond with any action.
 
-**Outcomes:**
-- **Setback:** You fail to defend + GM makes hard Impact Move (take full Stress based on enemy Tier + possibly Condition or worse)
-- **Conflict:** You defend (avoid the attack) + GM makes soft Impact Move (lose position, enemy presses you, mark Stress)
-- **Success:** You avoid the attack cleanly (no Stress, no consequence)
-- **Triumph:** You avoid the attack + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+> **GM (Suspense Move after PC's Conflict):** "The knight sees an opening and swings his sword at you—what do you do?"
+> **PC:** "I Defy by diving aside!" (rolls Defy)
+> - Success = avoid entirely
+> - Conflict = partial defense, mark 1 Stress (soft Impact Move)
+> - Setback = Impact Move lands (mark 2 Stress)
 
-### Enemy Actions Deal Stress
+**IMPACT MOVE (Consequence):**
+When PCs roll Setback or ignore telegraphed danger, the GM makes an Impact Move immediately.
 
-When you fail to fully defend (Conflict or Setback), you typically take Stress:
+> **PC:** Rolls Clash, gets Setback
+> **GM (Impact Move):** "The knight's counterattack slams into your ribs. Mark 2 Stress."
+> **PC (optional):** "I spend Momentum to Resist—reducing it to 1 Stress."
 
-- **Conflict:** Mark 1 Stress (soft Impact Move - glancing blow, pressured)
-- **Setback:** Mark 2 Stress (hard Impact Move - solid hit, major consequence)
+### When to Telegraph vs. Impact Immediately
 
-**Example:**
-> **GM:** "The knight attacks—Defy!"
-> **Player rolls Defy → Success:** "You sidestep his blade cleanly" (no consequence)
-> **Player rolls Defy → Conflict:** "You deflect his sword but he presses you into the corner—mark 1 Stress from the exertion" (soft Impact Move)
-> **Player rolls Defy → Setback:** "His blade cuts deep—mark 2 Stress" (hard Impact Move)
+**Telegraph (Suspense Move) when:**
+- PC rolls Conflict (create tension, soft setup)
+- Combat is narrative-focused and you want to give choices
+- The attack is visible and avoidable (raised sword, gathering spell)
 
-### Complications Apply to Defy
+**Impact immediately (Impact Move) when:**
+- PC rolls Setback (their failure opened them up)
+- Attack is too fast to react to (ambush, arrow from darkness)
+- PC ignored previous telegraph (they chose not to respond)
 
-Enemy Challenge Traits impose Complications on your Defy roll:
+### Impact Move Consequences
 
-**Example:**
-> **GM:** "The knight has 'Master Duelist' (1 Complication in melee). He attacks—Defy!"
-> **Player rolls Defy → Success:** Reduced to Conflict by Complication → "You deflect his blade (avoid the attack) but he's pressing you—mark 1 Stress from the exertion" (soft Impact Move)
-> **Ally used Build Momentum:** "My ally granted me 1 Momentum earlier—I spend it on Create an Opening to gain 1 Boon and 1 Edge (ignore his Complication)!" → Success stays Success → "You match his technique perfectly—no consequence"
+**Soft Impact Move (Conflict):**
+- Mark 1 Stress
+- Inflict tier 1 Condition
+- Lose position or advantage
+- Telegraph bigger threat coming
 
-### Other Threats Trigger Defy
+**Hard Impact Move (Setback):**
+- Mark 2 Stress
+- Inflict tier 2-3 Condition
+- Inflict 2 Stress + Condition tier 1
+- Separate from allies, disarm, etc.
 
-**Traps:**
-> "The pressure plate clicks—poison darts shoot from the walls! Defy!"
+**PCs can always Resist:** After any Impact Move, PCs may spend 1 Momentum to reduce Consequence Tier by 1 (automatic, no roll).
 
-**Environmental Hazards:**
-> "The ceiling collapses! Defy to avoid the falling debris!"
+### Complications and Enemy Attacks
 
-**Social/Mental Attacks:**
-> "The demon whispers temptations into your mind—Defy with Spirit to resist!"
-
-**Chase/Pursuit:**
-> "The guards spot you and give chase—Defy to lose them!"
-
-### GM Guidance: Telegraphing Threats
-
-Always tell players:
-- What's threatening them (knight attacks, trap springs, etc.)
-- What Tier the threat is (determines Stress on failure)
-- Any Complications that apply (enemy Traits, environmental factors)
-- What happens on each outcome
+Enemy Complications don't affect the Impact Move itself—they affect PC actions **against** that enemy.
 
 **Example:**
-> **GM:** "The knight with 'Heavily Armored' swings at you. On Success you dodge cleanly. On Conflict you mark 1 Stress. On Setback you mark 2 Stress and he's got you cornered. Defy!"
+- Knight with **Deadly** (combat mastery) doesn't deal extra damage
+- Knight's Deadly applies when PCs **Clash** with them (reduces PC's outcome tier)
+- The Impact Move from PC's Setback is just the standard consequence (2 Stress)
+
+### Environmental Hazards
+
+Hazards work the same way:
+
+**Telegraphed Hazard:**
+> **GM (Suspense Move):** "The floor cracks beneath you—it's collapsing!"
+> **PC:** "I Defy by leaping to solid ground!" (rolls Defy)
+> - Success = land safely
+> - Conflict = make it but mark 1 Stress from impact
+> - Setback = fall through (Impact Move: 2 Stress + Prone 1)
+
+**Immediate Hazard (trap, surprise):**
+> **PC:** Opens door without checking
+> **GM (Impact Move):** "Poison gas sprays from hidden vents. Mark 2 Stress and Poisoned 2."
+> **PC (optional):** "I Resist—holding my breath and covering my face, reduce to 1 Stress and Poisoned 1."
+
+### GM Guidance: Impact Move Variety
+
+Don't just mark Stress. Use Impact Moves to create drama:
+
+**Complicate Things:**
+- "The alarm rings—guards are coming"
+- "The ritual accelerates—you're running out of time"
+
+**Force a Choice:**
+- "Your weapon or your ally—which do you grab before you fall?"
+- "Dodge left into the fire, or right toward the pit?"
+
+**Separate Them:**
+- "The cave-in splits the party—you're on opposite sides"
+- "He grabs you and drags you into the side room"
+
+**Hit 'Em Hard:**
+- Mark Stress, inflict Conditions, use Challenge Moves
+- This is the most common, but vary it
+
+**Lock It In:**
+- "The thief escapes into the crowd—you've lost them"
+- "The bridge collapses—no going back"
 
 ---
 
@@ -1153,11 +1192,20 @@ Always tell players:
 
 **Resist Consequence (1 Momentum):**
 
-When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum and roll Defy to reduce or avoid it:
+When you would suffer a consequence from an Impact Move (Stress, Condition, or narrative setback), spend 1 Momentum to automatically reduce the Consequence Tier by 1.
 
-**Outcomes:**
-- **Success:** Mechanical consequence: Reduce by 2 steps (2 Stress → 0, tier 3 → tier 1, tier 2 → clear) / Narrative consequence: Avoid entirely
-- **Conflict:** Mechanical consequence: Reduce by 1 step (2 Stress → 1, tier 3 → tier 2, tier 2 → tier 1) / Narrative consequence: Reduce severity  
+**No roll required** — the reduction is immediate and guaranteed.
+
+**What This Reduces:**
+- Major Consequence (2 Stress) → Minor Consequence (1 Stress)
+- Minor Consequence (1 Stress) → No Stress
+- Severe Consequence (3 Stress) → Major Consequence (2 Stress)
+- Condition tier 3 → Condition tier 2
+- Condition tier 2 → Condition tier 1
+- Condition tier 1 → No Condition
+- Narrative consequence → Reduced severity (GM adjudicates)
+
+See **Chapter 5: Resist Consequence** for complete rules and examples.  
 - **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
 
 **Example (mechanical):**

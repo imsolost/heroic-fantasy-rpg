@@ -106,14 +106,14 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 
 **The Seven Spheres of Power:**
 - **Matter** — Physical form, substance, and density
-- **Force** — Thermal, elemental, kinetic, and raw energy
+- **Energy** — Thermal, elemental, kinetic, and raw energy
 - **Mind** — Thought, emotion, perception, and consciousness
 - **Spirit** — Souls, life force, death, and entities beyond the veil
 - **Space** — Distance, location, geometry, and dimensional boundaries
 - **Time** — Causality, temporal flow, memory, and chronology
 - **Pattern** — Information, probability, raw mana, and magical structure
 
-**Spell Theorems:** Each theorem you know is a mastered spell defined by a Sphere and an Operation (e.g., "Searing Bolt [Force, Destroy]" or "Mind Blank [Mind, Deceive]"). When you cast a known theorem, describe the effect and roll **Cunning + appropriate Action** (Defy/Clash/Talk/Sense/Know based on your intent).
+**Spell Theorems:** Each theorem you know is a mastered spell defined by a Sphere and an Operation (e.g., "Searing Bolt [Energy, Destroy]" or "Mind Blank [Mind, Deceive]"). When you cast a known theorem, describe the effect and roll **Cunning + appropriate Action** (Defy/Clash/Talk/Sense/Know based on your intent).
 
 **Operations** (what the spell does):
 - **Reveal** — Perceive, divine, sense, translate, or audit information
@@ -126,7 +126,7 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 - **Enhance** — Amplify, augment, or empower natural capabilities
 - **Deceive** — Create false images, introduce misdirection, or generate sensory lies
 
-**Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation (e.g., "I use Force to Bind the gate's momentum"). **Mark 1 Stress each time** you invoke your theoretical knowledge to improvise a spell, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. You can use this ability as many times per scene as you can afford the Stress cost. Outcomes follow standard Consequence framework (see Chapter 4).
+**Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation (e.g., "I use Energy to Bind the gate's momentum"). **Mark 1 Stress each time** you invoke your theoretical knowledge to improvise a spell, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. You can use this ability as many times per scene as you can afford the Stress cost. Outcomes follow standard Consequence framework (see Chapter 4).
 
 If you are a **Specialist** and your Arcane Formula uses your chosen Sphere, you have Expertise (Setback outcome becomes Conflict).
 

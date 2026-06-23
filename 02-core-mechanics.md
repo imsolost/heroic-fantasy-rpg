@@ -44,11 +44,31 @@ Make an **Action Roll** when a character faces a risky, difficult, or dramatical
 - You can't swing a sword with a broken arm (Condition removes vantage)
 - You can't pick a lock if you're across the room (fiction denies vantage)
 
-**Effect on Play:**
+**Vantage and Difficulty:**
 
-Proper vantage opens up possibilities and gives freedom to declare story details. Lacking it makes things more difficult (Banes) or even impossible (GM says no).
+Vantage is reflected in difficulty adjudication rather than being a separate check:
 
-When a question arises about what you can do, have, or know, check it against your vantage: **does it feel like a given, a stretch, or a reach?**
+**Clear Vantage:**
+- Standard task → No modifier
+- Easy task → 1 Boon
+
+**Limited Vantage** (lacking tools, position, or capability):
+- Hard task → 1 Bane (requires extra effort)
+- Very Hard task → 2 Banes (significant disadvantage)
+- May require Expertise or Trait to attempt at all
+
+**No Vantage:**
+- Cannot attempt with this approach
+- GM works with player to find an approach they DO have vantage for
+- Or: make it a different Action entirely
+
+**Examples in Play:**
+- "I pick the lock" without tools → Limited Vantage → Hard (1 Bane)
+- "I swing my sword" with broken arm → No Vantage → Cannot attempt, try different approach
+- "I suture the wound" with medical Expertise → Clear Vantage → Standard difficulty
+- "I convince the guard" who doesn't speak your language → No Vantage (via Talk) → Try different approach (bribe? gesture? find translator?)
+
+When a question arises about what you can do, have, or know, check it against your vantage: **does it feel like a given, a stretch, or a reach?** Then reflect that in difficulty.
 
 ---
 

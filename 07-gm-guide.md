@@ -47,10 +47,23 @@ Never deliver consequences without warning (unless surprise is narratively justi
 
 **Action Scope:** One roll resolves one complete dramatic question or objective. "Cross the collapsing hallway" is one roll, not separate rolls for each falling timber. "Navigate the treacherous canyon pass" is one roll, not one per obstacle. Once a character rolls to handle a specific threat environment, don't force additional rolls for micro-elements within that same threat. This prevents attrition spirals in dangerous environments.
 
-### **Embrace the fiction**
+### **Embrace the fiction / Check Vantage**
 - Stats and mechanics serve the fiction, not the other way around
 - If something doesn't make fictional sense, it can't happen (pixie can't wield greatsword unless magic explains it)
 - When in doubt, ask "Does this make sense in the world?"
+
+**Check Vantage:** When a player attempts something, ask yourself: "Do they have the capability, position, or resources to attempt this?"
+
+- **Clear Vantage** → Set difficulty normally (Standard/Easy)
+- **Limited Vantage** (lacking tools, position, capability) → Hard or Very Hard (add Banes)
+- **No Vantage** → Cannot attempt with this approach; work with player to find an approach they DO have vantage for
+
+Examples:
+- "I pick the lock" without tools → Limited Vantage → Hard (1 Bane)
+- "I swing sword" with broken arm → No Vantage → "That won't work, try something else"
+- Convincing guard who doesn't speak your language → No Vantage via Talk → Suggest different Action (bribe? gesture?)
+
+Vantage isn't a separate step—it's reflected in how you set difficulty. See Chapter 2: Vantage for complete framework.
 
 ### **Think off-screen too**
 - The world moves even when PCs aren't watching

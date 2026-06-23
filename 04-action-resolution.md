@@ -426,6 +426,24 @@ Amplify your existing outcome—make it stronger, broader, longer-lasting, or ha
 - Narrative flavor explains WHY (Blinded, Marked, Exposed, Weakened, Slowed, etc.)
 - Mechanically identical
 
+**Conditions vs Complications:**
+
+**CONDITIONS (temporary, player-created):**
+- Created through Create Advantage (Trait invocation)
+- Represent temporary vulnerabilities or tactical openings
+- Examples: Blinded, Slowed, Weakened, Frightened, Off-Balance
+- Duration: 1-2 actions (or scene-long with Potent Spell)
+- Tick down as allies use them
+
+**COMPLICATIONS (permanent, built into Challenge):**
+- Designed into the Challenge by GM
+- Represent inherent defenses or advantages
+- Examples: Resilient (armor), Elusive (speed/stealth), Warded (magic resistance)
+- Permanent until removed through fiction (disarm, destroy armor, etc.)
+- See Chapter 6 for full Complication tags
+
+Both grant allies Boons/Edge mechanically, but differ in source, duration, and how they're removed.
+
 **Duration:**
 - **1 action** (default Secondary Effect: Create Advantage)
 - **2 actions** (with Greater Effect applied)
@@ -730,6 +748,36 @@ Your intent might be to achieve one of the fictional effects directly:
 - Additional Effect: Seize Control (shove them aside AND they fall prone - double control)
 - Additional Effect: Create Advantage (dodge attack AND blind them with kicked-up dust)
 - Build Momentum (your bold action inspires an ally)
+
+---
+
+### Which Type of Defy?
+
+Defy serves multiple purposes. Use this guide to identify which variant applies:
+
+**PROACTIVE DEFY (your action):**
+- You declare: "I want to [overcome obstacle / perform risky action]"
+- You spend your action
+- Examples: Pick lock, leap chasm, grapple enemy, dodge trap, pickpocket guard
+
+**REACTIVE DEFY (GM-triggered, free):**
+- Enemy attacks you
+- GM: "The knight swings at you — Defy to dodge?"
+- You roll to defend (doesn't cost your action)
+- You CANNOT spend Momentum to Resist consequences from this roll
+
+**RESIST CONSEQUENCE (Momentum spend):**
+- You rolled Conflict/Setback on your own action (Clash, Talk, Sense, Know)
+- You want to reduce the consequence
+- Costs 1 Momentum
+- Roll Defy: Success = reduce 2 steps, Conflict = reduce 1 step
+
+**STRESS OVERFLOW RESIST (special exception):**
+- Your Stress track is full and you'd mark more
+- You MAY spend 1 Momentum to Resist (exception to Reactive rule)
+- See Chapter 5: Stress Overflow Procedure for complete rules
+
+---
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
 

@@ -732,10 +732,10 @@ Your intent might be to achieve one of the fictional effects directly:
 - **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Benefit
 
 **Examples:**
-- Knight attacks you → Defy to dodge → Success → You avoid his blade cleanly
+- "The knight swings at you!" → Defy to dodge → Success → You avoid his blade cleanly
 - Leap across chasm → Defy with Grace → Success → You make it across
 - Sweep enemy's legs → Defy with Grace → Success → Enemy falls prone (Seize Control, no harm dealt)
-- Pickpocket guard during conversation → Defy with Cunning → Conflict → You grab the keys (Take Something) but he notices something off (soft Impact Move: suspicion rises)
+- Pickpocket guard during conversation → Defy with Cunning → Conflict → You grab the keys (Take Something) but he notices something off (suspicion rises)
 - Grapple cultist to pin them → Defy with Daring → Success → They're pinned (Seize Control)
 - Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 4-tick Obstacle track + take 1 Stress as mechanism activates
 - Resist interrogation → Defy with Spirit → Success → You give nothing away
@@ -753,41 +753,42 @@ Your intent might be to achieve one of the fictional effects directly:
 
 ### When to Use Defy
 
-Defy is a **proactive action** — you use it when actively overcoming obstacles or responding to telegraphed threats.
+Defy is a **proactive action** — you use it when actively overcoming obstacles or reacting to imminent danger.
 
 **OVERCOMING OBSTACLES (sustained challenges):**
 - Pick lock, disarm trap, scale wall, sneak past guards
 - Marks Obstacle track until complete
 
-**RESPONDING TO TELEGRAPHED DANGER (Suspense Moves):**
-- GM telegraphs threat: "The orc raises his axe high!" or "The floor cracks beneath you!"
-- You respond with Defy: "I dive aside!" or "I leap to solid ground!"
-- Success = avoid threat, Conflict = minor consequence, Setback = Impact Move lands
+**REACTING TO DANGER (when you see it coming):**
+- "The orc raises his axe!" → "I dive aside!"
+- "The floor cracks beneath you!" → "I leap to solid ground!"
+- "The dragon rears back, flames gathering!" → "I sprint for cover!"
+- Success = avoid threat, Conflict = minor consequence, Setback = full impact
 
 **RISKY ACTIONS (immediate effects):**
 - Grapple enemy, pickpocket guard, leap chasm, shove opponent
 - Success = achieve your intent (Seize Control, Take Something, etc.)
 
 **Defy is NOT used for:**
-- Defending against enemy attacks that land without warning (those are Impact Moves — you can Resist with Momentum)
+- Consequences that land without warning (those just happen — you can Resist with Momentum)
 - Reducing consequences after they happen (that's Resist Consequence)
 
 ### The Defensive Framework
 
-**Proactive Defense (Defy):**
-When the GM telegraphs danger (Suspense Move), you can respond with any action — including Defy to avoid it.
+**Active Defense (Defy):**
+When you see danger coming, you can respond with any action — including Defy to avoid it.
 
-> **GM (Suspense Move):** "The dragon rears back, flames gathering in its throat—you've got seconds!"
+> **GM:** "The dragon rears back, flames gathering in its throat—you've got seconds!"
 > **PC:** "I Defy by diving behind the pillar!" (rolls Defy)
 > - Success = avoid fire breath
 > - Conflict = singed, mark 1 Stress  
-> - Setback = full blast (Impact Move)
+> - Setback = full blast hits (mark 2 Stress)
 
 **Reactive Defense (Resist Consequence):**
-When an Impact Move lands (consequence from your Setback, enemy attack without telegraph, trap triggers), you can spend 1 Momentum to automatically reduce Consequence Tier by 1. No roll required.
+When a consequence lands (from your Setback, an unseen attack, a trap), you can spend 1 Momentum to automatically reduce Consequence Tier by 1. No roll required.
 
 > **PC:** Rolls Clash, gets Setback
-> **GM (Impact Move):** "The knight's counterattack slams into your ribs. Mark 2 Stress."
+> **GM:** "The knight's counterattack slams into your ribs. Mark 2 Stress."
 > **PC:** "I spend Momentum to Resist—I roll with the blow, reducing it to 1 Stress."
 
 See **Chapter 5: Resist Consequence** for complete rules.
@@ -1091,51 +1092,51 @@ The GM makes a Disaster Move — harsher than a normal Setback:
 
 ### How Enemy Attacks Work
 
-Enemy actions follow the **Suspense Move → Impact Move** pattern:
+Enemy actions follow two patterns: **warning first** or **consequence immediately**.
 
-**SUSPENSE MOVE (Telegraph):**
-The GM signals danger, giving PCs a chance to respond with any action.
+**WARN FIRST (give them a chance to react):**
+The GM describes imminent danger, giving PCs a chance to respond with any action.
 
-> **GM (Suspense Move after PC's Conflict):** "The knight sees an opening and swings his sword at you—what do you do?"
+> **GM:** "The knight sees an opening and swings his sword at you—what do you do?"
 > **PC:** "I Defy by diving aside!" (rolls Defy)
 > - Success = avoid entirely
-> - Conflict = partial defense, mark 1 Stress (soft Impact Move)
-> - Setback = Impact Move lands (mark 2 Stress)
+> - Conflict = partial defense, mark 1 Stress
+> - Setback = full impact (mark 2 Stress)
 
-**IMPACT MOVE (Consequence):**
-When PCs roll Setback or ignore telegraphed danger, the GM makes an Impact Move immediately.
+**CONSEQUENCE IMMEDIATELY (no warning):**
+When PCs fail their roll or are caught off-guard, consequences just happen.
 
 > **PC:** Rolls Clash, gets Setback
-> **GM (Impact Move):** "The knight's counterattack slams into your ribs. Mark 2 Stress."
+> **GM:** "The knight's counterattack slams into your ribs. Mark 2 Stress."
 > **PC (optional):** "I spend Momentum to Resist—reducing it to 1 Stress."
 
-### When to Telegraph vs. Impact Immediately
+### When to Warn vs. Immediate Consequence
 
-**Telegraph (Suspense Move) when:**
-- PC rolls Conflict (create tension, soft setup)
+**Warn first when:**
+- PC rolls Conflict (create tension, escalate slowly)
 - Combat is narrative-focused and you want to give choices
-- The attack is visible and avoidable (raised sword, gathering spell)
+- The attack is visible and coming (raised sword, gathering spell)
 
-**Impact immediately (Impact Move) when:**
+**Immediate consequence when:**
 - PC rolls Setback (their failure opened them up)
-- Attack is too fast to react to (ambush, arrow from darkness)
-- PC ignored previous telegraph (they chose not to respond)
+- Attack is too fast to see coming (ambush, arrow from darkness)
+- PC ignored previous warning (they chose not to respond)
 
-### Impact Move Consequences
+### Consequence Severity
 
-**Soft Impact Move (Conflict):**
+**Minor Consequence (from Conflict):**
 - Mark 1 Stress
 - Inflict tier 1 Condition
 - Lose position or advantage
-- Telegraph bigger threat coming
+- Warn of bigger threat coming
 
-**Hard Impact Move (Setback):**
+**Major Consequence (from Setback):**
 - Mark 2 Stress
 - Inflict tier 2-3 Condition
 - Inflict 2 Stress + Condition tier 1
 - Separate from allies, disarm, etc.
 
-**PCs can always Resist:** After any Impact Move, PCs may spend 1 Momentum to reduce Consequence Tier by 1 (automatic, no roll).
+**PCs can always Resist:** After any consequence, PCs may spend 1 Momentum to reduce severity by 1 tier (automatic, no roll).
 
 ### Complications and Enemy Attacks
 
@@ -1150,21 +1151,21 @@ Enemy Complications don't affect the Impact Move itself—they affect PC actions
 
 Hazards work the same way:
 
-**Telegraphed Hazard:**
-> **GM (Suspense Move):** "The floor cracks beneath you—it's collapsing!"
+**Warning First:**
+> **GM:** "The floor cracks beneath you—it's collapsing!"
 > **PC:** "I Defy by leaping to solid ground!" (rolls Defy)
 > - Success = land safely
 > - Conflict = make it but mark 1 Stress from impact
-> - Setback = fall through (Impact Move: 2 Stress + Prone 1)
+> - Setback = fall through (2 Stress + Prone 1)
 
-**Immediate Hazard (trap, surprise):**
+**No Warning (trap, surprise):**
 > **PC:** Opens door without checking
-> **GM (Impact Move):** "Poison gas sprays from hidden vents. Mark 2 Stress and Poisoned 2."
+> **GM:** "Poison gas sprays from hidden vents. Mark 2 Stress and Poisoned 2."
 > **PC (optional):** "I Resist—holding my breath and covering my face, reduce to 1 Stress and Poisoned 1."
 
-### GM Guidance: Impact Move Variety
+### GM Guidance: Consequence Variety
 
-Don't just mark Stress. Use Impact Moves to create drama:
+Don't just mark Stress. Use consequences to create drama:
 
 **Complicate Things:**
 - "The alarm rings—guards are coming"

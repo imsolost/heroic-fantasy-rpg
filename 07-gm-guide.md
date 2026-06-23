@@ -206,7 +206,8 @@ These escalate tension and telegraph danger. Use when:
 - **Optional:** Spend 1 Threat (if using Threat Pool)
 
 Examples:
-- **Show signs of approaching threat** — "You hear heavy footsteps echoing down the hall"
+- **Warn of imminent danger** — "The dragon's throat glows orange—flames are gathering!" / "The ogre raises its club high, preparing to strike!" / "The minotaur lowers its horns and charges!"
+- **Show signs of approaching threat** — "You hear heavy footsteps echoing down the hall" / "Smoke begins filling the room" / "The alarm bell rings in the distance"
 - **Put someone in a spot** — "The bridge is collapsing. Do you jump or grab your ally?"
 - **Offer an opportunity, with or without cost** — "You could grab the artifact, but the guardian is turning toward you..."
 - **Reveal an unwelcome truth** — "You recognize the bandit leader — it's your brother"
@@ -214,6 +215,20 @@ Examples:
 - **Bridge** — "The ritual is halfway complete. Dark energy swirls."
 
 **When:** PC Conflict result, or when building tension. These are *setups* for Impact Moves.
+
+**Two Types of Warning:**
+
+**Imminent Danger (immediate threat):**
+- Enemy prepares to attack: "The dragon's throat glows with fire!"
+- Trap activates: "The pressure plate clicks beneath your foot!"
+- Environmental collapse: "The ceiling cracks—it's coming down!"
+- **Gives PCs immediate opportunity to respond** (usually with Defy or another action)
+
+**Approaching Threat (longer-term escalation):**
+- Off-screen danger: "You hear guards approaching"
+- Countdown advances: "The ritual reaches its second phase"
+- Situation worsens: "Smoke begins filling the room"
+- **Creates pressure and time limits** (PCs need to wrap up or face new complications)
 
 **Conflict Results in Dangerous Situations:** When a PC rolls Conflict in combat or high-stakes situations, combine a Suspense Move with minor mechanical consequence (mark 1 Stress, apply tier 1 Condition, or lose position). Examples:
 - "You deflect his blade but he presses you into the corner — mark 1 Stress from the exertion"

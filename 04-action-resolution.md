@@ -218,8 +218,8 @@ You succeed at your action (mark progress, get info, etc.) but face a complicati
 - Attract attention or raise suspicion
 - Take longer than expected
 - Face a tough choice ("You can do it, but you'll be exposed")
-- Enemy gets ready to act
-- Threat escalates slightly
+- **Warn of imminent danger** (enemy prepares to strike, trap activates, situation about to escalate)
+- Threat escalates slightly (longer-term countdown, off-screen events)
 
 **Examples:**
 - "You pick the lock but the mechanism clicks loudly—guards are coming"

@@ -25,8 +25,8 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 ### Marking Stress
 
 **From Consequences (most common):**
-- **Minor Consequence** (Conflict outcome) → Mark 1 Stress (GM makes soft Impact Move)
-- **Major Consequence** (Setback outcome) → Mark 2 Stress (GM makes hard Impact Move)
+- **Minor Consequence** (Conflict outcome) → Mark 1 Stress
+- **Major Consequence** (Setback outcome) → Mark 2 Stress
 - **Severe Consequence** (Disaster outcome) → May inflict Stress + Burden, or result in Taken Out
 
 See **Chapter 4: Action Resolution** for complete Consequence framework.
@@ -75,7 +75,7 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 > - Restrained doesn't affect examining your surroundings (Sense)
 > - Deafened doesn't affect climbing a wall (Defy)
 > 
-> **Golden Opportunity:** If a player repeatedly takes unrelated actions to avoid a dangerous Condition (e.g., using Know to recall trivia while Blinded during a deadly fight), they're giving you a perfect opening for a Hard Impact Move. They're ignoring the immediate threat — the enemy capitalizes. *"While you're distracted recalling historical flags, the Shadowdancer backstabs you — mark 2 Stress."*
+> **Golden Opportunity:** If a player repeatedly takes unrelated actions to avoid a dangerous Condition (e.g., using Know to recall trivia while Blinded during a deadly fight), they're giving you a perfect opening to escalate danger. They're ignoring the immediate threat — the enemy capitalizes. *"While you're distracted recalling historical flags, the Shadowdancer backstabs you — mark 2 Stress."*
 > 
 > When in doubt, apply the Condition.
 
@@ -87,7 +87,7 @@ Conditions come from three sources:
 
 > *The dark elf assassin's Poisoned Blade inflicts Poisoned 2. A dragon's Fearsome Roar inflicts Frightened 3.*
 
-**Consequences (Impact Moves):** The GM may inflict a Condition (tier 1 for Minor, tier 2-3 for Major/Severe) instead of or alongside marking Stress.
+**Consequences:** The GM may inflict a Condition (tier 1 for Minor, tier 2-3 for Major/Severe) instead of or alongside marking Stress.
 
 > *Minor Consequence: "You deflect the blow but the acid splashes your arm — Burned 1."*
 
@@ -193,7 +193,7 @@ Reduce the number by 1 each time you act through it. Erase when it reaches 0 or 
 
 **Cost:** 1 Momentum
 
-When you would suffer a consequence from an Impact Move (Stress, Condition, or narrative setback), spend 1 Momentum to automatically reduce the Consequence Tier by 1.
+When you would suffer a consequence (Stress, Condition, or narrative setback), spend 1 Momentum to automatically reduce the Consequence Tier by 1.
 
 **No roll required** — the reduction is immediate and guaranteed.
 
@@ -214,17 +214,17 @@ When you would suffer a consequence from an Impact Move (Stress, Condition, or n
 
 ### When to Use
 
-- **After Impact Move lands:** The GM announces a consequence, you declare "I Resist" and spend 1 Momentum
+- **After consequence announced:** The GM announces a consequence, you declare "I Resist" and spend 1 Momentum
 - **Before Stress Overflow:** When full Stress and would mark more, Resist reduces the overflow amount (possibly avoiding Burden choice entirely)
 - **Your choice:** Decide whether the Momentum is worth avoiding/reducing this specific consequence
 
 ### Example in Play
 
-> **GM (Impact Move):** "The knight's mace slams into your shield. Mark 2 Stress."
+> **GM:** "The knight's mace slams into your shield. Mark 2 Stress."
 > **PC:** "I spend Momentum to Resist—I roll with the blow, reducing it to 1 Stress."
 > **GM:** "The impact jars your arm but you stay firm."
 
-> **GM (Impact Move):** "The dragon's roar fills you with terror. Frightened 3."
+> **GM:** "The dragon's roar fills you with terror. Frightened 3."
 > **PC:** "I Resist—I've faced worse. Reduce it to Frightened 2."
 > **GM:** "You grit your teeth and hold your ground, though fear still grips you."
 
@@ -345,7 +345,7 @@ When assigning a Burden, immediately clarify how it clears:
 
 | | Conditions | Burdens |
 |---|---|---|
-| **Source** | Challenge Moves, Impact Moves | Stress overflow, Disaster, Death Moves, narrative events |
+| **Source** | Challenge Moves, Consequences | Stress overflow, Disaster, Death Moves, narrative events |
 | **Frequency** | Common | Rare |
 | **Bane** | 1 Bane each | 1 Bane each |
 | **Recovery** | Tick down through action; clear on short rest | Long rest (1 tier per) or special recovery |
@@ -389,7 +389,7 @@ When assigning a Burden, immediately clarify how it clears:
 | Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
 | Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on short rest |
 | Stress track full | Choose: take a Burden or be Taken Out |
-| Mark Stress | 1 (soft Impact Move) or 2 (hard Impact Move) |
+| Mark Stress | 1 (Minor Consequence) or 2 (Major Consequence) |
 | Resist Consequence | Spend 1 Momentum, reduce Consequence Tier by 1 (automatic, no roll) |
 | Quick Assist | Mark 1 Stress, grant ally 1 Boon |
 | Push Yourself | Mark 1 Stress, gain 1 Boon |

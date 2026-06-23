@@ -136,7 +136,7 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 1. Frame situations with stakes
 2. Ask "What do you do?"
 3. Call for rolls when outcome uncertain
-4. Telegraph danger (soft moves) before delivering consequences (hard moves)
+4. Telegraph danger before delivering consequences
 5. Make the world feel alive and reactive
 
 **When to roll:**

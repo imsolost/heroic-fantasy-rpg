@@ -57,7 +57,7 @@ The GM evaluates the situation and communicates the stakes clearly:
 
 **Consequences:**
 - What happens on Setback? (Fail with consequence)
-- What happens on Conflict? (Success with soft Impact Move)
+- What happens on Conflict? (Success with Minor Consequence)
 
 **Complications:**
 - Are there Challenge Traits that impose Complications? (enemy armor, magical wards, NPC suspicion)
@@ -91,7 +91,7 @@ See [02-core-mechanics.md](02-core-mechanics.md#boon--bane) for complete list of
 Roll Xd6 dice pool (Approach + Boons - Banes). Check the highest single die (and look for double 6s):
 
 - **All 1-3:** Setback — Things go wrong, situation worsens
-- **Any 4-5:** Conflict — Success with consequence (GM makes soft Impact Move)
+- **Any 4-5:** Conflict — Success with consequence (you face Minor Consequence)
 - **Any 6:** Success — You accomplish your intent cleanly
 - **Two+ 6s:** Triumph — You accomplish your intent fully, gain 1 Momentum, ignore all Complications
 
@@ -140,7 +140,7 @@ You may invoke your Trait to gain one Special Effect:
 #### Setback
 **Failure with Major Consequence.**
 
-You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no useful information), and you suffer a **Major Consequence** (GM makes a hard Impact Move).
+You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no useful information), and you suffer a **Major Consequence** (you face a Major Consequence).
 
 **Your action fails:** No progress on tracks, no questions answered, no information gained.
 
@@ -151,7 +151,7 @@ You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no 
 #### Conflict
 **Success with Minor Consequence.**
 
-You accomplish your action's mechanical effect (same as Success), but you suffer a **Minor Consequence** (GM makes a soft Impact Move).
+You accomplish your action's mechanical effect (same as Success), but you suffer a **Minor Consequence** (you face a Minor Consequence).
 
 **Your action succeeds:** Mark ticks, ask questions, gain information, or overcome obstacles as you would on Success.
 
@@ -190,80 +190,95 @@ When you achieve **Triumph**, you succeed completely and gain:
 
 ---
 
-## Impact Moves & Consequence Framework
+## Consequences
 
-**When a PC suffers a Consequence, the GM makes an Impact Move.**
+**When you roll Conflict, Setback, or Disaster, you face consequences.**
 
-Impact Moves represent how the world responds to imperfect actions. The GM chooses from:
-- **General Impact Moves** (always available, organized by Consequence tier)
-- **Challenge-Specific Moves** (from the enemy, obstacle, or hazard being faced)
+The GM describes what happens based on the severity and the situation you're in. These range from minor setbacks to catastrophic failure.
 
 ### Consequence Tiers
 
 **Three tiers of consequences:**
 
-| Outcome | Consequence Tier | GM Response |
-|---------|------------------|-------------|
-| **Conflict** | **Minor Consequence** | Soft Impact Move (1 Stress, lose position, side effect) |
-| **Setback** | **Major Consequence** | Hard Impact Move (2 Stress, serious danger, objective setback) |
-| **Disaster** | **Severe Consequence** | Disaster Move (Taken Out, Burden, catastrophic failure) |
+| Outcome | Consequence | What This Means |
+|---------|-------------|-----------------|
+| **Conflict** | **Minor Consequence** | Progress + complication (1 Stress, lose position, side effect) |
+| **Setback** | **Major Consequence** | No progress + serious problem (2 Stress, danger, objective setback) |
+| **Disaster** | **Severe Consequence** | Catastrophic (Taken Out, Burden, total failure) |
 
 **Triumph/Success:** No consequence (clean success)
 
-### Minor Consequences (Conflict - Soft Impact Moves)
+### Minor Consequences (Conflict)
 
-Choose one:
-- **Put someone in a spot** — Force a difficult position or tough choice
-- **Reveal an unwelcome truth** — Show something they didn't want to know
-- **Show signs of approaching threat** — Foreshadow danger, countdowns advance
-- **Take away advantage or position** — Lose high ground, cover, flanking, initiative
-- **Mark 1 Stress** — Mark 1 Stress + potentially inflict a Condition (tier 1)
-- **Offer a difficult choice** — "You can mark the tick, but you'll take 1 Stress" OR "Avoid harm, but make no progress"
-- **Advance a Countdown Track** — Move threat closer by 1 tick
+You succeed at your action (mark progress, get info, etc.) but face a complication:
 
-### Major Consequences (Setback - Hard Impact Moves)
+**Common minor consequences:**
+- Mark 1 Stress
+- Lose position or advantage
+- Attract attention or raise suspicion
+- Take longer than expected
+- Face a tough choice ("You can do it, but you'll be exposed")
+- Enemy gets ready to act
+- Threat escalates slightly
 
-Choose one:
-- **Deal harm** — Mark 2 Stress + potentially inflict a Condition (tier 1-3 based on severity)
-- **Take something important** — Disarm, steal equipment, capture ally, remove advantage
-- **Put them in immediate danger** — Trapped, surrounded, at enemy's mercy, falling
-- **Activate a threat** — Trigger trap, raise alarm, enemy reinforcements arrive, hazard activates
-- **Advance a Countdown Track** — Move threat closer by 2 ticks (or complete it for dramatic moments)
-- **Make a dramatic narrative shift** — Situation fundamentally worsens (guards converge, exit seals, noble calls for your arrest)
+**Examples:**
+- "You pick the lock but the mechanism clicks loudly—guards are coming"
+- "You deflect his blade but he backs you into the corner—mark 1 Stress"
+- "You learn the ritual's purpose, but your research attracts the cult's attention"
 
-### Severe Consequences (Disaster - Disaster Moves)
+### Major Consequences (Setback)
 
-Choose one:
-- **Taken Out** — Unconscious, captured, flee in terror, pinned helplessly
-- **Objective fails catastrophically** — Alarm raised, vault sealed permanently, artifact destroyed
-- **Countdown completes** — Ceiling collapses, ritual finishes, reinforcements arrive
-- **Burden inflicted** — Tier 1-2 Burden + other consequences (see Chapter 5: Resilience)
-- **Dramatic narrative shift** — Exposed as spy, bridge collapses, demon breaks free
+You fail to achieve your action AND face serious consequences:
 
-### Challenge-Specific Moves
+**Common major consequences:**
+- Mark 2 Stress (or 1 Stress + Condition)
+- Enemy counterattacks or gains major advantage
+- Lose something important (weapon, position, ally)
+- Trigger immediate danger (trap, alarm, reinforcements)
+- Objective becomes much harder or fails
+- Situation fundamentally worsens
 
-Significant enemies, obstacles, and hazards should have 2-3 specific moves the GM can deploy on Conflict/Setback. These moves should reflect the Challenge's nature and create interesting tactical situations.
+**Examples:**
+- "The knight's blade cuts deep—mark 2 Stress and you're Bleeding 1"
+- "The noble sees through your deception and calls for guards—you're surrounded"
+- "You slip while climbing—mark 2 Stress and you're hanging by one hand"
+
+### Severe Consequences (Disaster)
+
+Catastrophic failure with lasting impact:
+
+**Common severe consequences:**
+- Taken Out (unconscious, captured, fleeing)
+- Burden inflicted (persistent injury or affliction)
+- Objective fails completely
+- Major dramatic shift (bridge collapses, ritual completes, exposed as traitor)
+- Multiple cascading problems
+
+**Examples:**
+- "The explosion throws you into the wall—you're unconscious. Mark Wounded 2 (Burden)."
+- "The demon breaks free of its bindings—it turns toward you, flames gathering"
+- "You're exposed as a spy. The entire court turns hostile. What do you do?"
+
+### Challenge Moves
+
+Significant enemies and obstacles have their own specific consequences. The GM uses these to make the threat feel unique and dangerous.
 
 **Examples:**
 
-**Armored Knight (Tier 2):**
-- *Counter with precision* (soft/hard) — Deal Tier 2 harm (2 Stress)
-- *Press the advantage* (soft) — Force PC to Defy or lose position
-- *Disarm* (hard) — Take weapon, PC must retrieve or fight unarmed
+**Armored Knight:**
+- Counterattack (deal 2 Stress)
+- Press forward (back you into corner, lose position)
+- Disarm strike (weapon knocked away)
 
-**Ancient Trap (Tier 2):**
-- *Spring mechanism* (hard) — Deal Tier 2 harm to all nearby
-- *Seal the exit* (hard) — New Obstacle track appears to escape
-- *Alert guardians* (soft) — Countdown Track starts for enemy arrival
+**Ancient Trap:**
+- Springs shut (2 Stress to everyone nearby)
+- Seals the exit (now you need to find another way out)
+- Alerts guardians (enemy reinforcements arrive in 2 rounds)
 
-**Suspicious Noble (Tier 2):**
-- *Call the guards* (hard) — New enemies join scene
-- *Dismiss you* (hard) — Lose access, fail Talk track automatically
-- *Spread rumors* (soft) — Future Talk actions face +1 Complication
-
-**Collapsing Ceiling (Countdown Track):**
-- *Debris falls* (soft) — Mark 1 Stress, lose positioning
-- *Ceiling collapses* (hard) — Mark 3 Stress + Condition "Buried"
+**Suspicious Noble:**
+- Calls guards (combat begins)
+- Dismisses you (loses access, social approach fails)
+- Spreads rumors (future social rolls harder)
 
 ---
 
@@ -285,7 +300,7 @@ When resolving an Action Roll with Complications and Expertise, follow this orde
    - Conflict outcome = Minor Consequence
    - Setback outcome = Major Consequence
    - Disaster outcome = Severe Consequence
-5. **Resolve Consequence** → GM makes Impact Move based on final tier
+5. **Resolve Consequence** → you face Impact Move based on final tier
 
 ### Examples
 
@@ -644,8 +659,8 @@ Track lengths follow the **Tier system** (Tier 0-4):
 ### Filling Tracks
 
 **Per roll:**
-- **Setback:** Mark 0 ticks + GM makes hard Impact Move
-- **Conflict:** Mark 1 tick (or 2 with Greater Effect Trait) + GM makes soft Impact Move
+- **Setback:** Mark 0 ticks + you face Major Consequence
+- **Conflict:** Mark 1 tick (or 2 with Greater Effect Trait) + you face Minor Consequence
 - **Success:** Mark 1 tick (or 2 with Greater Effect Trait)
 - **Triumph:** Mark 1 tick (or 2 with Greater Effect Trait) + gain Momentum + ignore Complications
 
@@ -726,8 +741,8 @@ Your intent might be to achieve one of the fictional effects directly:
 - Recalling information → Use **Know**
 
 **Outcomes:**
-- **Setback:** Fail to achieve intent + GM makes hard Impact Move
-- **Conflict:** Achieve intent + GM makes soft Impact Move
+- **Setback:** Fail to achieve intent + you face Major Consequence
+- **Conflict:** Achieve intent + you face Minor Consequence
 - **Success:** Achieve intent cleanly
 - **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Benefit
 
@@ -852,8 +867,8 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 **GM Note:** The GM is the final arbiter. Some targets may be immune or resistant to certain types of harm (e.g., a golem has no Will track — social Clash is ineffective; a knight with "Iron Discipline" might impose Complications on social Clash attempts).
 
 **Outcomes:**
-- **Setback:** Mark 0 ticks + GM makes hard Impact Move (enemy deals harm, you lose position, situation worsens)
-- **Conflict:** Mark 1 tick on Harm or Will (or outright defeat weak foes) + GM makes soft Impact Move (enemy counterattacks, you're pressured, mark Stress)
+- **Setback:** Mark 0 ticks + you face Major Consequence (enemy deals harm, you lose position, situation worsens)
+- **Conflict:** Mark 1 tick on Harm or Will (or outright defeat weak foes) + you face Minor Consequence (enemy counterattacks, you're pressured, mark Stress)
 - **Success:** Mark 1 tick on Harm or Will (or outright defeat weak foes) cleanly
 - **Triumph:** Mark 1 tick on Harm or Will + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
@@ -909,8 +924,8 @@ Both Talk and social Clash can mark the **Will track**, but they produce fundame
 See the **Clash - Harm** section above for a detailed comparison table.
 
 **Outcomes:**
-- **Setback:** Mark 0 ticks + GM makes hard Impact Move (they're offended, call guards, situation worsens dramatically)
-- **Conflict:** Mark 1 tick on Will (or outright convince lesser creatures) + GM makes soft Impact Move (they demand something, you reveal information, you lose standing)
+- **Setback:** Mark 0 ticks + you face Major Consequence (they're offended, call guards, situation worsens dramatically)
+- **Conflict:** Mark 1 tick on Will (or outright convince lesser creatures) + you face Minor Consequence (they demand something, you reveal information, you lose standing)
 - **Success:** Mark 1 tick on Will (or outright convince lesser creatures) cleanly
 - **Triumph:** Mark 1 tick on Will + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
@@ -922,7 +937,7 @@ See the **Clash - Harm** section above for a detailed comparison table.
 - Convince guard to let you pass → Success → He waves you through (simple task, outright convinced)
 - Negotiate with hostile merchant → Success → Mark 1 tick on his 4-tick **Will track** (he's warming up to your offer)
 - Persuade noble with compelling evidence → Triumph → Mark 1 tick on **Will track** + gain 1 Momentum + invoke Trait for Greater Effect (mark 2 ticks total — she's nearly convinced)
-- Charm noble at party → Conflict → Mark 1 tick on **Will track** but you reveal something about yourself in the process (soft Impact Move)
+- Charm noble at party → Conflict → Mark 1 tick on **Will track** but you reveal something about yourself in the process (Minor Consequence)
 
 **Example Benefits (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Will track, OR shift attitude dramatically beyond track - they become advocate/ally)
@@ -949,8 +964,8 @@ Use when:
 - Understanding what's really happening in the moment
 
 **Outcomes:**
-- **Setback:** 0 questions + GM makes hard Impact Move (you're spotted, danger revealed, misleading impression)
-- **Conflict:** 2 questions + GM makes soft Impact Move (takes time, enemy notices, partial information creates complication)
+- **Setback:** 0 questions + you face Major Consequence (you're spotted, danger revealed, misleading impression)
+- **Conflict:** 2 questions + you face Minor Consequence (takes time, enemy notices, partial information creates complication)
 - **Success:** 2 questions
 - **Triumph:** 2 questions + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect (Greater Effect = 4 questions total)
 
@@ -998,15 +1013,15 @@ Use when:
 **Know vs Sense:** Know is for recalling PAST facts, lore, or deducing from existing knowledge. Sense is for observing the PRESENT situation. "What do I know about dragons?" = Know. "What is this dragon doing right now?" = Sense.
 
 **Outcomes:**
-- **Setback:** No useful information + GM makes hard Impact Move (you misremember critically, waste crucial time, alert danger)
-- **Conflict:** GM tells you one specific, actionable thing + you may ask one clarifying question + soft Impact Move (takes time, reveals your interest, information creates complication)
+- **Setback:** No useful information + you face Major Consequence (you misremember critically, waste crucial time, alert danger)
+- **Conflict:** GM tells you one specific, actionable thing + you may ask one clarifying question + Minor Consequence (takes time, reveals your interest, information creates complication)
 - **Success:** GM tells you one specific, actionable thing + you may ask one clarifying question
 - **Triumph:** GM tells you one specific, actionable thing + you may ask one clarifying question + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect (Greater Effect = significantly more information + 2 clarifying questions)
 
 **Examples:**
 - Recall fire elemental weaknesses → Success → GM: "They're vulnerable to cold iron—your weapon will cut through them easily." You: "How do I exploit that?" GM: "Strike when they're manifesting physically, not in flame form."
 - Identify the artifact → Success → GM: "It's the Sundering Stone—it breaks magical wards when activated." You: "What's the activation trigger?" GM: "Blood from a willing participant."
-- Deduce trap mechanism → Conflict → GM: "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (soft Impact Move)
+- Deduce trap mechanism → Conflict → GM: "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (Minor Consequence)
 - Remember demon lore → Triumph → GM: "This is a bound demon—it cannot leave the summoning circle." You: "How long until the binding breaks?" GM: "Days, not weeks." + gain 1 Momentum
 
 **Know Does NOT Mark Tracks:**
@@ -1057,7 +1072,7 @@ The Know roll **gave you information**. The Defy roll **applied that knowledge**
 
 **Disaster Consequences:**
 
-The GM makes a Disaster Move — harsher than a normal Setback:
+The you face a Disaster Move — harsher than a normal Setback:
 - **Taken Out** — Unconscious, captured, flee in terror, pinned helplessly
 - **Objective fails catastrophically** — Alarm raised, vault sealed permanently, artifact destroyed
 - **Countdown completes** — Ceiling collapses, ritual finishes, reinforcements arrive
@@ -1088,7 +1103,7 @@ The GM makes a Disaster Move — harsher than a normal Setback:
 
 ## Enemy Actions & Impact Moves
 
-**Enemies do not roll dice.** Instead, the GM makes Impact Moves that affect PCs directly.
+**Enemies do not roll dice.** Instead, the you face Impact Moves that affect PCs directly.
 
 ### How Enemy Attacks Work
 
@@ -1301,7 +1316,7 @@ This creates:
 5. Determine raw outcome (check highest die and double 6s)
 6. Apply Complications to reduce tier (Triumph ignores all)
 7. Determine final outcome
-8. If Conflict or Setback: GM makes Impact Move (soft on Conflict, hard on Setback)
+8. If Conflict or Setback: you face Impact Move (soft on Conflict, hard on Setback)
 9. If Trait relevant and outcome is Conflict+: Invoke Trait for Special Effect
 10. Resolve outcome (Setback = 0 ticks, Conflict = full effect + Impact Move, Success = full effect, Triumph = full effect + Momentum + ignore Complications)
 
@@ -1334,8 +1349,8 @@ This creates:
 
 **Enemy Actions:**
 - Enemy attacks → Defy to resist (doesn't consume your action)
-- Setback = fail to defend + hard Impact Move (take Stress/Condition)
-- Conflict = defend successfully + soft Impact Move (lose position, pressured)
+- Setback = fail to defend + Major Consequence (take Stress/Condition)
+- Conflict = defend successfully + Minor Consequence (lose position, pressured)
 - Success = avoid cleanly
 - Triumph = avoid + Momentum + ignore Complications + may invoke Trait
 

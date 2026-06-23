@@ -362,17 +362,17 @@ Any character attacks enemy with 3 Complications
 
 ---
 
-### Benefits (Additional & Enhanced Effects)
+### Special Effects (Additional & Enhanced Effects)
 
-When you invoke a Trait, you gain a **Benefit** beyond your action's primary outcome. Benefits come in two forms: **Additional Effects** (add a new fictional outcome) and **Enhanced Effects** (amplify your existing outcome).
+When you invoke a Trait, you gain a **Special Effect** beyond your action's primary outcome. Special Effects come in two forms: **Additional Effects** (add a new fictional outcome) and **Enhanced Effects** (amplify your existing outcome).
 
-**Choose one Benefit:**
+**Choose one Special Effect:**
 
 ---
 
 #### Additional Effects
 
-Add a new fictional outcome to your success. These effects can also be the primary goal of a Defy action (pickpocket, grapple, shove), but when gained as Benefits, they happen in addition to your main effect.
+Add a new fictional outcome to your success. These effects can also be the primary goal of a Defy action (pickpocket, grapple, shove), but when gained as Special Effects, they happen in addition to your main effect.
 
 **Create Advantage** — Set up tactical opportunity for allies
 - **Effect:** Grant one ally **1 Boon OR 1 Edge** on their next action(s) against target (player suggests, GM decides based on fiction)
@@ -576,13 +576,13 @@ If the effect changes the fiction in a meaningful way that doesn't grant immedia
 
 ---
 
-### GM Guidance: Adjudicating Benefits
+### GM Guidance: Adjudicating Special Effects
 
-**Players choose, GMs adjudicate:** When a player invokes a Trait, they choose which Benefit (Additional Effect or Enhanced Effect) and describe the specific fictional expression. GMs ensure it fits the fiction and is proportional to success.
+**Players choose, GMs adjudicate:** When a player invokes a Trait, they choose which Special Effect (Additional Effect or Enhanced Effect) and describe the specific fictional expression. GMs ensure it fits the fiction and is proportional to success.
 
-**Fiction First:** Does it make sense given what just happened? The Benefit should flow naturally from the action and the fiction established.
+**Fiction First:** Does it make sense given what just happened? The Special Effect should flow naturally from the action and the fiction established.
 
-**Proportional to Success:** Benefits should feel impactful and heroic but not encounter-ending. They're moments of excellence, not scene-enders by themselves.
+**Proportional to Success:** Special Effects should feel impactful and heroic but not encounter-ending. They're moments of excellence, not scene-enders by themselves.
 
 **For Enhanced Effects:**
 - **Greater Effect:** Apply the principle "unusually potent, extensive, durable, or hard to counter" to the fictional context. When marking tracks, always 2 ticks instead of 1. Otherwise, work with the player to describe how it's significantly stronger.
@@ -590,7 +590,7 @@ If the effect changes the fiction in a meaningful way that doesn't grant immedia
 
 **For Additional Effects:**
 - **Create Advantage:** Lasts 1 action default, 2 if combined with Greater Effect. Boon for general advantage, Edge for targeting specific Complication.
-- **Take Something/Seize Control:** One object taken, one enemy controlled. Don't let single Benefits solve entire encounters.
+- **Take Something/Seize Control:** One object taken, one enemy controlled. Don't let single Special Effects solve entire encounters.
 - **Change Environment/Build Momentum:** One significant change, or 1 Momentum.
 
 **Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets at once, permanent reality-warping changes).
@@ -744,7 +744,7 @@ Your intent might be to achieve one of the fictional effects directly:
 - **Setback:** Fail to achieve intent + you face Major Consequence
 - **Conflict:** Achieve intent + you face Minor Consequence
 - **Success:** Achieve intent cleanly
-- **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Benefit
+- **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
 
 **Examples:**
 - "The knight swings at you!" → Defy to dodge → Success → You avoid his blade cleanly
@@ -754,9 +754,9 @@ Your intent might be to achieve one of the fictional effects directly:
 - Grapple cultist to pin them → Defy with Daring → Success → They're pinned (Seize Control)
 - Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 4-tick Obstacle track + take 1 Stress as mechanism activates
 - Resist interrogation → Defy with Spirit → Success → You give nothing away
-- Cast "Curse of Weakness" → Defy with Cunning → Success + invoke Trait → Enemy Weakened 1 (Create Advantage as primary) + you could choose Benefit like Greater Effect (Weakened 2) or Affect Additional Targets (multiple enemies Weakened)
+- Cast "Curse of Weakness" → Defy with Cunning → Success + invoke Trait → Enemy Weakened 1 (Create Advantage as primary) + you could choose Special Effect like Greater Effect (Weakened 2) or Affect Additional Targets (multiple enemies Weakened)
 
-**Example Benefits (from Trait invocation):**
+**Example Special Effects (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Obstacle track, or extend condition to 2 actions, or make control harder to break)
 - Affect Additional Targets (pickpocket multiple guards, knockdown multiple foes)
 - Additional Effect: Take Something (grapple them AND steal their dagger)
@@ -883,7 +883,7 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 - Intimidate guard captain (Cunning) → Success → Mark 1 tick on his **Will track** (he's rattled, losing composure)
 - Use Trait on attack → Triumph → Invoke Trait for Greater Effect (mark 2 ticks total on Harm or Will)
 
-**Example Benefits (from Trait invocation):**
+**Example Special Effects (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Harm or Will track instead of 1)
 - Affect Additional Targets (cleave through multiple enemies, demoralize entire squad)
 - Additional Effect: Take Something (mark Harm AND disarm them)
@@ -939,7 +939,7 @@ See the **Clash - Harm** section above for a detailed comparison table.
 - Persuade noble with compelling evidence → Triumph → Mark 1 tick on **Will track** + gain 1 Momentum + invoke Trait for Greater Effect (mark 2 ticks total — she's nearly convinced)
 - Charm noble at party → Conflict → Mark 1 tick on **Will track** but you reveal something about yourself in the process (Minor Consequence)
 
-**Example Benefits (from Trait invocation):**
+**Example Special Effects (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Will track, OR shift attitude dramatically beyond track - they become advocate/ally)
 - Affect Additional Targets (convince entire group instead of one person)
 - Additional Effect: Create Advantage (mark Will AND make them sympathetic - Charmed 1, ally gets Boon on social actions against them)
@@ -987,7 +987,7 @@ Use when:
 - Study the locked door → Conflict → Ask 2: "What is useful to me?" (GM: there's a ventilation grate nearby), "Can I fit through it?" (Yes, barely)
 - Size up the knight → Triumph → Ask 2 + gain 1 Momentum + invoke Trait for Greater Effect (ask 2 + 2 follow-ups—press deeper: "What is vulnerable?" "How is he protecting it?" "When does his guard drop?" "What triggers that?")
 
-**Example Benefits (from Trait invocation):**
+**Example Special Effects (from Trait invocation):**
 - Greater Effect (ask 2 questions + 2 follow-up questions to press deeper)
 - Additional Effect: Create Advantage (assess situation AND grant ally 1 Boon or 1 Edge by revealing tactical weakness)
 - Additional Effect: Change Environment (notice and reveal hidden detail - concealed passage, trap, danger)
@@ -1044,7 +1044,7 @@ Know provides information only—it doesn't overcome obstacles directly. After g
 
 The Know roll **gave you information**. The Defy roll **applied that knowledge** to overcome the obstacle. This two-step loop prevents Know from trivializing challenges while rewarding characters who take time to study problems before acting.
 
-**Example Benefits (from Trait invocation):**
+**Example Special Effects (from Trait invocation):**
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)
 - Additional Effect: Create Advantage (recall information AND grant ally 1 Boon or 1 Edge by revealing tactical weakness or specific vulnerability)
 - Additional Effect: Change Environment (recall information AND reveal hidden implication - secret connection, crucial context that changes situation)

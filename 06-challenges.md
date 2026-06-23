@@ -774,21 +774,129 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 
 ---
 
+## Building Encounters by Rank
+
+**Critical Distinction:** Tier measures sturdiness (track size), not narrative power. Rank determines Complications. A Tier 4 Challenge with no Complications is just durable, not world-shaking.
+
+### Understanding Tier vs Rank
+
+**TIER (mechanical):**
+- How long it takes to overcome (track size)
+- Tier 1 = 2 ticks, Tier 2 = 4 ticks, Tier 3 = 6 ticks, Tier 4 = 8 ticks
+- NOT a measure of "power level" or "world-shaking threat"
+- Just sturdiness/resilience
+
+**RANK (narrative):**
+- The genre/scale of the Challenge
+- Determines how many/which Complications are appropriate
+- Rank 1-2 foes: Usually 0-1 Complications
+- Rank 3-4 foes: May have 2-4 Complications (mythic/legendary traits)
+
+**COMPLICATIONS:**
+- Tied to Rank, NOT Tier
+- Most foes have 0-1 Complications (keep them rare)
+- Complications are defining traits, not default features
+- A Tier 1 demonspawn can have Complications
+- A Tier 4 Goblin King might have none (just very durable)
+
+---
+
+### Encounter Examples: Rank 2 Party
+
+**Rank 2 Party** = Action heroes (John Wick, Legolas, Batman-tier competence)
+
+**EASY ENCOUNTER:**
+- **3-4 Bandits** (grouped as single Tier 2 Challenge, 4-tick Harm, Squad)
+- Narrative: "Common thugs, no match for legends like you"
+- Challenge: Minimal—positioning and efficiency matter
+- Complications: 0-1 (maybe Squad to represent coordination)
+
+**STANDARD ENCOUNTER:**
+- **Veteran Knight** (Tier 2, 4-tick Harm, Heavy Armor [Resilient])
+- Narrative: "Skilled opponent, good test of your abilities"
+- Challenge: 1 Complication makes it interesting but manageable
+- Complications: 1 (armor is their defining feature)
+
+**TOUGH ENCOUNTER:**
+- **Elite Guard Captain** (Tier 3, 6-tick Harm, Resilient + Deadly)
+- Narrative: "This is their champion—your equal in skill"
+- Challenge: Requires teamwork, Momentum spends, or clever tactics
+- Complications: 2 (elite combatant with exceptional gear)
+
+**BOSS ENCOUNTER:**
+- **Ogre Warlord** (Tier 4, 8-tick Harm, Deadly + Resilient)
+- Narrative: "Massive and dangerous—this will be a drawn-out fight"
+- Challenge: Very durable, requires sustained effort and resources
+- Complications: 2 (size/strength + tough hide, but still Rank 2 threat)
+
+**MYTHIC THREAT (Rank 3+ enemy):**
+- **Ancient Dragon** (Tier 4, 8-tick Harm, Legendary + Resilient + Deadly + Vigilant)
+- Narrative: "This is beyond your Rank—you need tricks, not straight fights"
+- Challenge: 4 Complications = nearly impossible without preparation/special tools
+- Complications: 4 (Rank 3 creature has mythic defenses)
+- Note: Facing Rank 3 threats as Rank 2 heroes requires creative approaches
+
+---
+
+### Complications by Rank
+
+**Rank 1 (Realistic):**
+- Typically 0 Complications
+- Rare to have 1 (exceptional training, good equipment)
+- Example: Skilled archer with Vigilant, veteran with Resilient
+
+**Rank 2 (Action Hero):**
+- Typically 0-1 Complications
+- Elite foes might have 2
+- Example: Knight with Resilient, master duelist with Deadly + Resilient
+
+**Rank 3 (Mythic):**
+- Typically 2-3 Complications
+- Legendary foes might have 4
+- Example: Dragon with Legendary + Resilient + Deadly + Vigilant
+
+**Rank 4 (Demigod):**
+- Typically 3-4 Complications
+- Near-unkillable without special measures
+- Example: Titan with Legendary + Resilient + Warded + Deadly + Elusive
+
+**Common Mistake:** Don't give every Tier 2-3 enemy multiple Complications. Complications are RARE and DEFINING. A Tier 3 knight is just a knight with 6-tick Harm—they're durable, not necessarily complicated.
+
+---
+
+### Group Challenges
+
+**3+ identical enemies = Single Challenge of higher Tier**
+
+Instead of tracking multiple 2-tick bandits, use:
+- **Bandit Squad** (Tier 2, 4-tick Harm, Squad or Pack Tactics)
+- Represents coordinated group
+- Mark ticks as you defeat members of the group
+
+**Hybrid Approach:**
+- **Bandit Squad** (Tier 2, 4-tick, Squad) + **Bandit Captain** (Tier 2, 4-tick, Deadly)
+- Two separate Challenges
+- Captain has defining Complication (skilled leader)
+- Squad just represents numbers
+
+---
+
 ## Challenge Design Quick Guide
 
-**Not every Challenge needs Traits.** Reserve Traits for significant opposition or tactical puzzles.
+**Not every Challenge needs Complications.** Reserve Complications for significant opposition with truly defining traits. Most Challenges have 0-1 Complications.
 
 ### Challenge Tiers
 
-Tiers represent overall power level and narrative threat level:
+Tiers represent durability—how long it takes to overcome:
 
-| Tier | Power Level | Default Track Length |
-|------|-------------|---------------------|
-| Tier 1 | Trivial to competent opposition | 2 ticks (Harm) |
-| Tier 2 | Standard to dangerous opposition | 4 ticks (Harm) |
-| Tier 3 | Deadly baseline, boss-tier | 6 ticks (Harm) |
+| Tier | Durability | Default Track Length | Typical Use |
+|------|------------|---------------------|-------------|
+| Tier 1 | Fragile | 2 ticks | Easy foes, simple obstacles |
+| Tier 2 | Sturdy | 4 ticks | Skilled/experienced foes, tough obstacles |
+| Tier 3 | Resilient | 6 ticks | Elite foes, risky/intensive obstacles |
+| Tier 4 | Very Durable | 8 ticks | Boss fights, incredibly dangerous/resilient obstacles |
 
-**Note:** Tier doesn't directly affect Stress inflicted. Use **Universal Complications** (like Deadly) to adjust damage.
+**Note:** Tier measures STURDINESS only, not narrative power or danger. Use Complications (especially Deadly) to adjust actual threat level.
 
 **Base Impact Moves:**
 - **Soft Impact Move (Conflict):** Mark 1 Stress
@@ -798,18 +906,18 @@ Tiers represent overall power level and narrative threat level:
 
 ### Challenge Design Matrix
 
-| Tier & Traits | Power Level | Examples |
-|---------------|-------------|----------|
-| **Tier 1, 0 Traits** | Trivial opposition | Goblins, bandits, routine obstacles, locked doors |
-| **Tier 1, 1 Trait** | Competent but fragile | Skilled archer with "Eagle-Eyed", scout with "Fast" |
-| **Tier 2, 0 Traits** | Standard opposition | Knights, veterans, basic wards, complex negotiations |
-| **Tier 2, 1 Trait** | Dangerous opposition | Armored knight, warded vault, suspicious noble |
-| **Tier 2, 2 Traits** | Elite opposition | Master duelist, ancient golem, layered defenses |
-| **Tier 3, 0 Traits** | Deadly baseline | Dragon, archmage, deadly trap (dangerous even without defenses) |
-| **Tier 3, 1-2 Traits** | Boss-tier | Requires team coordination, multiple setup actions, perfect tactics |
-| **Tier 3, 3+ Traits** | Near-impossible | Only achievable with extensive preparation, full party coordination, or Triumph |
+| Tier & Complications | Durability | Typical Examples |
+|---------------------|------------|------------------|
+| **Tier 1, 0 Complications** | Easy/Fragile | Common bandits, goblins, simple locked doors |
+| **Tier 1, 1 Complication** | Easy but tricky | Skilled archer (Vigilant), demonspawn minion (Deadly) |
+| **Tier 2, 0 Complications** | Sturdy | Veteran soldiers, knights, basic wards |
+| **Tier 2, 1 Complication** | Sturdy and defended | Armored knight (Resilient), warded vault, suspicious noble (Resolute) |
+| **Tier 2, 2 Complications** | Very challenging | Elite duelist (Deadly + Resilient), exceptionally skilled/equipped foe |
+| **Tier 3, 0 Complications** | Very durable | Goblin King (just lots of HP), tough obstacle |
+| **Tier 3, 1-2 Complications** | Elite threat | Boss-tier combatants, dangerous creatures |
+| **Tier 3-4, 3+ Complications** | Mythic/Legendary (Rank 3+) | Dragons, titans, demigods—requires special preparation |
 
-**Balance Note:** More Traits = more preparation required. Challenges with 2+ Complications usually require:
+**Balance Note:** Complications = preparation required, not Tier. Challenges with 2+ Complications usually require:
 - Allies to Build Momentum for each other
 - Create an Opening Momentum spends (gain Edge to ignore Complications)
 - Talents that grant Edge or negate specific Complications

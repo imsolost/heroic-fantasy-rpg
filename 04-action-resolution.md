@@ -956,6 +956,8 @@ Use when:
 
 **GM answers truthfully** based on what you could perceive in the moment.
 
+**Sense vs Know:** Sense is for observing the PRESENT—what's happening RIGHT NOW in front of you. You cannot use Sense to ask about past facts, lore, or things not currently observable. "What do I know about dragons?" is Know, not Sense.
+
 **Examples:**
 - Read the noble's body language → Success → Ask 2: "What is he really feeling?" (terrified), "Who is in charge here?" (the cloaked figure in the corner)
 - Scan the battlefield → Success → Ask 2: "What is vulnerable here?" (the enemy flank is exposed), "How can I exploit that?" (circle around the left side)
@@ -983,6 +985,9 @@ Use when:
 - Identifying creatures, artifacts, or phenomena
 - Deducing connections, patterns, or solutions
 - Applying professional or scholarly expertise
+- Accessing off-screen information not observable in the moment
+
+**Know vs Sense:** Know is for recalling PAST facts, lore, or deducing from existing knowledge. Sense is for observing the PRESENT situation. "What do I know about dragons?" = Know. "What is this dragon doing right now?" = Sense.
 
 **Outcomes:**
 - **Setback:** No useful information + GM makes hard Impact Move (you misremember critically, waste crucial time, alert danger)

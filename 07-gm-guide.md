@@ -240,21 +240,49 @@ Examples:
 
 ### **Impact Moves** (Consequence / Follow-Through)
 
-These deliver hard consequences. Use when:
-- PC rolls Setback
-- Suspense move was ignored/failed
+These deliver consequences when PCs fail or warnings go unheeded. The severity depends on the outcome tier.
+
+**When to use:**
+- PC rolls Setback → Major Consequence
+- PC rolls Conflict (in dangerous situations) → Minor Consequence
+- Suspense move was ignored/failed → Major Consequence
 - Fiction demands immediate consequence
-- Challenge fail-state triggered
 
-Examples:
-- **Deal damage** — "The orc's axe bites deep. Mark 2 Stress."
-- **Use up their resources** — "Your armor strap snaps. Lose 1 armor use."
-- **Separate them** — "The cave-in splits the party. Kael, you're alone in the dark."
-- **Take away their stuff** — "The thief cuts your belt pouch and vanishes into the crowd"
-- **Inflict Condition** — "The dragon's roar fills you with terror. Mark Condition: Frightened (Moderate)"
-- **Advance threat clock** — "The ritual completes. The demon manifests."
+### Minor Consequences (Conflict)
 
-**When:** PC Failure result, or when Suspense Move's threat follows through.
+PC succeeds at their action, but faces a complication:
+
+**Choose one:**
+- Mark 1 Stress
+- Inflict tier 1 Condition
+- Lose position or advantage
+- Attract attention
+- Warn of imminent danger
+- Escalate situation slightly
+- Offer tough choice
+
+**Examples:**
+- "You deflect his blade but he backs you into the corner — mark 1 Stress"
+- "You pick the lock but the mechanism clicks loudly — guards are approaching"
+- "You learn the ritual's purpose, but the cult's attention turns toward you"
+
+### Major Consequences (Setback)
+
+PC fails their action AND faces serious consequences:
+
+**Choose one:**
+- Mark 2 Stress (or 1 Stress + tier 2-3 Condition)
+- Enemy counterattacks or gains major advantage
+- Lose something important (weapon, position, ally)
+- Trigger immediate danger (trap, alarm, reinforcements)
+- Objective becomes much harder or fails
+- Situation fundamentally worsens
+
+**Examples:**
+- "The orc's axe bites deep. Mark 2 Stress."
+- "The cave-in splits the party. Kael, you're alone in the dark."
+- "The noble sees through your deception and calls for guards — you're surrounded"
+- "You slip while climbing — mark 2 Stress and you're hanging by one hand"
 
 ### **Important:** Name the move in your head, describe in fiction
 

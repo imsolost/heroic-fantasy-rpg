@@ -864,6 +864,124 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 
 ---
 
+## Building a Challenge: Complete Example
+
+This sidebar walks through creating a complete Challenge from concept to finished stat block, showing all design decisions.
+
+### Example 1: Enemy — Drow Assassin
+
+**Concept:** Elite killer hired to eliminate the party's patron. Should feel dangerous in combat, hard to pin down, and favor hit-and-run tactics.
+
+**Step 1: Choose Tier**
+- This is a significant boss-tier encounter for a Rank 2 party
+- Should require coordination but be beatable
+- **Decision: Tier 2** (4-tick Harm track)
+
+**Step 2: Assign Tracks**
+- Can be fought physically → Harm track
+- Professional assassin, not easily swayed → Will track, but high
+- **Harm: 4 ticks** (Tier 2 standard)
+- **Will: 6 ticks** (disciplined professional, hard to intimidate)
+
+**Step 3: Choose Complications**
+- Elite combatant with poisoned weapons → **Deadly** (applies in combat)
+- Uses shadows and speed to avoid hits → **Elusive** (supernatural speed)
+- Disciplined professional → **Resolute** (resists intimidation/persuasion)
+- **Total: 3 Complications** (boss-tier threat)
+
+**Step 4: Design Challenge Moves**
+Pick 2-3 signature moves with limited uses:
+- **Poisoned Blade** — Close range, 1 Stress + Poisoned 3 (unlimited, always active)
+- **Shadow Step [□□]** — Teleport to Near/Far position, reposition behind enemy (2 uses)
+- **Smoke Bomb [□]** — All in Near range, create Smoke Cloud (Elusive - Obscuring) [□□□] Environmental Complication (1 use)
+
+**Step 5: Add Exploitable Trait**
+- **"Arrogant"** — Overconfident in their skills. Appeals to pride or challenges to honor grant 1 Boon on social rolls (Will track)
+
+**Finished Stat Block:**
+
+```
+Drow Assassin (Tier 2)
+Tracks: Harm 4, Will 6
+Complications:
+- Deadly - master combatant with poisoned blades (applies when attacking/being attacked)
+- Elusive - supernatural speed and shadow affinity (hard to target)
+- Resolute - disciplined professional (hard to influence)
+
+Exploitable: "Arrogant" (pride appeals grant 1 Boon on Will rolls)
+
+Challenge Moves:
+- Poisoned Blade — Close range, 1 Stress + Poisoned 3 (unlimited)
+- Shadow Step [□□] — Teleport to Near/Far position (2 uses)
+- Smoke Bomb [□] — Create Smoke Cloud (Elusive - Obscuring) [□□□] (1 use)
+```
+
+**How This Plays:**
+- Direct combat faces 2 Complications (Deadly + Elusive) → very hard
+- Social approach faces 1 Complication (Resolute) but uses Arrogant weakness → viable if PCs play to pride
+- Assassin uses Shadow Step to avoid focus-fire, Poisoned Blade is constant threat
+- Smoke Bomb creates tactical complexity (area denial, vision blocking)
+- PCs need teamwork: scout for patterns (Sense), Build Momentum, Create Opening, or exploit Arrogant to negotiate
+
+---
+
+### Example 2: Obstacle — Ancient Vault Door
+
+**Concept:** Wizard's vault protecting powerful artifact. Multiple approaches should work, each facing different challenge.
+
+**Step 1: Choose Tier**
+- Significant obstacle, not trivial
+- Should require effort but reward clever approaches
+- **Decision: Tier 2** (4-tick Obstacle track, can be increased to 6 for more challenge)
+
+**Step 2: Assign Tracks**
+- Inanimate obstacle → only Obstacle track
+- **Obstacle: 6 ticks** (Tier 2+, complex multi-stage challenge)
+
+**Step 3: Choose Complications**
+Multiple defenses, each blocks different approach:
+- **Resilient** — Reinforced steel construction (resists physical force)
+- **Complex** — Intricate lock mechanism with multiple tumblers (resists lockpicking/skill)
+- **Warded** — Arcane protections and alarm triggers (resists magical bypass)
+- **Total: 3 Complications** (but only 1 applies per approach!)
+
+**Step 4: Design "Challenge Moves" (Trap Triggers)**
+- **Alarm Wards** — If Warded not bypassed first, alarm sounds (attracts guards in 2 rounds)
+- **Poison Needle** — If lockpicking fails (Setback), mark 1 Stress + Poisoned 2
+- **Reinforced Construction** — If forcing fails (Setback), loud noise (attracts attention)
+
+**Step 5: Add Exploitable Trait**
+- **"Hidden Keyhole"** — Finding the master keyhole (Sense) grants 1 Edge, negating Complex entirely
+
+**Finished Stat Block:**
+
+```
+Ancient Vault Door (Tier 2, Obstacle)
+Tracks: Obstacle 6
+Complications:
+- Resilient - reinforced steel construction (applies to forcing/breaking)
+- Complex - intricate lock mechanism (applies to lockpicking/skill)
+- Warded - arcane protections (applies to magical bypass)
+
+Exploitable: "Hidden Keyhole" (finding it via Sense grants 1 Edge, negates Complex)
+
+Trap Triggers (Challenge Moves):
+- Alarm Wards — If Warded not bypassed, alarm sounds (guards arrive in 2 rounds)
+- Poison Needle — Lockpicking Setback: mark 1 Stress + Poisoned 2
+- Loud Impact — Forcing Setback: noise attracts attention
+```
+
+**How This Plays:**
+- **Brute force (Defy with Daring):** Faces Resilient (1 Complication), loud on failure
+- **Lockpicking (Defy with Cunning):** Faces Complex (1 Complication), poison trap on failure
+- **Dispel wards (Know with Spirit):** Faces Warded (1 Complication), alarm if failed
+- **Scout first (Sense):** Find hidden keyhole → negates Complex for lockpicking approach
+- **Find key (narrative solution):** Bypasses entirely
+
+**Design Lesson:** 3 Complications doesn't mean "impossible" — it means "choose your approach carefully, only 1 applies."
+
+---
+
 ### Group Challenges
 
 **3+ identical enemies = Single Challenge of higher Tier**

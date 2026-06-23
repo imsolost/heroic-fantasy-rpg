@@ -45,7 +45,111 @@ Never deliver consequences without warning (unless surprise is narratively justi
 - If failure would just stall progress, don't roll — let them succeed or reframe the situation
 - "What do you do?" should always have meaningful stakes
 
-**Action Scope:** One roll resolves one complete dramatic question or objective. "Cross the collapsing hallway" is one roll, not separate rolls for each falling timber. "Navigate the treacherous canyon pass" is one roll, not one per obstacle. Once a character rolls to handle a specific threat environment, don't force additional rolls for micro-elements within that same threat. This prevents attrition spirals in dangerous environments.
+---
+
+## Action Scope: One Roll Per Dramatic Question
+
+**One of the most common mistakes in fiction-first games:** Breaking a single dramatic moment into multiple micro-rolls that drain tension and create attrition spirals.
+
+### The Principle
+
+**One roll resolves one complete dramatic question or objective.**
+
+- "Cross the collapsing hallway" is **one roll**, not separate rolls for dodging each falling timber
+- "Navigate the treacherous canyon pass" is **one roll**, not one per obstacle
+- "Escape the burning building" is **one roll**, not one per room
+- "Sneak past the guard patrol" is **one roll**, not one per guard
+
+Once a character rolls to handle a specific threat environment, don't force additional rolls for micro-elements within that same threat.
+
+### Why This Matters
+
+**Multiple micro-rolls create attrition spirals:**
+- Five rolls to cross a dangerous zone = 5 chances to fail
+- Each failure marks Stress or imposes Conditions
+- By the end, PCs are battered before they even reach the real encounter
+- Tension drains into tedium
+
+**One dramatic roll creates stakes:**
+- Single roll with clear success/failure outcomes
+- Conflict = you make it across, but mark 1 Stress (exertion, close call)
+- Setback = you make it, but take 2 Stress + Condition (injured, exhausted)
+- Success = clean, heroic crossing
+- Triumph = you make it AND gain advantage (find shortcut, impress allies, gain Momentum)
+
+### Wrong vs. Right
+
+**❌ Wrong Approach (Five Micro-Rolls):**
+
+> **GM:** "The hallway is collapsing. The first timber falls toward you—roll Defy."
+> **Player:** Rolls Conflict. "I dodge it, but mark 1 Stress."
+> **GM:** "Okay. Now the floor cracks beneath you—roll Defy."
+> **Player:** Rolls Setback. "I fall and take 2 Stress. Now I'm at 3 Stress."
+> **GM:** "You're still halfway across. Another beam falls—roll Defy."
+> **Player:** Rolls Conflict. "I barely make it. Mark 1 Stress. That's 4 Stress total."
+> **GM:** "Almost there. The ceiling is collapsing—roll Defy."
+> **Player:** Rolls Setback. "I'm at full Stress and take a Condition. I haven't even reached the enemy yet!"
+
+**Result:** Five rolls, 5 Stress, 1 Condition. The PC is nearly defeated by the environment before the actual encounter begins. Tension becomes attrition, drama becomes tedium.
+
+---
+
+**✅ Right Approach (One Dramatic Roll):**
+
+> **GM:** "The hallway is collapsing—beams falling, floor cracking, ceiling caving in. You've got one shot to cross before it all comes down. Roll Defy with Grace or Daring to make it through."
+> **Player:** Rolls Conflict (4-5). "I got a 5—Conflict."
+> **GM:** "You sprint across, leaping over gaps and ducking falling debris. You make it to the other side, but you're winded and bruised. Mark 1 Stress. You're through."
+
+**Result:** One roll, 1 Stress, clean resolution. The PC is slightly taxed but still functional. Tension is maintained, pacing is preserved.
+
+---
+
+### When to Call for Multiple Rolls
+
+**You DO call for multiple rolls when:**
+- **Each roll is a distinct dramatic question** with its own stakes
+  - *Example:* "Escape the collapsing mine" (Defy to cross rubble) → "Fight the orcs blocking the exit" (Clash) → "Convince the guards to let you through the gate" (Talk). Three distinct problems, three rolls.
+  
+- **The scene is a multi-stage challenge** (see Challenges section)
+  - *Example:* "Stop the ritual" = complex scene with multiple obstacles (break the wards, fight the cultists, destroy the altar). Each stage is a separate roll against a progress clock.
+
+- **Different PCs tackle different parts of the same problem**
+  - *Example:* "Infiltrate the fortress" — Rogue picks the lock (Defy), Fighter keeps watch (Sense), Sage dispels the alarm (Know). Each PC faces their own challenge.
+
+**You DON'T call for multiple rolls when:**
+- **The PC is resolving a single dramatic objective** (crossing a dangerous zone, escaping pursuit, navigating hazardous terrain)
+- **Micro-elements are part of the same threat** (each falling beam in the collapsing hallway, each crack in the ice bridge, each guard in the patrol)
+- **Multiple rolls would just create attrition without adding meaningful choice**
+
+### Consequences Still Matter
+
+**One roll doesn't mean "safe."** The outcome determines the cost:
+
+- **Triumph:** Heroic success, clean victory, gain advantage
+- **Success:** Clean success, no complication
+- **Conflict:** Success + Minor Consequence (1 Stress, lose position, complication arises)
+- **Setback:** Failure + Major Consequence (2 Stress, Condition, separated, discovered)
+
+The stakes are resolved in **one moment**, not ground down over five rolls.
+
+### How to Frame It
+
+**Frame the entire threat, then call for one roll:**
+
+- **Bad:** "You reach the collapsing bridge. The first plank cracks—roll Defy. Okay, the second plank snaps—roll Defy. Now the ropes are fraying—roll Defy."
+- **Good:** "The bridge is collapsing under your weight—planks snapping, ropes fraying, the chasm yawning below. One roll to make it across. Defy with Grace or Daring?"
+
+**Describe success and failure stakes upfront:**
+- "If you succeed, you're across clean. If you fail, you'll make it, but you're taking damage and losing your gear in the fall."
+
+**Let the roll resolve the whole sequence:**
+- Success = describe heroic crossing (leap, roll, grab the far side)
+- Conflict = describe close call (stumble, catch yourself, winded)
+- Setback = describe costly success or dramatic failure (fall, grab rope, haul yourself up battered and bruised)
+
+### Summary
+
+**One roll per dramatic question.** This keeps tension high, pacing fast, and prevents attrition spirals that turn exciting moments into slogs. Save multiple rolls for truly multi-stage challenges where each roll represents a distinct choice with its own stakes.
 
 ### **Embrace the fiction / Check Vantage**
 - Stats and mechanics serve the fiction, not the other way around
@@ -256,6 +360,136 @@ Difficulty modifies the dice pool via Boon and Bane, not the outcome thresholds.
 - "I climb the ladder" → Say yes (unless ladder is trapped, rickety, or under fire)
 - "I jump across the 30-foot chasm" → Call for roll (dangerous, outcome uncertain)
 - "I flap my arms and fly" → Say no (you're not magical, fiction doesn't support it)
+
+---
+
+## Running Investigation Scenes
+
+**The Problem:** Investigation is uniquely vulnerable to bad GM rulings in fiction-first games. A GM who gates plot progress on a successful Know or Sense roll creates exactly the "failure stalls progress" problem the game explicitly warns against—but without investigation-specific guidance, that's the default behavior many GMs fall back on.
+
+**The Solution:** Clues should be freely available; rolls determine **how much information, how quickly, and what the cost is**—not whether information exists.
+
+### Core Principle: Always Give Them Something
+
+**Never gate essential clues behind rolls.** If the PCs are in the right place and looking for information, they find it. Rolls determine:
+- **How complete** the information is (Setback = partial, Success = full picture)
+- **How fast** they get it (Conflict = time pressure, Success = immediate)
+- **What it costs** (Conflict/Setback = complications, attract attention, trigger danger)
+
+### Investigation Framework
+
+**When PCs investigate:**
+
+1. **They're in the right place** → Give them the clue automatically
+   - "You search the study and find the coded letter in the desk drawer"
+   - No roll needed if they're searching the right location
+
+2. **They need to interpret or connect clues** → Call for Know
+   - Success: Full understanding + ask 1 clarifying question
+   - Conflict: Partial understanding, but time pressure or complication
+   - Setback: Misinterpretation or trigger danger (alarm, witness, trap)
+
+3. **They need to notice something hidden or subtle** → Call for Sense
+   - Success: Notice hidden detail + ask 2 questions
+   - Conflict: Notice it but trigger complication (someone notices you, time passes, disturb evidence)
+   - Setback: Miss the detail AND complication (false lead, attract attention, spring trap)
+
+### What Outcomes Mean
+
+**Success:**
+- Full clue, no complications
+- "You find the coded letter and recognize the cipher—it's the merchant guild's private code. What do you want to know about it?"
+
+**Conflict:**
+- Clue + complication (time, attention, partial info)
+- "You find the letter, but while you're reading it you hear footsteps approaching. You've got seconds to decide—take it or leave it?"
+- "You recognize parts of the code, but it's incomplete without the key. Where might the key be hidden?"
+
+**Setback:**
+- Complication WITHOUT the clue, or false lead
+- "You search frantically but find nothing before the guards enter. They see you rifling through the desk—what do you do?"
+- "You find a letter that LOOKS important, but it's actually a decoy. The real correspondence was hidden elsewhere, and you've wasted precious time."
+
+### Running Mystery Arcs
+
+**Three-Clue Rule:** For any conclusion you want PCs to reach, plant at least **three independent clues** that point to it. If they miss one or two, they still have paths forward.
+
+**Example: "Who killed the merchant?"**
+- Clue 1: Coded letter in victim's study (Know to decode)
+- Clue 2: Witness saw cloaked figure (Talk to get description)
+- Clue 3: Poison residue on cup (Sense to detect, Know to identify)
+
+All three point to the same suspect. Missing one doesn't stall the investigation.
+
+**Failed Rolls Don't Stop Progress:**
+- Failed to decode the letter? → The letter gets stolen, but they learn the thief's identity
+- Failed to notice the poison? → The poisoner strikes again, revealing their method
+- Failed to get witness cooperation? → The witness is found dead, but the killer made a mistake
+
+**Failure changes the situation, doesn't stop it.** The investigation continues, but the stakes escalate.
+
+### Common Investigation Scenes
+
+**Searching a Location:**
+- Don't call for rolls to find obvious clues in the right room
+- Call for Sense if the clue is hidden (behind false panel, coded message, subtle detail)
+- Setback = trigger trap, alert guards, or waste time while situation worsens
+
+**Interrogating a Witness:**
+- Use Talk (persuasion/deception) or Clash (intimidation) against their Will track
+- Success: They cooperate fully
+- Conflict: Partial info, but they demand something or attract attention
+- Setback: They clam up or lie, AND complications (they alert conspirators, flee, or become hostile)
+
+**Decoding Evidence:**
+- Use Know to interpret clues (codes, historical context, arcane symbols)
+- Success: Full understanding + clarifying question
+- Conflict: Partial understanding, time pressure, or you need additional resources (translator, reference text)
+- Setback: Misinterpret (false lead) AND complication (trigger alarm, attract attention)
+
+**Following a Lead:**
+- Use Sense to track, tail, or pursue
+- Success: Find the target/location without complication
+- Conflict: Find it, but they know you're coming OR time has passed (situation changed)
+- Setback: Lose the trail AND complication (ambush, wrong location, witness the crime)
+
+### GM Principles for Investigation
+
+**1. Information flows forward, complications flow sideways:**
+- Rolls never stop information—they add costs or redirect paths
+- "You don't find the clue" is only valid if there's another way to progress
+
+**2. Failed rolls escalate, don't stall:**
+- Missing a clue should make things more dangerous, not grind to a halt
+- The conspiracy moves forward while PCs are delayed
+
+**3. Let players be smart:**
+- If players deduce the answer from available clues, don't demand rolls to "confirm" it
+- "Yes, based on what you've learned, that makes sense. What do you do?"
+
+**4. Mysteries have momentum:**
+- Time pressure keeps investigation moving (the ritual completes in 3 days, the assassin strikes tonight)
+- NPCs act on their own agendas (conspirators cover tracks, witnesses disappear)
+
+**5. Know and Sense are your investigation tools:**
+- **Know** = past facts, lore, off-screen information (who wrote this, what does this symbol mean)
+- **Sense** = present observation, hidden details, connecting evidence (what's out of place, who's lying, where's the secret door)
+
+### Example Investigation: The Poisoned Magistrate
+
+**Setup:** The magistrate is dead, poisoned at a private dinner. The PCs must identify the killer before the city erupts in factional violence.
+
+**Three Clues (multiple paths):**
+1. **Wine Glass** (Sense to detect residue, Know to identify poison) → Points to alchemist's guild
+2. **Servant's Testimony** (Talk to convince, Clash to intimidate) → Describes hooded figure
+3. **Coded Message** (found in study, Know to decode) → Reveals conspiracy
+
+**Failed Roll Outcomes:**
+- **Miss the poison residue (Setback)?** → The killer strikes again, poisoning a council member. Now you have TWO crime scenes and more clues (but higher stakes).
+- **Servant refuses to talk (Setback)?** → The servant is murdered that night, but the killer left evidence (bloody footprints, dropped item).
+- **Can't decode the message (Setback)?** → The message is stolen by an agent, but you learn WHO stole it (new lead, higher danger).
+
+**Result:** Every "failure" escalates the mystery, adding urgency and danger WITHOUT stalling progress. The PCs always have a path forward.
 
 ---
 

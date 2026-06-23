@@ -81,11 +81,10 @@ When you act with leverage, speed, or grit to overcome an immediate hazard, bypa
 
 Your intent might be one of these fictional effects:
 - Mark Obstacle track (sustained challenges: complex lock, fortified door, prolonged chase)
-- Reposition (shove enemy, knockdown, leap to high ground)
+- Seize Control (shove enemy, knockdown, grapple, distract guards, force into corner)
 - Take Something (pickpocket, disarm cleverly, seize object)
-- Keep Them Busy (grapple to restrain, distract guards)
 - Create Advantage (cast debuff spell, throw dust in eyes)
-- Environmental Effect (trigger mechanism, collapse support)
+- Change Environment (trigger mechanism, collapse support, create cover)
 - Or any other risky objective (dodge blade, leap chasm, resist interrogation)
 
 **Don't use Defy when:**

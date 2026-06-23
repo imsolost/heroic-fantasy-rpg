@@ -380,14 +380,12 @@ Add a new fictional outcome to your success. These effects can also be the prima
 - *Examples: Disarm weapon, grab key, seize high ground, steal credibility, extract secret*
 - **Note:** Can permanently remove Complications if you take their source (disarm Deadly sword, steal warded amulet)
 
-**Reposition** — Move, control space, alter positioning
-- *Examples: Knockdown, push off ledge, pin against wall, shove into hazard, leap to advantage, deny zone access*
+**Seize Control** — Move, restrain, occupy, delay, hinder
+- Control enemy position, movement, or attention through force or maneuvering
+- *Examples: Knockdown, grapple/pin, push off ledge, shove into hazard, hold doorway, distract guards, force into corner, trip, block passage*
 
-**Keep Them Busy** — Restrain, distract, occupy, delay
-- *Examples: Grapple to restrain, hold off enemies while allies escape, cancel prepared action, prevent reinforcements*
-
-**Environmental Effect** — Create lasting change to terrain or situation
-- *Examples: Catch fire, collapse supports, create hazard, alter terrain, break barrier, trigger mechanism*
+**Change Environment** — Create lasting change to terrain or situation
+- *Examples: Catch fire, collapse supports, create hazard, alter terrain, break barrier, trigger mechanism, create cover, flood chamber*
 
 **Build Momentum** — Grant 1 Momentum to self or ally
 - Your action energizes and prepares for follow-up
@@ -406,12 +404,11 @@ Amplify your existing outcome—make it stronger, broader, longer-lasting, or ha
   - **Create Advantage:** Lasts 2 actions instead of 1
   - **Talk (haggling):** Not just friendly—get exceptional deal
   - **Take Something:** Item destroyed or lost, not just dropped/disarmed
-  - **Reposition:** Shove them much farther or into much worse position
-  - **Keep Them Busy:** Harder to escape, requires significant effort to break free
-  - **Environmental Effect:** Larger, more dramatic, or more permanent change
+  - **Seize Control:** Control is much stronger or harder to break (shove much farther, pin much harder to escape, occupy for much longer)
+  - **Change Environment:** Larger, more dramatic, or more permanent change
   - **Influence:** They become advocate or ally, not just compliant
 
-**Affect Additional Target** — Your effect applies to multiple targets
+**Affect Additional Targets** — Your effect applies to multiple targets
 - Strike cuts through multiple foes, words sway entire group, environmental effect spreads, debuff affects multiple enemies
 - *Examples: Cleave through 2-3 enemies, convince multiple listeners, trigger chain reaction, blind multiple foes with dust cloud*
 
@@ -556,12 +553,12 @@ If the effect changes the fiction in a meaningful way that doesn't grant immedia
 
 **For Enhanced Effects:**
 - **Greater Effect:** Apply the principle "unusually potent, extensive, durable, or hard to counter" to the fictional context. When marking tracks, always 2 ticks instead of 1. Otherwise, work with the player to describe how it's significantly stronger.
-- **Affect Additional Target:** Typically 2-3 additional targets (physical combat), or entire small group (social, typically 4-6 NPCs). Use fiction as guide.
+- **Affect Additional Targets:** Typically 2-3 additional targets (physical combat), or entire small group (social, typically 4-6 NPCs). Use fiction as guide.
 
 **For Additional Effects:**
 - **Create Advantage:** Lasts 1 action default, 2 if combined with Greater Effect. Boon for general advantage, Edge for targeting specific Complication.
-- **Take/Reposition/Keep Them Busy:** One object, one position change, one restraint. Don't let single Benefits solve entire encounters.
-- **Environmental/Build Momentum:** One significant change, or 1 Momentum.
+- **Take Something/Seize Control:** One object taken, one enemy controlled. Don't let single Benefits solve entire encounters.
+- **Change Environment/Build Momentum:** One significant change, or 1 Momentum.
 
 **Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets at once, permanent reality-warping changes).
 
@@ -699,11 +696,10 @@ The primary effect of your success depends on your stated intent:
 - **Risky objective:** Achieve your goal (pickpocket, grapple, shove aside, leap chasm, dodge attack)
 
 Your intent might be to achieve one of the fictional effects directly:
-- **Reposition** (shove enemy, knockdown, leap to high ground)
+- **Seize Control** (shove enemy, knockdown, grapple, distract guards, force into corner)
 - **Take Something** (pickpocket, disarm cleverly, seize object)
-- **Keep Them Busy** (grapple to restrain, distract guards)
 - **Create Advantage** (cast debuff spell, throw dust in eyes)
-- **Environmental Effect** (trigger mechanism, collapse support)
+- **Change Environment** (trigger mechanism, collapse support, create cover)
 
 **Don't use Defy when:**
 - Trying to harm/break someone → Use **Clash**
@@ -720,18 +716,18 @@ Your intent might be to achieve one of the fictional effects directly:
 **Examples:**
 - Knight attacks you → Defy to dodge → Success → You avoid his blade cleanly
 - Leap across chasm → Defy with Grace → Success → You make it across
-- Sweep enemy's legs → Defy with Grace → Success → Enemy falls prone (Reposition, no harm dealt)
+- Sweep enemy's legs → Defy with Grace → Success → Enemy falls prone (Seize Control, no harm dealt)
 - Pickpocket guard during conversation → Defy with Cunning → Conflict → You grab the keys (Take Something) but he notices something off (soft Impact Move: suspicion rises)
-- Grapple cultist to pin them → Defy with Daring → Success → They're pinned (Keep Them Busy)
+- Grapple cultist to pin them → Defy with Daring → Success → They're pinned (Seize Control)
 - Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 4-tick Obstacle track + take 1 Stress as mechanism activates
 - Resist interrogation → Defy with Spirit → Success → You give nothing away
-- Cast "Curse of Weakness" → Defy with Cunning → Success + invoke Trait → Enemy Weakened 1 (Create Advantage as primary) + you could choose Benefit like Greater Effect (Weakened 2) or Affect Additional Target (multiple enemies Weakened)
+- Cast "Curse of Weakness" → Defy with Cunning → Success + invoke Trait → Enemy Weakened 1 (Create Advantage as primary) + you could choose Benefit like Greater Effect (Weakened 2) or Affect Additional Targets (multiple enemies Weakened)
 
 **Example Benefits (from Trait invocation):**
-- Greater Effect (mark 2 ticks on Obstacle track, or extend condition to 2 actions, or make effect more potent)
-- Affect Additional Target (pickpocket multiple guards, knockdown multiple foes)
+- Greater Effect (mark 2 ticks on Obstacle track, or extend condition to 2 actions, or make control harder to break)
+- Affect Additional Targets (pickpocket multiple guards, knockdown multiple foes)
 - Additional Effect: Take Something (grapple them AND steal their dagger)
-- Additional Effect: Reposition (shove them aside AND they fall prone)
+- Additional Effect: Seize Control (shove them aside AND they fall prone - double control)
 - Additional Effect: Create Advantage (dodge attack AND blind them with kicked-up dust)
 - Build Momentum (your bold action inspires an ally)
 
@@ -818,10 +814,10 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 
 **Example Benefits (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Harm or Will track instead of 1)
-- Affect Additional Target (cleave through multiple enemies, demoralize entire squad)
+- Affect Additional Targets (cleave through multiple enemies, demoralize entire squad)
 - Additional Effect: Take Something (mark Harm AND disarm them)
 - Additional Effect: Create Advantage (mark Harm AND wound them - Bleeding 1, or break Will AND humiliate them publicly)
-- Additional Effect: Reposition (mark Harm AND knock them down)
+- Additional Effect: Seize Control (mark Harm AND knock them down)
 - Build Momentum (your strike energizes an ally for their next move)
 
 ---
@@ -874,10 +870,10 @@ See the **Clash - Harm** section above for a detailed comparison table.
 
 **Example Benefits (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Will track, OR shift attitude dramatically beyond track - they become advocate/ally)
-- Affect Additional Target (convince entire group instead of one person)
+- Affect Additional Targets (convince entire group instead of one person)
 - Additional Effect: Create Advantage (mark Will AND make them sympathetic - Charmed 1, ally gets Boon on social actions against them)
 - Additional Effect: Take Something (mark Will AND extract commitment, gain favor, or steal rival's credibility)
-- Additional Effect: Environmental Effect (mark Will AND change social dynamics - others witness and are influenced)
+- Additional Effect: Change Environment (mark Will AND change social dynamics - others witness and are influenced)
 - Build Momentum (your words energize an ally)
 
 ---
@@ -921,7 +917,7 @@ Use when:
 **Example Benefits (from Trait invocation):**
 - Greater Effect (ask 2 questions + 2 follow-up questions to press deeper)
 - Additional Effect: Create Advantage (assess situation AND grant ally 1 Boon or 1 Edge by revealing tactical weakness)
-- Additional Effect: Environmental Effect (notice and reveal hidden detail - concealed passage, trap, danger)
+- Additional Effect: Change Environment (notice and reveal hidden detail - concealed passage, trap, danger)
 - Build Momentum (your insight prepares an ally for action)
 
 ---
@@ -975,7 +971,7 @@ The Know roll **gave you information**. The Defy roll **applied that knowledge**
 **Example Benefits (from Trait invocation):**
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)
 - Additional Effect: Create Advantage (recall information AND grant ally 1 Boon or 1 Edge by revealing tactical weakness or specific vulnerability)
-- Additional Effect: Environmental Effect (recall information AND reveal hidden implication - secret connection, crucial context that changes situation)
+- Additional Effect: Change Environment (recall information AND reveal hidden implication - secret connection, crucial context that changes situation)
 - Build Momentum (your knowledge prepares an ally for action)
 
 ---

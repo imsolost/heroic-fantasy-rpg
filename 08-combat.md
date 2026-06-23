@@ -84,13 +84,13 @@ Combat maneuvers are just **regular Actions with declared intent**. You don't ne
 
 **Many maneuvers ARE the primary effect of Defy:**
 - **Take Something:** Disarm weapon, steal object, seize position (Defy to pickpocket, snatch, grab)
-- **Reposition:** Knockdown, pin, push, pull, trap in position (Defy to shove, trip, tackle)
-- **Keep Them Busy:** Grapple, restrain, distract (Defy to hold them down)
+- **Seize Control:** Knockdown, pin, push, pull, grapple, distract, force into corner (Defy to control enemy)
 - **Create Advantage:** Expose weakness, throw dust in eyes (Defy to create opening)
+- **Change Environment:** Kick brazier, trigger trap, create cover (Defy to alter scene)
 
 **Benefits let you do EXTRA on top of your primary intent:**
-- Clash to mark Harm + Benefit: Reposition (hit them AND knock them down)
-- Defy to Reposition + Benefit: Take Something (shove them aside AND steal their dagger)
+- Clash to mark Harm + Benefit: Seize Control (hit them AND knock them down)
+- Defy to Seize Control + Benefit: Take Something (shove them aside AND steal their dagger)
 
 See **Chapter 4: Benefits** for the complete framework.
 
@@ -105,27 +105,27 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 **Disarm** — "I hook his sword with my axe and twist to disarm him."
 - Action: Clash with Daring (if trying to hurt them) OR Defy with Grace (Take Something as primary intent)
 - Success: Enemy drops weapon (must spend effort to retrieve or draw backup)
-- + Benefit: Kick weapon far away (Greater Effect), shove enemy back (Additional Effect: Reposition), catch their weapon mid-air (impressive + Additional Effect: Environmental)
+- + Benefit: Kick weapon far away (Greater Effect), shove enemy back (Additional Effect: Seize Control), catch their weapon mid-air (impressive + Additional Effect: Change Environment)
 
 **Knockdown** — "I sweep his legs as he overextends."
-- Action: Clash with Grace (if trying to hurt them) OR Defy with Grace (Reposition as primary intent)
+- Action: Clash with Grace (if trying to hurt them) OR Defy with Grace (Seize Control as primary intent)
 - Success: Enemy knocked prone (vulnerable to follow-up, must use effort to stand)
-- + Benefit: Daze them too - Dazed 1 (Additional Effect: Create Advantage), affect nearby enemy as well (Affect Additional Target)
+- + Benefit: Daze them too - Dazed 1 (Additional Effect: Create Advantage), affect nearby enemy as well (Affect Additional Targets)
 
 **Pin/Grapple** — "I tackle him and pin his arms."
-- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Keep Them Busy as primary intent)
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Seize Control as primary intent)
 - Success: Enemy pinned (can't move zones, you're also engaged and can't freely move)
-- + Benefit: Also disarm them (Additional Effect: Take Something), apply chokehold harder (Greater Effect - harder to escape), drag them into hazard (Additional Effect: Reposition)
+- + Benefit: Also disarm them (Additional Effect: Take Something), apply chokehold harder (Greater Effect - much harder to escape), drag them into hazard (Additional Effect: Seize Control further)
 
 **Shove/Push** — "I shield-bash him toward the cliff edge."
-- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Reposition as primary intent)
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Seize Control as primary intent)
 - Success: Move enemy one zone (into hazard, off ledge, away from ally)
-- + Benefit: Shove them much farther (Greater Effect), enemy falls prone too (Additional Effect: Reposition further), you also push nearby enemy (Affect Additional Target)
+- + Benefit: Shove them much farther (Greater Effect), enemy falls prone too (Additional Effect: Seize Control further), you also push nearby enemy (Affect Additional Targets)
 
 **Create Opening** — "I feint high to draw his guard up."
 - Action: Clash with Cunning (if harming), Defy with Cunning (Create Advantage as primary intent), or Sense to spot weakness
 - Success: Off-Balance 1 (ally gains 1 Boon on next action against target)
-- + Benefit: Greater Effect (Off-Balance 2 - lasts 2 actions) OR Affect Additional Target (multiple enemies Off-Balance 1)
+- + Benefit: Greater Effect (Off-Balance 2 - lasts 2 actions) OR Affect Additional Targets (multiple enemies Off-Balance 1)
 
 **Sunder Equipment** — "I target his shield, trying to splinter it."
 - Action: Clash with Daring (if trying to hurt them while breaking gear)
@@ -133,14 +133,14 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 - + Benefit: Shield breaks completely (Additional Effect: Take Something - removes Armored Complication), splinters strike him - Blinded 1 (Additional Effect: Create Advantage)
 
 **Environmental Combo** — "I kick the brazier into his face."
-- Action: Clash with Daring (if trying to harm) OR Defy with Daring (Environmental Effect as primary intent)
+- Action: Clash with Daring (if trying to harm) OR Defy with Daring (Change Environment as primary intent)
 - Success: Deal damage + environmental effect (fire, distraction)
 - + Benefit: Blind him with hot coals - Blinded 1 (Additional Effect: Create Advantage), flames spread dramatically (Greater Effect)
 
 **Keep Them Busy** — "I hold them off while my allies escape."
-- Action: Clash (if trying to harm) or Defy (Keep Them Busy as primary intent)
+- Action: Clash (if trying to harm) or Defy (Seize Control as primary intent)
 - Success: Enemy focuses on you, cannot easily pursue allies
-- + Benefit: Occupy them for much longer (Greater Effect), exhaust them - Tired 1 (Additional Effect: Create Advantage), block passage completely (Additional Effect: Reposition)
+- + Benefit: Occupy them for much longer (Greater Effect), exhaust them - Tired 1 (Additional Effect: Create Advantage), block passage completely (Additional Effect: Seize Control)
 
 ---
 

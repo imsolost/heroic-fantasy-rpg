@@ -291,6 +291,41 @@ Boon and Bane represent advantage and disadvantage.
 
 ---
 
+### Boon vs Edge: When to Grant Which
+
+When a player describes clever positioning or tactical setup, you need to decide: does this grant a Boon (advantage) or Edge (bypass Complication)?
+
+**Ask: "Does this target a specific Complication source, or create general advantage?"**
+
+**Grant Boon when:**
+- General tactical advantage (flanking, high ground, distraction)
+- Superior positioning that doesn't remove defenses
+- Better timing, angle, or circumstances
+- Environmental advantage that helps but doesn't eliminate obstacles
+
+**Grant Edge when:**
+- Specifically targeting a Complication's source
+- Working around a defense directly
+- Exploiting a specific weakness
+- Bypassing rather than overcoming
+
+**Examples:**
+
+| Player Action | Ruling | Reasoning |
+|--------------|--------|-----------|
+| "I flank the armored knight" | **Boon** | Better position, but armor still applies |
+| "I aim for the gap in his armor joints" | **Edge** | Targeting specific weak point, bypasses Resilient |
+| "I throw flour on the invisible assassin" | **Edge** | Reveals them, bypasses Elusive |
+| "I create a distraction" | **Boon** | General advantage, doesn't remove defenses |
+| "I pin his shield arm" | **Edge** | Prevents shield use, bypasses Armored |
+| "I attack from high ground" | **Boon** | Superior position, defenses remain |
+
+**Most positioning grants Boons. Edge requires explicitly working around a Complication's source.**
+
+For more on Complications and tactical play, see Chapter 6.
+
+---
+
 ### Difficulty Guidelines
 
 **Standard Difficulty:** Roll your pool and check results (no Boons or Banes). This is the default.

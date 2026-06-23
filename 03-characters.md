@@ -145,26 +145,33 @@ Mark down:
 
 ---
 
-## Traits (Special Effects)
+## Traits (Benefits)
 
-Traits are evocative narrative descriptors defining who your character is. When a Trait is narratively relevant to your action, you gain a **Special Effect**.
+Traits are evocative narrative descriptors defining who your character is. When a Trait is narratively relevant to your action, you gain a **Benefit**.
 
 ### Using a Trait
 
 **Timing:** After rolling
 
-When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain one Special Effect:
+When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain one Benefit:
 
-**Special Effects:**
-1. **Greater Effect** — Mark 2 ticks (instead of 1), or ask 2 questions + 2 follow-up questions to press deeper (instead of 2)
-2. **Secondary Effect** — Produce additional consequence beyond the base effect (Take Something, Inflict Condition, Affect Multiple Targets, Create Advantage, Change Positioning, Keep Them Busy, etc.)
+**Benefits (Choose One):**
+1. **Greater Effect** — Mark 2 ticks (instead of 1), extend duration (2 actions instead of 1), or make your effect significantly stronger
+2. **Additional Effect** — Add a new fictional outcome beyond your primary effect (see Chapter 4 for complete menu)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
-**For complete Secondary Effect categories, examples, and GM guidance, see Chapter 4: Action Resolution.**
+**Additional Effects include:**
+- Create Advantage (help ally, debuff enemy)
+- Take Something (disarm, steal, seize)
+- Seize Control (move, restrain, occupy)
+- Change Environment (alter terrain/situation)
+- Affect Additional Targets (apply to multiple targets)
+
+**For complete Benefits framework with detailed examples and GM guidance, see Chapter 4: Action Resolution.**
 
 **If Setback:** Cannot invoke Trait (you failed)
 
-**If Triumph:** Triumph NATURALLY grants Momentum + ignores all Complications (base engine benefit, not from Trait). You MAY THEN invoke a Trait for one Special Effect (Greater Effect, Secondary Effect, or Build Momentum)
+**If Triumph:** Triumph NATURALLY grants Momentum + ignores all Complications (base engine benefit, not from Trait). You MAY THEN invoke a Trait for one Benefit
 
 ### Trait Rules
 
@@ -179,19 +186,19 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **Examples:**
 
 **"Veteran of the Iron Wars" + Clash in melee:**
-- Roll Conflict or higher → Choose Special Effect
+- Roll Conflict or higher → Choose Benefit
 - Greater Effect: Mark 2 ticks on Harm track (instead of 1)
-- Secondary Effect: Produce additional consequence (see Chapter 4)
+- Additional Effect: Add new outcome (disarm, knockdown - see Chapter 4)
 - Build Momentum: Grant 1 Momentum to ally
 
 **"Silver Tongue" + Talk to influence:**
-- Roll Conflict or higher → Choose Special Effect
+- Roll Conflict or higher → Choose Benefit
 - Greater Effect: Mark 2 ticks on Will track (instead of 1)
 - Secondary Effect: Produce additional consequence (see Chapter 4)
 - Build Momentum: Grant 1 Momentum to self
 
 **"Shadowborn" + Defy in darkness:**
-- Roll Conflict or higher → Choose Special Effect
+- Roll Conflict or higher → Choose Benefit
 - Greater Effect: Overcome obstacle AND create advantageous position
 - Secondary Effect: Produce additional consequence (see Chapter 4)
 - Build Momentum: Grant 1 Momentum to ally

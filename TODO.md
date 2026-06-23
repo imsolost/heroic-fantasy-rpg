@@ -2,6 +2,26 @@
 
 ## High Priority
 
+### Quick Start / Session Zero Chapter
+**Priority:** High  
+**Estimated Effort:** Medium
+
+Create a "Quick Start" or "Session Zero" chapter that provides the complete Action Roll procedure in one place for easy table reference. Currently, understanding the full procedure requires reading Chapters 2, 3, 4, and 6.
+
+**Content to include:**
+- Complete resolution algorithm (roll → Complications → Edge → Expertise → Consequence)
+- Trait invocation timing and Benefits overview
+- Boon vs Edge quick reference
+- When to roll vs when not to
+- Common edge cases (Disaster, Triumph, etc.)
+- Cross-references to detailed chapters
+
+**Target audience:** GMs running first session, players learning the system
+
+**Location:** Could be Chapter 1 (Quick Start) before Core Mechanics, or Appendix A
+
+---
+
 ### Chapter: Session in Play
 **Priority:** High  
 **Estimated Effort:** Large

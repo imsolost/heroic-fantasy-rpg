@@ -30,7 +30,7 @@ Each Action has a **Primary Effect**:
 4. **Sense → Assess** — Ask 2 questions (1 on Conflict) to understand the situation
 5. **Know → Recall** — GM tells you something useful + you ask 1 clarifying question
 
-**Clash vs Talk:** If you're threatening violence to force compliance, that's Clash (breaking their will). If you're negotiating or persuading them to comply, that's Talk (changing their mind).
+**Clash vs Talk:** Both can mark Will tracks, but produce different outcomes—Clash breaks them through force/fear, Talk persuades through reason/appeal. See Chapter 4 for the critical distinction.
 
 ---
 

@@ -733,9 +733,9 @@ Your intent might be to achieve one of the fictional effects directly:
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
 
-**Important:** You cannot spend Momentum to Resist consequences from a Reactive Defy roll (when defending against enemy attacks). The Reactive Defy roll **is** your chance to resist — that's what the roll represents. 
+**Important:** You cannot spend Momentum to Resist consequences from a Reactive Defy roll (when defending against enemy attacks). The Reactive Defy roll **is** your chance to resist — that's what the roll represents.
 
-**Exception:** When your Stress track is full and overflowing, you get a second-chance Resist roll as part of the Stress Overflow procedure (Chapter 5). This is a special case representing your last desperate effort to avoid being Taken Out.
+*For the Stress Overflow exception to this rule, see Chapter 5: Stress Overflow Procedure.*
 
 ---
 

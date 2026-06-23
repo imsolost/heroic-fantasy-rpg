@@ -113,15 +113,7 @@ Try to hurt, break, or dominate someone. **Clash breaks resistance through force
 - Demoralizing taunts before forcing surrender
 - Breaking enemy morale through displays of overwhelming force
 
-**Clash vs Talk — The Key Distinction:**
-
-Both Clash and Talk can mark the Will track, but the **outcome** is completely different:
-
-- **Clash breaks them:** They submit because they're forced, terrified, or psychologically dominated. They comply out of fear or because their will to resist is shattered. Result: coerced obedience, potential resentment, they may flee or betray when the threat is gone.
-
-- **Talk persuades them:** They cooperate because you've convinced them it's the right choice. They comply willingly because they agree, trust you, or see mutual benefit. Result: genuine cooperation, potential alliance, they remain cooperative even without threat.
-
-**Rule of thumb:** If you're threatening harm (physical or social) to force compliance, that's Clash. If you're appealing to reason, values, or mutual interest to gain willing cooperation, that's Talk.
+**Clash vs Talk:** Both can mark Will tracks, but the outcomes differ dramatically. Clash breaks them through force/fear (coerced obedience), Talk persuades through reason/appeal (willing cooperation). For the complete distinction with examples and comparison table, see Chapter 4: Clash - Harm.
 
 **Note:** Clash encompasses all forms of direct confrontation—physical combat, intimidation, and battle leadership. If you're directly opposing someone (fighting, threatening, commanding troops against them), it's Clash. If you're overcoming an obstacle or challenge without direct opposition, use Defy instead.
 
@@ -134,7 +126,7 @@ Convince, persuade, or deceive someone. **Talk changes minds through social infl
 
 **Examples:** Persuasion, deception, seduction, negotiation, inspiration, building trust, appealing to values
 
-**Talk vs Clash:** If they choose to comply (you convinced them), that's Talk. If you force compliance (threatening harm, domination), that's Clash.
+**Talk vs Clash:** For the critical distinction between Talk and Clash when both mark Will tracks, see Chapter 4: Talk - Influence.
 
 ---
 

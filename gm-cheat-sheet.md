@@ -22,8 +22,8 @@ Quick reference for running the game. For complete GM guidance, principles, move
 |---------|--------|
 | **Triumph** (two 6s) | Full success + 1 Momentum + ignore Complications + may invoke Trait |
 | **Success** (one 6) | Accomplish intent cleanly (no consequence unless fiction demands) |
-| **Conflict** (4-5) | Succeed at action + Minor Consequence (GM makes soft Impact Move) |
-| **Setback** (1-3) | Fail at action + Major Consequence (GM makes hard Impact Move) |
+| **Conflict** (4-5) | Succeed at action + Minor Consequence |
+| **Setback** (1-3) | Fail at action + Major Consequence |
 | **Disaster** (Setback + Complications reduce further) | Catastrophic failure + Severe Consequence |
 
 ---
@@ -32,8 +32,8 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 | Outcome | Consequence Tier | Your Response |
 |---------|------------------|---------------|
-| **Conflict** | **Minor Consequence** | Mark 1 Stress OR inflict Condition tier 1 OR soft Impact Move |
-| **Setback** | **Major Consequence** | Mark 2 Stress OR inflict Condition tier 2-3 OR hard Impact Move |
+| **Conflict** | **Minor Consequence** | Mark 1 Stress OR inflict Condition tier 1 OR narrative complication |
+| **Setback** | **Major Consequence** | Mark 2 Stress OR inflict Condition tier 2-3 OR serious problem |
 | **Disaster** | **Severe Consequence** | Taken Out, Burden inflicted, catastrophic setback, or objective fails |
 
 **Triumph/Success:** No consequence (clean success)
@@ -68,30 +68,33 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 ---
 
-## Impact Moves by Tier
+## Consequences by Tier
 
 ### Minor Consequence (Conflict)
+PC succeeds but faces complication:
 - Mark 1 Stress
 - Lose advantageous position
-- Side effect occurs (noise, time passes, resource consumed)
+- Attract attention or raise suspicion
+- Warn of imminent danger (enemy prepares to strike)
 - Countdown track advances 1 tick
-- Enemy gains 1 Boon on next action
-- Environmental shift (fire spreads, alarm triggers)
+- Side effect occurs (noise, time passes, resource consumed)
 
 ### Major Consequence (Setback)
-- Mark 2 Stress
-- Mark 2 Stress + Condition tier 1-2
+PC fails AND faces serious problem:
+- Mark 2 Stress (or 1 Stress + Condition tier 2-3)
+- Enemy counterattacks or gains major advantage
 - Serious danger emerges (reinforcements, trap triggers)
-- Objective setback (lose ground, ally captured)
+- Lose something important (weapon, position, ally)
+- Objective setback (lose ground, harder to achieve)
 - Countdown track advances 2 ticks
-- Enemy Challenge Move triggers
 
 ### Severe Consequence (Disaster)
+Catastrophic failure:
 - Taken Out (unconscious, fleeing, captured)
-- Burden inflicted (tier based on context)
-- Catastrophic failure (objective fails completely)
+- Burden inflicted (persistent Condition)
+- Objective fails completely
 - Countdown completes (ceiling collapses, ritual finishes)
-- Enemy Death Move triggers
+- Enemy Death Move triggers (if defeated)
 
 ---
 
@@ -164,7 +167,7 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 **Spend (choose one):**
 - **Create an Opening:** Gain 1 Boon and 1 Edge (ignore 1 Complication) + narrative permission for bold action
-- **Resist Consequence:** Roll Defy to reduce incoming Stress/Condition (Success = -2 steps, Conflict = -1 step)
+- **Resist Consequence:** Automatically reduce Consequence Tier by 1 (no roll required)
 - **Quick Assist:** Grant an ally 1 Boon on their next roll (no action required, can do on their turn)
 
 **Cap:** 2 Momentum maximum (some Talents raise to 3)
@@ -180,7 +183,7 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 **Stress Overflow Procedure:**
 1. GM announces: "You would mark [X] Stress, but your track is full."
-2. Player may spend 1 Momentum to Resist Consequence (roll Defy to reduce)
+2. Player may spend 1 Momentum to Resist Consequence (automatically reduce by 1)
 3. If any Stress remains, player chooses:
    - **Take a Burden** (tier = Stress amount, Stress clears to 0)
    - **Be Taken Out** (unconscious/fleeing/captured, GM narrates)
@@ -245,7 +248,7 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 1. **Establish initiative order** (GM discretion, often by narrative positioning)
 2. **Player turn:** Declare action → GM telegraphs stakes → Roll → Resolve
-3. **Enemy turn:** GM narrates enemy action → Pick target → Make Challenge Move or GM makes Impact Move
+3. **Enemy turn:** GM narrates enemy action → Pick target → Deliver consequence or warn of danger
 4. **Repeat** until one side is defeated, flees, or surrenders
 
 **No formal initiative system** — narrative flow determines who acts when. If unclear, GM decides or uses "who acts most decisively."
@@ -296,11 +299,12 @@ Your character's capabilities and current situation—determines what you can at
 
 1. **Telegraph stakes before rolls** — Players should know consequences before committing
 2. **Complications signal danger** — Use Complications to show what makes encounters harder
-3. **Consequences drive action** — Impact Moves advance threats, change positioning, create urgency
-4. **Respect player choices** — When players spend resources (Momentum, Stress, Traits), honor those choices
-5. **Fiction first / Check Vantage** — If they lack vantage, it may be harder (Banes) or impossible
-6. **Pace with rests** — Short rests after fights, long rests between adventures
-7. **Fail forward** — Setbacks complicate, they don't halt story (unless fiction demands)
+3. **Consequences drive action** — Consequences advance threats, change positioning, create urgency
+4. **Warn before striking** — Telegraph imminent danger, give PCs a chance to respond
+5. **Respect player choices** — When players spend resources (Momentum, Stress, Traits), honor those choices
+6. **Fiction first / Check Vantage** — If they lack vantage, it may be harder (Banes) or impossible
+7. **Pace with rests** — Short rests after fights, long rests between adventures
+8. **Fail forward** — Setbacks complicate, they don't halt story (unless fiction demands)
 
 ---
 

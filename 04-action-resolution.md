@@ -347,57 +347,77 @@ Any character attacks enemy with 3 Complications
 
 ---
 
-### Secondary Effects
+### Benefits (Additional & Enhanced Effects)
 
-When you choose Secondary Effect (from Trait invocation), produce an additional consequence beyond the base effect of your action. Secondary Effects should feel impactful and heroic, but not encounter-ending.
+When you invoke a Trait, you gain a **Benefit** beyond your action's primary outcome. Benefits come in two forms: **Additional Effects** (add a new fictional outcome) and **Enhanced Effects** (amplify your existing outcome).
 
-**The Eight Categories:**
+**Choose one Benefit:**
 
-When you invoke a Trait for Secondary Effect, choose one of these categories and describe the specific fictional expression. This framework preserves creative flexibility while eliminating negotiation overhead.
+---
 
-**Greater Effect** — Increase magnitude of your success
-- **When marking tracks:** Mark 2 ticks instead of 1
-- **When creating advantage:** Extend duration to 2 actions instead of 1
-- *Examples: Devastating strike, extended debuff, comprehensive argument*
+#### Additional Effects
 
-**Affect Additional Target** — Your action impacts additional targets beyond the primary (strike cuts through multiple foes, words sway entire group, environmental effect spreads)
-- *Examples: Cleave through 2-3 enemies, convince multiple listeners, trigger chain reaction, debuff multiple foes*
+Add a new fictional outcome to your success. These effects can also be the primary goal of a Defy action (pickpocket, grapple, shove), but when gained as Benefits, they happen in addition to your main effect.
 
-**Create Advantage** — Set up tactical opportunity for allies through positioning, conditions, or exposing weaknesses
+**Create Advantage** — Set up tactical opportunity for allies
 - **Effect:** Grant one ally **1 Boon OR 1 Edge** on their next action(s) against target (player suggests, GM decides based on fiction)
-  - **Boon:** General advantage (superior positioning, distraction, revealed weakness in stance/timing)
+  - **Boon:** General advantage (positioning, distraction, revealed weakness in timing/stance)
   - **Edge:** Bypass 1 specific Complication (targets the source of a Complication)
 - **Duration:** 1 action (default) OR 2 actions (with Greater Effect)
-- **Narrative expressions include:**
-  - **Inflict Condition:** Blind them (sand in eyes), Frighten them (intimidating display), Weaken them (wound leg), Disorient them (stunning blow), Slow them (hamstring), Expose them (remove cover)
-  - **Expose Weakness:** Spot armor gap, reveal pattern in defenses, identify tell in fighting style
-  - **Tactical Setup:** Flank enemy, create distraction, pin shield arm, disrupt stance, break concentration
-  - **Environmental:** Kick dust cloud, position ally advantageously, create opening
+- **Narrative forms:**
+  - Inflict Condition (Blind, Frighten, Weaken, Disorient, Slow, Expose)
+  - Expose Weakness (armor gap, pattern in defenses, fighting tell)
+  - Tactical Setup (flank, distract, pin shield arm, disrupt stance)
 
-**Examples:**
-- "I kick sand in his eyes" → Create Advantage: Blinded 1 (ally gets 1 Boon on next action)
-- "I kick sand in his eyes" + Greater Effect → Blinded 2 (ally gets 1 Boon on next 2 actions)
-- "I sense weak point in his armor" → Create Advantage (ally gets 1 Edge, bypasses Resilient on next action)
-- "I flank him for better angle" → Create Advantage (ally gets 1 Boon on next action)
-- "I feint to draw his guard up" → Create Advantage (ally gets 1 Boon)
-- "I pin his shield arm" → Create Advantage (ally gets 1 Edge, bypasses Armored)
-- Cast "Curse of Weakness" → Create Advantage: Weakened 1
-- Cast "Curse of Weakness" + Greater Effect → Weakened 2
+*Examples:*
+- "I kick sand in his eyes" → Blinded 1 (ally gets 1 Boon next action)
+- "I sense weak point in his armor" → Ally gets 1 Edge (bypasses Resilient next action)
+- "I flank him" → Ally gets 1 Boon (superior position)
+- Cast "Curse of Weakness" → Weakened 1
 
-**Take Something** — Disarm enemy, seize object, gain superior position, take their attention, steal their momentum, wrest control of authority/situation, claim resource, acquire information
-- *Examples: Disarm weapon, grab key, seize high ground, steal credibility, extract secret during conversation*
-- **Note:** Can remove Complications if you take their source (disarm Deadly sword, steal warded amulet)
+**Take Something** — Disarm, steal, seize, claim, acquire
+- Remove object from enemy, claim resource, steal advantage, extract information
+- *Examples: Disarm weapon, grab key, seize high ground, steal credibility, extract secret*
+- **Note:** Can permanently remove Complications if you take their source (disarm Deadly sword, steal warded amulet)
 
-**Reposition** — Move target, change positioning, control space, alter tactical situation
-- *Examples: Knockdown, push off ledge, pin against wall, shove into hazard, leap to advantage, trap them in conversation, deny access to zone*
+**Reposition** — Move, control space, alter positioning
+- *Examples: Knockdown, push off ledge, pin against wall, shove into hazard, leap to advantage, deny zone access*
 
-**Keep Them Busy** — Occupy attention, prevent reinforcements, delay, distract
-- *Examples: Hold off enemies while allies escape, cancel prepared action, prevent reinforcements from arriving*
+**Keep Them Busy** — Restrain, distract, occupy, delay
+- *Examples: Grapple to restrain, hold off enemies while allies escape, cancel prepared action, prevent reinforcements*
 
-**Environmental Effect** — Create lasting change to the environment or situation
-- *Examples: Catch structure on fire, collapse supports, create hazard, alter terrain, break through barrier, trigger mechanism*
+**Environmental Effect** — Create lasting change to terrain or situation
+- *Examples: Catch fire, collapse supports, create hazard, alter terrain, break barrier, trigger mechanism*
 
-**Note:** "Create Advantage" (Secondary Effect) grants ally 1 Boon OR 1 Edge, chosen based on the fiction. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously + narrative permission for bold action. Gaining both simultaneously remains premium—only from Momentum spends and specific Talents.
+**Build Momentum** — Grant 1 Momentum to self or ally
+- Your action energizes and prepares for follow-up
+- *Examples: Inspiring strike, defensive positioning that creates opportunity, bold maneuver that rallies allies*
+
+---
+
+#### Enhanced Effects
+
+Amplify your existing outcome—make it stronger, broader, longer-lasting, or harder to counter.
+
+**Greater Effect** — Your effect is unusually potent, extensive, durable, or difficult to counter
+- The GM and player describe how the effect is significantly stronger than normal
+- **Common applications:**
+  - **Harm/Will/Obstacle tracks:** Mark 2 ticks instead of 1
+  - **Create Advantage:** Lasts 2 actions instead of 1
+  - **Talk (haggling):** Not just friendly—get exceptional deal
+  - **Take Something:** Item destroyed or lost, not just dropped/disarmed
+  - **Reposition:** Shove them much farther or into much worse position
+  - **Keep Them Busy:** Harder to escape, requires significant effort to break free
+  - **Environmental Effect:** Larger, more dramatic, or more permanent change
+  - **Influence:** They become advocate or ally, not just compliant
+
+**Affect Additional Target** — Your effect applies to multiple targets
+- Strike cuts through multiple foes, words sway entire group, environmental effect spreads, debuff affects multiple enemies
+- *Examples: Cleave through 2-3 enemies, convince multiple listeners, trigger chain reaction, blind multiple foes with dust cloud*
+
+---
+
+**Note:** "Create Advantage" (Additional Effect) grants ally 1 Boon OR 1 Edge. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously + narrative permission for bold action. Gaining both simultaneously remains premium—only from Momentum spends and specific Talents.
 
 ---
 
@@ -526,20 +546,24 @@ If the effect changes the fiction in a meaningful way that doesn't grant immedia
 
 ---
 
-### GM Guidance: Adjudicating Secondary Effects
+### GM Guidance: Adjudicating Benefits
 
-**Use the Eight Categories:** Players choose a category, then describe the specific fictional expression. This eliminates "what counts as a Secondary Effect?" negotiations while preserving creative flexibility.
+**Players choose, GMs adjudicate:** When a player invokes a Trait, they choose which Benefit (Additional Effect or Enhanced Effect) and describe the specific fictional expression. GMs ensure it fits the fiction and is proportional to success.
 
-**Fiction First:** Does it make sense given what just happened? The Secondary Effect should flow naturally from the action and fiction.
+**Fiction First:** Does it make sense given what just happened? The Benefit should flow naturally from the action and the fiction established.
 
-**Proportional to Success:** Should feel impactful and heroic but not encounter-ending. A Secondary Effect is a moment of excellence, not a scene-ender by itself.
+**Proportional to Success:** Benefits should feel impactful and heroic but not encounter-ending. They're moments of excellence, not scene-enders by themselves.
 
-**Scope Guidelines (Per Category):**
-- Affect 2-3 additional targets (physical), or entire small group (social, typically 4-6 NPCs)
-- Inflict impairments that last 1-2 actions or until enemy acts to clear them
-- Take one object, gain one strategic advantage, create one significant narrative shift
+**For Enhanced Effects:**
+- **Greater Effect:** Apply the principle "unusually potent, extensive, durable, or hard to counter" to the fictional context. When marking tracks, always 2 ticks instead of 1. Otherwise, work with the player to describe how it's significantly stronger.
+- **Affect Additional Target:** Typically 2-3 additional targets (physical combat), or entire small group (social, typically 4-6 NPCs). Use fiction as guide.
 
-**Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets, permanent changes).
+**For Additional Effects:**
+- **Create Advantage:** Lasts 1 action default, 2 if combined with Greater Effect. Boon for general advantage, Edge for targeting specific Complication.
+- **Take/Reposition/Keep Them Busy:** One object, one position change, one restraint. Don't let single Benefits solve entire encounters.
+- **Environmental/Build Momentum:** One significant change, or 1 Momentum.
+
+**Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets at once, permanent reality-warping changes).
 
 **When in Doubt, Say Yes:** If the player's proposal fits their chosen category and makes fictional sense, approve it. Adjust scale if needed.
 
@@ -666,17 +690,20 @@ Each Action has a core function and specific effects available on Triumph:
 
 **Primary Effect: Overcome**
 
-Achieve your intent OR mark progress on an **Obstacle track** (when task requires sustained effort).
+Achieve your stated risky or extraordinary intent.
 
-**When you attempt something risky, extraordinary, or dangerous that's not covered by another Action, OR when you avert imminent danger to yourself or others.**
+**When you act with leverage, speed, or grit to overcome an immediate hazard, bypass an obstacle, or alter the tactical landscape.**
 
-Use when:
-- Overcoming physical obstacles (leap chasm, pick lock, climb wall, break restraints)
-- Defending against attacks (dodge blade, resist spell, block strike)
-- Performing risky maneuvers (knockdown foe without harming, disarm cleverly, trip them, push enemy aside)
-- Acting under pressure (smuggle past guards, pickpocket in combat, catch falling ally)
-- Pushing physical/mental limits (resist interrogation, endure hardship, maintain composure)
-- Drawing danger to yourself (distract enemy, hold the line, cover ally's escape)
+The primary effect of your success depends on your stated intent:
+- **Sustained challenge:** Mark progress on Obstacle track (complex lock, fortified door, prolonged chase)
+- **Risky objective:** Achieve your goal (pickpocket, grapple, shove aside, leap chasm, dodge attack)
+
+Your intent might be to achieve one of the fictional effects directly:
+- **Reposition** (shove enemy, knockdown, leap to high ground)
+- **Take Something** (pickpocket, disarm cleverly, seize object)
+- **Keep Them Busy** (grapple to restrain, distract guards)
+- **Create Advantage** (cast debuff spell, throw dust in eyes)
+- **Environmental Effect** (trigger mechanism, collapse support)
 
 **Don't use Defy when:**
 - Trying to harm/break someone → Use **Clash**
@@ -685,30 +712,28 @@ Use when:
 - Recalling information → Use **Know**
 
 **Outcomes:**
-- **Setback:** Fail to achieve intent (0 ticks on track if applicable) + GM makes hard Impact Move
-- **Conflict:** Achieve intent (mark 1 tick or succeed on simple task) + GM makes soft Impact Move
-- **Success:** Achieve intent cleanly (mark 1 tick or succeed on simple task)
-- **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
-
-**Track vs Simple Task:**
-- **Simple Task:** One roll achieves intent (dodge attack, leap chasm, pickpocket, knockdown foe, disarm opponent)
-- **Track Required:** Sustained effort needed (complex lock, fortified door, prolonged chase, breaking through barricade)
+- **Setback:** Fail to achieve intent + GM makes hard Impact Move
+- **Conflict:** Achieve intent + GM makes soft Impact Move
+- **Success:** Achieve intent cleanly
+- **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Benefit
 
 **Examples:**
 - Knight attacks you → Defy to dodge → Success → You avoid his blade cleanly
 - Leap across chasm → Defy with Grace → Success → You make it across
-- Sweep enemy's legs → Defy with Grace → Success → Enemy falls prone (no harm dealt, just positioning)
-- Pickpocket guard during conversation → Defy with Cunning → Conflict → You grab the keys but he notices something off (soft Impact Move: suspicion rises)
+- Sweep enemy's legs → Defy with Grace → Success → Enemy falls prone (Reposition, no harm dealt)
+- Pickpocket guard during conversation → Defy with Cunning → Conflict → You grab the keys (Take Something) but he notices something off (soft Impact Move: suspicion rises)
+- Grapple cultist to pin them → Defy with Daring → Success → They're pinned (Keep Them Busy)
 - Disarm complex trap → Defy with Cunning → Conflict → Mark 1 tick on 4-tick Obstacle track + take 1 Stress as mechanism activates
 - Resist interrogation → Defy with Spirit → Success → You give nothing away
-- Cast debuff spell → Defy with Cunning → Success + invoke Trait → Enemy Weakened (allies gain Boon)
+- Cast "Curse of Weakness" → Defy with Cunning → Success + invoke Trait → Enemy Weakened 1 (Create Advantage as primary) + you could choose Benefit like Greater Effect (Weakened 2) or Affect Additional Target (multiple enemies Weakened)
 
-**Example Special Effects (from Trait):**
-- Greater Effect (mark 2 ticks on Obstacle track instead of 1, OR extend condition duration to 2 actions instead of 1)
-- Secondary Effect: Take Something (disarm opponent, seize position, grab object mid-action)
-- Secondary Effect: Reposition (knock them down, shove them back, pin them)
-- Secondary Effect: Create Advantage (grant ally 1 Boon or 1 Edge - includes inflicting conditions like Blinded, Weakened, Slowed)
-- Build Momentum (your action energizes you or an ally)
+**Example Benefits (from Trait invocation):**
+- Greater Effect (mark 2 ticks on Obstacle track, or extend condition to 2 actions, or make effect more potent)
+- Affect Additional Target (pickpocket multiple guards, knockdown multiple foes)
+- Additional Effect: Take Something (grapple them AND steal their dagger)
+- Additional Effect: Reposition (shove them aside AND they fall prone)
+- Additional Effect: Create Advantage (dodge attack AND blind them with kicked-up dust)
+- Build Momentum (your bold action inspires an ally)
 
 **Note:** When you suffer consequences from your own action rolls (Conflict/Setback on Clash, Talk, Sense, Know), you cannot Defy them by default. You must spend 1 Momentum to Resist Consequence and roll Defy (see [02-core-mechanics.md](02-core-mechanics.md#spending-momentum)).
 
@@ -791,13 +816,13 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 - Intimidate guard captain (Cunning) → Success → Mark 1 tick on his **Will track** (he's rattled, losing composure)
 - Use Trait on attack → Triumph → Invoke Trait for Greater Effect (mark 2 ticks total on Harm or Will)
 
-**Example Special Effects (from Trait):**
+**Example Benefits (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Harm or Will track instead of 1)
-- Secondary Effect: Take Something (disarm, seize position, steal momentum)
-- Secondary Effect: Inflict Condition (wound/stun for Harm, demoralized/humiliated for Will)
-- Secondary Effect: Affect Multiple Targets (cleave through enemies, demoralize entire squad)
-- Secondary Effect: Create Advantage (ally gains 1 Boon on next attack against target)
-- Build Momentum (your strike energizes you or an ally for their next move)
+- Affect Additional Target (cleave through multiple enemies, demoralize entire squad)
+- Additional Effect: Take Something (mark Harm AND disarm them)
+- Additional Effect: Create Advantage (mark Harm AND wound them - Bleeding 1, or break Will AND humiliate them publicly)
+- Additional Effect: Reposition (mark Harm AND knock them down)
+- Build Momentum (your strike energizes an ally for their next move)
 
 ---
 
@@ -847,13 +872,13 @@ See the **Clash - Harm** section above for a detailed comparison table.
 - Persuade noble with compelling evidence → Triumph → Mark 1 tick on **Will track** + gain 1 Momentum + invoke Trait for Greater Effect (mark 2 ticks total — she's nearly convinced)
 - Charm noble at party → Conflict → Mark 1 tick on **Will track** but you reveal something about yourself in the process (soft Impact Move)
 
-**Example Special Effects (from Trait):**
-- Greater Effect (mark 2 ticks on Will track instead of 1)
-- Secondary Effect: Shift Attitude dramatically (Hostile → Neutral, or Neutral → Friendly beyond what track filling would grant)
-- Secondary Effect: Inflict Social Condition (charmed, sympathetic, indebted)
-- Secondary Effect: Affect Multiple Targets (convince entire group instead of one person)
-- Secondary Effect: Create Advantage (ally gains 1 Boon on next social action against target)
-- Build Momentum (your words energize you or an ally)
+**Example Benefits (from Trait invocation):**
+- Greater Effect (mark 2 ticks on Will track, OR shift attitude dramatically beyond track - they become advocate/ally)
+- Affect Additional Target (convince entire group instead of one person)
+- Additional Effect: Create Advantage (mark Will AND make them sympathetic - Charmed 1, ally gets Boon on social actions against them)
+- Additional Effect: Take Something (mark Will AND extract commitment, gain favor, or steal rival's credibility)
+- Additional Effect: Environmental Effect (mark Will AND change social dynamics - others witness and are influenced)
+- Build Momentum (your words energize an ally)
 
 ---
 
@@ -893,10 +918,11 @@ Use when:
 - Study the locked door → Conflict → Ask 2: "What is useful to me?" (GM: there's a ventilation grate nearby), "Can I fit through it?" (Yes, barely)
 - Size up the knight → Triumph → Ask 2 + gain 1 Momentum + invoke Trait for Greater Effect (ask 2 + 2 follow-ups—press deeper: "What is vulnerable?" "How is he protecting it?" "When does his guard drop?" "What triggers that?")
 
-**Example Special Effects (from Trait):**
-- Greater Effect (ask 2 questions + 2 follow-up questions to press deeper into those answers)
-- Secondary Effect: GM reveals one important detail that would otherwise escape your notice (hidden passage, concealed danger, subtle tell, imminent betrayal)
-- Build Momentum (your insight prepares you or an ally for action)
+**Example Benefits (from Trait invocation):**
+- Greater Effect (ask 2 questions + 2 follow-up questions to press deeper)
+- Additional Effect: Create Advantage (assess situation AND grant ally 1 Boon or 1 Edge by revealing tactical weakness)
+- Additional Effect: Environmental Effect (notice and reveal hidden detail - concealed passage, trap, danger)
+- Build Momentum (your insight prepares an ally for action)
 
 ---
 
@@ -946,11 +972,11 @@ Know provides information only—it doesn't overcome obstacles directly. After g
 
 The Know roll **gave you information**. The Defy roll **applied that knowledge** to overcome the obstacle. This two-step loop prevents Know from trivializing challenges while rewarding characters who take time to study problems before acting.
 
-**Example Special Effects (from Trait):**
+**Example Benefits (from Trait invocation):**
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)
-- Secondary Effect: Grant 1 Boon (your insight gives you or an ally tactical advantage when acting on the information)
-- Secondary Effect: Reveal Hidden Implication (expose secret connection, hidden vulnerability, or crucial context)
-- Build Momentum (your knowledge prepares you or an ally for action)
+- Additional Effect: Create Advantage (recall information AND grant ally 1 Boon or 1 Edge by revealing tactical weakness or specific vulnerability)
+- Additional Effect: Environmental Effect (recall information AND reveal hidden implication - secret connection, crucial context that changes situation)
+- Build Momentum (your knowledge prepares an ally for action)
 
 ---
 

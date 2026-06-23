@@ -79,17 +79,20 @@ Combat maneuvers are just **regular Actions with declared intent**. You don't ne
 
 **Key Principle:** Maneuvers work through the standard Action resolution:
 - **Success or higher:** You achieve your intent (disarm, knockdown, pin, etc.)
-- **Conflict or higher + Trait:** You achieve your intent **and** may invoke a relevant Trait for **Secondary Effect** (see Chapter 4)
+- **Conflict or higher + Trait:** You achieve your intent **and** may invoke a relevant Trait for **Benefit** (see Chapter 4)
 - **Setback:** You fail and suffer consequence
 
-**Secondary Effects are the key tool** for achieving impressive combat maneuvers:
-- **Take Something:** Disarm weapon, steal object, seize position
-- **Reposition:** Knockdown, pin, push, pull, trap in position
-- **Inflict Condition:** Blind, stun, weaken, disorient (allies gain Boon)
-- **Create Advantage:** Expose weakness, break formation, distract (ally gains Boon)
-- **Environmental Effect:** Kick brazier into face, trigger trap, collapse structure
+**Many maneuvers ARE the primary effect of Defy:**
+- **Take Something:** Disarm weapon, steal object, seize position (Defy to pickpocket, snatch, grab)
+- **Reposition:** Knockdown, pin, push, pull, trap in position (Defy to shove, trip, tackle)
+- **Keep Them Busy:** Grapple, restrain, distract (Defy to hold them down)
+- **Create Advantage:** Expose weakness, throw dust in eyes (Defy to create opening)
 
-See **Chapter 4: Secondary Effects** for the complete framework.
+**Benefits let you do EXTRA on top of your primary intent:**
+- Clash to mark Harm + Benefit: Reposition (hit them AND knock them down)
+- Defy to Reposition + Benefit: Take Something (shove them aside AND steal their dagger)
+
+See **Chapter 4: Benefits** for the complete framework.
 
 **On enemies, maneuvers create fictional positioning** that affects how the GM narrates and adjudicates (see "Inflicting Conditions on Enemies" in Chapter 4).
 
@@ -100,44 +103,44 @@ See **Chapter 4: Secondary Effects** for the complete framework.
 These are examples to illustrate the variety possible. Declare your intent, the GM determines the Action and stakes, you roll.
 
 **Disarm** — "I hook his sword with my axe and twist to disarm him."
-- Action: Clash with Daring (if trying to hurt them) OR Defy with Grace (if just trying to disarm)
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Grace (Take Something as primary intent)
 - Success: Enemy drops weapon (must spend effort to retrieve or draw backup)
-- + Secondary Effect: Kick weapon away (Take Something), shove enemy back (Reposition), catch their weapon mid-air (Take Something + impressive)
+- + Benefit: Kick weapon far away (Greater Effect), shove enemy back (Additional Effect: Reposition), catch their weapon mid-air (impressive + Additional Effect: Environmental)
 
 **Knockdown** — "I sweep his legs as he overextends."
-- Action: Clash with Grace (if trying to hurt them) OR Defy with Grace (if just trying to trip them)
+- Action: Clash with Grace (if trying to hurt them) OR Defy with Grace (Reposition as primary intent)
 - Success: Enemy knocked prone (vulnerable to follow-up, must use effort to stand)
-- + Secondary Effect: Create opening for ally - Dazed 1 (ally gains 1 Boon on next action), affect nearby enemy as well (Affect Additional Target)
+- + Benefit: Daze them too - Dazed 1 (Additional Effect: Create Advantage), affect nearby enemy as well (Affect Additional Target)
 
 **Pin/Grapple** — "I tackle him and pin his arms."
-- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (if just restraining)
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Keep Them Busy as primary intent)
 - Success: Enemy pinned (can't move zones, you're also engaged and can't freely move)
-- + Secondary Effect: Also disarm them (Take Something), apply chokehold - Choking 1 (Create Advantage), drag them into hazard (Reposition)
+- + Benefit: Also disarm them (Additional Effect: Take Something), apply chokehold harder (Greater Effect - harder to escape), drag them into hazard (Additional Effect: Reposition)
 
 **Shove/Push** — "I shield-bash him toward the cliff edge."
-- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (if just repositioning)
+- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Reposition as primary intent)
 - Success: Move enemy one zone (into hazard, off ledge, away from ally)
-- + Secondary Effect: Enemy falls and is prone (Reposition), you also push nearby enemy (Affect Additional Target)
+- + Benefit: Shove them much farther (Greater Effect), enemy falls prone too (Additional Effect: Reposition further), you also push nearby enemy (Affect Additional Target)
 
 **Create Opening** — "I feint high to draw his guard up."
-- Action: Clash with Cunning (if harming), Defy with Cunning (if maneuvering), or Sense to spot weakness
-- Success: Create Advantage - Off-Balance 1 (ally gains 1 Boon on next action against target)
-- + Secondary Effect: Greater Effect (Off-Balance 2 - lasts 2 actions) OR Affect Additional Target (multiple enemies Off-Balance 1)
+- Action: Clash with Cunning (if harming), Defy with Cunning (Create Advantage as primary intent), or Sense to spot weakness
+- Success: Off-Balance 1 (ally gains 1 Boon on next action against target)
+- + Benefit: Greater Effect (Off-Balance 2 - lasts 2 actions) OR Affect Additional Target (multiple enemies Off-Balance 1)
 
 **Sunder Equipment** — "I target his shield, trying to splinter it."
 - Action: Clash with Daring (if trying to hurt them while breaking gear)
-- Success: Damage shield (enemy loses defensive advantage fictionally, or reduces armor uses)
-- + Secondary Effect: Shield breaks completely (Take Something - removes Armored Complication), splinters strike him in face - Blinded 1 (Create Advantage)
+- Success: Damage shield (enemy loses defensive advantage fictionally)
+- + Benefit: Shield breaks completely (Additional Effect: Take Something - removes Armored Complication), splinters strike him - Blinded 1 (Additional Effect: Create Advantage)
 
 **Environmental Combo** — "I kick the brazier into his face."
-- Action: Clash with Daring (if trying to harm) OR Defy with Daring (if just repositioning environment)
+- Action: Clash with Daring (if trying to harm) OR Defy with Daring (Environmental Effect as primary intent)
 - Success: Deal damage + environmental effect (fire, distraction)
-- + Secondary Effect: Blind him with hot coals - Blinded 1 (Create Advantage), flames spread to create hazard (Environmental Effect)
+- + Benefit: Blind him with hot coals - Blinded 1 (Additional Effect: Create Advantage), flames spread dramatically (Greater Effect)
 
 **Keep Them Busy** — "I hold them off while my allies escape."
-- Action: Clash (if trying to harm) or Defy (if just occupying/distracting)
+- Action: Clash (if trying to harm) or Defy (Keep Them Busy as primary intent)
 - Success: Enemy focuses on you, cannot easily pursue allies
-- + Secondary Effect: Impede their reinforcements (negate advantage they had), exhaust them - Tired 1 (Create Advantage), block passage completely (Reposition)
+- + Benefit: Occupy them for much longer (Greater Effect), exhaust them - Tired 1 (Additional Effect: Create Advantage), block passage completely (Additional Effect: Reposition)
 
 ---
 
@@ -145,7 +148,9 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 
 **Maneuvers are just declared intent + standard Actions.** Don't create special rules. Use existing resolution.
 
-**Secondary Effects (Trait invocation) are where maneuvers get interesting.** When a PC achieves Conflict or higher and invokes a Trait, they can stack an additional effect beyond the base maneuver (see Chapter 4 for Secondary Effects framework).
+**Many maneuvers ARE Defy's primary effect.** Disarming, grappling, shoving, creating openings—these are all things Defy does. When you invoke a Trait for a Benefit, you're doing something EXTRA on top of your primary intent.
+
+**Benefits (Trait invocation) are where maneuvers get impressive.** When a PC achieves Conflict or higher and invokes a Trait, they gain a Benefit—either an Additional Effect (do something extra) or Enhanced Effect (make their success bigger/better). See Chapter 4 for complete Benefits framework.
 
 **Fictional positioning matters.** Disarming requires melee range. Shoving off a ledge requires a ledge. Blinding with sand requires sand. Fiction first, always.
 

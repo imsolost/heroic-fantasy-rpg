@@ -58,7 +58,7 @@ When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know
 
 | Action | Primary Effect | What It Does |
 |--------|----------------|--------------|
-| **Defy** | Overcome | Achieve risky/extraordinary intent OR mark Obstacle track for sustained challenges |
+| **Defy** | Overcome | Achieve your risky/extraordinary intent (varies by stated goal) |
 | **Clash** | Harm | Mark Harm or Will track OR defeat weaker foes outright |
 | **Talk** | Influence | Mark Will track OR convince lesser NPCs automatically |
 | **Sense** | Assess | Ask 2 questions (1 on Conflict) |
@@ -75,27 +75,24 @@ Actions are fictional triggers, not rated stats. They describe **what** you're d
 **The Five Actions:**
 
 ### 1. Defy — Push Your Limits
-When you attempt something risky, extraordinary, or dangerous that's not covered by another Action, OR when you avert imminent danger to yourself or others.
+When you act with leverage, speed, or grit to overcome an immediate hazard, bypass an obstacle, or alter the tactical landscape.
 
-**Primary Effect:** Achieve your intent OR mark progress on Obstacle track (when task requires sustained effort)
+**Primary Effect:** Achieve your stated risky or extraordinary intent
 
-**Use Defy for:**
-- Overcoming physical obstacles (leap chasm, pick lock, climb wall, break restraints)
-- Defending against attacks (dodge blade, resist spell, block strike)
-- Performing risky maneuvers (knockdown foe without harming, disarm cleverly, trip them up, push enemy aside)
-- Acting under pressure (smuggle past guards, pickpocket in combat, catch falling ally)
-- Pushing physical/mental limits (resist interrogation, endure hardship, maintain composure)
-- Drawing danger to yourself (distract enemy, hold the line, cover ally's escape)
+Your intent might be one of these fictional effects:
+- Mark Obstacle track (sustained challenges: complex lock, fortified door, prolonged chase)
+- Reposition (shove enemy, knockdown, leap to high ground)
+- Take Something (pickpocket, disarm cleverly, seize object)
+- Keep Them Busy (grapple to restrain, distract guards)
+- Create Advantage (cast debuff spell, throw dust in eyes)
+- Environmental Effect (trigger mechanism, collapse support)
+- Or any other risky objective (dodge blade, leap chasm, resist interrogation)
 
 **Don't use Defy when:**
 - Trying to harm/break someone → Use **Clash**
 - Trying to persuade/influence → Use **Talk**
 - Observing/investigating → Use **Sense**
 - Recalling information → Use **Know**
-
-**Track vs Simple Task:**
-- **Simple Task:** One roll achieves intent (dodge attack, leap chasm, pickpocket, knockdown foe)
-- **Track Required:** Sustained effort needed (complex lock, fortified door, prolonged chase)
 
 ---
 

@@ -419,19 +419,43 @@ When you gain an Approach increase, raise one Approach by 1. The level determine
 
 ### Talent Advancement
 
-When you gain a Talent, choose one from the available Talent types (see earlier in this chapter). Work with your GM to ensure the Talent fits your character's fictional development.
+When you gain a Talent at advancement, choose one from your Calling's Talent list (see Chapter 9: Callings).
 
-**Talent Types:**
-- Edge Talents (grant Edge to ignore Complications, may include Boons)
-- Expertise (Setback → Conflict within domain)
-- Unique Moves (new actions)
-- Passive Effects (ongoing benefits)
-- Triggered Effects (reactive abilities)
-- Resource Manipulation (Momentum/Stress/Boons and Banes changes)
-- Complication Negation (counter specific defenses)
+Your Calling's **Core Talent** is gained at character creation and defines your archetype. **Additional Talents** are gained through advancement and allow you to specialize your capabilities further.
 
-**Calling-Specific Talents:**
-Some Callings have unique Talents available only to that archetype (e.g., Sage spell theorems, Champion combat techniques). Check your Calling (see Chapter 9: Callings) for options.
+#### Cross-Calling Talents
+
+You may choose **Additional Talents** from other Callings if they fit your character's story. **Core Talents cannot be taken across Callings** — they define each archetype's unique identity.
+
+Explain how your character learned these skills through training, mentorship, or life experience.
+
+**Examples:**
+- A Champion trains with a Hunter mentor and gains **Wilderness Survivor** (Hunter Additional Talent)
+- A Shadow studying with mystics gains **Spirit Walker** (Mystic Additional Talent)
+- A Sage taking up the sword gains **Fearsome Presence** (Champion Additional Talent)
+
+Cross-Calling Talents add depth and reflect how your character grows beyond their original archetype. The fictional requirement ensures talents fit the character, not just the build.
+
+**Cannot be taken across Callings:**
+- Champion's **Martial Superiority** (Core Talent)
+- Hunter's **Hunter's Instinct** (Core Talent)
+- Mystic's **Spiritual Communion** (Core Talent)
+- Sage's **Spellcraft** (Core Talent)
+- Shadow's **Shadowcraft** (Core Talent)
+- Vanguard's **Unbreakable Guardian** (Core Talent)
+
+#### Re-Skinning Talents
+
+You're encouraged to re-skin **Additional Talents** to fit your character's theme. Similar mechanics can represent different fictional abilities.
+
+**Examples:**
+- **Battleborn** (Champion) → **Arcane Fortitude** (Sage): 1 Edge on Defy in battle through magical shields instead of physical resilience
+- **Iron Bulwark** (Vanguard) → **Guardian Spirit** (Mystic): Redirect ally Stress through divine intervention instead of physical interposition
+- **Ghost** (Shadow) → **Ethereal Step** (Mystic): Expertise in hiding/infiltrating through spiritual phasing instead of mundane stealth
+
+Re-skinning prevents redundancy and encourages creative character concepts. The mechanical effect stays the same; the fictional description changes to fit your character.
+
+Work with your GM to ensure Talents—whether original, cross-Calling, or re-skinned—fit your character's development.
 
 ---
 
@@ -494,7 +518,7 @@ You may retrain **one secondary Talent** by replacing it with a new one when you
 
 Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (Rank 4).
 
-**Note on Rank vs Tier:** Your character's Rank (1-4) represents narrative genre and scale, not mechanical power. You might encounter a Tier 3 Challenge at Rank 1 (epic boss fight requiring every advantage) or Tier 1 Challenges at Rank 4 (trivial obstacles easily overcome). Tier measures how mechanically difficult a Challenge is, while Rank measures what narrative scale you operate at. See Chapter 6: Challenges for the full distinction between Rank (narrative permission) and Tier (mechanical difficulty).
+**Note on Rank vs CR:** Your character's Rank (1-4) represents narrative genre and scale, not mechanical power. You might encounter a CR 3 Challenge at Rank 1 (epic boss fight requiring every advantage) or CR 1 Challenges at Rank 4 (trivial obstacles easily overcome). CR measures how mechanically difficult a Challenge is (track size), while Rank measures what narrative scale you operate at. See Chapter 6: Challenges for the full distinction between Rank (narrative scope) and CR (mechanical difficulty).
 
 ---
 

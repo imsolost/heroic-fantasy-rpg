@@ -19,10 +19,10 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 
 ### Core Talent
 **MARTIAL SUPERIORITY**
-When you invoke a Trait on a Conflict or higher result during Clash, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
+When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
 
 ### Additional Talents (Examples)
-**Weapon Expertise:** Choose a weapon type: Heavy Blades, Light Blades, Bows, Crossbows, Polearms, Axes, or Hammers. You have Expertise (see Chapter 3) with that weapon type.
+
 
 
 ---
@@ -30,17 +30,18 @@ When you invoke a Trait on a Conflict or higher result during Clash, choose 2 di
 ## Vanguard
 **The unyielding line between danger and those who cannot face it alone**
 
-The Vanguard stands where the battle matters most. Through presence and sheer resilience, they hold the line against overwhelming odds — forcing enemies to contend with them before reaching those under their protection. They don't just survive conflict — they decide where it happens.
+The Vanguard stands between danger and those who cannot face it alone. When others would fall, the Vanguard takes the blow instead — through sacrifice and sheer resilience, they ensure no ally fights alone. They don't just survive conflict — they decide who bears its cost.
 
 You can use the Vanguard calling to play all kinds of protective stalwarts. You can be a heavily armored knight, a shield-bearing clan defender, a stoic mercenary captain, or an unarmored brawler bound by a sacred vow to keep others safe.
 
 ### Core Talent
-**IRON BULWARK**
-You are the steadfast shield for those around you.
+**GUARDIAN'S SACRIFICE**
+You are the shield that takes the blow so others don't have to.
 
-**Protect:** When you invoke a Trait on Conflict or higher, you may choose a new Special Effect — Protect. Choose one nearby ally. Until the start of your next turn, you may redirect any Stress they would mark to yourself instead.
+Mark [ ] [ ] to suffer a consequence intended for an ally within Close range. Then reduce its severity by one step (Major → Minor, Minor → None, Severe → Major).
 
-**Endure:** When you would mark 2 or more Stress from a single instance, reduce it by 1.
+### Additional Talents (Examples)
+**Iron Bulwark:** Increase your maximum Stress by 1. When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
 
 ---
 
@@ -216,9 +217,9 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 ## Quick Reference
 
-**Champion:** Martial excellence specialist, Martial Superiority (2 Special Effects on Clash)
+**Champion:** Martial excellence specialist, Martial Superiority (2 Special Effects in combat)
 
-**Vanguard:** Protector, Iron Bulwark (Protect allies, reduce Stress)
+**Vanguard:** Protector, Guardian's Sacrifice (suffer consequence for ally, reduce severity)
 
 **Shadow:** Infiltration specialist, Shadowcraft (1 Boon and Edge from advantage, Expertise in Stealth/Thievery/Deception)
 

@@ -22,15 +22,12 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 
 **Weapon Mastery:** You have Expertise with all weapons.
 
-**Martial Prowess:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
+**Martial Prowess:** When you invoke your Trait in battle, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
 
 ### Additional Talents
 
 **Battleborn [ ] [ ]**
-You gain 1 Edge when you Defy in battle. Mark this to Push Yourself in combat without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
-
-**Brawler**
-You have Expertise when fighting unarmed or with improvised weapons. You treat unarmed strikes and improvised weapons as effective as any proper weapon in combat. Push Yourself to perform a Potent feat of bare-handed combat — shattering barriers with a strike, grappling creatures much larger than yourself, disarming armed opponents, or hurling someone with devastating force.
+You gain 1 Edge when you Defy in battle. Mark this to Push Yourself in battle without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
 
 **Combat Instinct**
 When you first enter a conflict, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
@@ -49,6 +46,9 @@ You have Expertise when Defying fear, coercion, temptation, or any attempt to br
 
 **One Against Many**
 When you are the only target of an enemy's attention — surrounded, cornered, or facing a threat alone — you gain 1 Edge on all combat actions. Push Yourself to perform a Potent feat of last-stand heroism.
+
+**Pugilist**
+You have Expertise when fighting unarmed or with improvised weapons. You treat unarmed strikes and improvised weapons as effective as any proper weapon in battle. Push Yourself to perform a Potent feat of unarmed prowess — shattering barriers with a strike, grappling creatures much larger than yourself, breaking a metal weapon with your bare hands, or hurling someone with devastating force.
 
 **Titanic Might**
 You have Expertise in feats of raw strength, endurance, and athleticism. Push Yourself to perform a Potent feat of physical power — breaking barriers, moving impossible weights, cleaving through a shield wall, or an impossible athletic maneuver.
@@ -303,9 +303,6 @@ You move through the world like a shadow — present, purposeful, and gone befor
 
 ### Additional Talents
 
-**Ambush**
-When you act from a position of advantage — concealment, surprise, or superior knowledge — you can Push Yourself to make your action Potent.
-
 **Charlatan**
 You can maintain deceptions that should be impossible to sustain — false identities for months, lies that survive magical scrutiny, facades that hold under direct interrogation. Push Yourself to perform a Potent feat of deception. You have Expertise in disguise, forgery, and constructed identities.
 
@@ -329,6 +326,9 @@ When you exploit a weakness, distraction, or opening, you can perform an action 
 
 **Second Story Work**
 You have Expertise when climbing, balancing, infiltrating, or traversing difficult structures — rooftops, walls, rigging, unstable surfaces. Push Yourself to reach a location that should be physically inaccessible — scaling a sheer surface, crossing an impossible gap, passing silently across something that shouldn't hold your weight.
+
+**Sneak Attack**
+You have Expertise when striking from a position of advantage in battle — concealment, surprise, or superior knowledge. Push Yourself to make your attack Potent.
 
 **Slippery [ ] [ ]**
 Mark this to Resist a consequence caused by pursuit, detection, capture, or exposure.
@@ -421,7 +421,7 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 ## Quick Reference
 
-**Champion:** Martial excellence specialist, Martial Superiority (Expertise with all weapons, 2 Special Effects in combat)
+**Champion:** Martial excellence specialist, Martial Superiority (Expertise with all weapons, 2 Special Effects in battle)
 
 **Hunter:** Wilderness tracker, Hunter's Instinct (Sense grants 1 Boon and Edge, Expertise in Tracking/Trapping/Survival)
 

@@ -186,7 +186,42 @@ If you are a **Specialist** and your Arcane Formula uses your chosen Sphere, you
 
 **Casting Spells:** See **Chapter 10: Spellcasting** for complete rules, magnitude (Cantrips/Spells/Potent Spells), example theorems, and spell effects.
 
-**Growth:** When you advance, you may learn a new spell theorem. If you gain access to theorems from a new Sphere (via Talent or other means), you do not gain Expertise with that Sphere — only your original Sphere grants Expertise.
+**Growth:** When you advance to a new Rank (Rank 2 at 4 XP, Rank 3 at 7 XP, Rank 4 at 10 XP), you may learn a new spell theorem. If you gain access to theorems from a new Sphere (via Talent or other means), you do not gain Expertise with that Sphere — only your original Sphere grants Expertise.
+
+### Additional Talents
+
+**Counter-Theory**
+You have Expertise when analyzing, dispelling, countering, or disrupting magic. Push Yourself to completely negate a magical protection, ward, or defensive spell you're acting against.
+
+**Sphere Mastery**
+Choose a Sphere you know. You have Expertise whenever acting within that Sphere. Push Yourself to perform a Potent feat of magical theory within it — effects of unusual scale, precision, or permanence that exceed normal theorem limits.
+
+**Arcane Engineer**
+You have Expertise when creating magical devices, wards, constructs, or enchantments. Push Yourself to rapidly improvise magical solutions under pressure.
+
+**Efficient Casting [ ] [ ]**
+Mark this when casting a Potent Spell — whether from a known theorem or an Arcane Formula improvisation. The spell does not cost Stress.
+
+**Loremaster**
+You have Expertise regarding history, languages, magical theory, ancient cultures, and forgotten lore. Push Yourself to know something no ordinary scholar could know.
+
+**Theoretical Leap [ ] [ ]**
+When you encounter a magical effect, creature, or phenomenon you have never seen before, you may mark this to immediately ask the GM: "What is the most important thing my character would recognize about this?" The GM answers honestly.
+
+**Arcane Resilience [ ] [ ]**
+Mark this when you would suffer a consequence from a magical source. Reduce the consequence by one severity step.
+
+**Ritual Savant**
+You have Expertise when designing, preparing, modifying, or improvising rituals. Push Yourself to bypass one ritual requirement through theoretical understanding — eliminating a rare component, reducing casting time, or performing a ritual without the normally required participants.
+
+**Arcane Investigator**
+You have Expertise when examining magical phenomena, disturbances, or residue. When you investigate a location or object touched by magic, ask: "What happened here?" The GM answers honestly. Push Yourself to reconstruct a complete picture — what was cast, by whom, with what intent.
+
+**Theoretical Genius**
+When you use Arcane Formula, you may ask before rolling: "What is the greatest risk of this improvised spell?" The GM answers honestly. Push Yourself to reduce one consequence of magical experimentation — limiting the fallout without eliminating it entirely.
+
+**Spell Codex**
+When you advance to a new Rank, you may learn 2 spell theorems instead of 1. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval, maximum 1 learned spell per Long Rest).
 
 ---
 

@@ -1,69 +1,47 @@
 # Talents Draft
 
-## Champion
-
-**Core Talent:** MARTIAL SUPERIORITY
-- **Weapon Mastery:** You have Expertise with all weapons.
-- **Combat Mastery:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1.
-
-### Martial Prowess
-Push Yourself to perform a Potent feat of combat skill, athleticism, or battlefield mastery — cleaving through a shield wall, splitting an arrow mid-flight, an impossible athletic maneuver, or a devastating strike.
-
-### Battleborn [ ] [ ]
-You have Expertise in feats of Athletics and Endurance. Mark this to Push Yourself in combat without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
-
-### Mighty
-When given time, you can perform a Potent feat of raw strength or endurance — breaking barriers, moving impossible weights, enduring physical punishment. Push Yourself to do it immediately.
-
-### Fearsome Presence
-You have Expertise in intimidation, threats, and commanding through force of personality. Push Yourself to perform a Potent feat of intimidation.
-
-### Iron Will
-You have Expertise when Defying fear, coercion, temptation, or any attempt to break your resolve. Push Yourself to completely ignore an effect that would compel, dominate, or subvert your will.
-
-### Hold the Line [ ] [ ]
-Mark this when an enemy attempts to move past you to reach an ally or objective. Make a Clash roll. On Conflict or better, you stop their movement.
-
-### Defy Death [ ] [ ]
-When you would be Taken Out, you may instead mark this to remain in the fight with 1 Stress remaining. Push Yourself to stay standing through a consequence that would floor anyone else.
-
-### One Against Many
-When you are the only target of an enemy's attention — surrounded, cornered, or facing a threat alone — you gain 1 Edge on all combat actions. Push Yourself to perform a Potent feat of last-stand heroism.
+**Status:**
+- ✓ Champion: Complete (in 09-callings.md)
+- ✓ Hunter: Complete (in 09-callings.md)
+- 🔄 Mystic: In progress (adding 3 new talents)
+- ⏳ Sage: Pending review
+- ⏳ Shadow: Pending review
+- ⏳ Vanguard: Pending review
 
 ---
 
-## Hunter
+## Talents On Hold (Not Yet Implemented)
 
-### Master Tracker
-You have Expertise when tracking creatures, reading signs, following trails, or locating prey. Push Yourself to track something that should be impossible to follow.
+### Mystic
+**Prophetic Vision [ ] [ ]**
+Mark this to ask the GM one question about what is coming — a danger ahead, a hidden threat, an outcome not yet determined. The GM answers honestly with what your patron reveals. The answer may be cryptic, but it is true.
 
-### Monster Slayer
-When you spend time studying a creature, ask: "What is its greatest weakness?" The GM answers honestly. Push Yourself to exploit that weakness with Potent effect.
+**Rite of Passage**
+You have Expertise when guiding others through significant life transitions — births, deaths, marriages, initiations, and moments of transformation. Push Yourself to perform a rite that changes someone's fundamental relationship with the world — binding an oath that cannot be broken, consecrating a hero's death, initiating someone into a spiritual tradition.
 
-### Wilderness Survivor
-You have Expertise in wilderness survival, navigation, and foraging. Push Yourself to endure or overcome natural conditions that would kill an ordinary person — extreme cold, starvation, toxic environments, days without rest.
+### Sage
+**Eidetic Memory [ ] [ ]**
+You have Expertise when recalling lore, languages, symbols, histories, and magical theory. Mark this to perfectly recall any detail your character previously witnessed — ask the GM one question, they answer honestly and completely.
 
-### Deadeye
-You have Expertise on precise ranged attacks. Push Yourself to perform a Potent feat of marksmanship — extreme distances, impossible angles, through cover, against targets in motion.
+**Perfect Execution [ ] [ ]**
+Mark this when casting a known theorem. The casting requires no roll—treat the result as an automatic Conflict outcome (you succeed but face a Minor Consequence). You still pay any Stress costs if applicable.
 
-### Relentless Pursuit [ ] [ ]
-Mark this to immediately bypass a single obstacle preventing you from reaching your quarry — a barrier, a locked door, a crowd, a distance. Nothing stops the hunt.
-
-### Predator's Instinct
-You have Expertise when reading people, detecting lies, or sensing hidden motives. When you successfully Sense someone's intentions, you also learn one thing they're trying to hide.
-
-### Patient Hunter
-When you spend at least one full exchange observing a target before acting, your first action against them is Potent. Push Yourself to compress the observation into a single moment of preternatural focus.
-
-### Trapper's Art
+### Hunter (Concepts)
+**Trapper's Art**
 When given time, you can prepare a trap or ambush for a specific location. When a target enters that location, your trap triggers with Potent effect — no roll required. Push Yourself to improvise a trap mid-scene from available materials.
 
-### Pack Leader [ ] [ ]
-Mark this to grant a nearby ally the benefit of your Hunter's Sense — they gain 1 Boon and Edge on their next action related to a target you've assessed.
+**Danger Sense**
+You have Edge when keeping watch or detecting ambushes. When the GM uses Vigilance against you (Hint → Reveal → Strike), you always get at least a Reveal before Strike (never fully surprised by living creatures).
 
 ---
 
-## Mystic
+## Mystic (11 talents + Core)
+
+**Core Talent:** SPIRITUAL COMMUNION
+- Define patron with 2 domains
+- Invoke with Spirit + Action
+- Expertise when in Favor
+- Lose/regain Favor system
 
 ### Divine Favor
 Your patron can act through you directly — not as a channeled gift, but as a direct expression of their power in the world. Push Yourself to perform a Potent miracle within your Domains — an effect beyond what your training or faith could normally achieve.
@@ -83,18 +61,29 @@ Mark this after rolling Setback on a patron invocation. Treat the result as Conf
 ### Oracle [ ] [ ]
 You have Expertise when interpreting omens, prophecy, dreams, and signs. Mark this to receive a direct vision from your patron—ask the GM one question about the past, present, or future. The GM answers through symbol or revelation (may be cryptic, but is true).
 
-### Prophetic Vision [ ] [ ]
-*On hold for later review*
-
 ### Consecrated Ground
-When given time, you can sanctify a location — a room, a circle, a threshold. Within that space, you and your allies have Expertise on all actions against entities your patron considers enemies. Push Yourself to consecrate a location instantly.
+When given time, you can sanctify a location no larger than a small building — a sacred grove, a chapel, a cemetery. You and your allies have Expertise on all actions against enemies of your patron within that space. The consecration lasts for the scene. Push Yourself to make it last until your next Long Rest, or to consecrate the space instantly.
 
 ### Patron's Shield
 You have Expertise when Defying supernatural threats — curses, possession, divine wrath, magical compulsion. Push Yourself to extend this protection to a nearby ally for the duration of a scene.
 
+### Divine Wrath
+You have Expertise when channeling your patron's judgment against enemies of their domain. Push Yourself to perform a Potent act of divine punishment — smiting, cursing, or calling down your patron's wrath in a way that cannot be ignored or resisted.
+
+### Keeper of Rites
+You have Expertise when performing rituals, ceremonies, blessings, or sacred observances — and when identifying what rituals have been performed or what rites are required. Push Yourself to complete a ritual in dramatically reduced time without sacrificing its effect.
+
+### Spirit Guide
+You are known and respected among spirits, ancestors, and supernatural beings. You have Expertise when negotiating with, appealing to, or making requests of such entities. Push Yourself to call upon a specific spirit for direct, immediate assistance — guidance, protection, information, or intervention.
+
 ---
 
-## Sage
+## Sage (8 talents + Core)
+
+**Core Talent:** SPELLCRAFT
+- Specialist: 1 Sphere + Expertise OR Generalist: 4 theorems any Sphere
+- Cast with Cunning + Action
+- Arcane Formula: Mark 1 Stress + 1 Bane to improvise
 
 ### Counter-Theory
 You have Expertise when analyzing, dispelling, countering, or disrupting magic. Push Yourself to completely negate a magical protection, ward, or defensive spell you're acting against.
@@ -111,12 +100,6 @@ Mark this when casting a Potent Spell — whether from a known theorem or an Arc
 ### Loremaster
 You have Expertise regarding history, languages, magical theory, ancient cultures, and forgotten lore. Push Yourself to know something no ordinary scholar could know.
 
-### Eidetic Memory [ ] [ ]
-*On hold for later review*
-
-### Perfect Execution [ ] [ ]
-*On hold for later review*
-
 ### Theoretical Leap [ ] [ ]
 When you encounter a magical effect, creature, or phenomenon you have never seen before, you may mark this to immediately ask the GM: "What is the most important thing my character would recognize about this?" The GM answers honestly.
 
@@ -125,7 +108,11 @@ Mark this when you would suffer a consequence from a magical source. Reduce the 
 
 ---
 
-## Shadow
+## Shadow (9 talents + Core)
+
+**Core Talent:** SHADOWCRAFT
+- From the Shadows: Act from advantage → 1 Boon and Edge
+- Shadow's Expertise: Expertise in Stealth, Thievery, and Deception
 
 ### Ghost
 You have Expertise when hiding, infiltrating, escaping notice, or bypassing security. Push Yourself to disappear from a situation that should be impossible to escape.
@@ -137,13 +124,13 @@ You can maintain deceptions that should be impossible to sustain — false ident
 You can always act first in a conflict unless completely surprised. Push Yourself to act first even when surprised.
 
 ### Opportunist
-When you exploit a weakness, distraction, or opening, you can perform an action that would normally require extensive setup — lifting a key mid-conversation, planting evidence during a search, slipping past a guard in the moment they look away. When you do, gain 1 Momentum. Once per scene.
+When you exploit a weakness, distraction, or opening, you can perform an action that would normally require extensive setup — lifting a key mid-conversation, planting evidence during a search, slipping past a guard in the moment they look away.
 
 ### Slippery [ ] [ ]
 Mark this to Resist a consequence caused by pursuit, detection, capture, or exposure.
 
 ### Ambush
-When you act from a position of advantage — concealment, surprise, or superior knowledge — you can Push Yourself to act with Potency.
+When you act from a position of advantage — concealment, surprise, or superior knowledge — you can Push Yourself to make your action Potent.
 
 ### Second Story Work
 You have Expertise when climbing, leaping, balancing, or navigating vertical or architectural spaces. Push Yourself to traverse a route that should be physically impossible — scaling a sheer wall, crossing a gap no one could jump, moving effortlessly across unstable surfaces.
@@ -156,14 +143,12 @@ You always have a way out. When a scene turns against you, you may mark this to 
 
 ---
 
-## Vanguard
+## Vanguard (10 talents + Core)
 
-**Note:** Guardian's Sacrifice is the Vanguard Core Talent (updated in 09-callings.md).
+**Core Talent:** GUARDIAN'S SACRIFICE
+Mark [ ] [ ] to suffer a consequence intended for an ally within Close range. Then reduce its severity by one step (Major → Minor, Minor → None, Severe → Major).
 
-### Guardian's Sacrifice [ ] [ ] *(Core Talent)*
-Mark this to suffer a consequence intended for an ally within Close range. Then reduce its severity by one step (Major → Minor, Minor → None, Severe → Major).
-
-### Iron Bulwark *(moved to secondary Talent list)*
+### Iron Bulwark
 Increase your maximum Stress by 1. When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
 
 ### Tough as Nails
@@ -197,55 +182,35 @@ When you Quick Assist an ally, you can mark this to also give that ally 1 Edge.
 
 ## Design Notes
 
-### Key Refinements in This Version:
+### Completed Callings (in 09-callings.md)
 
-**1. Guardian's Sacrifice as Vanguard Core Talent**
-- Moved from secondary to Core Talent
-- More iconic of Vanguard identity than Iron Bulwark
-- Iron Bulwark retained as secondary talent with revised mechanics
+**Champion (8 talents):**
+Core Talent updated to include Weapon Mastery (Expertise all weapons) + Combat Mastery (2 Special Effects in combat). Standalone Weapon Mastery talent removed (merged into Core). Talents focus on offense, physical excellence, and intimidation.
 
-**2. Mechanical Variety**
-- Edge grants (One Against Many, Counter-Theory, Inspire Greatness)
-- Auto-success mechanics (Eidetic Memory auto-Conflict cast, Trapper's Art no-roll trigger)
-- Redirect mechanics (Iron Bulwark, Guardian's Sacrifice)
-- Mutual Expertise (Challenge)
-- Conditional Potency (Patient Hunter, Trapper's Art)
+**Hunter (8 talents):**
+All talents reviewed and refined. Master Tracker and Wilderness Survivor differentiated from Core Talent Expertise by adding Edge + secondary benefits. Sharpshooter replaces Deadeye. Unstoppable replaces Relentless to avoid name collision.
 
-**3. Expertise Phrasing Conventions**
-- "in [skill/domain]" for broad capabilities
-- "with [tool/equipment]" for equipment-based
-- "when [condition/action]" for conditional triggers
+### In Progress
 
-**4. Checkbox Talent Distribution**
-- Champion: Battleborn, Defy Death
-- Hunter: Relentless Pursuit, Pack Leader
-- Mystic: Chosen Vessel, Prophetic Vision
-- Sage: Efficient Casting, Eidetic Memory, Theoretical Leap, Arcane Resilience
-- Shadow: Slippery, Inside Knowledge, Exit Strategy
-- Vanguard: Guardian's Sacrifice, Inspire Greatness
+**Mystic (11 talents):**
+Added Divine Wrath (offensive), Keeper of Rites (ritual specialist), and Spirit Guide (supernatural negotiation). Consecrated Ground clarified with size limit, duration, and scope. Strong thematic variety: offensive, defensive, healing, prophecy, spirits, rituals.
 
-**5. "Once per scene" Mechanics**
-- Only Opportunist uses this trigger
-- Preference is for checkbox resources for uniform recovery
+### Pending Review
 
-**6. Notable Talent Patterns**
-- **Gated Power**: "When given time" + Push for instant (Mighty, Trapper's Art, Living Fortress, Consecrated Ground)
-- **Question-Asking**: Monster Slayer, Inside Knowledge, Prophetic Vision, Theoretical Leap
-- **Narrative Permission**: Spirit Walker (perceive spirits), Exit Strategy (always escape), Challenge (create duel)
-- **Enhanced Push**: Several talents add benefits to Push Yourself actions (Defy Death, War Cry)
+**Sage (8 talents):**
+Counter-Theory strengthened. Loremaster is primary knowledge talent. Eidetic Memory and Perfect Execution on hold. Need to review overall power level and add 2 more talents to reach 10.
 
-### Talents Needing Further Review:
+**Shadow (9 talents):**
+Ambush clarified (requires Push). Opportunist kept as narrative permission talent. Need to review and potentially add 1 more to reach 10.
 
-**Opportunist** - Only talent with "once per scene" trigger. Consider changing to checkbox or removing limitation.
+**Vanguard (10 talents):**
+Guardian's Sacrifice is Core Talent. Iron Bulwark moved to Additional Talents. Good talent count, needs final review for balance.
 
-**Challenge** - Mutual Expertise is interesting but could create odd situations. Needs playtesting.
-
-**Eidetic Memory** - Very versatile with two different uses. Might be too strong?
-
-**Living Fortress vs Unmovable** - Original draft had "Unmovable" as fortification builder. This version calls it "Living Fortress" and changes mechanics significantly.
-
-### TODO:
-- [ ] Update 09-callings.md with Guardian's Sacrifice as Vanguard Core Talent
-- [ ] Review "once per scene" vs checkbox for Opportunist
-- [ ] Playtest Challenge mutual Expertise mechanic
-- [ ] Determine if Eidetic Memory needs power adjustment
+### Talent Count Target
+Aiming for ~10 talents per Calling for consistency:
+- Champion: 8 ✓
+- Hunter: 8 ✓
+- Mystic: 11 (higher due to thematic breadth)
+- Sage: 8 (add 2 more)
+- Shadow: 9 (add 1 more)
+- Vanguard: 10 ✓

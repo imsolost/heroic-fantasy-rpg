@@ -22,7 +22,7 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 
 **Weapon Mastery:** You have Expertise with all weapons.
 
-**Combat Mastery:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
+**Combat Superiority:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
 
 ### Additional Talents
 
@@ -231,6 +231,41 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude (Cantrips
 
 The GM should signal when Favor returns (typically at the end of a scene or after a rest once the condition is met).
 
+### Additional Talents
+
+**Divine Favor**
+Your patron can act through you directly — not as a channeled gift, but as a direct expression of their power in the world. Push Yourself to perform a Potent miracle within your Domains — an effect beyond what your training or faith could normally achieve.
+
+**Sacred Authority**
+You speak with the voice of your patron's institution — divine law, ancestral mandate, spiritual jurisdiction. You have Expertise when invoking your patron, faith, or sacred office. When you successfully command or banish a creature in your patron's name, they also suffer a Condition of your choice (Frightened, Humbled, Banished, etc.).
+
+**Miracle Worker**
+You are your patron's instrument of restoration — the hand that mends what should stay broken. You have Expertise when tending to wounds, illness, or supernatural corruption. When you successfully heal or restore, clear +1 additional Stress or remove a Tier 1 Condition from the target.
+
+**Spirit Walker**
+You can perceive and communicate with beings beyond the mortal world — spirits, ancestors, echoes of the dead, entities that do not speak to ordinary mortals. Push Yourself to cross the boundary between worlds, entering a place or state that mortals cannot normally reach.
+
+**Chosen Vessel [ ] [ ]**
+Mark this after rolling Setback on a patron invocation. Treat the result as Conflict instead. This conversion happens before Favor loss is assessed — if the converted result would not normally cause Favor loss, it doesn't.
+
+**Oracle [ ] [ ]**
+You have Expertise when interpreting omens, prophecy, dreams, and signs. Mark this to receive a direct vision from your patron—ask the GM one question about the past, present, or future. The GM answers through symbol or revelation (may be cryptic, but is true).
+
+**Consecrated Ground**
+When given time, you can sanctify a location no larger than a small building — a sacred grove, a chapel, a cemetery. You and your allies have Expertise on all actions against enemies of your patron within that space. The consecration lasts for the scene. Push Yourself to make it last until your next Long Rest, or to consecrate the space instantly.
+
+**Patron's Shield**
+You have Expertise when Defying supernatural threats — curses, possession, divine wrath, magical compulsion. Push Yourself to extend this protection to a nearby ally for the duration of a scene.
+
+**Divine Wrath**
+You have Expertise when channeling your patron's judgment against enemies of their domain. Push Yourself to perform a Potent act of divine punishment — smiting, cursing, or calling down your patron's wrath in a way that cannot be ignored or resisted.
+
+**Keeper of Rites**
+You have Expertise when performing rituals, ceremonies, blessings, or sacred observances — and when identifying what rituals have been performed or what rites are required. Push Yourself to complete a ritual in dramatically reduced time without sacrificing its effect.
+
+**Spirit Guide**
+You are known and respected among spirits, ancestors, and supernatural beings. You have Expertise when negotiating with, appealing to, or making requests of such entities. Push Yourself to call upon a specific spirit for direct, immediate assistance — guidance, protection, information, or intervention.
+
 ---
 
 ## Using Callings in Your Game
@@ -281,3 +316,40 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 **Sage:** Scholarly spellcaster, Spellcraft (Specialist: 1 Sphere + Expertise / Generalist: 4 theorems any Sphere, cast with Cunning, Arcane Formula unlimited but costs 1 Stress each)
 
 **Mystic:** Spiritual channeler, Spiritual Communion (2 patron domains, cast with Spirit, Expertise when in Favor)
+
+---
+
+## Additional Talents
+
+### Divine Favor
+Your patron can act through you directly — not as a channeled gift, but as a direct expression of their power in the world. Push Yourself to perform a Potent miracle within your Domains — an effect beyond what your training or faith could normally achieve.
+
+### Sacred Authority
+You speak with the voice of your patron's institution — divine law, ancestral mandate, spiritual jurisdiction. You have Expertise when invoking your patron, faith, or sacred office. When you successfully command or banish a creature in your patron's name, they also suffer a Condition of your choice (Frightened, Humbled, Banished, etc.).
+
+### Miracle Worker
+You are your patron's instrument of restoration — the hand that mends what should stay broken. You have Expertise when tending to wounds, illness, or supernatural corruption. When you successfully heal or restore, clear +1 additional Stress or remove a Tier 1 Condition from the target.
+
+### Spirit Walker
+You can perceive and communicate with beings beyond the mortal world — spirits, ancestors, echoes of the dead, entities that do not speak to ordinary mortals. Push Yourself to cross the boundary between worlds, entering a place or state that mortals cannot normally reach.
+
+### Chosen Vessel [ ] [ ]
+Mark this after rolling Setback on a patron invocation. Treat the result as Conflict instead. This conversion happens before Favor loss is assessed — if the converted result would not normally cause Favor loss, it doesn't.
+
+### Oracle [ ] [ ]
+You have Expertise when interpreting omens, prophecy, dreams, and signs. Mark this to receive a direct vision from your patron—ask the GM one question about the past, present, or future. The GM answers through symbol or revelation (may be cryptic, but is true).
+
+### Consecrated Ground
+When given time, you can sanctify a location no larger than a small building — a sacred grove, a chapel, a cemetery. You and your allies have Expertise on all actions against enemies of your patron within that space. The consecration lasts for the scene. Push Yourself to make it last until your next Long Rest, or to consecrate the space instantly.
+
+### Patron's Shield
+You have Expertise when Defying supernatural threats — curses, possession, divine wrath, magical compulsion. Push Yourself to extend this protection to a nearby ally for the duration of a scene.
+
+### Divine Wrath
+You have Expertise when channeling your patron's judgment against enemies of their domain. Push Yourself to perform a Potent act of divine punishment — smiting, cursing, or calling down your patron's wrath in a way that cannot be ignored or resisted.
+
+### Keeper of Rites
+You have Expertise when performing rituals, ceremonies, blessings, or sacred observances — and when identifying what rituals have been performed or what rites are required. Push Yourself to complete a ritual in dramatically reduced time without sacrificing its effect.
+
+### Spirit Guide
+You are known and respected among spirits, ancestors, and supernatural beings. You have Expertise when negotiating with, appealing to, or making requests of such entities. Push Yourself to call upon a specific spirit for direct, immediate assistance — guidance, protection, information, or intervention.

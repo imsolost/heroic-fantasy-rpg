@@ -120,6 +120,7 @@ Read the chapters in order for the best learning experience:
 ### Appendices (Optional Reading)
 - **[appendix-a-design-notes.md](appendix-a-design-notes.md)** — Design rationale and decisions
 - **[appendix-b-examples.md](appendix-b-examples.md)** — Extended examples of Stress & Conditions in play
+- **[appendix-c-challenge-quick-reference.md](appendix-c-challenge-quick-reference.md)** — Quick reference for creating Challenges at the table
 
 ### Old Files (Archived)
 - [old-ideas/](old-ideas/) — Previous versions and alternative resolution systems

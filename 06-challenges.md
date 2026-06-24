@@ -21,73 +21,78 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 
 ---
 
-## Tier vs Rank: Two Different Scales
+## Rank vs CR: Two Different Scales
 
-**Tier** and **Rank** measure different things and **don't map 1:1 by design**.
+**Rank** and **Challenge Rating (CR)** measure different things and **don't map 1:1 by design**.
 
-### Tier (Challenge Difficulty)
+### Rank (Narrative Scope & Stakes)
 
-**Tier measures how mechanically difficult** a Challenge is to overcome:
-- **Tier 0:** Trivial threats (untrained bandits, giant rats, common thugs)
-- **Tier 1:** Competent opposition (veteran soldiers, dire wolves, skilled guards)
-- **Tier 2:** Formidable foes (elite knights, young dragons, master thieves)
-- **Tier 3:** Legendary threats (ancient dragons, master assassins, archmages)
-- **Tier 4+:** World-ending entities (demon lords, gods, primordial forces)
+**Rank measures narrative significance** for both heroes and challenges:
 
-Tier determines:
-- How many Complications the Challenge has (0-3+)
-- How long Progress tracks are (2-10+ ticks)
-- How durable/resistant it is
+**Hero Rank (1-4):**
+- **Rank 1 (Local Heroes):** Village-scale, grounded struggles
+- **Rank 2 (Seasoned Adventurers):** Regional-scale, heroic fantasy
+- **Rank 3 (Regional Legends):** National-scale, mythic feats
+- **Rank 4 (Mythic Heroes):** World-scale, demigod-level
 
-### Rank (PC Narrative Genre)
+**Challenge Rank (1-4):**
+- Determines narrative scope and typical Complication count
+- **Rank 1:** 0 Complications (1 rarely)
+- **Rank 2:** 0-1 Complications (2 rarely)
+- **Rank 3:** 1-2 Complications (3 rarely)
+- **Rank 4:** 1-3 Complications (4 rarely)
 
-**Rank measures what genre of fantasy** the PCs are experiencing:
-- **Rank 1 (Local Heroes):** Grounded fantasy, realistic struggle
-- **Rank 2 (Seasoned Adventurers):** Heroic fantasy, peak mortals
-- **Rank 3 (Regional Legends):** Mythic fantasy, superhuman feats
-- **Rank 4 (Mythic Heroes):** Demigod fantasy, world-shaping
+### Challenge Rating / CR (Track Size & Durability)
 
-Rank determines:
-- What scale of actions you can attempt (narrative permission)
-- What genre tone the campaign operates in
-- What kinds of stories make sense
+**CR measures mechanical durability** — how many ticks it takes to overcome:
+- **CR 1:** 2 ticks (fragile, quick fights)
+- **CR 2:** 4 ticks (standard, balanced encounters)
+- **CR 3:** 6 ticks (durable, boss-tier)
+- **CR 4+:** 8+ ticks (very durable, epic encounters)
+
+**Note:** CR 3-4 challenges may get +1 Complication as a bonus, but this is not automatic.
 
 ### Why They Don't Match
 
-**Tier and Rank serve different purposes and intentionally don't correspond 1:1.**
+**Rank determines genre and Complications. CR determines durability. They serve different purposes.**
 
-**Example: Tier 4, Rank 1 (The Goblin King)**
-- **Tier 4:** Mechanically tough boss fight (long Harm track, 3 Complications, hits hard)
-- **Rank 1:** For starting heroes in grounded fantasy
-- **Result:** Climactic campaign finale where scrappy local heroes face their greatest threat
+**Example: CR 4, Rank 1 (The Goblin King)**
+- **CR 4:** Long fight (8 ticks), mechanically challenging boss
+- **Rank 1:** Local-scale threat, 0-1 Complications
+- **Result:** Climactic finale for starting heroes — tough but not defensively complex
 
-**Example: Tier 1, Rank 3 (Demon Spawn Minions)**
-- **Tier 1:** Mechanically easy (short track, 0-1 Complications)
-- **Rank 3:** Legendary heroes cutting through hordes
-- **Result:** Regional legends mowing down demon army minions (narratively impressive, mechanically trivial)
+**Example: CR 1, Rank 3 (Demon Spawn Minions)**
+- **CR 1:** Quick to defeat (2 ticks)
+- **Rank 3:** World-scale invasion, 1-2 Complications each
+- **Result:** Legendary heroes cutting through hordes of dangerous but fragile minions
+
+**Example: CR 2, Rank 4 (Ancient Dragon)**
+- **CR 2:** Standard durability (4 ticks)
+- **Rank 4:** World-ending threat, 1-3 Complications (Resilient, Deadly, Legendary)
+- **Result:** Intensely dangerous but can be defeated in single epic confrontation with right tactics
 
 ### Designing Challenges
 
-**Don't match Tier to Rank.** Instead:
+1. **Pick CR based on desired fight length:**
+   - Quick encounter? → CR 1-2
+   - Standard fight? → CR 2-3
+   - Boss battle? → CR 3-4+
 
-1. **Pick Tier based on desired difficulty:**
-   - Easy fight? → Tier 0-1
-   - Balanced encounter? → Tier 2
-   - Boss fight? → Tier 3-4+
+2. **Pick Rank based on narrative scope:**
+   - Local stakes? → Rank 1
+   - Regional stakes? → Rank 2
+   - National stakes? → Rank 3
+   - World-ending stakes? → Rank 4
 
-2. **Use Rank for narrative scope:**
-   - Rank 1: Village-scale threats (bandits, local monsters)
-   - Rank 2: City-scale threats (conspiracies, regional beasts)
-   - Rank 3: Nation-scale threats (armies, legendary monsters)
-   - Rank 4: World-scale threats (apocalyptic forces)
+3. **Assign Complications based on Rank** (use typical ranges as guidance)
 
 **A Rank 4 party can face:**
-- Tier 0-1 minions (mowing through armies)
-- Tier 2 elites (worthy opponents)
-- Tier 3-4 bosses (climactic battles)
-- Tier 5+ god-tier entities (world-ending threats)
+- CR 1, Rank 1 minions (cut through effortlessly)
+- CR 2, Rank 2 elites (brief but engaging)
+- CR 3, Rank 3 bosses (tactical, high-stakes)
+- CR 4+, Rank 4 titans (epic, world-shaping battles)
 
-The key: **Tier = mechanical challenge, Rank = narrative genre**. Use them together to create the right difficulty AND story tone.
+The key: **Rank = narrative scope & defenses, CR = fight duration**. Use them together to create the right challenge complexity AND length.
 
 ---
 
@@ -312,7 +317,7 @@ All Complications work the same **mechanically** (reduce outcome tier by 1), but
 ### Example: Ancient Red Dragon
 
 ```
-Ancient Dragon (Tier 4, Harm 8, Will 8)
+Ancient Dragon (CR 4, Harm 8, Will 8)
 Complications:
 - Resilient - impenetrable dragon scales
 - Warded - ancient magic resistance
@@ -347,7 +352,7 @@ Complications:
 ### Example: Fast Duelist
 
 ```
-Fast Duelist (Tier 2, Harm 4, Will 4)
+Fast Duelist (CR 2, Harm 4, Will 4)
 Complications:
 - Elusive - lightning reflexes, incredibly fast
 - Resolute - disciplined warrior
@@ -376,7 +381,7 @@ Complications:
 ### Example: Invisible Stalker
 
 ```
-Invisible Stalker (Tier 2, Harm 4)
+Invisible Stalker (CR 2, Harm 4)
 Complications:
 - Elusive (Natural Invisibility) - invisible and silent
 ```
@@ -402,7 +407,7 @@ Complications:
 ### Example: Vault Door (Obstacle)
 
 ```
-Ancient Vault Door (Tier 2, Obstacle 6)
+Ancient Vault Door (CR 2, Obstacle 6)
 Complications:
 - Resilient - thick steel construction
 - Complex - intricate lock mechanism
@@ -543,13 +548,13 @@ Challenge Moves are intentionally stronger than standard Impact Moves:
 
 **Hard Cap: 3 Stress maximum on any single Challenge Move**
 
-**Tier 1-2 (Minions/Standard):**
+**CR 1-2 (Minions/Standard):**
 - 2 Stress single target
 - OR 1-2 Stress + Condition tier 1-2
 - OR 1 Stress + Condition tier 3
 - Simple, straightforward effects
 
-**Tier 3-4 (Elite/Boss):**
+**CR 3-4 (Elite/Boss):**
 - 3 Stress single target (maximum)
 - OR 2 Stress + Condition tier 2-3
 - OR Area effects (multiple targets, 1-2 Stress each)
@@ -565,22 +570,22 @@ Challenge Moves are intentionally stronger than standard Impact Moves:
 
 **Examples:**
 
-**Ancient Dragon (Tier 4):**
+**Ancient Dragon (CR 4):**
 - **Burning Bite** - Close range, 3 Stress (unlimited)
 - **Tail Sweep** - All in Close range, 2 Stress + Prone 1 (unlimited)
 - **Wing Buffet [□□]** - All in Near range pushed to Far + 1 Stress (2 uses)
 - **Fire Breath [□□]** - All in Near range, 2 Stress + Burned 1 (2 uses)
 - **Frightful Roar [□]** - All in Near range, Frightened 2 (1 use)
 
-**Elite Knight (Tier 2):**
+**Elite Knight (CR 2):**
 - **Shield Bash** - Close range, 2 Stress + Stunned 1 (unlimited)
 - **Disarming Strike** - Close range, 2 Stress + Disarmed 1 (unlimited)
 
-**Drow Assassin (Tier 2):**
+**Drow Assassin (CR 2):**
 - **Poisoned Blade** - Close range, 1 Stress + Poisoned 3 (unlimited)
 - **Shadow Step [□□]** - Teleport to Near/Far position (2 uses)
 
-**Bandit (Tier 1):**
+**Bandit (CR 1):**
 - No Challenge Moves (uses standard Hard Moves: 2 Stress)
 
 ---
@@ -669,11 +674,11 @@ Instead of tracking 6 individual goblins with 6 separate tracks, use **one track
 **Use groups to increase an enemy's effective tier:**
 
 - **Tier 0 (No Track):** A single goblin, untrained peasant, lone wolf
-- **Tier 1 (2 ticks):** A small group of goblins (3-6), a pack of wolves, squad of bandits
-- **Tier 2 (4 ticks):** A large group of goblins (8-12), a veteran soldier squad (4-6)
-- **Tier 3 (6 ticks):** A warband of orcs (10-15), an elite knight squadron (6-8)
+- **CR 1 (2 ticks):** A small group of goblins (3-6), a pack of wolves, squad of bandits
+- **CR 2 (4 ticks):** A large group of goblins (8-12), a veteran soldier squad (4-6)
+- **CR 3 (6 ticks):** A warband of orcs (10-15), an elite knight squadron (6-8)
 
-**Rule of Thumb:** Grouping increases tier by +1. A single soldier (Tier 1, 2 ticks) becomes a squad of soldiers (Tier 2, 4 ticks). A single goblin (Tier 0, no track) becomes a goblin squad (Tier 1, 2 ticks).
+**Rule of Thumb:** Grouping increases tier by +1. A single soldier (CR 1, 2 ticks) becomes a squad of soldiers (CR 2, 4 ticks). A single goblin (Tier 0, no track) becomes a goblin squad (CR 1, 2 ticks).
 
 **Narrative Flexibility:** The exact number of enemies is flexible — "a squad of soldiers" might be 4 or 8 depending on the scene. The track represents their collective threat, not a precise headcount.
 
@@ -704,19 +709,19 @@ This gives you fodder (the group) plus a spotlight enemy (the leader) without ov
 
 ### Complication Rarity Guidance
 
-**Tier 1 (Minions):**
+**CR 1 (Minions):**
 - **0-1 Complications** - mostly standard
 - Example: Bandit (0 Complications), Guard Captain (**Resolute**)
 
-**Tier 2 (Standard):**
+**CR 2 (Standard):**
 - **0-1 Complications** - one notable trait
 - Example: Armored Knight (**Resilient**)
 
-**Tier 3 (Elite):**
+**CR 3 (Elite):**
 - **0-2 Complications** - multiple significant traits
 - Example: Elite Knight (**Deadly** + **Resilient**)
 
-**Tier 4 (Boss):**
+**CR 4 (Boss):**
 - **1-3 Complications** - legendary, multi-layered defenses
 - Example: Ancient Dragon (**Legendary** + **Resilient** + **Warded** + **Vigilant**)
 
@@ -765,28 +770,30 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 
 ## Building Encounters by Rank
 
-**Critical Distinction:** Tier measures sturdiness (track size), not narrative power. Rank determines Complications. A Tier 4 Challenge with no Complications is just durable, not world-shaking.
+**Critical Distinction:** Challenge Rating (CR) measures track size, not narrative power. Rank determines Complications. A CR 4 Challenge with no Complications is just durable, not world-shaking.
 
-### Understanding Tier vs Rank
+### Understanding CR vs Rank
 
-**TIER (mechanical):**
+**CR (mechanical durability):**
 - How long it takes to overcome (track size)
-- Tier 1 = 2 ticks, Tier 2 = 4 ticks, Tier 3 = 6 ticks, Tier 4 = 8 ticks
+- CR 1 = 2 ticks, CR 2 = 4 ticks, CR 3 = 6 ticks, CR 4 = 8+ ticks
 - NOT a measure of "power level" or "world-shaking threat"
 - Just sturdiness/resilience
 
-**RANK (narrative):**
-- The genre/scale of the Challenge
+**RANK (narrative scope & defenses):**
+- The scale/stakes of the Challenge
 - Determines how many/which Complications are appropriate
-- Rank 1-2 foes: Usually 0-1 Complications
-- Rank 3-4 foes: May have 2-4 Complications (mythic/legendary traits)
+- Rank 1: Usually 0 Complications (1 rarely)
+- Rank 2: Usually 0-1 Complications (2 rarely)
+- Rank 3: Usually 1-2 Complications (3 rarely)
+- Rank 4: Usually 1-3 Complications (4 rarely)
 
 **COMPLICATIONS:**
-- Tied to Rank, NOT Tier
+- Tied to Rank, NOT CR
 - Most foes have 0-1 Complications (keep them rare)
 - Complications are defining traits, not default features
-- A Tier 1 demonspawn can have Complications
-- A Tier 4 Goblin King might have none (just very durable)
+- A CR 1 demonspawn can have Complications (high Rank)
+- A CR 4 Goblin King might have none (just very durable, low Rank)
 
 ---
 
@@ -795,31 +802,31 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 **Rank 2 Party** = Action heroes (John Wick, Legolas, Batman-tier competence)
 
 **EASY ENCOUNTER:**
-- **3-4 Bandits** (grouped as single Tier 2 Challenge, 4-tick Harm, Squad)
+- **3-4 Bandits** (grouped as single CR 2 Challenge, 4-tick Harm, Squad)
 - Narrative: "Common thugs, no match for legends like you"
 - Challenge: Minimal—positioning and efficiency matter
 - Complications: 0-1 (maybe Squad to represent coordination)
 
 **STANDARD ENCOUNTER:**
-- **Veteran Knight** (Tier 2, 4-tick Harm, Heavy Armor [Resilient])
+- **Veteran Knight** (CR 2, 4-tick Harm, Heavy Armor [Resilient])
 - Narrative: "Skilled opponent, good test of your abilities"
 - Challenge: 1 Complication makes it interesting but manageable
 - Complications: 1 (armor is their defining feature)
 
 **TOUGH ENCOUNTER:**
-- **Elite Guard Captain** (Tier 3, 6-tick Harm, Resilient + Deadly)
+- **Elite Guard Captain** (CR 3, 6-tick Harm, Resilient + Deadly)
 - Narrative: "This is their champion—your equal in skill"
 - Challenge: Requires teamwork, Momentum spends, or clever tactics
 - Complications: 2 (elite combatant with exceptional gear)
 
 **BOSS ENCOUNTER:**
-- **Ogre Warlord** (Tier 4, 8-tick Harm, Deadly + Resilient)
+- **Ogre Warlord** (CR 4, 8-tick Harm, Deadly + Resilient)
 - Narrative: "Massive and dangerous—this will be a drawn-out fight"
 - Challenge: Very durable, requires sustained effort and resources
 - Complications: 2 (size/strength + tough hide, but still Rank 2 threat)
 
 **MYTHIC THREAT (Rank 3+ enemy):**
-- **Red Dragon** (Tier 4, 8-tick Harm, Legendary + Resilient + Deadly + Vigilant)
+- **Red Dragon** (CR 4, 8-tick Harm, Legendary + Resilient + Deadly + Vigilant)
 - Narrative: "This is beyond your Rank—you need tricks, not straight fights"
 - Challenge: 4 Complications = nearly impossible without preparation/special tools
 - Complications: 4 (Rank 3 creature has mythic defenses)
@@ -849,7 +856,7 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 - Near-unkillable without special measures
 - Example: Titan with Legendary + Resilient + Warded + Deadly + Elusive
 
-**Common Mistake:** Don't give every Tier 2+ enemy multiple Complications. Complications are RARE and DEFINING. A Tier 3 warrior is just a warrior with 6-tick Harm—they're durable, not necessarily complicated.
+**Common Mistake:** Don't give every CR 2+ enemy multiple Complications. Complications are RARE and DEFINING. A CR 3 warrior is just a warrior with 6-tick Harm—they're durable, not necessarily complicated.
 
 ---
 
@@ -864,7 +871,7 @@ This sidebar walks through creating a complete Challenge from concept to finishe
 **Step 1: Choose Tier (Track Size)**
 - This is a significant boss-tier encounter
 - Should require coordination but be beatable
-- **Decision: Tier 2** (4-tick Harm track)
+- **Decision: CR 2** (4-tick Harm track)
 
 **Step 2: Choose Rank (Complication Budget)**
 - This is a legendary-tier threat for the party's current Rank
@@ -874,7 +881,7 @@ This sidebar walks through creating a complete Challenge from concept to finishe
 **Step 3: Assign Tracks**
 - Can be fought physically → Harm track
 - Professional assassin, can potentially be negotiated with → Will track
-- **Harm: 4 ticks** (Tier 2 standard)
+- **Harm: 4 ticks** (CR 2 standard)
 - **Will: 6 ticks** (disciplined but not immune to persuasion, especially if offered better contract)
 
 **Step 4: Choose Complications**
@@ -895,7 +902,7 @@ Pick 2-3 signature moves with limited uses:
 **Finished Stat Block:**
 
 ```
-Drow Assassin (Tier 2, Rank 3)
+Drow Assassin (CR 2, Rank 3)
 Tracks: Harm 4, Will 6
 Complications:
 - Deadly - master combatant with poisoned blades (applies when attacking/being attacked)
@@ -926,7 +933,7 @@ Challenge Moves:
 **Step 1: Choose Tier (Track Size)**
 - Significant obstacle, not trivial
 - Should require sustained effort
-- **Decision: Tier 3** (6-tick Obstacle track)
+- **Decision: CR 3** (6-tick Obstacle track)
 
 **Step 2: Choose Rank (Complication Budget)**
 - Ancient wizard's work, legendary-tier protection
@@ -934,7 +941,7 @@ Challenge Moves:
 
 **Step 3: Assign Tracks**
 - Inanimate obstacle → only Obstacle track
-- **Obstacle: 6 ticks** (Tier 3 standard)
+- **Obstacle: 6 ticks** (CR 3 standard)
 
 **Step 4: Choose Complications**
 Multiple defenses, each blocks different approach:
@@ -955,7 +962,7 @@ Multiple defenses, each blocks different approach:
 **Finished Stat Block:**
 
 ```
-Ancient Vault Door (Tier 3, Rank 3, Obstacle)
+Ancient Vault Door (CR 3, Rank 3, Obstacle)
 Tracks: Obstacle 6
 Complications:
 - Resilient - reinforced steel construction (applies to forcing/breaking)
@@ -977,7 +984,7 @@ Trap Triggers (Challenge Moves):
 - **Scout first (Sense):** Find hidden keyhole → negates Complex for lockpicking approach
 - **Find key (narrative solution):** Bypasses entirely
 
-**Design Lesson:** 3 Complications doesn't mean "impossible" — it means "choose your approach carefully, only 1 applies." Tier 3 (6 ticks) + Rank 3 (3 Complications) = legendary protection that rewards smart planning.
+**Design Lesson:** 3 Complications doesn't mean "impossible" — it means "choose your approach carefully, only 1 applies." CR 3 (6 ticks) + Rank 3 (3 Complications) = legendary protection that rewards smart planning.
 
 ---
 
@@ -986,12 +993,12 @@ Trap Triggers (Challenge Moves):
 **3+ identical enemies = Single Challenge of higher Tier**
 
 Instead of tracking multiple 2-tick bandits, use:
-- **Bandit Squad** (Tier 2, 4-tick Harm, Squad or Pack Tactics)
+- **Bandit Squad** (CR 2, 4-tick Harm, Squad or Pack Tactics)
 - Represents coordinated group
 - Mark ticks as you defeat members of the group
 
 **Hybrid Approach:**
-- **Bandit Squad** (Tier 2, 4-tick, Squad) + **Bandit Captain** (Tier 2, 4-tick, Deadly)
+- **Bandit Squad** (CR 2, 4-tick, Squad) + **Bandit Captain** (CR 2, 4-tick, Deadly)
 - Two separate Challenges
 - Captain has defining Complication (skilled leader)
 - Squad just represents numbers
@@ -1002,18 +1009,18 @@ Instead of tracking multiple 2-tick bandits, use:
 
 **Not every Challenge needs Complications.** Reserve Complications for significant opposition with truly defining traits. Most Challenges have 0-1 Complications.
 
-### Challenge Tiers
+### Challenge Ratings (CR)
 
-Tiers represent durability—how long it takes to overcome:
+Challenge Rating represents durability—how long it takes to overcome:
 
-| Tier | Durability | Default Track Length | Typical Use |
-|------|------------|---------------------|-------------|
-| Tier 1 | Fragile | 2 ticks | Easy foes, simple obstacles |
-| Tier 2 | Sturdy | 4 ticks | Skilled/experienced foes, tough obstacles |
-| Tier 3 | Resilient | 6 ticks | Elite foes, risky/intensive obstacles |
-| Tier 4 | Very Durable | 8 ticks | Boss fights, incredibly dangerous/resilient obstacles |
+| CR | Durability | Default Track Length | Typical Use |
+|----|------------|---------------------|-------------|
+| CR 1 | Fragile | 2 ticks | Quick encounters, minor obstacles |
+| CR 2 | Sturdy | 4 ticks | Standard encounters, balanced fights |
+| CR 3 | Resilient | 6 ticks | Boss fights, major obstacles |
+| CR 4+ | Very Durable | 8+ ticks | Epic encounters, legendary entities |
 
-**Note:** Tier measures STURDINESS only, not narrative power or danger. Use Complications (especially Deadly) to adjust actual threat level.
+**Note:** CR measures track size only, not narrative power or danger. Use Rank (and its Complications) to adjust actual threat level and defensive complexity.
 
 **Base Impact Moves:**
 - **Soft Impact Move (Conflict):** Mark 1 Stress
@@ -1023,18 +1030,18 @@ Tiers represent durability—how long it takes to overcome:
 
 ### Challenge Design Matrix
 
-| Tier & Complications | Durability | Typical Examples |
-|---------------------|------------|------------------|
-| **Tier 1, 0 Complications** | Easy/Fragile | Common bandits, goblins, simple locked doors |
-| **Tier 1, 1 Complication** | Easy but tricky | Skilled archer (Vigilant), demonspawn minion (Deadly) |
-| **Tier 2, 0 Complications** | Sturdy | Veteran soldiers, knights, basic wards |
-| **Tier 2, 1 Complication** | Sturdy and defended | Armored knight (Resilient), warded vault, suspicious noble (Resolute) |
-| **Tier 2, 2 Complications** | Very challenging | Elite duelist (Deadly + Resilient), exceptionally skilled/equipped foe |
-| **Tier 3, 0 Complications** | Very durable | Goblin King (just lots of HP), tough obstacle |
-| **Tier 3, 1-2 Complications** | Elite threat | Boss-tier combatants, dangerous creatures |
-| **Tier 3-4, 3+ Complications** | Mythic/Legendary (Rank 3+) | Dragons, titans, demigods—requires special preparation |
+| CR & Rank | Track Size | Complications | Typical Examples |
+|-----------|------------|---------------|------------------|
+| **CR 1, Rank 1** | 2 ticks | 0 (1 rarely) | Common bandits, goblins, simple locked doors |
+| **CR 1, Rank 2** | 2 ticks | 0-1 | Skilled archer (Vigilant), veteran guard |
+| **CR 2, Rank 1** | 4 ticks | 0 (1 rarely) | Bandit leader, basic wards, sturdy obstacles |
+| **CR 2, Rank 2** | 4 ticks | 0-1 (2 rarely) | Armored knight (Resilient), warded vault, suspicious noble (Resolute) |
+| **CR 2, Rank 3** | 4 ticks | 1-2 | Elite duelist (Deadly + Resilient), master thief (Elusive + Vigilant) |
+| **CR 3, Rank 2** | 6 ticks | 0-1 | Durable veteran, tough boss without major defenses |
+| **CR 3, Rank 3** | 6 ticks | 1-2 (3 rarely) | Boss-tier combatants, dangerous creatures, legendary obstacles |
+| **CR 3-4, Rank 4** | 6-8+ ticks | 1-3 (4 rarely) | Dragons, titans, demigods—requires special preparation |
 
-**Balance Note:** Complications = preparation required, not Tier. Challenges with 2+ Complications usually require:
+**Balance Note:** Complications (from Rank) = preparation required, not CR. Challenges with 2+ Complications usually require:
 - Allies to Build Momentum for each other
 - Create an Opening Momentum spends (gain Edge to ignore Complications)
 - Talents that grant Edge or negate specific Complications
@@ -1068,9 +1075,9 @@ The **Harm track** represents physical damage and bodily defeat. When a Harm tra
 
 | Tier | Track Length | Examples |
 |------|-------------|----------|
-| Tier 1 | 2 ticks | Goblins, bandits, minor threats — one solid hit defeats them |
-| Tier 2 | 4 ticks | Knights, veterans, dangerous beasts — requires sustained effort |
-| Tier 3 | 6 ticks | Dragons, war trolls, elite foes — major threat, extended combat |
+| CR 1 | 2 ticks | Goblins, bandits, minor threats — one solid hit defeats them |
+| CR 2 | 4 ticks | Knights, veterans, dangerous beasts — requires sustained effort |
+| CR 3 | 6 ticks | Dragons, war trolls, elite foes — major threat, extended combat |
 | Boss | 8-10 ticks | Legendary adversaries, climactic encounters |
 
 ### Who Has a Harm Track
@@ -1378,7 +1385,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 
 ## Challenge Examples
 
-### Tier 1 Goblin Scout
+### CR 1 Goblin Scout
 - **Tier:** 1
 - **Tracks:** Harm 2, Will 2
 - **Traits:** "Easily Frightened" (Exploitable), "Pathetic" (can only trigger Soft Impact Moves)
@@ -1391,7 +1398,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 
 ---
 
-### Tier 2 Armored Knight
+### CR 2 Armored Knight
 - **Tier:** 2
 - **Tracks:** Harm 4, Will 4
 - **Complications:**
@@ -1411,7 +1418,7 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 
 ---
 
-### Tier 3 War Troll
+### CR 3 War Troll
 - **Tier:** 3
 - **Tracks:** Harm 6, Will 10 (nearly unbreakable resolve)
 - **Complications:**
@@ -1456,7 +1463,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ---
 
-### Tier 1 Zealot Priest
+### CR 1 Zealot Priest
 - **Tier:** 1
 - **Tracks:** Harm 2 (physically frail), Will 6 (fanatic devotion)
 - **Complications:**
@@ -1476,7 +1483,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ---
 
-### Tier 2 Ancient Vault Door
+### CR 2 Ancient Vault Door
 - **Tier:** 2
 - **Tracks:** Obstacle 6
 - **Complications:**
@@ -1493,7 +1500,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ---
 
-### Tier 2 Suspicious Noble
+### CR 2 Suspicious Noble
 - **Tier:** 2 (social opposition)
 - **Tracks:** Will 6 (strong-willed, resistant to manipulation)
 - **Complications:**
@@ -1513,7 +1520,7 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ---
 
-### Tier 3 Ancient Dragon (All Three Tracks)
+### CR 3 Ancient Dragon (All Three Tracks)
 - **Tier:** 3
 - **Tracks:** Harm 8, Will 6, Obstacle 4
 - **Complications:** 
@@ -1562,7 +1569,7 @@ Boss encounters should require **team coordination** and **multiple actions**.
 **Elements of Boss Design:**
 
 ### 1. High Tier + Multiple Traits
-- Tier 3 baseline
+- CR 3 baseline
 - 2-3 Complications
 - Exploitable weakness or contextual vulnerability
 
@@ -1582,7 +1589,7 @@ Boss encounters should require **team coordination** and **multiple actions**.
 - Dynamic battlefield (objectives beyond "kill the boss")
 
 **Example Boss: Ancient Lich**
-- **Tier 4**
+- **CR 4**
 - **Tracks:** Harm 10, Will 8, Obstacle 6
   - **Harm:** Physical destruction (very durable undead body)
   - **Will:** Breaking its grip on this plane (strong but possible with holy/divine persuasion)
@@ -1669,7 +1676,7 @@ Boss encounters should require **team coordination** and **multiple actions**.
 | Special Talents | Varies | *Cutting Words* marks Harm via Talk (rare exception) |
 
 **Track lengths:**
-- **Tier 1:** 2 ticks (fragile) | **Tier 2:** 4 ticks (standard) | **Tier 3:** 6 ticks (elite) | **Boss:** 8-10 ticks
+- **CR 1:** 2 ticks (fragile) | **CR 2:** 4 ticks (standard) | **CR 3:** 6 ticks (elite) | **Boss:** 8-10 ticks
 - **Asymmetry:** Mix track lengths to create interesting tactical choices (e.g., Harm 6, Will 2 = tough but easily scared)
 - **Track selection is prescriptive:** Signals what approaches work (Golem with Harm only = can't be reasoned with)
 
@@ -1734,9 +1741,9 @@ How significant is this threat?
 | **3** | Elite | 6 ticks | Champions, trolls, powerful mages, ancient monsters |
 | **4** | Boss | 8 ticks | Legendary threats, ancient dragons, demon lords |
 
-**Rule of thumb:** Most encounters should feature Tier 1-2 enemies. Reserve Tier 3-4 for significant story beats.
+**Rule of thumb:** Most encounters should feature CR 1-2 enemies. Reserve CR 3-4 for significant story beats.
 
-**Group Scaling:** Use groups to increase tier. A single goblin (Tier 0) becomes a goblin squad (Tier 1). A single soldier (Tier 1) becomes a squad of soldiers (Tier 2).
+**Group Scaling:** Use groups to increase tier. A single goblin (Tier 0) becomes a goblin squad (CR 1). A single soldier (CR 1) becomes a squad of soldiers (CR 2).
 
 ---
 
@@ -1819,7 +1826,7 @@ Reserve 3+ Complications for climactic encounters, legendary threats, and puzzle
 **Keep it simple:** 1-2 moves maximum. Don't overwhelm yourself with options.
 
 **Example:**
-> **Armored Knight (Tier 2):**
+> **Armored Knight (CR 2):**
 > - **Shield Bash [□□]:** When PC attacks in melee, counterattack (mark 1 Stress + push Close to Near range, 2 uses)
 > - **Rallying Cry [□]:** Create Rallied (Universal) [□□□] Environmental Complication on allies in Near range (1 use)
 
@@ -1872,9 +1879,9 @@ Use this table to estimate **how many rolls** it will take to overcome the Chall
 
 | Party Size | Enemy Tier | Complications | Notes |
 |------------|------------|---------------|-------|
-| 3-4 PCs | Tier 2 | 1-2 | Standard encounter |
-| 3-4 PCs | Tier 3 | 2 | Hard encounter, requires tactics |
-| 3-4 PCs | Tier 4 | 2-3 | Boss fight, set-piece encounter |
+| 3-4 PCs | CR 2 | 1-2 | Standard encounter |
+| 3-4 PCs | CR 3 | 2 | Hard encounter, requires tactics |
+| 3-4 PCs | CR 4 | 2-3 | Boss fight, set-piece encounter |
 
 **Single enemy encounters work best with:**
 - Higher Tier (3-4) to absorb focus-fire
@@ -1886,34 +1893,34 @@ Use this table to estimate **how many rolls** it will take to overcome the Chall
 ### Multiple Enemy Encounters
 
 **Enemy equivalence (rough guideline):**
-- **2 Tier 1** ≈ **1 Tier 2** (in total track length: 2×2 ticks = 4 ticks)
-- **3 Tier 1** ≈ **1 Tier 2** (accounting for positioning and vantage)
-- **2 Tier 2** ≈ **1 Tier 3**
+- **2 CR 1** ≈ **1 CR 2** (in total track length: 2×2 ticks = 4 ticks)
+- **3 CR 1** ≈ **1 CR 2** (accounting for positioning and vantage)
+- **2 CR 2** ≈ **1 CR 3**
 
 **Positioning and vantage matter:** Multiple enemies create tactical complexity through fictional positioning (surrounding PCs, blocking escape routes, protecting key targets). GMs can add temporary Complications when PCs are outnumbered or poorly positioned ("You're surrounded — treat this as 1 additional Universal Complication on your Defy to escape").
 
 **Encounter budget by difficulty:**
 
 **Easy (warm-up, resource drain):**
-- 3-4 PCs vs 2-3 Tier 1 enemies (0-1 Complications)
+- 3-4 PCs vs 2-3 CR 1 enemies (0-1 Complications)
 - Total: 4-6 ticks
 - Expected duration: 3-5 rolls per PC (5-10 minutes)
 
 **Standard (balanced challenge):**
-- 3-4 PCs vs 1 Tier 2 + 2 Tier 1 enemies (1 Complication on Tier 2)
-- OR: 3-4 PCs vs 3-4 Tier 2 enemies (0-1 Complications)
+- 3-4 PCs vs 1 CR 2 + 2 CR 1 enemies (1 Complication on CR 2)
+- OR: 3-4 PCs vs 3-4 CR 2 enemies (0-1 Complications)
 - Total: 8-12 ticks
 - Expected duration: 5-8 rolls per PC (10-15 minutes)
 
 **Hard (requires tactics, resource spend):**
-- 3-4 PCs vs 1 Tier 3 + 2 Tier 2 enemies (2 Complications on Tier 3)
-- OR: 3-4 PCs vs 2 Tier 3 enemies (1-2 Complications each)
+- 3-4 PCs vs 1 CR 3 + 2 CR 2 enemies (2 Complications on CR 3)
+- OR: 3-4 PCs vs 2 CR 3 enemies (1-2 Complications each)
 - Total: 12-18 ticks
 - Expected duration: 8-12 rolls per PC (15-25 minutes)
 
 **Boss (set-piece, potential for defeat):**
-- 3-4 PCs vs 1 Tier 4 (2-3 Complications) + waves of Tier 1 minions
-- OR: 3-4 PCs vs 1 Tier 4 (3 Complications) + environmental hazards
+- 3-4 PCs vs 1 CR 4 (2-3 Complications) + waves of CR 1 minions
+- OR: 3-4 PCs vs 1 CR 4 (3 Complications) + environmental hazards
 - Total: 8+ ticks on boss, additional minion waves
 - Expected duration: 10-15 rolls per PC (20-30 minutes)
 
@@ -1925,19 +1932,19 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **Example: Dragon Boss Fight**
 
-**Tier 4 | Dragon Body** (8 ticks)
+**CR 4 | Dragon Body** (8 ticks)
 - **Complications:** Resilient (impenetrable scales), Legendary (overwhelming presence)
 - **Challenge Moves:**
   - **Fire Breath [□□]** - All in Near range mark 2 Stress + Burned 1 (2 uses)
   - **Tail Sweep [□□□]** - All in Close range Defy or Prone 1 (3 uses)
 
-**Tier 3 | Dragon Wings** (6 ticks, separate track)
+**CR 3 | Dragon Wings** (6 ticks, separate track)
 - **Complications:** Elusive (buffeting winds, hard to hit)
 - **Challenge Move:** **Wing Buffet [□□]** - All in Near range pushed to Far, mark 1 Stress (2 uses)
 - **If destroyed:** Dragon cannot fly or escape
 
-**Tier 2 | Kobold Minions** (4 ticks, group track representing waves)
-- **Complications:** None (Tier 1 group scaled to Tier 2)
+**CR 2 | Kobold Minions** (4 ticks, group track representing waves)
+- **Complications:** None (CR 1 group scaled to CR 2)
 - **Challenge Move:** Die for Master — Swarm one PC (1 additional Complication on their actions this round)
 - Reinforcements arrive every 2 actions
 
@@ -2019,10 +2026,10 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 | Tier | Harm Track | Equivalent To |
 |------|------------|---------------|
 | **0** | 0 ticks | Narrative only (auto-defeated on any Success+) |
-| **1** | 2 ticks | 2 Tier 0, or 1/2 of Tier 2 |
-| **2** | 4 ticks | 2-3 Tier 1, or 1/2 of Tier 3 |
-| **3** | 6 ticks | 2-3 Tier 2, or 2/3 of Tier 4 |
-| **4** | 8 ticks | 2-3 Tier 3, or boss-level threat |
+| **1** | 2 ticks | 2 Tier 0, or 1/2 of CR 2 |
+| **2** | 4 ticks | 2-3 CR 1, or 1/2 of CR 3 |
+| **3** | 6 ticks | 2-3 CR 2, or 2/3 of CR 4 |
+| **4** | 8 ticks | 2-3 CR 3, or boss-level threat |
 
 ---
 
@@ -2032,10 +2039,10 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 | Total Ticks | Difficulty | Example Composition |
 |-------------|------------|---------------------|
-| **4-6** | Easy | 2-3 Tier 1 (2 ticks each) |
-| **8-12** | Standard | 1 Tier 2 + 2 Tier 1, or 2 Tier 2 |
-| **12-18** | Hard | 1 Tier 3 + 2 Tier 2, or 3 Tier 2 with Complications |
-| **16-24** | Boss | 1 Tier 4 (8 ticks, 2-3 Complications) + minion waves |
+| **4-6** | Easy | 2-3 CR 1 (2 ticks each) |
+| **8-12** | Standard | 1 CR 2 + 2 CR 1, or 2 CR 2 |
+| **12-18** | Hard | 1 CR 3 + 2 CR 2, or 3 CR 2 with Complications |
+| **16-24** | Boss | 1 CR 4 (8 ticks, 2-3 Complications) + minion waves |
 
 **Add Complications** to increase difficulty without adding more enemies.
 
@@ -2045,14 +2052,14 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 **GM needs a bandit ambush during travel:**
 
-1. **Tier:** Tier 1 (bandits are minions, use group scaling)
+1. **Tier:** CR 1 (bandits are minions, use group scaling)
 2. **Harm Track:** 2 ticks (representing 4-6 bandits as a group)
 3. **Complications:** 0 (easy warm-up encounter)
 4. **Challenge Move:** Coordinated Strike [□□] — When one bandit engages a PC, another attacks from flanking position (mark 1 Stress, 2 uses)
 5. **Exploitable:** Undisciplined — Intimidation grants 1 Boon (they break easily)
 6. **Estimate:** 2 ticks, 0 Complications = **1-2 rolls per PC = 3-5 minutes**
 
-**Result:** Bandit squad (Tier 1, 2 ticks, 0 Complications, group of 4-6 bandits) ambushes the party. Quick, punchy encounter to drain some Stress before the real challenge.
+**Result:** Bandit squad (CR 1, 2 ticks, 0 Complications, group of 4-6 bandits) ambushes the party. Quick, punchy encounter to drain some Stress before the real challenge.
 
 ---
 

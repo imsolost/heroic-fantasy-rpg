@@ -328,7 +328,7 @@ When you exploit a weakness, distraction, or opening, you can perform an action 
 You have Expertise when climbing, balancing, infiltrating, or traversing difficult structures — rooftops, walls, rigging, unstable surfaces. Push Yourself to reach a location that should be physically inaccessible — scaling a sheer surface, crossing an impossible gap, passing silently across something that shouldn't hold your weight.
 
 **Sneak Attack**
-You have Expertise when striking from a position of advantage in battle — concealment, surprise, or superior knowledge. Push Yourself to make your attack Potent.
+You have Expertise when striking from a position of advantage in battle — concealment, surprise, or superior knowledge. Push Yourself to make this attack Potent.
 
 **Slippery [ ] [ ]**
 Mark this to Resist a consequence caused by pursuit, detection, capture, or exposure.

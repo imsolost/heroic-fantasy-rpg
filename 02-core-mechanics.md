@@ -234,12 +234,42 @@ Boon and Bane represent advantage and disadvantage.
 - Environmental advantage (perfect lighting, stable footing, ideal weather)
 - Tactical superiority (outnumbering enemy, ambush, surprise)
 - Talents (specific circumstances)
-- Quick Assist (ally marks 1 Stress to grant you 1 Boon)
+- Assist (ally marks 1 Stress to grant you 1 Boon)
 - Push Yourself (mark 1 Stress to gain 1 Boon)
 
 **Maximum:** 2 Boons (+2d cap)
 
 **Multiple sources stack** — each grants +1d, up to the cap.
+
+---
+
+## Working Together
+
+Heroes are strongest when they work together. These mechanics cover how you can coordinate, support, and amplify each other's actions.
+
+### Assist
+
+When an ally makes an action roll, you may **mark 1 Stress** to grant them **1 Boon** before they roll. You don't need to take an action—describe how you're helping and mark the Stress.
+
+**Example:** "I steady your bow arm as you draw" (mark 1 Stress, ally gets +1d)
+
+**Limits:** You must be positioned to help fictionally. Multiple allies can Assist the same roll (each marking 1 Stress), but the +2 Boon cap still applies.
+
+### Setup
+
+When your action creates an opening or advantage for an ally's follow-up, the GM may grant them **1 Boon** on their next related action at no cost—you already spent your action creating the advantage.
+
+**Example:** "I tackle the guard to the ground" → Ally gets 1 Boon on their action to slip past him
+
+**The GM decides** when your action qualifies as Setup based on the fiction. Setup represents your action naturally flowing into their follow-up, not a separate cost.
+
+### Teamwork (3+ People)
+
+When 3 or more PCs work together on a single task, one person makes the primary roll with their full pool. The GM decides who rolls based on the fiction—sometimes it's the most skilled person (lifting a boulder together), sometimes it's the least skilled (sneaking past guards as a group).
+
+Other participants may **Assist** (mark 1 Stress each to grant +1 Boon each), subject to the +2 Boon cap.
+
+**Example:** Four PCs lift a portcullis. The GM says the Champion (highest Daring) rolls. Two others Assist (each marking 1 Stress). Champion rolls with +2 Boons.
 
 ---
 

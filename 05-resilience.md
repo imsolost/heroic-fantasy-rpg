@@ -32,7 +32,7 @@ Stress represents getting tired or rattled, taking a superficial wound, narrowly
 See **Chapter 4: Action Resolution** for complete Consequence framework.
 
 **Voluntarily (as a resource):**
-- **Quick Assist** → Mark 1 Stress to grant an ally 1 Boon on their next roll
+- **Assist** → Mark 1 Stress to grant an ally 1 Boon on their roll (see Chapter 2: Working Together)
 - **Push Yourself** → Mark 1 Stress to gain 1 Boon on your roll
 
 ### Recovery
@@ -391,5 +391,5 @@ When assigning a Burden, immediately clarify how it clears:
 | Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (Minor Consequence) or 2 (Major Consequence) |
 | Resist Consequence | Spend 1 Momentum, reduce Consequence Tier by 1 (automatic, no roll) |
-| Quick Assist | Mark 1 Stress, grant ally 1 Boon |
+| Assist | Mark 1 Stress, grant ally 1 Boon (see Chapter 2: Working Together) |
 | Push Yourself | Mark 1 Stress, gain 1 Boon |

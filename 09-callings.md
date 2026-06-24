@@ -22,18 +22,15 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 
 **Weapon Mastery:** You have Expertise with all weapons.
 
-**Combat Superiority:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
+**Martial Prowess:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
 
 ### Additional Talents
 
-**Martial Prowess**
-Push Yourself to perform a Potent feat of combat skill, athleticism, or battlefield mastery — cleaving through a shield wall, splitting an arrow mid-flight, an impossible athletic maneuver, or a devastating strike.
-
 **Battleborn [ ] [ ]**
-You have Expertise in feats of Athletics and Endurance. Mark this to Push Yourself in combat without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
+You gain 1 Edge when you Defy in battle. Mark this to Push Yourself in combat without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
 
-**Mighty**
-When given time, you can perform a Potent feat of raw strength or endurance — breaking barriers, moving impossible weights, enduring physical punishment. Push Yourself to do it immediately.
+**Titanic Might**
+You have Expertise in feats of raw strength, endurance, and athleticism. Push Yourself to perform a Potent feat of physical power — breaking barriers, moving impossible weights, cleaving through a shield wall, or an impossible athletic maneuver.
 
 **Fearsome Presence**
 You have Expertise in intimidation, threats, and commanding through force of personality. Push Yourself to perform a Potent feat of intimidation.
@@ -49,6 +46,18 @@ When you would be Taken Out, you may instead mark this to remain in the fight wi
 
 **One Against Many**
 When you are the only target of an enemy's attention — surrounded, cornered, or facing a threat alone — you gain 1 Edge on all combat actions. Push Yourself to perform a Potent feat of last-stand heroism.
+
+**Warlord**
+You have Expertise when directing allies in battle through tactical command — positioning, timing, and coordinated maneuvers rather than inspiration alone. Push Yourself to coordinate a group to accomplish a Potent tactical maneuver — a flawless ambush, a disciplined retreat, a shield wall, a cavalry charge.
+
+**Tough as Nails**
+You have Expertise when enduring pain, injury, exhaustion, or deprivation. Push Yourself to act at full capacity despite a Condition or Burden that would disable lesser warriors — fighting on a broken leg, moving through agony, running through collapse.
+
+**Combat Instinct**
+When you first enter a conflict, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
+
+**Brawler**
+You have Expertise when fighting unarmed or with improvised weapons. You treat unarmed strikes and improvised weapons as effective as any proper weapon in combat. Push Yourself to perform a Potent feat of bare-handed combat — shattering barriers with a strike, grappling creatures much larger than yourself, disarming armed opponents, or hurling someone with devastating force.
 
 
 
@@ -74,9 +83,6 @@ You are the shield that takes the blow so others don't have to.
 **Iron Bulwark**
 Increase your maximum Stress by 1. When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
 
-**Shield Wall**
-You have Expertise when protecting others from danger. Push Yourself to shield multiple allies at once.
-
 **Stand Fast**
 You can hold ground that should be indefensible. You have Expertise when holding ground or defending a fixed position. Push Yourself to prevent a threat from advancing, breaching, or overwhelming a position entirely.
 
@@ -99,7 +105,7 @@ You have Expertise when resisting effects that would move, displace, or knock yo
 When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
 
 **Inspire Greatness [ ] [ ]**
-When you Quick Assist an ally, you can mark this to also give that ally 1 Edge.
+When you Assist an ally, you can mark this to also give that ally 1 Edge.
 
 ---
 
@@ -192,6 +198,18 @@ You have Expertise when reading people, detecting lies, or sensing hidden motive
 
 **Pack Leader [ ] [ ]**
 Mark this to grant a nearby ally the benefit of your Hunter's Sense — they gain 1 Boon and Edge on their next action related to a target you've assessed.
+
+**Trapmaster**
+You have Expertise when creating, detecting, bypassing, or disarming traps and snares. When you prepare a trap in a specific location with time to work, it triggers with Potent effect — no roll required. Push Yourself to produce a Potent trap from available materials mid-scene, or to safely defuse something that should be impossible to disarm.
+
+**Beast Master [ ] [ ]**
+You have Expertise when calming, reading, or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Assist yourself or an ally (grants 1 Boon).
+
+**Trophy Hunter**
+When you defeat a significant creature, ask: "What can be learned from this kill?" The GM answers honestly. Push Yourself to extract a Potent tool, poison, remedy, or trophy from its remains that reflects what you learned.
+
+**Wilderness Ghost**
+You have Expertise when moving unseen, leaving no trace, or camouflaging yourself in natural terrain. Push Yourself to extend this to your entire group — concealing allies, erasing their trail, or hiding everyone in plain sight using the terrain itself.
 
 ---
 

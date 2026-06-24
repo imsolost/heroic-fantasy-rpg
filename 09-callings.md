@@ -107,6 +107,32 @@ You turn knowledge and preparation into decisive advantage.
 
 **Hunter's Expertise:** You have Expertise (see Chapter 3) in Tracking, Trapping, and Wilderness Survival.
 
+### Additional Talents
+
+**Master Tracker**
+You have 1 Edge when tracking. When you successfully track a target, also learn one additional detail about them (how many, how long ago, their condition, their destination). Push Yourself to track something that should be impossible to follow.
+
+**Monster Slayer**
+When you spend time studying a creature, ask: "What is its greatest weakness?" The GM answers honestly. Push Yourself to exploit that weakness with Potent effect.
+
+**Wilderness Survivor**
+You have 1 Edge when navigating, foraging, or surviving the wilderness. You can Push Yourself to Resist the consequences from weather, starvation, toxic environments, and exhaustion.
+
+**Sharpshooter**
+You have Expertise on ranged attacks. Push Yourself to perform a Potent feat of ranged precision — a trick shot, ricochet, split arrow, shooting through near-total cover, or threading an impossible angle.
+
+**Unstoppable**
+You ignore difficult terrain and environmental obstacles when moving. Push Yourself to perform a Potent feat of traversal — scaling a sheer wall, crossing an impossible gap, running through a hazard unharmed.
+
+**Relentless Pursuit [ ] [ ]**
+Mark this to immediately bypass a single obstacle preventing you from reaching your quarry — a barrier, a locked door, a crowd, a distance. Nothing stops the hunt.
+
+**Predator's Instinct**
+You have Expertise when reading people, detecting lies, or sensing hidden motives. When you successfully Sense someone's intentions, you also learn one thing they're trying to hide.
+
+**Pack Leader [ ] [ ]**
+Mark this to grant a nearby ally the benefit of your Hunter's Sense — they gain 1 Boon and Edge on their next action related to a target you've assessed.
+
 ---
 
 ## Sage

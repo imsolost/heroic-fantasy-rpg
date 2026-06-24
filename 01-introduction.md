@@ -1,68 +1,54 @@
 # Introduction
 
-Welcome to this streamlined, fiction-first heroic fantasy TTRPG system.
+Welcome to a heroic fantasy TTRPG built around a fast resolution engine, fiction-forward play, and a progression arc from grounded local heroes to world-shaping legends.
 
 ---
 
 ## What Is This Game?
 
-This is a tabletop roleplaying game where you play heroes in a dangerous, wondrous fantasy world. You'll face monsters, explore ruins, navigate political intrigue, and make choices that shape the story.
+This is a tabletop roleplaying game where you play heroes in a dangerous, wondrous fantasy world. You'll face monsters, explore ruins, navigate political intrigue, and make choices that shape the story. The core engine is fast to learn. The full system — Callings, Talents, Complications, spellcasting — rewards deeper engagement.
 
-**Inspired by:** Powered by the Apocalypse games (Masks, Thirsty Sword Lesbians, Chasing Adventure) and Forged in the Dark.
+**Inspired by:** Blades in the Dark, Powered by the Apocalypse games (Masks, Thirsty Sword Lesbians, Chasing Adventure), and Grimwild. Closer in structure to a midweight narrative game than a pure PbtA experience.
 
 **Core principles:**
-- **Fiction-first** — Actions flow from narrative, not mechanical lists
-- **Simple core functions** — Each action does ONE thing clearly
+- **Fiction-forward** — Mechanics give structure to narrative choices; they don't replace them
+- **Clear action economy** — Five Actions, each doing exactly one thing
 - **Dice pool resolution** — Roll Xd6, check highest die (+ look for double 6s)
-- **Meaningful choices** — Every roll should matter, every decision should have stakes
+- **Meaningful choices** — Momentum spending, Trait invocation, Complications create tactical depth
+- **Heroic progression** — Four Ranks of play, from village-level stakes to world-ending threats
 
 ---
 
-## Core Concepts
+## How It Works
 
-### Five Actions (What You Do)
+**The core loop:**
 
-Each Action has a **Primary Effect**:
-
-1. **Defy → Overcome** — Dodge attacks, resist danger, push past obstacles (marks Obstacle track or Progress tracks, see Chapter 4)
-2. **Clash → Harm** — Force compliance through violence, break resistance (marks Harm or Will track—see Chapter 4). *Clash breaks resistance.*
-3. **Talk → Influence** — Persuade, deceive, negotiate to change minds (marks Will track). *Talk changes minds.*
-4. **Sense → Assess** — Ask 2 questions (1 on Conflict) to understand the situation
-5. **Know → Recall** — GM tells you something useful + you ask 1 clarifying question
-
-**Clash vs Talk:** Both can mark Will tracks, but produce different outcomes—Clash breaks them through force/fear, Talk persuades through reason/appeal. See Chapter 4 for the critical distinction.
+1. **GM frames the situation** — "The guard captain blocks your path. What do you do?"
+2. **You describe your action** — "I try to talk my way past him"
+3. **GM calls for a roll if uncertain** — "Roll Talk + Charm"
+4. **You roll your dice pool** — (Approach rating + advantages - disadvantages)
+5. **Check the highest die** — Four outcomes: Setback / Conflict / Success / Triumph
+6. **GM narrates the result** — Success with consequences, complications, or clean victories
 
 ---
 
-### Understanding Actions and Effects
+## Five Actions
 
-Each of the 5 Actions has two names:
+When you act, choose one:
 
-**Action Name** (what you say at the table):
-- "I **Defy** the dragon's flames"
-- "I **Clash** with the knight"
-- "I **Talk** to the guard"
+1. **Defy** — Push past danger, overcome obstacles, resist harm
+2. **Clash** — Break resistance through force or intimidation
+3. **Talk** — Win someone over through appeal, reason, or deception
+4. **Sense** — Ask questions to assess the situation (2 on Success, 1 on Conflict)
+5. **Know** — Recall useful information from your knowledge and experience
 
-**Primary Effect** (mechanical result in the rules):
-- Defy → **Overcome** (mark Obstacle track or automatically overcome simple barriers)
-- Clash → **Harm** (mark Harm or Will track)
-- Talk → **Influence** (mark Will track)
-- Sense → **Assess** (ask questions)
-- Know → **Recall** (GM tells you + clarifying question)
-
-**Why both names?** Action names are evocative player verbs. Primary Effects describe what mechanically happens when you succeed. Use Action names during play; Primary Effects are reference terms in the rules.
-
-**Example:**
-> **Player:** "I Clash with the troll!"
-> **GM:** "Roll Clash + Daring."
-> **[Player rolls Conflict]**
-> **GM:** "You succeed—the Clash's Primary Effect is Harm, so mark 1 tick on the troll's Harm track. But you also take a Minor Consequence..."
-
-Throughout this rulebook, you'll see both terms. Just remember: **Actions are what you do, Effects are what happens.**
+Each Action has specific mechanical effects detailed in Chapter 4.
 
 ---
 
-### Five Approaches (How You Act)
+## Five Approaches
+
+Approaches describe **how** you act. Each is rated 0–3.
 
 - **Daring** — Bold, forceful, aggressive
 - **Grace** — Agile, precise, controlled
@@ -70,57 +56,50 @@ Throughout this rulebook, you'll see both terms. Just remember: **Actions are wh
 - **Cunning** — Clever, indirect, calculating
 - **Spirit** — Willful, passionate, determined
 
-Starting array: **3/2/1/1/0** (assign as desired)
+**Starting array:** 3/2/1/1/0 (assign as desired)
 
-### Four Outcomes
+Your dice pool = Approach rating + advantages - disadvantages (modified by Boons and Banes).
 
-Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check highest die:
+---
 
-- **Setback** (all 1-3) — Failure with consequences
-- **Conflict** (any 4-5) — Success with consequence
-- **Success** (any 6) — Clean success
-- **Triumph** (two+ 6s) — Heroic success (gain 1 Momentum, ignore all Complications)
+## Four Outcomes
 
-**Complications:** Challenges have **Complication tags** (8 total) that describe their defenses:
-- **Resilient** (hard to damage), **Warded** (magically protected), **Elusive** (hard to affect/detect—varies by fiction)
-- **Vigilant** (watchful, hard to deceive/surprise), **Complex** (hard to solve), **Resolute** (strong-willed)
-- **Deadly** (dangerous in combat), **Legendary** (applies to all actions)
+Roll your dice pool (Xd6) and check **the highest single die**:
 
-*(See Chapter 6: Challenges for complete tag descriptions)*
+- **Setback** (all dice 1-3) — Things go wrong; the situation worsens
+- **Conflict** (any 4-5) — You succeed, but face a consequence
+- **Success** (any 6) — You accomplish your intent cleanly
+- **Triumph** (two or more 6s) — Heroic success; gain Momentum and ignore enemy defenses
 
-*Note: Multiple Complications can push Setback even further into **Disaster** (Severe Consequence) — see Chapter 4 for full rules.*
+**Complications:** Enemies and obstacles have defensive traits (like **Resilient** or **Elusive**) that can reduce your outcome by one tier after you roll. Triumph ignores all Complications. See Chapter 6 for the full tactical system.
 
-### Momentum (Metacurrency)
+---
 
-**Earn:** Triumph (double 6s), Trigger Tangle (character-driven complication), Build Momentum (Trait Special Effect)
+## Key Mechanics
+
+### Momentum
+
+**Earn:** Roll Triumph (double 6s), create complications for yourself that drive the story, or choose Build Momentum when you successfully invoke a Trait
 
 **Spend:**
-- **Create an Opening (1)** — Gain 1 Boon and 1 Edge (ignore 1 Complication), enable extraordinary feats
-- **Resist Consequence (1)** — Reduce Consequence Tier by 1 (automatic, no roll)
+- **Create an Opening (1 Momentum)** — Gain +1d and ignore one enemy Complication, plus narrative permission for extraordinary feats
+- **Resist Consequence (1 Momentum)** — Reduce harm or setbacks
 
-**Cap:** 2 (can be increased to 3 with Talent)
-
-### Expertise
-
-**Expertise:** Some Talents grant Expertise in a specific domain (e.g., "Expertise: Stealth and Thievery" or "Expertise: Your Chosen Sphere"). When you act within your Expertise and roll Setback, the outcome becomes Conflict instead. You succeed, but still face consequences—representing how your mastery pulls victory from failure.
-
-**Example:** A Shadow with Expertise in Stealth rolls Setback while sneaking past guards. Expertise converts it to Conflict—they succeed in staying hidden (mark progress) but suffer a Minor Consequence (maybe a close call that costs 1 Stress from the tension).
+**Starting cap:** 2 (some Talents raise this to 3)
 
 ### Resilience
 
-**Stress Track:** 5 boxes — absorbs harm from all sources, clears on short rest (1 hour, safe location)
+**Stress Track:** 5 boxes that absorb harm. Clears on short rest (1 hour, safe location).
 
-**Conditions:** Named temporary impairments (Poisoned, Frightened, Wounded, etc.)
-- Each Condition = 1 Bane (you can have multiple Conditions)
-- Pool modifier cap: ±2d (after Boons/Banes cancel 1:1) — universal rule
-- Tier (1-3) = duration, reduces by 1 per relevant action roll
-- Clear when tier reaches 0 OR on short rest (1 hour, safe location)
-- Example: Poisoned 2 → act through it → Poisoned 1 → act again → clears
-- Example: 3 Conditions = 3 Banes → capped at -2d to your pool
+**Conditions:** Temporary impairments like *Poisoned*, *Frightened*, or *Wounded*. Each applies a penalty to your rolls until cleared through action or rest.
 
-**Burdens:** Persistent Conditions that don't clear on short rest
-- Most common source: Stress overflow (when Stress full, choose: take Burden or be Taken Out)
-- Recover via Long Rest (1 tier per rest) or special narrative resolution (curses, afflictions)
+See Chapter 5 for complete rules.
+
+### Traits
+
+You define your character with **3 Traits** — an Origin, a Profession, and a Personal quality. When you invoke a Trait that's relevant to your action and roll Conflict or better, choose a bonus effect (greater impact, secondary effect, or gain Momentum).
+
+See Chapter 3 for character creation.
 
 ---
 
@@ -129,41 +108,42 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 **For Players:**
 1. Choose your Approaches (3/2/1/1/0)
 2. Choose 3 Traits that define your character (Origin, Profession, Personal)
-3. Write down 5 Stress boxes and your Momentum cap (2)
-4. Play — describe what you do, roll when outcome uncertain
+3. Choose a Calling — your character archetype — which gives you a Core Talent
+4. Write down 5 Stress boxes and Momentum cap (2)
+5. Play — describe what you do, roll when the outcome is uncertain
 
 **For GMs:**
-1. Frame situations with stakes
+1. Frame situations with clear stakes
 2. Ask "What do you do?"
-3. Call for rolls when outcome uncertain
+3. Call for rolls when outcome is uncertain and both success and failure are interesting
 4. Telegraph danger before delivering consequences
 5. Make the world feel alive and reactive
 
 **When to roll:**
-- Outcome uncertain AND both success/failure interesting
-- If failure just stalls, don't roll — let them succeed or reframe
+- Outcome uncertain AND both success and failure are interesting
+- If failure would just stall progress, don't roll — let them succeed or reframe the situation
 
 ---
 
 ## Example of Play
 
-**GM:** "You're sneaking through the castle kitchen. The guards just changed shifts — two of them are by the door, distracted. The pantry door is across the room. What do you do?"
+**GM:** "You're sneaking through the castle kitchen. Two guards by the door are distracted. The pantry is across the room. What do you do?"
 
-**Player (Kael):** "I wait for them to look away, then dash silently to the pantry. Defy with Grace."
+**Player (Kael):** "I wait for them to look away, then dash silently to the pantry."
 
-**GM:** "Roll it. You have Grace 3, so 3d6."
+**GM:** "That's Defy with Grace. Roll it."
 
-**Player:** *Rolls 3d6: 2, 5, 6* "A 6 — Success!"
+**Player:** *Rolls 3d6 (Grace 3): 2, 5, 6* "A 6 — Success!"
 
-**GM:** "You slip past like a shadow. The guards never even glance your way. You're in the pantry. What do you do?"
+**GM:** "You slip past like a shadow. You're in the pantry. What now?"
 
-**Player:** "I search for the storeroom key the contact mentioned."
+**Player:** "I search for the storeroom key."
 
-**GM:** "That's Sense — roll to Assess. What question do you want answered?"
+**GM:** "That's Sense to assess. Roll it, and tell me what question you want answered."
 
-**Player:** *Rolls 3d6: 4, 5, 5* "A 5 — Conflict. My question: Where is the key hidden?"
+**Player:** *Rolls 3d6: 4, 5, 5* "A 5 — Conflict. Where is the key hidden?"
 
-**GM:** "You find it tucked behind a flour sack. But as you grab it, you hear footsteps approaching the pantry. Someone's coming. What do you do?"
+**GM:** "You find it tucked behind a flour sack. But you hear footsteps — someone's coming to the pantry. What do you do?"
 
 ---
 
@@ -171,37 +151,43 @@ Roll Xd6 (pool = Approach + Boons - Banes, **cap ±2d after canceling**), check 
 
 **Chapter 2: Core Mechanics** — Dice rolling, Boon/Bane, probability, advancement
 
-**Chapter 3: Characters** — Traits, Talents, character creation
+**Chapter 3: Characters** — Traits, Callings, character creation and advancement
 
-**Chapter 4: Action Resolution** — Complete action roll procedures, track types
+**Chapter 4: Action Resolution** — Complete action procedures, consequence framework
 
-**Chapter 5: Resilience** — Full Stress & Conditions rules
+**Chapter 5: Resilience** — Full Stress, Conditions, and Burdens rules
 
-**Chapter 6: Challenges** — Creating enemies, Complications, tactical depth
+**Chapter 6: Challenges** — Creating enemies and obstacles, Complication system
 
 **Chapter 7: GM Guide** — Principles, moves, difficulty, pacing
 
 **Chapter 8: Combat** — Combat flow, enemy design, tactical considerations
 
-**Chapter 9: Callings**
+**Chapter 9: Callings** — The six archetypes and their Talent trees
 
-**Chapter 10: Spellcasting**
+**Chapter 10: Spellcasting** — Magical systems for Sage and Mystic
 
 ---
 
 ## Design Goals
 
 This system aims to:
-- **Start play quickly** — Make characters in 10 minutes, learn rules in 20
-- **Focus on fiction** — Mechanics support narrative, not the other way around
-- **Create heroic feel** — Low failure rates (12% Setback at 3d6), high competence
-- **Provide meaningful choices** — Momentum spending, Trait invocation, tactical positioning
-- **Avoid death spirals** — Conditions cap at 2 Banes, clear on rest
+
+- **Fast core loop** — The resolution engine takes minutes to explain; full mastery comes through play
+- **Fiction-forward** — Mechanics give structure to choices; they don't replace narrative judgment
+- **Heroic feel** — Low failure rates (12% Setback at 3d6) create competent heroes from session one
+- **Tactical depth without complexity overhead** — Complications reward clever play without requiring constant rulebook lookups
+- **Real GM tools** — Challenge design, encounter budgeting, and structured GM moves provide guidance without railroading
+- **Meaningful progression** — Four Ranks of play, each with a distinct feel, from grounded local heroes to world-shaping legends
 
 **Not trying to:**
-- Simulate realistic injury or combat
-- Provide granular tactical combat on a grid
-- Model every possible action with unique mechanics
-- Create long-term resource management across campaigns
+- Simulate realistic injury or granular combat physics
+- Provide a fully improvisational experience — this game has real rules that reward learning
+- Model every possible action with a unique mechanic
+- Create long-term resource attrition across sessions
 
-This is a game about **competent heroes facing danger, making hard choices, and shaping the story through their actions**.
+**Expected prep:** GMs design Challenges in advance (stats, defenses, special moves). Scenes flow improvisationally within that structure.
+
+---
+
+This is a game about **capable heroes facing danger, making hard choices, and leaving a mark on the world.**

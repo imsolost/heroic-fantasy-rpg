@@ -39,7 +39,7 @@ When you act, choose one:
 1. **Defy** — Push past danger, overcome obstacles, resist harm
 2. **Clash** — Break resistance through force or intimidation
 3. **Talk** — Win someone over through appeal, reason, or deception
-4. **Sense** — Ask questions to assess the situation (2 on Success, 1 on Conflict)
+4. **Sense** — Ask questions to assess the situation (2 questions; Conflict adds Minor Consequence)
 5. **Know** — Recall useful information from your knowledge and experience
 
 Each Action has specific mechanical effects detailed in Chapter 4.
@@ -97,7 +97,12 @@ See Chapter 5 for complete rules.
 
 ### Traits
 
-You define your character with **3 Traits** — an Origin, a Profession, and a Personal quality. When you invoke a Trait that's relevant to your action and roll Conflict or better, choose a bonus effect (greater impact, secondary effect, or gain Momentum).
+You define your character with **3 Traits** — an Origin, a Profession, and a Personal quality.
+
+**When you roll Conflict or better** and a Trait is relevant to your action, you may invoke it to choose one Special Effect:
+- **Greater Effect** — Increased impact or scope
+- **Secondary Effect** — Additional fictional outcome beyond primary intent
+- **Build Momentum** — Gain 1 Momentum
 
 See Chapter 3 for character creation.
 

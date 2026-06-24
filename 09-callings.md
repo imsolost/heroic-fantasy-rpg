@@ -51,7 +51,7 @@ When you are the only target of an enemy's attention — surrounded, cornered, o
 You have Expertise when directing allies in battle through tactical command — positioning, timing, and coordinated maneuvers rather than inspiration alone. Push Yourself to coordinate a group to accomplish a Potent tactical maneuver — a flawless ambush, a disciplined retreat, a shield wall, a cavalry charge.
 
 **Tough as Nails**
-You have Expertise when enduring pain, injury, exhaustion, or deprivation. Push Yourself to act at full capacity despite a Condition or Burden that would disable lesser warriors — fighting on a broken leg, moving through agony, running through collapse.
+When you clear a Condition or Burden tier through action or rest, reduce it by 2 tiers instead of 1. Push Yourself to act at full capacity despite a Condition or Burden that would disable lesser warriors — fighting on a broken leg, moving through agony, running through collapse.
 
 **Combat Instinct**
 When you first enter a conflict, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
@@ -81,7 +81,7 @@ You are the shield that takes the blow so others don't have to.
 ### Additional Talents
 
 **Iron Bulwark**
-Increase your maximum Stress by 1. When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
+When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
 
 **Stand Fast**
 You can hold ground that should be indefensible. You have Expertise when holding ground or defending a fixed position. Push Yourself to prevent a threat from advancing, breaching, or overwhelming a position entirely.
@@ -89,8 +89,11 @@ You can hold ground that should be indefensible. You have Expertise when holding
 **Shield Master**
 You have Expertise when using a shield to protect yourself or others. Push Yourself to perform a Potent feat with your shield — blocking an area attack, creating cover for multiple allies, or turning a blow that would destroy a lesser shield.
 
-**Bodyguard**
-You have Expertise when watching for threats against a specific person or group. Push Yourself to intercept danger before it reaches its target — physically interposing, shouting a warning, or acting in the fraction of a second that makes the difference.
+**Bodyguard [ ] [ ]**
+Choose an ally within Close range as your ward. You may Assist your ward's defensive actions without marking Stress. Mark this to reduce a Consequence your ward suffers by one step. Your ward remains protected until they leave Close range or you designate a different ally.
+
+**Danger Sense**
+You have Expertise when keeping watch for threats or detecting ambushes. Whenever you enter a dangerous situation, you may ask the GM: "What danger threatens my allies here?" The GM answers with the most immediate threat.
 
 **Commander**
 You have Expertise when organizing groups, establishing chains of command, maintaining discipline, and coordinating sustained operations — sieges, expeditions, campaigns, or any situation requiring a group to function under pressure over time. Push Yourself to inspire extraordinary resolve in a group that is wavering, broken, or on the edge of collapse.
@@ -102,7 +105,7 @@ When given time, you can establish a Sanctuary — a place of genuine safety for
 You have Expertise when resisting effects that would move, displace, or knock you prone. Push Yourself to completely ignore such an effect.
 
 **Indomitable**
-When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
+Increase your maximum Stress by 1. When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
 
 **Inspire Greatness [ ] [ ]**
 When you Assist an ally, you can mark this to also give that ally 1 Edge.

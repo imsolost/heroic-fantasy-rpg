@@ -19,9 +19,36 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 
 ### Core Talent
 **MARTIAL SUPERIORITY**
-When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
 
-### Additional Talents (Examples)
+**Weapon Mastery:** You have Expertise with all weapons.
+
+**Combat Mastery:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1 (still one Trait invocation — you just gain two Special Effects from it).
+
+### Additional Talents
+
+**Martial Prowess**
+Push Yourself to perform a Potent feat of combat skill, athleticism, or battlefield mastery — cleaving through a shield wall, splitting an arrow mid-flight, an impossible athletic maneuver, or a devastating strike.
+
+**Battleborn [ ] [ ]**
+You have Expertise in feats of Athletics and Endurance. Mark this to Push Yourself in combat without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
+
+**Mighty**
+When given time, you can perform a Potent feat of raw strength or endurance — breaking barriers, moving impossible weights, enduring physical punishment. Push Yourself to do it immediately.
+
+**Fearsome Presence**
+You have Expertise in intimidation, threats, and commanding through force of personality. Push Yourself to perform a Potent feat of intimidation.
+
+**Iron Will**
+You have Expertise when Defying fear, coercion, temptation, or any attempt to break your resolve. Push Yourself to completely ignore an effect that would compel, dominate, or subvert your will.
+
+**Hold the Line [ ] [ ]**
+Mark this when an enemy attempts to move past you to reach an ally or objective. Make a Clash roll. On Conflict or better, you stop their movement.
+
+**Defy Death [ ] [ ]**
+When you would be Taken Out, you may instead mark this to remain in the fight with 1 Stress remaining. Push Yourself to stay standing through a consequence that would floor anyone else.
+
+**One Against Many**
+When you are the only target of an enemy's attention — surrounded, cornered, or facing a threat alone — you gain 1 Edge on all combat actions. Push Yourself to perform a Potent feat of last-stand heroism.
 
 
 
@@ -217,7 +244,7 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 ## Quick Reference
 
-**Champion:** Martial excellence specialist, Martial Superiority (2 Special Effects in combat)
+**Champion:** Martial excellence specialist, Martial Superiority (Expertise with all weapons, 2 Special Effects in combat)
 
 **Vanguard:** Protector, Guardian's Sacrifice (suffer consequence for ally, reduce severity)
 

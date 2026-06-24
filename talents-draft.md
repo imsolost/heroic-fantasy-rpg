@@ -2,14 +2,15 @@
 
 ## Champion
 
+**Core Talent:** MARTIAL SUPERIORITY
+- **Weapon Mastery:** You have Expertise with all weapons.
+- **Combat Mastery:** When you invoke your Trait in combat, choose 2 different Special Effects instead of 1.
+
 ### Martial Prowess
-You can Push Yourself to perform a Potent feat of combat skill, athleticism, or battlefield mastery.
+Push Yourself to perform a Potent feat of combat skill, athleticism, or battlefield mastery — cleaving through a shield wall, splitting an arrow mid-flight, an impossible athletic maneuver, or a devastating strike.
 
 ### Battleborn [ ] [ ]
 You have Expertise in feats of Athletics and Endurance. Mark this to Push Yourself in combat without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
-
-### Weapon Mastery
-You have Expertise with all weapons. Push Yourself to perform a Potent feat using a weapon — a ricochet shot, a cleave through a shield wall, splitting an arrow mid-flight, pinning someone by their sleeve.
 
 ### Mighty
 When given time, you can perform a Potent feat of raw strength or endurance — breaking barriers, moving impossible weights, enduring physical punishment. Push Yourself to do it immediately.

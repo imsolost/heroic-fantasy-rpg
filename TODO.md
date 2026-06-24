@@ -65,6 +65,58 @@ Create a comprehensive "Session in Play" chapter showing how different scene typ
 
 ## Medium Priority
 
+### Vantage Framework Expansion
+**Priority:** Medium  
+**Estimated Effort:** Large
+
+**Current State:**
+- Vantage mentioned in Chapter 2 (core-mechanics.md) as three-tier permission model
+- Used in Chapter 6 (challenges.md) for bypassing Complications through fictional positioning
+- Briefly referenced in gm-cheat-sheet.md
+- Lacks comprehensive treatment as core permission layer
+
+**Gap Analysis:**
+- No dedicated section explaining three-tier permission model (Clear/Limited/No Vantage)
+- Insufficient examples of how Conditions remove Vantage
+- Missing guidance on adjudicating edge cases ("Can I do this?")
+- Underdeveloped interaction with Complications (when does fiction remove Complications vs remove Vantage?)
+- Limited GM guidance on using Vantage as pacing/challenge tool
+
+**Potential Improvements:**
+1. **Expand Chapter 2 section on Vantage**
+   - Dedicated subsection with clear three-tier framework
+   - 10-15 concrete examples across different scenarios (combat, social, exploration)
+   - Decision tree for "Can I attempt this?" questions
+   
+2. **Add GM guidance section in Chapter 7**
+   - How to use Vantage as difficulty lever (fiction > Banes)
+   - When to say "you don't have Vantage" vs "roll with Banes"
+   - Examples of Conditions/Burdens removing Vantage
+   
+3. **Integration with existing systems**
+   - Clarify Vantage vs Complications interaction
+   - How Talents grant Vantage (Expertise = always have Vantage in domain)
+   - Equipment and fictional positioning as Vantage sources
+
+4. **Consider Grimwild's approach (from context)**
+   - Conditions reduce Vantage (can't swing sword with broken arm)
+   - Buffs/magic expand Vantage (flight spell = Vantage for aerial maneuvers)
+   - Environmental factors modify Vantage (oil-slicked floor = no Vantage for acrobatics)
+
+**Design Questions to Resolve:**
+- Should Vantage be explicit (GM states "you have/don't have Vantage") or implicit?
+- How does this interact with "fiction first" philosophy?
+- Risk of over-systematizing what should be common sense?
+
+**Location Options:**
+- Expand Chapter 2 "Vantage" section significantly (currently ~200 words → ~1000 words)
+- Add "Adjudicating Vantage" section to Chapter 7 (GM Guide)
+- Create callout boxes in relevant chapters showing Vantage in action
+
+**Target Outcome:** Clear framework that GMs can use to confidently answer "Can I do this?" without feeling arbitrary, while maintaining fiction-first approach.
+
+---
+
 ### Scene-Long Debuff Counter-Play Guidance
 **Priority:** Medium  
 **Estimated Effort:** Small

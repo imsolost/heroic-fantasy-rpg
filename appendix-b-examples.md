@@ -28,7 +28,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Kael:** "My track is full. I'll take a Burden — Wounded 1."
 
-**GM:** "The arrow bites into your thigh. Wounded 1 (Burden) — that's 1 Bane on all rolls. It won't clear on short rest, but ticks down through action."
+**GM:** "The arrow bites into your thigh. Wounded 1 (Burden) — that's 1 Bane on all rolls. It won't clear on Short Rest, but ticks down through action."
 
 ---
 
@@ -129,7 +129,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Finn:** "I'll take a Burden — Wounded 1. I need to stay in the fight."
 
-**GM:** "The spear slashes across your arm. Wounded 1 (Burden) — that's 1 Bane. It won't clear on short rest, but will tick down through action."
+**GM:** "The spear slashes across your arm. Wounded 1 (Burden) — that's 1 Bane. It won't clear on Short Rest, but will tick down through action."
 
 ---
 
@@ -137,7 +137,7 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 
 **Finn:** "I'll take Wounded 2 as a Burden."
 
-**GM:** "The impact cracks your ribs. Wounded 2 (Burden) — 1 Bane for the next two action rolls, then it'll tick down to Wounded 1. This one's persistent — won't clear on short rest."
+**GM:** "The impact cracks your ribs. Wounded 2 (Burden) — 1 Bane for the next two action rolls, then it'll tick down to Wounded 1. This one's persistent — won't clear on Short Rest."
 
 ---
 
@@ -176,14 +176,14 @@ For the core rules, see [05-resilience.md](05-resilience.md).
 - Aria: Poisoned 3 (1 Bane), 5/5 Stress
 - Finn: Bleeding 1 (1 Bane), 3/5 Stress
 
-**GM:** "You catch your breath in the alcove. An hour passes in safety — take a short rest."
+**GM:** "You catch your breath in the alcove. An hour passes in safety — take a Short Rest."
 
-**After short rest:**
+**After Short Rest:**
 - Kael: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
 - Aria: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
 - Finn: Clear all Stress (0/5) and all Conditions. **Fully recovered.**
 
-**GM:** "All Conditions clear on short rest. You're ready to continue."
+**GM:** "All Conditions clear on Short Rest. You're ready to continue."
 
 ---
 
@@ -414,11 +414,11 @@ Kael rolls Clash with 1 Bane → Success. Kills the gnoll.
 
 **The party finishes off the remaining gnolls.**
 
-**GM:** "The fight ends. You're all bloodied and exhausted. Take a short rest while you catch your breath."
+**GM:** "The fight ends. You're all bloodied and exhausted. Take a Short Rest while you catch your breath."
 
 **After 1 hour:**
 - Aria: 0/5 Stress, no Conditions (fully recovered)
-- Kael: 0/5 Stress, Wounded 2 (Burden) still persists — Burdens don't clear on short rest
+- Kael: 0/5 Stress, Wounded 2 (Burden) still persists — Burdens don't clear on Short Rest
 - Finn: 0/5 Stress, no Conditions (fully recovered)
 
 **Kael:** "I'm still carrying Wounded 2. It'll tick down through action or I need proper treatment."
@@ -467,7 +467,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 
 **Finn:** "Is that like a normal Condition?"
 
-**GM:** "No — it's a Burden. It won't clear on short rest. You'll need to find a way to lift the curse through narrative means — a quest, powerful magic, or divine intervention."
+**GM:** "No — it's a Burden. It won't clear on Short Rest. You'll need to find a way to lift the curse through narrative means — a quest, powerful magic, or divine intervention."
 
 **Finn:** "So Cursed 3 gives me 1 Bane, and it doesn't tick down?"
 
@@ -499,7 +499,7 @@ Rolls Talk → Success. Wounded 2 → Wounded 1.
 | Short Rest | "1 hour passes — all Stress and all Conditions clear (Burdens persist)" |
 | Doesn't Apply | "Blinded 2 doesn't affect recalling lore (Know) — no Banes, doesn't tick" |
 | Resist Consequence | "Spend 1 Momentum, roll Defy. Success = reduce by 2 steps" |
-| Burden (persistent) | "Stress overflow: take Wounded 2 (Burden) or be Taken Out. Burdens don't clear on short rest" |
+| Burden (persistent) | "Stress overflow: take Wounded 2 (Burden) or be Taken Out. Burdens don't clear on Short Rest" |
 | Burden from Boss | "Boss curses you — Cursed 2 (Burden). Requires narrative resolution (quest/magic)" |
 | Same-name Burden | "Already Wounded 2 (Burden), take Wounded again → refreshes to higher tier (keeps Wounded 2)" |
 | Burden Recovery | "Long rest: Wounded 3 → Wounded 2. OR special recovery clears/reduces as specified" |

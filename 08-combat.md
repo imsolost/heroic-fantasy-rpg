@@ -417,7 +417,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 **Kael rolls 3d6 → 4 (Conflict)**
 
-**GM:** "The curse takes hold, though weakened. Gain Cursed 1 (Condition) — you'll feel this until you can get it cleansed or it clears on short rest. The combat ends. You're all wounded but alive. Kael 4/5 Stress + Cursed 1, Mira 2/5 Stress, Ryn unscathed. The forest is quiet except for your breathing and the distant horns."
+**GM:** "The curse takes hold, though weakened. Gain Cursed 1 (Condition) — you'll feel this until you can get it cleansed or it clears on Short Rest. The combat ends. You're all wounded but alive. Kael 4/5 Stress + Cursed 1, Mira 2/5 Stress, Ryn unscathed. The forest is quiet except for your breathing and the distant horns."
 
 ---
 

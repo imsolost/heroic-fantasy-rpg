@@ -89,7 +89,7 @@ Roll your dice pool (Xd6) and check **the highest single die**:
 
 ### Resilience
 
-**Stress Track:** 5 boxes that absorb harm. Clears on short rest (1 hour, safe location).
+**Stress Track:** 5 boxes that absorb harm. Clears on Short Rest (1 hour, safe location).
 
 **Conditions:** Temporary impairments like *Poisoned*, *Frightened*, or *Wounded*. Each applies a penalty to your rolls until cleared through action or rest.
 

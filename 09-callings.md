@@ -374,7 +374,7 @@ When you Assist an ally, you can mark this to also give that ally 1 Edge.
 When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
 
 **Sanctuary**
-When given time, you can establish a Sanctuary — a place of genuine safety for those inside. Within a Sanctuary, allies recover Stress on a short rest regardless of circumstances, and enemies require extraordinary effort to breach it. Push Yourself to establish a Sanctuary immediately, even in the middle of a crisis.
+When given time, you can establish a Sanctuary — a place of genuine safety for those inside. Within a Sanctuary, allies recover Stress on a Short Rest regardless of circumstances, and enemies require extraordinary effort to breach it. Push Yourself to establish a Sanctuary immediately, even in the middle of a crisis.
 
 **Shield Master**
 You have Expertise when using a shield to protect yourself or others. Push Yourself to perform a Potent feat with your shield — blocking an area attack, creating cover for multiple allies, or turning a blow that would destroy a lesser shield.

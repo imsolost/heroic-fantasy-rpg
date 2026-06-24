@@ -98,7 +98,7 @@ Conditions come from three sources:
 1. **GM announces:** "You would mark [X] Stress, but your track is full."
 2. **Resist Consequence (optional):** You may spend 1 Momentum to automatically reduce the Consequence Tier by 1. See Resist Consequence below for full rules.
 3. **Choose your fate:** If any Stress remains after Resist (or you don't Resist), you choose:
-   - **Take a Burden** — A persistent Condition that won't clear on short rest. Set tier based on **overflow amount** beyond your 5th box (1 overflow → tier 1, 2 overflow → tier 2, 3+ overflow → tier 3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
+   - **Take a Burden** — A persistent Condition that won't clear on Short Rest. Set tier based on **overflow amount** beyond your 5th box (1 overflow → tier 1, 2 overflow → tier 2, 3+ overflow → tier 3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
      - *Example: At 4/5 Stress, you take 2 Stress. Mark the 5th box + 1 overflow = Tier 1 Burden if you choose to take it.*
    - **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context. Your Stress clears when you recover.
 
@@ -116,7 +116,7 @@ The tier set at infliction is the **maximum severity** of that Condition. It nev
 
 Each time you make an action roll where the Condition applies, reduce its tier by 1. When it reaches 0, it clears.
 
-**All Conditions clear on short rest** (1 hour, safe location), regardless of remaining tier.
+**All Conditions clear on Short Rest** (1 hour, safe location), regardless of remaining tier.
 
 ### Multiple Conditions
 
@@ -132,7 +132,7 @@ You can have multiple different Conditions simultaneously. Each tracks independe
 
 **Through action:** Make action rolls where the Condition applies. Each relevant roll reduces the tier by 1.
 
-**Through short rest:** All Conditions clear after a short rest (1 hour, safe location).
+**Through Short Rest:** All Conditions clear after a Short Rest (1 hour, safe location).
 
 **Through Trait Special Effects:** When you invoke a Trait and choose Secondary Effect, you may reduce any one Condition by 1 tier — provided the Trait is fictionally relevant to shaking off that Condition.
 
@@ -157,7 +157,7 @@ Poisoned 2
 Frightened 1
 ```
 
-Reduce the number by 1 each time you act through it. Erase when it reaches 0 or after short rest.
+Reduce the number by 1 each time you act through it. Erase when it reaches 0 or after Short Rest.
 
 ### Example in Play
 
@@ -273,7 +273,7 @@ This ensures Conditions don't carry over from scene to scene, while still making
 
 ### Burdens (Persistent Impairments)
 
-Burdens are persistent impairments that represent serious wounds, lasting trauma, powerful curses, and other significant harm that cannot be shaken off with a short rest or a few determined actions. They are rarer and weightier than Conditions — a sign that something has genuinely changed for the character.
+Burdens are persistent impairments that represent serious wounds, lasting trauma, powerful curses, and other significant harm that cannot be shaken off with a Short Rest or a few determined actions. They are rarer and weightier than Conditions — a sign that something has genuinely changed for the character.
 
 **How Burdens Work:**
 
@@ -314,7 +314,7 @@ The GM may assign Burdens from significant fictional events — divine punishmen
 Burdens do NOT tick down through action like Conditions. They require deliberate recovery, which should be clearly established when the Burden is gained.
 
 **Long Rest (default):**
-Most Burdens reduce by 1 tier per long rest (overnight, safe location).
+Most Burdens reduce by 1 tier per Long Rest (overnight, safe location).
 
 | After | Tier Reduction |
 |---|---|
@@ -334,11 +334,11 @@ Common special recovery methods:
 
 > *Example: Cursed 2 (Burden) cannot clear by rest. The party must find a high priest or ritual to break it.*
 
-> *Example: Wounded 3 (Burden) clears 1 tier per long rest. But magical healing could clear it entirely in one treatment.*
+> *Example: Wounded 3 (Burden) clears 1 tier per Long Rest. But magical healing could clear it entirely in one treatment.*
 
 **Mark Recovery Method Clearly:**
 When assigning a Burden, immediately clarify how it clears:
-- *"That's Wounded 2 (Burden) — it'll reduce 1 tier per long rest."*
+- *"That's Wounded 2 (Burden) — it'll reduce 1 tier per Long Rest."*
 - *"That's Cursed 2 (Burden) — rest won't help. You'll need to break the curse."*
 
 **Burdens vs. Conditions:**
@@ -348,7 +348,7 @@ When assigning a Burden, immediately clarify how it clears:
 | **Source** | Challenge Moves, Consequences | Stress overflow, Disaster, Death Moves, narrative events |
 | **Frequency** | Common | Rare |
 | **Bane** | 1 Bane each | 1 Bane each |
-| **Recovery** | Tick down through action; clear on short rest | Long rest (1 tier per) or special recovery |
+| **Recovery** | Tick down through action; clear on Short Rest | Long rest (1 tier per) or special recovery |
 | **Weight** | Temporary impairment | Lasting consequence |
 
 ### Condition Fiction Examples
@@ -387,7 +387,7 @@ When assigning a Burden, immediately clarify how it clears:
 | Short rest (1 hour, safe location) | All Stress and all Conditions clear (Burdens persist) |
 | Long rest (overnight) | All Stress and all Conditions clear; Burdens reduce 1 tier |
 | Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
-| Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on short rest |
+| Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on Short Rest |
 | Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (Minor Consequence) or 2 (Major Consequence) |
 | Resist Consequence | Spend 1 Momentum, reduce Consequence Tier by 1 (automatic, no roll) |

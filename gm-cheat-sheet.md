@@ -178,7 +178,7 @@ Catastrophic failure:
 
 ### Stress Track (5 boxes)
 - Mark left to right
-- Clear all Stress on short rest (1 hour, safe location)
+- Clear all Stress on Short Rest (1 hour, safe location)
 - When full and you'd mark more → Choose: **Take a Burden** or **Be Taken Out**
 
 **Stress Overflow Procedure:**
@@ -193,13 +193,13 @@ Catastrophic failure:
 - **Effect:** 1 Bane per Condition (multiple Conditions stack)
 - **Pool Modifier Cap:** ±2d maximum (universal rule — Boons and Banes cancel 1:1 before cap)
 - **Tick Down:** Reduce tier by 1 each time you roll where Condition applies
-- **Clear:** All Conditions clear on short rest (1 hour, safe location)
+- **Clear:** All Conditions clear on Short Rest (1 hour, safe location)
 
 **Common Conditions:** Poisoned, Burned, Blinded, Frightened, Stunned, Prone, Disarmed, Grappled, Weakened
 
 ### Burdens (Persistent Impairments)
-- Like Conditions but do NOT clear on short rest
-- **Recovery:** Reduce by 1 tier per long rest (overnight) OR special narrative resolution
+- Like Conditions but do NOT clear on Short Rest
+- **Recovery:** Reduce by 1 tier per Long Rest (overnight) OR special narrative resolution
 - **Sources:** Stress Overflow, Disaster outcomes, Death Moves, significant narrative events
 - **Examples:** Wounded, Cursed, Haunted, Crippled
 
@@ -303,7 +303,7 @@ Your character's capabilities and current situation—determines what you can at
 4. **Warn before striking** — Telegraph imminent danger, give PCs a chance to respond
 5. **Respect player choices** — When players spend resources (Momentum, Stress, Traits), honor those choices
 6. **Fiction first / Check Vantage** — If they lack vantage, it may be harder (Banes) or impossible
-7. **Pace with rests** — Short rests after fights, long rests between adventures
+7. **Pace with rests** — Short rests after fights, Long Rests between adventures
 8. **Fail forward** — Setbacks complicate, they don't halt story (unless fiction demands)
 
 ---

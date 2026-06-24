@@ -14,7 +14,7 @@ The Stress & Conditions system is designed to model **heroic resilience with mea
 1. **Unified resilience track** — One system handles all harm types (physical, mental, environmental)
 2. **Quick recovery for minor harm** — Heroes bounce back from scratches and close calls
 3. **Deterioration matters** — Accumulated harm mechanically impacts effectiveness
-4. **Pacing tool** — Short and long rests create natural narrative beats
+4. **Pacing tool** — Short and Long Rests create natural narrative beats
 
 ---
 
@@ -58,7 +58,7 @@ When your Stress track is full and you would mark more, you choose: **take a Bur
 
 **Option A: Overflow creates regular Condition**
 - 1 Stress → tier 1, 2 Stress → tier 2, etc.
-- **Problem:** Regular Conditions clear on short rest, so being at max Stress isn't meaningfully dangerous
+- **Problem:** Regular Conditions clear on Short Rest, so being at max Stress isn't meaningfully dangerous
 - **Problem:** No consequence for pushing past your limit — just another Condition that clears in 10 minutes
 
 **Option B: Overflow = immediate Taken Out**
@@ -69,7 +69,7 @@ When your Stress track is full and you would mark more, you choose: **take a Bur
 **Option C: Choose Burden or Taken Out** ← **We chose this**
 - **Pro:** Player agency — choose to push through at a cost or accept defeat
 - **Pro:** Dramatic moments — "I stay in the fight but this wound won't heal easily"
-- **Pro:** Makes max Stress truly dangerous — Burdens persist beyond short rest
+- **Pro:** Makes max Stress truly dangerous — Burdens persist beyond Short Rest
 - **Pro:** Creates escalation — accumulating Burdens across multiple fights
 
 ### How It Works in Play
@@ -380,12 +380,12 @@ Multiple Conditions stack (each = 1 Bane) but cap at 2 Banes from Conditions tot
 
 **1 hour in a safe location** — This is the "recover after a significant encounter" beat.
 
-**All Conditions clear on short rest** regardless of tier. This creates clean encounter boundaries.
+**All Conditions clear on Short Rest** regardless of tier. This creates clean encounter boundaries.
 
 In playtesting, we found:
 - **Clearing only Stress:** Players still had Conditions from prior fights, felt punished across multiple encounters
 - **Tier-based clearing (Tier 1-2 clear, Tier 3 stays):** Tracking burden — "which tier was this again?" — and Tier 3 Conditions dragged across scenes
-- **All Conditions clear:** Perfect pacing — one tough fight leaves you with Conditions, short rest resets for next major encounter
+- **All Conditions clear:** Perfect pacing — one tough fight leaves you with Conditions, Short Rest resets for next major encounter
 
 **Design intent:** Conditions are encounter-level impairment, not adventure-level. They create tension within a fight or sequence, then clear for the next encounter. The 1-hour duration prevents Stress arbitrage (particularly with Potent spellcasting costing 1 Stress) and makes rest a meaningful tactical commitment rather than a quick reset button.
 
@@ -473,7 +473,7 @@ The name serves the fiction, the tier serves the mechanics. Clean separation of 
 - You're Frightened 1? 1 Bane on all your rolls
 - Clear exception: Blinded doesn't affect recalling lore, Deafened doesn't affect scanning visually
 
-**GM has final say on exceptions,** but default is simple: Conditions impair you broadly, tick down through any relevant action, clear on short rest.
+**GM has final say on exceptions,** but default is simple: Conditions impair you broadly, tick down through any relevant action, clear on Short Rest.
 
 This trades away some granularity for massive reduction in edge-case rulings.
 
@@ -547,7 +547,7 @@ Boons-generating builds become more valuable when the party is hurt — support 
 
 ### Short Rest Pacing
 
-**When do parties short rest?**
+**When do parties Short Rest?**
 - After each combat (if they have time)
 - Between floors in a dungeon
 - After a tense negotiation
@@ -559,7 +559,7 @@ Boons-generating builds become more valuable when the party is hurt — support 
 - No safe space (surrounded by enemies)
 - Resource scarcity (no time to rest, keep moving)
 
-GMs control pacing by controlling short rest opportunities. Want attrition to matter? Deny short rests. Want reset between fights? Provide them.
+GMs control pacing by controlling Short Rest opportunities. Want attrition to matter? Deny Short Rests. Want reset between fights? Provide them.
 
 ---
 
@@ -608,9 +608,9 @@ GMs control pacing by controlling short rest opportunities. Want attrition to ma
 - **Problem:** Constant edge-case questions — "Is Defy physical or mental?"
 - **Fix:** Default to "all rolls" unless clearly inapplicable, eliminates most questions
 
-**Early version:** Each tier cleared independently (tier 1 after action, tier 2 after short rest, tier 3 after long rest)
+**Early version:** Each tier cleared independently (tier 1 after action, tier 2 after Short Rest, tier 3 after Long Rest)
 - **Problem:** Tracking burden, tier 3 dragged across scenes
-- **Fix:** All tiers tick down through action, all Conditions clear on short rest (scene boundaries)
+- **Fix:** All tiers tick down through action, all Conditions clear on Short Rest (scene boundaries)
 
 **Early version:** Cumulative Bane penalties (3 tiers = 3 Banes per Condition)
 - **Problem:** Too punishing, especially with multiple Conditions
@@ -719,7 +719,7 @@ Mark boxes for ANY Condition, no distinction between types.
 - Adds tactical depth without complicating base system
 
 **Variant Condition Types (Optional Rule):**
-- Exhausted (clears only after long rest, cannot be cleared with short rest)
+- Exhausted (clears only after Long Rest, cannot be cleared with Short Rest)
 - Poisoned (ongoing Stress each round until treated)
 - Could be advanced rules for specific campaigns
 
@@ -745,25 +745,25 @@ Mark boxes for ANY Condition, no distinction between types.
 ### Pacing Attrition
 
 **For high-attrition "dungeon crawl" feel:**
-- Limit short rest opportunities (enemies patrol, time pressure)
+- Limit Short Rest opportunities (enemies patrol, time pressure)
 - Use Challenge Moves to inflict direct Conditions
-- Multiple encounters before long rest
+- Multiple encounters before Long Rest
 
 **For heroic "bounce-back" feel:**
-- Allow short rests between fights
+- Allow Short Rests between fights
 - Use Stress overflow primarily, not direct Conditions
 - Encourage Momentum spending on Resist
 
 ### Balancing Challenge
 
 **Players feeling too fragile?**
-- Offer more short rest opportunities
+- Offer more Short Rest opportunities
 - Use more Minor Consequences (1 Stress) than Major Consequences (2 Stress)
 - Telegraphs before big hits (let players Resist)
 
 **Players feeling invincible?**
 - Use Challenge Moves to inflict direct Conditions (bypass Stress buffer)
-- Time pressure prevents short rests
+- Time pressure prevents Short Rests
 - Multiple enemies (more Impact Moves per round)
 
 ### Fictional Positioning

@@ -87,8 +87,37 @@ You move through the world like a shadow — present, purposeful, and gone befor
 
 **Shadow's Expertise:** You have Expertise (see Chapter 3) in Stealth, Thievery, and Deception.
 
-### Additional Talents (Examples)
-**One Step Ahead:** Once per scene, you may mark 1 Stress to declare that you already prepared for this moment. Establish one true fact about your prior preparation — a hidden exit you scouted, a contact you already bribed, a position you already took. The GM may narrow the scope if the claim is implausible, but cannot deny it entirely.
+### Additional Talents
+
+**Ghost**
+You have Expertise when hiding, infiltrating, escaping notice, or bypassing security. Push Yourself to disappear from a situation that should be impossible to escape.
+
+**Charlatan**
+You can maintain deceptions that should be impossible to sustain — false identities for months, lies that survive magical scrutiny, facades that hold under direct interrogation. Push Yourself to perform a Potent feat of deception. You have Expertise in disguise, forgery, and constructed identities.
+
+**Lightning Reflexes**
+You can always act first in a conflict unless completely surprised. Push Yourself to act first even when surprised.
+
+**Opportunist**
+When you exploit a weakness, distraction, or opening, you can perform an action that would normally require extensive setup — lifting a key mid-conversation, planting evidence during a search, slipping past a guard in the moment they look away.
+
+**Slippery [ ] [ ]**
+Mark this to Resist a consequence caused by pursuit, detection, capture, or exposure.
+
+**Ambush**
+When you act from a position of advantage — concealment, surprise, or superior knowledge — you can Push Yourself to make your action Potent.
+
+**Second Story Work**
+You have Expertise when climbing, balancing, infiltrating, or traversing difficult structures — rooftops, walls, rigging, unstable surfaces. Push Yourself to reach a location that should be physically inaccessible — scaling a sheer surface, crossing an impossible gap, passing silently across something that shouldn't hold your weight.
+
+**Inside Knowledge [ ] [ ]**
+When you enter a new location — a building, a city district, a criminal organization — you may mark this to ask the GM: "Who here owes me a favor, fears me, or can be bought?" The GM answers honestly with at least one name.
+
+**Exit Strategy [ ] [ ]**
+You always have a way out. When a scene turns against you, you may mark this to describe how you escape — a prepared exit, a distraction, a route no one else noticed. This always succeeds as long as a plausible exit exists. You cannot take others with you unless you Push Yourself.
+
+**Escape Artist**
+You have Expertise when escaping physical confinement — restraints, locked rooms, cages, chains, or any attempt to restrict your movement. Push Yourself to escape a situation that appears completely and physically sealed — no visible exit, no tools, no apparent hope.
 
 ---
 

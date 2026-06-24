@@ -304,6 +304,11 @@ Other participants may **Assist** (mark 1 Stress each to grant +1 Boon each), su
 - **Talents** (specific circumstances grant Edge as noted in Talent descriptions)
 - **GM Discretion** (situational advantages may grant Edge)
 
+> **Create an Opening (Canonical Definition):**  
+> Spend 1 Momentum. Your action gains **1 Boon** (+1d to your dice pool) **and 1 Edge** (ignore 1 Complication), plus narrative permission for extraordinary feats that would normally be impossible or require extensive setup.
+>
+> This is the primary way players spend Momentum during action resolution. It simultaneously boosts your dice pool and cuts through enemy defenses.
+
 **Edge is Per-Action:**
 - Edge applies only to the specific action it is granted to
 - Edge does not persist across multiple actions

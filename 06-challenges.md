@@ -242,18 +242,10 @@ Before rolling, ask: **"Do I have vantage to even attempt this?"**
 
 When players describe clever positioning, ask: **"Does this target a specific Complication, or just create general advantage?"**
 
-- **General advantage** (flanking, high ground, distraction) → Grant **Boon** (+1d)
-- **Targets specific Complication** (aim for armor gap, reveal hidden foe, pin shield) → Grant **Edge** (bypass 1 Complication)
+- **General advantage** → Grant Boon (+1d)
+- **Targets specific Complication** → Grant Edge (bypass 1 Complication)
 
-Most positioning grants Boons. Edge requires explicitly working around a Complication's source.
-
-**Example in Play:**
-
-> **PC:** "I want to flank the armored knight to get a better angle."
-> **GM:** "That gives you 1 Boon for superior positioning, but his armor (Resilient) still applies—flanking doesn't remove plate mail."
->
-> **PC:** "What if I aim for the joints in his armor where the plates meet?"
-> **GM:** "That's targeting a weak point specifically. Make it a Clash with Grace—if you succeed, you can invoke a Trait for Secondary Effect (Create Advantage) to give an ally 1 Edge against his Resilient."
+See Chapter 2 for complete Boon vs Edge adjudication guidance with examples.
 
 ---
 
@@ -500,10 +492,7 @@ Three ways to deal with Complications:
 
 ### 1. Create an Opening (1 Momentum)
 
-Spend 1 Momentum before rolling to gain:
-- 1 Boon (+1d)
-- 1 Edge (ignore 1 Complication)
-- Narrative permission for extraordinary feats
+Spend 1 Momentum. Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats. See Chapter 2 for complete rules.
 
 **Most common way** to handle single Complication.
 

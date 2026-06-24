@@ -120,7 +120,7 @@ You can use the Shadow calling to play all kinds of elusive opportunists. You ca
 **SHADOWCRAFT**
 You move through the world like a shadow — present, purposeful, and gone before anyone notices.
 
-**From the Shadows:** When you act from a position of advantage — concealment, surprise, or superior knowledge — your action gains 1 Boon and Edge.
+**From the Shadows:** When you act from a position of advantage — concealment, surprise, or superior knowledge — your action gains 1 Boon and 1 Edge.
 
 **Shadow's Expertise:** You have Expertise (see Chapter 3) in Stealth, Thievery, and Deception.
 

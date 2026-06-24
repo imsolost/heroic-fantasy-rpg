@@ -62,13 +62,44 @@ The Vanguard stands between danger and those who cannot face it alone. When othe
 You can use the Vanguard calling to play all kinds of protective stalwarts. You can be a heavily armored knight, a shield-bearing clan defender, a stoic mercenary captain, or an unarmored brawler bound by a sacred vow to keep others safe.
 
 ### Core Talent
-**GUARDIAN'S SACRIFICE**
+**UNBREAKABLE GUARDIAN**
 You are the shield that takes the blow so others don't have to.
 
-Mark [ ] [ ] to suffer a consequence intended for an ally within Close range. Then reduce its severity by one step (Major → Minor, Minor → None, Severe → Major).
+**Unbreakable:** When you would mark 2 or more Stress from a single Consequence, reduce it by 1.
 
-### Additional Talents (Examples)
-**Iron Bulwark:** Increase your maximum Stress by 1. When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
+**Guardian's Sacrifice:** Mark [ ] [ ] to suffer a Consequence intended for an ally within Close range. Then reduce its severity by one step (Major → Minor, Minor → None, Severe → Major).
+
+### Additional Talents
+
+**Iron Bulwark**
+Increase your maximum Stress by 1. When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.
+
+**Shield Wall**
+You have Expertise when protecting others from danger. Push Yourself to shield multiple allies at once.
+
+**Stand Fast**
+You can hold ground that should be indefensible. You have Expertise when holding ground or defending a fixed position. Push Yourself to prevent a threat from advancing, breaching, or overwhelming a position entirely.
+
+**Shield Master**
+You have Expertise when using a shield to protect yourself or others. Push Yourself to perform a Potent feat with your shield — blocking an area attack, creating cover for multiple allies, or turning a blow that would destroy a lesser shield.
+
+**Bodyguard**
+You have Expertise when watching for threats against a specific person or group. Push Yourself to intercept danger before it reaches its target — physically interposing, shouting a warning, or acting in the fraction of a second that makes the difference.
+
+**Commander**
+You have Expertise when organizing groups, establishing chains of command, maintaining discipline, and coordinating sustained operations — sieges, expeditions, campaigns, or any situation requiring a group to function under pressure over time. Push Yourself to inspire extraordinary resolve in a group that is wavering, broken, or on the edge of collapse.
+
+**Sanctuary**
+When given time, you can establish a Sanctuary — a place of genuine safety for those inside. Within a Sanctuary, allies recover Stress on a short rest regardless of circumstances, and enemies require extraordinary effort to breach it. Push Yourself to establish a Sanctuary immediately, even in the middle of a crisis.
+
+**Immovable Object**
+You have Expertise when resisting effects that would move, displace, or knock you prone. Push Yourself to completely ignore such an effect.
+
+**Indomitable**
+When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
+
+**Inspire Greatness [ ] [ ]**
+When you Quick Assist an ally, you can mark this to also give that ally 1 Edge.
 
 ---
 

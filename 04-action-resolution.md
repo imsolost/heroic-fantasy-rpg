@@ -34,11 +34,11 @@ Once a roll is needed, the GM assesses your **Vantage** (fictional positioning) 
 - **No roll required.** Success is automatic.
 - *Example: Champion swinging weapon in combat, Shadow picking simple lock with tools*
 
-**Standard** — You have capability and tools, but the outcome is uncertain.
+**Strong** — You have capability and tools, but the outcome is uncertain.
 - **Standard roll** (no modifier). Most action rolls are Standard.
 - *Example: Climbing rope with handholds, persuading friendly guard, casting known spell*
 
-**Difficult** — You lack ideal tools/positioning OR the task stretches your capability.
+**Limited** — You lack ideal tools/positioning OR the task stretches your capability.
 - **Roll with 1-2 Banes** (depending on severity).
 - *Example: Climbing sheer wall with gear (1 Bane), same wall without gear (2 Banes)*
 

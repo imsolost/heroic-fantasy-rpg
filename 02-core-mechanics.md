@@ -15,7 +15,7 @@ For Stress & Conditions, see **Chapter 5: Resilience**.
 Make an **Action Roll** when a character faces a risky, difficult, or dramatically significant situation.
 
 **Roll when the action is:**
-- **Difficult** — Requires significant effort or skill
+- **Limited** — Requires significant effort or skill
 - **Dangerous** — Involves risk of serious harm or consequences
 - **Dramatic** — A big moment that affects the character or world
 
@@ -51,10 +51,10 @@ Vantage is your fictional positioning that determines how difficult an action is
 **Certain** — Clear capability, proper tools, task is trivial:
 - No roll required → Auto-success
 
-**Standard** — Capability present, outcome uncertain:
-- Standard roll → No modifier
+**Strong** — Capability present, outcome uncertain:
+- Strong roll → No modifier
 
-**Difficult** — Lacking ideal tools/positioning OR task stretches capability:
+**Limited** — Lacking ideal tools/positioning OR task stretches capability:
 - Roll with 1-2 Banes (depending on severity)
 - May require Expertise or Trait to attempt reliably
 
@@ -63,10 +63,10 @@ Vantage is your fictional positioning that determines how difficult an action is
 - GM works with player to find an approach they DO have vantage for
 
 **Examples in Play:**
-- "I pick the lock" with tools → Certain (auto-success if simple) or Standard (if complex)
-- "I pick the lock" without tools → Difficult (1-2 Banes depending on lock complexity)
+- "I pick the lock" with tools → Certain (auto-success if simple) or Strong (if complex)
+- "I pick the lock" without tools → Limited (1-2 Banes depending on lock complexity)
 - "I swing my sword" with broken arm → Impossible (cannot attempt, try different approach)
-- "I suture the wound" with medical Expertise → Certain or Standard (depending on wound severity)
+- "I suture the wound" with medical Expertise → Certain or Strong (depending on wound severity)
 - "I convince the guard" who doesn't speak your language → Impossible (via Talk) → Try different approach (bribe? gesture? find translator?)
 
 **See [Vantage](vantage.md) for complete framework.**

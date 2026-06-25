@@ -12,8 +12,8 @@ These work together:
 - **Stakes** determines consequence severity (Low/Regular/High)
 
 **Example:**
-- Climbing sheer wall with climbing gear → **Difficult** (Hard, 1 Bane) + **Regular Stakes** (Setback = Major Consequence)
-- Climbing same wall with safety rope → **Standard** (Standard) + **Low Stakes** (Setback = Minor Consequence)
+- Climbing sheer wall with climbing gear → **Limited** (Hard, 1 Bane) + **Regular Stakes** (Setback = Major Consequence)
+- Climbing same wall with safety rope → **Strong** (Standard) + **Low Stakes** (Setback = Minor Consequence)
 
 ---
 
@@ -27,8 +27,8 @@ Before calling for a roll, ask:
 
 **2. What's their Vantage?** (Given who they are and the situation, where do they fall?)
 - **Certain** → Auto-success (no roll needed)
-- **Standard** → Standard roll (no modifier)
-- **Difficult** → Roll with 1-2 Banes (depending on how disadvantaged)
+- **Strong** → Standard roll (no modifier)
+- **Limited** → Roll with 1-2 Banes (depending on how disadvantaged)
 - **Impossible** → Cannot attempt
 
 **3. Is failure interesting?** (Would failure create drama/complications/stakes?)
@@ -203,8 +203,8 @@ By having this conversation openly, you:
 
 2. **Assess Vantage:** "Where do they fall on the Vantage scale?"
    - **Certain** → Auto-success (no roll needed)
-   - **Standard** → Standard roll (no modifier)
-   - **Difficult** → Roll with 1-2 Banes
+   - **Strong** → Standard roll (no modifier)
+   - **Limited** → Roll with 1-2 Banes
    - **Impossible** → Cannot attempt
 
    **Consider:**
@@ -219,13 +219,13 @@ By having this conversation openly, you:
 
 **Example Assessments:**
 
-- **Champion with sword vs. goblin** → Standard (has weapon, competent foe)
-- **Champion with sword vs. armored knight** → Standard (still capable, but knight has Complications)
+- **Champion with sword vs. goblin** → Strong (has weapon, competent foe)
+- **Champion with sword vs. armored knight** → Strong (still capable, but knight has Complications)
 - **Champion unarmed vs. armored knight** → Difficult, 1 Bane (lacking ideal tool)
 - **Champion with broken arm vs. knight** → Impossible (Condition removes capability)
 
 - **Shadow with tools vs. simple lock** → Certain (within Expertise, trivial task)
-- **Shadow with tools vs. complex lock** → Standard (within Expertise, challenging task)
+- **Shadow with tools vs. complex lock** → Strong (within Expertise, challenging task)
 - **Shadow without tools vs. simple lock** → Difficult, 1 Bane (lacking tools, simple task)
 - **Shadow without tools vs. complex lock** → Difficult, 2 Banes (lacking tools, difficult task)
 
@@ -287,19 +287,19 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **They combine to create the full picture:**
 
-**Example 1: Difficult Vantage + Low Stakes**
+**Example 1: Limited Vantage + Low Stakes**
 - Climbing training wall without safety rope (Difficult, 1 Bane + Low Stakes)
-- Difficult to climb but safe to fail
+- Limited to climb but safe to fail
 - Conflict: Slip and look foolish (narrative consequence)
 - Setback: Fall and mark 1 Stress (embarrassment)
 
-**Example 2: Standard Vantage + High Stakes**
+**Example 2: Strong Vantage + High Stakes**
 - Expert climber scaling standard cliff over lava pit (Standard + High Stakes)
-- Standard roll but deadly to fail
+- Strong roll but deadly to fail
 - Conflict: Make it but mark 2 Stress (heat and strain)
 - Setback: Fall into lava, Taken Out
 
-**Example 3: Difficult Vantage + High Stakes**
+**Example 3: Limited Vantage + High Stakes**
 - Non-climber scaling difficult cliff over lava (Difficult, 2 Banes + High Stakes)
 - Very difficult AND deadly to fail
 - Conflict: Barely make it, mark 2 Stress
@@ -326,27 +326,27 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Example 1: Climbing**
 - Climbing a ladder → **Certain** (no roll, automatic success)
-- Climbing a rope with handholds → **Standard** (standard roll)
+- Climbing a rope with handholds → **Strong** (standard roll)
 - Climbing a sheer wall with climbing gear → **Difficult, 1 Bane** (proper tools, but very difficult)
 - Climbing sheer wall without gear → **Difficult, 2 Banes** (no tools AND very difficult)
 - Climbing with broken arm → **Impossible** (Condition removes capability)
 
 **Example 2: Persuasion**
 - Convincing friendly NPC of obvious truth → **Certain** (no roll)
-- Convincing friendly NPC to help → **Standard** (standard roll)
+- Convincing friendly NPC to help → **Strong** (standard roll)
 - Convincing suspicious noble → **Difficult, 1 Bane** (working against mistrust)
 - Convincing hostile enemy to betray their lord → **Difficult, 2 Banes** (extremely difficult, no leverage)
 - Convincing someone in a language you don't speak → **Impossible** (need translator)
 
 **Example 3: Spellcasting**
-- Sage casting known theorem → **Standard** (standard roll)
+- Sage casting known theorem → **Strong** (standard roll)
 - Sage using Arcane Formula (improvised spell) → **Difficult, 1 Bane** (working from theory, not mastery)
 - Sage casting while Stunned → **Impossible** (Condition prevents concentration)
 - Non-spellcaster trying to cast spell → **Impossible** (no capability)
 
 **Example 4: Lock Picking**
 - Shadow with tools vs. simple lock → **Certain** (Expertise + tools, no roll)
-- Shadow with tools vs. complex lock → **Standard** (standard roll)
+- Shadow with tools vs. complex lock → **Strong** (standard roll)
 - Shadow without tools vs. simple lock → **Difficult, 1 Bane** (improvising without proper tools)
 - Shadow without tools vs. complex lock → **Difficult, 2 Banes** (no tools AND very difficult)
 - Non-thief without tools → **Impossible** (no capability, no tools)
@@ -364,8 +364,8 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Four Vantage Tiers:**
 - **Certain** → No roll (automatic success)
-- **Standard** → Standard roll (no modifier)
-- **Difficult** → Roll with 1-2 Banes (lacking tools/capability, or task very difficult)
+- **Strong** → Standard roll (no modifier)
+- **Limited** → Roll with 1-2 Banes (lacking tools/capability, or task very difficult)
 - **Impossible** → Cannot attempt (suggest different approach)
 
 **Vantage IS your difficulty system.** It determines whether you roll and how many Banes.

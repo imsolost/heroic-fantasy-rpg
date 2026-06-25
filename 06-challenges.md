@@ -75,7 +75,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 
 1. **Pick CR based on desired fight length:**
    - Quick encounter? → CR 1-2
-   - Standard fight? → CR 2-3
+   - Strong fight? → CR 2-3
    - Boss battle? → CR 3-4+
 
 2. **Pick Rank based on narrative scope:**
@@ -534,7 +534,7 @@ Some Talents automatically negate specific types of Complications:
 
 **Power Level:**
 Challenge Moves are intentionally stronger than standard Impact Moves:
-- Standard Hard Move: 2 Stress
+- Strong Hard Move: 2 Stress
 - Challenge Move: 3 Stress, OR 2 Stress + Condition, OR area effects, OR special abilities
 - This makes telegraphs meaningful—players want to avoid these!
 
@@ -1633,11 +1633,11 @@ Boss encounters should require **team coordination** and **multiple actions**.
 
 **Complications are your primary difficulty lever.** Combine with Vantage and Stakes to calibrate challenge:
 
-**1 Complication:** Requires setup or Momentum spend (manageable solo) + Standard Vantage
+**1 Complication:** Requires setup or Momentum spend (manageable solo) + Strong Vantage
 
-**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Standard or Difficult Vantage
+**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Standard or Limited Vantage
 
-**3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment) + Difficult Vantage + High Stakes
+**3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment) + Limited Vantage + High Stakes
 
 **Remember:** Triumph ignores all Complications, so even 3+ Complication enemies are beatable with good rolls and Momentum generation.
 

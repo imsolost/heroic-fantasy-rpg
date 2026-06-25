@@ -9,8 +9,8 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 
 **The Four Tiers:**
 - **Certain** → Auto-success (no roll)
-- **Standard** → Standard roll (no modifier)
-- **Difficult** → Roll with 1-2 Banes
+- **Strong** → Standard roll (no modifier)
+- **Limited** → Roll with 1-2 Banes
 - **Impossible** → Cannot attempt
 
 **Key Features:**
@@ -48,9 +48,9 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 | **Stakes** | How dangerous is failure? | Consequence Tier adjustment (±1) |
 
 **Examples:**
-- Climbing training wall without rope → **Difficult (1 Bane) + Low Stakes** → Hard but safe to fail
+- Climbing training wall without rope → **Limited (1 Bane) + Low Stakes** → Hard but safe to fail
 - Expert climbing easy cliff over lava → **Standard + High Stakes** → Easy but deadly to fail
-- Non-climber scaling difficult cliff over lava → **Difficult (2 Banes) + High Stakes** → Hard AND deadly (seek alternate approach!)
+- Non-climber scaling difficult cliff over lava → **Limited (2 Banes) + High Stakes** → Hard AND deadly (seek alternate approach!)
 
 ---
 
@@ -120,13 +120,13 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 
 1. **What's their Vantage?** (Can they attempt? How difficult?)
    - Certain → Auto-success
-   - Standard → Standard roll
-   - Difficult → 1-2 Banes
+   - Strong → Standard roll
+   - Limited → 1-2 Banes
    - Impossible → Cannot attempt
 
 2. **What are the Stakes?** (How dangerous is failure?)
    - Low → Reduce Consequence Tier by 1
-   - Regular → Standard (default)
+   - Regular → Strong (default)
    - High → Increase Consequence Tier by 1
 
 3. **Is failure interesting?**

@@ -65,6 +65,54 @@ Create a comprehensive "Session in Play" chapter showing how different scene typ
 
 ## Medium Priority
 
+### Add Investigation Challenge Example
+**Priority:** Medium  
+**Estimated Effort:** Small-Medium (~45 minutes)
+
+**Current State:**
+- Chapter 6 has combat examples (Drow Assassin) and obstacle examples (Vault Door)
+- Missing exploration/investigation example
+
+**Proposed Addition:**
+Add one worked investigation/mystery Challenge example to Chapter 6:
+- Example: "Mysterious Disappearance Investigation" or "Crime Scene Investigation"
+- Show using Sense to gather clues (marking Obstacle track for "solve mystery")
+- Show using Know to piece together information
+- Include social interactions with witnesses (Will tracks)
+- Optional Countdown track ("culprit escapes" or "next victim")
+- Demonstrate multiple valid approaches
+
+**Content needed:** ~200-300 words for complete worked example
+
+**Location:** Chapter 6, Challenge Examples section (after Drow Assassin and Vault Door)
+
+**Value:** Completes the template range (combat, social, obstacle, investigation)
+
+---
+
+### Consolidate Clash/Talk Distinction
+**Priority:** Low-Medium  
+**Estimated Effort:** Small (~30 minutes)
+
+**Current State:**
+- Clash vs Talk distinction explained in Chapters 1, 2, 4, and 6
+- Some repetition is pedagogically valuable but could be streamlined
+
+**Proposed Changes:**
+1. Keep Chapter 1 brief overview (appropriate for intro)
+2. Keep Chapter 2 detailed explanation as canonical home
+3. Replace detailed explanations in Chapters 4 and 6 with cross-references
+4. Optional: Create comparison table in Chapter 2 if one doesn't exist
+
+**Benefits:**
+- Reduces maintenance burden (changes only need updating in 2 places)
+- Still maintains learning progression (intro → detailed → applied)
+- Cross-references guide readers to canonical explanation
+
+**Trade-off:** Some pedagogical value lost from seeing concept in multiple contexts
+
+---
+
 ### Vantage Framework Expansion
 **Priority:** Medium  
 **Estimated Effort:** Large

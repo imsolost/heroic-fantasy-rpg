@@ -468,37 +468,33 @@ The move taxonomy explains what each type does. Here's when to reach for each:
 
 **Solution:** Use **Hint → Reveal → Strike** escalation instead.
 
-### **Hint** (Subtle Clue)
-- Foreshadow danger without spelling it out
-- Gives attentive players chance to investigate
-- No roll required
+---
 
-Examples:
-- "The corridor ahead is oddly silent"
-- "Scratch marks on the door, like claws"
-- "The merchant's smile doesn't reach his eyes"
+> ## Hint → Reveal → Strike
+> 
+> **The three-step escalation pattern for telegraphing danger:**
+> 
+> ### 1. Hint (Subtle Clue)
+> Foreshadow danger without spelling it out. No roll required.
+> - *"The corridor ahead is oddly silent"*
+> - *"Scratch marks on the door, like claws"*
+> - *"The merchant's smile doesn't reach his eyes"*
+> 
+> ### 2. Reveal (Obvious Danger)
+> Make the threat clear and present. Players must respond.
+> - *"The tripwire glints in your torchlight"*
+> - *"You hear growling from the darkness ahead"*
+> - *"The merchant's hand moves to his dagger"*
+> 
+> ### 3. Strike (Threat Acts)
+> Danger follows through. Deliver Impact Move.
+> - *"The trap triggers. Defy with Grace or mark 2 Stress"*
+> - *"The beast lunges from the shadows. What do you do?"*
+> - *"The merchant draws and stabs. Roll Defy!"*
+> 
+> **Give players opportunity to respond at each step.** Only Strike if they ignore warnings or fail to stop the threat. Skip stages only when surprise is narratively justified (ambush, invisible foe, etc.).
 
-### **Reveal** (Obvious Danger)
-- Make threat clear and present
-- Players know danger exists, must respond
-- Call for rolls if they act
-
-Examples:
-- "The tripwire glints in your torchlight"
-- "You hear growling from the darkness ahead"
-- "The merchant's hand moves to his dagger"
-
-### **Strike** (Threat Acts)
-- Danger follows through
-- Triggered by player inaction or failure
-- This is when Impact Move happens (see *GM Moves* section)
-
-Examples:
-- "The trap triggers. Defy with Grace or mark 2 Stress."
-- "The beast lunges from the shadows. What do you do?"
-- "The merchant draws and stabs. Roll Defy!"
-
-**When to skip stages:** Only skip Hint or Reveal when surprise is narratively justified (ambush, invisible enemy, etc.). Otherwise, escalate through stages based on player attention and actions.
+---
 
 ---
 

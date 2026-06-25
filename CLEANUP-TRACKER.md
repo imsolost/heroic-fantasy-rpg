@@ -3,7 +3,9 @@
 ## Goal
 Replace outdated "Easy/Standard/Hard/Very Hard" difficulty references with Vantage framework across all chapters.
 
-## Status: In Progress
+## Status: ✅ Complete
+
+All core player-facing and GM-facing chapters now use consistent Vantage terminology.
 
 ---
 
@@ -13,14 +15,15 @@ Replace outdated "Easy/Standard/Hard/Very Hard" difficulty references with Vanta
 - [x] 04-action-resolution.md - Integrated Vantage and Stakes summaries
 - [x] 07-gm-guide.md - Replaced "Setting Difficulty" with "Setting Vantage" and "Setting Stakes"
 - [x] TODO.md - Updated to reflect Vantage/Stakes completion
+- [x] 02-core-mechanics.md - Replaced early Vantage section + Difficulty Guidelines + all examples
+- [x] gm-cheat-sheet.md - Added Vantage and Stakes quick reference
+- [x] 10-spellcasting.md - Changed "Default Difficulty" to "Default Vantage"
+- [x] 06-challenges.md - Updated "Balancing Difficulty" section with Vantage/Stakes integration
+- [x] appendix-c-challenge-quick-reference.md - Updated 5 sections with new terminology
 
-### 🔄 In Progress
-- [ ] 02-core-mechanics.md - Contains "Difficulty Guidelines" section with old Easy/Hard/Very Hard scale
-- [ ] gm-cheat-sheet.md - References old difficulty scale
-- [ ] 06-challenges.md - May contain difficulty references
-- [ ] 10-spellcasting.md - References "Standard Difficulty"
-- [ ] appendix-a-design-notes.md - Design notes may reference old system
-- [ ] appendix-c-challenge-quick-reference.md - Quick ref tables with old difficulty
+### ⚠️ Minor Remaining (Optional)
+- [ ] appendix-c-challenge-quick-reference.md - Two tables (lines 57, 323) have formatting that could be adjusted
+- [ ] appendix-a-design-notes.md - Contains one "Very Hard" reference in historical design context (line 511) - acceptable to keep
 
 ---
 

@@ -446,58 +446,9 @@ Your action energizes and prepares for follow-up.
 
 ---
 
-### Conditions and Advantages on Enemies
+**Note:** For creating Conditions on enemies, bypassing Complications, and other Challenge-facing tactics, see **Chapter 6: Challenges**.
 
-**Conditions** are temporary vulnerabilities you create on enemies (Blinded, Slowed, Weakened, Off-Balance).
-
-**How They Work:**
-- Grant allies **1 Boon** (or **1 Edge** if targeting specific Complication) when acting against that enemy
-- **Duration:** 1 action (default), 2 actions (with Greater Effect), or scene-long (Potent Spell)
-- **Tracking:** Place marker near enemy ("Blinded 2"), tick down as allies use it
-- Created via Secondary Effect: Create Advantage, spell debuffs, or combat maneuvers
-
-**Conditions vs Complications:**
-- **Conditions** (temporary): Player-created, tick down as used
-- **Complications** (permanent): Built into Challenge, removed only through fiction (disarm, destroy armor)
-- Both grant Boons/Edge, but differ in source and duration
-
-**Example:**
-> PC kicks sand in enemy's eyes → Enemy is Blinded 1 → Ally attacks with 1 Boon → Effect ends
-
----
-
-### Bypassing or Removing Complications
-
-Secondary Effects can change the fiction to bypass or remove enemy Complications:
-
-**BYPASS (Temporary):**
-- **Secondary Effect: Create Advantage** grants ally 1 Edge to bypass a specific Complication for their next action
-- Source remains intact, Complication returns after
-- *Examples:* Reveal weak point in armor, cast Light on invisible foe, pin shield arm
-
-**REMOVE (Permanent):**
-- **Secondary Effect: Take Something** or **Change Situation** destroys/removes the source
-- Complication is gone until fiction changes
-- *Examples:* Disarm legendary sword (Deadly gone), smash breastplate (Resilient gone), shove from fortified position
-
-**GM Adjudication:** Ask "Does the fiction remove the source permanently, or just work around it?" Bypass is temporary advantage; Remove requires significant commitment (destroying equipment, eliminating sources).
-
----
-
-### Creative Narrative Effects
-
-**Work with Your GM:**
-
-Secondary Effects (free Defy actions) can create narrative advantages beyond immediate tactical benefits. If your success should logically produce a lasting fictional change, work with your GM to determine the impact:
-
-- Make a merchant remain friendly after negotiation (Change Situation)
-- Baroness lets slip a secret (Take Something - information)
-- Impress witnesses to gain reputation (Change Situation)
-- Create a distraction that complicates enemy plans (Create Advantage)
-- Establish rapport with an NPC (Change Situation)
-- Change the tone or stakes of a negotiation (Change Situation)
-
-If the effect changes the fiction in a meaningful way that doesn't grant immediate mechanical bonuses, it's still a valid Secondary Effect. The key is that it creates a **lasting fictional advantage** that could pay off later.
+**Note on Stacking:** Triumph + Greater Effect = 2 ticks. If Talents add bonuses, totals can reach 3-4 ticks on a single roll. This is intentional—heroes should feel powerful when Traits apply and they roll well. If this trivializes tracks, use larger tracks (6-10 ticks) for important goals.
 
 ---
 
@@ -524,6 +475,8 @@ If the effect changes the fiction in a meaningful way that doesn't grant immedia
 **Talent Gates:** Some extraordinary effects may require specific Talents (instant kills, affecting 10+ targets at once, permanent reality-warping changes).
 
 **When in Doubt, Say Yes:** If the player's proposal fits the fiction and makes sense, approve it. Adjust scale if needed.
+
+**Narrative Secondary Effects:** Secondary Effects can create lasting fictional advantages beyond immediate tactical bonuses (establish rapport with NPC, change negotiation tone, gain reputation from witnesses). If it meaningfully changes the fiction, it's valid—even without immediate mechanical bonuses.
 
 **Examples:**
 - ✓ "I disarm him and kick his sword away" — Secondary Effect: Take Something (reasonable)
@@ -736,27 +689,6 @@ Defy is a **proactive action** — you use it when actively overcoming obstacles
 - Consequences that land without warning (those just happen — you can Resist with Momentum)
 - Reducing consequences after they happen (that's Resist Consequence)
 
-### The Defensive Framework
-
-**Active Defense (Defy):**
-When you see danger coming, you can respond with any action — including Defy to avoid it.
-
-> **GM:** "The dragon rears back, flames gathering in its throat—you've got seconds!"
-> **PC:** "I Defy by diving behind the pillar!" (rolls Defy)
-> - Success = avoid fire breath
-> - Conflict = singed, mark 1 Stress  
-> - Setback = full blast hits (mark 2 Stress)
-
-**Reactive Defense (Resist Consequence):**
-When a consequence lands (from your Setback, an unseen attack, a trap), you can spend 1 Momentum to automatically reduce Consequence Tier by 1. No roll required.
-
-> **PC:** Rolls Clash, gets Setback
-> **GM:** "The knight's counterattack slams into your ribs. Mark 2 Stress."
-> **PC:** "I spend Momentum to Resist—I roll with the blow, reducing it to 1 Stress."
-
-See **Chapter 5: Resist Consequence** for complete rules.
-
----
 
 #### Clash - Harm
 
@@ -1152,24 +1084,6 @@ See **Chapter 5: Resilience** for complete Resist Consequence rules.
 
 ---
 
-## Multiple Doubling Instances
-
-**Watch out for stacking bonuses.** If you have:
-- Triumph (marks 1 tick base)
-- Relevant Trait invoked for Greater Effect (marks 2 ticks instead)
-- Special Talent (grants bonus tick)
-
-You could end up marking 3-4 ticks on a single roll when everything aligns.
-
-**GM Guidance:**
-- **Triumph marks 1 tick** (base Success amount)
-- **Invoking Trait for Greater Effect** marks 2 ticks instead of 1
-- This is intended—Triumph + Greater Effect should feel impactful
-- If this trivializes tracks, use larger tracks (6-10 ticks) for important goals
-
-**Design Note:** The system intentionally rewards relevant Trait invocation. Heroes should feel powerful when their Traits apply and they roll well.
-
----
 
 ## Design Notes
 
@@ -1213,16 +1127,17 @@ This creates:
 ## Quick Reference
 
 **Action Roll Steps:**
-1. Player declares intent (Action + Approach)
-2. GM telegraphs stakes (track type, difficulty, consequences, Complications)
-3. Calculate Boons and Banes from all sources (cancel 1:1)
-4. Player rolls dice pool (Approach + Boons - Banes)
-5. Determine raw outcome (check highest die and double 6s)
-6. Apply Complications to reduce tier (Triumph ignores all)
-7. Determine final outcome
-8. If Conflict or Setback: you face Impact Move (soft on Conflict, hard on Setback)
-9. If Trait relevant and outcome is Conflict+: Invoke Trait for Special Effect
-10. Resolve outcome (Setback = 0 ticks, Conflict = full effect + Impact Move, Success = full effect, Triumph = full effect + Momentum + ignore Complications)
+1. Declare intent (Action + Approach)
+2. GM telegraphs stakes (Vantage, consequences, Complications)
+3. Roll dice (Approach + Boons - Banes)
+4. Apply Complications (reduce outcome tier, Triumph ignores all)
+5. Resolve outcome + invoke Trait for Special Effect if Conflict+
+
+**Outcomes:**
+- **Triumph** (two+ 6s): Full effect + Momentum + ignore Complications + may invoke Trait
+- **Success** (one 6): Achieve intent cleanly
+- **Conflict** (4-5): Achieve intent + Minor Consequence
+- **Setback** (1-3): Fail + Major Consequence
 
 **The Five Actions (Primary Effects):**
 - **Defy → Overcome:** Mark 1 tick on Obstacle track (Conflict/Success) or auto-overcome simple tasks

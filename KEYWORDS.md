@@ -179,8 +179,8 @@ This document defines the canonical capitalization for all mechanical terms in t
 
 **Vantage Tiers (Always Capitalized):**
 - Certain (auto-success)
-- Reasonable (standard roll)
-- Doubtful (roll with Banes)
+- Standard (standard roll)
+- Difficult (roll with Banes)
 - Impossible (cannot attempt)
 
 **Stakes Levels (Always Capitalized):**
@@ -286,8 +286,8 @@ These terms should be capitalized **only when referring to the mechanical game c
 ❌ **Wrong:** "When you take a short rest"  
 ✅ **Correct:** "When you take a Short Rest"
 
-❌ **Wrong:** "This is reasonable difficulty"  
-✅ **Correct:** "This is Reasonable Vantage" or "Your Vantage is Reasonable"
+❌ **Wrong:** "This is standard difficulty"  
+✅ **Correct:** "This is Standard Vantage" or "Your Vantage is Standard"
 
 ❌ **Wrong:** "The stakes are high"  
 ✅ **Correct:** "This is High Stakes" (when referring to the mechanical system)
@@ -306,6 +306,7 @@ These terms should be capitalized **only when referring to the mechanical game c
 
 ## Version History
 
+- v1.3 (2026-06-25): Renamed Vantage tiers: Reasonable → Standard, Doubtful → Difficult (more intuitive)
 - v1.2 (2026-06-25): Restructured Special Effects - replaced Additional Effects with Secondary Effect (free Defy action), clarified Enhanced Effect categories
 - v1.1 (2026-06-25): Added Vantage and Stakes terminology, updated GM Tools section
 - v1.0 (2026-06-24): Initial keyword list compiled from core chapters

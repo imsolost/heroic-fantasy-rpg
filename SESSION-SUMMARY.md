@@ -6,7 +6,7 @@
 **Created comprehensive frameworks inspired by GWCE, Chasing Adventure, Blades in the Dark, and Dungeon World 2:**
 
 - **vantage.md** (16KB, 380 lines) - Complete fictional positioning framework
-  - Four tiers: Certain / Reasonable / Doubtful / Impossible
+  - Four tiers: Certain / Standard / Difficult / Impossible
   - Three Questions decision tool
   - Collaborative conversation guidance
   - Examples and edge cases
@@ -55,7 +55,7 @@
 ### Stakes IS Danger
 - Simple consequence tier modifier (±1)
 - Works independently from Vantage
-- Can mix: Doubtful + Low Stakes, Reasonable + High Stakes
+- Can mix: Difficult + Low Stakes, Standard + High Stakes
 
 ### Preserved "When to Roll" Guidance
 - Kept DIFFICULT/DANGEROUS/DRAMATIC as player-friendly heuristic
@@ -78,7 +78,7 @@
 **The game is now unified, consistent, and ready for play.**
 
 All player-facing and GM-facing chapters use:
-- **Vantage** (Certain/Reasonable/Doubtful/Impossible) for difficulty
+- **Vantage** (Certain/Standard/Difficult/Impossible) for difficulty
 - **Stakes** (Low/Regular/High) for consequence severity
 - Consistent capitalization per KEYWORDS.md v1.1
 

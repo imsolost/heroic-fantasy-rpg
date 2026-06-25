@@ -51,10 +51,10 @@ Vantage is your fictional positioning that determines how difficult an action is
 **Certain** — Clear capability, proper tools, task is trivial:
 - No roll required → Auto-success
 
-**Reasonable** — Capability present, outcome uncertain:
+**Standard** — Capability present, outcome uncertain:
 - Standard roll → No modifier
 
-**Doubtful** — Lacking ideal tools/positioning OR task stretches capability:
+**Difficult** — Lacking ideal tools/positioning OR task stretches capability:
 - Roll with 1-2 Banes (depending on severity)
 - May require Expertise or Trait to attempt reliably
 
@@ -63,10 +63,10 @@ Vantage is your fictional positioning that determines how difficult an action is
 - GM works with player to find an approach they DO have vantage for
 
 **Examples in Play:**
-- "I pick the lock" with tools → Certain (auto-success if simple) or Reasonable (if complex)
-- "I pick the lock" without tools → Doubtful (1-2 Banes depending on lock complexity)
+- "I pick the lock" with tools → Certain (auto-success if simple) or Standard (if complex)
+- "I pick the lock" without tools → Difficult (1-2 Banes depending on lock complexity)
 - "I swing my sword" with broken arm → Impossible (cannot attempt, try different approach)
-- "I suture the wound" with medical Expertise → Certain or Reasonable (depending on wound severity)
+- "I suture the wound" with medical Expertise → Certain or Standard (depending on wound severity)
 - "I convince the guard" who doesn't speak your language → Impossible (via Talk) → Try different approach (bribe? gesture? find translator?)
 
 **See [Vantage](vantage.md) for complete framework.**

@@ -9,8 +9,8 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 
 **The Four Tiers:**
 - **Certain** → Auto-success (no roll)
-- **Reasonable** → Standard roll (no modifier)
-- **Doubtful** → Roll with 1-2 Banes
+- **Standard** → Standard roll (no modifier)
+- **Difficult** → Roll with 1-2 Banes
 - **Impossible** → Cannot attempt
 
 **Key Features:**
@@ -34,7 +34,7 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 - Simple tier adjustment (±1, with floor/ceiling)
 - No special resolution tables—uses existing Consequence framework
 - "The greater the stakes, the clearer the communication"
-- Works independently from Vantage (can mix: Doubtful + Low Stakes, Reasonable + High Stakes)
+- Works independently from Vantage (can mix: Difficult + Low Stakes, Standard + High Stakes)
 
 ---
 
@@ -48,9 +48,9 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 | **Stakes** | How dangerous is failure? | Consequence Tier adjustment (±1) |
 
 **Examples:**
-- Climbing training wall without rope → **Doubtful (1 Bane) + Low Stakes** → Hard but safe to fail
-- Expert climbing easy cliff over lava → **Reasonable + High Stakes** → Easy but deadly to fail
-- Non-climber scaling difficult cliff over lava → **Doubtful (2 Banes) + High Stakes** → Hard AND deadly (seek alternate approach!)
+- Climbing training wall without rope → **Difficult (1 Bane) + Low Stakes** → Hard but safe to fail
+- Expert climbing easy cliff over lava → **Standard + High Stakes** → Easy but deadly to fail
+- Non-climber scaling difficult cliff over lava → **Difficult (2 Banes) + High Stakes** → Hard AND deadly (seek alternate approach!)
 
 ---
 
@@ -73,7 +73,7 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 ## Design Principles Applied
 
 **From Grimwild Community Edition:**
-- Vantage scale as unified difficulty system (Certain/Reasonable/Doubtful/Impossible)
+- Vantage scale as unified difficulty system (Certain/Standard/Difficult/Impossible)
 - Stakes as consequence severity calibration
 - "The greater the stakes, the clearer the communication"
 
@@ -103,7 +103,7 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 ### **Clarified:**
 - ✅ Vantage determines WHEN to roll and HOW MANY Banes
 - ✅ Stakes determines consequence SEVERITY
-- ✅ They work independently (can mix Doubtful + Low Stakes, etc.)
+- ✅ They work independently (can mix Difficult + Low Stakes, etc.)
 - ✅ Consequence Tier cannot go below Minor (→ narrative) or above Severe
 
 ### **Emphasized:**
@@ -120,8 +120,8 @@ Two new core frameworks inspired by Grimwild Community Edition, Chasing Adventur
 
 1. **What's their Vantage?** (Can they attempt? How difficult?)
    - Certain → Auto-success
-   - Reasonable → Standard roll
-   - Doubtful → 1-2 Banes
+   - Standard → Standard roll
+   - Difficult → 1-2 Banes
    - Impossible → Cannot attempt
 
 2. **What are the Stakes?** (How dangerous is failure?)

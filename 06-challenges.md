@@ -15,7 +15,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 - **Social opposition:** Suspicious nobles, hostile factions, stubborn officials
 - **Environmental:** Blizzards, collapsing bridges, raging rivers
 
-**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Reasonable/Doubtful/Impossible) to determine if a roll is needed and difficulty.
+**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Standard/Difficult/Impossible) to determine if a roll is needed and difficulty.
 
 **Significant Challenges** have **Complications** (passive traits) and **Challenge Moves** (active abilities).
 
@@ -1633,11 +1633,11 @@ Boss encounters should require **team coordination** and **multiple actions**.
 
 **Complications are your primary difficulty lever.** Combine with Vantage and Stakes to calibrate challenge:
 
-**1 Complication:** Requires setup or Momentum spend (manageable solo) + Reasonable Vantage
+**1 Complication:** Requires setup or Momentum spend (manageable solo) + Standard Vantage
 
-**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Reasonable or Doubtful Vantage
+**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Standard or Difficult Vantage
 
-**3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment) + Doubtful Vantage + High Stakes
+**3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment) + Difficult Vantage + High Stakes
 
 **Remember:** Triumph ignores all Complications, so even 3+ Complication enemies are beatable with good rolls and Momentum generation.
 

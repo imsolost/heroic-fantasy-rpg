@@ -12,8 +12,8 @@ These work together:
 - **Stakes** determines consequence severity (Low/Regular/High)
 
 **Example:**
-- Climbing sheer wall with climbing gear → **Doubtful** (Hard, 1 Bane) + **Regular Stakes** (Setback = Major Consequence)
-- Climbing same wall with safety rope → **Reasonable** (Standard) + **Low Stakes** (Setback = Minor Consequence)
+- Climbing sheer wall with climbing gear → **Difficult** (Hard, 1 Bane) + **Regular Stakes** (Setback = Major Consequence)
+- Climbing same wall with safety rope → **Standard** (Standard) + **Low Stakes** (Setback = Minor Consequence)
 
 ---
 
@@ -27,8 +27,8 @@ Before calling for a roll, ask:
 
 **2. What's their Vantage?** (Given who they are and the situation, where do they fall?)
 - **Certain** → Auto-success (no roll needed)
-- **Reasonable** → Standard roll (no modifier)
-- **Doubtful** → Roll with 1-2 Banes (depending on how disadvantaged)
+- **Standard** → Standard roll (no modifier)
+- **Difficult** → Roll with 1-2 Banes (depending on how disadvantaged)
 - **Impossible** → Cannot attempt
 
 **3. Is failure interesting?** (Would failure create drama/complications/stakes?)
@@ -63,7 +63,7 @@ Before calling for a roll, ask:
 
 ---
 
-### Reasonable
+### Standard
 **You have the capability and tools, but the outcome is uncertain.**
 
 **Standard roll (no modifier).** The character has a solid chance of success, but the outcome is uncertain.
@@ -81,7 +81,7 @@ Before calling for a roll, ask:
 
 ---
 
-### Doubtful
+### Difficult
 **You lack ideal tools/positioning OR the task stretches your capability.**
 
 **Roll with 1-2 Banes** (depending on severity).
@@ -134,7 +134,7 @@ Before calling for a roll, ask:
 **Layer 1: Character Sheet**
 - Calling, Talents, Expertise, Backgrounds, Stats, Gear, Conditions
 
-**Layer 2: Reasonable Interpretation**
+**Layer 2: Standard Interpretation**
 - Experience implied by sheet (a Hunter knows wilderness survival, a Sage has studied ancient texts)
 - Skills and knowledge reasonably assumed from Backgrounds
 
@@ -163,27 +163,27 @@ The GM makes the final call, but players should advocate for their positioning a
 
 **If the GM rules differently than expected, ask for clarification:**
 
-- "It's Doubtful? I thought it'd be Reasonable. Can you explain what makes it harder?"
-- "What would I need to do to make this Reasonable instead of Doubtful?"
+- "It's Difficult? I thought it'd be Standard. Can you explain what makes it harder?"
+- "What would I need to do to make this Standard instead of Difficult?"
 - "Can I spend time preparing to improve my Vantage?"
 
 ### As a GM: Explain Your Reasoning
 
 **You have final say, but make your logic transparent:**
 
-- "It's Doubtful because you don't have the right tools—lockpicking a complex mechanism without lockpicks is very hard. If you had thieves' tools, it'd be Reasonable."
+- "It's Difficult because you don't have the right tools—lockpicking a complex mechanism without lockpicks is very hard. If you had thieves' tools, it'd be Standard."
 - "It's Impossible right now because you're Stunned—you can't concentrate to cast. Once the Stunned condition clears, you can try."
 - "It's Certain because you have Expertise in this domain and the lock is simple—no roll needed, you pick it."
 
 **Set precedents that players can build on:**
 
-- "Last time we climbed with rope it was Reasonable—this is the same situation, so same ruling."
+- "Last time we climbed with rope it was Standard—this is the same situation, so same ruling."
 - "We ruled that Expertise makes simple tasks within your domain Certain—that applies here too."
 
 **Discuss edge cases with the table:**
 
-- "I'm thinking this is Doubtful because of X and Y. Does that seem fair to everyone?"
-- "This feels borderline between Reasonable and Doubtful. What do you all think?"
+- "I'm thinking this is Difficult because of X and Y. Does that seem fair to everyone?"
+- "This feels borderline between Standard and Difficult. What do you all think?"
 
 By having this conversation openly, you:
 - Build shared understanding of the world
@@ -203,8 +203,8 @@ By having this conversation openly, you:
 
 2. **Assess Vantage:** "Where do they fall on the Vantage scale?"
    - **Certain** → Auto-success (no roll needed)
-   - **Reasonable** → Standard roll (no modifier)
-   - **Doubtful** → Roll with 1-2 Banes
+   - **Standard** → Standard roll (no modifier)
+   - **Difficult** → Roll with 1-2 Banes
    - **Impossible** → Cannot attempt
 
    **Consider:**
@@ -219,15 +219,15 @@ By having this conversation openly, you:
 
 **Example Assessments:**
 
-- **Champion with sword vs. goblin** → Reasonable (has weapon, competent foe)
-- **Champion with sword vs. armored knight** → Reasonable (still capable, but knight has Complications)
-- **Champion unarmed vs. armored knight** → Doubtful, 1 Bane (lacking ideal tool)
+- **Champion with sword vs. goblin** → Standard (has weapon, competent foe)
+- **Champion with sword vs. armored knight** → Standard (still capable, but knight has Complications)
+- **Champion unarmed vs. armored knight** → Difficult, 1 Bane (lacking ideal tool)
 - **Champion with broken arm vs. knight** → Impossible (Condition removes capability)
 
 - **Shadow with tools vs. simple lock** → Certain (within Expertise, trivial task)
-- **Shadow with tools vs. complex lock** → Reasonable (within Expertise, challenging task)
-- **Shadow without tools vs. simple lock** → Doubtful, 1 Bane (lacking tools, simple task)
-- **Shadow without tools vs. complex lock** → Doubtful, 2 Banes (lacking tools, difficult task)
+- **Shadow with tools vs. complex lock** → Standard (within Expertise, challenging task)
+- **Shadow without tools vs. simple lock** → Difficult, 1 Bane (lacking tools, simple task)
+- **Shadow without tools vs. complex lock** → Difficult, 2 Banes (lacking tools, difficult task)
 
 ---
 
@@ -287,26 +287,26 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **They combine to create the full picture:**
 
-**Example 1: Doubtful Vantage + Low Stakes**
-- Climbing training wall without safety rope (Doubtful, 1 Bane + Low Stakes)
+**Example 1: Difficult Vantage + Low Stakes**
+- Climbing training wall without safety rope (Difficult, 1 Bane + Low Stakes)
 - Difficult to climb but safe to fail
 - Conflict: Slip and look foolish (narrative consequence)
 - Setback: Fall and mark 1 Stress (embarrassment)
 
-**Example 2: Reasonable Vantage + High Stakes**
-- Expert climber scaling standard cliff over lava pit (Reasonable + High Stakes)
+**Example 2: Standard Vantage + High Stakes**
+- Expert climber scaling standard cliff over lava pit (Standard + High Stakes)
 - Standard roll but deadly to fail
 - Conflict: Make it but mark 2 Stress (heat and strain)
 - Setback: Fall into lava, Taken Out
 
-**Example 3: Doubtful Vantage + High Stakes**
-- Non-climber scaling difficult cliff over lava (Doubtful, 2 Banes + High Stakes)
+**Example 3: Difficult Vantage + High Stakes**
+- Non-climber scaling difficult cliff over lava (Difficult, 2 Banes + High Stakes)
 - Very difficult AND deadly to fail
 - Conflict: Barely make it, mark 2 Stress
 - Setback: Fall, Taken Out
 - **This is when PCs should seek alternate approaches**
 
-**Key Insight:** Just because something is difficult (Vantage) doesn't mean it's dangerous (Stakes), and vice versa. A master thief picking a complex lock in a safe environment = Reasonable + Low Stakes. A novice threatening a king = Reasonable + High Stakes.
+**Key Insight:** Just because something is difficult (Vantage) doesn't mean it's dangerous (Stakes), and vice versa. A master thief picking a complex lock in a safe environment = Standard + Low Stakes. A novice threatening a king = Standard + High Stakes.
 
 ---
 
@@ -326,29 +326,29 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Example 1: Climbing**
 - Climbing a ladder → **Certain** (no roll, automatic success)
-- Climbing a rope with handholds → **Reasonable** (standard roll)
-- Climbing a sheer wall with climbing gear → **Doubtful, 1 Bane** (proper tools, but very difficult)
-- Climbing sheer wall without gear → **Doubtful, 2 Banes** (no tools AND very difficult)
+- Climbing a rope with handholds → **Standard** (standard roll)
+- Climbing a sheer wall with climbing gear → **Difficult, 1 Bane** (proper tools, but very difficult)
+- Climbing sheer wall without gear → **Difficult, 2 Banes** (no tools AND very difficult)
 - Climbing with broken arm → **Impossible** (Condition removes capability)
 
 **Example 2: Persuasion**
 - Convincing friendly NPC of obvious truth → **Certain** (no roll)
-- Convincing friendly NPC to help → **Reasonable** (standard roll)
-- Convincing suspicious noble → **Doubtful, 1 Bane** (working against mistrust)
-- Convincing hostile enemy to betray their lord → **Doubtful, 2 Banes** (extremely difficult, no leverage)
+- Convincing friendly NPC to help → **Standard** (standard roll)
+- Convincing suspicious noble → **Difficult, 1 Bane** (working against mistrust)
+- Convincing hostile enemy to betray their lord → **Difficult, 2 Banes** (extremely difficult, no leverage)
 - Convincing someone in a language you don't speak → **Impossible** (need translator)
 
 **Example 3: Spellcasting**
-- Sage casting known theorem → **Reasonable** (standard roll)
-- Sage using Arcane Formula (improvised spell) → **Doubtful, 1 Bane** (working from theory, not mastery)
+- Sage casting known theorem → **Standard** (standard roll)
+- Sage using Arcane Formula (improvised spell) → **Difficult, 1 Bane** (working from theory, not mastery)
 - Sage casting while Stunned → **Impossible** (Condition prevents concentration)
 - Non-spellcaster trying to cast spell → **Impossible** (no capability)
 
 **Example 4: Lock Picking**
 - Shadow with tools vs. simple lock → **Certain** (Expertise + tools, no roll)
-- Shadow with tools vs. complex lock → **Reasonable** (standard roll)
-- Shadow without tools vs. simple lock → **Doubtful, 1 Bane** (improvising without proper tools)
-- Shadow without tools vs. complex lock → **Doubtful, 2 Banes** (no tools AND very difficult)
+- Shadow with tools vs. complex lock → **Standard** (standard roll)
+- Shadow without tools vs. simple lock → **Difficult, 1 Bane** (improvising without proper tools)
+- Shadow without tools vs. complex lock → **Difficult, 2 Banes** (no tools AND very difficult)
 - Non-thief without tools → **Impossible** (no capability, no tools)
 
 ---
@@ -359,13 +359,13 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Three Questions:**
 1. **Can they attempt this?** (Capability, tools, positioning)
-2. **How difficult is it?** (Certain/Reasonable/Doubtful/Impossible)
+2. **How difficult is it?** (Certain/Standard/Difficult/Impossible)
 3. **Is failure interesting?** (If no, don't roll—let it happen)
 
 **Four Vantage Tiers:**
 - **Certain** → No roll (automatic success)
-- **Reasonable** → Standard roll (no modifier)
-- **Doubtful** → Roll with 1-2 Banes (lacking tools/capability, or task very difficult)
+- **Standard** → Standard roll (no modifier)
+- **Difficult** → Roll with 1-2 Banes (lacking tools/capability, or task very difficult)
 - **Impossible** → Cannot attempt (suggest different approach)
 
 **Vantage IS your difficulty system.** It determines whether you roll and how many Banes.

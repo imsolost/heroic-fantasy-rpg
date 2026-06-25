@@ -159,12 +159,12 @@ The stakes are resolved in **one moment**, not ground down over five rolls.
 **Check Vantage:** When a player attempts something, assess their fictional positioning: "Do they have the capability, position, or resources to attempt this?"
 
 - **Certain** → Auto-success, no roll needed (trivial for them)
-- **Reasonable** → Standard roll, no modifier
-- **Doubtful** → Roll with 1-2 Banes (lacking tools, position, or capability)
+- **Standard** → Standard roll, no modifier
+- **Difficult** → Roll with 1-2 Banes (lacking tools, position, or capability)
 - **Impossible** → Cannot attempt with this approach; work with player to find an approach they DO have vantage for
 
 Examples:
-- "I pick the lock" without tools → Doubtful (roll with 1 Bane)
+- "I pick the lock" without tools → Difficult (roll with 1 Bane)
 - "I swing sword" with broken arm → Impossible → "That won't work, try something else"
 - Convincing guard who doesn't speak your language → Impossible via Talk → Suggest different Action (bribe? gesture?)
 
@@ -187,11 +187,11 @@ See **vantage.md** for complete Vantage framework and the Three Questions tool.
 - **No roll required.** Success is automatic.
 - *Example: Champion swinging weapon, Shadow picking simple lock with tools*
 
-**Reasonable** — Character has capability and tools, but outcome is uncertain.
+**Standard** — Character has capability and tools, but outcome is uncertain.
 - **Standard roll** (no modifier). This is the default for most action rolls.
 - *Example: Climbing rope with handholds, casting known spell, fighting competent enemy*
 
-**Doubtful** — Character lacks ideal tools/positioning OR task stretches capability.
+**Difficult** — Character lacks ideal tools/positioning OR task stretches capability.
 - **Roll with 1-2 Banes** (depending on severity).
 - **1 Bane:** Lacking proper tools, task at edge of capability, minor hindrances
 - **2 Banes:** No tools AND difficult task, multiple disadvantages stacking

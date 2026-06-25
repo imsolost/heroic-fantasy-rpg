@@ -34,11 +34,11 @@ Once a roll is needed, the GM assesses your **Vantage** (fictional positioning) 
 - **No roll required.** Success is automatic.
 - *Example: Champion swinging weapon in combat, Shadow picking simple lock with tools*
 
-**Reasonable** — You have capability and tools, but the outcome is uncertain.
-- **Standard roll** (no modifier). Most action rolls are Reasonable.
+**Standard** — You have capability and tools, but the outcome is uncertain.
+- **Standard roll** (no modifier). Most action rolls are Standard.
 - *Example: Climbing rope with handholds, persuading friendly guard, casting known spell*
 
-**Doubtful** — You lack ideal tools/positioning OR the task stretches your capability.
+**Difficult** — You lack ideal tools/positioning OR the task stretches your capability.
 - **Roll with 1-2 Banes** (depending on severity).
 - *Example: Climbing sheer wall with gear (1 Bane), same wall without gear (2 Banes)*
 
@@ -75,8 +75,8 @@ The GM evaluates the situation and communicates clearly:
 **Vantage (Difficulty):**
 - Where does the character fall on the Vantage scale?
   - **Certain:** Auto-success (no roll)
-  - **Reasonable:** Standard roll (no modifier)
-  - **Doubtful:** Roll with 1-2 Banes
+  - **Standard:** Standard roll (no modifier)
+  - **Difficult:** Roll with 1-2 Banes
   - **Impossible:** Cannot attempt
 - See [Vantage](vantage.md) for complete assessment framework
 

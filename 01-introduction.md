@@ -77,9 +77,15 @@ Roll your dice pool (Xd6) and check **the highest single die**:
 
 ## Key Mechanics
 
+### Expertise
+
+Characters with **Expertise** in a specific domain (e.g., Heavy Blades, Stealth, Tracking) are masters of their craft. When your final outcome (after applying Complications) would be **Setback**, it becomes **Conflict** instead — you still succeed, but at a cost.
+
+**You don't fail, but difficult situations still extract a price.** See Chapter 2 for complete rules.
+
 ### Momentum
 
-**Earn:** Roll Triumph (double 6s), create complications for yourself that drive the story, or choose Build Momentum when you successfully invoke a Trait
+**Earn:** Roll Triumph (double 6s), create complications for yourself that drive the story (optional, see Chapter 7), or choose Build Momentum when you successfully invoke a Trait
 
 **Spend:**
 - **Create an Opening (1 Momentum)** — Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats (see Chapter 2)

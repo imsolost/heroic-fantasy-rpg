@@ -224,10 +224,10 @@ Catastrophic failure:
 ## Progress Tracks
 
 **Harm Track:** HP equivalent (mark to defeat enemies)
-- Tier 1 (minion): 2 ticks
-- Tier 2 (standard): 4 ticks
-- Tier 3 (elite): 6 ticks
-- Tier 4 (boss): 8 ticks
+- CR 1 (minion): 2 ticks
+- CR 2 (standard): 4 ticks
+- CR 3 (elite): 6 ticks
+- CR 4 (boss): 8 ticks
 
 **Obstacle Track:** Environmental/physical challenges (mark to overcome)
 - Quick: 4 ticks
@@ -282,16 +282,16 @@ Catastrophic failure:
 
 Your character's capabilities and current situation—determines what you can attempt.
 
-- **Clear Vantage:** Anyone can try (no permission needed)
-- **Limited Vantage:** Requires Expertise, Trait, gear, or fictional setup
-- **No Vantage:** Impossible given who you are or current circumstances
+- **Clear Vantage:** Anyone can try (no modifier)
+- **Limited Vantage:** Requires Expertise, Trait, gear, or fictional setup (may impose 1 Bane if lacking)
+- **No Vantage:** Impossible given who you are or current circumstances (may impose 2 Banes or prevent action entirely)
 
 **Examples:**
 - Doctor can suture wounds (Expertise grants vantage)
-- Can't pick lock without tools (no vantage)
-- Can't swing sword with broken arm (Condition removes vantage)
+- Can't pick lock without tools (no vantage → 2 Banes or impossible)
+- Can't swing sword with broken arm (Condition removes vantage → 1-2 Banes or impossible)
 
-**At the table:** When a player attempts something unusual, ask: "Do you have vantage for that?"
+**At the table:** When a player attempts something unusual, ask: "Do you have vantage for that?" Use Banes to represent difficulty from lacking proper positioning, tools, or capability.
 
 ---
 

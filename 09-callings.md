@@ -162,7 +162,7 @@ The GM should signal when Favor returns (typically at the end of a scene or afte
 ### Additional Talents
 
 **Chosen Vessel [ ] [ ]**
-Mark this after rolling Setback on a patron invocation. Treat the result as Conflict instead. This conversion happens before Favor loss is assessed — if the converted result would not normally cause Favor loss, it doesn't.
+Mark this after rolling Setback on a patron invocation. Treat the result as Conflict instead. **Using Chosen Vessel always prevents Favor loss** — the conversion happens before Favor loss is assessed, and Conflict outcomes do not cause Favor loss.
 
 **Consecrated Ground**
 When given time, you can sanctify a location no larger than a small building — a sacred grove, a chapel, a cemetery. You and your allies have Expertise on all actions against enemies of your patron within that space. The consecration lasts for the scene. Push Yourself to make it last until your next Long Rest, or to consecrate the space instantly.

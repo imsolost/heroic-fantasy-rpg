@@ -132,13 +132,7 @@ You serve as a bridge between the mortal world and forces beyond — divine, anc
 
 **Define Your Patron:** Name and describe your patron (deity, ancestral spirit, primal force, cosmic entity, etc.). Choose **2 domains** they hold — these are touchstones for what they can grant.
 
-**Example Domains:** Ancestors, Battle, Death, Healing, Life, Nature, Prophecy, Protection, Storms, Sun, Moon, Vengeance, War, Wisdom, etc.
-
-**Work with your GM to define what each domain can do** (2-3 examples per domain):
-- **Healing:** Mend wounds, cure disease, restore vitality, cleanse corruption
-- **Nature:** Command beasts, summon plants, call weather, traverse wilderness
-- **Death:** Speak with dead, guide spirits, wither enemies, sense the dying
-- **Protection:** Shield allies, create sanctuaries, ward against harm, deflect evil
+**Example Domains:** Ancestors, Battle, Death, Healing, Life, Nature, Prophecy, Protection, Storms, Sun, Moon, Vengeance, War, Wisdom, etc. Work with your GM to define what each domain can do (see Chapter 10 for examples).
 
 **Invoking Your Patron:** When you invoke your patron's power, describe what you ask for within their domains. Choose the Action that matches your intent (Defy to protect, Clash to smite, Talk to bless or curse, Sense for visions, Know to commune for answers). Roll **Spirit + Action**.
 
@@ -223,23 +217,12 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 - **Matter** — Physical form, substance, and density
 - **Energy** — Thermal, elemental, kinetic, and raw energy
 - **Mind** — Thought, emotion, perception, and consciousness
-- **Spirit** — Souls, life force, death, and entities beyond the veil
-- **Space** — Distance, location, geometry, and dimensional boundaries
-- **Time** — Causality, temporal flow, memory, and chronology
-- **Pattern** — Information, probability, raw mana, and magical structure
+- **Spirit** — Souls, life force, death, entities beyond the veil
+- **Space** — Distance, location, geometry, dimensional boundaries
+- **Time** — Causality, temporal flow, memory, chronology
+- **Pattern** — Information, probability, raw mana, magical structure
 
-**Spell Theorems:** Each theorem you know is a mastered spell defined by a Sphere and an Operation (e.g., "Searing Bolt [Energy, Destroy]" or "Mind Blank [Mind, Deceive]"). When you cast a known theorem, describe the effect and roll **Cunning + appropriate Action** (Defy/Clash/Talk/Sense/Know based on your intent).
-
-**Operations** (what the spell does):
-- **Reveal** — Perceive, divine, sense, translate, or audit information
-- **Alter** — Change internal state, properties, behavior, or material form
-- **Create** — Conjure objects, elemental effects, or entities from raw mana
-- **Destroy** — Harm, disintegrate, unmake, or unravel targets
-- **Bind** — Restrain, compel, ward, hold in place, or force compliance
-- **Move** — Transport, reposition, propel, or alter spatial coordinates
-- **Mend** — Restore, heal, repair, purify, or stabilize broken systems
-- **Enhance** — Amplify, augment, or empower natural capabilities
-- **Deceive** — Create false images, introduce misdirection, or generate sensory lies
+**Spell Theorems:** Each theorem you know is a mastered spell defined by a Sphere and an Operation (e.g., "Searing Bolt [Energy, Destroy]"). When you cast a known theorem, roll **Cunning + appropriate Action**. For Spheres and Operations definitions, see **Chapter 10: Spellcasting**.
 
 **Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation (e.g., "I use Energy to Bind the gate's momentum"). **Mark 1 Stress each time** you invoke your theoretical knowledge to improvise a spell, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. You can use this ability as many times per scene as you can afford the Stress cost. Outcomes follow standard Consequence framework (see Chapter 4).
 

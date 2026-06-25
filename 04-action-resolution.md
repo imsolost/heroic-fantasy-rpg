@@ -213,18 +213,6 @@ Choose an effect from the Effect Menu (see below). No consequences unless the fi
 
 ---
 
-## Triumph Benefits
-
-When you achieve **Triumph**, you succeed completely and gain:
-- **1 Momentum**
-- **Ignore all Complications** (your outcome cannot be reduced by Complications)
-- **If a Trait is narratively relevant:** You may invoke it for one Special Effect
-
-**Trait Special Effects:**
-1. **Enhanced Effect** — Greater Effect (increased magnitude) or Broad Effect (multiple targets)
-2. **Secondary Effect** — Gain a free Defy action related to your initial action
-3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
-
 ---
 
 ## Consequences
@@ -462,129 +450,41 @@ Your action energizes and prepares for follow-up.
 
 ---
 
-### Conditions and Advantages on Enemies (Unified Framework)
+### Conditions and Advantages on Enemies
 
-**Core Principle:** Since enemies don't roll (only players do), ALL advantages created against enemies work identically:
-- Allies gain 1 Boon (or 1 Edge if it bypasses a specific Complication) when acting against that enemy
-- Duration measured in ally actions (not enemy actions)
-- Narrative flavor explains WHY (Blinded, Marked, Exposed, Weakened, Slowed, etc.)
-- Mechanically identical
+**Conditions** are temporary vulnerabilities you create on enemies (Blinded, Slowed, Weakened, Off-Balance).
+
+**How They Work:**
+- Grant allies **1 Boon** (or **1 Edge** if targeting specific Complication) when acting against that enemy
+- **Duration:** 1 action (default), 2 actions (with Greater Effect), or scene-long (Potent Spell)
+- **Tracking:** Place marker near enemy ("Blinded 2"), tick down as allies use it
+- Created via Secondary Effect: Create Advantage, spell debuffs, or combat maneuvers
 
 **Conditions vs Complications:**
+- **Conditions** (temporary): Player-created, tick down as used
+- **Complications** (permanent): Built into Challenge, removed only through fiction (disarm, destroy armor)
+- Both grant Boons/Edge, but differ in source and duration
 
-**CONDITIONS (temporary, player-created):**
-- Created through Secondary Effect: Create Advantage (free Defy via Trait invocation)
-- Represent temporary vulnerabilities or tactical openings
-- Examples: Blinded, Slowed, Weakened, Frightened, Off-Balance
-- Duration: 1 action (or 2 actions with Greater Effect applied, or scene-long with Potent Spell)
-- Tick down as allies use them
-
-**COMPLICATIONS (permanent, built into Challenge):**
-- Designed into the Challenge by GM
-- Represent inherent defenses or advantages
-- Examples: Resilient (armor), Elusive (speed/stealth), Warded (magic resistance)
-- Permanent until removed through fiction (disarm, destroy armor, etc.)
-- See Chapter 6 for full Complication tags
-
-Both grant allies Boons/Edge mechanically, but differ in source, duration, and how they're removed.
-
-**Duration:**
-- **1 action** (default free Defy: Create Advantage from Secondary Effect)
-- **2 actions** (if Secondary Effect is combined with Greater Effect)
-- **Scene-long** (Potent Spell with Duration modification)
-
-**Tracking:**
-- Place physical marker near enemy ("Blinded 2", "Marked 1", "Exposed 1")
-- Tick down as allies use the advantage
-- Scene-long effects don't tick down
-
-**This applies to:**
-- Secondary Effect (free Defy: Create Advantage via Trait invocation)
-- Spell debuffs cast on enemies
-- Combat maneuvers that create openings
-- All mechanically identical
-
-**Example in Play:**
-> **PC (Conflict + Trait):** "I kick sand in his eyes as I strike — Create Advantage to Blind him!"
-> **GM:** "Alright, he's Blinded 1. He stumbles back, pawing at his face." *(Places marker near enemy)*
-> **Ally attacks:** "I'm using his blindness to strike!" → Gains 1 Boon → *(GM removes marker - effect ends)*
-
-**Example with Greater Effect:**
-> **PC (Conflict + Trait):** "I throw a vial of alchemical adhesive at his legs — Create Advantage with Greater Effect!"
-> **GM:** "The goop spreads across his legs. He's Slowed 2." *(Places marker)*
-> **Ally 1 attacks:** "I take advantage of his reduced mobility!" → Gains 1 Boon → *(GM ticks to "Slowed 1")*
-> **Ally 2 attacks:** "Me too!" → Gains 1 Boon → *(GM removes marker)*
-
-**Common Conditions and Why They Grant Boons:**
-- **Blinded** — Can't see attacks coming
-- **Off-Balance** — Vulnerable to follow-up
-- **Frightened** — Distracted by fear
-- **Disoriented** — Can't defend effectively
-- **Exposed** — Guard is down
-- **Wounded** — Visible injury creates opening
-- **Marked** (spell) — Mystically vulnerable
-- **Slowed** (spell) — Can't evade effectively
-- **Cursed** (spell) — Weakened by magic
+**Example:**
+> PC kicks sand in enemy's eyes → Enemy is Blinded 1 → Ally attacks with 1 Boon → Effect ends
 
 ---
 
-### Using Secondary Effects to Bypass Complications
+### Bypassing or Removing Complications
 
-**Fiction Changes Complications:**
+Secondary Effects can change the fiction to bypass or remove enemy Complications:
 
-Secondary Effects (free Defy actions) can change the fiction in ways that remove or bypass enemy Complications:
-
-- **Take Something:** Disarm Death Knight's legendary sword → Remove **Deadly** Complication permanently
-- **Create Advantage (Edge):** Reveal invisible assassin with flour → Ally bypasses **Elusive** for next action (temporary)
-- **Change Situation:** Smash knight's armor with warhammer → Remove **Resilient** Complication permanently
-- **Seize Control:** Shove enemy out of fortified position → Remove **Fortified** Complication permanently
-
-When a Secondary Effect changes the fiction in a way that logically removes a Complication's source, that Complication no longer applies.
-
-**Examples in Play:**
-
-> **PC attacks armored knight (Resilient 2), rolls Triumph + invokes "Warhammer Master" Trait:**
-> "I want to smash his breastplate with my hammer — Take Something to destroy his armor!"
-> **GM:** "His armor crumples under the blow. The Resilient Complication is gone — future attacks don't face it."
-
-> **PC acts against invisible foe (Elusive 2), rolls Success + invokes "Quick Thinking" Trait:**
-> "I grab flour from my pouch and toss it — Create Advantage by revealing them!"
-> **GM:** "The flour outlines their form temporarily. Your ally gets 1 Edge to bypass Elusive on their next attack — after that, they'll move and the flour won't help anymore."
-
----
-
-### Bypass vs Remove: Duration of Complication Changes
-
-**Two ways to handle Complications through fiction:**
-
-**BYPASS (Temporary - This Roll Only):**
-- Granted via **Secondary Effect: Create Advantage** (1 Edge to ally)
-- Applies to one ally's next action only
+**BYPASS (Temporary):**
+- **Secondary Effect: Create Advantage** grants ally 1 Edge to bypass a specific Complication for their next action
 - Source remains intact, Complication returns after
-- *Examples:*
-  - Sense the room, Secondary Effect to reveal weak point in armor joints → Ally bypasses Resilient for their next strike (armor still intact)
-  - Cast Light spell on hiding assassin → Ally bypasses Elusive for their attack (assassin can hide again)
-  - Defy to pin enemy's shield arm → Ally bypasses Resilient for one strike (shield still held)
-  - Defy to gain high ground with better angle → Ignore positioning penalty for this roll (terrain unchanged)
+- *Examples:* Reveal weak point in armor, cast Light on invisible foe, pin shield arm
 
-**REMOVE (Permanent - Until Fiction Changes):**
-- Requires extreme action or sustained effort
-- Usually via **Secondary Effect: Take Something** or **Secondary Effect: Change Situation**
-- Source is destroyed, stolen, or fundamentally changed
-- *Examples:*
-  - Disarm Death Knight's Deadly sword → Complication gone (until they retrieve/draw new weapon)
-  - Smash knight's breastplate completely → Resilient removed (armor destroyed)
-  - Shove enemy out of fortified position → Fortified removed (no longer behind cover)
-  - Destroy magical ward stone → Warded removed (source eliminated)
+**REMOVE (Permanent):**
+- **Secondary Effect: Take Something** or **Change Situation** destroys/removes the source
+- Complication is gone until fiction changes
+- *Examples:* Disarm legendary sword (Deadly gone), smash breastplate (Resilient gone), shove from fortified position
 
-**GM Adjudication:**
-
-Ask: **"Does the fiction justify the Complication being gone permanently, or just bypassed momentarily?"**
-
-- If you're **working around** the source → Bypass (1 Edge via Create Advantage)
-- If you're **removing/destroying** the source → Remove (permanent via Take Something/Environmental Effect)
-
-Most clever tactical setups grant Edge for temporary bypass. Permanent removal requires significant fictional commitment (destroying equipment, eliminating magical sources, dramatically changing positioning).
+**GM Adjudication:** Ask "Does the fiction remove the source permanently, or just work around it?" Bypass is temporary advantage; Remove requires significant commitment (destroying equipment, eliminating sources).
 
 ---
 

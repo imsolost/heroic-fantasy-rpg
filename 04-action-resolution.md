@@ -158,8 +158,8 @@ See [02-core-mechanics.md](02-core-mechanics.md) for complete dice mechanics and
 **If a Trait is narratively relevant AND your final outcome is Conflict or higher:**
 
 You may invoke your Trait to gain one Special Effect:
-1. **Greater Effect** — Mark 2 ticks (instead of 1), or ask 1 additional question (3 instead of 2)
-2. **Secondary Effect** — Produce additional consequence (Take Something, Inflict Condition, Affect Multiple Targets, GM reveals important detail that would otherwise escape notice, etc.)
+1. **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or ask 1 additional question) OR Broad Effect (affect multiple targets)
+2. **Secondary Effect** — Free Defy action related to your initial action (Take Something, Seize Control, Create Advantage, Change Situation)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
 **If your final outcome is Setback:** Cannot invoke Trait (you failed).
@@ -415,7 +415,7 @@ Your effect is unusually potent, extensive, durable, or difficult to counter.
 
 Gain a free Defy action related to your initial action.
 
-**The Rule:** When you invoke your Trait for Secondary Effect, you gain an additional successful Defy action that must be related to what you just did and fit the fiction.
+**The Rule:** When you invoke your Trait for Secondary Effect, you gain an additional successful Defy action that must be related to what you just did and fit the fiction. See **Defy section below** for what Defy can accomplish (Take Something, Seize Control, Create Advantage, Change Situation, mark Obstacle track).
 
 **Examples:**
 - Clash the knight → Secondary Effect: Free Defy to disarm him (Take Something)
@@ -927,19 +927,17 @@ The Know roll **gave you information**. The Defy roll **applied that knowledge**
 
 **Disaster** occurs when Complications reduce your outcome **below Setback**. This represents catastrophic failure when you're truly out of your depth.
 
-**When Disaster Happens:**
-- Setback + 1 Complication = Disaster
-- Conflict + 2 Complications = Disaster  
-- Success + 3+ Complications = Disaster
+**How Disaster Occurs:**
+
+Complications reduce outcomes step-by-step: Success → Conflict → Setback → Disaster
+
+- Roll Setback + 1 Complication → Disaster
+- Roll Conflict + 2 Complications → Conflict → Setback → Disaster
+- Roll Success + 3+ Complications → Success → Conflict → Setback → Disaster
 
 **Disaster Creates Dramatic Stakes:** This is how heroes get captured, how lasting consequences stick, how truly dangerous situations feel dangerous. If you're facing 2+ Complications, you're in over your head—find another approach or spend resources (Momentum for Edge, Traits to bypass, alternative tracks).
 
 **Key to Appropriate Frequency:** Keep Complications RARE (most foes 0-1 Complications, see Chapter 6). Disaster should feel like "you took on something truly dangerous without preparation" not "this happens every fight."
-
-**How it occurs:**
-- Roll Setback (all 1-3) + 1 Complication → Disaster
-- Or: Roll Conflict → 1 Complication → Setback → 1 more Complication → Disaster
-- Or: Roll Success → 3+ Complications → Disaster
 
 **Disaster Consequences:**
 

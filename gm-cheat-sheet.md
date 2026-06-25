@@ -121,7 +121,7 @@ Catastrophic failure:
 
 **Counters:**
 - **Create an Opening** (spend 1 Momentum) → Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats
-- **Create Advantage** (Secondary Effect) → Grant ally 1 Boon OR 1 Edge (player suggests, GM decides)
+- **Create Advantage** (via Secondary Effect: free Defy) → Grant ally 1 Boon OR 1 Edge (player suggests, GM decides)
   - **Boon:** General advantage (flanking, distraction, high ground)
   - **Edge:** Bypass specific Complication (target armor gap, reveal hidden foe)
 - **Triumph** → Ignores ALL Complications automatically

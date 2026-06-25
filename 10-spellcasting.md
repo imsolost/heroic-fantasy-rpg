@@ -440,7 +440,7 @@ Potent spells go beyond baseline magical effects — they affect larger areas, m
 - **Greater Impact** — Mark 1 additional tick, make construct nearly indestructible (Resilient tag), or significantly amplify the spell's primary impact
 - **Affect Multiple Targets** — Target a small group of individuals or affect a larger area
 - **Increased Duration** — The spell lasts the entire scene instead of a moment (does not apply to instantaneous effects like damage or healing)
-- **Additional Effect** — Add a secondary consequence (inflict Condition, create advantage, impose positioning change, etc.)
+- **Secondary Consequence** — Add a secondary consequence (inflict Condition, create advantage, impose positioning change, etc.)
 
 You cannot stack multiple enhancements — choose one per Potent Spell.
 
@@ -453,13 +453,13 @@ You cannot stack multiple enhancements — choose one per Potent Spell.
 - Potent + Greater Effect: Nearly indestructible wall (Resilient tag)
 - Potent + Increased Duration: Wall lasts entire scene
 - Potent + Affect Multiple Targets: Create 2-3 walls or one much larger wall
-- Potent + Additional Effect: Wall + creates difficult terrain (Hindered 1 Condition to those nearby)
+- Potent + Secondary Consequence: Wall + creates difficult terrain (Hindered 1 Condition to those nearby)
 
 **Lightning Bolt (Energy + Destroy):**
 - Normal Spell: Mark 1 tick on Harm track against single target
 - Potent + Greater Effect: Mark 2 ticks on Harm track against single target
 - Potent + Affect Multiple Targets: Mark 1 tick on 2-3 targets
-- Potent + Additional Effect: Mark 1 tick + inflict Stunned 1 Condition
+- Potent + Secondary Consequence: Mark 1 tick + inflict Stunned 1 Condition
 - Potent + Increased Duration: N/A (instantaneous effect)
 
 **Charm Person (Mind + Bind):**
@@ -467,14 +467,14 @@ You cannot stack multiple enhancements — choose one per Potent Spell.
 - Potent + Greater Effect: Mark 2 ticks on Will track against single target
 - Potent + Affect Multiple Targets: Mark 1 tick on 2-3 targets
 - Potent + Increased Duration: Charm lasts entire scene
-- Potent + Additional Effect: Mark 1 tick + target becomes Distracted 1
+- Potent + Secondary Consequence: Mark 1 tick + target becomes Distracted 1
 
 **Invisibility (Mind + Deceive or Pattern + Alter):**
 - Normal Spell: Become invisible for 1-2 actions
 - Potent + Greater Effect: Become completely undetectable (sight, sound, scent)
 - Potent + Affect Multiple Targets: Make 2-3 people invisible
 - Potent + Increased Duration: Remain invisible entire scene
-- Potent + Additional Effect: Invisibility + gain 1 Boon on stealth-related actions
+- Potent + Secondary Consequence: Invisibility + gain 1 Boon on stealth-related actions
 
 **Mechanics:**
 - **Always costs 1 Stress** (mark immediately when you declare casting)
@@ -895,14 +895,14 @@ Rituals should always have **narrative cost or consequence**, even on success:
 **Magnitude:**
 - **Cantrip:** Automatic minor effect (no roll)
 - **Spell:** Standard effect (Action Roll, standard difficulty)
-- **Potent Spell:** Powerful effect (Action Roll, **costs 1 Stress** + choose ONE enhancement: Greater Effect, Affect Multiple Targets, Increased Duration, or Additional Effect)
+- **Potent Spell:** Powerful effect (Action Roll, **costs 1 Stress** + choose ONE enhancement: Greater Effect, Affect Multiple Targets, Increased Duration, or Secondary Consequence)
 - **Ritual:** Extraordinary effect (structured scene, multiple components)
 
 **Potent Spell Enhancements (choose one):**
 - **Greater Effect:** Double impact (2 ticks, double damage, nearly indestructible)
 - **Affect Multiple Targets:** 2-3 targets or small group
 - **Increased Duration:** Moment → Scene (entire scene)
-- **Additional Effect:** Add secondary consequence (Condition, advantage, etc.)
+- **Secondary Consequence:** Add secondary consequence (Condition, advantage, etc.)
 
 **Common Effects:**
 - **Attack:** Clash (marks Harm track)
@@ -957,7 +957,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - Magic uses existing Actions (Defy/Clash/Talk/Sense/Know) based on intent
 - Sage casts with **Cunning**, Mystic casts with **Spirit**
 - Cantrips are unlimited, automatic, and require no roll
-- Potent Spells always cost 1 Stress + choose ONE enhancement (Greater Effect, Affect Multiple Targets, Increased Duration, or Additional Effect)
+- Potent Spells always cost 1 Stress + choose ONE enhancement (Greater Effect, Affect Multiple Targets, Increased Duration, or Secondary Consequence)
 - Default spell durations: Instantaneous (damage, healing) / Moment (1-2 actions: buffs, barriers) / Scene (Potent + Duration) / Permanent (Ritual only)
 - Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 3 Stress OR removes Condition entirely (Potent Spell, costs 1 Stress). On Conflict, use standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited), though narrative consequences often make more sense for healing.
 - Detecting magic presence is a cantrip (yes/no); getting details uses Sense action (ask questions)

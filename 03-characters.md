@@ -153,21 +153,20 @@ Traits are evocative narrative descriptors defining who your character is. When 
 
 **Timing:** After rolling
 
-When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain one Benefit:
+When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain one Special Effect:
 
-**Benefits (Choose One):**
-1. **Greater Effect** — Mark 2 ticks (instead of 1), extend duration (2 actions instead of 1), or make your effect significantly stronger
-2. **Additional Effect** — Add a new fictional outcome beyond your primary effect (see Chapter 4 for complete menu)
+**Special Effects (Choose One):**
+1. **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or significantly amplify outcome) OR Broad Effect (affect 2-3 targets)
+2. **Secondary Effect** — Gain a free Defy action related to your initial action (see Chapter 4)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
-**Additional Effects include:**
-- Create Advantage (help ally, debuff enemy)
-- Take Something (disarm, steal, seize)
-- Seize Control (move, restrain, occupy)
-- Change Environment (alter terrain/situation)
-- Affect Additional Targets (apply to multiple targets)
+**Secondary Effects (free Defy actions) include:**
+- Take Something (disarm, steal, extract information)
+- Seize Control (move, restrain, occupy, grapple)
+- Create Advantage (help ally with Boon/Edge, inflict Condition)
+- Change Situation (shift relationships, alter environment, change dynamics)
 
-**For complete Benefits framework with detailed examples and GM guidance, see Chapter 4: Action Resolution.**
+**For complete Special Effects framework with detailed examples and GM guidance, see Chapter 4: Action Resolution.**
 
 **If Setback:** Cannot invoke Trait (you failed)
 
@@ -186,15 +185,15 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 **Examples:**
 
 **"Veteran of the Iron Wars" + Clash in melee:**
-- Roll Conflict or higher → Choose Benefit
-- Greater Effect: Mark 2 ticks on Harm track (instead of 1)
-- Additional Effect: Add new outcome (disarm, knockdown - see Chapter 4)
+- Roll Conflict or higher → Choose Special Effect
+- Enhanced Effect: Greater Effect to mark 2 ticks on Harm track (instead of 1)
+- Secondary Effect: Free Defy to disarm or knockdown (see Chapter 4)
 - Build Momentum: Grant 1 Momentum to ally
 
 **"Silver Tongue" + Talk to influence:**
-- Roll Conflict or higher → Choose Benefit
-- Greater Effect: Mark 2 ticks on Will track (instead of 1)
-- Secondary Effect: Produce additional consequence (see Chapter 4)
+- Roll Conflict or higher → Choose Special Effect
+- Enhanced Effect: Greater Effect to mark 2 ticks on Will track (instead of 1)
+- Secondary Effect: Free Defy to extract secret or shift relationship (see Chapter 4)
 - Build Momentum: Grant 1 Momentum to self
 
 **"Shadowborn" + Defy in darkness:**

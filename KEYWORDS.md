@@ -30,8 +30,10 @@ This document defines the canonical capitalization for all mechanical terms in t
 **Effects (Context-Dependent):**
 - Primary Effect (when referring to the system concept)
 - Special Effect (when referring to Trait invocations)
-- Secondary Effect (specific Special Effect type)
-- Greater Effect (specific Special Effect type)
+- Enhanced Effect (Special Effect category)
+- Secondary Effect (Special Effect type - free Defy action)
+- Greater Effect (specific Enhanced Effect type)
+- Broad Effect (specific Enhanced Effect type)
 - Effects (lowercase when general usage)
 
 ---
@@ -304,5 +306,6 @@ These terms should be capitalized **only when referring to the mechanical game c
 
 ## Version History
 
+- v1.2 (2026-06-25): Restructured Special Effects - replaced Additional Effects with Secondary Effect (free Defy action), clarified Enhanced Effect categories
 - v1.1 (2026-06-25): Added Vantage and Stakes terminology, updated GM Tools section
 - v1.0 (2026-06-24): Initial keyword list compiled from core chapters

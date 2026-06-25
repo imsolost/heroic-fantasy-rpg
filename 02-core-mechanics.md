@@ -229,7 +229,7 @@ Boon and Bane represent advantage and disadvantage.
 **1 Boon = +1d to your pool**
 
 **Sources:**
-- Easy tasks (GM grants when conditions favor success)
+- Favorable conditions (GM grants when you have clear advantage)
 - Create an Opening (spend 1 Momentum for +1 Boon and 1 Edge + narrative permission)
 - Environmental advantage (perfect lighting, stable footing, ideal weather)
 - Tactical superiority (outnumbering enemy, ambush, surprise)
@@ -278,8 +278,8 @@ Other participants may **Assist** (mark 1 Stress each to grant +1 Boon each), su
 **1 Bane = -1d from your pool**
 
 **Sources:**
-- Hard tasks (GM imposes when conditions work against success)
-- Very Hard tasks (GM imposes 2 Banes — requires Create an Opening or other Boon sources to attempt reliably)
+- Doubtful Vantage (GM imposes 1-2 Banes when lacking tools/capability or conditions work against success)
+- Multiple disadvantages (2 Banes — requires Create an Opening or other Boon sources to attempt reliably)
 - Conditions (each Condition = 1 Bane, maximum 2 Banes from Conditions total)
 - Hostile environment (darkness, unstable ground, harsh weather)
 - Poor positioning (flanked, prone, exposed)
@@ -373,23 +373,27 @@ For more on Complications and tactical play, see Chapter 6.
 
 ---
 
-### Difficulty Guidelines
+### Vantage (Difficulty)
 
-**Standard Difficulty:** Roll your pool and check results (no Boons or Banes). This is the default.
+**Vantage** is your fictional positioning—your capability, tools, and circumstances that determine how difficult an action is.
 
-**Easy Tasks:** Grant **1 Boon** (+1d)
-- Task within character competence, conditions favor success
-- Examples: Climbing with good handholds, persuading friendly NPC, fighting distracted enemies
+**The Four Tiers:**
 
-**Hard Tasks:** Impose **1 Bane** (-1d)
-- Task at edge of capability, conditions work against success
-- Examples: Leaping across wide chasm, negotiating with hostile faction, fighting in darkness
+**Certain** — Clear capability, proper tools, task is trivial → **No roll** (auto-success)
+- *Example: Shadow picking simple lock with tools*
 
-**Very Hard Tasks:** Impose **2 Banes** (-2d, maximum)
-- Task at extreme difficulty, multiple unfavorable factors
-- Examples: Climbing sheer ice wall, convincing enemy general to surrender, fighting while Poisoned + Frightened
+**Reasonable** — Capability and tools present, outcome uncertain → **Standard roll** (no modifier)
+- *Example: Climbing rope with handholds, persuading friendly NPC*
 
-**GM Note:** Default to standard difficulty. Grant Boons when PCs have clear advantage. Impose Banes for moments where conditions work against them.
+**Doubtful** — Lacking tools/positioning OR task stretches capability → **Roll with 1-2 Banes**
+- **1 Bane:** Lacking proper tools, task at edge of capability, minor hindrances
+- **2 Banes:** No tools AND difficult task, multiple disadvantages
+- *Example: Climbing with gear (1 Bane), climbing without gear (2 Banes)*
+
+**Impossible** — Lacking fundamental capability OR fiction doesn't support it → **Cannot attempt**
+- *Example: Casting spells without being a spellcaster*
+
+**See [Vantage](vantage.md) for complete framework, GM guidance, and examples.**
 
 ---
 
@@ -411,9 +415,9 @@ For more on Complications and tactical play, see Chapter 6.
 
 **Typical Pools:**
 - Starting character (Approach 3): **3d6** base
-- With Easy task (+1 Boon): **4d6**
-- With Hard task (+1 Bane): **2d6**
-- With 2 Conditions (+2 Banes) + Hard task (+1 Bane) = 3 Banes → no Boons to cancel → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
+- Reasonable Vantage with 1 Boon (ally assists): **4d6**
+- Doubtful Vantage (1 Bane): **2d6**
+- With 2 Conditions (+2 Banes) + Doubtful Vantage (+1 Bane) = 3 Banes → no Boons to cancel → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
 
 ---
 
@@ -621,11 +625,9 @@ See Chapter 4 for Disaster Impact Moves.
 - Any 6 = Success (34.7%)
 - Two+ 6s = Triumph (7.3%, gain 1 Momentum + ignore all Complications)
 
-**Easy Tasks:** Grant 1 Boon (+1d)
+**Favorable Conditions:** Grant 1 Boon (+1d) when you have clear advantage
 
-**Hard Tasks:** Impose 1 Bane (-1d)
-
-**Very Hard Tasks:** Impose 2 Banes (-2d)
+**Doubtful Vantage:** Impose 1-2 Banes (-1d or -2d) when lacking tools/capability or facing unfavorable conditions
 
 **Boon/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
 

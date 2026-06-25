@@ -1089,22 +1089,6 @@ When PCs fail their roll or are caught off-guard, consequences just happen.
 - Attack is too fast to see coming (ambush, arrow from darkness)
 - PC ignored previous warning (they chose not to respond)
 
-### Consequence Severity
-
-**Minor Consequence (from Conflict):**
-- Mark 1 Stress
-- Inflict tier 1 Condition
-- Lose position or advantage
-- Warn of bigger threat coming
-
-**Major Consequence (from Setback):**
-- Mark 2 Stress
-- Inflict tier 2-3 Condition
-- Inflict 2 Stress + Condition tier 1
-- Separate from allies, disarm, etc.
-
-**PCs can always Resist:** After any consequence, PCs may spend 1 Momentum to reduce severity by 1 tier (automatic, no roll).
-
 ### Complications and Enemy Attacks
 
 Enemy Complications don't affect the Impact Move itself—they affect PC actions **against** that enemy.
@@ -1173,20 +1157,11 @@ When you would suffer a consequence from an Impact Move (Stress, Condition, or n
 - Condition tier 1 → No Condition
 - Narrative consequence → Reduced severity (GM adjudicates)
 
-See **Chapter 5: Resist Consequence** for complete rules and examples.  
-- **Setback:** Take the full consequence (Momentum is spent, nothing reduced)
+**Example:**
+> **PC Clashes knight, rolls Conflict:** "You mark 1 tick but he counterattacks—mark 2 Stress"
+> **PC spends 1 Momentum to Resist:** Major Consequence → Minor Consequence → "Mark 1 Stress instead"
 
-**Example (mechanical):**
-> **You Clash against the knight, roll Conflict:** "You mark 1 tick but he counterattacks—mark 2 Stress"
-> **You spend 1 Momentum:** "I Resist!"
-> **You roll Defy with Grace:** Success → "You deflect his blade perfectly—reduce by 2 steps, mark 0 Stress!"
-
-**Example (narrative):**
-> **You Talk to the guard, roll Conflict:** "He's suspicious and starts watching you closely"
-> **You spend 1 Momentum:** "I Resist!"
-> **You roll Defy with Charm:** Conflict → "He's still a bit wary, but you smooth it over enough that he returns to his post"
-
-See [02-core-mechanics.md](02-core-mechanics.md#spending-momentum) for full Resist Consequence rules.
+See **Chapter 5: Resilience** for complete Resist Consequence rules.
 
 ---
 
@@ -1211,23 +1186,13 @@ You could end up marking 3-4 ticks on a single roll when everything aligns.
 
 ## Design Notes
 
-### Why Triumph + Trait Invocation?
-
-Triumph provides immediate benefits:
-- Gain 1 Momentum
-- Ignore all Complications
-**Trait Special Effects** (invoke on Conflict+ when narratively relevant):
-- **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or ask 1 additional question) OR Broad Effect (affect multiple targets)
-- **Secondary Effect** — Gain a free Defy action related to your initial action (Take Something, Seize Control, Create Advantage, Change Situation, etc.)
-- **Build Momentum** — Grant 1 Momentum to yourself or an ally
-
 ### Why Each Action Has One Core Function?
 
 Each Action does ONE thing well (Primary Effects):
 - **Defy → Overcome** — Mark Obstacle track or automatically overcome simple tasks
 - **Clash → Harm** — Mark Harm track or outright defeat weaker foes
 - **Talk → Influence** — Mark Will track or outright convince lesser creatures
-- **Sense → Assess** — Ask 2 questions (Conflict or Success)
+- **Sense → Assess** — Ask 2 questions
 - **Know → Recall** — GM tells you one specific, actionable thing + you may ask one clarifying question
 
 Complexity comes from Trait Special Effects, Momentum spends, and Talents—not from branching effect menus on every action.

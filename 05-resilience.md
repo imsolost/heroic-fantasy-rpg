@@ -62,22 +62,9 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 
 **Multiple Conditions stack** — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously.
 
-**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Boons or -2d Banes, regardless of how many sources you have. This applies to everything (Conditions, difficulty, environment, etc.), not just Conditions.
+**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Boons or -2d Banes, regardless of how many sources you have. Boons and Banes cancel 1:1 before applying the cap.
 
-**Boons and Banes cancel 1:1 before applying the cap.** If you have 3 Conditions (3 Banes) and 1 Boon, they cancel to 2 net Banes — within the cap. If you have 3 Conditions (3 Banes) and no Boons, the net is 3 Banes → capped at -2d when applied to your pool.
-
-**Why the ±2d cap?** Even heroes at their worst (or best) retain some capacity for meaningful action. The cap prevents auto-fail or auto-success territory while keeping accumulated harm impactful.
-
-> **GM Guidance:** **Default:** A Condition affects all action rolls — it's simpler and more consistent.
-> 
-> **Exception:** When a Condition clearly has no bearing on the action fictionally, it doesn't apply (and doesn't tick down). Examples:
-> - Blinded doesn't affect recalling lore (Know)
-> - Restrained doesn't affect examining your surroundings (Sense)
-> - Deafened doesn't affect climbing a wall (Defy)
-> 
-> **Golden Opportunity:** If a player repeatedly takes unrelated actions to avoid a dangerous Condition (e.g., using Know to recall trivia while Blinded during a deadly fight), they're giving you a perfect opening to escalate danger. They're ignoring the immediate threat — the enemy capitalizes. *"While you're distracted recalling historical flags, the Shadowdancer backstabs you — mark 2 Stress."*
-> 
-> When in doubt, apply the Condition.
+> **GM Guidance:** A Condition affects all action rolls by default. If a Condition clearly has no bearing on the action fictionally (Blinded doesn't affect recalling lore), it doesn't apply and doesn't tick down. When in doubt, apply the Condition.
 
 ### Gaining Conditions
 
@@ -124,7 +111,7 @@ You can have multiple different Conditions simultaneously. Each tracks independe
 
 **Bane Stacking:** Multiple Conditions each apply 1 Bane. You can have 3, 4, or more Conditions.
 
-> *You are Poisoned 2 and Frightened 1. Both apply → 2 Banes. If you also become Blinded 1, you have 3 Conditions → 3 Banes. When you roll, the pool modifier cap (-2d maximum) applies, so 3 Banes are capped at -2d to your dice pool.*
+> *You are Poisoned 2 and Frightened 1. Both apply → 2 Banes. If you also become Blinded 1, you have 3 Conditions → 3 Banes (capped at -2d to your pool).*
 
 **Refresh, Not Stack:** The same Condition cannot stack beyond its initial tier. If you are Poisoned 2 and would become Poisoned again, it refreshes to Poisoned 2 — it does not become Poisoned 3 or Poisoned 4.
 
@@ -259,17 +246,9 @@ Direct Conditions bypass the Stress buffer — they represent harm too significa
 
 ### Pacing Recovery
 
-**Short rests** (1 hour, safe location) should happen:
-- After each significant combat
-- During travel when the party takes a breather
-- When players explicitly seek safety to catch their breath
+**Short rests** (1 hour, safe location) should happen after significant combat, during travel breaks, or when players seek safety. This ensures Conditions don't carry over from scene to scene while remaining relevant within a scene.
 
-This ensures Conditions don't carry over from scene to scene, while still making them relevant within a scene. The 1-hour duration prevents rapid recovery abuse and makes resource management more strategic.
-
-**Long rests** (overnight) should happen:
-- After returning to town or safe haven
-- During extended downtime between adventures
-- When the party explicitly makes camp in a secure location
+**Long rests** (overnight) should happen after returning to safety, during extended downtime, or when camping in a secure location.
 
 ### Burdens (Persistent Impairments)
 
@@ -281,7 +260,6 @@ A Burden has a **name**, a **tier** (1–3), and a **recovery method**. Like Con
 
 - **Multiple Burdens:** A character can have multiple Burdens simultaneously (e.g., Wounded 3 + Cursed 2)
 - **Same-name Burdens:** If you gain a Burden with the same name as an existing Burden, refresh to whichever tier is higher
-- **Bane Cap:** All Banes (from Conditions, Burdens, and other sources) share the -2d cap. Boons and Banes cancel 1:1 before applying the cap.
 - **Narrative Restrictions:** Burdens may carry fictional restrictions (Wounded limits strenuous activity, Cursed causes NPCs to react with fear). These are separate from the mechanical Bane penalty.
 
 **Gaining Burdens:**
@@ -340,16 +318,6 @@ Common special recovery methods:
 When assigning a Burden, immediately clarify how it clears:
 - *"That's Wounded 2 (Burden) — it'll reduce 1 tier per Long Rest."*
 - *"That's Cursed 2 (Burden) — rest won't help. You'll need to break the curse."*
-
-**Burdens vs. Conditions:**
-
-| | Conditions | Burdens |
-|---|---|---|
-| **Source** | Challenge Moves, Consequences | Stress overflow, Disaster, Death Moves, narrative events |
-| **Frequency** | Common | Rare |
-| **Bane** | 1 Bane each | 1 Bane each |
-| **Recovery** | Tick down through action; clear on Short Rest | Long rest (1 tier per) or special recovery |
-| **Weight** | Temporary impairment | Lasting consequence |
 
 ### Condition Fiction Examples
 

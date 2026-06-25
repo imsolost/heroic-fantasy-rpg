@@ -15,7 +15,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 - **Social opposition:** Suspicious nobles, hostile factions, stubborn officials
 - **Environmental:** Blizzards, collapsing bridges, raging rivers
 
-**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Standard/Difficult/Impossible) to determine if a roll is needed and difficulty.
+**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Strong/Limited/Impossible) to determine if a roll is needed and difficulty.
 
 **Significant Challenges** have **Complications** (passive traits) and **Challenge Moves** (active abilities).
 
@@ -229,20 +229,6 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
   - Shove enemy from fortified position → Remove Fortified
   - Smash armor completely → Remove Resilient
 
-**Vantage and Permission:**
-
-Before rolling, ask: **"Do I have vantage to even attempt this?"**
-
-- **Clear Vantage:** No special permission needed (anyone can try)
-- **Limited Vantage:** Requires Expertise, Trait, gear, or fictional setup
-- **No Vantage:** Impossible given current situation
-
-*Examples:*
-- Can't pick a lock without tools (no vantage)
-- Can't swing sword with broken arm (Condition removes vantage)
-- Can't Clash armored knight if across the room (fiction denies vantage)
-- Doctor can suture wounds (Expertise grants vantage)
-
 **GM Adjudication - Boon vs Edge:**
 
 When players describe clever positioning, ask: **"Does this target a specific Complication, or just create general advantage?"**
@@ -250,7 +236,7 @@ When players describe clever positioning, ask: **"Does this target a specific Co
 - **General advantage** → Grant Boon (+1d)
 - **Targets specific Complication** → Grant Edge (bypass 1 Complication)
 
-See Chapter 2 for complete Boon vs Edge adjudication guidance with examples.
+See Chapter 2 for complete Boon vs Edge adjudication guidance and [vantage.md](vantage.md) for fictional positioning framework.
 
 ---
 
@@ -293,24 +279,6 @@ All Complications work the same **mechanically** (reduce outcome tier by 1), but
 - **Dispel the ward (Know using Cunning or Spirit):** Only **Warded** applies (magical protection). Roll against 1 Complication.
 
 **Design principle:** Not every Challenge needs Complications. **A Complication represents an exceptional quality that changes how the challenge must be approached.** Run-of-the-mill bandits, ordinary doors, simple persuasion attempts — none of these need tags. Save Complications for challenges that genuinely push heroes to adapt their approach.
-
----
-
-### Checking Complications
-
-**When you act against a Challenge with Complications:**
-
-1. **Describe your action** - What are you trying to do?
-2. **GM identifies what you're trying to accomplish:**
-   - Damage/harm it? → Check Resilient
-   - Magically affect it (non-damage)? → Check Warded
-   - Target/detect/track it? → Check Elusive (GM decides based on fictional description)
-   - Sneak past/deceive/surprise it? → Check Vigilant
-   - Understand/solve it? → Check Complex
-   - Influence/sway it? → Check Resolute
-3. **Count matching tags** - That's how many Complications you face
-4. **Legendary always applies (to everything)**
-5. **Deadly applies when attacking or being attacked**
 
 ---
 
@@ -769,33 +737,6 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 ---
 
 ## Building Encounters by Rank
-
-**Critical Distinction:** Challenge Rating (CR) measures track size, not narrative power. Rank determines Complications. A CR 4 Challenge with no Complications is just durable, not world-shaking.
-
-### Understanding CR vs Rank
-
-**CR (mechanical durability):**
-- How long it takes to overcome (track size)
-- CR 1 = 2 ticks, CR 2 = 4 ticks, CR 3 = 6 ticks, CR 4 = 8+ ticks
-- NOT a measure of "power level" or "world-shaking threat"
-- Just sturdiness/resilience
-
-**RANK (narrative scope & defenses):**
-- The scale/stakes of the Challenge
-- Determines how many/which Complications are appropriate
-- Rank 1: Usually 0 Complications (1 rarely)
-- Rank 2: Usually 0-1 Complications (2 rarely)
-- Rank 3: Usually 1-2 Complications (3 rarely)
-- Rank 4: Usually 1-3 Complications (4 rarely)
-
-**COMPLICATIONS:**
-- Tied to Rank, NOT CR
-- Most foes have 0-1 Complications (keep them rare)
-- Complications are defining traits, not default features
-- A CR 1 demonspawn can have Complications (high Rank)
-- A CR 4 Goblin King might have none (just very durable, low Rank)
-
----
 
 ### Encounter Examples: Rank 2 Party
 
@@ -1659,34 +1600,6 @@ Boss encounters should require **team coordination** and **multiple actions**.
 
 ## Quick Reference
 
-### Progress Tracks
-
-**Three track types:**
-- **Harm:** Physical damage → defeated/incapacitated/dead
-- **Will:** Social/mental pressure → broken/surrendered/convinced/fled
-- **Obstacle:** Skill/knowledge → bypassed/unlocked/solved
-
-**What marks which track:**
-
-| Action | Marks | Notes |
-|--------|-------|-------|
-| Clash (physical) | Harm track | Weapons, unarmed, physical magic |
-| Clash (social) | Will track | Taunts, intimidation, insults, rhetoric |
-| Talk | Will track | Persuasion, deception, influence |
-| Defy (damage) | Harm track | Shoving into hazards, environmental damage |
-| Defy (bypass) | Obstacle track | Climbing, lockpicking, sneaking past, solving puzzles, dispelling wards |
-| Know | No track | Information gathering only (use gained knowledge to inform Defy attempts) |
-| Sense | No track | Information gathering only |
-| Special Talents | Varies | *Cutting Words* marks Harm via Talk (rare exception) |
-
-**Track lengths:**
-- **CR 1:** 2 ticks (fragile) | **CR 2:** 4 ticks (standard) | **CR 3:** 6 ticks (elite) | **Boss:** 8-10 ticks
-- **Asymmetry:** Mix track lengths to create interesting tactical choices (e.g., Harm 6, Will 2 = tough but easily scared)
-- **Track selection is prescriptive:** Signals what approaches work (Golem with Harm only = can't be reasoned with)
-
-**Players have no Progress tracks** — Stress and Conditions handle all incoming harm for PCs
-
----
 
 ### Complications
 

@@ -260,6 +260,111 @@ Mystics use **Domains** as touchstones — thematic areas of divine/primal power
 - **Can:** Create barriers, shield allies, ward against harm, deflect attacks, consecrate ground
 - **Cannot:** Attack directly (defensive only), heal wounds, divine information, transform
 
+### Domain Examples with Magnitude
+
+Below are worked examples showing Cantrips, Spells, and Potent Spells for common Mystic domains.
+
+#### Healing Domain (Life, Vitality, Restoration, Purity)
+
+**Cantrips (unlimited, no roll):**
+- Ease minor aches and pains (sore muscles, headache)
+- Diagnose obvious ailments (broken bone, infection, poison)
+- Sterilize a wound or surgical tool
+- Warm a cold body, slow bleeding temporarily
+
+**Spells (standard casting, roll Spirit + Action):**
+- Clear 2 Stress from a target
+- Reduce a Condition by 1 tier (Wounded 2 → Wounded 1)
+- Cure disease or neutralize poison (non-magical)
+- Stabilize a dying character
+- Restore consciousness to someone Taken Out by Stress
+
+**Potent Spells (cost 1 Stress to cast):**
+- Clear 3 Stress from a target
+- Remove a Condition entirely (any tier)
+- Cure magical disease or curse (if within domain's purview)
+- Restore lost vitality from grievous injury
+- Mend broken bones instantly, close severe wounds
+
+**Conflict consequences for healing:**
+Use narrative consequences (exhaustion, time, noise) rather than Stress. See Healing section for details.
+
+---
+
+#### Nature Domain (Beasts, Plants, Weather, Wilderness)
+
+**Cantrips (unlimited, no roll):**
+- Calm a non-hostile animal
+- Purify water or spoiled food
+- Predict weather for next few hours
+- Encourage a plant to bloom or wilt
+- Speak with animals (simple communication)
+
+**Spells (standard casting, roll Spirit + Action):**
+- Command an animal to perform a task (fetch, guard, attack)
+- Summon vines to entangle a foe (Clash to mark track or Defy to restrain)
+- Call fog or wind (obscure vision, environmental complication)
+- Accelerate plant growth (vines block doorway, thorns create barrier)
+- Speak with plants (limited information about what they've "witnessed")
+
+**Potent Spells (cost 1 Stress to cast):**
+- Transform into an animal temporarily (scene duration)
+- Summon a natural elemental (earth, water, wind — acts as ally CR 2)
+- Call a localized storm (lightning, wind, rain — area attack or obstacle)
+- Commune with nature spirits for deep knowledge (equivalent to Know + major insight)
+- Heal land corrupted by magic or desecration
+
+---
+
+#### Death Domain (Souls, Undeath, Passing, Endings)
+
+**Cantrips (unlimited, no roll):**
+- Sense presence of undead nearby
+- Speak with recently deceased (last words, final moment)
+- Preserve a corpse from decay
+- Dim lights or create unnatural chill
+- Sense when someone is dying or near death
+
+**Spells (standard casting, roll Spirit + Action):**
+- Speak with dead (extended conversation, questions about their life)
+- Turn undead (Clash or Talk to drive them away, mark their Will track)
+- Wither a living creature (Clash to mark Harm track with necrotic energy)
+- Sense cause of death or time of death
+- Guide a spirit to rest (end haunting, close unfinished business)
+
+**Potent Spells (cost 1 Stress to cast):**
+- Raise a corpse as temporary servant (scene duration, follows commands)
+- Drain life force from enemy and transfer to ally (2 Stress from enemy, 2 Stress to ally)
+- Inflict Burden: Withered or Cursed tier 2-3 (lasting necrotic curse)
+- Commune with ancestor spirits for forgotten knowledge
+- Sever necromantic magic or break powerful curse
+
+---
+
+#### Protection Domain (Shields, Wards, Defense, Sanctuary)
+
+**Cantrips (unlimited, no roll):**
+- Create dim light that wards off mundane threats (insects, vermin)
+- Sense hostile intent nearby (limited range, general direction)
+- Lock or unlock a mundane door
+- Create a small protective barrier (shield from wind/rain, not combat)
+
+**Spells (standard casting, roll Spirit + Action):**
+- Create a barrier that absorbs damage (grants ally 1 Edge on defense)
+- Ward a location against specific creature type (demons, undead, beasts)
+- Bless an ally (grant 1 Boon on next action)
+- Dispel minor magical effect (illusion, weak enchantment)
+- Create zone of sanctuary (no violence possible within for scene, requires agreement)
+
+**Potent Spells (cost 1 Stress to cast):**
+- Create powerful shield that absorbs multiple hits (ally has Expertise on defense for scene)
+- Consecrate area as holy ground (enemies of your patron face 2 Banes within)
+- Grant ally immunity to one type of damage for scene (fire, poison, etc.)
+- Reflect attack back to attacker (when ally hit, enemy takes same damage)
+- Banish extraplanar entity (demon, angel, elemental) back to home plane
+
+---
+
 ### GM Guidance: Adjudicating Touchstones
 
 When a player proposes a spell effect, ask:

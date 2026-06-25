@@ -176,6 +176,99 @@ Vantage isn't a separate step—it's reflected in how you set difficulty. See Ch
 
 ---
 
+## Adjudicating Vantage
+
+Vantage is your first tool for determining whether a player can attempt an action and how difficult it should be. Before assigning Banes, ask: "Does the character have vantage to attempt this?"
+
+### The Three-Tier Framework
+
+**Clear Vantage:** Anyone with basic competence can attempt this
+- No special permission needed
+- Examples: Climb a rope with handholds, persuade a friendly NPC, swing a sword at an enemy
+- **Difficulty modifier:** None (base difficulty applies)
+
+**Limited Vantage:** Requires specific capability, tools, or setup
+- Needs Expertise, Talent, appropriate equipment, or favorable positioning
+- Examples: Pick a lock (needs thieves' tools), treat a wound (needs medical knowledge), cast a spell (needs spellcasting ability)
+- **Difficulty modifier:** If lacking the requirement, impose 1 Bane or declare it impossible
+
+**No Vantage:** Impossible given current circumstances
+- Character lacks capability, tools, positioning, or physical/mental capacity
+- Examples: Cast spell without being a spellcaster, pick lock without tools, swing sword with broken arm (Condition removes vantage), fly without wings or magic
+- **Difficulty modifier:** 2 Banes if theoretically possible but severely disadvantaged, or simply impossible
+
+### When Conditions Remove Vantage
+
+Conditions can reduce or eliminate Vantage:
+
+**From Clear → Limited (1 Bane):**
+- Wounded while climbing
+- Frightened while negotiating
+- Exhausted while running
+
+**From Clear/Limited → No Vantage (2 Banes or impossible):**
+- Blinded while aiming a bow (2 Banes if possible, impossible for precision shots)
+- Broken arm while sword fighting (impossible to swing two-handed weapon)
+- Stunned while casting spells (impossible to concentrate)
+
+### Vantage vs. Banes: The Decision Tree
+
+Use this decision process at the table:
+
+1. **Check Vantage:** "Can they attempt this given who they are and their current state?"
+   - Yes, anyone can → Clear Vantage (proceed to step 2)
+   - Needs something they lack → Limited Vantage (1 Bane or impossible)
+   - Impossible → No Vantage (2 Banes or declare impossible)
+
+2. **Assess Difficulty:** "How hard is this task for someone with Vantage?"
+   - Easy → Grant 1 Boon
+   - Standard → No modifier
+   - Hard → Impose 1 Bane
+   - Very Hard → Impose 2 Banes
+
+3. **Stack modifiers:** Vantage penalties + Difficulty modifiers stack
+   - Picking a complex lock without tools = Limited Vantage (1 Bane) + Hard task (1 Bane) = 2 Banes total
+
+### Vantage in Practice
+
+**Example 1: Climbing**
+- Climbing a rope with handholds (Clear Vantage, Standard difficulty) = No modifier
+- Climbing a sheer wall (Clear Vantage, Very Hard difficulty) = 2 Banes
+- Climbing while Wounded 2 (Limited Vantage due to Condition, Standard difficulty) = 1 Bane
+- Climbing with broken arm (No Vantage) = Impossible or 2 Banes if theoretically possible
+
+**Example 2: Persuasion**
+- Convincing a friendly guard to let you pass (Clear Vantage, Easy) = 1 Boon
+- Convincing a suspicious noble (Clear Vantage, Hard) = 1 Bane
+- Convincing someone while Frightened 2 (Limited Vantage + Standard) = 1 Bane
+- Convincing someone in a language you don't speak (No Vantage) = Impossible without translator
+
+**Example 3: Spellcasting**
+- Sage casting a known theorem (Clear Vantage, Standard) = No modifier
+- Sage using Arcane Formula (Clear Vantage, but mechanic imposes 1 Bane)
+- Sage casting while Stunned (No Vantage due to Condition) = Impossible to concentrate
+- Non-spellcaster trying to cast a spell (No Vantage) = Impossible
+
+### Common Pitfalls
+
+**Don't double-penalize:** If a Condition already removes Vantage (imposing 1-2 Banes), don't also impose additional Banes for difficulty unless the task is inherently harder than standard.
+
+**Fiction first:** Vantage isn't about making things harder mechanically — it's about respecting what makes sense fictionally. A broken arm doesn't make sword fighting "hard" (Bane), it makes it impossible (No Vantage).
+
+**Expertise grants Vantage:** If a player has Expertise in a domain, they always have at least Limited Vantage for actions within that domain, even in adverse circumstances. A master lockpick can attempt a lock even without proper tools (though they'll face penalties).
+
+### When to Say "Impossible"
+
+Some actions should simply be impossible, not just very hard:
+- Physics violations without magic (fly, teleport, walk through walls)
+- Capabilities you don't have (cast spells without being a spellcaster)
+- Actions Conditions prevent (concentrate while Stunned, see while Blinded)
+- Fictional positioning blocks (attack someone in another room, persuade someone who left)
+
+Don't roll dice for impossible actions. Say "that's not possible given your current situation" and let the player pivot to a different approach.
+
+---
+
 ## GM Moves (Three Tiers)
 
 **Inspired by Grimwild's Story/Suspense/Impact taxonomy**
@@ -289,6 +382,83 @@ PC fails their action AND faces serious consequences:
 Don't say "I'm using 'Deal Damage' on you."
 
 Say "The orc's axe slams into your shield, splintering it. Mark 2 Stress."
+
+---
+
+### When to Use Each Move Type
+
+The move taxonomy explains what each type does. Here's when to reach for each:
+
+**Suspense Moves (Telegraph danger, build tension):**
+- **When players look to you:** "What do I see?" or "What happens next?"
+- **After a Conflict outcome:** Success with complication — use Suspense Move to introduce the consequence
+- **To create choice:** Present danger before it strikes, giving players opportunity to react
+- **Building tension:** "The dragon's throat glows orange..." (now they know breath weapon is coming)
+- **Advancing Countdown tracks:** Mark 1 tick, describe the threat getting closer
+
+**Examples:**
+- "The guard's hand moves to his sword hilt — he's suspicious"
+- "You hear footsteps approaching from the corridor"
+- "The ritual circle flares — one more ingredient and it completes"
+- "The bridge groans under your weight"
+
+**Impact Moves (Immediate consequences, escalation):**
+- **After Setback or Disaster:** The player failed — deliver the promised consequence
+- **When players hand you an opportunity:** They ignore warnings, split the party, trigger a trap
+- **When fiction demands it:** The logical outcome of their choices or inaction
+- **Countdown completes:** The threat that was building finally happens
+- **To create urgency:** Things escalate, stakes rise
+- **Enemy response to PC action:** Enemies respond to PC attacks, positioning, or interference
+
+**Examples:**
+- "The guard draws his sword and attacks — roll Defy to avoid!" (Impact Move after they threatened him)
+- "The ceiling collapses! Everyone mark 2 Stress" (Countdown completed)
+- "The dragon breathes fire — mark 2 Stress + Burned 1" (Setback on defense)
+- "The alarm bells ring — reinforcements are coming" (They ignored the Suspense Move warning)
+
+### The Flow at the Table
+
+**Typical combat round:**
+1. PC acts (rolls Clash to attack)
+2. Resolve outcome + Complications
+3. If Conflict/Setback → GM makes Impact Move (enemy responds)
+4. Next player acts
+5. Repeat
+
+**Typical exploration scene:**
+1. Players describe what they do
+2. If uncertain outcome → call for roll
+3. If Conflict → Suspense Move (telegraph danger)
+4. Players respond to danger
+5. If they ignore or fail → Impact Move (danger strikes)
+
+**Countdown pattern:**
+1. Suspense Move: Describe initial threat ("Ritual has begun")
+2. Mark Countdown track (secretly or openly)
+3. Suspense Move: Escalate threat each tick ("Ritual is halfway complete")
+4. Impact Move when Countdown completes: Deliver promised consequence
+
+### Decision Matrix
+
+| Situation | Move Type | Why |
+|-----------|-----------|-----|
+| PC rolls Conflict in combat | Impact Move (Minor) | Enemy responds to PC action |
+| PC rolls Setback against trap | Impact Move (Major) | They failed — trap triggers |
+| Players ask "What do we see?" | Suspense Move | Telegraph danger, create choice |
+| Ignoring warnings/time pressure | Impact Move (Major) | Fiction demands escalation |
+| Enemy's turn in combat | Impact Move | Use Challenge Moves |
+| Countdown completes | Impact Move | Deliver promised consequence |
+| PC achieves Success/Triumph | No Move needed | Clean success, no complication |
+
+### Common Mistakes
+
+**Using Suspense Moves after Setback:** Setback = failure. Don't soften it with a telegraph — deliver the Impact Move immediately.
+
+**Skipping telegraphs:** Always Suspense Move before Impact Move unless the danger was already established or the PCs triggered it directly.
+
+**Impact Moves without player action:** Impact Moves are responses to PC actions or natural escalation. If scene needs action, use Suspense Move to introduce threat first.
+
+**Impact Moves on Success:** Success = clean success. Don't impose consequences unless Complications or Triumph rules say otherwise.
 
 ---
 
@@ -712,6 +882,143 @@ If using Threat Pool (recommended for structured tension):
 - **Reinforce (2 Threat):** More enemies arrive
 
 **Don't hoard Threat.** Spend it to create drama and pressure.
+
+---
+
+## Consequence Calibration Guide
+
+New GMs often struggle with consequence severity — either too harsh (every Conflict marks Stress) or too lenient (consequences feel toothless). Use this guide to calibrate.
+
+### Default Consequence Templates
+
+**Minor Consequence (Conflict outcome):**
+
+**Physical combat:**
+- Mark 1 Stress (standard default)
+- OR: Inflict Condition tier 1 (Wounded, Stunned, Disarmed)
+- OR: Lose position (pushed back, separated from allies, lose high ground)
+- OR: Enemy gains advantage (flanking, prepared to strike, reinforcements alerted)
+
+**Social conflict:**
+- Mark 1 Stress (standard default)
+- OR: Relationship damaged (NPC becomes suspicious, hostile, or defensive)
+- OR: Lose position (caught in lie, exposed motive, lose leverage)
+- OR: Complication introduced (onlooker overhears, time passes, deal sours)
+
+**Exploration/obstacles:**
+- Mark 1 Stress (when physical cost makes sense)
+- OR: Time passes (night falls, alarm imminent, ritual progresses)
+- OR: Resource consumed (torch burns out, ration eaten, rope left behind)
+- OR: Alert raised (noise attracts attention, tracks left behind, trap partially triggered)
+
+**Major Consequence (Setback outcome):**
+
+**Physical combat:**
+- Mark 2 Stress (standard default)
+- OR: Mark 1 Stress + Condition tier 2-3 (Wounded, Stunned, Frightened)
+- OR: Serious setback (weapon broken, knocked prone and surrounded, ally endangered)
+- OR: Enemy gains major advantage (reinforcements arrive, terrain shifts, escape route blocked)
+
+**Social conflict:**
+- Mark 2 Stress (standard default)
+- OR: Relationship broken (NPC becomes hostile, refuses further negotiation, calls guards)
+- OR: Objective fails (negotiation collapses, cover blown, lie exposed)
+- OR: Serious complication (enemy alerted, time runs out, leverage lost)
+
+**Exploration/obstacles:**
+- Mark 2 Stress (when appropriate)
+- OR: Major setback (fall and take damage, trap triggers, objective blocked)
+- OR: Serious consequence (alarm raised, environmental hazard activated, time pressure escalates)
+- OR: Resource lost (equipment broken, ally separated, important information missed)
+
+**Severe Consequence (Disaster outcome):**
+
+**Any situation:**
+- Taken Out (unconscious, fleeing, captured — PC removed from scene)
+- OR: Burden inflicted (tier 2-3 persistent Condition)
+- OR: Objective fails catastrophically (ritual completes, fortress gates close, villain escapes)
+- OR: Countdown completes (ceiling collapses, bomb explodes, enemy army arrives)
+
+### Escalation Guidelines
+
+**When to escalate consequences:**
+- PCs ignored previous warnings (Suspense Moves)
+- Same action repeatedly attempted without changing approach
+- Stakes are genuinely high (climactic battle, life-or-death situation)
+- Countdown track nearly full (pressure increases as deadline approaches)
+- Elite/Boss enemies (deadlier than standard foes)
+
+**When to de-escalate consequences:**
+- PCs are already struggling (multiple wounded, low Stress)
+- Teaching moment (first encounter with new mechanic)
+- Fiction demands lighter touch (minor skirmish, social faux pas, routine task)
+- Pacing needs relief (after intense series of fights, give breathing room)
+
+**Example of escalation:**
+- First Conflict: Mark 1 Stress, lose position
+- Second Conflict (ignored warning): Mark 1 Stress + Condition tier 1
+- Third Conflict (still no change): Mark 2 Stress (escalated to Major Consequence)
+- Setback (finally): Taken Out or Burden (Severe Consequence)
+
+### Consequence Selection Matrix
+
+| Situation | Conflict | Setback | Disaster |
+|-----------|----------|---------|----------|
+| **Combat vs standard foe** | 1 Stress | 2 Stress | Taken Out |
+| **Combat vs elite/boss** | 1 Stress + Condition 1 | 2 Stress + Condition 2-3 | Burden tier 2-3 |
+| **Social with friendly NPC** | Minor setback | Relationship damaged | Relationship broken |
+| **Social with hostile NPC** | 1 Stress or relationship damage | 2 Stress or objective fails | Taken Out (guards called) |
+| **Climbing/traversal** | Slip, lose time | Fall, take damage | Taken Out (fall to bottom) |
+| **Stealth** | Noise, suspicion raised | Spotted, alert raised | Captured/surrounded |
+| **Healing magic** | Narrative (exhaustion, time) | Narrative or 1 Stress | 2 Stress or Burden |
+
+### Common Pitfalls
+
+**Over-reliance on Stress:** Not every consequence should mark Stress. Use narrative complications, Conditions, position loss, and objective setbacks to create variety.
+
+**Ignoring fiction:** If PC has 4 Stress and rolls Conflict attacking a knight, marking 1 Stress might make mechanical sense but "you barely scratch his armor and tire yourself out" might fit the fiction better than "his sword cuts you."
+
+**Undermining player victories:** If PC rolls Conflict (success + minor cost), don't make the cost negate the success. "You hit him but he hits you harder" feels bad. Instead: "You land the blow (mark track) but he drives you back (lose position)."
+
+**Death spirals:** Avoid consequences that make future success harder without giving players tools to escape. Example: Multiple Conditions stacking → harder to succeed → more Conditions. Break the spiral with opportunities to recover (Short Rest offered, enemies give ground, allies help).
+
+**Inconsistent severity:** Track your consequences across a session. If first Conflict marks 1 Stress, don't escalate to 2 Stress for subsequent Conflicts without narrative reason. Be consistent unless fiction demands escalation.
+
+### When Players Complain Consequences Are Too Harsh
+
+**Calibration check:**
+- Are you marking Stress on every Conflict? (Too harsh — use narrative complications)
+- Are PCs reaching 5 Stress within 2-3 encounters? (Too harsh — reduce Stress frequency)
+- Are you escalating consequences without telegraphing danger first? (Unfair — use Suspense Moves)
+
+**Adjust by:**
+- Using Conditions instead of Stress (gives players agency to clear through action)
+- Narrative complications instead of mechanical penalties
+- Offering Short Rest opportunities between encounters
+- Telegraphing danger before delivering consequences (Suspense Move → Impact Move)
+
+### When Players Complain Consequences Are Too Light
+
+**Calibration check:**
+- Are consequences just narrative color without mechanical teeth? (Too light — use Stress/Conditions)
+- Do PCs shrug off Conflicts without feeling pressure? (Too light — escalate stakes)
+- Are you avoiding marking Stress entirely? (Too light — Stress exists for a reason)
+
+**Adjust by:**
+- Mark Stress more consistently on Conflict in combat
+- Use Conditions to create persistent pressure
+- Advance Countdown tracks to create time pressure
+- Make narrative consequences matter (NPC turns hostile, alarm raised has real effects)
+
+### The Golden Rule
+
+**Telegraph before striking.** Use Suspense Moves to warn players before delivering Impact Moves. If they ignore the warning or roll badly, the consequence lands with full force and feels earned, not arbitrary.
+
+**Example:**
+- Suspense Move: "The knight's blade glows with icy magic as he winds up for a devastating strike"
+- PC can respond: Dodge (Defy), interrupt (Clash), or brace (accept incoming)
+- If they fail to stop it → Impact Move: "His frost blade cuts deep — mark 2 Stress + Frozen 2"
+- Consequence feels fair because they saw it coming and had opportunity to respond
 
 ---
 

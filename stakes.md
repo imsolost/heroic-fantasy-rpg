@@ -10,6 +10,8 @@ This can be implied through storytelling cues as you set the scene, or stated ex
 
 ## The Three Stakes Levels
 
+**Note on Narrative Consequences:** A narrative consequence means something goes wrong in the fiction without marking Stress or inflicting Conditions. Examples: takes longer, makes noise, attracts attention, looks foolish, wastes resources, loses positioning.
+
 ### Low Stakes
 **Lighter territory. Reduced consequences.**
 

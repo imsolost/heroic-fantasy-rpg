@@ -13,7 +13,7 @@ These work together:
 
 **Example:**
 - Climbing sheer wall with climbing gear → **Limited** (Hard, 1 Bane) + **Regular Stakes** (Setback = Major Consequence)
-- Climbing same wall with safety rope → **Strong** (Standard) + **Low Stakes** (Setback = Minor Consequence)
+- Climbing same wall with safety rope → **Strong** + **Low Stakes** (Setback = Minor Consequence)
 
 ---
 
@@ -27,7 +27,7 @@ Before calling for a roll, ask:
 
 **2. What's their Vantage?** (Given who they are and the situation, where do they fall?)
 - **Certain** → Auto-success (no roll needed)
-- **Strong** → Standard roll (no modifier)
+- **Strong** → Strong roll (no modifier)
 - **Limited** → Roll with 1-2 Banes (depending on how disadvantaged)
 - **Impossible** → Cannot attempt
 
@@ -63,10 +63,10 @@ Before calling for a roll, ask:
 
 ---
 
-### Standard
+### Strong
 **You have the capability and tools, but the outcome is uncertain.**
 
-**Standard roll (no modifier).** The character has a solid chance of success, but the outcome is uncertain.
+**Strong roll (no modifier).** The character has a solid chance of success, but the outcome is uncertain.
 
 **Examples:**
 - Climbing a rope with handholds
@@ -81,7 +81,7 @@ Before calling for a roll, ask:
 
 ---
 
-### Difficult
+### Limited
 **You lack ideal tools/positioning OR the task stretches your capability.**
 
 **Roll with 1-2 Banes** (depending on severity).
@@ -163,27 +163,27 @@ The GM makes the final call, but players should advocate for their positioning a
 
 **If the GM rules differently than expected, ask for clarification:**
 
-- "It's Difficult? I thought it'd be Standard. Can you explain what makes it harder?"
-- "What would I need to do to make this Standard instead of Difficult?"
+- "It's Limited? I thought it'd be Strong. Can you explain what makes it harder?"
+- "What would I need to do to make this Strong instead of Limited?"
 - "Can I spend time preparing to improve my Vantage?"
 
 ### As a GM: Explain Your Reasoning
 
 **You have final say, but make your logic transparent:**
 
-- "It's Difficult because you don't have the right tools—lockpicking a complex mechanism without lockpicks is very hard. If you had thieves' tools, it'd be Standard."
+- "It's Limited because you don't have the right tools—lockpicking a complex mechanism without lockpicks is very hard. If you had thieves' tools, it'd be Strong."
 - "It's Impossible right now because you're Stunned—you can't concentrate to cast. Once the Stunned condition clears, you can try."
 - "It's Certain because you have Expertise in this domain and the lock is simple—no roll needed, you pick it."
 
 **Set precedents that players can build on:**
 
-- "Last time we climbed with rope it was Standard—this is the same situation, so same ruling."
+- "Last time we climbed with rope it was Strong—this is the same situation, so same ruling."
 - "We ruled that Expertise makes simple tasks within your domain Certain—that applies here too."
 
 **Discuss edge cases with the table:**
 
-- "I'm thinking this is Difficult because of X and Y. Does that seem fair to everyone?"
-- "This feels borderline between Standard and Difficult. What do you all think?"
+- "I'm thinking this is Limited because of X and Y. Does that seem fair to everyone?"
+- "This feels borderline between Strong and Limited. What do you all think?"
 
 By having this conversation openly, you:
 - Build shared understanding of the world
@@ -203,7 +203,7 @@ By having this conversation openly, you:
 
 2. **Assess Vantage:** "Where do they fall on the Vantage scale?"
    - **Certain** → Auto-success (no roll needed)
-   - **Strong** → Standard roll (no modifier)
+   - **Strong** → Strong roll (no modifier)
    - **Limited** → Roll with 1-2 Banes
    - **Impossible** → Cannot attempt
 
@@ -221,13 +221,13 @@ By having this conversation openly, you:
 
 - **Champion with sword vs. goblin** → Strong (has weapon, competent foe)
 - **Champion with sword vs. armored knight** → Strong (still capable, but knight has Complications)
-- **Champion unarmed vs. armored knight** → Difficult, 1 Bane (lacking ideal tool)
+- **Champion unarmed vs. armored knight** → Limited, 1 Bane (lacking ideal tool)
 - **Champion with broken arm vs. knight** → Impossible (Condition removes capability)
 
 - **Shadow with tools vs. simple lock** → Certain (within Expertise, trivial task)
 - **Shadow with tools vs. complex lock** → Strong (within Expertise, challenging task)
-- **Shadow without tools vs. simple lock** → Difficult, 1 Bane (lacking tools, simple task)
-- **Shadow without tools vs. complex lock** → Difficult, 2 Banes (lacking tools, difficult task)
+- **Shadow without tools vs. simple lock** → Limited, 1 Bane (lacking tools, simple task)
+- **Shadow without tools vs. complex lock** → Limited, 2 Banes (lacking tools, difficult task)
 
 ---
 
@@ -288,7 +288,7 @@ If you attempt something that requires specialized tools you wouldn't normally c
 **They combine to create the full picture:**
 
 **Example 1: Limited Vantage + Low Stakes**
-- Climbing training wall without safety rope (Difficult, 1 Bane + Low Stakes)
+- Climbing training wall without safety rope (Limited, 1 Bane + Low Stakes)
 - Limited to climb but safe to fail
 - Conflict: Slip and look foolish (narrative consequence)
 - Setback: Fall and mark 1 Stress (embarrassment)
@@ -300,13 +300,13 @@ If you attempt something that requires specialized tools you wouldn't normally c
 - Setback: Fall into lava, Taken Out
 
 **Example 3: Limited Vantage + High Stakes**
-- Non-climber scaling difficult cliff over lava (Difficult, 2 Banes + High Stakes)
+- Non-climber scaling difficult cliff over lava (Limited, 2 Banes + High Stakes)
 - Very difficult AND deadly to fail
 - Conflict: Barely make it, mark 2 Stress
 - Setback: Fall, Taken Out
 - **This is when PCs should seek alternate approaches**
 
-**Key Insight:** Just because something is difficult (Vantage) doesn't mean it's dangerous (Stakes), and vice versa. A master thief picking a complex lock in a safe environment = Standard + Low Stakes. A novice threatening a king = Standard + High Stakes.
+**Key Insight:** Just because something is difficult (Vantage) doesn't mean it's dangerous (Stakes), and vice versa. A master thief picking a complex lock in a safe environment = Strong + Low Stakes. A novice threatening a king = Strong + High Stakes.
 
 ---
 
@@ -327,28 +327,28 @@ If you attempt something that requires specialized tools you wouldn't normally c
 **Example 1: Climbing**
 - Climbing a ladder → **Certain** (no roll, automatic success)
 - Climbing a rope with handholds → **Strong** (standard roll)
-- Climbing a sheer wall with climbing gear → **Difficult, 1 Bane** (proper tools, but very difficult)
-- Climbing sheer wall without gear → **Difficult, 2 Banes** (no tools AND very difficult)
+- Climbing a sheer wall with climbing gear → **Limited, 1 Bane** (proper tools, but very difficult)
+- Climbing sheer wall without gear → **Limited, 2 Banes** (no tools AND very difficult)
 - Climbing with broken arm → **Impossible** (Condition removes capability)
 
 **Example 2: Persuasion**
 - Convincing friendly NPC of obvious truth → **Certain** (no roll)
 - Convincing friendly NPC to help → **Strong** (standard roll)
-- Convincing suspicious noble → **Difficult, 1 Bane** (working against mistrust)
-- Convincing hostile enemy to betray their lord → **Difficult, 2 Banes** (extremely difficult, no leverage)
+- Convincing suspicious noble → **Limited, 1 Bane** (working against mistrust)
+- Convincing hostile enemy to betray their lord → **Limited, 2 Banes** (extremely difficult, no leverage)
 - Convincing someone in a language you don't speak → **Impossible** (need translator)
 
 **Example 3: Spellcasting**
 - Sage casting known theorem → **Strong** (standard roll)
-- Sage using Arcane Formula (improvised spell) → **Difficult, 1 Bane** (working from theory, not mastery)
+- Sage using Arcane Formula (improvised spell) → **Limited, 1 Bane** (working from theory, not mastery)
 - Sage casting while Stunned → **Impossible** (Condition prevents concentration)
 - Non-spellcaster trying to cast spell → **Impossible** (no capability)
 
 **Example 4: Lock Picking**
 - Shadow with tools vs. simple lock → **Certain** (Expertise + tools, no roll)
 - Shadow with tools vs. complex lock → **Strong** (standard roll)
-- Shadow without tools vs. simple lock → **Difficult, 1 Bane** (improvising without proper tools)
-- Shadow without tools vs. complex lock → **Difficult, 2 Banes** (no tools AND very difficult)
+- Shadow without tools vs. simple lock → **Limited, 1 Bane** (improvising without proper tools)
+- Shadow without tools vs. complex lock → **Limited, 2 Banes** (no tools AND very difficult)
 - Non-thief without tools → **Impossible** (no capability, no tools)
 
 ---
@@ -359,12 +359,12 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Three Questions:**
 1. **Can they attempt this?** (Capability, tools, positioning)
-2. **How difficult is it?** (Certain/Standard/Difficult/Impossible)
+2. **How difficult is it?** (Certain/Strong/Limited/Impossible)
 3. **Is failure interesting?** (If no, don't roll—let it happen)
 
 **Four Vantage Tiers:**
 - **Certain** → No roll (automatic success)
-- **Strong** → Standard roll (no modifier)
+- **Strong** → Strong roll (no modifier)
 - **Limited** → Roll with 1-2 Banes (lacking tools/capability, or task very difficult)
 - **Impossible** → Cannot attempt (suggest different approach)
 

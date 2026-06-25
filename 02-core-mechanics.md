@@ -30,21 +30,9 @@ Make an **Action Roll** when a character faces a risky, difficult, or dramatical
 
 ## Vantage
 
-**Vantage** is your character's frame of reference—the sum of your capabilities (Expertise, Traits, gear) and the current fiction (positioning, preparation, circumstances). It determines what you can attempt.
+**Vantage** is your character's frame of reference—the sum of your capabilities (Expertise, Traits, gear) and the current fiction (positioning, preparation, circumstances). It determines what you can attempt and how difficult it is.
 
-**How Vantage Works:**
-
-- **Clear Vantage:** Anyone can attempt this action (no special permission needed)
-- **Limited Vantage:** Requires Expertise, relevant Trait, or specific fictional setup
-- **No Vantage:** Impossible given who you are or the current situation
-
-**Examples:**
-- A doctor can suture wounds (Expertise grants vantage)
-- A thief likely has lockpicks (Calling/gear grants vantage)
-- You can't swing a sword with a broken arm (Condition removes vantage)
-- You can't pick a lock if you're across the room (fiction denies vantage)
-
-**Vantage (Difficulty):**
+**The Vantage Scale:**
 
 Vantage is your fictional positioning that determines how difficult an action is:
 
@@ -281,7 +269,7 @@ Other participants may **Assist** (mark 1 Stress each to grant +1 Boon each), su
 **1 Bane = -1d from your pool**
 
 **Sources:**
-- Doubtful Vantage (GM imposes 1-2 Banes when lacking tools/capability or conditions work against success)
+- Limited Vantage (GM imposes 1-2 Banes when lacking tools/capability or conditions work against success)
 - Multiple disadvantages (2 Banes — requires Create an Opening or other Boon sources to attempt reliably)
 - Conditions (each Condition = 1 Bane, maximum 2 Banes from Conditions total)
 - Hostile environment (darkness, unstable ground, harsh weather)
@@ -395,8 +383,8 @@ For more on Complications and tactical play, see Chapter 6.
 **Typical Pools:**
 - Starting character (Approach 3): **3d6** base
 - Reasonable Vantage with 1 Boon (ally assists): **4d6**
-- Doubtful Vantage (1 Bane): **2d6**
-- With 2 Conditions (+2 Banes) + Doubtful Vantage (+1 Bane) = 3 Banes → no Boons to cancel → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
+- Limited Vantage (1 Bane): **2d6**
+- With 2 Conditions (+2 Banes) + Limited Vantage (+1 Bane) = 3 Banes → no Boons to cancel → net 2 Banes after cap: **1d6** (minimum 2d6 take lowest)
 
 ---
 
@@ -606,7 +594,7 @@ See Chapter 4 for Disaster Impact Moves.
 
 **Favorable Conditions:** Grant 1 Boon (+1d) when you have clear advantage
 
-**Doubtful Vantage:** Impose 1-2 Banes (-1d or -2d) when lacking tools/capability or facing unfavorable conditions
+**Limited Vantage:** Impose 1-2 Banes (-1d or -2d) when lacking tools/capability or facing unfavorable conditions
 
 **Boon/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
 

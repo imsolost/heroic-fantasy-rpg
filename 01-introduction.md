@@ -69,7 +69,7 @@ Roll your dice pool (Xd6) and check **the highest single die**:
 - **Setback** (all dice 1-3) — Things go wrong; the situation worsens
 - **Conflict** (any 4-5) — You succeed, but face a consequence
 - **Success** (any 6) — You accomplish your intent cleanly
-- **Triumph** (two or more 6s) — Heroic success; gain Momentum and ignore enemy defenses
+- **Triumph** (two or more 6s) — Heroic success; gain Momentum and ignore all Complications
 
 **Complications:** Enemies and obstacles have defensive traits (like **Resilient** or **Elusive**) that can reduce your outcome by one tier after you roll. Triumph ignores all Complications. See Chapter 6 for the full tactical system.
 
@@ -89,7 +89,7 @@ Characters with **Expertise** in a specific domain (e.g., Heavy Blades, Stealth,
 
 **Spend:**
 - **Create an Opening (1 Momentum)** — Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats (see Chapter 2)
-- **Resist Consequence (1 Momentum)** — Reduce harm or setbacks
+- **Resist Consequence (1 Momentum)** — Automatically reduce Consequence Tier by 1 (no roll required)
 
 **Starting cap:** 2 (some Talents raise this to 3)
 

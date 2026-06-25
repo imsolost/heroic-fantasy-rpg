@@ -32,13 +32,7 @@ Specific techniques to achieve your agendas:
 
 ### **Telegraph danger, then follow through**
 
-Never deliver consequences without warning (unless surprise is narratively justified). Use the **Hint → Reveal → Strike** escalation pattern (see *Vigilance* section below) to telegraph danger before it lands.
-
-**Golden Rule:** Always give players a chance to respond to danger before delivering hard consequences. Telegraphed threat → player response → consequence if they fail or ignore the warning. This eliminates "gotcha" moments while maintaining tension.
-
-**Implementation:** Use **Suspense Moves** (setup/warning) before **Impact Moves** (consequence). See *GM Moves* section below for complete move taxonomy and when to use each tier.
-
-**Exception:** A player's dice roll bypasses the telegraph pipeline. When a PC rolls Setback, the active risk of their action constitutes the telegraph — deliver an immediate Impact Move. The roll itself IS the warning that failed.
+Always give players a chance to respond to danger before delivering hard consequences. Use the **Hint → Reveal → Strike** pattern (see *Vigilance* section) and **Suspense Moves** (setup/warning) before **Impact Moves** (consequence). Exception: When a PC rolls Setback, deliver an immediate Impact Move — the roll itself was the warning that failed.
 
 ### **Make every roll matter**
 - Only call for rolls when outcome uncertain and both success/failure interesting
@@ -331,41 +325,13 @@ These deliver consequences when PCs fail or warnings go unheeded. The severity d
 - Suspense move was ignored/failed → Major Consequence
 - Fiction demands immediate consequence
 
-### Minor Consequences (Conflict)
+### Consequence Severity
 
-PC succeeds at their action, but faces a complication:
+**Minor Consequences (Conflict):** Success with complication (1 Stress, tier 1 Condition, lose position, attract attention, warn of danger)
 
-**Choose one:**
-- Mark 1 Stress
-- Inflict tier 1 Condition
-- Lose position or advantage
-- Attract attention
-- Warn of imminent danger
-- Escalate situation slightly
-- Offer tough choice
+**Major Consequences (Setback):** Failure with serious consequence (2 Stress, enemy counterattacks, lose something important, trigger danger, objective fails)
 
-**Examples:**
-- "You deflect his blade but he backs you into the corner — mark 1 Stress"
-- "You pick the lock but the mechanism clicks loudly — guards are approaching"
-- "You learn the ritual's purpose, but the cult's attention turns toward you"
-
-### Major Consequences (Setback)
-
-PC fails their action AND faces serious consequences:
-
-**Choose one:**
-- Mark 2 Stress (or 1 Stress + tier 2-3 Condition)
-- Enemy counterattacks or gains major advantage
-- Lose something important (weapon, position, ally)
-- Trigger immediate danger (trap, alarm, reinforcements)
-- Objective becomes much harder or fails
-- Situation fundamentally worsens
-
-**Examples:**
-- "The orc's axe bites deep. Mark 2 Stress."
-- "The cave-in splits the party. Kael, you're alone in the dark."
-- "The noble sees through your deception and calls for guards — you're surrounded"
-- "You slip while climbing — mark 2 Stress and you're hanging by one hand"
+**For detailed consequence selection by situation type, see Consequence Calibration Guide below.**
 
 ### **Important:** Name the move in your head, describe in fiction
 

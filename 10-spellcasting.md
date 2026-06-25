@@ -262,106 +262,20 @@ Mystics use **Domains** as touchstones — thematic areas of divine/primal power
 
 ### Domain Examples with Magnitude
 
-Below are worked examples showing Cantrips, Spells, and Potent Spells for common Mystic domains.
+**Healing Domain (Life, Vitality, Restoration, Purity):**
+- **Cantrips:** Ease minor aches, diagnose ailments, sterilize wounds, slow bleeding
+- **Spells:** Clear 2 Stress, reduce Condition by 1 tier, cure disease/poison, stabilize dying character
+- **Potent Spells:** Clear 3 Stress, remove Condition entirely, cure magical disease, mend broken bones instantly
 
-#### Healing Domain (Life, Vitality, Restoration, Purity)
+**Other Common Domains (abbreviated):**
+- **Nature:** Command animals, summon vines, call weather, transform into animal (Potent)
+- **Death:** Speak with dead, turn undead, wither living, raise temporary servant (Potent)
+- **Protection:** Create barriers, ward locations, bless allies, consecrate ground (Potent)
+- **Battle:** Empower weapons, inspire warriors, strike with divine wrath
+- **Prophecy:** Divine future, read fate, grant visions
+- **Storms:** Call lightning, summon wind, control weather
 
-**Cantrips (unlimited, no roll):**
-- Ease minor aches and pains (sore muscles, headache)
-- Diagnose obvious ailments (broken bone, infection, poison)
-- Sterilize a wound or surgical tool
-- Warm a cold body, slow bleeding temporarily
-
-**Spells (standard casting, roll Spirit + Action):**
-- Clear 2 Stress from a target
-- Reduce a Condition by 1 tier (Wounded 2 → Wounded 1)
-- Cure disease or neutralize poison (non-magical)
-- Stabilize a dying character
-- Restore consciousness to someone Taken Out by Stress
-
-**Potent Spells (cost 1 Stress to cast):**
-- Clear 3 Stress from a target
-- Remove a Condition entirely (any tier)
-- Cure magical disease or curse (if within domain's purview)
-- Restore lost vitality from grievous injury
-- Mend broken bones instantly, close severe wounds
-
-**Conflict consequences for healing:**
-Use narrative consequences (exhaustion, time, noise) rather than Stress. See Healing section for details.
-
----
-
-#### Nature Domain (Beasts, Plants, Weather, Wilderness)
-
-**Cantrips (unlimited, no roll):**
-- Calm a non-hostile animal
-- Purify water or spoiled food
-- Predict weather for next few hours
-- Encourage a plant to bloom or wilt
-- Speak with animals (simple communication)
-
-**Spells (standard casting, roll Spirit + Action):**
-- Command an animal to perform a task (fetch, guard, attack)
-- Summon vines to entangle a foe (Clash to mark track or Defy to restrain)
-- Call fog or wind (obscure vision, environmental complication)
-- Accelerate plant growth (vines block doorway, thorns create barrier)
-- Speak with plants (limited information about what they've "witnessed")
-
-**Potent Spells (cost 1 Stress to cast):**
-- Transform into an animal temporarily (scene duration)
-- Summon a natural elemental (earth, water, wind — acts as ally CR 2)
-- Call a localized storm (lightning, wind, rain — area attack or obstacle)
-- Commune with nature spirits for deep knowledge (equivalent to Know + major insight)
-- Heal land corrupted by magic or desecration
-
----
-
-#### Death Domain (Souls, Undeath, Passing, Endings)
-
-**Cantrips (unlimited, no roll):**
-- Sense presence of undead nearby
-- Speak with recently deceased (last words, final moment)
-- Preserve a corpse from decay
-- Dim lights or create unnatural chill
-- Sense when someone is dying or near death
-
-**Spells (standard casting, roll Spirit + Action):**
-- Speak with dead (extended conversation, questions about their life)
-- Turn undead (Clash or Talk to drive them away, mark their Will track)
-- Wither a living creature (Clash to mark Harm track with necrotic energy)
-- Sense cause of death or time of death
-- Guide a spirit to rest (end haunting, close unfinished business)
-
-**Potent Spells (cost 1 Stress to cast):**
-- Raise a corpse as temporary servant (scene duration, follows commands)
-- Drain life force from enemy and transfer to ally (2 Stress from enemy, 2 Stress to ally)
-- Inflict Burden: Withered or Cursed tier 2-3 (lasting necrotic curse)
-- Commune with ancestor spirits for forgotten knowledge
-- Sever necromantic magic or break powerful curse
-
----
-
-#### Protection Domain (Shields, Wards, Defense, Sanctuary)
-
-**Cantrips (unlimited, no roll):**
-- Create dim light that wards off mundane threats (insects, vermin)
-- Sense hostile intent nearby (limited range, general direction)
-- Lock or unlock a mundane door
-- Create a small protective barrier (shield from wind/rain, not combat)
-
-**Spells (standard casting, roll Spirit + Action):**
-- Create a barrier that absorbs damage (grants ally 1 Edge on defense)
-- Ward a location against specific creature type (demons, undead, beasts)
-- Bless an ally (grant 1 Boon on next action)
-- Dispel minor magical effect (illusion, weak enchantment)
-- Create zone of sanctuary (no violence possible within for scene, requires agreement)
-
-**Potent Spells (cost 1 Stress to cast):**
-- Create powerful shield that absorbs multiple hits (ally has Expertise on defense for scene)
-- Consecrate area as holy ground (enemies of your patron face 2 Banes within)
-- Grant ally immunity to one type of damage for scene (fire, poison, etc.)
-- Reflect attack back to attacker (when ally hit, enemy takes same damage)
-- Banish extraplanar entity (demon, angel, elemental) back to home plane
+**Note:** Healing Conflict consequences use narrative costs (exhaustion, time) rather than Stress—see Healing section below for details.
 
 ---
 
@@ -526,102 +440,16 @@ A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatur
 
 ### Magical Scope by Rank
 
-**Rank 1: Local-Scale Magic (Grounded Fantasy)**
-- **Cantrips:** Unlimited minor conveniences
-- **Spells:** Single-target effects, solve immediate problems
-- **Potent Spells:** Affect small groups, create room-sized effects
-- **Examples:**
-  - Fireball destroys a door or injures one enemy
-  - Charm one guard into letting you pass
-  - Become invisible briefly (scene duration)
-  - Heal moderate wounds (clear 3 Stress with Potent Spell)
-  - Levitate a person
-  - Scry nearby locations (same city)
-  - Create illusions filling a room
+**Magnitude (Cantrip/Spell/Potent/Ritual) determines mechanical cost and risk. Rank determines narrative permission for scale.**
 
-**Rank 2: City/Regional-Scale Magic (Heroic Fantasy)**
-- **Spells:** Enhanced precision and reliability, affect single targets within city-wide range
-- **Potent Spells:** Affect entire buildings, multiple targets, scene-long duration, or significantly amplified effects
-- **Rituals:** Begin to be accessible (with proper preparation) — extended durations, permanent effects, or summoning powerful entities
-- **Examples:**
-  - **Spells:** Fireball strikes one foe, teleport across a building, charm one guard, create barrier for 1-2 actions
-  - **Potent Spells:** Fireball destroys a building's interior or strikes multiple foes, teleport across a city district, turn invisible for entire scene, create nearly indestructible barrier for the scene, fly for the scene
-  - **Rituals:** Teleport across the entire city, summon powerful spirits that serve for days, speak with the long-dead, create permanent magical wards, control weather for hours (summon storm, disperse fog), scry across a region, raise stone walls that last days
+| Rank | Scale | Example Effects |
+|------|-------|-----------------|
+| **Rank 1** | Local (Grounded) | Fireball injures one foe, charm one guard, heal moderate wounds (3 Stress), create room-sized illusion, teleport across building |
+| **Rank 2** | Regional (Heroic) | **Potent:** Fireball strikes multiple foes, teleport across city district, fly/invisible for scene. **Rituals:** Summon powerful spirits (days), raise stone walls (days), scry across region |
+| **Rank 3** | National (Mythic) | Teleport across kingdoms, freeze lake, raise fortress, summon dragons, open portals between worlds, animate construct army, scry anywhere on continent |
+| **Rank 4** | World (Demigod) | Move entire cities, create pocket dimensions, seal gods, rewrite national curses, alter regional climates permanently, resurrect legendary heroes |
 
-**Rank 3: National-Scale Magic (Mythic Fantasy)**
-- **Potent Spells:** Affect battlefields, reshape terrain, create lasting magical constructs
-- **Rituals:** Major undertakings with far-reaching consequences
-- **Examples:**
-  - Teleport across kingdoms
-  - Freeze a lake solid
-  - Raise a fortress from stone
-  - Summon dragons or powerful extraplanar beings
-  - Create entirely new spells and magical formulas
-  - Curse bloodlines (requires ritual)
-  - Open portals between worlds
-  - Walk the spirit realm physically
-  - Animate an army of constructs
-  - Create powerful magical artifacts
-  - Scry anywhere on the continent
-
-**Rank 4: World-Scale Magic (Demigod Fantasy)**
-- **Rituals:** World-shaping effects that alter history
-- **Examples:**
-  - Raise or level mountain ranges
-  - Change regional climate permanently
-  - Seal gods or cosmic entities away
-  - Create stable pocket dimensions
-  - Move entire cities through space
-  - Tear open permanent planar rifts
-  - Resurrect legendary heroes from ages past
-  - Rewrite ancient curses affecting entire nations
-  - Transform deserts into forests
-  - Create new magical species
-  - Bind or banish demon lords permanently
-
-### Guidelines for GMs
-
-**Magnitude (Cantrip/Spell/Potent/Ritual) determines mechanical cost and risk.**
-**Rank determines narrative permission for scale.**
-
-A Rank 1 Sage can cast a Potent Spell (pay 1 Stress, roll with risk)—but they can't teleport across kingdoms or raise fortresses. Those effects require Rank 3 narrative permission.
-
-A Rank 4 Sage attempting to "freeze a lake" would use a Potent Spell (1 Stress, roll) or Ritual (structured scene), but they have the narrative permission to attempt it because they're at mythic tier.
-
-**Key principle:** Don't let players bypass Rank by saying "but I'm using magic!" A Rank 1 spellcaster healing someone heals moderate wounds (3 Stress via Potent Spell). A Rank 4 spellcaster healing someone can cure mortal wounds that would kill any other hero, restore severed limbs, or even reverse aging—because they're at demigod tier, not because "healing magic is just better."
-
-**Fiction matters:** A Rank 4 Champion can't level a fortress with a punch just because they're high Rank—they need the fictional capability (superhuman strength through their Calling). Similarly, a Rank 4 Sage can't level a fortress without magical means (appropriate Sphere/Domain, preparation, or ritual). Your Calling and fictional positioning still matter.
-
----
-
-### Magical Scale by Rank
-
-These examples help GMs judge appropriate magical scale across different Ranks:
-
-**Rank 1 Magic:**
-- Throw lightning at one foe
-- Charm a single guard
-- Heal moderate injuries
-- Create a room-sized illusion
-- Teleport across a building
-
-**Rank 2 Magic:**
-- **Potent Spells:** Teleport across a city district, fly for a scene, turn invisible for entire scene, strike multiple foes with fireball
-- **Rituals:** Teleport across entire city, summon powerful spirits (serve for days), freeze a river section, raise stone walls (last days)
-
-**Rank 3 Magic:**
-- Open portals between kingdoms
-- Animate an army of statues
-- Raise a fortress from stone
-- Summon dragons
-- Walk physically into the spirit realm
-
-**Rank 4 Magic:**
-- Move entire cities
-- Create pocket dimensions
-- Seal gods or primordial forces
-- Rewrite curses affecting nations
-- Alter regional climates permanently
+**Key principle:** Don't let players bypass Rank by saying "but I'm using magic!" A Rank 1 spellcaster heals moderate wounds (3 Stress). A Rank 4 spellcaster cures mortal wounds, restores limbs, reverses aging—because they're demigod-tier, not because "healing magic is just better."
 
 ---
 

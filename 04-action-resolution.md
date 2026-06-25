@@ -73,11 +73,7 @@ There is no "wrong" Approach to a situation, but some may be less effective or r
 The GM evaluates the situation and communicates clearly:
 
 **Vantage (Difficulty):**
-- Where does the character fall on the Vantage scale?
-  - **Certain:** Auto-success (no roll)
-  - **Standard:** Standard roll (no modifier)
-  - **Limited:** Roll with 1-2 Banes
-  - **Impossible:** Cannot attempt
+- Assess their capability, tools, and positioning (Certain/Strong/Limited/Impossible - see Vantage section above)
 - See [Vantage](vantage.md) for complete assessment framework
 
 **Stakes (Danger):**
@@ -181,7 +177,7 @@ You do not accomplish your action's mechanical effect (0 ticks, 0 questions, no 
 
 **Your action fails:** No progress on tracks, no questions answered, no information gained.
 
-**And the situation worsens dramatically:** GM inflicts 2 Stress, removes advantage, activates threats, or makes dramatic narrative shifts.
+**And the situation worsens dramatically:** GM makes a Major Consequence move (mark 2 Stress OR 1 Stress + Condition tier 2-3, enemy gains major advantage, lose something important, trigger danger, objective setback).
 
 ---
 
@@ -192,21 +188,21 @@ You accomplish your action's mechanical effect (same as Success), but you suffer
 
 **Your action succeeds:** Mark ticks, ask questions, gain information, or overcome obstacles as you would on Success.
 
-**But the situation shifts against you:** GM inflicts 1 Stress, you lose position, side effects occur, or countdowns advance.
+**But the situation shifts against you:** GM makes a Minor Consequence move (mark 1 Stress OR inflict tier 1 Condition, lose position, attract attention, warn of danger, escalate slightly).
 
 ---
 
 #### Success
 **You accomplish your intent cleanly.**
 
-Choose an effect from the Effect Menu (see below). No consequences unless the fiction demands it (falling into success can still hurt).
+You achieve what you set out to do. No consequences unless the fiction demands it (falling into success can still hurt).
 
 ---
 
 #### Triumph
 **You accomplish your intent fully. Heroic moment.**
 
-- Choose an effect from the Effect Menu
+- Achieve your intent (same as Success)
 - Gain 1 Momentum
 - Ignore all Complications (cannot be reduced)
 - If a Trait is narratively relevant, you may invoke it for one Special Effect
@@ -837,10 +833,10 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 
 **Example Special Effects (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Harm or Will track instead of 1)
-- Affect Additional Targets (cleave through multiple enemies, demoralize entire squad)
-- Additional Effect: Take Something (mark Harm AND disarm them)
-- Additional Effect: Create Advantage (mark Harm AND wound them - Bleeding 1, or break Will AND humiliate them publicly)
-- Additional Effect: Seize Control (mark Harm AND knock them down)
+- Broad Effect (cleave through multiple enemies, demoralize entire squad)
+- Secondary Effect: Take Something (mark Harm AND disarm them)
+- Secondary Effect: Create Advantage (mark Harm AND wound them - Bleeding 1, or break Will AND humiliate them publicly)
+- Secondary Effect: Seize Control (mark Harm AND knock them down)
 - Build Momentum (your strike energizes an ally for their next move)
 
 ---
@@ -862,18 +858,9 @@ Use when:
 
 **Distinction from Clash (social):** 
 
-Both Talk and social Clash can mark the **Will track**, but they produce fundamentally different outcomes:
+Both Talk and social Clash can mark the **Will track**, but produce fundamentally different outcomes. **Talk** wins someone over through persuasion (they cooperate willingly, may become allies). **Clash** breaks them down through intimidation (they submit under duress, will betray when able).
 
-- **Talk** aims to **win someone over** — persuade, convince, appeal to their interests (marks **Will track**)
-- **Clash (social)** aims to **break them down** — intimidate, threaten, dominate, wound pride (marks **Will track**)
-
-**Outcome difference:**
-- **Talk success:** They cooperate willingly because you've convinced them. They may become allies, remain cooperative even without your presence, and genuinely agree with the course of action.
-- **Clash success:** They submit because they're forced, terrified, or broken. They resent you, will flee or betray when the threat is gone, and comply only as long as you maintain dominance.
-
-**Rule of thumb:** If you're threatening harm to force compliance, use Clash. If you're appealing to their interests, values, or reason to gain willing cooperation, use Talk.
-
-See the **Clash - Harm** section above for a detailed comparison table.
+**See the Clash - Harm section above for the detailed comparison table.**
 
 **Outcomes:**
 - **Setback:** Mark 0 ticks + you face Major Consequence (they're offended, call guards, situation worsens dramatically)
@@ -893,10 +880,10 @@ See the **Clash - Harm** section above for a detailed comparison table.
 
 **Example Special Effects (from Trait invocation):**
 - Greater Effect (mark 2 ticks on Will track, OR shift attitude dramatically beyond track - they become advocate/ally)
-- Affect Additional Targets (convince entire group instead of one person)
-- Additional Effect: Create Advantage (mark Will AND make them sympathetic - Charmed 1, ally gets Boon on social actions against them)
-- Additional Effect: Take Something (mark Will AND extract commitment, gain favor, or steal rival's credibility)
-- Additional Effect: Change Environment (mark Will AND change social dynamics - others witness and are influenced)
+- Broad Effect (convince entire group instead of one person)
+- Secondary Effect: Create Advantage (mark Will AND make them sympathetic - Charmed 1, ally gets Boon on social actions against them)
+- Secondary Effect: Take Something (mark Will AND extract commitment, gain favor, or steal rival's credibility)
+- Secondary Effect: Change Environment (mark Will AND change social dynamics - others witness and are influenced)
 - Build Momentum (your words energize an ally)
 
 ---
@@ -998,8 +985,8 @@ The Know roll **gave you information**. The Defy roll **applied that knowledge**
 
 **Example Special Effects (from Trait invocation):**
 - Greater Effect (GM tells you significantly more information + 2 clarifying questions instead of 1)
-- Additional Effect: Create Advantage (recall information AND grant ally 1 Boon or 1 Edge by revealing tactical weakness or specific vulnerability)
-- Additional Effect: Change Environment (recall information AND reveal hidden implication - secret connection, crucial context that changes situation)
+- Secondary Effect: Create Advantage (recall information AND grant ally 1 Boon or 1 Edge by revealing tactical weakness or specific vulnerability)
+- Secondary Effect: Change Environment (recall information AND reveal hidden implication - secret connection, crucial context that changes situation)
 - Build Momentum (your knowledge prepares an ally for action)
 
 ---
@@ -1270,4 +1257,4 @@ This creates:
 - Triumph = avoid + Momentum + ignore Complications + may invoke Trait
 
 **Resisting Your Own Consequences:**
-- Spend 1 Momentum → Roll Defy to reduce/avoid Stress or Condition from your action's Conflict/Setback
+- Spend 1 Momentum → Automatically reduce Consequence Tier by 1 (no roll required)

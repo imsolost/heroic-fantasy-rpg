@@ -295,7 +295,7 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Example 2: Reasonable Vantage + High Stakes**
 - Expert climber scaling standard cliff over lava pit (Reasonable + High Stakes)
-- Standard difficulty but deadly to fail
+- Standard roll but deadly to fail
 - Conflict: Make it but mark 2 Stress (heat and strain)
 - Setback: Fall into lava, Taken Out
 

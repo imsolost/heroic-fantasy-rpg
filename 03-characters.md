@@ -145,9 +145,9 @@ Mark down:
 
 ---
 
-## Traits (Benefits)
+## Traits (Special Effects)
 
-Traits are evocative narrative descriptors defining who your character is. When a Trait is narratively relevant to your action, you gain a **Benefit**.
+Traits are evocative narrative descriptors defining who your character is. When a Trait is narratively relevant to your action, you gain a **Special Effect**.
 
 ### Using a Trait
 
@@ -170,7 +170,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **If Setback:** Cannot invoke Trait (you failed)
 
-**If Triumph:** Triumph NATURALLY grants Momentum + ignores all Complications (base engine benefit, not from Trait). You MAY THEN invoke a Trait for one Benefit
+**If Triumph:** Triumph NATURALLY grants Momentum + ignores all Complications (base engine benefit, not from Trait). You MAY THEN invoke a Trait for one Special Effect
 
 ### Trait Rules
 
@@ -197,9 +197,9 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - Build Momentum: Grant 1 Momentum to self
 
 **"Shadowborn" + Defy in darkness:**
-- Roll Conflict or higher → Choose Benefit
-- Greater Effect: Overcome obstacle AND create advantageous position
-- Secondary Effect: Produce additional consequence (see Chapter 4)
+- Roll Conflict or higher → Choose Special Effect
+- Enhanced Effect: Greater Effect to overcome obstacle more effectively
+- Secondary Effect: Free Defy to create advantageous position (see Chapter 4)
 - Build Momentum: Grant 1 Momentum to ally
 
 ### Trait Examples in Play

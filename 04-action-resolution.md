@@ -1139,7 +1139,7 @@ The you face a Disaster Move — harsher than a normal Setback:
 > **GM:** "Your blade glances off his armor as he drives his shoulder into your chest. You're hurled backward, landing hard. Mark 2 Stress and Winded 1 (Burden) — you'll be catching your breath for a while."
 
 **Example:**
-> Leaping between rooftops with Hard difficulty (1 Bane) and wet conditions (1 Complication)
+> Leaping between rooftops with Doubtful Vantage (1 Bane) and wet conditions (1 Complication)
 > 
 > Roll Setback → Complication reduces to Disaster
 > 

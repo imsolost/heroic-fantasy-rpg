@@ -15,7 +15,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 - **Social opposition:** Suspicious nobles, hostile factions, stubborn officials
 - **Environmental:** Blizzards, collapsing bridges, raging rivers
 
-**Not all Challenges need special mechanics.** Simple opposition just uses the base difficulty system (Easy/Standard/Hard/Very Hard).
+**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Reasonable/Doubtful/Impossible) to determine if a roll is needed and difficulty.
 
 **Significant Challenges** have **Complications** (passive traits) and **Challenge Moves** (active abilities).
 

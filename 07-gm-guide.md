@@ -156,18 +156,19 @@ The stakes are resolved in **one moment**, not ground down over five rolls.
 - If something doesn't make fictional sense, it can't happen (pixie can't wield greatsword unless magic explains it)
 - When in doubt, ask "Does this make sense in the world?"
 
-**Check Vantage:** When a player attempts something, ask yourself: "Do they have the capability, position, or resources to attempt this?"
+**Check Vantage:** When a player attempts something, assess their fictional positioning: "Do they have the capability, position, or resources to attempt this?"
 
-- **Clear Vantage** → Set difficulty normally (Standard/Easy)
-- **Limited Vantage** (lacking tools, position, capability) → Hard or Very Hard (add Banes)
-- **No Vantage** → Cannot attempt with this approach; work with player to find an approach they DO have vantage for
+- **Certain** → Auto-success, no roll needed (trivial for them)
+- **Reasonable** → Standard roll, no modifier
+- **Doubtful** → Roll with 1-2 Banes (lacking tools, position, or capability)
+- **Impossible** → Cannot attempt with this approach; work with player to find an approach they DO have vantage for
 
 Examples:
-- "I pick the lock" without tools → Limited Vantage → Hard (1 Bane)
-- "I swing sword" with broken arm → No Vantage → "That won't work, try something else"
-- Convincing guard who doesn't speak your language → No Vantage via Talk → Suggest different Action (bribe? gesture?)
+- "I pick the lock" without tools → Doubtful (roll with 1 Bane)
+- "I swing sword" with broken arm → Impossible → "That won't work, try something else"
+- Convincing guard who doesn't speak your language → Impossible via Talk → Suggest different Action (bribe? gesture?)
 
-Vantage isn't a separate step—it's reflected in how you set difficulty. See Chapter 2: Vantage for complete framework.
+See **vantage.md** for complete Vantage framework and the Three Questions tool.
 
 ### **Think off-screen too**
 - The world moves even when PCs aren't watching

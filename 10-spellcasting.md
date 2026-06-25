@@ -569,11 +569,12 @@ Spirit sphere spells can heal injuries and restore vitality.
 
 **On Conflict:** The healing succeeds, but you must choose a consequence using the standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited effect).
 
-**Note:** Narrative consequences often make more sense for healing than the caster marking Stress. Consider options like:
-- The healing is unstable (target gains Exhausted 1 Condition)
-- It leaves a glowing magical mark that attracts attention
-- The healing draws unwanted spiritual attention
-- The caster loses position (cannot cast next turn without narrative justification)
+**Healing and Conflict Consequences:**
+When healing spells or abilities result in Conflict, **prefer narrative consequences over marking Stress**:
+- **Narrative consequences:** Exhaustion (target gains Exhausted 1 Condition), distraction, noise attracts attention, takes extra time, drains caster's focus, leaves a glowing magical mark, draws unwanted spiritual attention
+- **Mark Stress:** Only when the fiction demands immediate physical cost (dangerous ritual, self-sacrifice, unstable magic)
+
+Marking Stress on healing Conflict results can create death spirals where healers become more injured than their patients. Default to narrative complications unless the situation specifically calls for physical cost.
 
 These narrative side effects are more interesting than simply taxing the caster with Stress.
 

@@ -169,6 +169,8 @@ Use this table to estimate **how many rolls** it will take to overcome the Chall
 - 2+ Complications to require tactics
 - Challenge Moves that pressure multiple PCs (area attacks, environmental hazards)
 
+**Note on Legendary Complication:** Legendary functions as a difficulty multiplier — it applies to ALL actions, effectively adding 1 Complication to everything. A CR 2 Challenge with Legendary plays significantly harder than a CR 3 without it. Budget accordingly.
+
 ---
 
 ### Multiple Enemy Encounters
@@ -326,6 +328,10 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 | **16-24** | Boss | 1 CR 4 (8 ticks, 2-3 Complications) + minion waves |
 
 **Add Complications** to increase difficulty without adding more enemies.
+
+**Scaling for different party sizes:**
+- **3 PCs:** Reduce total ticks by ~25% (e.g., 8-12 ticks becomes 6-9 ticks)
+- **5 PCs:** Increase total ticks by ~25% (e.g., 8-12 ticks becomes 10-15 ticks)
 
 ---
 

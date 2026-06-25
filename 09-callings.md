@@ -275,6 +275,8 @@ You have Expertise when designing, preparing, modifying, or improvising rituals.
 **Sphere Mastery**
 Choose a Sphere you know. You have Expertise whenever acting within that Sphere. Push Yourself to perform a Potent feat of magical theory within it — effects of unusual scale, precision, or permanence that exceed normal theorem limits.
 
+*Note for Specialist Sages: Since you already have Expertise in your chosen Sphere from Spellcraft, take this Talent for a second Sphere to expand your mastery, or take it for your original Sphere to gain the Push benefit.*
+
 **Spell Codex**
 When you advance to a new Rank, you may learn 2 spell theorems instead of 1. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval, maximum 1 learned spell per Long Rest).
 

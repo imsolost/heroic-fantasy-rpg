@@ -462,6 +462,10 @@ For more on Complications and tactical play, see Chapter 6.
 - Wilderness Survival (tracking, foraging, animal handling)
 - Scholarship (research, languages, lore)
 
+### When Multiple Expertise Domains Apply
+
+When more than one Expertise domain could plausibly apply to an action, the player chooses which domain applies. You only benefit from Expertise once per roll — multiple applicable domains don't stack.
+
 ### Example in Play
 
 > **Kael (Champion with Expertise: Heavy Blades)** attacks an armored knight with 2 Complications (Resilient, Heavily Armored).

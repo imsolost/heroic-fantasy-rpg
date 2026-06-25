@@ -150,7 +150,7 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 **Warded** - Resists magical effects
 - Hinders non-damaging magical effects and manipulations
 - Magic immunity, counterspells, ancient enchantments
-- Applies to: Charm, Polymorph, Banish, Paralyze, Slow, magical detection
+- Applies to: Charm, Polymorph, Banish, Paralyze, Slow, magical detection, patron communion (any non-damaging magical effect)
 - Does NOT apply to: Damaging spells (fireballs, lightning) - those face Resilient
 - Countered by: Dispelling, overwhelming magical power, different magical approach
 
@@ -180,7 +180,7 @@ See **Chapter 4: Action Resolution** for complete Consequence framework (Minor/M
 **Resolute** - Hard to influence or sway
 - Hinders actions that attempt social or mental influence
 - Discipline, faith, stubbornness, emotional stability, strong convictions
-- Applies to: Persuasion, intimidation, deception, interrogation
+- Applies to: Persuasion, intimidation, deception, interrogation (Resolute applies to any action targeting a creature's Will track, whether mundane or magical)
 - Countered by: Appealing to values, leverage, time, building trust
 
 **Legendary** - Always applies

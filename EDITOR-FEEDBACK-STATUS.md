@@ -190,9 +190,10 @@ Status of all editor recommendations after Priority 1 fixes.
 - ❌ Needs fix: 6 (Legendary budgeting, Vantage/Chapter 7, Mind/Resolute, Sphere Mastery, Mystic examples, GM move timing)
 
 **Priority 3 (Strong Recommendations):** 11 items
-- ✅ Complete: 2 (Quick template, Boon/Edge sidebar)
-- ⚠️ Subjective/Review: 6 (Champion talents, Tracker/Ghost, Lightning/Opportunist, Hint→Reveal box, Investigation example, Clash/Talk repetition)
-- ❌ Needs fix: 3 (Warded/Mystic, Consequence calibration, Healing guidance)
+- ✅ Complete: 5 (Quick template, Boon/Edge sidebar, Hint→Reveal callout, Champion talents review, Tracker/Ghost review)
+- ⏸️ Deferred to TODO: 2 (Investigation example, Clash/Talk consolidation)
+- 🔍 Playtesting flag: 1 (Lightning/Opportunist combo)
+- ✅ Fixed: 3 (Warded/Mystic, Consequence calibration, Healing guidance)
 
 ---
 

@@ -176,96 +176,85 @@ Vantage isn't a separate step—it's reflected in how you set difficulty. See Ch
 
 ---
 
-## Adjudicating Vantage
+## Setting Vantage (Difficulty)
 
-Vantage is your first tool for determining whether a player can attempt an action and how difficult it should be. Before assigning Banes, ask: "Does the character have vantage to attempt this?"
+**Vantage is your difficulty system.** It determines whether a player can attempt an action, if they need to roll, and how many Banes apply.
 
-### The Three-Tier Framework
+### The Four Vantage Tiers
 
-**Clear Vantage:** Anyone with basic competence can attempt this
-- No special permission needed
-- Examples: Climb a rope with handholds, persuade a friendly NPC, swing a sword at an enemy
-- **Difficulty modifier:** None (base difficulty applies)
+**Certain** — Character has clear capability, proper tools, and task is trivial.
+- **No roll required.** Success is automatic.
+- *Example: Champion swinging weapon, Shadow picking simple lock with tools*
 
-**Limited Vantage:** Requires specific capability, tools, or setup
-- Needs Expertise, Talent, appropriate equipment, or favorable positioning
-- Examples: Pick a lock (needs thieves' tools), treat a wound (needs medical knowledge), cast a spell (needs spellcasting ability)
-- **Difficulty modifier:** If lacking the requirement, impose 1 Bane or declare it impossible
+**Reasonable** — Character has capability and tools, but outcome is uncertain.
+- **Standard roll** (no modifier). This is the default for most action rolls.
+- *Example: Climbing rope with handholds, casting known spell, fighting competent enemy*
 
-**No Vantage:** Impossible given current circumstances
-- Character lacks capability, tools, positioning, or physical/mental capacity
-- Examples: Cast spell without being a spellcaster, pick lock without tools, swing sword with broken arm (Condition removes vantage), fly without wings or magic
-- **Difficulty modifier:** 2 Banes if theoretically possible but severely disadvantaged, or simply impossible
+**Doubtful** — Character lacks ideal tools/positioning OR task stretches capability.
+- **Roll with 1-2 Banes** (depending on severity).
+- **1 Bane:** Lacking proper tools, task at edge of capability, minor hindrances
+- **2 Banes:** No tools AND difficult task, multiple disadvantages stacking
+- *Example: Climbing sheer wall with gear (1 Bane), same wall without gear (2 Banes)*
 
-### When Conditions Remove Vantage
+**Impossible** — Character lacks fundamental capability OR fiction doesn't support it.
+- **Cannot attempt.** Work with player to find different approach.
+- *Example: Casting spells without being spellcaster, attacking someone in another room*
 
-Conditions can reduce or eliminate Vantage:
+### Quick Assessment Process
 
-**From Clear → Limited (1 Bane):**
-- Wounded while climbing
-- Frightened while negotiating
-- Exhausted while running
+**Ask three questions:**
 
-**From Clear/Limited → No Vantage (2 Banes or impossible):**
-- Blinded while aiming a bow (2 Banes if possible, impossible for precision shots)
-- Broken arm while sword fighting (impossible to swing two-handed weapon)
-- Stunned while casting spells (impossible to concentrate)
+1. **Can they attempt this?** (Do they have capability/tools/positioning?)
+   - Yes → Proceed to question 2
+   - No → Impossible
 
-### Vantage vs. Banes: The Decision Tree
+2. **What's their Vantage?** (Given who they are and the situation)
+   - Certain → Auto-success (no roll)
+   - Reasonable → Standard roll
+   - Doubtful → 1-2 Banes
+   - Impossible → Cannot attempt
 
-Use this decision process at the table:
+3. **Is failure interesting?** (Would failure create drama/complications?)
+   - No → Don't roll, let it happen
+   - Yes → Call for roll
 
-1. **Check Vantage:** "Can they attempt this given who they are and their current state?"
-   - Yes, anyone can → Clear Vantage (proceed to step 2)
-   - Needs something they lack → Limited Vantage (1 Bane or impossible)
-   - Impossible → No Vantage (2 Banes or declare impossible)
+**See [Vantage](vantage.md) for complete framework, examples, collaborative conversation guidance, and edge cases.**
 
-2. **Assess Difficulty:** "How hard is this task for someone with Vantage?"
-   - Easy → Grant 1 Boon
-   - Standard → No modifier
-   - Hard → Impose 1 Bane
-   - Very Hard → Impose 2 Banes
+---
 
-3. **Stack modifiers:** Vantage penalties + Difficulty modifiers stack
-   - Picking a complex lock without tools = Limited Vantage (1 Bane) + Hard task (1 Bane) = 2 Banes total
+## Setting Stakes (Danger)
 
-### Vantage in Practice
+**Stakes frame the danger of a scene—how severe the consequences will be.**
 
-**Example 1: Climbing**
-- Climbing a rope with handholds (Clear Vantage, Standard difficulty) = No modifier
-- Climbing a sheer wall (Clear Vantage, Very Hard difficulty) = 2 Banes
-- Climbing while Wounded 2 (Limited Vantage due to Condition, Standard difficulty) = 1 Bane
-- Climbing with broken arm (No Vantage) = Impossible or 2 Banes if theoretically possible
+### The Three Stakes Levels
 
-**Example 2: Persuasion**
-- Convincing a friendly guard to let you pass (Clear Vantage, Easy) = 1 Boon
-- Convincing a suspicious noble (Clear Vantage, Hard) = 1 Bane
-- Convincing someone while Frightened 2 (Limited Vantage + Standard) = 1 Bane
-- Convincing someone in a language you don't speak (No Vantage) = Impossible without translator
+**Low Stakes** — Lighter territory. Reduce Consequence Tier by 1.
+- Conflict → Narrative consequence only (no Stress)
+- Setback → Minor Consequence (1 Stress)
+- *Example: Bar fight, training spar, questioned by friendly guard*
 
-**Example 3: Spellcasting**
-- Sage casting a known theorem (Clear Vantage, Standard) = No modifier
-- Sage using Arcane Formula (Clear Vantage, but mechanic imposes 1 Bane)
-- Sage casting while Stunned (No Vantage due to Condition) = Impossible to concentrate
-- Non-spellcaster trying to cast a spell (No Vantage) = Impossible
+**Regular Stakes** — Typical play. Standard consequences (default, no adjustment).
+- Conflict → Minor Consequence (1 Stress, lose position)
+- Setback → Major Consequence (2 Stress, Condition)
+- *Example: Sneaking through guarded warehouse, tense negotiation, combat vs bandits*
 
-### Common Pitfalls
+**High Stakes** — Things are escalated. Increase Consequence Tier by 1.
+- Conflict → Major Consequence (2 Stress, Condition)
+- Setback → Severe Consequence (Taken Out, Burden)
+- *Example: Cornered by ogre, explaining actions to queen, boss fight with dragon*
 
-**Don't double-penalize:** If a Condition already removes Vantage (imposing 1-2 Banes), don't also impose additional Banes for difficulty unless the task is inherently harder than standard.
+### Communicating Stakes
 
-**Fiction first:** Vantage isn't about making things harder mechanically — it's about respecting what makes sense fictionally. A broken arm doesn't make sword fighting "hard" (Bane), it makes it impossible (No Vantage).
+**Most of the time, let fiction communicate stakes:**
+- "The dragon's eyes glow with ancient fury—its breath could turn you to ash"
+- "The queen's hand hovers near the executioner's bell"
 
-**Expertise grants Vantage:** If a player has Expertise in a domain, they always have at least Limited Vantage for actions within that domain, even in adverse circumstances. A master lockpick can attempt a lock even without proper tools (though they'll face penalties).
+**For High Stakes, state it explicitly:**
+- "This is High Stakes—if you fail, you're Taken Out."
 
-### When to Say "Impossible"
+**Regular Stakes is the default—no need to state it.**
 
-Some actions should simply be impossible, not just very hard:
-- Physics violations without magic (fly, teleport, walk through walls)
-- Capabilities you don't have (cast spells without being a spellcaster)
-- Actions Conditions prevent (concentrate while Stunned, see while Blinded)
-- Fictional positioning blocks (attack someone in another room, persuade someone who left)
-
-Don't roll dice for impossible actions. Say "that's not possible given your current situation" and let the player pivot to a different approach.
+**See [Stakes](stakes.md) for complete calibration guide, when to adjust stakes, and how Stakes + Vantage combine.**
 
 ---
 
@@ -527,24 +516,6 @@ This is your key question. After presenting situation (danger, opportunity, comp
 
 **Players can seize spotlight:** Spend 1 Momentum to act immediately
 
----
-
-## Setting Difficulty
-
-Difficulty modifies the dice pool via Boon and Bane, not the outcome thresholds. The outcome tiers (Setback/Conflict/Success/Triumph) remain constant regardless of difficulty.
-
-| Difficulty | Modifier | Use When |
-|------------|----------|----------|
-| **Easy** | Grant 1 Boon (+1d) | Task within competence, favorable conditions, clear advantage |
-| **Moderate** | No modifier | Standard challenge, neutral conditions (MOST COMMON) |
-| **Hard** | Impose 1 Bane (-1d) | Task at edge of capability, poor conditions, working against you |
-| **Very Hard** | Impose 2 Banes (-2d) | Extreme difficulty, multiple unfavorable factors, near-impossible |
-
-**Default to Moderate.** Only grant Boons when PCs have clear advantage or expertise. Reserve Banes for moments where conditions actively work against success.
-
-**Remember:** Boon/Bane modify the dice pool size. They do not change what counts as Success (any 6) or Conflict (any 4-5).
-
----
 
 ## When to Roll vs. When to Say Yes
 
@@ -883,7 +854,12 @@ If using Threat Pool (recommended for structured tension):
 
 ## Consequence Calibration Guide
 
-New GMs often struggle with consequence severity — either too harsh (every Conflict marks Stress) or too lenient (consequences feel toothless). Use this guide to calibrate.
+New GMs often struggle with consequence severity — either too harsh (every Conflict marks Stress) or too lenient (consequences feel toothless). Use **Stakes** to calibrate consequence severity, and this guide for variety.
+
+**Stakes adjusts Consequence Tier** (see [Stakes](stakes.md) for complete guide):
+- **Low Stakes:** Reduce by 1 tier (Conflict = narrative only)
+- **Regular Stakes:** Standard consequences (default)
+- **High Stakes:** Increase by 1 tier (Conflict = 2 Stress)
 
 ### Default Consequence Templates
 

@@ -22,6 +22,34 @@ Not all actions require a roll. Generally, you should roll dice for an action wh
 
 ---
 
+## Vantage (Difficulty)
+
+Once a roll is needed, the GM assesses your **Vantage** (fictional positioning) to determine how difficult it is.
+
+**Vantage is your capability, tools, and circumstances—what you can attempt and how difficult it is.**
+
+**The Four Tiers:**
+
+**Certain** — You have clear capability, proper tools, and the task is trivial.
+- **No roll required.** Success is automatic.
+- *Example: Champion swinging weapon in combat, Shadow picking simple lock with tools*
+
+**Reasonable** — You have capability and tools, but the outcome is uncertain.
+- **Standard roll** (no modifier). Most action rolls are Reasonable.
+- *Example: Climbing rope with handholds, persuading friendly guard, casting known spell*
+
+**Doubtful** — You lack ideal tools/positioning OR the task stretches your capability.
+- **Roll with 1-2 Banes** (depending on severity).
+- *Example: Climbing sheer wall with gear (1 Bane), same wall without gear (2 Banes)*
+
+**Impossible** — You lack fundamental capability OR the fiction doesn't support it.
+- **Cannot attempt.** Suggest a different approach.
+- *Example: Casting spells without being a spellcaster, attacking someone in another room*
+
+**See [Vantage](vantage.md) for complete framework, examples, and GM guidance.**
+
+---
+
 ## Action Roll Sequence
 
 ### 1. Player Declares Intent
@@ -42,22 +70,31 @@ There is no "wrong" Approach to a situation, but some may be less effective or r
 
 ### 2. GM Assesses & Telegraphs
 
-The GM evaluates the situation and communicates the stakes clearly:
+The GM evaluates the situation and communicates clearly:
+
+**Vantage (Difficulty):**
+- Where does the character fall on the Vantage scale?
+  - **Certain:** Auto-success (no roll)
+  - **Reasonable:** Standard roll (no modifier)
+  - **Doubtful:** Roll with 1-2 Banes
+  - **Impossible:** Cannot attempt
+- See [Vantage](vantage.md) for complete assessment framework
+
+**Stakes (Danger):**
+- How dangerous is failure?
+  - **Low Stakes:** Reduce Consequence Tier by 1 (Conflict = narrative only)
+  - **Regular Stakes:** Standard consequences (default, no adjustment)
+  - **High Stakes:** Increase Consequence Tier by 1 (Conflict = 2 Stress)
+- See [Stakes](stakes.md) for complete calibration guide
 
 **Task Type:**
 - **Simple Task:** Resolved in one roll (pick lock, convince guard, leap gap)
 - **Complex Task:** Requires progress track (infiltrate mansion, win over faction, map dungeon)
   - State track size: 4-tick (quick), 6-tick (moderate), 8-tick (major), 12-tick (campaign)
 
-**Difficulty:**
-- **Easy:** Grant 1 Boon (favorable conditions, well-prepared)
-- **Standard:** No modifier (most common)
-- **Hard:** Impose 1 Bane (unfavorable conditions, working against you)
-- **Very Hard:** Impose 2 Banes (extreme difficulty, multiple obstacles)
-
 **Consequences:**
-- What happens on Setback? (Fail with consequence)
-- What happens on Conflict? (Success with Minor Consequence)
+- What happens on Setback? (Fail with Major Consequence, or Minor if Low Stakes)
+- What happens on Conflict? (Success with Minor Consequence, or narrative if Low Stakes)
 
 **Complications:**
 - Are there Challenge Traits that impose Complications? (enemy armor, magical wards, NPC suspicion)
@@ -68,7 +105,7 @@ The GM evaluates the situation and communicates the stakes clearly:
 - Any additional Banes from injuries, Conditions, environment?
 
 **Example:**
-> **GM:** "This is a simple task—one roll to get past. It's Hard (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from the difficulty."
+> **GM:** "This is a simple task—one roll to get past. Your Vantage is Doubtful (1 Bane) because the guard is alert and the corridor is well-lit. Regular Stakes—on Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from your Vantage."
 
 **Key Principle:** Players should know the stakes before they roll. No surprise consequences.
 

@@ -1629,15 +1629,19 @@ Boss encounters should require **team coordination** and **multiple actions**.
 - Pacing demands quick resolution
 - PCs already struggling (add fiction, not mechanics)
 
-### Balancing Difficulty
+### Balancing Challenge Difficulty
 
-**1 Complication:** Requires setup or Momentum spend (manageable solo)
+**Complications are your primary difficulty lever.** Combine with Vantage and Stakes to calibrate challenge:
 
-**2 Complications:** Requires teamwork or exceptional rolls (party challenge)
+**1 Complication:** Requires setup or Momentum spend (manageable solo) + Reasonable Vantage
 
-**3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment)
+**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Reasonable or Doubtful Vantage
+
+**3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment) + Doubtful Vantage + High Stakes
 
 **Remember:** Triumph ignores all Complications, so even 3+ Complication enemies are beatable with good rolls and Momentum generation.
+
+**See [Vantage](vantage.md) and [Stakes](stakes.md) for calibration guidance.**
 
 ### Creating Interesting Challenges
 

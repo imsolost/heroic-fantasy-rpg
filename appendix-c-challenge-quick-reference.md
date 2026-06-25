@@ -161,7 +161,7 @@ Use this table to estimate **how many rolls** it will take to overcome the Chall
 | Party Size | Enemy Tier | Complications | Notes |
 |------------|------------|---------------|-------|
 | 3-4 PCs | CR 2 | 1-2 | Standard encounter |
-| 3-4 PCs | CR 3 | 2 | Hard encounter, requires tactics |
+| 3-4 PCs | CR 3 | 2 | Tough encounter, requires tactics |
 | 3-4 PCs | CR 4 | 2-3 | Boss fight, set-piece encounter |
 
 **Single enemy encounters work best with:**
@@ -195,7 +195,7 @@ Use this table to estimate **how many rolls** it will take to overcome the Chall
 - Total: 8-12 ticks
 - Expected duration: 5-8 rolls per PC (10-15 minutes)
 
-**Hard (requires tactics, resource spend):**
+**Tough (requires tactics, resource spend):**
 - 3-4 PCs vs 1 CR 3 + 2 CR 2 enemies (2 Complications on CR 3)
 - OR: 3-4 PCs vs 2 CR 3 enemies (1-2 Complications each)
 - Total: 12-18 ticks
@@ -244,7 +244,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 ### How Complications Interact with Tactics
 
-**2 Complications (Hard encounter) is viable because:**
+**2 Complications (Tough encounter) is viable because:**
 - **Scouts/Supporters** can Build Momentum on less-contested actions (Sense has no Complications from enemy armor)
 - **Strikers** use Momentum for **Create an Opening** (gain 1 Boon and 1 Edge to ignore 1 Complication)
 - **Traits** grant **Greater Effect** (double progress when relevant)
@@ -275,7 +275,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 ---
 
-## Adjusting Difficulty On-The-Fly
+## Adjusting Challenge Difficulty On-The-Fly
 
 **If the encounter is too easy:**
 - Add 1 Complication mid-fight (enemy adapts, reinforcements arrive, hazard activates)
@@ -316,7 +316,7 @@ For complex encounters, break into **multiple linked Challenges**, each with the
 
 ---
 
-### Encounter Difficulty by Total Track Length
+### Encounter Challenge Level by Total Track Length
 
 **For 3-4 PCs:**
 

@@ -11,7 +11,8 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 ### 2. GM Telegraphs Stakes
 - **Action:** Which of the 5 Actions? (Clash, Defy, Talk, Sense, Know)
-- **Difficulty:** Easy (1 Boon), Standard (no mod), Hard (1 Bane), Very Hard (2 Banes)
+- **Vantage:** Certain (auto-success), Reasonable (no mod), Doubtful (1-2 Banes), Impossible (cannot attempt)
+- **Stakes:** Low (-1 tier), Regular (default), High (+1 tier)
 - **Complications:** List any Complications that apply (each reduces outcome by 1 tier)
 - **Consequences:** "On Setback, [X happens]. On Conflict, [Y happens]."
 

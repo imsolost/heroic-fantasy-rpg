@@ -44,29 +44,32 @@ Make an **Action Roll** when a character faces a risky, difficult, or dramatical
 - You can't swing a sword with a broken arm (Condition removes vantage)
 - You can't pick a lock if you're across the room (fiction denies vantage)
 
-**Vantage and Difficulty:**
+**Vantage (Difficulty):**
 
-Vantage is reflected in difficulty adjudication rather than being a separate check:
+Vantage is your fictional positioning that determines how difficult an action is:
 
-**Clear Vantage:**
-- Standard task → No modifier
-- Easy task → 1 Boon
+**Certain** — Clear capability, proper tools, task is trivial:
+- No roll required → Auto-success
 
-**Limited Vantage** (lacking tools, position, or capability):
-- Hard task → 1 Bane (requires extra effort)
-- Very Hard task → 2 Banes (significant disadvantage)
-- May require Expertise or Trait to attempt at all
+**Reasonable** — Capability present, outcome uncertain:
+- Standard roll → No modifier
 
-**No Vantage:**
+**Doubtful** — Lacking ideal tools/positioning OR task stretches capability:
+- Roll with 1-2 Banes (depending on severity)
+- May require Expertise or Trait to attempt reliably
+
+**Impossible** — Lacking fundamental capability OR fiction doesn't support it:
 - Cannot attempt with this approach
 - GM works with player to find an approach they DO have vantage for
-- Or: make it a different Action entirely
 
 **Examples in Play:**
-- "I pick the lock" without tools → Limited Vantage → Hard (1 Bane)
-- "I swing my sword" with broken arm → No Vantage → Cannot attempt, try different approach
-- "I suture the wound" with medical Expertise → Clear Vantage → Standard difficulty
-- "I convince the guard" who doesn't speak your language → No Vantage (via Talk) → Try different approach (bribe? gesture? find translator?)
+- "I pick the lock" with tools → Certain (auto-success if simple) or Reasonable (if complex)
+- "I pick the lock" without tools → Doubtful (1-2 Banes depending on lock complexity)
+- "I swing my sword" with broken arm → Impossible (cannot attempt, try different approach)
+- "I suture the wound" with medical Expertise → Certain or Reasonable (depending on wound severity)
+- "I convince the guard" who doesn't speak your language → Impossible (via Talk) → Try different approach (bribe? gesture? find translator?)
+
+**See [Vantage](vantage.md) for complete framework.**
 
 When a question arises about what you can do, have, or know, check it against your vantage: **does it feel like a given, a stretch, or a reach?** Then reflect that in difficulty.
 

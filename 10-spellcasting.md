@@ -426,7 +426,7 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 - **Success:** Spell works as intended
 - **Triumph:** Spell succeeds + Momentum + ignore Complications
 
-**Default Difficulty:** Standard (no Boons or Banes) for most spells within your touchstones.
+**Default Vantage:** Reasonable (no Boons or Banes) for most spells within your touchstones.
 
 ---
 

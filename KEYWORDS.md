@@ -166,14 +166,28 @@ This document defines the canonical capitalization for all mechanical terms in t
 ## GM Tools
 
 **Always Capitalized:**
+- Vantage (fictional positioning / difficulty system)
+- Stakes (consequence severity calibration)
 - Soft Move (minor GM consequence)
-- Hard Move (major GM consequence)
+- Hard Move (major GM consequence)  
+- Suspense Move (setup / warning move)
+- Impact Move (consequence / follow-through move)
 - Death Move (enemy defeated ability)
 - Countdown (track type)
 
+**Vantage Tiers (Always Capitalized):**
+- Certain (auto-success)
+- Reasonable (standard roll)
+- Doubtful (roll with Banes)
+- Impossible (cannot attempt)
+
+**Stakes Levels (Always Capitalized):**
+- Low Stakes (reduce Consequence Tier)
+- Regular Stakes (standard consequences)
+- High Stakes (increase Consequence Tier)
+
 **Context-Dependent:**
-- Vantage (capitalized when referring to the permission system)
-- vantage (lowercase when general advantage)
+- vantage (lowercase when referring to general advantage or positioning, not the system)
 
 ---
 
@@ -270,6 +284,12 @@ These terms should be capitalized **only when referring to the mechanical game c
 ❌ **Wrong:** "When you take a short rest"  
 ✅ **Correct:** "When you take a Short Rest"
 
+❌ **Wrong:** "This is reasonable difficulty"  
+✅ **Correct:** "This is Reasonable Vantage" or "Your Vantage is Reasonable"
+
+❌ **Wrong:** "The stakes are high"  
+✅ **Correct:** "This is High Stakes" (when referring to the mechanical system)
+
 ---
 
 ## Editorial Notes
@@ -284,4 +304,5 @@ These terms should be capitalized **only when referring to the mechanical game c
 
 ## Version History
 
+- v1.1 (2026-06-25): Added Vantage and Stakes terminology, updated GM Tools section
 - v1.0 (2026-06-24): Initial keyword list compiled from core chapters

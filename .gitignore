@@ -32,3 +32,6 @@ Temporary Items
 # Backup files
 *.bak
 *.backup
+
+# Archived work logs (completed project management artifacts)
+archived-work-logs/

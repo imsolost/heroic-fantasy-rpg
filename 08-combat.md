@@ -319,109 +319,55 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 ## Extended Combat Example
 
-**Setup:** Kael (warrior, Daring 3), Mira (ranger, Grace 3), and Ryn (rogue, Cunning 3) face an **Orc Warboss** (Elite: 8 ticks, "Armored" ability) and **3 Orc Minions** (2 ticks each).
+**Setup:** Kael (warrior), Mira (ranger), Ryn (rogue) face **Orc Warboss** (8 ticks, "Armored" 2 Complications) + **3 Orc Minions** (2 ticks each).
 
 ---
 
-**GM:** "The Warboss roars and charges toward Kael, dual axes raised. Three orcs fan out behind him, snarling. What do you do?"
+**Round 1:**
 
-**Kael:** "I stand my ground and brace for impact. Defy with Daring."
+**Kael:** Defy to brace against Warboss charge → Conflict → Mark 1 Stress, pressed back
 
-**Kael rolls 3d6 → highest 5 (Conflict)**
+**Mira:** Clash to shoot lead orc → Success → Drops (2 ticks marked)
 
-**GM:** "You stop his charge, but the impact drives you back. Minor Consequence (mark 1 Stress). He's pressing you hard, axes whirling. What do you do?"
-
-**Kael (1/5 Stress):** "I need to create space. I shove him back with my shield!"
-
-**Kael rolls Clash (intent: reposition) → Conflict**
-
-**GM:** "You drive your shield into his chest. He staggers back one zone — repositioned. But one axe grazes your arm as you close. Mark 1 Stress. He's in Near zone now. Mira, the three orcs are charging toward you. What do you do?"
-
-**Mira:** "I shoot the lead orc before they reach me. Clash with Grace."
-
-**Mira rolls 3d6 → 6 (Success)**
-
-**GM:** "Your arrow takes him in the throat. He drops. Mark 2 ticks — he's done (Minion had 2 ticks). Two orcs left, still charging. Ryn, what do you do?"
-
-**Ryn:** "While the Warboss is focused on Kael, I study him for weaknesses. Sense with Cunning."
-
-**Ryn rolls 3d6 → double 6s (Triumph)**
-
-**GM:** "You notice the straps on his left pauldron are loose — his shoulder's exposed. That's an Opening. Ask me two questions, and you gain 1 Momentum. You also can press deeper — ask two follow-up questions."
-
-**Ryn:** "What's the best way to hurt him? And what will he do next?"
-
-**GM:** "Target that exposed shoulder with a precise strike. The 'Armored' ability won't apply if you exploit the Opening. And he's about to charge Kael again — he's fixated on the warrior. Follow-ups?"
-
-**Ryn:** "How many more hits can he take? And are there more enemies coming?"
-
-**GM:** "He's taken 0 ticks so far — 8 ticks total to drop him. And you hear horns in the distance — reinforcements might arrive in a few actions if this drags out. Ryn gains 1 Momentum for the Triumph."
-
-**Kael:** "I spend 1 Momentum to Seize Spotlight! I charge and go for that shoulder before he recovers. Clash with Daring, I have Boon from Ryn's Opening."
-
-**Kael rolls 4d6 (Approach 3, Boon 1) → 6 (Success)**
-
-**GM:** "Your blade slices into the exposed shoulder. The Warboss bellows in pain. Mark 2 ticks — he's at 2/8 now. But now he's enraged. Both axes come down at you in a massive overhead swing. What do you do?"
-
-**Kael:** "I dive to the side! Defy with Grace."
-
-**Kael rolls 2d6 (Grace 2) → all 1-3 (Setback)**
-
-**GM:** "The axes catch you mid-dive. You take the full force of the blow. Major Consequence (mark 2 Stress) and you're knocked prone. You're on the ground in Close zone with him looming over you. I gain 1 Threat for your Setback. What do you do?"
-
-**Kael (3/5 Stress, Prone):** "Mira, help!"
-
-**Mira:** "I'll Quick Assist! I shout 'Kael, roll left!' as the Warboss raises his axes again. I mark 1 Stress to give Kael 1 Boon on his next roll."
-
-**Mira (1/5 Stress)**
-
-**Kael:** "I roll left and scramble to my feet. Defy to get up and avoid his follow-up."
-
-**Kael rolls 3d6 (Daring 3, Boon 1 from Mira) → 6 (Success)**
-
-**GM:** "You roll clear and spring to your feet. His axes crash into the ground where you were a moment ago. You're up, Close zone with him. Meanwhile, the two remaining orcs reach Mira. They both swing at her. Mira, roll Defy."
-
-**Mira rolls 3d6 → 5 (Conflict)**
-
-**GM:** "You dodge one blade but the other catches your shoulder. Minor Consequence (mark 1 Stress). You're now in Close with both orcs. What do you do?"
-
-**Mira (2/5 Stress):** "I draw my short sword and slash at the closest one. Clash with Grace."
-
-**Mira rolls 3d6 → double 6s (Triumph)**
-
-**GM:** "Your blade opens his throat. Mark 2 ticks — he's dead (Minion). You gain 1 Momentum. Triumph ignores all Complications — the second orc doesn't get a counterattack. He's backing up, clearly unnerved. One orc left."
-
-**Ryn:** "I circle around and backstab the Warboss in that exposed shoulder. Clash with Cunning, I still have Boon from the Opening I found?"
-
-**GM:** "Yes, the Opening persists. Roll with Boon."
-
-**Ryn rolls 4d6 → 6 (Success)**
-
-**GM:** "Your dagger punches through the gap in his armor. He roars and spins to face you. Mark 2 ticks — he's at 4/8 now. But spinning puts his back to Kael. Kael, you have a clear shot at his back. What do you do?"
-
-**Kael:** "I drive my sword into his spine! Clash with Daring."
-
-**Kael rolls 3d6 → 6 (Success)**
-
-**GM:** "Your blade bites deep. Mark 2 ticks — he's at 6/8 now. He's staggering, blood pouring from multiple wounds. The remaining orc sees this and his nerve breaks — he turns and flees toward the treeline. Do you let him go or pursue?"
-
-**Mira:** "Let him go. Finish the Warboss."
-
-**GM:** "The Warboss drops to one knee, wheezing. He raises one axe weakly. 'You... haven't... won...' he gasps. What do you do?"
-
-**Kael:** "I end it. One clean strike. Clash with Daring."
-
-**Kael rolls 3d6 → 5 (Conflict)**
-
-**GM:** "Your blade comes down, but he surges up with a final burst of strength. His axe catches your side as you strike him down. Minor Consequence (mark 1 Stress). Your sword takes him in the neck. Mark 2 ticks — he's at 8/8, track full. He collapses, dead. But as he falls, he whispers a curse in Black Speech. Kael, roll Defy to resist."
-
-**Kael rolls 3d6 → 4 (Conflict)**
-
-**GM:** "The curse takes hold, though weakened. Gain Cursed 1 (Condition) — you'll feel this until you can get it cleansed or it clears on Short Rest. The combat ends. You're all wounded but alive. Kael 4/5 Stress + Cursed 1, Mira 2/5 Stress, Ryn unscathed. The forest is quiet except for your breathing and the distant horns."
+**Ryn:** Sense the Warboss → Triumph → Spots exposed shoulder weakness, gains Momentum, asks 2 questions (4 total with Greater Effect)
 
 ---
 
-**End of Combat Example**
+**Round 2:**
+
+**Kael:** Spends Momentum to Seize Spotlight, exploits Ryn's discovered weakness → Clash → Success → 2 ticks (bypassed "Armored" with Opening)
+
+**Warboss:** Counterattacks → Kael Defy → Setback → Mark 2 Stress, knocked Prone (GM gains 1 Threat)
+
+**Mira:** Quick Assists Kael (mark 1 Stress to grant Boon)
+
+**Kael:** Defy to recover with Boon → Success → Stands, avoids follow-up
+
+---
+
+**Round 3:**
+
+**Two orcs engage Mira:** Mira Defy → Conflict → Mark 1 Stress
+
+**Mira:** Clash orc → Triumph → Drops (2 ticks), gains Momentum, bypasses counterattack
+
+**Ryn:** Backstabs Warboss (Boon from Opening) → Success → 2 ticks (4/8 total)
+
+**Kael:** Attacks exposed back → Success → 2 ticks (6/8 total)
+
+Last orc flees
+
+---
+
+**Round 4:**
+
+**Kael:** Finishing blow on Warboss → Conflict → 2 ticks (8/8, defeated), mark 1 Stress from his dying strike
+
+**Death Move:** Warboss curse → Kael Defy → Conflict → Cursed 1
+
+**End:** Kael 4/5 Stress + Cursed 1, Mira 2/5 Stress, Ryn unscathed
+
+---
 
 **Tactical Choices Highlighted:**
 - Ryn used Sense to create Opening (bypassed "Armored" ability)

@@ -84,7 +84,7 @@ When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know
 | **Defy** | Overcome | Achieve your risky/extraordinary intent (varies by stated goal) |
 | **Clash** | Harm | Mark Harm or Will track OR defeat weaker foes outright |
 | **Talk** | Influence | Mark Will track OR convince lesser NPCs automatically |
-| **Sense** | Assess | Ask 2 questions (1 on Conflict) |
+| **Sense** | Assess | Ask 2 questions |
 | **Know** | Recall | GM tells you something + you ask 1 clarifying question |
 
 **Use Action names at the table** ("I Defy the trap", "I Sense for ambushes"). Primary Effects appear in the rules to describe what mechanically happens.
@@ -156,7 +156,7 @@ Convince, persuade, or deceive someone. **Talk changes minds through social infl
 ### 4. Sense — Assess
 Get specific and useful information about a person, place, or situation.
 
-**Primary Effect:** Ask 2 questions (Conflict/Success)
+**Primary Effect:** Ask 2 questions
 
 **Examples:** Read someone's intentions, spot hidden dangers, assess tactical situation, notice details others miss
 
@@ -373,30 +373,6 @@ When a player describes clever positioning or tactical setup, you need to decide
 **Most positioning grants Boons. Edge requires explicitly working around a Complication's source.**
 
 For more on Complications and tactical play, see Chapter 6.
-
----
-
-### Vantage (Difficulty)
-
-**Vantage** is your fictional positioning—your capability, tools, and circumstances that determine how difficult an action is.
-
-**The Four Tiers:**
-
-**Certain** — Clear capability, proper tools, task is trivial → **No roll** (auto-success)
-- *Example: Shadow picking simple lock with tools*
-
-**Reasonable** — Capability and tools present, outcome uncertain → **Standard roll** (no modifier)
-- *Example: Climbing rope with handholds, persuading friendly NPC*
-
-**Doubtful** — Lacking tools/positioning OR task stretches capability → **Roll with 1-2 Banes**
-- **1 Bane:** Lacking proper tools, task at edge of capability, minor hindrances
-- **2 Banes:** No tools AND difficult task, multiple disadvantages
-- *Example: Climbing with gear (1 Bane), climbing without gear (2 Banes)*
-
-**Impossible** — Lacking fundamental capability OR fiction doesn't support it → **Cannot attempt**
-- *Example: Casting spells without being a spellcaster*
-
-**See [Vantage](vantage.md) for complete framework, GM guidance, and examples.**
 
 ---
 

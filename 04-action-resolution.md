@@ -76,7 +76,7 @@ The GM evaluates the situation and communicates clearly:
 - Where does the character fall on the Vantage scale?
   - **Certain:** Auto-success (no roll)
   - **Standard:** Standard roll (no modifier)
-  - **Difficult:** Roll with 1-2 Banes
+  - **Limited:** Roll with 1-2 Banes
   - **Impossible:** Cannot attempt
 - See [Vantage](vantage.md) for complete assessment framework
 
@@ -105,7 +105,7 @@ The GM evaluates the situation and communicates clearly:
 - Any additional Banes from injuries, Conditions, environment?
 
 **Example:**
-> **GM:** "This is a simple task—one roll to get past. Your Vantage is Doubtful (1 Bane) because the guard is alert and the corridor is well-lit. Regular Stakes—on Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from your Vantage."
+> **GM:** "This is a simple task—one roll to get past. Your Vantage is Limited (1 Bane) because the guard is alert and the corridor is well-lit. Regular Stakes—on Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from your Vantage."
 
 **Key Principle:** Players should know the stakes before they roll. No surprise consequences.
 
@@ -1139,7 +1139,7 @@ The you face a Disaster Move — harsher than a normal Setback:
 > **GM:** "Your blade glances off his armor as he drives his shoulder into your chest. You're hurled backward, landing hard. Mark 2 Stress and Winded 1 (Burden) — you'll be catching your breath for a while."
 
 **Example:**
-> Leaping between rooftops with Doubtful Vantage (1 Bane) and wet conditions (1 Complication)
+> Leaping between rooftops with Limited Vantage (1 Bane) and wet conditions (1 Complication)
 > 
 > Roll Setback → Complication reduces to Disaster
 > 

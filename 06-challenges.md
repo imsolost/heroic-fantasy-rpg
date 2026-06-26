@@ -372,51 +372,11 @@ Complications:
 
 ---
 
-### Example: Vault Door (Obstacle)
-
-```
-Ancient Vault Door (CR 2, Obstacle 6)
-Complications:
-- Resilient - thick steel construction
-- Complex - intricate lock mechanism
-- Warded - magical protections
-```
-
-**Warrior smashes door (Defy with Daring):**
-- Trying to break it → **Resilient applies** ✓
-- **Total: 1 Complication**
-
-**Rogue picks lock (Defy with Cunning):**
-- Trying to solve mechanism → **Complex applies** ✓
-- **Total: 1 Complication**
-
-**Sage casts Magic Unlock (Know with Spirit):**
-- Trying to bypass magical wards → **Warded applies** ✓
-- **Total: 1 Complication**
-
-**Tactical Insight:** Each approach faces different Complication! Team can try multiple methods.
-
----
-
-### Environmental Complications
-
-The GM can add **temporary Environmental Complications** based on the situation:
-
-**Examples:**
-- **Fighting on Ice (Elusive)** - slippery surface makes targeting difficult
-- **Negotiating in Hostile Court (Resolute)** - nobles are suspicious and guarded
-- **Thick Smoke (Elusive - Obscuring)** - obscures vision, hard to see accurately
-- **Narrow Bridge (Complex)** - difficult terrain complicates movement
-
-These typically last for the scene or until the environment changes.
-
----
-
 ### Sources of Complications
 
 1. **Challenge Complications** — Passive traits of significant enemies/obstacles (armor, natural weapons, keen senses)
-2. **Environmental Complications** — Temporary Complications from dangerous situations (ice, smoke, hostile crowds)
-3. **Challenge Moves** — Some enemy Challenge Moves create temporary Environmental Complications (see Challenge Moves section)
+2. **Environmental Complications** — Temporary Complications from dangerous situations (ice, smoke, hostile crowds) or created by Challenge Moves (see Challenge Moves section for full rules)
+3. **Challenge Moves** — Active enemy abilities that may create temporary Environmental Complications
 
 ### Rules
 
@@ -438,14 +398,7 @@ These typically last for the scene or until the environment changes.
 **What 3+ Complications signal to players:**
 "Don't engage head-on without preparation. You need Triumph, Momentum for Create an Opening, teamwork (Build Momentum), or a clever solution (flank, use environment, exploit weakness)."
 
-**Example:**
-> **Ancient Dragon (3 Complications: Resilient, Legendary, Elusive)**
-> - **Resilient** - impenetrable dragon scales (applies to direct attacks)
-> - **Legendary** - overwhelming mythic presence (always applies)
-> - **Elusive** - aerial superiority, hard to reach (applies when targeting/pursuing)
-> - This signals: "You can't just walk up and hit it. You need a plan."
-> - Players respond: Scout with Sense (find weak point), Build Momentum (teamwork), Create an Opening (strip 1 Complication), aim for Triumph (bypasses all 3)
-> - The fight becomes tactical problem-solving, not "roll and hope"
+**Example:** See the Ancient Red Dragon example earlier in this chapter for a detailed breakdown of a 4-Complication legendary threat.
 
 **Don't use 3+ Complications for:**
 - Routine encounters (guards, bandits, standard monsters)
@@ -459,35 +412,6 @@ These typically last for the scene or until the environment changes.
 
 ---
 
-## Negating Complications
-
-Three ways to deal with Complications:
-
-### 1. Create an Opening (1 Momentum)
-
-Spend 1 Momentum. Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats. See Chapter 2 for complete rules.
-
-**Most common way** to handle single Complication.
-
----
-
-### 2. Build Momentum (Trait Special Effect)
-
-When allies use **Build Momentum** (Trait Special Effect), grant 1 Momentum to you. You can then spend it on Create an Opening to ignore 1 Complication.
-
-**Primary teamwork mechanic** — allies create opportunities for each other.
-
----
-
-### 3. Complication Negation Talents
-
-Some Talents automatically negate specific types of Complications:
-- "Armor Piercer" — Negate armor Complications (free)
-- "Ward Breaker" — Negate magical ward Complications (1 Momentum for all)
-- "Giant Slayer" — Negate 1 Complication from large creatures (free, once per scene)
-
----
-
 ## Challenge Moves
 
 **Challenge Moves are powerful abilities that Challenges use as Impact Moves.** They are more potent than standard Impact Moves, representing signature attacks, special abilities, and dramatic actions.
@@ -496,9 +420,9 @@ Some Talents automatically negate specific types of Complications:
 - **Soft Moves (Conflict):** Telegraph the Challenge Move to create tension
   - *"The dragon's throat glows orange as flames gather in its maw..."*
   - Players now know what's coming and can prepare
-- **Hard Moves (Setback/Disaster):** Trigger Challenge Move immediately
+- **Hard Moves (Setback/Disaster):** May trigger a Challenge Move as the consequence
   - *"The dragon's fire breath engulfs you—all in Near range mark 2 Stress and Burned 1!"*
-  - Direct consequence of PC failure
+  - Direct consequence of PC failure; Challenge Moves are stronger than standard Hard Moves
 
 **Power Level:**
 Challenge Moves are intentionally stronger than standard Impact Moves:
@@ -926,23 +850,6 @@ Trap Triggers (Challenge Moves):
 - **Find key (narrative solution):** Bypasses entirely
 
 **Design Lesson:** 3 Complications doesn't mean "impossible" — it means "choose your approach carefully, only 1 applies." CR 3 (6 ticks) + Rank 3 (3 Complications) = legendary protection that rewards smart planning.
-
----
-
-### Group Challenges
-
-**3+ identical enemies = Single Challenge of higher Tier**
-
-Instead of tracking multiple 2-tick bandits, use:
-- **Bandit Squad** (CR 2, 4-tick Harm, Squad or Pack Tactics)
-- Represents coordinated group
-- Mark ticks as you defeat members of the group
-
-**Hybrid Approach:**
-- **Bandit Squad** (CR 2, 4-tick, Squad) + **Bandit Captain** (CR 2, 4-tick, Deadly)
-- Two separate Challenges
-- Captain has defining Complication (skilled leader)
-- Squad just represents numbers
 
 ---
 
@@ -1424,23 +1331,6 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ---
 
-### CR 2 Ancient Vault Door
-- **Tier:** 2
-- **Tracks:** Obstacle 6
-- **Complications:**
-  - Resilient - reinforced steel
-  - Warded - arcane protections
-
-**How PCs deal with it:**
-- Find the key (bypasses entirely, narrative solution)
-- Dispel wards first (removes Warded via Know or magic)
-- Create an Opening + ally support (Build Momentum teamwork)
-- Brute force with Talents or Triumph (ignore Complications)
-
-**Design Note:** No Harm or Will track — violence and persuasion don't work on inanimate objects. Only Obstacle track = only skill/knowledge/magic approaches matter.
-
----
-
 ### CR 2 Suspicious Noble
 - **Tier:** 2 (social opposition)
 - **Tracks:** Will 6 (strong-willed, resistant to manipulation)
@@ -1458,48 +1348,6 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 - **Build Momentum:** Allies support each other through teamwork to overcome 2 Complications on deception attempts
 
 **Fiction:** Once Will track fills, the Noble is convinced, becomes an ally, or at least stops opposing the PCs.
-
----
-
-### CR 3 Ancient Dragon (All Three Tracks)
-- **Tier:** 3
-- **Tracks:** Harm 8, Will 6, Obstacle 4
-- **Complications:** 
-  - Resilient - impenetrable scales (applies to Harm)
-  - Resolute - ancient cunning (applies to Will)
-  - Vigilant - keen senses (applies to Obstacle: stealth/bypass)
-  - Deadly - devastating in combat (applies when attacking/being attacked)
-- **Exploitable:** "Prideful"
-  - Flattery/challenges to pride grant 1 Boon on social rolls (Will)
-
-**Tactics:** Territorial, intelligent, prefers negotiation but will incinerate threats
-
-**Multiple Approaches:**
-
-1. **Combat (Harm 8):** 
-   - Direct confrontation, hardest path
-   - Faces Resilient + Deadly in combat (2 Complications)
-   - Dragon deals heavy damage (Deadly applies)
-   - Victory = dragon slain
-
-2. **Negotiation (Will 6):**
-   - Diplomatic approach, medium difficulty
-   - Use flattery/tribute to exploit "Prideful"
-   - Faces Resolute (1 Complication)
-   - Victory = dragon agrees to terms, becomes ally/neutral
-
-3. **Bypass (Obstacle 4):**
-   - Stealth/clever approach, moderate difficulty
-   - Sneak past while dragon sleeps, distract it, etc.
-   - Faces Vigilant (1 Complication)
-   - Victory = objective achieved without confrontation (steal treasure, rescue prisoner, etc.)
-
-4. **Mixed approaches:**
-   - Wound dragon slightly (mark 2-4 Harm) → easier to intimidate (GM grants Boon on Will Clash)
-   - Negotiate poorly (mark Will but don't fill) → dragon becomes hostile, switches to combat
-   - Feint combat while another PC sneaks (mark Harm + Obstacle simultaneously)
-
-**Design Note:** Three tracks = **maximum player agency**. Multiple valid solutions, different narrative outcomes, encourages creative thinking. Most Challenges don't need this complexity — reserve for climactic encounters.
 
 ---
 
@@ -1604,7 +1452,7 @@ Boss encounters should require **team coordination** and **multiple actions**.
 ### Complications
 
 **Complications:**
-- Reduce outcome by -1 tier per Complication (Success → Conflict → Setback → Taken Out)
+- Reduce outcome by -1 tier per Complication (Success → Conflict → Setback → Disaster)
 - Triumph ignores all Complications
 - Negate with: Create an Opening (1 Momentum), Talents, Build Momentum teamwork
 
@@ -1626,11 +1474,10 @@ Boss encounters should require **team coordination** and **multiple actions**.
 **Complication Tags:**
 - **Resilient** - Hard to damage/break
 - **Warded** - Resists magical effects (non-damaging)
-- **Elusive** - Hard to hit/catch
-- **Elusive** - Hard to perceive
+- **Elusive** - Hard to hit, catch, or perceive (GM adjudicates based on fictional description)
 - **Vigilant** - Perceives others well
 - **Complex** - Hard to understand/solve
-- **Resolute** - Hard to influence
+- **Resolute** - Hard to influence (mundane or magical)
 - **Legendary** - Always applies (mythic presence)
 - **Deadly** - Applies when attacking/being attacked (combat danger)
 

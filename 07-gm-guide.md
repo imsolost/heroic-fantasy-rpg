@@ -100,20 +100,15 @@ Once a character rolls to handle a specific threat environment, don't force addi
 
 ### When to Call for Multiple Rolls
 
-**You DO call for multiple rolls when:**
-- **Each roll is a distinct dramatic question** with its own stakes
-  - *Example:* "Escape the collapsing mine" (Defy to cross rubble) → "Fight the orcs blocking the exit" (Clash) → "Convince the guards to let you through the gate" (Talk). Three distinct problems, three rolls.
-  
-- **The scene is a multi-stage challenge** (see Challenges section)
-  - *Example:* "Stop the ritual" = complex scene with multiple obstacles (break the wards, fight the cultists, destroy the altar). Each stage is a separate roll against a progress clock.
+**Use multiple rolls when:**
+- **Each roll is a distinct dramatic question** (escape mine → fight orcs → convince guards = three problems)
+- **Multi-stage challenges** with separate obstacles (break wards, fight cultists, destroy altar)
+- **Different PCs tackle different parts** (Rogue picks lock, Fighter keeps watch, Sage dispels alarm)
 
-- **Different PCs tackle different parts of the same problem**
-  - *Example:* "Infiltrate the fortress" — Rogue picks the lock (Defy), Fighter keeps watch (Sense), Sage dispels the alarm (Know). Each PC faces their own challenge.
-
-**You DON'T call for multiple rolls when:**
-- **The PC is resolving a single dramatic objective** (crossing a dangerous zone, escaping pursuit, navigating hazardous terrain)
-- **Micro-elements are part of the same threat** (each falling beam in the collapsing hallway, each crack in the ice bridge, each guard in the patrol)
-- **Multiple rolls would just create attrition without adding meaningful choice**
+**Use one roll when:**
+- **Single dramatic objective** (crossing dangerous zone, escaping pursuit)
+- **Micro-elements are part of same threat** (each falling beam, each crack in ice, each guard in patrol)
+- **Multiple rolls would only create attrition** without meaningful choice
 
 ### Consequences Still Matter
 
@@ -125,25 +120,6 @@ Once a character rolls to handle a specific threat environment, don't force addi
 - **Setback:** Failure + Major Consequence (2 Stress, Condition, separated, discovered)
 
 The stakes are resolved in **one moment**, not ground down over five rolls.
-
-### How to Frame It
-
-**Frame the entire threat, then call for one roll:**
-
-- **Bad:** "You reach the collapsing bridge. The first plank cracks—roll Defy. Okay, the second plank snaps—roll Defy. Now the ropes are fraying—roll Defy."
-- **Good:** "The bridge is collapsing under your weight—planks snapping, ropes fraying, the chasm yawning below. One roll to make it across. Defy with Grace or Daring?"
-
-**Describe success and failure stakes upfront:**
-- "If you succeed, you're across clean. If you fail, you'll make it, but you're taking damage and losing your gear in the fall."
-
-**Let the roll resolve the whole sequence:**
-- Success = describe heroic crossing (leap, roll, grab the far side)
-- Conflict = describe close call (stumble, catch yourself, winded)
-- Setback = describe costly success or dramatic failure (fall, grab rope, haul yourself up battered and bruised)
-
-### Summary
-
-**One roll per dramatic question.** This keeps tension high, pacing fast, and prevents attrition spirals that turn exciting moments into slogs. Save multiple rolls for truly multi-stage challenges where each roll represents a distinct choice with its own stakes.
 
 ### **Embrace the fiction / Check Vantage**
 - Stats and mechanics serve the fiction, not the other way around
@@ -368,17 +344,6 @@ The move taxonomy explains what each type does. Here's when to reach for each:
 | Countdown completes | Impact Move | Deliver promised consequence |
 | PC achieves Success/Triumph | No Move needed | Clean success, no complication |
 
-### Common Mistakes
-
-**Using Suspense Moves after Setback:** Setback = failure. Don't soften it with a telegraph — deliver the Impact Move immediately.
-
-**Skipping telegraphs:** Always Suspense Move before Impact Move unless the danger was already established or the PCs triggered it directly.
-
-**Impact Moves without player action:** Impact Moves are responses to PC actions or natural escalation. If scene needs action, use Suspense Move to introduce threat first.
-
-**Impact Moves on Success:** Success = clean success. Don't impose consequences unless Complications or Triumph rules say otherwise.
-
----
 
 ## Vigilance: Telegraph Danger (Grimwild Pattern)
 
@@ -584,21 +549,8 @@ All three point to the same suspect. Missing one doesn't stall the investigation
 - **Know** = past facts, lore, off-screen information (who wrote this, what does this symbol mean)
 - **Sense** = present observation, hidden details, connecting evidence (what's out of place, who's lying, where's the secret door)
 
-### Example Investigation: The Poisoned Magistrate
-
-**Setup:** The magistrate is dead, poisoned at a private dinner. The PCs must identify the killer before the city erupts in factional violence.
-
-**Three Clues (multiple paths):**
-1. **Wine Glass** (Sense to detect residue, Know to identify poison) → Points to alchemist's guild
-2. **Servant's Testimony** (Talk to convince, Clash to intimidate) → Describes hooded figure
-3. **Coded Message** (found in study, Know to decode) → Reveals conspiracy
-
-**Failed Roll Outcomes:**
-- **Miss the poison residue (Setback)?** → The killer strikes again, poisoning a council member. Now you have TWO crime scenes and more clues (but higher stakes).
-- **Servant refuses to talk (Setback)?** → The servant is murdered that night, but the killer left evidence (bloody footprints, dropped item).
-- **Can't decode the message (Setback)?** → The message is stolen by an agent, but you learn WHO stole it (new lead, higher danger).
-
-**Result:** Every "failure" escalates the mystery, adding urgency and danger WITHOUT stalling progress. The PCs always have a path forward.
+**Example - Failure Escalates:**
+> PCs miss the poison residue (Setback)? The killer strikes again—now you have TWO crime scenes and more clues (but higher stakes). Servant refuses to talk (Setback)? The servant is murdered that night, but the killer left evidence. Every "failure" escalates the mystery WITHOUT stalling progress.
 
 ---
 
@@ -841,29 +793,11 @@ New GMs often struggle with consequence severity — either too harsh (every Con
 
 ### When Players Complain Consequences Are Too Harsh
 
-**Calibration check:**
-- Are you marking Stress on every Conflict? (Too harsh — use narrative complications)
-- Are PCs reaching 5 Stress within 2-3 encounters? (Too harsh — reduce Stress frequency)
-- Are you escalating consequences without telegraphing danger first? (Unfair — use Suspense Moves)
-
-**Adjust by:**
-- Using Conditions instead of Stress (gives players agency to clear through action)
-- Narrative complications instead of mechanical penalties
-- Offering Short Rest opportunities between encounters
-- Telegraphing danger before delivering consequences (Suspense Move → Impact Move)
+Marking Stress on every Conflict? PCs reaching 5 Stress within 2-3 encounters? Escalating without telegraphing? **Adjust:** Use Conditions instead of Stress, narrative complications instead of mechanical penalties, offer Short Rests between encounters, telegraph danger with Suspense Moves before Impact Moves.
 
 ### When Players Complain Consequences Are Too Light
 
-**Calibration check:**
-- Are consequences just narrative color without mechanical teeth? (Too light — use Stress/Conditions)
-- Do PCs shrug off Conflicts without feeling pressure? (Too light — escalate stakes)
-- Are you avoiding marking Stress entirely? (Too light — Stress exists for a reason)
-
-**Adjust by:**
-- Mark Stress more consistently on Conflict in combat
-- Use Conditions to create persistent pressure
-- Advance Countdown tracks to create time pressure
-- Make narrative consequences matter (NPC turns hostile, alarm raised has real effects)
+Consequences just narrative color? PCs shrugging off Conflicts? Avoiding Stress entirely? **Adjust:** Mark Stress consistently on Conflict in combat, use Conditions for persistent pressure, advance Countdown tracks for time pressure, make narrative consequences matter (NPC turns hostile, alarm has real effects).
 
 ### The Golden Rule
 
@@ -877,28 +811,21 @@ New GMs often struggle with consequence severity — either too harsh (every Con
 
 ---
 
-## Common Pitfalls to Avoid
+## Common GM Pitfalls
 
-### **1. Rolling for Everything**
-Not every action needs a roll. Save rolls for meaningful moments.
+**Rolling for everything:** Not every action needs a roll. Save rolls for meaningful moments.
 
-### **2. Ignoring Soft Moves**
-Always telegraph danger before hard moves. Give players chance to react.
+**Skipping telegraphs:** Always Suspense Move before Impact Move (unless danger was already established).
 
-### **3. Arbitrary Consequences**
-"You take damage because I said so" feels unfair. Hard moves should follow from fiction.
+**Arbitrary consequences:** Hard moves should follow from fiction, not GM fiat.
 
-### **4. Stalling on Failure**
-"You fail" is not a move. Change the situation when they fail.
+**Stalling on failure:** "You fail" is not a move. Change the situation when they fail.
 
-### **5. Railroading**
-Players make choices, you respond. Don't force predetermined outcomes.
+**Railroading:** Players make choices, you respond. Don't force predetermined outcomes.
 
-### **6. Letting Momentum/Stress Bookkeeping Slow Play**
-Trust players to track their own resources. Audit occasionally, don't micromanage.
+**Slow bookkeeping:** Trust players to track resources. Audit occasionally, don't micromanage.
 
-### **7. Making Every Fight Epic**
-Minions should go down fast. Reserve complex fights for bosses.
+**Every fight is epic:** Minions should go down fast. Reserve complex fights for bosses.
 
 ---
 

@@ -485,8 +485,8 @@ Your action energizes and prepares for follow-up.
 - ✓ "I kick sand in his eyes to Blind him" — Secondary Effect: Create Advantage (reasonable)
 - ✓ "I expose his weak point — ally gains 1 Boon on next attack against him" — Secondary Effect: Create Advantage (reasonable)
 - ✓ "I hold them off while my allies escape" — Secondary Effect: Seize Control (reasonable)
-- ⚠️ "I kill the boss in one hit" — Too much (instant defeat without Talent). **Suggest:** "You deal devastating harm with Greater Effect (2 ticks) and he's clearly on death's door, but still standing."
-- ⚠️ "I convince the entire city guard" — Too much (scale too large). **Suggest:** "Broad Effect affects their captain and 2-3 nearby guards."
+- **Too Much:** "I kill the boss in one hit" — instant defeat without Talent. **Suggest:** "You deal devastating harm with Greater Effect (2 ticks) and he's clearly on death's door, but still standing."
+- **Too Much:** "I convince the entire city guard" — scale too large. **Suggest:** "Broad Effect affects their captain and 2-3 nearby guards."
 
 ---
 

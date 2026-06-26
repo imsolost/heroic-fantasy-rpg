@@ -294,23 +294,23 @@ Complications:
 ```
 
 **Kael swings his sword:**
-- Trying to damage it → **Resilient applies** ✓
-- Legendary → **Always applies** ✓
+- Trying to damage it → **Resilient applies** YES
+- Legendary → **Always applies** YES
 - **Total: 2 Complications**
 
 **Mira casts Fireball:**
-- Trying to damage it → **Resilient applies** ✓ (tough scales resist fire)
-- Legendary → **Always applies** ✓
+- Trying to damage it → **Resilient applies** YES (tough scales resist fire)
+- Legendary → **Always applies** YES
 - **Total: 2 Complications**
 
 **Mira casts Charm Dragon:**
-- Trying to magically influence → **Warded applies** ✓
-- Legendary → **Always applies** ✓
+- Trying to magically influence → **Warded applies** YES
+- Legendary → **Always applies** YES
 - **Total: 2 Complications**
 
 **Ryn tries to intimidate:**
 - Trying to influence socially → No matching tag (dragon has no Resolute)
-- Legendary → **Always applies** ✓
+- Legendary → **Always applies** YES
 - **Total: 1 Complication**
 
 **Tactical Insight:** Social influence is the weak point! Legendary still makes it hard, but bypasses Resilient/Warded.
@@ -327,19 +327,19 @@ Complications:
 ```
 
 **Warrior swings sword:**
-- Trying to hit target → **Elusive applies** ✓
+- Trying to hit target → **Elusive applies** YES
 - **Total: 1 Complication**
 
 **Sage casts Magic Missile:**
-- Trying to hit target → **Elusive applies** ✓ (can't target what you can't track)
+- Trying to hit target → **Elusive applies** YES (can't target what you can't track)
 - **Total: 1 Complication**
 
 **Sage casts Area Fireball:**
-- Area effect, don't need to target → Elusive does NOT apply ✗
+- Area effect, don't need to target → Elusive does NOT apply NO
 - **Total: 0 Complications** (speed doesn't help against area effects!)
 
 **PC tries to intimidate:**
-- Trying to influence → **Resolute applies** ✓
+- Trying to influence → **Resolute applies** YES
 - **Total: 1 Complication**
 
 **Tactical Insight:** Use area effects to bypass Elusive!
@@ -355,15 +355,15 @@ Complications:
 ```
 
 **Warrior swings sword:**
-- Trying to hit invisible target → **Elusive applies** ✓
+- Trying to hit invisible target → **Elusive applies** YES
 - **Total: 1 Complication** (can't hit what you can't see)
 
 **Sage casts Targeted Fireball:**
-- Trying to target invisible foe → **Elusive applies** ✓
+- Trying to target invisible foe → **Elusive applies** YES
 - **Total: 1 Complication**
 
 **Sage casts Area Fireball in its zone:**
-- Area effect, don't need to see target → Elusive does NOT apply ✗
+- Area effect, don't need to see target → Elusive does NOT apply NO
 - **Total: 0 Complications**
 
 **PC throws flour in the air:**
@@ -521,15 +521,15 @@ Some Challenge Moves create **temporary Environmental Complications** that affec
 
 **GM (Soft Move):** "The knight raises his sword high and shouts 'For the King!' His footsoldiers surge forward with renewed vigor!"
 
-**GM:** "I'm using Rallying Cry [✓] and creating **Rallied (Universal) [□□]** on the footsoldiers. The next 2 actions against them face an additional Complication."
+**GM:** "I'm using Rallying Cry [YES] and creating **Rallied (Universal) [□□]** on the footsoldiers. The next 2 actions against them face an additional Complication."
 
 **PC attacks footsoldier (normally 0 Complications):**
-- Faces: **Rallied [✓□]** = 1 Complication
-- After resolution, tick down: [□□] → [✓□]
+- Faces: **Rallied [YES□]** = 1 Complication
+- After resolution, tick down: [□□] → [YES□]
 
 **PC attacks another footsoldier:**
-- Faces: **Rallied [✓✓]** = 1 Complication
-- After resolution, tick down: [✓□] → [✓✓] → expires
+- Faces: **Rallied [YESYES]** = 1 Complication
+- After resolution, tick down: [YES□] → [YESYES] → expires
 
 ---
 

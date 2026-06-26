@@ -98,10 +98,10 @@ This framework isn't mandatory — use it as inspiration to create a well-rounde
 **Be Specific and Evocative:**
 
 Instead of generic, make it memorable:
-- ✓ "Demon Circus Acrobat" instead of ✗ "Acrobat"
-- ✓ "Shadow of the Thieves Guild" instead of ✗ "Thief"
-- ✓ "Veteran of the Iron Wars" instead of ✗ "Soldier"
-- ✓ "Raised by Wolves in the Ashen Wood" instead of ✗ "Raised by Wolves"
+- **Good:** "Demon Circus Acrobat" instead of **Avoid:** "Acrobat"
+- **Good:** "Shadow of the Thieves Guild" instead of **Avoid:** "Thief"
+- **Good:** "Veteran of the Iron Wars" instead of **Avoid:** "Soldier"
+- **Good:** "Raised by Wolves in the Ashen Wood" instead of **Avoid:** "Raised by Wolves"
 
 **Add specific detail** that grounds the Trait in your world and gives it flavor.
 

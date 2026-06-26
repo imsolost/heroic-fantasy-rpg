@@ -261,12 +261,12 @@ A Burden has a **name**, a **tier** (1–3), and a **recovery method**. Like Con
 **Gaining Burdens:**
 
 **Stress Overflow (most common):**
-When your Stress track is full and you'd mark more, choose: take a Burden (Stress clears to 0) or be Taken Out.
+When your Stress track is full and you'd mark more, choose: gain a Burden and Clear 3 Stress or be Taken Out.
 - 1 Stress overflow → Burden tier 1
 - 2 Stress overflow → Burden tier 2
 - 3 Stress overflow → Burden tier 3
 
-> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 1 (Burden) rather than be Taken Out. His Stress clears to 0/5 — a second wind, but now injured.*
+> *Example: Finn has 5/5 Stress. The ogre deals 2 Stress. He takes Wounded 2 (Burden) rather than be Taken Out. His Stress clears to 2/5 — a second wind, but now injured.*
 
 **Severe Consequences (Disaster):**
 When Complications reduce an outcome to Disaster, you suffer a Severe Consequence. The GM may assign a Burden alongside other catastrophic effects (Taken Out, objective fails, etc.).

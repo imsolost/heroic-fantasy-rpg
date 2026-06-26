@@ -33,7 +33,7 @@ You gain 1 Edge when you Defy in battle. Mark this to Push Yourself in battle wi
 When you first enter a tense situation, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
 
 **Defy Death [ ] [ ]**
-When you would be Taken Out, you may instead mark this to remain in the fight with 1 Stress remaining. Push Yourself to stay standing through a consequence that would floor anyone else.
+When you would be Taken Out, you may instead mark this to remain in the fight and immediately clear 1 Stress. Push Yourself to stay standing through a consequence that would floor anyone else.
 
 **Fearsome Presence**
 You have Expertise in intimidation, threats, and commanding through force of personality. Push Yourself to perform a Potent feat of intimidation.
@@ -45,7 +45,7 @@ Mark this when an enemy attempts to move past you to reach an ally or objective.
 You have Expertise when Defying fear, coercion, temptation, or any attempt to break your resolve. Push Yourself to completely ignore an effect that would compel, dominate, or subvert your will.
 
 **One Against Many**
-When you are the only target of an enemy's attention — surrounded, cornered, or facing a threat alone — you gain 1 Edge on all combat actions. Push Yourself to perform a Potent feat of last-stand heroism.
+When none of your allies are within Close range of you, and one or more enemies are — you gain 1 Edge on all combat actions. Push Yourself to perform a Potent feat of last-stand heroism.
 
 **Pugilist**
 You have Expertise when fighting unarmed or with improvised weapons. You treat unarmed strikes and improvised weapons as effective as any proper weapon in battle. Push Yourself to perform a Potent feat of unarmed prowess — shattering barriers with a strike, grappling creatures much larger than yourself, breaking a metal weapon with your bare hands, or hurling someone with devastating force.
@@ -331,7 +331,7 @@ You can use the Vanguard calling to play all kinds of protective stalwarts. You 
 **UNBREAKABLE GUARDIAN**
 You are the shield that takes the blow so others don't have to.
 
-**Unbreakable:** When you would mark 2 or more Stress from a single Consequence, reduce it by 1.
+**Unbreakable:** Increase your maximum Stress by 1. When you would mark 2 or more Stress from a single Consequence, reduce it by 1.
 
 **Guardian's Sacrifice:** Mark [ ] [ ] to suffer a Consequence intended for an ally within Close range. Then reduce its severity by one step (Major → Minor, Minor → None, Severe → Major).
 
@@ -350,7 +350,7 @@ You have Expertise when keeping watch for threats or detecting ambushes. Wheneve
 You have Expertise when resisting effects that would move, displace, or knock you prone. Push Yourself to completely ignore such an effect.
 
 **Indomitable**
-Increase your maximum Stress by 1. When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
+When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
 
 **Inspire Greatness [ ] [ ]**
 When you Assist an ally, you can mark this to also give that ally 1 Edge.

@@ -599,50 +599,20 @@ This gives you fodder (the group) plus a spotlight enemy (the leader) without ov
 
 ---
 
-### Complication Rarity Guidance
+### Challenge Traits
 
-**CR 1 (Minions):**
-- **0-1 Complications** - mostly standard
-- Example: Bandit (0 Complications), Guard Captain (**Resolute**)
-
-**CR 2 (Standard):**
-- **0-1 Complications** - one notable trait
-- Example: Armored Knight (**Resilient**)
-
-**CR 3 (Elite):**
-- **0-2 Complications** - multiple significant traits
-- Example: Elite Knight (**Deadly** + **Resilient**)
-
-**CR 4 (Boss):**
-- **1-3 Complications** - legendary, multi-layered defenses
-- Example: Ancient Dragon (**Legendary** + **Resilient** + **Warded** + **Vigilant**)
-
----
-
-### Exploitable Traits (Less Common)
-
-**Grant advantage** when PCs exploit them.
+Challenges may have additional traits beyond Complications. These traits describe fictional qualities that players or GMs can exploit or leverage in creative ways. The fiction determines whether a trait provides a Boon, imposes a Bane, or creates narrative opportunities.
 
 **Examples:**
-- **"Easily Frightened"** — When intimidated/surprised, grants 1 Boon to PCs
-- **"Overconfident"** — When pride exploited, reduce Tier by 1 or grant a Boon
-- **"Slow"** — When speed/agility used against it, grants 1 Boon
-- **"Arrogant"** — Social flattery grants 1 Boon
-- **"Weak to Fire"** — Fire attacks grant 1 Boon or negate 1 Complication
-- **"Blind"** — Stealth approaches grant 1 Boon
-- **"Greedy"** — Bribery/treasure as bait grants 1 Boon
+- **"Arrogant"** — Social flattery may grant 1 Boon; challenges to pride may provoke reckless action
+- **"Weak to Fire"** — Fire attacks may grant 1 Boon or negate a Complication
+- **"Blind"** — Stealth approaches may grant 1 Boon; visual cues don't work
+- **"Master Duelist"** — May impose 1 Bane on PCs in melee; vulnerable outside combat
+- **"Aquatic"** — Functions normally in water; struggles on land
+- **"Easily Frightened"** — Intimidation may grant 1 Boon; prone to fleeing
+- **"Greedy"** — Bribery/treasure as bait may grant 1 Boon; can be distracted by loot
 
----
-
-### Contextual Traits
-
-**Apply only in specific situations.**
-
-**Examples:**
-- **"Master Duelist"** (only in melee combat)
-- **"Silver Tongued"** (only in social situations)
-- **"Eagle-Eyed"** (only when perception matters)
-- **"Aquatic"** (only in water)
+Work with the fiction: traits can be advantages, disadvantages, or both depending on the situation and approach.
 
 ---
 
@@ -696,32 +666,6 @@ Some Challenges have Challenge Moves they can use (see **Challenge Moves** secti
 - Challenge: 4 Complications = nearly impossible without preparation/special tools
 - Complications: 4 (Rank 3 creature has mythic defenses)
 - Note: Facing Rank 3 threats as Rank 2 heroes requires creative approaches
-
----
-
-### Complications by Rank
-
-**Rank 1 (Realistic):**
-- Typically 0 Complications
-- Rare to have 1 (exceptional training, good equipment)
-- Example: Skilled archer with Vigilant, veteran with Deadly
-
-**Rank 2 (Action Hero):**
-- Typically 0-1 Complications
-- Elite foes might have 2
-- Example: Knight with Resilient, master duelist with Deadly + Elusive
-
-**Rank 3 (Mythic):**
-- Typically 1-3 Complications
-- Legendary foes might have 4
-- Example: Dragon with Legendary + Resilient + Deadly + Vigilant
-
-**Rank 4 (Demigod):**
-- Typically 2-4 Complications
-- Near-unkillable without special measures
-- Example: Titan with Legendary + Resilient + Warded + Deadly + Elusive
-
-**Common Mistake:** Don't give every CR 2+ enemy multiple Complications. Complications are RARE and DEFINING. A CR 3 warrior is just a warrior with 6-tick Harm—they're durable, not necessarily complicated.
 
 ---
 
@@ -1481,8 +1425,3 @@ Boss encounters should require **team coordination** and **multiple actions**.
 - **Legendary** - Always applies (mythic presence)
 - **Deadly** - Applies when attacking/being attacked (combat danger)
 
----
-
-## At-the-Table Quick Reference
-
-For quick procedures on creating Challenges during play, encounter budgeting, difficulty adjustment, and at-the-table improvisation, see **[Appendix C: Challenge Creation Quick Reference](appendix-c-challenge-quick-reference.md)**.

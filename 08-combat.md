@@ -100,7 +100,7 @@ See **Chapter 4: Special Effects** for the complete framework.
 
 ### Example Maneuvers
 
-These are examples to illustrate the variety possible. Declare your intent, the GM determines the Action and stakes, you roll.
+These examples illustrate the variety possible. Declare your intent, the GM determines the Action and stakes, you roll.
 
 **Disarm** — "I hook his sword with my axe and twist to disarm him."
 - Action: Clash with Daring (if trying to hurt them) OR Defy with Grace (Take Something as primary intent)
@@ -112,11 +112,6 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 - Success: Enemy knocked prone (vulnerable to follow-up, must use effort to stand)
 - + Special Effect: Daze them too - Dazed 1 (Secondary Effect: Create Advantage), affect nearby enemy as well (Broad Effect)
 
-**Pin/Grapple** — "I tackle him and pin his arms."
-- Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Seize Control as primary intent)
-- Success: Enemy pinned (can't move zones, you're also engaged and can't freely move)
-- + Special Effect: Also disarm them (Secondary Effect: Take Something), apply chokehold harder (Greater Effect - much harder to escape), drag them into hazard (Secondary Effect: Seize Control further)
-
 **Shove/Push** — "I shield-bash him toward the cliff edge."
 - Action: Clash with Daring (if trying to hurt them) OR Defy with Daring (Seize Control as primary intent)
 - Success: Move enemy one zone (into hazard, off ledge, away from ally)
@@ -126,21 +121,6 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 - Action: Clash with Cunning (if harming), Defy with Cunning (Create Advantage as primary intent), or Sense to spot weakness
 - Success: Off-Balance 1 (ally gains 1 Boon on next action against target)
 - + Special Effect: Greater Effect (Off-Balance 2 - lasts 2 actions) OR Broad Effect (multiple enemies Off-Balance 1)
-
-**Sunder Equipment** — "I target his shield, trying to splinter it."
-- Action: Clash with Daring (if trying to hurt them while breaking gear)
-- Success: Damage shield (enemy loses defensive advantage fictionally)
-- + Special Effect: Shield breaks completely (Secondary Effect: Take Something - removes Armored Complication), splinters strike him - Blinded 1 (Secondary Effect: Create Advantage)
-
-**Environmental Combo** — "I kick the brazier into his face."
-- Action: Clash with Daring (if trying to harm) OR Defy with Daring (Change Environment as primary intent)
-- Success: Deal damage + environmental effect (fire, distraction)
-- + Special Effect: Blind him with hot coals - Blinded 1 (Secondary Effect: Create Advantage), flames spread dramatically (Greater Effect)
-
-**Keep Them Busy** — "I hold them off while my allies escape."
-- Action: Clash (if trying to harm) or Defy (Seize Control as primary intent)
-- Success: Enemy focuses on you, cannot easily pursue allies
-- + Special Effect: Occupy them for much longer (Greater Effect), exhaust them - Tired 1 (Secondary Effect: Create Advantage), block passage completely (Secondary Effect: Seize Control)
 
 ---
 
@@ -213,7 +193,6 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 - **Effect:** This foe possesses layered defenses (2 Complications on direct attacks). A Success downshifts to Conflict, Conflict downshifts to Setback. Direct attacks without Boon or tactical advantage deal minimal progress.
 - **Counter:** PCs must create Opening (use Sense to identify weakness, Defy to create advantage, or spend Momentum to Create an Opening) to negate Complications before full damage can be dealt.
 - **Example:** Dragon's scales, knight's plate armor, magical ward
-- **Design Note:** This creates the same effect as "requires Opening to damage" without contradicting the base resolution system. Success still marks ticks, but Complications downshift the outcome tier as normal.
 
 **Devastating Counterattack**
 - **Effect:** When PC rolls Setback on Clash, PC suffers Major Consequence (mark 2 Stress, GM makes hard Impact Move) and gains Complication "Knocked Back" or Condition tier 1.

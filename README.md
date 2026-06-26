@@ -60,7 +60,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - **Build Momentum (Trait)** — Grant 1 Momentum to self/ally when invoking Trait on Conflict+
 
 **Spend Momentum:**
-- **Create an Opening (1 Momentum)** — Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats
+- **Create an Opening (1 Momentum)** — Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication)
 - **Resist Consequence (1 Momentum)** — Roll Defy to reduce/avoid any consequence (Stress, Condition, or narrative setback)
 
 **Momentum Cap:** 2 (can be increased to 3 with Talent)

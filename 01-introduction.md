@@ -88,7 +88,7 @@ Characters with **Expertise** in a specific domain (e.g., Heavy Blades, Stealth,
 **Earn:** Roll Triumph (double 6s), create complications for yourself that drive the story (optional, see Chapter 7), or choose Build Momentum when you successfully invoke a Trait
 
 **Spend:**
-- **Create an Opening (1 Momentum)** — Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats (see Chapter 2)
+- **Create an Opening (1 Momentum)** — Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication)
 - **Resist Consequence (1 Momentum)** — Automatically reduce Consequence Tier by 1 (no roll required)
 
 **Starting cap:** 2 (some Talents raise this to 3)

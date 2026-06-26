@@ -221,7 +221,7 @@ Boon and Bane represent advantage and disadvantage.
 
 **Sources:**
 - Favorable conditions (GM grants when you have clear advantage)
-- Create an Opening (spend 1 Momentum for +1 Boon and 1 Edge + narrative permission)
+- Create an Opening (spend 1 Momentum for +1 Boon and 1 Edge)
 - Environmental advantage (perfect lighting, stable footing, ideal weather)
 - Tactical superiority (outnumbering enemy, ambush, surprise)
 - Talents (specific circumstances)
@@ -291,7 +291,7 @@ Other participants may **Assist** (mark 1 Stress each to grant +1 Boon each), su
 - Edge stacks numerically: 2 Edges = ignore 2 Complications, 3 Edges = ignore 3 Complications
 
 **How to Gain Edge:**
-- **Create an Opening** (spend 1 Momentum): Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats
+- **Create an Opening** (spend 1 Momentum): Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication)
 - **Talents** (specific circumstances grant Edge as noted in Talent descriptions)
 - **GM Discretion** (situational advantages may grant Edge)
 
@@ -299,7 +299,7 @@ Other participants may **Assist** (mark 1 Stress each to grant +1 Boon each), su
 - **Resist Consequence** (spend 1 Momentum): Automatically reduce Consequence Tier by 1 — see Chapter 5: Resilience for full rules
 
 > **Create an Opening (Canonical Definition):**  
-> Spend 1 Momentum. Your action gains **1 Boon** (+1d to your dice pool) **and 1 Edge** (ignore 1 Complication), plus narrative permission for extraordinary feats that would normally be impossible or require extensive setup.
+> Spend 1 Momentum. Your action gains **1 Boon** (+1d to your dice pool) **and 1 Edge** (ignore 1 Complication).
 >
 > This is the primary way players spend Momentum during action resolution. It simultaneously boosts your dice pool and cuts through enemy defenses.
 
@@ -540,10 +540,10 @@ When you take a Potent Action, you gain two benefits:
 
 ### Potency vs Other Mechanics
 
-**Potency** = Improves Vantage + ignores 1 Complication  
+**Potency** = Improves Vantage + 1 Edge + narrative permission (from Talents)  
 **Boon** = Improves dice pool (+1d)  
-**Edge** = Ignores Complications (Potency grants this)  
-**Create an Opening** = 1 Boon + 1 Edge + narrative permission (Momentum spend)  
+**Edge** = Ignores Complications  
+**Create an Opening** = 1 Boon + 1 Edge (Momentum spend)  
 **Trait Invocation** = Special Effect on Conflict or better (separate from Potency)
 
 **They stack:** A Potent Action can have Boons, additional Edge, and Trait invocation applied to it.
@@ -604,6 +604,18 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 ### Multiple Sources
 
 **Potency does not stack.** Multiple sources that grant Potency on the same action only provide the benefit once (Vantage +1 tier, 1 Edge).
+
+### Push Yourself for Potency
+
+Some Talents allow you to "push yourself for a potent feat" (potent feat of strength, potent mystical grace, etc.). When you do this:
+
+**You gain both:**
+- **Push Yourself benefit:** 1 Boon (as normal for marking 1 Stress)
+- **Potency benefit:** Vantage +1 tier, 1 Edge, narrative permission
+
+**Net result:** Mark 1 Stress to gain Vantage +1 tier, 1 Edge, and 1 Boon. Powerful, but gated by Talent and Stress cost.
+
+> *Example: Monk has "Push yourself for a potent feat of mystical grace." She pushes to run across water (marks 1 Stress). Gains: Vantage improved from Impossible → Limited, 1 Edge (ignores guard's Vigilant), and 1 Boon (+1d). Rolls 4d6 (Grace 3 + 1 Boon) with 1 Bane (Limited).*
 
 ---
 

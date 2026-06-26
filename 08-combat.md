@@ -201,7 +201,7 @@ There are three ways to help allies during combat:
 **Examples:**
 
 **Physical Combat:**
-- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it to Create an Opening for his next attack (gains 1 Boon and 1 Edge, ignoring 1 Complication + narrative permission for extraordinary feat).
+- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it to Create an Opening for his next attack (gains 1 Boon and 1 Edge, ignoring 1 Complication).
 
 **Social Conflict:**
 - Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Create an Opening on her physical attack (gains 1 Boon and 1 Edge, ignoring his armor Complication).

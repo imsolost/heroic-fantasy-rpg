@@ -235,7 +235,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 - Grant Warrior: 1 Momentum
 
 **Warrior's Next Turn:**
-- Spends 1 Momentum on Create an Opening (gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), narrative permission)
+- Spends 1 Momentum on Create an Opening (gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication))
 - Roll 4d6 → Success
 - "Heavily Armored" ignored by Edge
 - Final: Mark 1 tick, clean Success (no consequence)

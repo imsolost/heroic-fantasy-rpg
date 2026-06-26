@@ -120,7 +120,7 @@ Catastrophic failure:
 **Effect:** Each Complication reduces outcome by 1 tier (Success → Conflict, Conflict → Setback, Setback → Disaster)
 
 **Counters:**
-- **Create an Opening** (spend 1 Momentum) → Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats
+- **Create an Opening** (spend 1 Momentum) → Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication)
 - **Create Advantage** (via Secondary Effect: free Defy) → Grant ally 1 Boon OR 1 Edge (player suggests, GM decides)
   - **Boon:** General advantage (flanking, distraction, high ground)
   - **Edge:** Bypass specific Complication (target armor gap, reveal hidden foe)
@@ -167,7 +167,7 @@ Catastrophic failure:
 - Enemy rolls Setback near you + you have "Opportunist" Talent → Gain 1 Momentum
 
 **Spend (choose one):**
-- **Create an Opening:** Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication), plus narrative permission for extraordinary feats
+- **Create an Opening:** Your action gains 1 Boon (+1d) and 1 Edge (ignore 1 Complication)
 - **Resist Consequence:** Automatically reduce Consequence Tier by 1 (no roll required)
 - **Assist:** Grant an ally 1 Boon on their next roll (mark 1 Stress, no action required)
 

@@ -442,7 +442,7 @@ Your action energizes and prepares for follow-up.
 
 ---
 
-**Note:** "Create Advantage" (via Secondary Effect: free Defy) grants ally 1 Boon OR 1 Edge. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously + narrative permission for extraordinary feats. Gaining both simultaneously remains premium—only from Momentum spends and specific Talents.
+**Note:** "Create Advantage" (via Secondary Effect: free Defy) grants ally 1 Boon OR 1 Edge. This is distinct from "Create an Opening" (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously. Gaining both simultaneously remains premium—only from Momentum spends and specific Talents.
 
 ---
 

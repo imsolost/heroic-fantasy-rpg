@@ -48,10 +48,10 @@ When you take a Potent Action, you gain two benefits:
 
 ### Potency vs Other Mechanics
 
-**Potency** = Improves Vantage (how hard to roll) + ignores 1 Complication  
+**Potency** = Improves Vantage + 1 Edge + narrative permission (from Talents)  
 **Boon** = Improves dice pool (+1d, affects outcome probability)  
-**Edge** = Ignores Complications (Potency grants this)  
-**Create an Opening** = 1 Boon + 1 Edge + narrative permission (Momentum spend)  
+**Edge** = Ignores Complications  
+**Create an Opening** = 1 Boon + 1 Edge (Momentum spend)  
 **Trait Invocation** = Special Effect on Conflict or better (separate from Potency)
 
 **They stack:** A Potent Action can have Boons, additional Edge, and Trait invocation applied to it.
@@ -201,9 +201,9 @@ When Potency improves your Vantage to Certain, you auto-succeed:
 > *Monk runs across water (Potent: Limited, 1 Edge). Ally assists (grants 1 Boon). Monk rolls 4d6 (Grace 3 + 1 Boon) with 1 Bane, ignoring 1 Complication.*
 
 **Potent Action + Create an Opening:**
-- Potency: Vantage +1 tier, 1 Edge
-- Create an Opening: 1 Boon, 1 Edge, narrative permission
-- Total: Vantage +1 tier, 2 Edge, 1 Boon
+- Potency: Vantage +1 tier, 1 Edge, narrative permission
+- Create an Opening: 1 Boon, 1 Edge
+- Total: Vantage +1 tier, 2 Edge, 1 Boon, narrative permission
 
 > *Sage casts Potent Fireball at warded dragon (Potent: Strong, 1 Edge). Spends 1 Momentum for Create an Opening (1 Boon, 1 Edge). Total: Strong Vantage, +1d, ignore 2 Complications (Warded + Resilient).*
 

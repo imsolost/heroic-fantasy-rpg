@@ -42,11 +42,11 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 ### Movement
 
-**Move to Near zone:** Free as part of your action (describe it in your approach)
+**When you make an action roll (Clash, Defy, Talk, etc.):** You can move to a Near zone as part of that action—describe it in your approach.
 
-**Move to Far zone:** Requires dedicated effort (your action is the sprint itself) OR Defy roll if contested
+**Moving without another action:** If you want to reposition (Near or Far) without taking another action, make a Defy roll to move safely under pressure.
 
-**Move through enemy zone:** Requires Defy roll (enemies try to intercept/block)
+**Moving through enemy zones:** Always requires a Defy roll (enemies try to intercept/block).
 
 **Example Zones:**
 - **Tavern brawl:** Bar area (Close), main floor (Near), kitchen (Near), street outside (Far)

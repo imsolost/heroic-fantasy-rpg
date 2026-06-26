@@ -76,15 +76,15 @@ You turn knowledge and preparation into decisive advantage.
 
 **Hunter's Sense:** When you Sense to assess a target or situation, a Conflict or higher result grants your next action related to what you learned 1 Boon and 1 Edge.
 
-**Hunter's Expertise:** You have Expertise (see Chapter 3) in Tracking, Trapping, and Wilderness Survival.
+**Hunter's Expertise:** You have Expertise (see Chapter 3) in tracking, trapping, and Wwlderness survival.
 
 ### Additional Talents
 
 **Beast Master [ ] [ ]**
-You have Expertise when calming, reading, or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Assist yourself or an ally (grants 1 Boon).
+You have Expertise when handling or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Assist yourself or an ally (grants 1 Boon).
 
 **Master Tracker**
-You have 1 Edge when tracking. When you successfully track a target, also learn one additional detail about them (how many, how long ago, their condition, their destination). Push Yourself to track something that should be impossible to follow.
+You have 1 Edge when tracking. When you successfully track a target, also learn one additional detail about them (how many, how long ago, their condition, their destination). Push Yourself to perform a Potent feat of tracking.
 
 **Monster Slayer**
 When you spend time studying a creature, ask: "What is its greatest weakness?" The GM answers honestly. Push Yourself to exploit that weakness with Potent effect.
@@ -284,7 +284,7 @@ You move through the world like a shadow — present, purposeful, and gone befor
 
 **From the Shadows:** When you act from a position of advantage — concealment, surprise, or superior knowledge — your action gains 1 Boon and 1 Edge.
 
-**Shadow's Expertise:** You have Expertise (see Chapter 3) in Stealth, Thievery, and Deception.
+**Shadow's Expertise:** You have Expertise (see Chapter 3) in stealth, thievery, and deception.
 
 ### Additional Talents
 

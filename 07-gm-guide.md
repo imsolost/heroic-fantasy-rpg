@@ -175,45 +175,23 @@ See **vantage.md** for complete Vantage framework and the Three Questions tool.
 
 **Vantage is your difficulty system.** It determines whether a player can attempt an action, if they need to roll, and how many Banes apply.
 
-### The Four Vantage Tiers
+**For complete Vantage framework with examples and edge cases, see [vantage.md](vantage.md).**
 
-**Certain** — Character has clear capability, proper tools, and task is trivial.
-- **No roll required.** Success is automatic.
-- *Example: Champion swinging weapon, Shadow picking simple lock with tools*
+### Quick Assessment (Three Questions)
 
-**Strong** — Character has capability and tools, but outcome is uncertain.
-- **Standard roll** (no modifier). This is the default for most action rolls.
-- *Example: Climbing rope with handholds, casting known spell, fighting competent enemy*
-
-**Limited** — Character lacks ideal tools/positioning OR task stretches capability.
-- **Roll with 1-2 Banes** (depending on severity).
-- **1 Bane:** Lacking proper tools, task at edge of capability, minor hindrances
-- **2 Banes:** No tools AND difficult task, multiple disadvantages stacking
-- *Example: Climbing sheer wall with gear (1 Bane), same wall without gear (2 Banes)*
-
-**Impossible** — Character lacks fundamental capability OR fiction doesn't support it.
-- **Cannot attempt.** Work with player to find different approach.
-- *Example: Casting spells without being spellcaster, attacking someone in another room*
-
-### Quick Assessment Process
-
-**Ask three questions:**
-
-1. **Can they attempt this?** (Do they have capability/tools/positioning?)
+**1. Can they attempt this?** (Do they have capability/tools/positioning?)
    - Yes → Proceed to question 2
    - No → Impossible
 
-2. **What's their Vantage?** (Given who they are and the situation)
-   - Certain → Auto-success (no roll)
-   - Strong → Standard roll
-   - Limited → 1-2 Banes
-   - Impossible → Cannot attempt
+**2. What's their Vantage?** (Given who they are and the situation)
+   - **Certain** → Auto-success (no roll)
+   - **Strong** → Standard roll (no modifier)
+   - **Limited** → 1-2 Banes
+   - **Impossible** → Cannot attempt
 
-3. **Is failure interesting?** (Would failure create drama/complications?)
+**3. Is failure interesting?** (Would failure create drama/complications?)
    - No → Don't roll, let it happen
    - Yes → Call for roll
-
-**See [Vantage](vantage.md) for complete framework, examples, collaborative conversation guidance, and edge cases.**
 
 ---
 
@@ -221,35 +199,19 @@ See **vantage.md** for complete Vantage framework and the Three Questions tool.
 
 **Stakes frame the danger of a scene—how severe the consequences will be.**
 
+**For complete Stakes calibration guide, see [stakes.md](stakes.md).**
+
 ### The Three Stakes Levels
 
-**Low Stakes** — Lighter territory. Reduce Consequence Tier by 1.
-- Conflict → Narrative consequence only (no Stress)
-- Setback → Minor Consequence (1 Stress)
-- *Example: Bar fight, training spar, questioned by friendly guard*
+**Low Stakes** — Reduce Consequence Tier by 1 (bar fight, training spar, friendly negotiation)
 
-**Regular Stakes** — Typical play. Standard consequences (default, no adjustment).
-- Conflict → Minor Consequence (1 Stress, lose position)
-- Setback → Major Consequence (2 Stress, Condition)
-- *Example: Sneaking through guarded warehouse, tense negotiation, combat vs bandits*
+**Regular Stakes** — Standard consequences (default, most scenes)
 
-**High Stakes** — Things are escalated. Increase Consequence Tier by 1.
-- Conflict → Major Consequence (2 Stress, Condition)
-- Setback → Severe Consequence (Taken Out, Burden)
-- *Example: Cornered by ogre, explaining actions to queen, boss fight with dragon*
+**High Stakes** — Increase Consequence Tier by 1 (boss fight, life-or-death situation, queen's judgment)
 
 ### Communicating Stakes
 
-**Most of the time, let fiction communicate stakes:**
-- "The dragon's eyes glow with ancient fury—its breath could turn you to ash"
-- "The queen's hand hovers near the executioner's bell"
-
-**For High Stakes, state it explicitly:**
-- "This is High Stakes—if you fail, you're Taken Out."
-
-**Regular Stakes is the default—no need to state it.**
-
-**See [Stakes](stakes.md) for complete calibration guide, when to adjust stakes, and how Stakes + Vantage combine.**
+**Let fiction communicate stakes** ("The dragon's breath could turn you to ash"). For High Stakes, state it explicitly: "This is High Stakes—if you fail, you're Taken Out."
 
 ---
 
@@ -654,70 +616,18 @@ When PC fails, **the situation changes**. Never leave them in the same spot with
 
 ---
 
-## Conditions: Fiction First
+## Conditions
 
-Conditions are **narrative consequences** with mechanical penalties. See [05-resilience.md](05-resilience.md) for complete rules.
+**Conditions are narrative consequences with mechanical penalties.** Each Condition has a name (Poisoned, Frightened, Wounded, etc.) and a tier (1-3) representing severity.
 
-### Named Conditions
+**For complete Condition rules, see Chapter 5: Resilience.**
 
-Conditions have a **name** and a **tier** (1-3):
-- Name describes the fictional state: Poisoned, Frightened, Blinded, Stunned, Wounded, etc.
-- Tier represents severity and duration
+**When to inflict Conditions as GM:**
+- **Minor Consequence (Conflict):** Inflict tier 1 Condition
+- **Major Consequence (Setback):** Inflict tier 2-3 Condition
+- **Challenge Moves:** Enemy abilities inflict Conditions directly (set tier based on move's power)
 
-**Each Condition applies 1 Bane to all action rolls** (unless clearly inapplicable).
-
-**Multiple Conditions stack:** Each applies 1 Bane. (Subject to the universal ±2d pool modifier cap—see Chapter 2.)
-
-**Tracking:** "Poisoned 2" or "Frightened 1"
-
-### When to Inflict Conditions
-
-**From Challenge Moves:**
-- Enemy abilities inflict Conditions directly (dragon's fear aura, poison attack, crushing blow)
-- Set name and tier based on the move's power (1-3)
-
-**From Impact Moves:**
-- Inflict a Condition (tier 1) instead of or alongside marking Stress as a consequence
-
-**From Stress Overflow:**
-- When PC's Stress track is full and they would mark more Stress, they take a Burden instead (see Chapter 5 for Burden rules)
-
-**Same Condition inflicted again:**
-- Refreshes to original tier (does not escalate)
-- Poisoned 2 + Poisoned again = still Poisoned 2
-
-### Condition Recovery
-
-**Through Action:** Each relevant roll reduces tier by 1 (tier reaches 0 = cleared)
-
-**Through Short Rest:** All Conditions clear after 1 hour in a safe location
-
-**Through Trait Special Effects:** Secondary Effect can reduce one relevant Condition by 1 tier
-
-### Common Condition Names
-
-**Physical:** Poisoned, Burned, Blinded, Stunned, Bleeding, Weakened, Slowed, Exhausted
-
-**Mental/Emotional:** Frightened, Enraged, Confused, Charmed, Demoralized, Distracted
-
-**Positional/Tactical:** Prone, Disarmed, Grappled, Pinned, Exposed, Off-Balance
-
-### Fictional Examples
-
-**Tier 1:**
-- "Your shoulder aches where the club struck it" (Wounded 1)
-- "Your hands tremble slightly" (Frightened 1)
-- "You're breathing hard, sweat stinging your eyes" (Exhausted 1)
-
-**Tier 2:**
-- "Your ribs are cracked — each breath is agony" (Wounded 2)
-- "The dragon's roar echoes in your mind — you want to flee" (Frightened 2)
-- "The toxin courses through your veins, making every movement sluggish" (Poisoned 2)
-
-**Tier 3:**
-- "The sword has run you through — you're losing blood fast" (Bleeding 3)
-- "You're paralyzed with terror, unable to think clearly" (Frightened 3)
-- "Your arm hangs useless, bone clearly broken" (Wounded 3)
+**Common Conditions:** Poisoned, Frightened, Wounded, Stunned, Blinded, Exhausted, Charmed, Prone, Disarmed
 
 ---
 

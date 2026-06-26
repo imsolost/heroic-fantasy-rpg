@@ -203,7 +203,6 @@ You achieve what you set out to do. No consequences unless the fiction demands i
 - Achieve your intent (same as Success)
 - Gain 1 Momentum
 - Ignore all Complications (cannot be reduced)
-- If a Trait is narratively relevant, you may invoke it for one Special Effect
 
 ---
 
@@ -325,17 +324,17 @@ When resolving an Action Roll with Complications and Expertise, follow this orde
 
 **Example 1: Expertise + 2 Complications**
 
-Bladedancer (Expertise: Heavy Blades) attacks Armored Knight (2 Complications)
+Bladedancer (Expertise: Heavy Blades) attacks an Armored Knight (1 Complication)
 
 - **Roll:** Success
-- **After Complications:** Success → Conflict → Setback
+- **After Complications:** Conflict → Setback
 - **Apply Expertise:** Setback outcome → Conflict outcome (you succeed!)
 - **Base Consequence:** Conflict = Minor Consequence
 - **Final Result:** Mark 1 tick on Harm track + Minor Consequence (mark 1 Stress)
 
 ---
 
-**Example 2: Expertise + 3 Complications (Including Deadly)**
+**Example 2: Expertise + 3 Complications**
 
 Bladedancer (Expertise: Heavy Blades) attacks War Troll (Resilient, Deadly, Resolute)
 

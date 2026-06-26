@@ -33,7 +33,7 @@ When you cast a spell, follow the standard **Action Roll** procedure (see Chapte
 **2. GM Assesses**
 - Is this within your touchstones?
 - What magnitude is this? (Cantrip/Spell/Potent Spell — see below)
-- What difficulty applies? (Standard/Hard/Very Hard)
+- What Vantage applies? (Strong/Limited/Impossible — see Chapter 4)
 - Any Complications from the target?
 - What happens on Conflict or Setback?
 
@@ -591,11 +591,11 @@ Pattern sphere can reveal magical presence and details.
 This is a **Talent ability**, not a default spellcasting capability. Without the appropriate Talent, you can only Defy to resist magic—you cannot counter or dispel it.
 
 **Example Counterspell Talent:**
-> **Counter-Spell** — When targeted by hostile magic, you may roll **Defy + Cunning** to unravel the spell as it's cast. On Success, the spell is negated before it takes effect.
+> **Counter-Spell** — When targeted by hostile magic, you may roll **Defy using Cunning** to unravel the spell as it's cast. On Success, the spell is negated before it takes effect.
 
 **Dispelling active magic (with appropriate Talent or touchstone):**
 - Requires appropriate touchstone (Pattern sphere, abjuration magic, or counterspell Talent)
-- Roll **Defy + Spirit** to overcome the magic through willpower (treat as Obstacle track), or **Defy + Cunning** if using analytical techniques
+- Roll **Defy using Spirit** to overcome the magic through willpower (treat as Obstacle track), or **Defy using Cunning** if using analytical techniques
 - **Simple spell:** Overcome immediately on Success
 - **Potent spell or ward:** Requires progress track (2-4 ticks)
 - **Ritual effect:** Very difficult (6+ tick track or requires counter-ritual)
@@ -682,7 +682,7 @@ Structure rites as **progress tracks** or **required actions:**
 - **Rites:**
   - Travel to the Temple of Death (journey, separate scene)
   - Gather the ingredients (adventure, quest)
-  - Perform the casting during the new moon (6-tick Obstacle track, Defy + Spirit)
+  - Perform the casting during the new moon (6-tick Obstacle track, Defy using Spirit)
   - Summon the god's envoy to petition for the king's soul (Talk with Spirit to convince)
 
 **3. PCs gather anchors** (this may take multiple sessions — acquiring rare components is adventure content)

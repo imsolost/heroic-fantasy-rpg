@@ -164,8 +164,6 @@ You may invoke your Trait to gain one Special Effect:
 
 **If your final outcome is Setback:** Cannot invoke Trait (you failed).
 
-**If you achieved Triumph:** You gain Momentum + ignore Complications + may invoke Trait for one Special Effect.
-
 ---
 
 ### 7. Resolve Final Outcome
@@ -370,7 +368,7 @@ Any character attacks enemy with 3 Complications
 
 - **Roll:** Triumph
 - **Complications:** Ignored (Triumph cannot be reduced)
-- **Result:** Clean success + gain 1 Momentum + may invoke Trait for Special Effect
+- **Result:** Clean success + gain 1 Momentum + ignore all Complications
 
 ---
 
@@ -593,7 +591,17 @@ Use a Progress Track when the opposition has **narrative significance**:
 
 ### Action-Specific Effects
 
-Each Action has a core function and specific effects available on Triumph:
+Each Action has a core function and specific effects. All Actions use the same four outcomes:
+
+**Universal Outcomes:**
+- **Setback (all 1-3):** Fail to achieve intent + Major Consequence
+- **Conflict (any 4-5):** Achieve intent + Minor Consequence
+- **Success (any 6):** Achieve intent cleanly
+- **Triumph (two+ 6s):** Achieve intent + gain 1 Momentum + ignore all Complications
+
+**On Conflict or higher, you may invoke your Trait for one Special Effect** (see Step 6: Invoke Trait above).
+
+**The sections below describe what each Action's Primary Effect accomplishes and what consequences typically look like for that Action.**
 
 ---
 
@@ -640,11 +648,9 @@ The primary effect of your success depends on your stated intent:
 - Observing/investigating → Use **Sense**
 - Recalling information → Use **Know**
 
-**Outcomes:**
-- **Setback:** Fail to achieve intent + you face Major Consequence
-- **Conflict:** Achieve intent + you face Minor Consequence
-- **Success:** Achieve intent cleanly
-- **Triumph:** Achieve intent + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+**Common Consequences:**
+- **Setback:** Danger strikes (enemy counterattacks, trap springs, fall), lose position dramatically, become exposed/vulnerable
+- **Conflict:** Mark 1 Stress, partial success creates complication (noticed while pickpocketing, lose leverage after grapple, enemy repositions)
 
 **Examples:**
 - "The knight swings at you!" → Defy to dodge → Success → You avoid his blade cleanly
@@ -746,11 +752,9 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 
 **GM Note:** The GM is the final arbiter. Some targets may be immune or resistant to certain types of harm (e.g., a golem has no Will track — social Clash is ineffective; a knight with "Iron Discipline" might impose Complications on social Clash attempts).
 
-**Outcomes:**
-- **Setback:** Mark 0 ticks + you face Major Consequence (enemy deals harm, you lose position, situation worsens)
-- **Conflict:** Mark 1 tick on Harm or Will (or outright defeat weak foes) + you face Minor Consequence (enemy counterattacks, you're pressured, mark Stress)
-- **Success:** Mark 1 tick on Harm or Will (or outright defeat weak foes) cleanly
-- **Triumph:** Mark 1 tick on Harm or Will + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+**Common Consequences:**
+- **Setback:** Enemy counterattacks (mark 2 Stress or Condition tier 2-3), you lose position, situation escalates dramatically
+- **Conflict:** Enemy strikes back or pressures you (mark 1 Stress or Condition tier 1), you're exposed or off-balance
 
 **Track vs Outright Defeat:**
 - **Use Track:** Significant enemies requiring multiple hits (named NPCs, boss enemies, veterans)
@@ -794,11 +798,9 @@ Both Talk and social Clash can mark the **Will track**, but produce fundamentall
 
 **See the Clash - Harm section above for the detailed comparison table.**
 
-**Outcomes:**
-- **Setback:** Mark 0 ticks + you face Major Consequence (they're offended, call guards, situation worsens dramatically)
-- **Conflict:** Mark 1 tick on Will (or outright convince lesser creatures) + you face Minor Consequence (they demand something, you reveal information, you lose standing)
-- **Success:** Mark 1 tick on Will (or outright convince lesser creatures) cleanly
-- **Triumph:** Mark 1 tick on Will + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect
+**Common Consequences:**
+- **Setback:** They're offended or angered (call guards, slam door, spread rumors), situation escalates dramatically, you lose credibility
+- **Conflict:** They demand something in return, you reveal information you didn't intend to, you lose social standing, takes much longer
 
 **Track vs Outright Convince:**
 - **Use Track:** Complex social goals, hostile NPCs, faction standing (3-10 ticks)
@@ -834,11 +836,9 @@ Use when:
 - Sizing up an opponent or threat
 - Understanding what's really happening in the moment
 
-**Outcomes:**
-- **Setback:** 0 questions + you face Major Consequence (you're spotted, danger revealed, misleading impression)
-- **Conflict:** 2 questions + you face Minor Consequence (takes time, enemy notices, partial information creates complication)
-- **Success:** 2 questions
-- **Triumph:** 2 questions + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect (Greater Effect = 4 questions total)
+**Common Consequences:**
+- **Setback:** You're spotted while observing, danger revealed/triggered by your investigation, you gain misleading impression that creates danger
+- **Conflict:** Takes time (enemy acts first, situation shifts), enemy notices your scrutiny, partial information creates complication
 
 **Possible questions (about the present situation):**
 - What recently happened or is about to happen?
@@ -883,11 +883,9 @@ Use when:
 
 **Know vs Sense:** Know is for recalling PAST facts, lore, or deducing from existing knowledge. Sense is for observing the PRESENT situation. "What do I know about dragons?" = Know. "What is this dragon doing right now?" = Sense.
 
-**Outcomes:**
-- **Setback:** No useful information + you face Major Consequence (you misremember critically, waste crucial time, alert danger)
-- **Conflict:** GM tells you one specific, actionable thing + you may ask one clarifying question + Minor Consequence (takes time, reveals your interest, information creates complication)
-- **Success:** GM tells you one specific, actionable thing + you may ask one clarifying question
-- **Triumph:** GM tells you one specific, actionable thing + you may ask one clarifying question + gain 1 Momentum + ignore all Complications + may invoke Trait for Special Effect (Greater Effect = significantly more information + 2 clarifying questions)
+**Common Consequences:**
+- **Setback:** You misremember critically (false information leads you into danger), waste crucial time, alert danger through investigation
+- **Conflict:** Takes significant time (situation shifts), reveals your interest to observers, information itself creates complication
 
 **Examples:**
 - Recall fire elemental weaknesses → Success → GM: "They're vulnerable to cold iron—your weapon will cut through them easily." You: "How do I exploit that?" GM: "Strike when they're manifesting physically, not in flame form."
@@ -1129,10 +1127,10 @@ This creates:
 2. GM telegraphs stakes (Vantage, consequences, Complications)
 3. Roll dice (Approach + Boons - Banes)
 4. Apply Complications (reduce outcome tier, Triumph ignores all)
-5. Resolve outcome + invoke Trait for Special Effect if Conflict+
+5. Resolve outcome + invoke Trait for Special Effect if Conflict or higher
 
 **Outcomes:**
-- **Triumph** (two+ 6s): Full effect + Momentum + ignore Complications + may invoke Trait
+- **Triumph** (two+ 6s): Full effect + Momentum + ignore all Complications
 - **Success** (one 6): Achieve intent cleanly
 - **Conflict** (4-5): Achieve intent + Minor Consequence
 - **Setback** (1-3): Fail + Major Consequence
@@ -1167,7 +1165,7 @@ This creates:
 - Setback = fail to defend + Major Consequence (take Stress/Condition)
 - Conflict = defend successfully + Minor Consequence (lose position, pressured)
 - Success = avoid cleanly
-- Triumph = avoid + Momentum + ignore Complications + may invoke Trait
+- Triumph = avoid + Momentum + ignore all Complications
 
 **Resisting Your Own Consequences:**
 - Spend 1 Momentum → Automatically reduce Consequence Tier by 1 (no roll required)

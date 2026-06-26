@@ -108,8 +108,6 @@ Sages structure their magic through **Spheres of Power** — fundamental forces 
 
 **Energy** — Thermal, elemental, kinetic, and arcane forces
 
-The Energy sphere encompasses all forms of energetic phenomena: the heat of flames, the crushing force of telekinesis, the crackle of lightning, and the raw arcane power of pure magical energy. It also includes negative energy - the void that drains life and light.
-
 **Energy Types:**
 - **Elemental:** Fire, cold, lightning, acid, thunder
 - **Kinetic:** Force blasts, crushing pressure, telekinetic push/pull
@@ -162,18 +160,9 @@ This is the wizard's wizard sphere — abstract, intellectual, and deeply arcane
 - Break enchantments (unweave magical bindings)
 - Understand the weave (perceive underlying magical structure)
 
-**Why Pattern is Different:**
+**Why Pattern is Different:** Other spheres ask "What do I affect?" (Body = living tissue, Energy = forces, Matter = physical substance). Pattern asks "How does magic itself work?" It manipulates the arcane itself, not reality directly.
 
-Other spheres ask: "What do I affect?"
-- Body = living tissue
-- Energy = forces and phenomena
-- Matter = physical substance
-
-Pattern asks: "How does magic itself work?"
-
-It's the sphere of understanding, manipulation, and unraveling the arcane itself.
-
-- **Cannot:** Direct damage (except to magical constructs), heal, create physical objects
+**Cannot:** Direct damage (except to magical constructs), heal, create physical objects
 
 **The Nine Operations:**
 
@@ -311,9 +300,7 @@ Cantrips are trivial magical effects — parlor tricks, conveniences, and minor 
 - Mend a torn cloth
 - Levitate a coin
 
-**When to use:** If the effect is purely atmospheric, convenient, or wouldn't influence the situation's outcome, it's a cantrip — no roll needed.
-
-**Cantrips are unlimited and require no roll.** They're primarily set dressing and should feel like second nature to a spellcaster. Use them freely to establish magical atmosphere, solve trivial problems, and showcase your character's supernatural nature.
+**When to use:** If the effect is purely atmospheric, convenient, or wouldn't influence the situation's outcome, it's a cantrip — no roll needed. Use them freely to establish magical atmosphere, solve trivial problems, and showcase your character's supernatural nature.
 
 ---
 
@@ -369,13 +356,6 @@ You cannot stack multiple enhancements — choose one per Potent Spell.
 - Potent + Affect Multiple Targets: Create 2-3 walls or one much larger wall
 - Potent + Secondary Consequence: Wall + creates difficult terrain (Hindered 1 Condition to those nearby)
 
-**Lightning Bolt (Energy + Destroy):**
-- Normal Spell: Mark 1 tick on Harm track against single target
-- Potent + Greater Effect: Mark 2 ticks on Harm track against single target
-- Potent + Affect Multiple Targets: Mark 1 tick on small group
-- Potent + Secondary Consequence: Mark 1 tick + inflict Stunned 1 Condition
-- Potent + Increased Duration: N/A (instantaneous effect)
-
 **Charm Person (Mind + Bind):**
 - Normal Spell: Mark 1 tick on Will track against single target, lasts 1-2 actions
 - Potent + Greater Effect: Mark 2 ticks on Will track against single target
@@ -396,8 +376,6 @@ You cannot stack multiple enhancements — choose one per Potent Spell.
 - Roll normally (no automatic Banes unless GM rules the situation is Hard)
 
 **When to use:** When the spell's scope exceeds "solve an immediate problem" and enters "dramatically alter the scene or situation."
-
-**Why cost Stress?** Potent spells are dramatic and powerful. The Stress cost represents the magical strain of channeling such vast energies. Even on Success, you've pushed yourself. This makes Potent spells feel weighty and significant — not something you cast lightly.
 
 ---
 

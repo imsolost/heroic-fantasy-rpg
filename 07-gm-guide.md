@@ -685,6 +685,16 @@ For scene-duration debuffs (Potent Spell + Duration), use different marker:
 
 **Don't hoard Suspense.** Spend it to create drama, pressure, and memorable moments. Empty Suspense pool = calm before the storm.
 
+### Player Option: Seize Spotlight
+
+**Players can also interact with initiative by spending Momentum:**
+
+**Seize Spotlight (1 Momentum):** Immediately take your turn before the current spotlight holder acts. This is your normal turn—it doesn't grant an additional action later.
+
+**Example:** Kael sees the orc warboss winding up for a devastating attack on Mira. He spends 1 Momentum to Seize Spotlight and intercepts the blow before it lands.
+
+**Timing:** Declare at any time when another PC has the spotlight or when an enemy is about to act (after a Suspense Move but before an Impact Move resolves).
+
 ---
 
 ## Consequence Calibration Guide

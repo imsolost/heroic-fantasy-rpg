@@ -30,7 +30,7 @@ You can use the Champion calling to play all kinds of martial experts. You can b
 You gain 1 Edge when you Defy in battle. Mark this to Push Yourself in battle without spending Stress, or to Resist a Consequence caused by physical harm, exhaustion, or environmental danger without spending Momentum.
 
 **Combat Instinct**
-When you first enter a conflict, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
+When you first enter a tense situation, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
 
 **Defy Death [ ] [ ]**
 When you would be Taken Out, you may instead mark this to remain in the fight with 1 Stress remaining. Push Yourself to stay standing through a consequence that would floor anyone else.
@@ -76,12 +76,12 @@ You turn knowledge and preparation into decisive advantage.
 
 **Hunter's Sense:** When you Sense to assess a target or situation, a Conflict or higher result grants your next action related to what you learned 1 Boon and 1 Edge.
 
-**Hunter's Expertise:** You have Expertise (see Chapter 3) in tracking, trapping, and Wwlderness survival.
+**Hunter's Expertise:** You have Expertise (see Chapter 3) in tracking, trapping, and wilderness survival.
 
 ### Additional Talents
 
 **Beast Master [ ] [ ]**
-You have Expertise when handling or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Assist yourself or an ally (grants 1 Boon).
+You have Expertise when calming, reading, or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Assist yourself or an ally (grants 1 Boon).
 
 **Master Tracker**
 You have 1 Edge when tracking. When you successfully track a target, also learn one additional detail about them (how many, how long ago, their condition, their destination). Push Yourself to perform a Potent feat of tracking.
@@ -304,7 +304,7 @@ You have Expertise when hiding, infiltrating, escaping notice, or bypassing secu
 When you enter a new location — a building, a city district, a criminal organization — you may mark this to ask the GM: "Who here owes me a favor, fears me, or can be bought?" The GM answers honestly with at least one name.
 
 **Lightning Reflexes**
-You can always act first in a conflict unless completely surprised. Push Yourself to act first even when surprised.
+You can always act first, unless completely surprised. Push Yourself to act first even when surprised.
 
 **Opportunist**
 When you exploit a weakness, distraction, or opening, you can perform an action that would normally require extensive setup — lifting a key mid-conversation, planting evidence during a search, slipping past a guard in the moment they look away.

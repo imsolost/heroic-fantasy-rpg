@@ -158,56 +158,21 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 
 ---
 
-## Helping Allies
+## Working Together in Combat
 
-There are three ways to help allies during combat:
+**For complete rules on helping allies, see Chapter 2: Working Together.**
 
-### Quick Assist (Mark 1 Stress)
+Key options in combat:
 
-**When:** Any time an ally is about to roll
+**Assist (Mark 1 Stress):** Grant ally 1 Boon on their roll before they roll. Doesn't consume your action—describe how you're helping ("I shout a warning!" or "I steady your aim!").
 
-**Cost:** Mark 1 Stress
+**Push Yourself (Mark 1 Stress):** Gain 1 Boon on your own roll. Declare before rolling.
 
-**Effect:** Grant ally 1 Boon on their roll
+**Setup (Your Action):** Use your action to create an opening for an ally's follow-up. GM grants them 1 Boon on their next related action at no cost.
 
-**Limits:**
-- You must be in a fictional position to help (can see them, can shout to them, can physically reach them)
-- An ally can only receive **one Quick Assist per roll** (multiple allies cannot stack Quick Assists)
+**Build Momentum (Trait Special Effect):** When you invoke a Trait for Build Momentum, grant 1 Momentum to yourself or an ally. They can spend it to Create an Opening (1 Boon + 1 Edge) or Resist Consequence.
 
-**Example:** "I shout a warning to Kael as the orc swings!" → Mark 1 Stress, Kael gains 1 Boon on Defy roll
-
-**Advantage:** Doesn't consume your action, immediate
-
-### Use Your Action to Aid
-
-**When:** On your turn
-
-**Cost:** Your action
-
-**Effect:** Ally gains Boon on their next roll against the target
-
-**Example:** "I reposition to flank the knight so Mira can strike from behind." → Mira gains Boon on her next Clash
-
-**Advantage:** No Stress cost, creates clear fictional setup
-
-### Build Momentum (Trait Special Effect)
-
-**When:** You invoke a Trait (on Conflict or Success)
-
-**Cost:** Forgo other Special Effects (Greater Effect or Secondary Effect)
-
-**Effect:** Grant 1 Momentum to yourself or ally
-
-**Examples:**
-
-**Physical Combat:**
-- Aria invokes "Tactical Commander" on a successful Clash (physical) → grants Finn 1 Momentum. Finn spends it to Create an Opening for his next attack (gains 1 Boon and 1 Edge, ignoring 1 Complication).
-
-**Social Conflict:**
-- Kael invokes "Silver Tongued" on a successful Clash (social — taunting the enemy captain) → grants Mira 1 Momentum. The captain is rattled by Kael's insults (marks 1 tick on his **Will track**), and Mira uses the Momentum to Create an Opening on her physical attack (gains 1 Boon and 1 Edge, ignoring his armor Complication).
-- Finn invokes "Inspirational Presence" on a successful Talk roll convincing the noble → grants the party 1 Momentum. The noble is warming to their cause (marks 1 tick on his **Will track**).
-
-**Advantage:** Enables big heroic moments via Create an Opening
+**Multiple allies can Assist the same roll** (each marking 1 Stress), but the +2 Boon cap still applies.
 
 ---
 
@@ -342,7 +307,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 **Warboss:** Counterattacks → Kael Defy → Setback → Mark 2 Stress, knocked Prone (GM gains 1 Threat)
 
-**Mira:** Quick Assists Kael (mark 1 Stress to grant Boon)
+**Mira:** Assists Kael (mark 1 Stress to grant Boon)
 
 **Kael:** Defy to recover with Boon → Success → Stands, avoids follow-up
 
@@ -375,7 +340,7 @@ Last orc flees
 **Tactical Choices Highlighted:**
 - Ryn used Sense to create Opening (bypassed "Armored" ability)
 - Kael spent Momentum to Seize Spotlight (act out of turn)
-- Mira used Quick Assist to save Kael (mark Stress for Boon)
+- Mira used Assist to save Kael (mark Stress for Boon)
 - GM used Threat from Kael's Setback (but chose to hold it)
 - Positioning mattered (Close vs Near zones)
 - Triumph bypassed orc's counterattack opportunity

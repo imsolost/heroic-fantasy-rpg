@@ -506,6 +506,106 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 ---
 
+## Potent Actions
+
+**Potent Actions allow you to attempt extraordinary feats beyond normal adventurer capability.** Potency comes from Talents, magical rituals, or special circumstances that explicitly grant "Potent" on a specific type of action (Potent Spell, Potent Feat of Strength, Potent Sermon, etc.).
+
+### What Potency Grants
+
+When you take a Potent Action, you gain two benefits:
+
+**1. Improve Vantage by 1 tier:**
+- **Impossible → Limited:** You can now attempt the action (with Banes)
+- **Limited → Strong:** Remove difficulty Banes from the action
+- **Strong → Certain:** Auto-success if straightforward
+
+**2. Gain 1 Edge** (ignore 1 Complication on this action)
+
+**Narrative Permission:** Potency also grants fictional permission for incredible feats:
+- **Group-scale:** Affect multiple targets or accomplish what a team could do (lift a boulder, volley of arrows, incite mutiny)
+- **Stretching limits:** Beyond normal mortal capability (leap a massive gap, endure fire, tell ridiculous lies)
+- **Mystical:** Supernatural effects within your domain (befriend a wild tiger, run across water, manifest divine glory)
+
+### How It Works
+
+**1. Declare Potent Action:** Activate the Talent or condition that grants Potency
+
+**2. Assess Improved Vantage:** GM determines your normal Vantage, then improve it by 1 tier
+
+**3. Apply Edge:** If the Challenge has Complications, your 1 Edge ignores 1 of them (choose which)
+
+**4. Roll (if needed):** If Strong or Limited, roll normally. If Certain, auto-succeed.
+
+**5. Resolve Outcome:** Apply results normally. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
+
+### Potency vs Other Mechanics
+
+**Potency** = Improves Vantage + ignores 1 Complication  
+**Boon** = Improves dice pool (+1d)  
+**Edge** = Ignores Complications (Potency grants this)  
+**Create an Opening** = 1 Boon + 1 Edge + narrative permission (Momentum spend)  
+**Trait Invocation** = Special Effect on Conflict or better (separate from Potency)
+
+**They stack:** A Potent Action can have Boons, additional Edge, and Trait invocation applied to it.
+
+### When Vantage Becomes Certain
+
+When Potency improves your Vantage to Certain, you auto-succeed if the action is straightforward.
+
+**GM may rule the action remains Strong** if circumstances are still challenging (windstorm, injury, complex environment).
+
+**Edge is irrelevant for Certain actions** since you auto-succeed without rolling.
+
+### Examples
+
+**Monk Runs Across Water (Potent Feat of Mystical Grace):**
+- Normal: Impossible
+- With Potency: Limited (1 Bane) + 1 Edge
+- Guards shoot arrows (Vigilant)
+- Edge ignores Vigilant
+- Rolls with 1 Bane only
+- Success → crosses the pond + can invoke Trait for Secondary Effect
+
+**Cleric Converts Goblins (Potent Sermon):**
+- Normal: Impossible (goblins immune to religious appeals)
+- With Potency: Limited (2 Banes) + 1 Edge
+- Goblin chief has Resolute
+- Edge ignores Resolute
+- Rolls with 2 Banes only
+- Conflict → converts some goblins, chief becomes hostile
+
+**Barbarian Arm-Wrestles Ogre (Potent Feat of Strength):**
+- Normal: Limited (2 Banes - size disadvantage)
+- With Potency: Strong + 1 Edge
+- Ogre has Deadly
+- Edge ignores Deadly
+- Rolls normally
+- Success → slams ogre's arm down + can invoke Trait for Greater Effect
+
+**Sage Casts Potent Fireball at Warded Enemy:**
+- Normal: Strong (standard spell)
+- With Potency: Certain + 1 Edge
+- Enemy has Warded
+- Auto-succeeds (Certain), Edge not needed
+- Hits target, marks ticks
+
+### Combining with Other Mechanics
+
+**Potent Action + Boons:** Both apply
+
+> *Monk runs across water (Potent: Limited + 1 Edge). Ally assists (+1 Boon). Rolls 4d6 with 1 Bane, ignoring 1 Complication.*
+
+**Potent Action + Create an Opening:** Vantage +1 tier, 2 Edge total, 1 Boon
+
+> *Sage casts Potent Fireball at warded dragon (Strong + 1 Edge). Spends Momentum for Create an Opening (+1 Boon, +1 Edge). Total: Strong, +1d, ignore 2 Complications.*
+
+**Potent Action + Trait Invocation:** Potency doesn't grant free Special Effects. Roll Conflict or better → invoke Trait as normal.
+
+### Multiple Sources
+
+**Potency does not stack.** Multiple sources that grant Potency on the same action only provide the benefit once (Vantage +1 tier, 1 Edge).
+
+---
 
 ## Design Principles
 

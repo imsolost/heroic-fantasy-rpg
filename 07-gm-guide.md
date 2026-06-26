@@ -1029,6 +1029,129 @@ Minions should go down fast. Reserve complex fights for bosses.
 
 ---
 
+## Social Conflict
+
+**Will tracks represent mental and emotional resistance** — the adversary's composure, determination, and resolve to resist social pressure. When a Will track fills, their resistance collapses.
+
+### When Will Depletion Happens
+
+The GM narrates the outcome based on the situation and the adversary's nature. Common outcomes:
+
+**Flight** — They break and flee, unable to maintain composure  
+**Surrender** — They yield, unwilling or unable to continue resisting  
+**Concession** — In a social conflict, they accept your position or grant your request  
+**Breakdown** — Emotional collapse, temporarily unable to act coherently  
+**Desperate Action** — Some adversaries lash out rather than yield
+
+**Telegraph the likely outcome before the Will track fills** so players know what they're working toward: "The captain is sweating now, his confidence clearly shaken — one more push and he'll break."
+
+### What Social Conflict Can Achieve
+
+Filling a Will track represents overcoming resistance in this specific moment — not mind control. Achievable outcomes:
+
+**Concession** — They accept your position in this matter ("You're right about the trade route")  
+**Cooperation** — They work with you on a specific goal ("I'll help you infiltrate the fortress")  
+**Surrender** — They yield to your demands right now ("I drop my weapon and surrender")  
+**Withdrawal** — They disengage rather than continue ("I'll leave rather than face you")  
+**Temporary Agreement** — They go along with your request for now ("Fine, safe passage for today")
+
+**Out-of-Bounds Outcomes:**
+
+Filling a Will track typically doesn't achieve:
+- Core belief changes ("The devout priest now worships your god")
+- Permanent loyalty shifts ("They'll never oppose you again") 
+- Identity rewrites ("The lifelong enemy now considers you a friend")
+
+**These require magic, Talents, or long-term roleplay investment** — multiple scenes, favors granted, trust built over time. The Will track got you to the negotiating table; building the relationship happens through play.
+
+### Talk vs Clash for Will Tracks
+
+Both can mark Will, but the fictional approach differs:
+
+**Talk** (persuasion, negotiation, influence):
+- Win someone over through reason, emotion, shared interests
+- When successful, they **agree** or **become allied**
+- *"We should work together against the real threat"*
+
+**Clash** (intimidation, taunts, psychological pressure):
+- Break them down through aggression, insults, fear
+- When successful, they're **broken**, **flee**, or **surrender**
+- *"Your soldiers are dead, your castle burns — yield or join them!"*
+
+Both mark Will, different outcomes: Talk = convinced (positive relationship possible), Clash = defeated socially (negative relationship, coerced).
+
+**Switching Tactics Mid-Track:**
+
+By default, switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at their resolve regardless of method.
+
+If the switch creates obvious fictional contradiction (building trust via Talk → suddenly threatening via Clash):
+- Impose 1 Bane on the new approach (target is confused/resistant)
+- Or require narrative justification ("After building rapport, I use that trust to deliver the threat with weight")
+- Only in extreme cases: declare previous progress lost (rare)
+
+### Complications on Will Tracks
+
+Will-based Complications represent psychological defenses:
+
+**Resolute** — Disciplined, stubborn, faithful (applies to persuasion, intimidation, interrogation, magical influence)  
+**Vigilant** — Well-informed, suspicious (applies to deception, lies, hidden motives)
+
+Handle these like physical Complications — players can Create an Opening (Momentum), exploit weaknesses, or use teamwork to overcome.
+
+---
+
+## Boss Design
+
+Boss encounters should require **team coordination** and **multiple actions**.
+
+**Elements of Boss Design:**
+
+### High Tier + Multiple Traits
+- CR 3-4 baseline
+- 2-3 Complications
+- Exploitable weakness or contextual vulnerability
+
+### Longer Track
+- 8-10 ticks instead of 6
+- Creates multi-round engagement
+
+### Challenge Moves
+- Special abilities used as Impact Moves
+- "Frightening Presence" — Inflict Frightened 2 on all PCs
+- "Phase Change" — At 50% track, change tactics or gain new Trait
+- Lair actions (collapsing ceiling, rising lava, reinforcements)
+
+### Environmental Factors
+- Hazardous terrain (impose Banes or Complications)
+- Dynamic battlefield (objectives beyond "kill the boss")
+
+**Example Boss: Ancient Lich**
+- **CR 4**
+- **Tracks:** Harm 10, Will 8, Obstacle 6
+  - **Harm:** Physical destruction (very durable undead body)
+  - **Will:** Breaking its grip on this plane (strong but possible with holy/divine persuasion)
+  - **Obstacle:** Finding and destroying phylactery (hidden, warded)
+- **Complications:**
+  - Resilient - undead resilience (resists mundane harm; holy/divine attacks negate)
+  - Warded - ancient arcane protections
+  - Complex - lair defenses (applies to bypassing traps/obstacles)
+- **Exploitable:** Phylactery (destroying it via Obstacle track removes Resilient entirely)
+- **Challenge Moves:**
+  - **Deathly Aura** (Passive) - All PCs mark 1 Stress at start of each round
+  - **Raise Dead [□□□]** - Summon 2-tick minion in Near range (3 uses)
+  - **Soul Drain [□□]** - Target marks 2 Stress + Exhausted 2 (Burden) (2 uses)
+
+**How PCs defeat it:**
+
+1. **Direct combat (Harm 10):** Long, brutal fight — requires holy weapons to bypass Resilient, teamwork to overcome Warded
+2. **Banishment ritual (Will 8):** Divine/holy ritual to sever its connection to this plane
+3. **Destroy phylactery (Obstacle 6):** Find hidden phylactery, bypass wards, destroy it → removes Resilient
+4. **Mixed approach (optimal):** Split party — some distract Lich, others find phylactery → once destroyed, coordinated assault finishes it
+
+**Design Note:** Multiple tracks create **strategic depth** — players must choose which victory condition to pursue, or split resources. Destroying phylactery makes other approaches easier.
+
+---
+
 ## Challenges: Structured Complex Scenes (Grimwild Pattern)
 
 When PCs face complex situations (escape, heist, ritual, negotiation), use the **Challenge** structure:

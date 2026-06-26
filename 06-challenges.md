@@ -889,193 +889,40 @@ The **Harm track** represents physical damage and bodily defeat. When a Harm tra
 
 The **Will track** represents an adversary's mental and emotional fortitude — their composure, confidence, and determination to resist social pressure, intimidation, and persuasion.
 
-When a Will track fills, the adversary's resistance collapses. What happens next is always **fiction-dependent**: a guard breaks and flees, a noble concedes the argument, a villain surrenders or makes a desperate gambit. The GM narrates the outcome based on the situation.
+When a Will track fills, the adversary's resistance collapses. The GM narrates the outcome based on the situation: a guard breaks and flees, a noble concedes the argument, a villain surrenders or lashes out. See Chapter 7: GM Guide for detailed guidance on social conflict outcomes.
 
 ### Marking Will
 
-**Clash (social delivery):** When you Clash using words — taunts, intimidation, cutting insults, psychological pressure — mark ticks on the Will track instead of the Harm track. Declare your intent before rolling.
+**Clash (social delivery):** When you Clash using words — taunts, intimidation, cutting insults, psychological pressure — mark ticks on the Will track.
 
-**Talk:** Always marks the Will track. Talk represents persuasion, deception, and influence — winning someone over rather than breaking them down.
-
-**Special Abilities and Talents:** Some abilities mark Will through unconventional means. The *Cutting Words* Talent, for example, allows Talk to mark the Harm track — a rare exception to the standard mapping.
-
-> *Example: Finn uses Clash with Charm, taunting the captain about his failed campaigns. On Success, mark 1 tick on the captain's Will track.*
->
-> *Example: Aria uses Talk with Cunning to convince the noble that his allies have already betrayed him. On Success, mark 1 tick on the noble's Will track.*
+**Talk:** Always marks the Will track. Talk represents persuasion, deception, and influence.
 
 ### Will Track Lengths
 
-Will track length is set by the GM **independently of Harm track length**, based on the adversary's fictional disposition.
-
 | Will Strength | Track Length | Examples |
 |---------------|-------------|----------|
-| Weak-willed | 2 ticks | Frightened civilians, demoralized soldiers, naive merchants, cowardly thugs |
+| Weak-willed | 2 ticks | Frightened civilians, demoralized soldiers, naive merchants |
 | Average | 4 ticks | Trained guards, minor nobles, confident criminals |
 | Strong-willed | 6 ticks | Military commanders, veteran negotiators, fanatical cultists |
 | Unbreakable | 8+ ticks | Legendary figures, ideological zealots, iron-willed villains |
 
-**Track lengths can be asymmetric.** A physically powerful but emotionally fragile troll might have Harm 6 / Will 2. A scheming vizier might have Harm 2 / Will 8 — nearly impossible to break through argument, but easily subdued physically.
-
-> *Example: A mercenary captain is both physically capable and psychologically resilient — Harm 4 / Will 4. A terrified bandit lookout might be Harm 2 / Will 2 — collapses under the first real pressure.*
+**Track lengths can be asymmetric.** A troll might have Harm 6 / Will 2 (physically powerful, emotionally fragile). A scheming vizier might have Harm 2 / Will 8 (weak physically, nearly impossible to persuade).
 
 ### Who Has a Will Track
 
-Not every adversary has a Will track. **The GM decides** based on what makes fictional sense.
-
 **Adversaries with both Harm and Will tracks:**
 - Named NPCs with psychological depth
-- Enemies who can be defeated through social pressure or intimidation as well as combat
-- Rival factions, political opponents, morally conflicted soldiers
+- Enemies who can be defeated through social pressure or combat
 
 **Adversaries with only a Harm track:**
 - Mindless creatures (golems, undead, constructs)
-- Enemies immune to social influence by nature
 - Beasts acting purely on instinct
 
 **Adversaries with only a Will track:**
 - NPCs who cannot be defeated through violence — only persuaded or broken
 - Political rivals, stubborn officials, resistant informants
-- Situations where violence would cause more problems than it solves
 
-**Adversaries with neither track:**
-- Trivial opposition resolved without tracking (a single minion, a simple obstacle)
-
-### Will Depletion — Fiction-Dependent Outcomes
-
-When a Will track fills, the GM narrates the outcome based on the situation and the adversary's nature.
-
-**Common outcomes:**
-- **Flight** — The adversary breaks and flees, unable to maintain composure
-- **Surrender** — They yield, unwilling or unable to continue resisting
-- **Concession** — In a social conflict, they accept your position or grant your request
-- **Breakdown** — Emotional collapse, temporarily unable to act coherently
-- **Desperate Action** — Some adversaries lash out rather than yield — a cornered villain who'd rather fight than admit defeat
-
-> **GM Tip:** Telegraph which outcome is likely before the Will track fills, so players know what they're working toward. "The captain is sweating now, his confidence clearly shaken — one more push and he'll break" sets up the fiction before the mechanical resolution.
-
-### Social Stakes: What Can You Achieve?
-
-Social conflict through Will tracks is powerful, but it has boundaries. Filling a Will track represents overcoming resistance — not mind control.
-
-**Achievable outcomes when a Will track fills:**
-
-**Concession** — They accept your position or argument in this specific matter
-- Admit you're right about the trade route
-- Agree to the treaty terms you proposed
-- Concede the debate publicly
-
-**Cooperation** — They work with you on a specific goal or task
-- Help you infiltrate the fortress
-- Provide resources for your quest
-- Share information they were withholding
-
-**Surrender** — They yield to your demands in the immediate situation
-- Drop weapons and surrender
-- Retreat from the negotiation
-- Accept your authority in this moment
-
-**Withdrawal** — They disengage rather than continue resisting
-- Leave the scene to avoid further pressure
-- Agree to disagree and step aside
-- Flee rather than face you
-
-**Temporary Agreement** — They go along with your request for now
-- Escort you through their territory this time
-- Delay their attack for a day
-- Grant temporary safe passage
-
----
-
-**Out-of-bounds outcomes (requires magic, Talents, or long-term roleplay):**
-
-**Belief Rewrites** — You cannot instantly change core beliefs or identity
-- ✗ "The devout priest now worships your god" (core identity)
-- ✗ "The lifelong enemy now considers you a friend" (requires sustained interaction)
-- ✗ "The loyal soldier betrays their commander" (core loyalty without justification)
-
-**Mind Control** — You cannot override free will or agency entirely
-- ✗ "They become your puppet and obey all commands"
-- ✗ "They forget this conversation ever happened"
-- ✗ "They act against their nature permanently"
-
-**Permanent Changes** — Filling a Will track represents a moment, not a personality rewrite
-- ✗ "They're now permanently loyal to you" (loyalty is earned through continued interaction)
-- ✗ "They'll never oppose you again" (they may oppose you later if circumstances change)
-
----
-
-**What about long-term influence?**
-
-Filling a Will track **opens the door** to long-term relationships, but those relationships are maintained through **roleplay and continued interaction**, not mechanics.
-
-- Fill a Will track to gain an audience with the king → He hears you out
-- Continued interaction and favorable actions → Builds trust and alliance over time
-- The Will track got you in the door; the relationship is built through play
-
-**GM Guidance:**
-
-When a Will track fills, narrate the **immediate outcome** (concession, cooperation, surrender, etc.). If the players want a **long-term relationship** (ally, convert, permanent change), that requires continued roleplay and investment, not just one roll.
-
-**Example:**
-> The bandit captain's Will track fills. He throws down his weapon and yields: "Alright! We'll leave your village alone. But don't expect me to forget this."
-> 
-> That's **Concession** (they stop raiding). If the PCs want him to become an ally, they'll need to interact further — offer him work, prove their trustworthiness, address his grievances. The Will track got them to the negotiating table; building the alliance happens through play.
-
----
-
-### Talk vs Clash for Will Track
-
-Both **Talk** and **Clash** can mark a Will track, but the fictional approach differs:
-
-**Talk (persuasion, negotiation, influence):**
-- You're trying to **win someone over** or **convince** them
-- Appeals to reason, emotion, shared interests, incentives
-- When successful, they **agree** or **become allied**
-- *Example:* "We should work together against the real threat" (marks Will via persuasion)
-
-**Clash (intimidation, taunts, rhetoric, mental pressure):**
-- You're trying to **break them down** or **dominate** them
-- Causes emotional/mental harm through aggression, insults, fear
-- When successful, they're **broken**, **flee**, or **surrender**
-- *Example:* "Your soldiers are dead, your castle burns — yield or join them!" (marks Will via intimidation)
-
-**Both can mark Will, different outcomes:**
-- **Talk:** They're convinced (positive relationship possible)
-- **Clash:** They're defeated socially (negative relationship, coerced)
-
-**GM Adjudication:**
-- If the PC is making a compelling **offer/argument** → Talk
-- If the PC is **attacking socially** (threats, insults, dominance) → Clash
-- Context matters: shouting down a rival in a debate = Clash; presenting evidence to a judge = Talk
-
-**Switching Tactics Mid-Track:**
-
-If PCs switch between Talk and Clash on the same target's Will track, the GM decides the fictional impact:
-
-**Option 1 - Tactic-Agnostic (Default):** The Will track represents general emotional resistance. Switching from diplomacy to intimidation (or vice versa) doesn't reset progress — you're chipping away at their resolve regardless of method. Keep marking the same track.
-
-**Option 2 - Narrative Whiplash (Situational):** If the switch creates obvious fictional contradiction (e.g., switching from building trust via Talk to threatening via Clash), the GM may:
-- Impose 1 Bane on the new approach (target is confused/resistant to sudden shift)
-- Require the PC to narratively justify the transition ("After building rapport, I use that trust to deliver the threat with weight")
-- In extreme cases, declare previous progress lost (rare — only when the switch completely undermines prior work)
-
-**Default to Option 1** unless the fictional shift is jarring enough to demand acknowledgment.
-
-### Complications and Will
-
-Complications apply to Will-based actions just as they do to Harm-based actions. Defensive Complications that make an adversary psychologically resistant impose penalties on social Clash and Talk rolls.
-
-**Example Will-based Defensive Traits:**
-- **"Unshakeable"** — Immune to fear and intimidation; social Clash using threats or taunts faces 1 Complication
-- **"True Believer"** — Deeply committed to a cause; persuasion against their beliefs faces 1 Complication
-- **"Suspicious"** — Doesn't trust easily; deception-based Talk faces 1 Complication
-- **"Iron Discipline"** — Military bearing; taunts and insults face 1 Complication
-
-**Example Will-based Exploitable Traits:**
-- **"Arrogant"** — Flattery grants 1 Boon on Talk rolls
-- **"Greedy"** — Bribery or appeals to self-interest grant 1 Boon
-- **"Proud"** — Challenges to honor grant 1 Boon on social Clash
-- **"Fearful"** — Intimidation grants 1 Boon on social Clash
+**Complications and Will:** Complications apply to Will-based actions just as they do to Harm-based actions. **Resolute** makes an adversary hard to influence (applies to Talk and social Clash, whether mundane or magical).
 
 ---
 

@@ -1080,28 +1080,6 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 
 **Design Note:** Asymmetrical tracks signal "you can't reason with this, you must fight." High Will + heavy Complications = social victory is functionally off the table. Deadly applies in combat only—negotiating wouldn't face it (though the troll won't negotiate!).
 
-### Protecting Tracks with Complications (Design Principle)
-
-When designing asymmetric enemies, assign Complications to the track you want players to avoid or make extremely difficult. This creates intentional tactical puzzles rather than exploitable shortcuts.
-
-**The Pattern:**
-- **Track you want to encourage:** Low tick count + few/no Complications
-- **Track you want to discourage:** High tick count + 2-3 Complications
-
-**Examples:**
-- **War Troll:** Physical combat intended (Harm 6 + 2 Complications) vs. social bypass prevented (Will 10 + 2 Complications = effectively impossible)
-- **Zealot Priest:** Violence discouraged narratively (Harm 2, no Complications = mechanically easy but creates martyrdom) vs. persuasion encouraged (Will 6 + 1 Complication = harder but cleaner)
-- **Mind-Controlled Ally:** Harm track exists but heavily defended (don't want to kill them) vs. Will track exposed (break the control)
-
-**Why This Works:**
-- 2 Complications = Success downshifts to Setback, Conflict → Disaster (extremely punishing without teamwork)
-- 3+ Complications = Success → Conflict, Conflict → Disaster (functionally impossible without Triumph or coordinated Momentum spending)
-- Players naturally route around heavily defended tracks, engaging with the intended challenge
-
-**GM Guidance:** If you don't want players to solve a Challenge via a specific approach (social, violent, environmental), give that track 2-3 Complications. If you want to encourage an approach, give it 0-1 Complications.
-
----
-
 ### CR 1 Zealot Priest
 - **Tier:** 1
 - **Tracks:** Harm 2 (physically frail), Will 6 (fanatic devotion)
@@ -1142,59 +1120,6 @@ When designing asymmetric enemies, assign Complications to the track you want pl
 
 ---
 
-## Boss Design Patterns
-
-Boss encounters should require **team coordination** and **multiple actions**.
-
-**Elements of Boss Design:**
-
-### 1. High Tier + Multiple Traits
-- CR 3 baseline
-- 2-3 Complications
-- Exploitable weakness or contextual vulnerability
-
-### 2. Longer Track
-- 8-10 ticks instead of 6
-- Creates multi-round engagement
-
-### 3. Consequence Moves
-- Special abilities that trigger on Impact Moves
-- "Frightening Presence" — Inflict Frightened 2 on all PCs
-- "Legendary Actions" — Act between PC turns
-- "Phase Change" — At 50% track, change tactics or gain new Trait
-
-### 4. Environmental Factors
-- Lair actions (collapsing ceiling, rising lava, reinforcements)
-- Hazardous terrain (impose Banes or Complications)
-- Dynamic battlefield (objectives beyond "kill the boss")
-
-**Example Boss: Ancient Lich**
-- **CR 4**
-- **Tracks:** Harm 10, Will 8, Obstacle 6
-  - **Harm:** Physical destruction (very durable undead body)
-  - **Will:** Breaking its grip on this plane (strong but possible with holy/divine persuasion)
-  - **Obstacle:** Finding and destroying phylactery (hidden, warded)
-- **Complications:**
-  - Resilient - undead resilience (resists mundane harm; holy/divine attacks negate)
-  - Warded - ancient arcane protections
-  - Complex - lair defenses (applies to bypassing traps/obstacles)
-- **Exploitable:** Phylactery (destroying it via Obstacle track removes Resilient entirely)
-- **Challenge Moves:**
-  - **Deathly Aura** (Passive) - All PCs mark 1 Stress at start of each round
-  - **Raise Dead [□□□]** - Summon 2-tick minion in Near range (3 uses)
-  - **Soul Drain [□□]** - Target marks 2 Stress + Exhausted 2 (Burden) (2 uses)
-
-**How PCs defeat it:**
-
-1. **Direct combat (Harm 10):** Long, brutal fight — requires holy weapons to bypass Resilient, teamwork to overcome Warded
-2. **Banishment ritual (Will 8):** Divine/holy ritual to sever its connection to this plane — Talk using faith/divine authority
-3. **Destroy phylactery (Obstacle 6):** Find hidden phylactery, bypass wards, destroy it → removes Resilient, makes Harm approach viable
-4. **Mixed approach (optimal):** Split party — some distract Lich (mark Harm/Will), others find phylactery (mark Obstacle) → once destroyed, coordinated assault finishes it
-
-**Design Note:** Multiple tracks create **strategic depth** — players must choose which victory condition to pursue, or split resources. Destroying phylactery (Obstacle) makes other approaches easier (removes Undead Resilience Complication).
-
----
-
 ## GM Guidance for Challenges
 
 ### When to Use Complications and Challenge Moves
@@ -1222,6 +1147,21 @@ Boss encounters should require **team coordination** and **multiple actions**.
 **Remember:** Triumph ignores all Complications, so even 3+ Complication enemies are beatable with good rolls and Momentum generation.
 
 **See [Vantage](vantage.md) and [Stakes](stakes.md) for calibration guidance.**
+
+### Protecting Tracks with Complications
+
+When designing asymmetric enemies, assign Complications to the track you want players to avoid. This creates intentional tactical puzzles rather than exploitable shortcuts.
+
+**The Pattern:**
+- **Track you want to encourage:** Low tick count + few/no Complications
+- **Track you want to discourage:** High tick count + 2-3 Complications
+
+**Examples:**
+- **War Troll:** Harm 6 + 2 Complications (physical combat intended) vs. Will 10 + 2 Complications (social bypass prevented)
+- **Zealot Priest:** Harm 2, no Complications (mechanically easy but creates martyrdom) vs. Will 6 + 1 Complication (harder but cleaner)
+- **Mind-Controlled Ally:** Harm track heavily defended (don't want to kill them) vs. Will track exposed (break the control)
+
+If you don't want players to solve a Challenge via a specific approach, give that track 2-3 Complications. If you want to encourage an approach, give it 0-1 Complications.
 
 ### Creating Interesting Challenges
 

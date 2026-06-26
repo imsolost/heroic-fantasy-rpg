@@ -1,12 +1,16 @@
 # Combat Tactics
 
-This chapter provides optional tactical depth for combat encounters.
+This chapter adds **tactical depth to combat** — zones, maneuvers, and epic foe abilities.
 
-**For core combat rules, see:**
+**Core combat mechanics are in other chapters:**
 - **Chapter 4: Action Resolution** — Actions, outcomes, Challenge structure
 - **Chapter 5: Resilience** — Stress, Conditions, Burdens, being Taken Out
 - **Chapter 6: Challenges** — Enemy design, Complications, Impact Moves
-- **Chapter 7: GM Guide** — Combat flow, spotlight, soft/hard moves
+- **Chapter 7: GM Guide** — Combat flow, spotlight, Suspense, soft/hard moves
+
+**What's optional:** Zones (use when positioning matters), Epic Foe Abilities (use for bosses)
+
+**What's core guidance:** Turn structure, maneuvers, working together, Suspense in combat
 
 ---
 
@@ -38,9 +42,9 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 ### Movement
 
-**Move to Near zone:** Free (part of your action)
+**Move to Near zone:** Free as part of your action (describe it in your approach)
 
-**Move to Far zone:** Costs your action OR requires Defy roll if contested
+**Move to Far zone:** Requires dedicated effort (your action is the sprint itself) OR Defy roll if contested
 
 **Move through enemy zone:** Requires Defy roll (enemies try to intercept/block)
 
@@ -263,7 +267,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 **Kael:** Spends Momentum to Seize Spotlight, exploits Ryn's discovered weakness → Clash → Success → 2 ticks (GM rules the fictional weakness bypasses "Armored")
 
-**Warboss:** Counterattacks → Kael Defy → Setback → Mark 2 Stress, knocked Prone (GM gains 1 Threat)
+**Warboss:** Counterattacks → Kael declares Defy to recover
 
 **Mira:** Assists Kael (mark 1 Stress to grant Boon)
 
@@ -307,14 +311,16 @@ Last orc flees
 
 ## Summary
 
-This chapter provides **optional tactical tools** for groups that want more depth in combat without sacrificing the narrative-first approach.
+This chapter adds tactical depth without sacrificing the narrative-first approach.
 
-**Use zones when:** Positioning matters to the fiction (multi-level, ranged combat, environmental hazards)
+**Core guidance (always available):**
+- Turn structure and spotlight rotation
+- Combat maneuvers through standard Actions
+- Working together (Assist, Push Yourself)
+- Suspense in combat
 
-**Use maneuvers when:** Players declare tactical intent beyond "I attack"
-
-**Use Suspense when:** You want dynamic enemy action and visible escalation
-
-**Use Epic Abilities when:** A boss fight needs mechanical teeth to match its fictional threat
+**Optional tools (use when helpful):**
+- Zones for tactical positioning (multi-level fights, environmental hazards)
+- Epic Foe Abilities for memorable boss encounters
 
 **Always:** Ground mechanics in fiction first. A maneuver succeeds because the outcome supports it, not because you paid a mechanical cost.

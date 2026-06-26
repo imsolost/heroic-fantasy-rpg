@@ -479,12 +479,12 @@ Your action energizes and prepares for follow-up.
 **Narrative Secondary Effects:** Secondary Effects can create lasting fictional advantages beyond immediate tactical bonuses (establish rapport with NPC, change negotiation tone, gain reputation from witnesses). If it meaningfully changes the fiction, it's valid—even without immediate mechanical bonuses.
 
 **Examples:**
-- ✓ "I disarm him and kick his sword away" — Secondary Effect: Take Something (reasonable)
-- ✓ "My strike cuts through him and into the enemy behind" — Broad Effect (reasonable)
-- ✓ "I knock her prone with the shield bash" — Secondary Effect: Seize Control (reasonable)
-- ✓ "I kick sand in his eyes to Blind him" — Secondary Effect: Create Advantage (reasonable)
-- ✓ "I expose his weak point — ally gains 1 Boon on next attack against him" — Secondary Effect: Create Advantage (reasonable)
-- ✓ "I hold them off while my allies escape" — Secondary Effect: Seize Control (reasonable)
+- **Good:** "I disarm him and kick his sword away" — Secondary Effect: Take Something (reasonable)
+- **Good:** "My strike cuts through him and into the enemy behind" — Broad Effect (reasonable)
+- **Good:** "I knock her prone with the shield bash" — Secondary Effect: Seize Control (reasonable)
+- **Good:** "I kick sand in his eyes to Blind him" — Secondary Effect: Create Advantage (reasonable)
+- **Good:** "I expose his weak point — ally gains 1 Boon on next attack against him" — Secondary Effect: Create Advantage (reasonable)
+- **Good:** "I hold them off while my allies escape" — Secondary Effect: Seize Control (reasonable)
 - **Too Much:** "I kill the boss in one hit" — instant defeat without Talent. **Suggest:** "You deal devastating harm with Greater Effect (2 ticks) and he's clearly on death's door, but still standing."
 - **Too Much:** "I convince the entire city guard" — scale too large. **Suggest:** "Broad Effect affects their captain and 2-3 nearby guards."
 

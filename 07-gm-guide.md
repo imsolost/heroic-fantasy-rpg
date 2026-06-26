@@ -73,7 +73,7 @@ Once a character rolls to handle a specific threat environment, don't force addi
 
 ### Wrong vs. Right
 
-**❌ Wrong Approach (Five Micro-Rolls):**
+**Wrong Approach (Five Micro-Rolls):**
 
 > **GM:** "The hallway is collapsing. The first timber falls toward you—roll Defy."
 > **Player:** Rolls Conflict. "I dodge it, but mark 1 Stress."
@@ -88,7 +88,7 @@ Once a character rolls to handle a specific threat environment, don't force addi
 
 ---
 
-**✅ Right Approach (One Dramatic Roll):**
+**Right Approach (One Dramatic Roll):**
 
 > **GM:** "The hallway is collapsing—beams falling, floor cracking, ceiling caving in. You've got one shot to cross before it all comes down. Roll Defy with Grace or Daring to make it through."
 > **Player:** Rolls Conflict (4-5). "I got a 5—Conflict."

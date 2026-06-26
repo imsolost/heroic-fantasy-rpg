@@ -995,48 +995,32 @@ Boss encounters should require **team coordination** and **multiple actions**.
 
 ---
 
-## Complex Scenes: Multi-Stage Structure (Grimwild Pattern)
+## Running Multi-Challenge Scenes
 
-When PCs face complex situations (escape, heist, ritual, negotiation), use a **Complex Scene** structure:
+A single scene can contain multiple Challenges and tracks running simultaneously:
 
-### **Complex Scene Template:**
+**Multiple Challenges:** 3 goblins (CR 1) + orc captain (CR 2, Resolute)
 
-**Name:** [Brief descriptor, e.g., "Escape the Collapsing Mine"]
+**Challenge + Countdown:** Ancient Lich (Harm 10, Warded) + Countdown "Phylactery ritual completes" (8 ticks)
 
-**Goal:** What PCs are trying to accomplish
+**Multiple Tracks:** Progress "Navigate the labyrinth" (6 ticks) + Countdown "Minotaur finds you" (4 ticks)
 
-**Obstacles:** 2-3 complications (use as Suspense Moves)
-- Example: "Falling rubble," "Rising water," "Poisonous gas"
+**Layered Threats:** Boss fight (Harm track) + environmental hazard (lava spreading via Countdown) + social pressure (hostages in danger)
 
-**Threats:** 2-3 dangers that can escalate (use as Impact Moves if PCs fail)
-- Example: "Buried alive," "Trapped," "Suffocated"
+**Each Challenge and track operates independently.** Mark them based on fiction:
+- PC attacks → mark Harm track
+- Time passes / PCs fail → mark Countdown track
+- Successful navigation → mark Progress track
+- Environmental triggers → use as Suspense/Impact Moves
 
-**Fail-State:** What happens if they don't succeed
-- Example: "The mine collapses entirely. Mark 3 Stress and gain Condition: Trapped (Severe)"
-
-**Success Conditions:** How they win
-- Example: "Reach the exit before 3 failures accumulate" or "Fill 6-segment progress track"
-
-### **Running a Complex Scene:**
-
-1. Frame the situation, describe Goal and Obstacles
-2. Ask "What do you do?"
-3. PC acts → roll appropriate Action
-4. **Success/Triumph:** Mark progress (1-2 segments) or overcome Obstacle
-5. **Conflict:** Mark progress but trigger Suspense Move (Obstacle activates)
-6. **Failure:** No progress, trigger Impact Move (Threat activates)
-7. Repeat until Success Conditions met or Fail-State triggered
-
-**Example:**
-
-> **Ritual Interruption**
-> - **Goal:** Stop the cult's summoning before demon manifests
-> - **Progress Track:** 6 segments to interrupt
-> - **Obstacles:** "Zealous cultists," "Arcane wards," "Complex ritual circle"
-> - **Threats:** "Demon partially manifests," "Cultists call reinforcements"
-> - **Fail-State:** Demon fully manifests (becomes boss fight)
+**Example - Stop the Ritual:**
+> **Challenge:** Ritual (CR 3 Obstacle, 6 ticks)  
+> **Countdown:** "Demon manifests" (8 ticks, marks when PCs fail or time passes)  
+> **Complications:** "Zealous cultists" (Resolute), "Arcane wards" (Warded)
 > 
-> **Ritual Progress (Threat):** 8-tick countdown track tracking ritual completion. Each failed PC roll marks 1 segment. At 8, demon appears.
+> PCs must fill the Obstacle track before the Countdown completes. Each PC success marks progress. Each failure marks Countdown + triggers Suspense Move (cultists interfere, wards flare).
+
+**For complete Challenge design rules, see Chapter 6: Challenges.**
 
 ---
 

@@ -33,7 +33,7 @@ See **Chapter 4: Action Resolution** for complete Consequence framework.
 
 **Voluntarily (as a resource):**
 - **Assist** → Mark 1 Stress to grant an ally 1 Boon on their roll (see Chapter 2: Working Together)
-- **Push Yourself** → Mark 1 Stress to gain 1 Boon on your roll
+- **Push Yourself** → At any time before or during a roll, mark 1 Stress to gain 1 Boon on that roll. This represents digging deep, pushing past your limits, or taking risks to succeed.
 
 ### Recovery
 
@@ -43,7 +43,8 @@ See **Chapter 4: Action Resolution** for complete Consequence framework.
 
 **Long rest (overnight, safe location):**
 - Clear all Stress
-- Clear all Conditions (including Burdens)
+- Clear all Conditions
+- Burdens reduce by 1 tier
 
 ---
 
@@ -58,13 +59,9 @@ A Condition has a **name** and a **tier** — both set at the moment of inflicti
 - The name describes the fictional state: Poisoned, Frightened, Blinded, Stunned
 - The tier (1–3) represents severity and duration
 
-**A Condition applies 1 Bane to all action rolls** while it persists.
+**Each Condition applies 1 Bane to all action rolls.** Multiple Conditions stack — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously. (Pool modifier cap: ±2d applies — see Chapter 2.)
 
-**Multiple Conditions stack** — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously.
-
-**Pool modifier cap: ±2d (universal rule).** All dice pool modifiers cap at +2d Boons or -2d Banes, regardless of how many sources you have. Boons and Banes cancel 1:1 before applying the cap.
-
-> **GM Guidance:** A Condition affects all action rolls by default. If a Condition clearly has no bearing on the action fictionally (Blinded doesn't affect recalling lore), it doesn't apply and doesn't tick down. When in doubt, apply the Condition.
+**Conditions only apply (and tick down) when fictionally relevant.** If a Condition clearly has no bearing on the action (Blinded doesn't affect recalling lore), it doesn't apply and doesn't tick down. When in doubt, apply the Condition.
 
 ### Gaining Conditions
 
@@ -72,54 +69,38 @@ Conditions come from three sources:
 
 **Challenge Moves:** Enemy abilities inflict Conditions directly, at a tier determined by the move.
 
-> *The dark elf assassin's Poisoned Blade inflicts Poisoned 2. A dragon's Fearsome Roar inflicts Frightened 3.*
-
 **Consequences:** The GM may inflict a Condition (tier 1 for Minor, tier 2-3 for Major/Severe) instead of or alongside marking Stress.
 
-> *Minor Consequence: "You deflect the blow but the acid splashes your arm — Burned 1."*
-
-> *Major Consequence: "The giant's club smashes into your shield, knocking you off your feet. Mark 2 Stress and Prone 1."*
-
-**Stress Overflow:** When your Stress track is full and you would mark more Stress, follow this procedure:
-
-1. **GM announces:** "You would mark [X] Stress, but your track is full."
-2. **Resist Consequence (optional):** You may spend 1 Momentum to automatically reduce the Consequence Tier by 1. See Resist Consequence below for full rules.
-3. **Choose your fate:** If any Stress remains after Resist (or you don't Resist), you choose:
-   - **Take a Burden** — A persistent Condition that won't clear on Short Rest. Set tier based on **overflow amount** beyond your 5th box (1 overflow → tier 1, 2 overflow → tier 2, 3+ overflow → tier 3). **Your Stress track immediately clears to 0**, allowing you to absorb future hits. You stay in the fight but carry a lasting consequence.
-     - *Example: At 4/5 Stress, you take 2 Stress. Mark the 5th box + 1 overflow = Tier 1 Burden if you choose to take it.*
-   - **Be Taken Out** — You're unconscious, fleeing, captured, or otherwise removed from the scene. The GM narrates what happens based on context. Your Stress clears when you recover.
-
-This choice creates dramatic "push through at a cost" moments — heroes can stay in the fight with a second wind, but risk lasting harm. Taking a Burden represents pushing through the pain and finding the will to continue, at the cost of a persistent injury.
+**Stress Overflow:** When your Stress track is full and you would mark more Stress, you may choose to take a Burden or be Taken Out (see Stress Track section above for full procedure). The Burden tier is determined by overflow amount:
+   - 1 overflow → tier 1
+   - 2 overflow → tier 2
+   - 3+ overflow → tier 3
+   
+   *Example: At 4/5 Stress, you take 2 Stress. Mark the 5th box + 1 overflow = Tier 1 Burden if you choose to take it.*
 
 ### Condition Tiers
 
 The tier set at infliction is the **maximum severity** of that Condition. It never escalates beyond its initial tier regardless of how many times the same Condition is inflicted — subsequent hits of the same Condition simply refresh it back to its maximum.
 
-| Tier | Bane | Clears After |
-|------|------|--------------|
+| Tier | Bane | Ticks Down After* |
+|------|------|-------------------|
 | 1 | 1 Bane | 1 relevant action roll |
 | 2 | 1 Bane | 2 relevant action rolls |
 | 3 | 1 Bane | 3 relevant action rolls |
+
+*Or on Short Rest, whichever comes first.
 
 Each time you make an action roll where the Condition applies, reduce its tier by 1. When it reaches 0, it clears.
 
 **All Conditions clear on Short Rest** (1 hour, safe location), regardless of remaining tier.
 
-### Multiple Conditions
-
-You can have multiple different Conditions simultaneously. Each tracks independently.
-
-**Bane Stacking:** Multiple Conditions each apply 1 Bane. You can have 3, 4, or more Conditions.
-
-> *You are Poisoned 2 and Frightened 1. Both apply → 2 Banes. If you also become Blinded 1, you have 3 Conditions → 3 Banes (capped at -2d to your pool).*
-
 **Refresh, Not Stack:** The same Condition cannot stack beyond its initial tier. If you are Poisoned 2 and would become Poisoned again, it refreshes to Poisoned 2 — it does not become Poisoned 3 or Poisoned 4.
+
+> *Example: You are Poisoned 2 and Frightened 1. Both apply → 2 Banes. If you also become Blinded 1, you have 3 Conditions → 3 Banes (capped at -2d to your pool).*
 
 ### Recovering from Conditions
 
 **Through action:** Make action rolls where the Condition applies. Each relevant roll reduces the tier by 1.
-
-**Through Short Rest:** All Conditions clear after a Short Rest (1 hour, safe location).
 
 **Through Trait Special Effects:** When you invoke a Trait and choose Secondary Effect, you may reduce any one Condition by 1 tier — provided the Trait is fictionally relevant to shaking off that Condition.
 
@@ -148,31 +129,25 @@ Reduce the number by 1 each time you act through it. Erase when it reaches 0 or 
 
 ### Example in Play
 
-> **GM:** The dark elf assassin was disguised as the butler. At the last second you notice as they draw their poisoned blade. Defy with 1 Bane — you were caught off guard.
+> **GM:** The assassin's poisoned blade nicks you. You feel the poison begin to work. Poisoned 2. What do you do?
 >
-> **Player:** A 3 and a 5 — Conflict. I'll invoke Blademaster to Build Momentum.
->
-> **GM:** You partially parry the blow but the blade nicks you. You feel the poison begin to work. Poisoned 2. What do you do?
->
-> **Player:** I Clash — drive them back against the wall.
+> **Player:** I Clash — drive them back.
 >
 > **GM:** The poison affects your movement. 1 Bane. Roll it.
 >
-> **Player:** A 4 and a 2 — Conflict again. I use my Blademaster Trait for Greater Effect. Poisoned drops to 1.
+> **Player:** Conflict. Poisoned drops to 1.
 >
-> **GM:** You slam them hard into the wall — mark two ticks on their track. They snarl and strike back — Poisoned Blade triggers. You're already Poisoned 1, so it refreshes to Poisoned 2. Mark 1 Stress.
+> **GM:** You slam them against the wall. They strike back — Poisoned Blade triggers. You're already Poisoned 1, so it refreshes to Poisoned 2. Mark 1 Stress.
 >
-> **Player:** Still Poisoned 2. I spend my Momentum to Create an Opening and Clash again.
+> **Player:** I attack again.
 >
-> **GM:** The Boon from Create an Opening offsets the Bane — roll clean.
+> **GM:** Still 1 Bane from Poisoned 2. Roll it.
 >
-> **Player:** Two 5s and a 6 — Success. Poisoned drops to 1 again.
+> **Player:** Success. Poisoned drops to 1 again.
 >
-> **GM:** Another solid hit — mark a third tick. They're in trouble now. What do you do?
+> **GM:** Solid hit. The assassin is badly hurt now.
 >
-> **Player:** I invoke my Blademaster Trait — Secondary Effect to reduce Poisoned by 1. Fictionally, I'm fighting through the pain with trained discipline.
->
-> **GM:** The poison clears. You're clean. The assassin is one tick from done.
+> (After combat, the party takes a Short Rest. Poisoned clears entirely.)
 
 ---
 
@@ -225,6 +200,8 @@ You are **Taken Out** when:
 
 **The GM narrates what happens** based on context — unconscious, fleeing, captured, broken. Taken Out is not automatically death.
 
+**Re-entering the Scene:** A Taken Out character may re-enter the scene when it's dramatically appropriate — rescued by allies, the threat passes, or the GM decides the fiction allows recovery. Their Stress clears when they recover.
+
 ---
 
 ## GM Reference
@@ -249,6 +226,25 @@ Direct Conditions bypass the Stress buffer — they represent harm too significa
 **Short rests** (1 hour, safe location) should happen after significant combat, during travel breaks, or when players seek safety. This ensures Conditions don't carry over from scene to scene while remaining relevant within a scene.
 
 **Long rests** (overnight) should happen after returning to safety, during extended downtime, or when camping in a secure location.
+
+### Inflicting Conditions: Examples
+
+**Challenge Moves:**
+> *The dark elf assassin's Poisoned Blade inflicts Poisoned 2. A dragon's Fearsome Roar inflicts Frightened 3.*
+
+**Consequences:**
+> *Minor Consequence: "You deflect the blow but the acid splashes your arm — Burned 1."*
+>
+> *Major Consequence: "The giant's club smashes into your shield, knocking you off your feet. Mark 2 Stress and Prone 1."*
+
+### Assigning Burdens
+
+**Reserve Curse/Trauma Burdens for genuinely significant moments** — divine punishment, witnessing tragedy, prolonged dark magic exposure. Don't overuse them.
+
+**Mark Recovery Method Clearly:**
+When assigning a Burden, immediately clarify how it clears:
+- *"That's Wounded 2 (Burden) — it'll reduce 1 tier per Long Rest."*
+- *"That's Cursed 2 (Burden) — rest won't help. You'll need to break the curse."*
 
 ### Burdens (Persistent Impairments)
 
@@ -283,7 +279,7 @@ When significant enemies are defeated, they may trigger a Death Move — a final
 > *Example: The lich crumbles but whispers a curse. Finn gains Cursed 2 (Burden).*
 
 **Curses, Trauma, Narrative Events:**
-The GM may assign Burdens from significant fictional events — divine punishment, psychological trauma, prolonged dark magic exposure. Reserve these for genuinely significant moments.
+The GM may assign Burdens from significant fictional events — divine punishment, psychological trauma, prolonged dark magic exposure.
 
 > *Example: After witnessing her village destroyed, Lyra gains Haunted 2 (Burden).*
 
@@ -313,11 +309,6 @@ Common special recovery methods:
 > *Example: Cursed 2 (Burden) cannot clear by rest. The party must find a high priest or ritual to break it.*
 
 > *Example: Wounded 3 (Burden) clears 1 tier per Long Rest. But magical healing could clear it entirely in one treatment.*
-
-**Mark Recovery Method Clearly:**
-When assigning a Burden, immediately clarify how it clears:
-- *"That's Wounded 2 (Burden) — it'll reduce 1 tier per Long Rest."*
-- *"That's Cursed 2 (Burden) — rest won't help. You'll need to break the curse."*
 
 ### Condition Fiction Examples
 

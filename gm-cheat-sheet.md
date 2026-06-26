@@ -175,6 +175,30 @@ Catastrophic failure:
 
 ---
 
+## Suspense (GM Resource)
+
+**Visible resource that tracks escalating tension.** Players can see your Suspense pool.
+
+**Starting Suspense:**
+- **Combat/Dangerous Scene:** Start with Suspense = number of PCs (2-5)
+- **Exploration/Social:** Start at 0, build as tension rises
+
+**Earn Suspense:**
+- PC rolls Setback → +1 Suspense
+- PCs trigger danger → +1 Suspense (alert guards, spring trap, break truce)
+- Time passes/situation worsens → +1 Suspense (GM discretion)
+
+**Spend Suspense:**
+- **Suspense Move (0-1):** Telegraph danger, create pressure (most are free)
+- **Impact Move (1-2):** Deliver consequence, enemy acts, trigger danger
+- **Activate special ability (1-3):** Boss signature move, reinforcements, environment shift
+
+**Don't hoard Suspense.** Spend it to create drama and memorable moments.
+
+**For complete Suspense rules, see Chapter 7: GM Guide.**
+
+---
+
 ## Stress & Conditions
 
 ### Stress Track (5 boxes)

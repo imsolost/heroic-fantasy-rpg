@@ -156,7 +156,7 @@ Traits are evocative narrative descriptors defining who your character is. When 
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain one Special Effect:
 
 **Special Effects (Choose One):**
-1. **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or significantly amplify outcome) OR Broad Effect (affect 2-3 targets)
+1. **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or significantly amplify outcome) OR Broad Effect (affect small group or area)
 2. **Secondary Effect** — Gain a free Defy action related to your initial action (see Chapter 4)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 

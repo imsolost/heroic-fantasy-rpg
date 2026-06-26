@@ -48,7 +48,7 @@ Roll Xd6, check highest die (and look for double 6s):
 ### Traits (Special Effects)
 
 When a Trait is narratively relevant and you achieve **Conflict or higher**, you may invoke your Trait (after rolling) to gain a **Special Effect**:
-- **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or ask 1 additional question) OR Broad Effect (affect 2-3 targets)
+- **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or ask 1 additional question) OR Broad Effect (affect small group or area)
 - **Secondary Effect** — Gain a free Defy action related to your initial action (Take Something, Seize Control, Create Advantage, Change Situation)
 - **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
@@ -56,7 +56,7 @@ When a Trait is narratively relevant and you achieve **Conflict or higher**, you
 
 **Earn Momentum:**
 - **Triumph** — Gain 1 Momentum on double 6s
-- **Trigger a Tangle** — Introduce character-driven complication (personality/desires/backstory)
+- **Trigger a Tangle (Optional)** — Introduce character-driven complication (personality/desires/backstory)
 - **Build Momentum (Trait)** — Grant 1 Momentum to self/ally when invoking Trait on Conflict+
 
 **Spend Momentum:**

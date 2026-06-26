@@ -522,9 +522,33 @@ When you take a Potent Action, you gain two benefits:
 **2. Gain 1 Edge** (ignore 1 Complication on this action)
 
 **Narrative Permission:** Potency also grants fictional permission for incredible feats:
-- **Group-scale:** Affect multiple targets or accomplish what a team could do (lift a boulder, volley of arrows, incite mutiny)
-- **Stretching limits:** Beyond normal mortal capability (leap a massive gap, endure fire, tell ridiculous lies)
-- **Mystical:** Supernatural effects within your domain (befriend a wild tiger, run across water, manifest divine glory)
+- **Group-scale:** Accomplish what a team could do (lift a boulder, volley of arrows, incite mutiny)
+- **Stretching limits:** Beyond normal capability (leap massive gap, endure fire, marathon run, hold portcullis for minutes)
+- **Mystical:** Supernatural effects within your domain (befriend wild tiger, run across water, manifest divine glory)
+
+### Potency as Scale Enhancement
+
+**Potency enhances the scale of your action across three dimensions:**
+
+1. **Accomplishment:** Do what normally requires a group or extended effort
+2. **Effect:** Affect larger groups or areas
+3. **Duration:** Sustain effects beyond momentary
+
+**When Potency combines with Special Effects:**
+
+**Broad Effect:**
+- Without Potency: Small group or area
+- With Potency: Large group or wide area
+
+**Create Advantage:**
+- Without Potency: Grant 1 Boon, lasts briefly (1-2 actions)
+- With Potency: Grant 1 Edge (better quality), lasts scene
+
+**Greater Effect:**
+- Always marks 2 ticks (Potency doesn't change this)
+- Potency's Edge helps those ticks land against defended foes
+
+**The GM determines exact numbers based on fiction.** "Small group" might be 3 goblins or 6 townsfolk depending on context. "Scene duration" lasts until the scene ends or the fiction breaks it.
 
 ### How It Works
 
@@ -538,16 +562,6 @@ When you take a Potent Action, you gain two benefits:
 
 **5. Resolve Outcome:** Apply results normally. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
 
-### Potency vs Other Mechanics
-
-**Potency** = Improves Vantage + 1 Edge + narrative permission (from Talents)  
-**Boon** = Improves dice pool (+1d)  
-**Edge** = Ignores Complications  
-**Create an Opening** = 1 Boon + 1 Edge (Momentum spend)  
-**Trait Invocation** = Special Effect on Conflict or better (separate from Potency)
-
-**They stack:** A Potent Action can have Boons, additional Edge, and Trait invocation applied to it.
-
 ### When Vantage Becomes Certain
 
 When Potency improves your Vantage to Certain, you auto-succeed if the action is straightforward.
@@ -558,48 +572,39 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 
 ### Examples
 
+**Barbarian Holds Portcullis (Potent Feat of Strength):**
+- Normal: Limited (2 Banes - beyond normal strength)
+- With Potency: Strong + 1 Edge + narrative permission (hold it long enough for party to escape)
+- Result: Party escapes while Barbarian holds the massive gate
+
+**Sage Casts Fireball on Raiders (Potent Spell + Broad Effect):**
+- Normal: Single target, 1 tick
+- With Potency + Broad Effect: Certain (auto-success), affects large group, 1 Edge
+- Result: Massive explosion engulfs the raiding party
+
+**Cleric Wards Party (Potent Blessing + Create Advantage):**
+- Normal: Grant 1 Boon to one ally for next action
+- With Potency: Grant 1 Edge to entire party, lasts scene
+- Result: All allies ignore demon's Frightening Presence for the entire fight
+
 **Monk Runs Across Water (Potent Feat of Mystical Grace):**
 - Normal: Impossible
-- With Potency: Limited (1 Bane) + 1 Edge
-- Guards shoot arrows (Vigilant)
-- Edge ignores Vigilant
-- Rolls with 1 Bane only
-- Success → crosses the pond + can invoke Trait for Secondary Effect
-
-**Cleric Converts Goblins (Potent Sermon):**
-- Normal: Impossible (goblins immune to religious appeals)
-- With Potency: Limited (2 Banes) + 1 Edge
-- Goblin chief has Resolute
-- Edge ignores Resolute
-- Rolls with 2 Banes only
-- Conflict → converts some goblins, chief becomes hostile
-
-**Barbarian Arm-Wrestles Ogre (Potent Feat of Strength):**
-- Normal: Limited (2 Banes - size disadvantage)
-- With Potency: Strong + 1 Edge
-- Ogre has Deadly
-- Edge ignores Deadly
-- Rolls normally
-- Success → slams ogre's arm down + can invoke Trait for Greater Effect
-
-**Sage Casts Potent Fireball at Warded Enemy:**
-- Normal: Strong (standard spell)
-- With Potency: Certain + 1 Edge
-- Enemy has Warded
-- Auto-succeeds (Certain), Edge not needed
-- Hits target, marks ticks
+- With Potency: Limited (1 Bane) + 1 Edge + narrative permission
+- Edge ignores guards' Vigilant Complication
+- Result: Sprints across the pond, leaving guards stranded
 
 ### Combining with Other Mechanics
 
-**Potent Action + Boons:** Both apply
+**Potency stacks with everything:**
 
-> *Monk runs across water (Potent: Limited + 1 Edge). Ally assists (+1 Boon). Rolls 4d6 with 1 Bane, ignoring 1 Complication.*
+- **+ Boons:** Potency improves Vantage, Boons add dice
+- **+ Create an Opening:** Gain 2 Edge total (Potency + Opening), plus 1 Boon
+- **+ Trait Invocation:** Roll Conflict or better, invoke Trait for Special Effect as normal
 
-**Potent Action + Create an Opening:** Vantage +1 tier, 2 Edge total, 1 Boon
-
-> *Sage casts Potent Fireball at warded dragon (Strong + 1 Edge). Spends Momentum for Create an Opening (+1 Boon, +1 Edge). Total: Strong, +1d, ignore 2 Complications.*
-
-**Potent Action + Trait Invocation:** Potency doesn't grant free Special Effects. Roll Conflict or better → invoke Trait as normal.
+**Example:**
+> Sage casts Potent Fireball at warded dragon. Spends 1 Momentum for Create an Opening. Rolls Conflict, invokes "Master of Flame" for Broad Effect.
+> 
+> **Result:** Strong Vantage (Potent), ignore 2 Complications (2 Edge), +1d from Opening, affects large group (Broad Effect + Potency)
 
 ### Multiple Sources
 
@@ -614,8 +619,6 @@ Some Talents allow you to "push yourself for a potent feat" (potent feat of stre
 - **Potency benefit:** Vantage +1 tier, 1 Edge, narrative permission
 
 **Net result:** Mark 1 Stress to gain Vantage +1 tier, 1 Edge, and 1 Boon. Powerful, but gated by Talent and Stress cost.
-
-> *Example: Monk has "Push yourself for a potent feat of mystical grace." She pushes to run across water (marks 1 Stress). Gains: Vantage improved from Impossible → Limited, 1 Edge (ignores guard's Vigilant), and 1 Boon (+1d). Rolls 4d6 (Grace 3 + 1 Boon) with 1 Bane (Limited).*
 
 ---
 

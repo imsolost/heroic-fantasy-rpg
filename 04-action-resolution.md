@@ -158,7 +158,7 @@ See [02-core-mechanics.md](02-core-mechanics.md) for complete dice mechanics and
 **If a Trait is narratively relevant AND your final outcome is Conflict or higher:**
 
 You may invoke your Trait to gain one Special Effect:
-1. **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or ask 1 additional question) OR Broad Effect (affect multiple targets)
+1. **Enhanced Effect** — Greater Effect (mark 2 ticks instead of 1, or ask 1 additional question) OR Broad Effect (affect small group or area)
 2. **Secondary Effect** — Free Defy action related to your initial action (Take Something, Seize Control, Create Advantage, Change Situation)
 3. **Build Momentum** — Grant 1 Momentum to yourself or an ally
 
@@ -402,9 +402,9 @@ Your effect is unusually potent, extensive, durable, or difficult to counter.
 - **Influence:** They become advocate or ally, not just compliant
 - **Any effect:** GM and player describe how it's significantly stronger than normal
 
-**Broad Effect** — Affect multiple targets instead of one
+**Broad Effect** — Affect small group or area instead of single target
 - Strike cuts through 2-3 foes
-- Words sway entire group (typically 4-6 NPCs)
+- Words sway small group
 - Environmental effect spreads to Near range
 - Debuff affects multiple enemies
 - *Examples: Cleave through multiple enemies, convince multiple listeners, trigger chain reaction, blind multiple foes with dust cloud*
@@ -462,7 +462,7 @@ Your action energizes and prepares for follow-up.
 
 **For Enhanced Effects:**
 - **Greater Effect:** Apply the principle "unusually potent, extensive, durable, or hard to counter" to the fictional context. When marking tracks, always 2 ticks instead of 1. Otherwise, work with the player to describe how it's significantly stronger.
-- **Broad Effect:** Typically 2-3 additional targets (physical combat), or entire small group (social, typically 4-6 NPCs). Use fiction as guide.
+- **Broad Effect:** Small group or area (GM determines size based on fiction—might be 3 goblins, 6 townsfolk, or blast radius filling a room).
 
 **For Secondary Effects:**
 - The player gains a free successful Defy action related to their initial action
@@ -486,7 +486,7 @@ Your action energizes and prepares for follow-up.
 - **Good:** "I expose his weak point — ally gains 1 Boon on next attack against him" — Secondary Effect: Create Advantage (reasonable)
 - **Good:** "I hold them off while my allies escape" — Secondary Effect: Seize Control (reasonable)
 - **Too Much:** "I kill the boss in one hit" — instant defeat without Talent. **Suggest:** "You deal devastating harm with Greater Effect (2 ticks) and he's clearly on death's door, but still standing."
-- **Too Much:** "I convince the entire city guard" — scale too large. **Suggest:** "Broad Effect affects their captain and 2-3 nearby guards."
+- **Too Much:** "I convince the entire city guard" — scale too large. **Suggest:** "Broad Effect affects their captain and a small squad of guards."
 
 ---
 
@@ -659,7 +659,7 @@ The primary effect of your success depends on your stated intent:
 
 **Example Special Effects (from Trait invocation):**
 - Enhanced Effect: Greater Effect (mark 2 ticks on Obstacle track, or Weakened 2 instead of 1, or control lasts twice as long)
-- Enhanced Effect: Broad Effect (pickpocket multiple guards, knockdown multiple foes, affect 2-3 targets)
+- Enhanced Effect: Broad Effect (pickpocket multiple guards, knockdown multiple foes, affect small group)
 - Secondary Effect: Free Defy to Take Something (grapple them AND steal their dagger)
 - Secondary Effect: Free Defy to Seize Control (dodge attack AND shove them into hazard)
 - Secondary Effect: Free Defy to Create Advantage (pickpocket keys AND blind them with kicked-up dust)
@@ -1150,7 +1150,7 @@ This creates:
 - May invoke Trait for one Special Effect (if narratively relevant)
 
 **Trait Special Effects (invoke after rolling if Conflict+):**
-1. **Enhanced Effect** — Greater Effect (mark 2 ticks for Defy/Clash/Talk, ask 1 additional question for Sense, or provide significantly more information for Know) OR Broad Effect (affect 2-3 targets)
+1. **Enhanced Effect** — Greater Effect (mark 2 ticks for Defy/Clash/Talk, ask 1 additional question for Sense, or provide significantly more information for Know) OR Broad Effect (affect small group or area)
 2. **Secondary Effect** — Gain a free Defy action related to your initial action:
    - Take Something (disarm, steal, extract information), Seize Control (grapple, reposition), Create Advantage (inflict Condition, grant Boon/Edge), Change Situation (shift relationships, alter environment)
    - Must be related to what you just did and fit the fiction

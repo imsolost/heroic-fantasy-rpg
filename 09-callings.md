@@ -74,7 +74,7 @@ You can use the Hunter calling to play all kinds of focused predators. You can b
 **HUNTER'S INSTINCT**
 You turn knowledge and preparation into decisive advantage.
 
-**Hunter's Sense:** When you Sense to assess a target or situation, a Conflict or higher result grants your next action related to what you learned 1 Boon and Edge.
+**Hunter's Sense:** When you Sense to assess a target or situation, a Conflict or higher result grants your next action related to what you learned 1 Boon and 1 Edge.
 
 **Hunter's Expertise:** You have Expertise (see Chapter 3) in Tracking, Trapping, and Wilderness Survival.
 
@@ -90,7 +90,7 @@ You have 1 Edge when tracking. When you successfully track a target, also learn 
 When you spend time studying a creature, ask: "What is its greatest weakness?" The GM answers honestly. Push Yourself to exploit that weakness with Potent effect.
 
 **Pack Leader [ ] [ ]**
-Mark this to grant a nearby ally the benefit of your Hunter's Sense — they gain 1 Boon and Edge on their next action related to a target you've assessed.
+Mark this to grant a nearby ally the benefit of your Hunter's Sense — they gain 1 Boon and 1 Edge on their next action related to a target you've assessed.
 
 **Predator's Instinct**
 You have Expertise when reading people, detecting lies, or sensing hidden motives. When you successfully Sense someone's intentions, you also learn one thing they're trying to hide.
@@ -408,12 +408,12 @@ This ensures Expertise remains a specialist tool, not a broad "never fail" butto
 
 **Champion:** Martial excellence specialist, Martial Superiority (Expertise with all weapons, 2 Special Effects in battle)
 
-**Hunter:** Wilderness tracker, Hunter's Instinct (Sense grants 1 Boon and Edge, Expertise in Tracking/Trapping/Survival)
+**Hunter:** Wilderness tracker, Hunter's Instinct (Sense grants 1 Boon and 1 Edge, Expertise in Tracking/Trapping/Survival)
 
 **Mystic:** Spiritual channeler, Spiritual Communion (2 patron domains, cast with Spirit, Expertise when in Favor)
 
 **Sage:** Scholarly spellcaster, Spellcraft (Specialist: 1 Sphere + Expertise / Generalist: 4 theorems any Sphere, cast with Cunning, Arcane Formula unlimited but costs 1 Stress each)
 
-**Shadow:** Infiltration specialist, Shadowcraft (1 Boon and Edge from advantage, Expertise in Stealth/Thievery/Deception)
+**Shadow:** Infiltration specialist, Shadowcraft (1 Boon and 1 Edge from advantage, Expertise in Stealth/Thievery/Deception)
 
 **Vanguard:** Protector, Unbreakable Guardian (reduce Stress from single Consequence, Guardian's Sacrifice suffers consequence for ally + reduce severity)

@@ -1,4 +1,4 @@
-# Potent Actions - FINAL DRAFT
+# Potent Actions - SIMPLIFIED DRAFT
 
 ---
 
@@ -18,9 +18,33 @@ When you take a Potent Action, you gain two benefits:
 **2. Gain 1 Edge** (ignore 1 Complication on this action)
 
 **Narrative Permission:** Potency also grants fictional permission for incredible feats:
-- **Group-scale:** Affect multiple targets or accomplish what a team could do (lift a boulder, volley of arrows, incite mutiny)
-- **Stretching limits:** Beyond normal mortal capability (leap a massive gap, endure fire, tell ridiculous lies)
+- **Group-scale:** Accomplish what a team could do (lift a boulder, volley of arrows, incite mutiny)
+- **Stretching limits:** Beyond normal mortal capability (leap a massive gap, endure fire, marathon run, hold portcullis for minutes)
 - **Mystical:** Supernatural effects within your domain (befriend a wild tiger, run across water, manifest divine glory)
+
+### Potency as Scale Enhancement
+
+**Potency enhances the scale of your action across three dimensions:**
+
+1. **Accomplishment:** Do what normally requires a group or extended effort
+2. **Effect:** Affect larger groups or areas
+3. **Duration:** Sustain effects beyond momentary
+
+**When Potency combines with Special Effects:**
+
+**Broad Effect:**
+- Without Potency: Small group or area
+- With Potency: Large group or wide area
+
+**Create Advantage:**
+- Without Potency: Grant 1 Boon, lasts briefly (1-2 actions)
+- With Potency: Grant 1 Edge (better quality), lasts scene
+
+**Greater Effect:**
+- Always marks 2 ticks (Potency doesn't change this)
+- Potency's Edge helps those ticks land against defended foes
+
+**The GM determines exact numbers based on fiction.** "Small group" might be 3 goblins or 6 townsfolk depending on context. "Scene duration" lasts until the scene ends or the fiction breaks it.
 
 ---
 
@@ -76,110 +100,55 @@ When Potency improves your Vantage to Certain, you auto-succeed:
 
 ### Examples
 
-**Example 1: Monk Runs Across Water**
+**Example 1: Barbarian Holds Portcullis**
 
-**Setup:** Guards are chasing the Monk. She attempts to run across a pond to escape.
-
-**Normal Vantage:** Impossible (no mystical training, physics doesn't allow it)
-
-**With Potent Feat of Mystical Grace:**
-- Vantage: Impossible → Limited (1 Bane - mystically possible but requires perfect balance)
-- Edge: +1 (ignore 1 Complication)
-
-**Guards shoot arrows at her mid-run:**
-- Guards have Vigilant Complication
-- Monk's 1 Edge ignores Vigilant
-- Rolls with just 1 Bane (from Limited Vantage)
-
-**Result:** Rolls Success (6)
-- Crosses the pond successfully
-- Can invoke "Trained in Secret Monastery" Trait for Secondary Effect (Create Advantage) → water splashes up behind her, obscuring guards' vision (allies gain 1 Boon)
-
----
-
-**Example 2: Cleric Converts Band of Goblins**
-
-**Setup:** A band of raucous goblins has little concern for religion. The Cleric delivers a sermon.
-
-**Normal Vantage:** Impossible (goblins are immune to religious appeals via Talk)
-
-**With Potent Sermon:**
-- Vantage: Impossible → Limited (2 Banes - now possible but very difficult)
-- Edge: +1 (ignore 1 Complication)
-
-**Goblin Chief is Resolute:**
-- Cleric's 1 Edge ignores Resolute
-- Rolls with just 2 Banes (from Limited Vantage)
-
-**Result:** Rolls Conflict (5)
-- Converts some of the goblins (marks 1 tick on Will track)
-- Takes Minor Consequence: The goblin chief becomes hostile, seeing the Cleric as a threat (mark 1 Stress)
-- Can invoke "Voice of the Divine" Trait for Build Momentum (grants ally 1 Momentum)
-
----
-
-**Example 3: Barbarian Arm-Wrestles Ogre**
-
-**Setup:** Barbarian challenges an ogre to arm wrestling at a tavern.
-
-**Normal Vantage:** Limited (2 Banes - size and strength disadvantage)
+**Normal Vantage:** Limited (2 Banes - beyond normal strength)
 
 **With Potent Feat of Strength:**
-- Vantage: Limited → Strong (rolls normally with no Banes)
-- Edge: +1 (ignore 1 Complication)
-
-**Ogre has Deadly (size/strength advantage):**
-- Barbarian's 1 Edge ignores Deadly
-- Rolls with no modifiers
-
-**Result:** Rolls Success (6)
-- Slams the ogre's arm down (marks 1 tick on Harm or Will track, or defeats outright if trivial)
-- Can invoke "Iron-Thewed" Trait for Greater Effect (mark 2 ticks instead of 1) - the arm slams down with such force it cracks the table, cheers erupt from the tavern
-
----
-
-**Example 4: Sage Casts Potent Fireball at Distant Enemy**
-
-**Setup:** Sage wants to hit an enemy on a distant rooftop, beyond normal spell range.
-
-**Normal Vantage:** Limited (1 Bane - extreme range strains the spell)
-
-**With Potent Spell (Ritual casting):**
 - Vantage: Limited → Strong (rolls normally)
-- Edge: +1 (ignore 1 Complication)
+- Edge: +1 Edge
+- Narrative permission: Hold it long enough for party to escape (scene duration)
 
-**Enemy behind magical ward:**
-- Enemy has Warded Complication
-- Sage's 1 Edge ignores Warded
-- Rolls with no modifiers
-
-**Result:** Rolls Triumph (two 6s)
-- Hits the target, marks 1 tick on Harm track
-- Gains 1 Momentum (from Triumph)
-- Ignores all Complications (Triumph effect, though Edge already handled Warded)
-- Can invoke "Master of the Arcane" Trait for Enhanced Effect (Greater Effect - marks 2 ticks instead of 1, fireball explodes with tremendous force)
+**Result:** Party escapes while Barbarian holds the massive gate, then rolls under at the last moment.
 
 ---
 
-**Example 5: Rogue Tells Potent Lie to the King**
+**Example 2: Sage Casts Fireball on Goblin Raiders**
 
-**Setup:** Rogue claims to be the king's long-lost bastard child, with time to prepare evidence and story.
+**Normal:** Single target, 1 tick damage
 
-**Normal Vantage:** Impossible (no evidence, absurd claim)
-
-**With Potent Lies (Forked Tongue Talent, given time):**
-- Vantage: Impossible → Limited (2 Banes - now possible but requires convincing delivery)
+**With Potent Spell + Broad Effect:**
+- Vantage: Strong → Certain (auto-success)
 - Edge: +1 (ignore 1 Complication)
+- Broad Effect + Potency: Large group (many goblins instead of few)
 
-**King is Resolute + Vigilant (skeptical and well-informed):**
-- Rogue's 1 Edge ignores Resolute
-- Faces only Vigilant (1 Complication)
-- Rolls with 2 Banes (Limited) + 1 Complication reduction (Success → Conflict)
+**Result:** Massive explosion engulfs the raiding party. Most go down instantly.
 
-**Result:** Rolls Success (6) → Reduced to Conflict by Vigilant
-- King is intrigued but suspicious (marks 1 tick on Will track)
-- Takes Minor Consequence: The king orders a royal inquisitor to investigate the claim (mark 1 Stress - pressure mounting)
-- Can invoke "Silver Tongue" Trait for Build Momentum (grants self 1 Momentum for follow-up action)
+---
+
+**Example 3: Cleric Wards the Party**
+
+**Normal Create Advantage:** Grant 1 Boon to one ally for next action
+
+**With Potent Blessing + Create Advantage:**
+- Grants 1 Edge (instead of 1 Boon) to entire party
+- Lasts scene (instead of 1 action)
+- Narrative: "Divine light surrounds you all—the demon's fear cannot pierce this holy protection"
+
+**Result:** All allies ignore demon's Frightening Presence Complication for the entire fight.
+
+---
+
+**Example 4: Monk Runs Across Water**
+
+**Normal Vantage:** Impossible (physics doesn't allow it)
+
+**With Potent Feat of Mystical Grace:**
+- Vantage: Impossible → Limited (1 Bane - mystically possible)
+- Edge: +1 (ignore pursuing guards' Vigilant Complication)
+- Narrative permission: Supernatural movement
+
+**Result:** Monk sprints across the pond, water splashing with each step, leaving guards stranded on the shore.
 
 ---
 
@@ -193,40 +162,35 @@ When Potency improves your Vantage to Certain, you auto-succeed:
 
 ### Combining with Other Mechanics
 
-**Potent Action + Boons:**
-- Potency improves Vantage
-- Boons add dice to your pool
-- Both apply
+**Potency stacks with everything:**
 
-> *Monk runs across water (Potent: Limited, 1 Edge). Ally assists (grants 1 Boon). Monk rolls 4d6 (Grace 3 + 1 Boon) with 1 Bane, ignoring 1 Complication.*
+- **+ Boons:** Potency improves Vantage, Boons add dice
+- **+ Create an Opening:** Gain 2 Edge total (Potency + Opening), plus 1 Boon
+- **+ Trait Invocation:** Roll Conflict or better, invoke Trait for Special Effect as normal
 
-**Potent Action + Create an Opening:**
-- Potency: Vantage +1 tier, 1 Edge, narrative permission
-- Create an Opening: 1 Boon, 1 Edge
-- Total: Vantage +1 tier, 2 Edge, 1 Boon, narrative permission
-
-> *Sage casts Potent Fireball at warded dragon (Potent: Strong, 1 Edge). Spends 1 Momentum for Create an Opening (1 Boon, 1 Edge). Total: Strong Vantage, +1d, ignore 2 Complications (Warded + Resilient).*
-
-**Potent Action + Trait Invocation:**
-- Potency does not grant free Special Effects
-- Roll Conflict or better → invoke Trait for Special Effect as normal
-- Potency's benefits (Vantage, Edge) are separate from Trait invocation
+**Example:**
+> Sage casts Potent Fireball at warded dragon. Spends 1 Momentum for Create an Opening. Rolls Conflict, invokes "Master of Flame" for Broad Effect.
+> 
+> **Result:** Strong Vantage (Potent), ignore 2 Complications (2 Edge), +1d from Opening, affects large group (Broad Effect + Potency)
 
 ---
 
 ### GM Guidance
 
 **When to Grant Potency:**
-- Talents explicitly state when they grant Potency
-- Rare magical items or rituals may grant Potency
-- Exceptional circumstances (divine intervention, ancient artifact) may grant one-time Potency
+- Talents explicitly grant Potency
+- Rare magical items or rituals
+- Divine intervention or ancient artifacts (one-time)
 
-**Don't grant Potency for:**
-- Normal advantages (those grant Boons)
-- Clever tactics (those improve Vantage naturally or grant Boons/Edge)
-- Spending resources without a Talent (Create an Opening does something different)
+**Potency is special and rare.** When a PC declares a Potent Action, it should feel like a pivotal moment.
 
-**Potency is special and rare.** It should feel like a dramatic moment when a Potent Action is declared.
+**Determining Scale:**
+- **Small group:** 3-6 targets (context dependent)
+- **Large group:** 6-10+ targets or area effect
+- **Scene duration:** Until scene ends or fiction breaks it
+- **Brief duration:** 1-2 actions
+
+**When in doubt:** Potent = scene duration or large group effect. Let the fiction guide exact numbers.
 
 ---
 

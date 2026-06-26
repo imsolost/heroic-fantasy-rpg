@@ -372,21 +372,21 @@ You cannot stack multiple enhancements — choose one per Potent Spell.
 **Lightning Bolt (Energy + Destroy):**
 - Normal Spell: Mark 1 tick on Harm track against single target
 - Potent + Greater Effect: Mark 2 ticks on Harm track against single target
-- Potent + Affect Multiple Targets: Mark 1 tick on 2-3 targets
+- Potent + Affect Multiple Targets: Mark 1 tick on small group
 - Potent + Secondary Consequence: Mark 1 tick + inflict Stunned 1 Condition
 - Potent + Increased Duration: N/A (instantaneous effect)
 
 **Charm Person (Mind + Bind):**
 - Normal Spell: Mark 1 tick on Will track against single target, lasts 1-2 actions
 - Potent + Greater Effect: Mark 2 ticks on Will track against single target
-- Potent + Affect Multiple Targets: Mark 1 tick on 2-3 targets
+- Potent + Affect Multiple Targets: Mark 1 tick on small group
 - Potent + Increased Duration: Charm lasts entire scene
 - Potent + Secondary Consequence: Mark 1 tick + target becomes Distracted 1
 
 **Invisibility (Mind + Deceive or Pattern + Alter):**
 - Normal Spell: Become invisible for 1-2 actions
 - Potent + Greater Effect: Become completely undetectable (sight, sound, scent)
-- Potent + Affect Multiple Targets: Make 2-3 people invisible
+- Potent + Affect Multiple Targets: Make small group invisible
 - Potent + Increased Duration: Remain invisible entire scene
 - Potent + Secondary Consequence: Invisibility + gain 1 Boon on stealth-related actions
 
@@ -728,7 +728,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 
 **Potent Spell Enhancements (choose one):**
 - **Greater Effect:** Double impact (2 ticks, double damage, nearly indestructible)
-- **Affect Multiple Targets:** 2-3 targets or small group
+- **Affect Multiple Targets:** Small group or area
 - **Increased Duration:** Moment → Scene (entire scene)
 - **Secondary Consequence:** Add secondary consequence (Condition, advantage, etc.)
 

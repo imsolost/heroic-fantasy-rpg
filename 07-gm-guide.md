@@ -205,8 +205,8 @@ See **vantage.md** for complete Vantage framework and the Three Questions tool.
 
 2. **What's their Vantage?** (Given who they are and the situation)
    - Certain → Auto-success (no roll)
-   - Reasonable → Standard roll
-   - Doubtful → 1-2 Banes
+   - Strong → Standard roll
+   - Limited → 1-2 Banes
    - Impossible → Cannot attempt
 
 3. **Is failure interesting?** (Would failure create drama/complications?)
@@ -280,7 +280,7 @@ These escalate tension and telegraph danger. Use when:
 - PC rolls Conflict
 - You want to create pressure
 - Building to bigger consequence
-- **Optional:** Spend 1 Threat (if using Threat Pool)
+- **Spend 1 Suspense** (optional: you can make free Suspense Moves without spending)
 
 Examples:
 - **Warn of imminent danger** — "The dragon's throat glows orange—flames are gathering!" / "The ogre raises its club high, preparing to strike!" / "The minotaur lowers its horns and charges!"
@@ -666,7 +666,7 @@ Conditions have a **name** and a **tier** (1-3):
 
 **Each Condition applies 1 Bane to all action rolls** (unless clearly inapplicable).
 
-**Multiple Conditions stack:** Each applies 1 Bane, maximum 2 Banes from Conditions total.
+**Multiple Conditions stack:** Each applies 1 Bane. (Subject to the universal ±2d pool modifier cap—see Chapter 2.)
 
 **Tracking:** "Poisoned 2" or "Frightened 1"
 
@@ -680,10 +680,7 @@ Conditions have a **name** and a **tier** (1-3):
 - Inflict a Condition (tier 1) instead of or alongside marking Stress as a consequence
 
 **From Stress Overflow:**
-- When PC's Stress track is full and they would mark more Stress, they take a Condition instead
-- 1 Stress → tier 1 Condition
-- 2 Stress → tier 2 Condition
-- 3 Stress → tier 3 Condition
+- When PC's Stress track is full and they would mark more Stress, they take a Burden instead (see Chapter 5 for Burden rules)
 
 **Same Condition inflicted again:**
 - Refreshes to original tier (does not escalate)
@@ -801,21 +798,30 @@ For scene-duration debuffs (Potent Spell + Duration), use different marker:
 
 ---
 
-## Threat Pool (Optional)
+## Suspense (GM Resource)
 
-If using Threat Pool (recommended for structured tension):
+**Suspense is a visible GM resource that tracks escalating tension.** Players can see your Suspense pool, making danger transparent and escalation feel earned rather than arbitrary.
 
-**Start combat with Threat = number of PCs (2-5)**
+**Starting Suspense:**
+- **Combat/Dangerous Scene:** Start with Suspense = number of PCs (2-5)
+- **Exploration/Social:** Start at 0, build as tension rises
 
-**Earn Threat:**
-- PC rolls Failure: +1 Threat
+**Earn Suspense:**
+- **PC rolls Setback:** +1 Suspense
+- **PCs trigger danger:** +1 Suspense (spring trap, alert guards, break truce)
+- **Time passes/situation worsens:** +1 Suspense (GM discretion)
 
-**Spend Threat:**
-- **Seize initiative (1 Threat):** Enemy acts immediately
-- **Activate ability (1-3 Threat):** Trigger special move
-- **Reinforce (2 Threat):** More enemies arrive
+**Spend Suspense:**
+- **Suspense Move (0-1 Suspense):** Telegraph danger, create pressure (most Suspense Moves are free; spend 1 for especially dramatic escalation)
+- **Impact Move (1-2 Suspense):** Deliver consequence, enemy acts, trigger danger
+- **Activate special ability (1-3 Suspense):** Boss uses signature move, reinforcements arrive, environment shifts
 
-**Don't hoard Threat.** Spend it to create drama and pressure.
+**Why Suspense is visible:**
+- Players understand threat level ("The GM has 4 Suspense — this is serious")
+- Spending Suspense feels earned ("You rolled Setback, I gain 1 Suspense and spend it to activate the trap")
+- Creates dramatic rhythm (Suspense builds → spends → builds again)
+
+**Don't hoard Suspense.** Spend it to create drama, pressure, and memorable moments. Empty Suspense pool = calm before the storm.
 
 ---
 
@@ -1271,7 +1277,7 @@ During character creation or downtime, players can define **Tangles** — compli
 - "My unstable magic flares up at the worst moment"
 - GM can suggest Tangle trigger, player can accept or refuse
 
-**Timing:** A player may invoke a Tangle during a narrative scene or before spotlight/initiative is assigned at the start of an exchange — never mid-combat or immediately following a dice roll. This prevents interference with Impact Move resolution and prevents tactical exploitation ("I invoke my Tangle right before I attack this boss"). If using Threat Pool, handle the Impact Move first, then allow Tangle invocation.
+**Timing:** A player may invoke a Tangle during a narrative scene or before spotlight/initiative is assigned at the start of an exchange — never mid-combat or immediately following a dice roll. This prevents interference with Impact Move resolution and prevents tactical exploitation ("I invoke my Tangle right before I attack this boss"). Handle the Impact Move first (which may give you Suspense), then allow Tangle invocation.
 
 **Frequency:** Each Tangle can be invoked once per session. Once triggered, that specific Tangle is "spent" until the next session begins. This prevents Momentum farming and ensures Tangles remain dramatic, character-defining complications rather than mechanical resources to spam.
 

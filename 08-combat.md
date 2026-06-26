@@ -15,12 +15,12 @@ This chapter provides optional tactical depth for combat encounters.
 **Baseline:** There is **no formal initiative system**. The GM follows the spotlight based on fiction — who's in danger, who just acted, whose turn feels dramatically right (see Chapter 7: Spotlight Rotation).
 
 **Optional Add-Ons:**
-- **Players:** Spend 1 Momentum to **Seize Spotlight** and act immediately out of turn (Chapter 7)
-- **GM:** Spend 1 Threat to **Seize Initiative** — enemy acts immediately, interrupting the current spotlight (Threat Pool, below)
+- **Players:** Spend 1 Momentum to **Seize Spotlight** and act immediately out of turn
+- **GM:** Spend 1-2 Suspense to **Seize Initiative** — enemy acts immediately, interrupting the current spotlight (see Suspense, below)
 
 **When uncertain:** Go clockwise around the table.
 
-**Key Principle:** Turn order emerges from fiction and dramatic pacing, not rigid counting. The optional systems (Seize Spotlight, Threat Pool) let players and GM create urgency by interrupting the default flow.
+**Key Principle:** Turn order emerges from fiction and dramatic pacing, not rigid counting. Suspense lets the GM create urgency by interrupting the default flow.
 
 ---
 
@@ -215,28 +215,30 @@ There are three ways to help allies during combat:
 
 These optional mechanics add tactical depth and dynamic pacing to combat.
 
-### Threat Pool
+### Suspense in Combat
 
-The GM can use a **Threat Pool** to create dynamic enemy action and pacing pressure.
+**Suspense** is a visible GM resource that creates dynamic enemy action and escalating tension. See Chapter 7 for complete Suspense rules.
 
-**Starting Threat:** Begin combat with Threat equal to number of PCs (2-5 Threat)
+**Starting Suspense:** Begin combat with Suspense equal to number of PCs (2-5 Suspense)
 
-**Earn Threat:**
-- PC rolls Setback → gain 1 Threat
-- PC triggers Tangle → gain 1 Threat (optional)
+**Earn Suspense:**
+- PC rolls Setback → +1 Suspense
+- PC triggers danger → +1 Suspense (spring trap, alert reinforcements, break environmental element)
 
-**Spend Threat:**
+**Spend Suspense in Combat:**
 
-**Seize Initiative (1 Threat):** Enemy acts immediately, interrupting spotlight
+**Seize Initiative (1-2 Suspense):** Enemy acts immediately, interrupting spotlight
 
-**Activate Special Ability (1-3 Threat):** Trigger enemy special move (area attack, summon reinforcements, powerful effect)
+**Activate Special Ability (1-3 Suspense):** Trigger enemy signature move (area attack, summon reinforcements, powerful effect)
 
-**Reinforce (2 Threat):** Additional enemies arrive mid-combat
+**Escalate (1 Suspense):** Environment shifts (fire spreads, ceiling collapses, storm intensifies)
 
 **Example:**
-> **GM:** "Kael, you roll Setback on your Clash. The orc captain laughs as your blade bounces off his shield. I gain 1 Threat. I'm spending it to Seize Initiative — the captain bellows and two more orcs charge from the treeline. Mira, they're heading straight for you. What do you do?"
+> **GM:** "Kael, you roll Setback on your Clash. The orc captain laughs as your blade bounces off his shield. I gain 1 Suspense. I'm spending it to Seize Initiative — the captain bellows and two more orcs charge from the treeline. Mira, they're heading straight for you. What do you do?"
 
-**Design Note:** Threat Pool creates tension without requiring initiative rolls. Use it when you want dynamic, unpredictable combat. Skip it for simple encounters.
+**Why Suspense is visible:** Players see the tension building. When you spend Suspense on a dragon's breath weapon, it feels earned, not arbitrary.
+
+**Design Note:** Suspense creates dynamic, unpredictable combat without initiative rolls. The visible pool makes escalation transparent.
 
 ---
 
@@ -387,7 +389,7 @@ This chapter provides **optional tactical tools** for groups that want more dept
 
 **Use maneuvers when:** Players declare tactical intent beyond "I attack"
 
-**Use Threat Pool when:** You want dynamic enemy action and unpredictable pacing
+**Use Suspense when:** You want dynamic enemy action and visible escalation
 
 **Use Epic Abilities when:** A boss fight needs mechanical teeth to match its fictional threat
 

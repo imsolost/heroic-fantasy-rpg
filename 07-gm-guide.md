@@ -995,11 +995,11 @@ Boss encounters should require **team coordination** and **multiple actions**.
 
 ---
 
-## Challenges: Structured Complex Scenes (Grimwild Pattern)
+## Complex Scenes: Multi-Stage Structure (Grimwild Pattern)
 
-When PCs face complex situations (escape, heist, ritual, negotiation), use the **Challenge** structure:
+When PCs face complex situations (escape, heist, ritual, negotiation), use a **Complex Scene** structure:
 
-### **Challenge Template:**
+### **Complex Scene Template:**
 
 **Name:** [Brief descriptor, e.g., "Escape the Collapsing Mine"]
 
@@ -1015,9 +1015,9 @@ When PCs face complex situations (escape, heist, ritual, negotiation), use the *
 - Example: "The mine collapses entirely. Mark 3 Stress and gain Condition: Trapped (Severe)"
 
 **Success Conditions:** How they win
-- Example: "Reach the exit before 3 failures accumulate" or "Fill 6-segment progress clock"
+- Example: "Reach the exit before 3 failures accumulate" or "Fill 6-segment progress track"
 
-### **Running a Challenge:**
+### **Running a Complex Scene:**
 
 1. Frame the situation, describe Goal and Obstacles
 2. Ask "What do you do?"
@@ -1027,16 +1027,16 @@ When PCs face complex situations (escape, heist, ritual, negotiation), use the *
 6. **Failure:** No progress, trigger Impact Move (Threat activates)
 7. Repeat until Success Conditions met or Fail-State triggered
 
-**Example Challenge:**
+**Example:**
 
 > **Ritual Interruption**
 > - **Goal:** Stop the cult's summoning before demon manifests
-> - **Progress Clock:** 6 segments to interrupt
+> - **Progress Track:** 6 segments to interrupt
 > - **Obstacles:** "Zealous cultists," "Arcane wards," "Complex ritual circle"
 > - **Threats:** "Demon partially manifests," "Cultists call reinforcements"
 > - **Fail-State:** Demon fully manifests (becomes boss fight)
 > 
-> **Ritual Progress (Threat):** 8-segment clock tracking ritual completion. Each failed PC roll marks 1 segment. At 8, demon appears.
+> **Ritual Progress (Threat):** 8-tick countdown track tracking ritual completion. Each failed PC roll marks 1 segment. At 8, demon appears.
 
 ---
 
@@ -1136,20 +1136,19 @@ When Tangle complicates the scene:
 
 ---
 
-## Clocks and Tracks
+## Progress and Countdown Tracks
 
-Segmented progress indicators representing ongoing situations, threats, and effort.
+**For complete track rules, see Chapter 4: Action Resolution.**
 
-**Clock Types:**
+**Track Types:**
 
-- **Countdown Clocks** — Something bad happens when this fills. Example: "The ritual completes" (8 segments), "Reinforcements arrive" (4 segments)
-- **Progress Tracks** — PCs fill this through effort. Example: "Navigate the labyrinth" (6 segments), "Earn the merchant's trust" (4 segments)
-- **Threat Clocks** — A threat grows more dangerous over time. Example: "The dragon's rage" (starts at 0, each PC wound adds 1 segment, at 6 it goes berserk)
+- **Progress Track** — PCs fill this through successful actions. Example: "Navigate the labyrinth" (6 ticks), "Earn the merchant's trust" (4 ticks)
+- **Countdown Track** — GM-facing timer; something happens when it fills. Example: "The ritual completes" (8 ticks), "Reinforcements arrive" (4 ticks)
 
 **How to Use:**
-- Mark segments when fiction demands it (typically on Conflict/Failure results, or when time passes)
-- Clock size = how long you want the situation to last (4 = short, 6 = medium, 8 = long)
-- Multiple clocks can run simultaneously (ritual clock vs. escape clock creates tension)
+- Mark ticks when fiction demands it (typically on Success/Conflict results for Progress, on Conflict/Setback for Countdown, or when time passes)
+- Track size = how long you want the situation to last (4 = short, 6 = medium, 8 = long)
+- Multiple tracks can run simultaneously (ritual countdown vs. escape progress creates tension)
 
 ---
 
@@ -1187,7 +1186,7 @@ When a roll produces a consequence, narrate it as a *move* — an action the wor
 - A villain gains power or completes a step
 - An ally loses resources or position
 - Danger spreads to innocents
-- Threat clock advances
+- Countdown track advances
 
 **Tough Choices (for Conflict results):**
 

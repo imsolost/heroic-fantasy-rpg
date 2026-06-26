@@ -248,12 +248,12 @@ If you have Expertise in a domain, you always have at least Limited Vantage for 
 
 **Conditions can reduce or eliminate vantage.**
 
-**From Clear → Limited (1 Bane):**
+**From Strong → Limited (1 Bane):**
 - Wounded while climbing
 - Frightened while negotiating
 - Exhausted while running
 
-**From Clear/Limited → No Vantage (impossible or 2 Banes):**
+**From Strong/Limited → Impossible (or 2 Banes):**
 - Blinded while aiming a bow (impossible for precision shots)
 - Broken arm while wielding two-handed weapon (impossible)
 - Stunned while casting spells (impossible to concentrate)
@@ -314,7 +314,7 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Don't double-penalize:** If a Condition already removes vantage (imposing Banes), don't also impose additional Banes for difficulty unless the task is inherently harder than standard.
 
-**Fiction first:** Vantage isn't about making things harder mechanically—it's about respecting what makes sense fictionally. A broken arm doesn't make sword fighting "hard" (1 Bane), it makes it impossible (No Vantage).
+**Fiction first:** Vantage isn't about making things harder mechanically—it's about respecting what makes sense fictionally. A broken arm doesn't make sword fighting "hard" (1 Bane), it makes it impossible.
 
 **Expertise matters:** If a player has Expertise, they have at least Limited Vantage even in adverse circumstances. Respect their specialization.
 

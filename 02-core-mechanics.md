@@ -246,6 +246,14 @@ When an ally makes an action roll, you may **mark 1 Stress** to grant them **1 B
 
 **Limits:** You must be positioned to help fictionally. Multiple allies can Assist the same roll (each marking 1 Stress), but the +2 Boon cap still applies.
 
+### Push Yourself
+
+When you make an action roll, you may **mark 1 Stress** to gain **1 Boon** on that roll before rolling. This represents exceptional effort, pushing beyond your normal capabilities.
+
+**Example:** "I dig deep and push through the pain" (mark 1 Stress, gain +1d on your roll)
+
+**Timing:** Declare before you roll. You can combine Push Yourself with Assist from allies, subject to the +2 Boon cap.
+
 ### Setup
 
 When your action creates an opening or advantage for an ally's follow-up, the GM may grant them **1 Boon** on their next related action at no cost—you already spent your action creating the advantage.

@@ -1010,6 +1010,25 @@ Minions should go down fast. Reserve complex fights for bosses.
 
 ---
 
+## Awarding Levels
+
+**Award levels based on narrative milestones, not session count or XP totals.** Advancement should feel earned and tied to story progress.
+
+**Suggested Milestones:**
+- **Level 2-3:** After completing your first major arc (saving the village, defeating the local threat, solving the central mystery, establishing yourself as competent heroes)
+- **Level 4 (Rank 2):** After proving yourself exceptional (defeating a dangerous beast, exposing a conspiracy, winning a tournament, completing multiple adventures that demonstrate mastery)
+- **Level 5-6:** After multiple city/regional adventures (building reputation, gaining allies, facing increasingly dangerous threats)
+- **Level 7 (Rank 3):** After your first truly legendary feat (slaying a young dragon, stopping a regional disaster, achieving something that enters folklore)
+- **Level 8-9:** After multiple mythic accomplishments (facing legendary monsters, shaping regional politics, performing impossible feats)
+- **Level 10 (Rank 4):** Campaign climax (facing the demon lord, ancient dragon, archlich, or other world-ending threat; achieving apotheosis; becoming legend)
+
+**Typical Campaign Pace:**
+- **Short campaign (10-15 sessions):** Award levels every 1-2 sessions (reach Level 5-6, ending at Rank 2)
+- **Medium campaign (20-30 sessions):** Award levels every 2-3 sessions (reach Level 8-9, experience Rank 3)
+- **Long campaign (40+ sessions):** Award levels every 3-5 sessions (reach Level 10, experiencing all four Ranks with time to explore each tier)
+
+---
+
 ## Challenges: Structured Complex Scenes (Grimwild Pattern)
 
 When PCs face complex situations (escape, heist, ritual, negotiation), use the **Challenge** structure:

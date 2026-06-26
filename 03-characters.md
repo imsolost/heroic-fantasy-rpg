@@ -353,6 +353,8 @@ Characters grow more powerful through play, gaining new abilities and expanding 
 
 ### Level Progression Table
 
+**Cap Notation:** When you gain an Approach increase, the "cap" shows the maximum rating you can raise an Approach to with that specific increase. For example, at Level 2 you gain "+1 Approach (cap 2)" — you can raise any Approach from 0→1, 1→2, but not 2→3 (that requires a higher cap). This prevents overspecialization early and encourages balanced growth.
+
 | Level | Gain | Notes |
 |-------|------|-------|
 | **1** | **Start** | Choose Calling (Core Talent + 1 secondary Talent), 3 Traits, Rank 1 |
@@ -393,6 +395,33 @@ Characters grow more powerful through play, gaining new abilities and expanding 
 - **Talents:** 7
 - **Traits:** 5
 - **Rank:** 4 (Mythic Heroes)
+
+---
+
+### Dice Pool Progression
+
+**Starting Power Level (3d6 typical pool):**
+- Approach 3 baseline
+- 12.4% setback rate (competent baseline)
+
+**Tier 1 (Early Game): 3d6 → 4d6**
+- Increase Approach 3 → 4, gain situational Talents
+- Target: 4d6 pools (6.2% setback, 13.3% Triumph)
+
+**Tier 2 (Mid Game): 4d6 → 5d6**
+- Increase Approach 4 → 5, gain more Talents
+- Target: 5d6 pools (3.1% setback, 19.6% Triumph)
+
+**Tier 3 (Heroic Tier): 5d6 → 6d6+**
+- Stack multiple Boon sources, powerful Talents
+- Target: 6-7d6 pools (1.6-0.8% setback, 26-33% Triumph)
+
+**Maximum Recommended Pool:** 7d6 (represents legendary heroes, Triumph caps around 33%)
+
+**Advancement Feel:**
+- 3d6 → 4d6 is transformative (setback drops from 12.4% to 6.2%)
+- 4d6 → 5d6 feels good (Triumph climbs from 13.3% to 19.6%)
+- 5d6 → 6d6 → 7d6 has diminishing returns (Triumph only goes 19.6% → 26.3% → 33.1%)
 
 ---
 
@@ -521,6 +550,20 @@ Rank increases at **Level 4** (Rank 2), **Level 7** (Rank 3), and **Level 10** (
 
 ---
 
+#### Rank 2 vs Rank 3: The Mythological Threshold
+
+Rank 2 heroes are **impossible but not mythological**. They exceed real-world capability through extraordinary skill, training, and talent—but their feats still feel like extreme human achievement rather than supernatural power.
+
+- **Rank 2 Champion:** Defeats dozens of trained soldiers through superior speed, technique, and tactics. Survives a three-story fall with broken ribs. Smashes through a wooden barricade with a shoulder charge. Leaps between rooftops.
+- **Rank 3 Champion:** Throws ten soldiers across the room with one blow. Survives a mountain fall (injured but alive). Punches through stone walls. Runs up vertical cliffs.
+
+- **Rank 2 Sage:** Teleports across a city district (Potent Spell). Strikes multiple foes with fireball (Potent Spell). Creates nearly indestructible barriers for a scene (Potent Spell). Summons powerful spirits for days (Ritual).
+- **Rank 3 Sage:** Teleports across kingdoms (Potent Spell). Freezes entire lakes solid. Raises fortresses from stone. Opens portals between worlds.
+
+The difference is **genre**, not just scale. Rank 2 heroes push the limits of believability while remaining recognizably mortal. Rank 3 heroes openly violate physics and enter the realm of myth.
+
+---
+
 #### Understanding Rank: Genre, Not Just Power
 
 Think of Rank as defining the **fantasy genre** you're playing in, not just your power level:
@@ -597,18 +640,6 @@ Think of Rank as defining the **fantasy genre** you're playing in, not just your
 - **Inventing useful gadgets from available materials**, forging masterwork weapons in days, creating potent alchemical formulas
 
 **Key Note:** These heroes are legendary within mortal bounds. A Rank 2 swordmaster can defeat a dozen trained soldiers through superior skill, timing, and tactics—not by throwing them across the room with one blow.
-
-**Rank 2 vs Rank 3: The Mythological Threshold**
-
-Rank 2 heroes are **impossible but not mythological**. They exceed real-world capability through extraordinary skill, training, and talent—but their feats still feel like extreme human achievement rather than supernatural power.
-
-- **Rank 2 Champion:** Defeats dozens of trained soldiers through superior speed, technique, and tactics. Survives a three-story fall with broken ribs. Smashes through a wooden barricade with a shoulder charge. Leaps between rooftops.
-- **Rank 3 Champion:** Throws ten soldiers across the room with one blow. Survives a mountain fall (injured but alive). Punches through stone walls. Runs up vertical cliffs.
-
-- **Rank 2 Sage:** Teleports across a city district (Potent Spell). Strikes multiple foes with fireball (Potent Spell). Creates nearly indestructible barriers for a scene (Potent Spell). Summons powerful spirits for days (Ritual).
-- **Rank 3 Sage:** Teleports across kingdoms (Potent Spell). Freezes entire lakes solid. Raises fortresses from stone. Opens portals between worlds.
-
-The difference is **genre**, not just scale. Rank 2 heroes push the limits of believability while remaining recognizably mortal. Rank 3 heroes openly violate physics and enter the realm of myth.
 
 ---
 
@@ -734,25 +765,6 @@ Even when complications force a roll against a lower-Rank challenge (hostage sit
 - Determine when rolls are even necessary (auto-success below your Rank)
 - Scale the fiction (how far you can travel, how many people you can influence, how durable you are)
 - Grant narrative permission for extraordinary feats at higher Ranks
-
----
-
-### When to Award Levels
-
-**GMs should award levels based on narrative milestones, not session count or XP totals.** Advancement should feel earned and tied to story progress.
-
-**Suggested Milestones:**
-- **Level 2-3:** After completing your first major arc (saving the village, defeating the local threat, solving the central mystery, establishing yourself as competent heroes)
-- **Level 4 (Rank 2):** After proving yourself exceptional (defeating a dangerous beast, exposing a conspiracy, winning a tournament, completing multiple adventures that demonstrate mastery)
-- **Level 5-6:** After multiple city/regional adventures (building reputation, gaining allies, facing increasingly dangerous threats)
-- **Level 7 (Rank 3):** After your first truly legendary feat (slaying a young dragon, stopping a regional disaster, achieving something that enters folklore)
-- **Level 8-9:** After multiple mythic accomplishments (facing legendary monsters, shaping regional politics, performing impossible feats)
-- **Level 10 (Rank 4):** Campaign climax (facing the demon lord, ancient dragon, archlich, or other world-ending threat; achieving apotheosis; becoming legend)
-
-**Typical Campaign Pace:**
-- **Short campaign (10-15 sessions):** Award levels every 1-2 sessions (reach Level 5-6, ending at Rank 2)
-- **Medium campaign (20-30 sessions):** Award levels every 2-3 sessions (reach Level 8-9, experience Rank 3)
-- **Long campaign (40+ sessions):** Award levels every 3-5 sessions (reach Level 10, experiencing all four Ranks with time to explore each tier)
 
 ---
 

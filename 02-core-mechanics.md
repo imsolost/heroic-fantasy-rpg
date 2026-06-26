@@ -225,8 +225,8 @@ Boon and Bane represent advantage and disadvantage.
 - Environmental advantage (perfect lighting, stable footing, ideal weather)
 - Tactical superiority (outnumbering enemy, ambush, surprise)
 - Talents (specific circumstances)
-- Assist (ally marks 1 Stress to grant you 1 Boon)
-- Push Yourself (mark 1 Stress to gain 1 Boon)
+- Assist (ally marks 1 Stress to grant you 1 Boon — see Working Together below)
+- Push Yourself (mark 1 Stress to gain 1 Boon — see Chapter 5: Resilience)
 
 **Maximum:** 2 Boons (+2d cap)
 
@@ -503,35 +503,6 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 ---
 
-## Advancement Structure
-
-### Starting Power Level
-**3d6 typical pool** (Approach 3)
-- Competent baseline: 12.4% setback rate
-
-### Tier 1 (Early Game)
-**3d6 → 4d6 progression**
-- Increase Approach 3 → 4, gain situational Talents
-- Target: 4d6 pools (6.2% setback, 13.3% Triumph)
-
-### Tier 2 (Mid Game)
-**4d6 → 5d6 progression**
-- Increase Approach 4 → 5, gain more Talents
-- Target: 5d6 pools (3.1% setback, 19.6% Triumph)
-
-### Tier 3 (Heroic Tier)
-**5d6 → 6d6+ progression**
-- Stack multiple Boon sources, powerful Talents
-- Target: 6-7d6 pools (1.6-0.8% setback, 26-33% Triumph)
-
-**Maximum Recommended Pool:** 7d6 (represents legendary heroes, Triumph caps around 33%)
-
-**Advancement Feel:**
-- 3d6 → 4d6 is transformative (setback drops from 12.4% to 6.2%)
-- 4d6 → 5d6 feels good (Triumph climbs from 13.3% to 19.6%)
-- 5d6 → 6d6 → 7d6 has diminishing returns (Triumph only goes 19.6% → 26.3% → 33.1%)
-
----
 
 ## Design Principles
 

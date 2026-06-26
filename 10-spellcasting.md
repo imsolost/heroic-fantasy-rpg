@@ -236,30 +236,24 @@ Mystics use **Domains** as touchstones — thematic areas of divine/primal power
 **Healing Domain** (life, vitality, restoration, purity)
 - **Can:** Mend wounds, cure disease, restore vitality, cleanse corruption, preserve life
 - **Cannot:** Raise the dead (beyond a few moments), attack directly, dominate minds
+- **Magnitude Examples:** Ease aches (Cantrip) / Clear 1 Stress, cure disease (Spell) / Clear 3 Stress, mend broken bones (Potent)
 
 **Nature Domain** (beasts, plants, weather, wilderness)
 - **Can:** Command animals, summon plants, call storms, traverse wilderness effortlessly
 - **Cannot:** Heal wounds directly (unless combined with Healing), read minds, manipulate time
+- **Magnitude Examples:** Speak with animals (Cantrip) / Command animals, summon vines (Spell) / Transform into animal, call weather (Potent)
 
 **Death Domain** (mortality, spirits, decay, endings)
 - **Can:** Speak with dead, guide souls, wither enemies, sense dying, animate undead
 - **Cannot:** Heal the living (opposes life), create matter, teleport, read thoughts
+- **Magnitude Examples:** Sense dying (Cantrip) / Speak with dead, turn undead (Spell) / Raise temporary servant (Potent)
 
 **Protection Domain** (shields, wards, defense, sanctuary)
 - **Can:** Create barriers, shield allies, ward against harm, deflect attacks, consecrate ground
 - **Cannot:** Attack directly (defensive only), heal wounds, divine information, transform
+- **Magnitude Examples:** Ward small area (Cantrip) / Create barriers, bless allies (Spell) / Consecrate ground, permanent wards (Potent)
 
-### Domain Examples with Magnitude
-
-**Healing Domain (Life, Vitality, Restoration, Purity):**
-- **Cantrips:** Ease minor aches, diagnose ailments, sterilize wounds, slow bleeding
-- **Spells:** Clear 1 Stress, reduce Condition by 1 tier, cure disease/poison, stabilize dying character
-- **Potent Spells:** Clear 3 Stress, remove Condition entirely, cure magical disease, reduce Burden by 1 tier, mend broken bones instantly
-
-**Other Common Domains (abbreviated):**
-- **Nature:** Command animals, summon vines, call weather, transform into animal (Potent)
-- **Death:** Speak with dead, turn undead, wither living, raise temporary servant (Potent)
-- **Protection:** Create barriers, ward locations, bless allies, consecrate ground (Potent)
+**Other Common Domains:**
 - **Battle:** Empower weapons, inspire warriors, strike with divine wrath
 - **Prophecy:** Divine future, read fate, grant visions
 - **Storms:** Call lightning, summon wind, control weather
@@ -427,8 +421,6 @@ A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatur
 | **Rank 3** | National (Mythic) | Teleport across kingdoms, freeze lake, raise fortress, summon dragons, open portals between worlds, animate construct army, scry anywhere on continent |
 | **Rank 4** | World (Demigod) | Move entire cities, create pocket dimensions, seal gods, rewrite national curses, alter regional climates permanently, resurrect legendary heroes |
 
-**Key principle:** Don't let players bypass Rank by saying "but I'm using magic!" A Rank 1 spellcaster heals moderate wounds (3 Stress). A Rank 4 spellcaster cures mortal wounds, restores limbs, reverses aging—because they're demigod-tier, not because "healing magic is just better."
-
 ---
 
 ## Common Spellcasting Rulings
@@ -583,9 +575,9 @@ This is a **Talent ability**, not a default spellcasting capability. Without the
 ### Potions and Magical Items
 
 **Potions:**
-- Drinking/applying a potion is an Action (typically Defy to consume safely, or automatic in safe circumstances)
+- Drinking/applying a potion is automatic in most circumstances. If the fiction makes it risky (mid-combat, restrained, unstable potion), the GM may call for Defy.
 - Effect is automatic (no roll) once consumed
-- Potions replicate spell effects: healing (clear 2 Stress), invisibility (scene-long), fire resistance (grants Boons against fire), etc.
+- Potions replicate spell effects: healing (clear 1 Stress for normal, 3 Stress for potent), invisibility (scene-long), fire resistance (grants Boons against fire), etc.
 
 **Magical Items:**
 - Using a magical item follows its specific rules (defined by GM)

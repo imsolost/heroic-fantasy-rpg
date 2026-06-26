@@ -236,7 +236,7 @@ Mystics use **Domains** as touchstones — thematic areas of divine/primal power
 **Healing Domain** (life, vitality, restoration, purity)
 - **Can:** Mend wounds, cure disease, restore vitality, cleanse corruption, preserve life
 - **Cannot:** Raise the dead (beyond a few moments), attack directly, dominate minds
-- **Magnitude Examples:** Ease aches (Cantrip) / Clear 1 Stress, cure disease (Spell) / Clear 3 Stress, mend broken bones (Potent)
+- **Magnitude Examples:** Ease aches (Cantrip) / Clear 1 Stress, cure disease (Spell) / Clear 2 Stress, mend broken bones (Potent)
 
 **Nature Domain** (beasts, plants, weather, wilderness)
 - **Can:** Command animals, summon plants, call storms, traverse wilderness effortlessly
@@ -462,11 +462,11 @@ When an enemy casts a spell at you, the GM triggers a Defy roll:
 
 Spirit sphere spells can heal injuries and restore vitality.
 
-**Spell (Spirit + Mend):**
+**Spell:**
 - Clear 1 Stress OR reduce a Condition by 1 tier
 - Examples: Close wounds, ease pain, stabilize dying, reduce Poisoned 2 to Poisoned 1
 
-**Potent Spell (Spirit + Mend, costs 1 Stress):**
+**Potent Spell (costs 1 Stress):**
 - Clear 3 Stress OR remove a Condition entirely
 - Examples: Heal severe wounds, cure disease, remove poison, restore vitality
 

@@ -264,8 +264,8 @@ Mystics use **Domains** as touchstones — thematic areas of divine/primal power
 
 **Healing Domain (Life, Vitality, Restoration, Purity):**
 - **Cantrips:** Ease minor aches, diagnose ailments, sterilize wounds, slow bleeding
-- **Spells:** Clear 2 Stress, reduce Condition by 1 tier, cure disease/poison, stabilize dying character
-- **Potent Spells:** Clear 3 Stress, remove Condition entirely, cure magical disease, mend broken bones instantly
+- **Spells:** Clear 1 Stress, reduce Condition by 1 tier, cure disease/poison, stabilize dying character
+- **Potent Spells:** Clear 3 Stress, remove Condition entirely, cure magical disease, reduce Burden by 1 tier, mend broken bones instantly
 
 **Other Common Domains (abbreviated):**
 - **Nature:** Command animals, summon vines, call weather, transform into animal (Potent)
@@ -457,7 +457,7 @@ A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatur
 
 ### Magic Trappings
 
-Describe what your magic looks like, sounds like, and feels like. Magic should be visceral and obvious unless you're specifically casting subtly (which might impose Complications or require specific touchstones like Mind sphere for illusions or Elements for darkness).
+Describe what your magic looks like, sounds like, and feels like. Magic should be visceral and obvious unless you're specifically casting subtly (which might impose Complications or require specific touchstones like Mind sphere for illusions or Energy sphere for darkness).
 
 **Examples:**
 - Elements (Fire): Flames, heat shimmer, smell of smoke, crackling sounds
@@ -465,7 +465,7 @@ Describe what your magic looks like, sounds like, and feels like. Magic should b
 - Energy (Wards): Shimmering barriers, crystalline sounds, faint glow
 - Time or Mind (Divination): Eyes glow, ethereal visions, sense of distant presence
 
-**Concealing Magic:** If you want to cast without being noticed, this may require a specific touchstone (Mind sphere for illusions, Elements for darkness) or impose Complications (guards notice your gestures, enemy sees the spell forming). Work with your GM.
+**Concealing Magic:** If you want to cast without being noticed, this may require a specific touchstone (Mind sphere for illusions, Energy sphere for darkness) or impose Complications (guards notice your gestures, enemy sees the spell forming). Work with your GM.
 
 ---
 
@@ -574,7 +574,7 @@ Pattern sphere can reveal magical presence and details.
 
 **Spell/Potent Spell (Pattern + Reveal):**
 - Use Sense action to investigate magic
-- Ask questions based on outcome (2 questions on Success, 1 on Conflict)
+- Ask 2 questions on Success or Conflict (Conflict adds Minor Consequence)
 - Questions: What type of magic? Who cast it? What does it do? How strong? Where is the source?
 
 Use core Sense mechanics. No special procedures.
@@ -685,7 +685,7 @@ Structure rites as **progress tracks** or **required actions:**
   - Travel to the Temple of Death (journey, separate scene)
   - Gather the ingredients (adventure, quest)
   - Perform the casting during the new moon (6-tick Obstacle track, Defy + Spirit)
-  - Summon the god's envoy to petition for the king's soul (Talk + Presence to convince)
+  - Summon the god's envoy to petition for the king's soul (Talk with Spirit to convince)
 
 **3. PCs gather anchors** (this may take multiple sessions — acquiring rare components is adventure content)
 
@@ -739,7 +739,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - **Divine/Detect:** Sense (ask questions)
 - **Analyze/Identify:** Know (learn information)
 
-**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 3 Stress OR remove Condition entirely (Potent Spell, costs 1 Stress). On Conflict, use standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited), though narrative consequences often make more sense for healing.
+**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 3 Stress OR remove Condition entirely (Potent Spell, costs 1 Stress). On Conflict, prefer narrative consequences over marking Stress (exhaustion, time, limited effect).
 
 **Detect Magic:** Cantrip for presence (yes/no), Sense action for details (ask questions)
 
@@ -777,15 +777,3 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - **Dungeon World 2** — Domain pools as touchstones, potent spell framework
 - **Blades in the Dark** — Effect magnitude (tier system)
 
----
-
-## Summary of Spellcasting Rules
-
-**Core Principles:**
-- Magic uses existing Actions (Defy/Clash/Talk/Sense/Know) based on intent
-- Sage casts with **Cunning**, Mystic casts with **Spirit**
-- Cantrips are unlimited, automatic, and require no roll
-- Potent Spells always cost 1 Stress + choose ONE enhancement (Greater Effect, Affect Multiple Targets, Increased Duration, or Secondary Consequence)
-- Default spell durations: Instantaneous (damage, healing) / Moment (1-2 actions: buffs, barriers) / Scene (Potent + Duration) / Permanent (Ritual only)
-- Healing clears 1 Stress OR reduces Condition tier by 1 (Spell); or clears 3 Stress OR removes Condition entirely (Potent Spell, costs 1 Stress). On Conflict, use standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited), though narrative consequences often make more sense for healing.
-- Detecting magic presence is a cantrip (yes/no); getting details uses Sense action (ask questions)

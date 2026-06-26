@@ -146,12 +146,6 @@ These are examples to illustrate the variety possible. Declare your intent, the 
 
 ### GM Guidance
 
-**Maneuvers are just declared intent + standard Actions.** Don't create special rules. Use existing resolution.
-
-**Many maneuvers ARE Defy's primary effect.** Disarming, grappling, shoving, creating openings—these are all things Defy does. When you invoke a Trait for a Benefit, you're doing something EXTRA on top of your primary intent.
-
-**Special Effects (Trait invocation) are where maneuvers get impressive.** When a PC achieves Conflict or higher and invokes a Trait, they gain a Special Effect—either a Secondary Effect (free Defy action related to what you just did), Enhanced Effect (make your success bigger/better), or Build Momentum. See Chapter 4 for complete Special Effects framework.
-
 **Fictional positioning matters.** Disarming requires melee range. Shoving off a ledge requires a ledge. Blinding with sand requires sand. Fiction first, always.
 
 **Don't gate maneuvers behind Talents** unless extraordinary (disarming at range, sundering legendary equipment, instant-kills without setup).
@@ -260,28 +254,13 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 **For complete enemy design, see Chapter 6: Challenges.**
 
-**Track Durability:**
-- **Minions:** 2 ticks (1 Success)
-- **Standard:** 4 ticks (2 Successes)
-- **Elite:** 6 ticks (3 Successes)
-- **Boss:** 8-10 ticks (4-5 Successes)
+**Track Durability:** Minions 2 ticks (1 Success), Standard 4 ticks (2 Successes), Elite 6 ticks (3 Successes), Boss 8-10 ticks (4-5 Successes)
 
-**Impact Moves:**
-- **Soft (Minor Consequence):** Mark 1 Stress
-- **Hard (Major Consequence):** Mark 2 Stress
+**Impact Moves:** Soft = 1 Stress, Hard = 2 Stress
 
-**Stakes (Consequence Calibration):**
-- **Low Stakes:** Reduce Consequence tier by 1
-- **Regular Stakes:** Standard consequences (default)
-- **High Stakes:** Increase Consequence tier by 1
-- See Chapter 7: Stakes for complete calibration guide
+**Stakes:** Low = -1 tier, Regular = default, High = +1 tier (see Chapter 7)
 
-**Roles (Behavior):**
-- **Brute:** High damage, charges in
-- **Defender:** Protects allies, intercepts
-- **Blaster:** Ranged/area attacks, stays distant
-- **Controller:** Inflicts Conditions, manipulates battlefield
-- **Skirmisher:** Mobile hit-and-run, hard to pin down
+**Roles:** Brute (high damage), Defender (protects allies), Blaster (ranged/area), Controller (Conditions), Skirmisher (mobile hit-and-run)
 
 ---
 
@@ -360,5 +339,3 @@ This chapter provides **optional tactical tools** for groups that want more dept
 **Use Epic Abilities when:** A boss fight needs mechanical teeth to match its fictional threat
 
 **Always:** Ground mechanics in fiction first. A maneuver succeeds because the outcome supports it, not because you paid a mechanical cost.
-
-For core rules and simple combat, see Chapters 4-7. This chapter is for when you want more.

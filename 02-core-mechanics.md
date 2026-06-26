@@ -695,7 +695,7 @@ See Chapter 4 for Disaster Impact Moves.
 
 **Boon/Bane:** Cap ±2d, cancel 1:1, affect probability (not outcomes)
 
-**Pool Range:** 3d6 (worst case: 5d6 - 2 Banes) to 7d6 (best case: 5d6 + 2 Boons)
+**Pool Range:** 0d6 (worst case: 2d6 - 2 Banes) to 7d6 (best case: 5d6 + 2 Boons)
 
 **Zero Dice:** If pool reduced to 0d, roll 2d6 and take lowest result
 

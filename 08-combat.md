@@ -261,20 +261,20 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 - **Example:** Troll's crushing backhand, swordmaster's riposte
 
 **Frightening Presence**
-- **Effect:** When you first engage in combat, roll Defy:
+- **Effect:** When you first engage in combat, each PC rolls Defy with Spirit (resist fear):
   - Setback → Frightened 2 (Condition)
   - Conflict → Frightened 1
   - Success/Triumph → Unaffected
 - **Example:** Dragon, demon lord, ancient vampire
 
 **Legendary Actions**
-- **Effect:** After each PC's turn, Epic Foe gets a reaction (bite, tail sweep, spell, reposition).
-- **Example:** Dragon tail sweep, kraken tentacle grab, lich counterspell
-- **Design Note:** Keeps pressure on PCs, makes combat feel dynamic
+- **Effect:** GM may spend 1-2 Suspense between PC actions to trigger an enemy action (bite, tail sweep, spell, reposition). Represents Epic Foe's exceptional speed and power.
+- **Example:** Dragon tail sweep (1 Suspense), kraken tentacle grab (1 Suspense), lich counterspell (2 Suspense)
+- **Design Note:** Keeps pressure on PCs, makes combat feel dynamic. Use sparingly—1-2 per round maximum.
 
 **Area Attack**
-- **Effect:** Attacks all PCs in Close zone. Roll once, apply result to all targets. Each PC can Resist separately (spend Momentum, roll Defy).
-- **Example:** Dragon breath weapon, giant's ground slam, necromancer's death wave
+- **Effect:** Affects all PCs in Close zone. GM makes one Impact Move describing the attack. Each PC rolls Defy (with appropriate Approach) to avoid or reduce the consequence.
+- **Example:** Dragon breath weapon (Defy with Grace to dodge), giant's ground slam (Defy with Daring to brace), necromancer's death wave (Defy with Spirit to resist)
 
 **Multi-Phase**
 - **Effect:** At 50% track, Epic Foe changes tactics (becomes enraged, casts major spell, reveals true form).
@@ -305,10 +305,11 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 - **Soft (Minor Consequence):** Mark 1 Stress
 - **Hard (Major Consequence):** Mark 2 Stress
 
-**Consequence Modifiers (Universal Complications):**
-- **Deadly (Universal):** Increases Consequence tier by 1 (Minor → Major, Major → Severe)
-- **Weak (Universal):** Reduces Consequence tier by 1 (Major → Minor, cannot reduce below Minor)
-- **Pathetic (Universal):** Can only trigger Minor Consequences (max 1 Stress)
+**Stakes (Consequence Calibration):**
+- **Low Stakes:** Reduce Consequence tier by 1
+- **Regular Stakes:** Standard consequences (default)
+- **High Stakes:** Increase Consequence tier by 1
+- See Chapter 7: Stakes for complete calibration guide
 
 **Roles (Behavior):**
 - **Brute:** High damage, charges in
@@ -337,7 +338,7 @@ Give Epic Foes **2-3 abilities maximum**. More than that overwhelms.
 
 **Round 2:**
 
-**Kael:** Spends Momentum to Seize Spotlight, exploits Ryn's discovered weakness → Clash → Success → 2 ticks (bypassed "Armored" with Opening)
+**Kael:** Spends Momentum to Seize Spotlight, exploits Ryn's discovered weakness → Clash → Success → 2 ticks (GM rules the fictional weakness bypasses "Armored")
 
 **Warboss:** Counterattacks → Kael Defy → Setback → Mark 2 Stress, knocked Prone (GM gains 1 Threat)
 

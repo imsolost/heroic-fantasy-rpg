@@ -569,15 +569,13 @@ All mechanically identical (1 Boon for X actions), but fiction explains why.
 Pattern sphere can reveal magical presence and details.
 
 **Cantrip (Pattern + Reveal):**
-- Sense magical presence within close range (yes/no)
+- Sense magical presence nearby (yes/no)
 - No questions, just awareness
 
 **Spell/Potent Spell (Pattern + Reveal):**
-- Use Sense action to investigate magic
-- Ask 2 questions on Success or Conflict (Conflict adds Minor Consequence)
-- Questions: What type of magic? Who cast it? What does it do? How strong? Where is the source?
-
-Use core Sense mechanics. No special procedures.
+- Use Sense action (see Chapter 4)
+- Ask 2 questions on Conflict or higher
+- Example questions: What type of magic? Who cast it? What does it do? How strong? Where is the source?
 
 **For magical defense, see "Magical Defense" section above.**
 

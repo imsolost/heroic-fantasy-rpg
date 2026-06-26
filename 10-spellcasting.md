@@ -326,50 +326,76 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 ---
 
 ### Potent Spells
-**Powerful effects that exceed normal scope — always cost 1 Stress and require narrative permission.**
 
-Potent spells go beyond baseline magical effects — they affect larger areas, multiple targets, create lasting changes, or produce effects that ordinary actions cannot replicate. These are the dramatic, scene-defining spells that showcase true magical power.
+**Potent Spells follow the general Potency framework** — they grant Vantage improvement, Edge, and narrative permission for extraordinary magical feats. See Chapter 2: Potent Actions for complete rules.
 
-**When you cast a Potent Spell (costs 1 Stress), choose ONE enhancement:**
+**Potent Spells come from Talents** that grant Potency (like "Push Yourself to perform a Potent miracle" or "Efficient Casting"). They do not have a default Stress cost — the cost depends on how you gain access to Potency (Push Yourself marks 1 Stress, Efficient Casting uses a checkbox, etc.).
 
-- **Greater Impact** — Mark 1 additional tick, make construct nearly indestructible (Resilient tag), or significantly amplify the spell's primary impact
-- **Affect Multiple Targets** — Target a small group of individuals or affect a larger area
-- **Increased Duration** — The spell lasts the entire scene instead of a moment (does not apply to instantaneous effects like damage or healing)
-- **Secondary Consequence** — Add a secondary consequence (inflict Condition, create advantage, impose positioning change, etc.)
+**When you cast a Potent Spell, you gain:**
+- **Vantage +1 tier:** Impossible → Limited → Strong → Certain
+- **Edge +1:** Ignore 1 Complication
+- **Narrative permission:** Cast spells beyond normal scope
+- **Scale enhancement across one dimension:**
 
-You cannot stack multiple enhancements — choose one per Potent Spell.
+**How Potency enhances magical scale:**
 
-**Boosting Further:** You can also spend 1 Momentum to Create an Opening (gain 1 Boon and 1 Edge) when casting any spell, including Potent Spells. This is separate from the enhancement choice.
+**Heightened Impact** — Amplify the spell's quality or overcome resistance
+- Stone wall becomes nearly indestructible (Resilient tag)
+- Fireball bypasses fire resistance or melts stone barriers
+- Healing works on supernatural corruption or leaves no scarring
+- Charm affects targets normally resistant to mental influence
+
+**Widespread Effect** — Affect larger groups or areas
+- Fireball affects small group instead of single target
+- Charm affects multiple people
+- Protection ward covers entire party instead of one ally
+- Stone wall creates multiple barriers or one much larger wall
+
+**Extended Duration** — Sustain effects beyond momentary
+- Stone wall lasts entire scene instead of 1-2 actions
+- Buff grants 1 Boon for the scene instead of next action
+- Charm lasts entire scene instead of 1-2 actions
+- Construct remains for the scene
+
+**The dimension of enhancement emerges from your intent and the fiction.** When you declare your spell, describe what you're trying to accomplish and the GM will apply the appropriate scale enhancement.
 
 **Examples:**
 
-**Stone Wall (Matter + Create):**
-- Normal Spell: Barrier lasts 1-2 actions
-- Potent + Greater Effect: Nearly indestructible wall (Resilient tag)
-- Potent + Increased Duration: Wall lasts entire scene
-- Potent + Affect Multiple Targets: Create 2-3 walls or one much larger wall
-- Potent + Secondary Consequence: Wall + creates difficult terrain (Hindered 1 Condition to those nearby)
+**Stone Wall:**
+- Normal Spell: Create barrier, lasts 1-2 actions
+- Potent (Heightened Impact): Nearly indestructible wall (Resilient tag)
+- Potent (Widespread Effect): Create 2-3 walls or one much larger wall
+- Potent (Extended Duration): Wall lasts entire scene
 
-**Charm Person (Mind + Bind):**
-- Normal Spell: Mark 1 tick on Will track against single target, lasts 1-2 actions
-- Potent + Greater Effect: Mark 2 ticks on Will track against single target
-- Potent + Affect Multiple Targets: Mark 1 tick on small group
-- Potent + Increased Duration: Charm lasts entire scene
-- Potent + Secondary Consequence: Mark 1 tick + target becomes Distracted 1
+**Charm Person:**
+- Normal Spell: Mark 1 tick on Will track, lasts 1-2 actions
+- Potent (Heightened Impact): Affects target normally resistant to mental influence
+- Potent (Widespread Effect): Mark 1 tick on small group
+- Potent (Extended Duration): Charm lasts entire scene
 
-**Invisibility (Mind + Deceive or Pattern + Alter):**
+**Fireball:**
+- Normal Spell: Mark 1 tick on single target
+- Potent (Heightened Impact): Bypasses fire resistance or melts stone barriers
+- Potent (Widespread Effect): Mark 1 tick on small group (area attack)
+
+**Protection Ward:**
+- Normal Spell: Grant 1 Boon to one ally for next action
+- Potent (Widespread Effect): Grant 1 Boon to entire party for next action
+- Potent (Extended Duration): Grant 1 Boon to one ally for entire scene
+
+**Invisibility:**
 - Normal Spell: Become invisible for 1-2 actions
-- Potent + Greater Effect: Become completely undetectable (sight, sound, scent)
-- Potent + Affect Multiple Targets: Make small group invisible
-- Potent + Increased Duration: Remain invisible entire scene
-- Potent + Secondary Consequence: Invisibility + gain 1 Boon on stealth-related actions
+- Potent (Heightened Impact): Become completely undetectable (sight, sound, scent)
+- Potent (Widespread Effect): Make small group invisible
+- Potent (Extended Duration): Remain invisible entire scene
 
-**Mechanics:**
-- **Always costs 1 Stress** (mark immediately when you declare casting)
-- Requires narrative permission (must be within your touchstones and fictionally appropriate)
-- Roll normally (no automatic Banes unless GM rules the situation is Hard)
+**Combining with Special Effects:**
 
-**When to use:** When the spell's scope exceeds "solve an immediate problem" and enters "dramatically alter the scene or situation."
+When you roll Conflict or better and invoke your Trait for a Special Effect, **Potency amplifies it** (see Chapter 2: Potency as Scale Enhancement):
+- **Broad Effect + Potency:** Small group → Large group or wide area
+- **Greater Effect:** Still marks 2 ticks (Potency doesn't change this), but Potency's Edge helps land them against defended foes
+
+**Boosting Further:** You can spend 1 Momentum to Create an Opening (gain 1 Boon and 1 Edge) when casting any spell, including Potent Spells.
 
 ---
 
@@ -466,9 +492,10 @@ Spirit sphere spells can heal injuries and restore vitality.
 - Clear 1 Stress OR reduce a Condition by 1 tier
 - Examples: Close wounds, ease pain, stabilize dying, reduce Poisoned 2 to Poisoned 1
 
-**Potent Spell (costs 1 Stress):**
-- Clear 3 Stress OR remove a Condition entirely
+**Potent Spell:**
+- Clear 2 Stress OR remove a Condition entirely
 - Examples: Heal severe wounds, cure disease, remove poison, restore vitality
+- Requires Talent that grants Potency (see Potent Spells section)
 
 **On Conflict:** The healing succeeds, but you must choose a consequence using the standard Consequences framework (mark 1 Stress, accept side effect, or weaker/limited effect).
 
@@ -503,7 +530,6 @@ The dead do not return unchanged. Work with your GM to determine the cost and co
 **Buffs (enhancing allies):**
 - **Magnitude:** Typically Spell or Potent Spell
 - **Effect:** Grant **1 Boon** on their next action (Spell) or on all actions for the scene (Potent Spell)
-- **Alternatively:** Grant 1 Boon and 1 Edge (narrative permission + 1 Boon (+1d) + ignore 1 Complication) for specific feat
 - **Examples:** Blessing grants 1 Boon (+1d) to attack, haste spell grants 1 Boon (+1d) to movement, arcane insight grants 1 Boon (+1d) to investigation
 
 **Debuff Spells (Negative Effects on Enemies)**
@@ -691,14 +717,8 @@ Rituals should always have **narrative cost or consequence**, even on success:
 **Magnitude:**
 - **Cantrip:** Automatic minor effect (no roll)
 - **Spell:** Standard effect (Action Roll, standard difficulty)
-- **Potent Spell:** Powerful effect (Action Roll, **costs 1 Stress** + choose ONE enhancement: Greater Effect, Affect Multiple Targets, Increased Duration, or Secondary Consequence)
+- **Potent Spell:** Powerful effect following general Potency framework (Vantage +1, Edge +1, scale enhancement — see Potent Spells section)
 - **Ritual:** Extraordinary effect (structured scene, multiple components)
-
-**Potent Spell Enhancements (choose one):**
-- **Greater Effect:** Double impact (2 ticks, double damage, nearly indestructible)
-- **Affect Multiple Targets:** Small group or area
-- **Increased Duration:** Moment → Scene (entire scene)
-- **Secondary Consequence:** Add secondary consequence (Condition, advantage, etc.)
 
 **Common Effects:**
 - **Attack:** Clash (marks Harm track)
@@ -707,7 +727,7 @@ Rituals should always have **narrative cost or consequence**, even on success:
 - **Divine/Detect:** Sense (ask questions)
 - **Analyze/Identify:** Know (learn information)
 
-**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 3 Stress OR remove Condition entirely (Potent Spell, costs 1 Stress). On Conflict, prefer narrative consequences over marking Stress (exhaustion, time, limited effect).
+**Healing:** Clear 1 Stress OR reduce Condition by 1 tier (Spell); Clear 2 Stress OR remove Condition entirely (Potent Spell). On Conflict, prefer narrative consequences over marking Stress (exhaustion, time, limited effect).
 
 **Detect Magic:** Cantrip for presence (yes/no), Sense action for details (ask questions)
 

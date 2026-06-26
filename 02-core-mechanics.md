@@ -536,11 +536,11 @@ When you take a Potent Action, you gain two benefits:
 
 ### Potency as Scale Enhancement
 
-**Potency enhances the scale of your action across three dimensions:**
+**Potency enhances the scale of your action across one of three dimensions:**
 
-1. **Accomplishment:** Do what normally requires a group or extended effort
-2. **Effect:** Affect larger groups or areas
-3. **Duration:** Sustain effects beyond momentary
+1. **Heightened Impact:** Do what normally requires a group or extended effort
+2. **Widespread Effect:** Affect larger groups or areas
+3. **Extended Duration:** Sustain effects beyond momentary
 
 **When Potency combines with Special Effects:**
 
@@ -550,7 +550,7 @@ When you take a Potent Action, you gain two benefits:
 
 **Create Advantage:**
 - Without Potency: Grant 1 Boon, lasts briefly (1-2 actions)
-- With Potency: Grant 1 Edge (better quality), lasts scene
+- With Potency: Grant 1 Boon, lasts scene
 
 **Greater Effect:**
 - Always marks 2 ticks (Potency doesn't change this)
@@ -590,10 +590,10 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 - With Potency + Broad Effect: Certain (auto-success), affects large group, 1 Edge
 - Result: Massive explosion engulfs the raiding party
 
-**Cleric Wards Party (Potent Blessing + Create Advantage):**
+**Cleric Wards Party (Potent Blessing + Broad Effect):**
 - Normal: Grant 1 Boon to one ally for next action
-- With Potency: Grant 1 Edge to entire party, lasts scene
-- Result: All allies ignore demon's Frightening Presence for the entire fight
+- With Potency + Broad Effect: Grant 1 Boon to entire party, lasts scene
+- Result: All allies gain 1 Boon on all actions for the entire fight
 
 **Monk Runs Across Water (Potent Feat of Mystical Grace):**
 - Normal: Impossible

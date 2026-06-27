@@ -522,8 +522,10 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 **When you perform a Potent Action, you gain:**
 
-- **Vantage +1 tier:** Impossible → Limited → Standard → Strong → Certain
 - **Edge +1:** Ignore 1 Complication
+- **Expanded possibility:** Attempt actions beyond normal limits
+  - Impossible actions become possible (though still Limited - roll with 1-2 Banes)
+  - Strong actions become Certain (auto-success if straightforward)
 - **Narrative permission:** Perform actions beyond normal scope (group-scale accomplishments, stretching mortal limits, mystical effects within your domain)
 - **Scale enhancement across one dimension:**
 
@@ -586,12 +588,12 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 
 **Barbarian Holds Portcullis (Potent Feat of Strength):**
 - Normal: Limited (lacking proper tools/strength)
-- With Potency: Standard + 1 Edge + narrative permission (hold it long enough for party to escape)
+- With Potency: Limited (roll with 1-2 Banes) + 1 Edge + narrative permission (hold it long enough for party to escape)
 - Result: Party escapes while Barbarian holds the massive gate
 
 **Sage Overwhelms Magical Ward (Potent Spell):**
-- Normal: Standard (casting against ward)
-- With Potency: Strong (1 Boon) + 1 Edge (ignore ward's Complication)
+- Normal: Standard (casting against ward with Warded Complication)
+- With Potency: Standard (no modifier) + 1 Edge (ignore ward's Complication)
 - Result: Spell blasts through the ward effortlessly
 
 **Cleric Wards Party (Potent Blessing + Broad Effect):**
@@ -601,12 +603,12 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 
 **Monk Runs Across Water (Potent Feat of Mystical Grace):**
 - Normal: Impossible (physics doesn't allow it)
-- With Potency: Limited (1 Bane, still disadvantaged but mystically possible) + 1 Edge + narrative permission
+- With Potency: Limited (1-2 Banes, still disadvantaged but mystically possible) + 1 Edge + narrative permission
 - Edge ignores guards' Vigilant Complication
 - Result: Sprints across the pond, leaving guards stranded
 
 **Champion Leaps Massive Gap (Potent Athleticism):**
-- Normal: Strong (running start + athletic prowess)
+- Normal: Strong (running start + athletic prowess, 1 Boon)
 - With Potency: Certain (auto-success with superhuman leap)
 - Result: Sails over the chasm effortlessly
 
@@ -614,14 +616,14 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 
 **Potency stacks with everything:**
 
-- **+ Boons:** Potency improves Vantage, Boons add dice
+- **+ Boons:** Potency grants Edge, Boons add dice
 - **+ Create an Opening:** Gain 2 Edge total (Potency + Opening), plus 1 Boon
 - **+ Trait Invocation:** Roll Conflict or better, invoke Trait for Special Effect as normal
 
 **Example:**
 > Sage casts Potent Fireball at warded dragon. Spends 1 Momentum for Create an Opening. Rolls Conflict, invokes "Master of Flame" for Broad Effect.
 > 
-> **Result:** Strong Vantage (Potent), ignore 2 Complications (2 Edge), +1d from Opening, affects large group (Broad Effect + Potency)
+> **Result:** Ignore 2 Complications (2 Edge: Potency + Opening), +1d from Opening, affects large group (Broad Effect + Potency)
 
 ### Multiple Sources
 

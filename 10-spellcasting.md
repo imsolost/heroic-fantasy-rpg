@@ -332,8 +332,10 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 **Potent Spells come from Talents** that grant Potency (like "Push Yourself to perform a Potent miracle" or "Efficient Casting"). They do not have a default Stress cost — the cost depends on how you gain access to Potency (Push Yourself marks 1 Stress, Efficient Casting uses a checkbox, etc.).
 
 **When you cast a Potent Spell, you gain:**
-- **Vantage +1 tier:** Impossible → Limited → Standard → Strong → Certain
 - **Edge +1:** Ignore 1 Complication
+- **Expanded possibility:** Attempt spells beyond normal limits
+  - Impossible spells become possible (though still Limited - roll with 1-2 Banes)
+  - Strong spells become Certain (auto-success if straightforward)
 - **Narrative permission:** Cast spells beyond normal scope
 - **Scale enhancement across one dimension:**
 

@@ -44,10 +44,13 @@ This document defines the canonical capitalization for all mechanical terms in t
 - Boon (advantage mechanic)
 - Bane (disadvantage mechanic)
 - Edge (Complication negation)
+- Potency (the mechanic that grants Edge + expanded possibility + scale enhancement)
 
 **Context-Dependent:**
 - Expertise (capitalized when referring to the mechanical feature)
 - expertise (lowercase when general skill/mastery)
+- Potent (capitalized when referring to Potent Actions/Spells)
+- potent (lowercase when general powerful/strong)
 
 ---
 

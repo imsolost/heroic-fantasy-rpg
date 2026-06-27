@@ -296,7 +296,7 @@ Catastrophic failure:
 ### Magnitude
 - **Cantrips:** Unlimited, no roll required (minor effects)
 - **Spells:** Standard casting (roll Action + Approach)
-- **Potent Spells:** Cost 1 Stress (significant effects, combat-altering)
+- **Potent Spells:** Require Talent that grants Potency (Edge + expanded possibility + scale enhancement)
 - **Rituals:** Require Source + Anchors + Rites (extended casting, no roll, narrative-based)
 
 **Casting Action:** Choose Action matching intent (Defy to protect, Clash to smite, Talk to bless/curse, Sense for visions, Know for communion)

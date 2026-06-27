@@ -163,7 +163,25 @@ Consider adding a comprehensive index for quick reference.
 
 ## Completed
 
-### Recent (June 25, 2026)
+### Recent (June 26, 2026)
+- **Vantage 5-Tier System** - Expanded to Certain/Strong/Standard/Limited/Impossible
+  - Strong now grants 1 Boon (advantageous position)
+  - Standard is baseline (no modifiers)
+  - Vantage represents external factors only (tools, positioning, circumstances)
+  - Decoupled Potency from Vantage tier Boons/Banes
+  - Removed Expertise vantage floor
+
+- **Potency Framework Unified** - Aligned Potent Spells with general Potency
+  - Removed default 1 Stress cost (comes from Talents)
+  - Scale enhancement: Heightened Impact, Widespread Effect, Extended Duration
+  - Simplified Create Advantage: grants 1 Boon for scene (not Edge)
+
+- **Chapter 10 Cleanup** - Comprehensive spellcasting chapter revision
+  - Fixed critical rules drift (Sense questions, healing amounts, terminology)
+  - Removed repetitive content (~600 words)
+  - Standardized notation and examples
+
+### Earlier (June 25, 2026)
 - **Vantage and Stakes Frameworks** - Added comprehensive frameworks inspired by GWCE, Chasing Adventure, Blades in the Dark, and Dungeon World 2
   - Created vantage.md (fictional positioning as unified difficulty system)
   - Created stakes.md (consequence severity calibration)

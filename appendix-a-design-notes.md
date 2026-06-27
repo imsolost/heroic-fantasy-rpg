@@ -508,10 +508,10 @@ Multiple Conditions stack, but maximum 2 Banes from Conditions total.
 **Why stop at 2?** 
 - **Math stays manageable** — 2 Banes on 3d6 = ~6% Setback (challenging but not crushing)
 - **Heroic feel** — You CAN still succeed when impaired, just harder
-- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Very Hard task = 4 total, keeping Boons/Banes system consistent (max ±2d from any single source)
+- **Stacks with situational Banes** — 2 Banes from Conditions + 2 Banes from Limited Vantage = 4 total, keeping Boons/Banes system consistent (max ±2d from any single source)
 
 **Considered higher caps:**
-- **3+ Banes from Conditions alone:** Too punishing, especially when combined with situational Banes (Hard task, poor positioning, etc.)
+- **3+ Banes from Conditions alone:** Too punishing, especially when combined with situational Banes (Limited Vantage, poor positioning, etc.)
 - **Unlimited Banes:** Tracking nightmare, death spiral, math becomes hostile
 
 **Considered lower caps:**

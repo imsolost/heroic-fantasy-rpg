@@ -307,18 +307,25 @@ Catastrophic failure:
 
 External fictional positioning—tools, circumstances, tactical situation.
 
-- **Certain:** Auto-success (no roll)
-- **Strong:** Advantageous position (1 Boon)
-- **Standard:** Baseline (no modifier)
-- **Limited:** Disadvantaged position (1-2 Banes)
-- **Impossible:** Cannot attempt
+- **Certain:** Auto-success (no roll) — Trivial task, proper tools, no opposition
+- **Strong:** 1 Boon (2 Boons exceptional) — High ground, flanking, surprise, ideal conditions
+- **Standard:** No modifier (baseline) — Neutral conditions, have capability and tools
+- **Limited:** 1-2 Banes — Poor positioning, wrong tools, bad conditions, outnumbered
+- **Impossible:** Cannot attempt — Fiction doesn't support it, lacks fundamental capability
 
-**Examples:**
-- Doctor can suture wounds (Expertise grants vantage)
-- Can't pick lock without tools (no vantage → 2 Banes or impossible)
-- Can't swing sword with broken arm (Condition removes vantage → 1-2 Banes or impossible)
+**External Factors:**
+- Tools & equipment (proper/improvised/none)
+- Positioning & terrain (high ground/level/low ground)
+- Environmental conditions (visibility, weather, time pressure)
+- Tactical situation (surprise, outnumbered, flanking)
 
-**At the table:** When a player attempts something unusual, ask: "Do you have vantage for that?" Use Banes to represent difficulty from lacking proper positioning, tools, or capability.
+**Key Distinctions:**
+- Vantage = external factors (determines starting Boons/Banes)
+- Conditions = internal state (add Banes separately)
+- Complications = opposition quality (downshift outcomes)
+- Expertise = converts Setback→Conflict (doesn't change Vantage tier)
+
+**Quick Assessment:** Ask "Do they have proper tools + neutral positioning + capable?" → Yes = Standard, Better = Strong, Worse = Limited, No capability = Impossible
 
 ---
 

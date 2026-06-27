@@ -73,7 +73,7 @@ There is no "wrong" Approach to a situation, but some may be less effective or r
 The GM evaluates the situation and communicates clearly:
 
 **Vantage (Difficulty):**
-- Assess their capability, tools, and positioning (Certain/Strong/Limited/Impossible - see Vantage section above)
+- Assess their capability, tools, and positioning (Certain/Strong/Standard/Limited/Impossible - see Vantage section above)
 - See [Vantage](vantage.md) for complete assessment framework
 
 **Stakes (Danger):**

@@ -179,8 +179,9 @@ This document defines the canonical capitalization for all mechanical terms in t
 
 **Vantage Tiers (Always Capitalized):**
 - Certain (auto-success)
-- Strong (standard roll)
-- Limited (roll with Banes)
+- Strong (roll with 1 Boon - advantageous position)
+- Standard (baseline roll - no modifier)
+- Limited (roll with 1-2 Banes - disadvantaged position)
 - Impossible (cannot attempt)
 
 **Stakes Levels (Always Capitalized):**
@@ -287,7 +288,7 @@ These terms should be capitalized **only when referring to the mechanical game c
 ✅ **Correct:** "When you take a Short Rest"
 
 ❌ **Wrong:** "This is standard difficulty"  
-✅ **Correct:** "This is Strong Vantage" or "Your Vantage is Standard"
+✅ **Correct:** "This is Strong Vantage" or "Your Vantage is Standard" or "You have Limited Vantage"
 
 ❌ **Wrong:** "The stakes are high"  
 ✅ **Correct:** "This is High Stakes" (when referring to the mechanical system)
@@ -306,6 +307,7 @@ These terms should be capitalized **only when referring to the mechanical game c
 
 ## Version History
 
+- v1.5 (2026-06-26): Expanded Vantage to 5 tiers. Standard is baseline (no modifiers), Strong is advantageous (1 Boon). Vantage represents external factors only (tools, positioning, circumstances), not task difficulty or character capability.
 - v1.4 (2026-06-25): Renamed Vantage tiers: Standard → Strong, Difficult → Limited (more flexible, covers all situations)
 - v1.3 (2026-06-25): Renamed Vantage tiers: Reasonable → Standard, Doubtful → Difficult (more intuitive)
 - v1.2 (2026-06-25): Restructured Special Effects - replaced Additional Effects with Secondary Effect (free Defy action), clarified Enhanced Effect categories

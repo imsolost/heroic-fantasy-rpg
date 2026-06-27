@@ -12,8 +12,8 @@ These work together:
 - **Stakes** determines consequence severity (Low/Regular/High)
 
 **Example:**
-- Climbing sheer wall with climbing gear → **Limited** (Hard, 1 Bane) + **Regular Stakes** (Setback = Major Consequence)
-- Climbing same wall with safety rope → **Strong** + **Low Stakes** (Setback = Minor Consequence)
+- Climbing sheer wall with climbing gear → **Limited** (1 Bane) + **Regular Stakes** (Setback = Major Consequence)
+- Climbing same wall with safety rope → **Standard** + **Low Stakes** (Setback = Minor Consequence)
 
 ---
 
@@ -27,8 +27,9 @@ Before calling for a roll, ask:
 
 **2. What's their Vantage?** (Given who they are and the situation, where do they fall?)
 - **Certain** → Auto-success (no roll needed)
-- **Strong** → Strong roll (no modifier)
-- **Limited** → Roll with 1-2 Banes (depending on how disadvantaged)
+- **Strong** → Roll with 1 Boon (advantageous position)
+- **Standard** → Roll with no modifier (baseline)
+- **Limited** → Roll with 1-2 Banes (disadvantaged position)
 - **Impossible** → Cannot attempt
 
 **3. Is failure interesting?** (Would failure create drama/complications/stakes?)
@@ -47,12 +48,14 @@ Before calling for a roll, ask:
 **Vantage determines whether you roll and how difficult it is.**
 
 ### Certain
-**You have clear capability, proper tools, and the task is trivial.**
+**The outcome is assured.**
 
 **No roll required.** Success is automatic.
 
+You have clear capability, proper tools, and the task is trivial with no meaningful opposition.
+
 **Examples:**
-- A Champion swinging their weapon in combat (basic attack)
+- A Champion swinging their weapon against an unaware, helpless target
 - A Hunter tracking obvious prey through muddy ground
 - A Sage reading a text in a language they know
 - A Shadow picking a simple lock with proper tools and time
@@ -64,47 +67,65 @@ Before calling for a roll, ask:
 ---
 
 ### Strong
-**You have the capability and tools, but the outcome is uncertain.**
+**You have a golden opportunity. You're exploiting a dominant advantage. You're set up for success.**
 
-**Strong roll (no modifier).** The character has a solid chance of success, but the outcome is uncertain.
+**Roll with 1 Boon** (or 2 Boons in exceptional circumstances).
+
+Ideal positioning, proper tools, and favorable conditions stack in your favor.
+
+**Examples:**
+- High ground + flanking an enemy with an ally
+- Surprise attack against unaware target
+- Target is prone, distracted, or vulnerable
+- Perfect lighting + proper tools + ample time
+- Prepared specifically for this (scouted location, studied target, set trap)
+
+**When to use:** The character has created or exploited a significant tactical advantage. Standard is the default—Strong should feel earned and special.
+
+---
+
+### Standard
+**You go head to head. You're acting under duress. You're taking a chance.**
+
+**Roll with no modifier** (baseline).
+
+Neutral external factors: you have capability and tools, but no particular advantage or disadvantage.
 
 **Examples:**
 - Climbing a rope with handholds
-- Persuading a friendly guard to let you pass
+- Persuading a neutral guard to let you pass
 - A Scholar recalling obscure history
 - A Ranger finding a safe path through wilderness
-- Picking a complex lock with proper tools
+- Picking a lock with proper tools
 - Casting a spell you know
-- Fighting a competent enemy
+- Fighting a competent enemy on level ground
 
-**When to use:** The character has the capability and tools, but the task has meaningful risk, dramatic tension, or uncertain outcome. This is the default for most action rolls.
+**When to use:** The character has the capability and tools, but faces uncertain outcome. This is the default for most action rolls.
 
 ---
 
 ### Limited
-**You lack ideal tools/positioning OR the task stretches your capability.**
+**You're in serious trouble. You're overreaching your capabilities. You're attempting a dangerous maneuver.**
 
 **Roll with 1-2 Banes** (depending on severity).
 
+Disadvantageous external factors: lacking tools, poor positioning, or unfavorable circumstances.
+
 **1 Bane when:**
-- Lacking proper tools but have improvised alternatives
-- Task is at edge of capability
-- Minor hindrances (poor lighting, time pressure, distraction)
-- Single Condition affecting performance
+- Lacking proper tools but have improvised alternatives (hairpin for lockpick)
+- Poor positioning (low ground, cornered)
+- Unfavorable circumstances (poor lighting, time pressure, significantly outnumbered)
 
 **2 Banes when:**
-- Lacking tools entirely AND task is difficult
-- Task far exceeds normal capability
-- Severe hindrances (multiple Conditions, extreme environment)
-- Multiple disadvantages stacking
+- Multiple disadvantages stacking (no tools AND poor lighting AND time pressure)
+- Severely disadvantaged position
 
 **Examples:**
-- Climbing a sheer wall without proper gear (1-2 Banes)
-- Convincing a hostile noble with no leverage (1-2 Banes)
-- A Sage casting improvised spell outside mastered theorems (1 Bane)
-- Picking a lock without thieves' tools (1-2 Banes depending on lock complexity)
-- Fighting while Wounded (1 Bane)
-- Fighting while Wounded + Frightened in darkness (2 Banes)
+- Climbing a sheer wall without proper gear
+- Convincing a hostile noble with no leverage
+- Picking a lock without thieves' tools (using hairpin)
+- Fighting from low ground or significantly outnumbered
+- Acting in poor visibility or extreme time pressure
 
 **When to use:** The character lacks ideal tools, positioning, or capability—or conditions actively hinder success (environmental hazards, Conditions, time pressure).
 
@@ -120,12 +141,15 @@ Before calling for a roll, ask:
 - A commoner convincing the king to hand over the royal treasure
 - A child leaping over a house
 - Casting spells without being a spellcaster
-- Swinging a sword with a broken arm (Condition removes capability)
+- Swinging a sword with a broken arm (Burden removes capability)
 - Flying without wings or magic
 - Attacking someone in another room
 - Harming a dragon with normal steel (its hide is impenetrable)
+- Hiding in an empty field in broad daylight
 
-**When to use:** The character lacks fundamental capability, physical/mental capacity is removed by Conditions, or the action violates established fiction. Work with the player to find an approach they DO have vantage for.
+**When to use:** The character lacks fundamental capability, physical/mental capacity is removed by significant Burdens, or the action violates established fiction. Work with the player to find an approach they DO have vantage for.
+
+**Note:** Conditions are temporary impediments (clear on Short Rest) and add Banes to your dice pool. Burdens are long-term impediments (broken arm, lost eye) and can make actions Impossible.
 
 ---
 
@@ -203,15 +227,16 @@ By having this conversation openly, you:
 
 2. **Assess Vantage:** "Where do they fall on the Vantage scale?"
    - **Certain** → Auto-success (no roll needed)
-   - **Strong** → Strong roll (no modifier)
-   - **Limited** → Roll with 1-2 Banes
+   - **Strong** → Roll with 1 Boon (advantageous position)
+   - **Standard** → Roll with no modifier (baseline)
+   - **Limited** → Roll with 1-2 Banes (disadvantaged position)
    - **Impossible** → Cannot attempt
 
    **Consider:**
    - Do they have proper tools/equipment?
-   - Is task within their competence or at the edge?
-   - Are conditions favorable, neutral, or adverse?
-   - Do Conditions hinder performance?
+   - Is their positioning advantageous, neutral, or disadvantaged?
+   - Are external conditions favorable, neutral, or adverse?
+   - (Conditions add Banes separately—don't factor into Vantage tier)
 
 3. **Check Dramatic Necessity:** "Is failure interesting?"
    - **No** → Don't roll, let it happen
@@ -219,44 +244,44 @@ By having this conversation openly, you:
 
 **Example Assessments:**
 
-- **Champion with sword vs. goblin** → Strong (has weapon, competent foe)
-- **Champion with sword vs. armored knight** → Strong (still capable, but knight has Complications)
-- **Champion unarmed vs. armored knight** → Limited, 1 Bane (lacking ideal tool)
-- **Champion with broken arm vs. knight** → Impossible (Condition removes capability)
+- **Champion with sword vs. goblin on level ground** → Standard (proper weapon, neutral positioning)
+- **Champion with sword vs. goblin from high ground** → Strong (advantageous positioning)
+- **Champion unarmed vs. armored knight** → Limited, 1 Bane (lacking proper weapon)
+- **Champion with broken arm vs. knight** → Impossible (Burden removes capability)
 
-- **Shadow with tools vs. simple lock** → Certain (within Expertise, trivial task)
-- **Shadow with tools vs. complex lock** → Strong (within Expertise, challenging task)
-- **Shadow without tools vs. simple lock** → Limited, 1 Bane (lacking tools, simple task)
-- **Shadow without tools vs. complex lock** → Limited, 2 Banes (lacking tools, difficult task)
+- **Shadow with tools vs. simple lock** → Certain (trivial task, proper tools)
+- **Shadow with tools vs. lock in good light** → Standard (proper tools, neutral conditions)
+- **Shadow without tools (using hairpin)** → Limited, 1 Bane (lacking proper tools)
 
 ---
 
 ## Vantage and Expertise
 
-**Expertise grants expanded vantage.**
+**Expertise converts Setback outcomes to Conflict when acting within your domain** (see Chapter 3). It helps you succeed more often, but doesn't change your Vantage tier.
 
-If you have Expertise in a domain, you always have at least Limited Vantage for actions within that domain, even in adverse circumstances.
+**Vantage is determined by external factors:** tools, positioning, and circumstances—not by your character's skill level.
 
 **Examples:**
-- Champion with Expertise (All Weapons) can fight effectively even when disarmed (improvised weapons, unarmed strikes)
-- Hunter with Expertise (Tracking) can track even in rain or over rocky ground (conditions impose Banes, but attempt is possible)
-- Shadow with Expertise (Stealth) can attempt to hide even in poor conditions (guards on alert, bright moonlight)
+- Champion with Expertise (All Weapons) fighting with improvised weapon → **Limited Vantage** (lacking proper tool), but Expertise converts Setbacks to Conflicts
+- Hunter with Expertise (Tracking) in rain → **Standard or Limited Vantage** (depending on conditions), Expertise helps outcomes
+- Shadow with Expertise (Stealth) in poor lighting → **Limited Vantage** (poor conditions), Expertise converts Setbacks to Conflicts
 
 ---
 
 ## Vantage and Conditions
 
-**Conditions can reduce or eliminate vantage.**
+**Vantage represents external factors. Conditions represent internal state and add Banes separately.**
 
-**From Strong → Limited (1 Bane):**
-- Wounded while climbing
-- Frightened while negotiating
-- Exhausted while running
+Your Vantage tier doesn't change when you gain Conditions—instead, Conditions add Banes to your dice pool.
 
-**From Strong/Limited → Impossible (or 2 Banes):**
-- Blinded while aiming a bow (impossible for precision shots)
-- Broken arm while wielding two-handed weapon (impossible)
-- Stunned while casting spells (impossible to concentrate)
+**Examples:**
+- Fighting while **Wounded** = **Standard Vantage** (level ground, proper weapon) + 1 Bane from Wounded Condition
+- Fighting while **outnumbered** = **Limited Vantage** (1 Bane from poor positioning)
+- Fighting **Wounded AND outnumbered** = **Limited Vantage** (1 Bane) + Wounded Condition (1 Bane) = 2 Banes total
+
+**Burdens can make actions Impossible:**
+- **Broken Arm** Burden = Cannot swing sword (Impossible Vantage for weapon attacks)
+- Conditions are temporary (clear on Short Rest), Burdens are long-term impediments
 
 ---
 
@@ -314,9 +339,9 @@ If you attempt something that requires specialized tools you wouldn't normally c
 
 **Don't double-penalize:** If a Condition already removes vantage (imposing Banes), don't also impose additional Banes for difficulty unless the task is inherently harder than standard.
 
-**Fiction first:** Vantage isn't about making things harder mechanically—it's about respecting what makes sense fictionally. A broken arm doesn't make sword fighting "hard" (1 Bane), it makes it impossible.
+**Fiction first:** Vantage isn't about making things harder mechanically—it's about respecting what makes sense fictionally. A broken arm (Burden) doesn't make sword fighting "hard" (Banes), it makes it impossible.
 
-**Expertise matters:** If a player has Expertise, they have at least Limited Vantage even in adverse circumstances. Respect their specialization.
+**Vantage is independent of character skill:** Expertise helps outcomes (Setback → Conflict) but doesn't set a Vantage floor. A master thief in an empty field in daylight still has Impossible Vantage for hiding.
 
 **Don't roll for Certain actions:** If success is automatic and failure wouldn't be interesting, don't call for a roll. Let them succeed and move on.
 

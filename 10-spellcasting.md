@@ -33,7 +33,7 @@ When you cast a spell, follow the standard **Action Roll** procedure (see Chapte
 **2. GM Assesses**
 - Is this within your touchstones?
 - What magnitude is this? (Cantrip/Spell/Potent Spell — see below)
-- What Vantage applies? (Strong/Limited/Impossible — see Chapter 4)
+- What Vantage applies? (Certain/Strong/Standard/Limited/Impossible — see Chapter 4)
 - Any Complications from the target?
 - What happens on Conflict or Setback?
 
@@ -321,7 +321,7 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 - **Success:** Spell works as intended
 - **Triumph:** Spell succeeds + Momentum + ignore Complications
 
-**Default Vantage:** Strong (no Boons or Banes) for most spells within your touchstones.
+**Default Vantage:** Standard (no Boons or Banes) for most spells within your touchstones.
 
 ---
 
@@ -332,7 +332,7 @@ Spells are meaningful magical effects that can influence scenes, harm enemies, s
 **Potent Spells come from Talents** that grant Potency (like "Push Yourself to perform a Potent miracle" or "Efficient Casting"). They do not have a default Stress cost — the cost depends on how you gain access to Potency (Push Yourself marks 1 Stress, Efficient Casting uses a checkbox, etc.).
 
 **When you cast a Potent Spell, you gain:**
-- **Vantage +1 tier:** Impossible → Limited → Strong → Certain
+- **Vantage +1 tier:** Impossible → Limited → Standard → Strong → Certain
 - **Edge +1:** Ignore 1 Complication
 - **Narrative permission:** Cast spells beyond normal scope
 - **Scale enhancement across one dimension:**

@@ -11,7 +11,7 @@ Quick reference for running the game. For complete GM guidance, principles, move
 
 ### 2. GM Telegraphs Stakes
 - **Action:** Which of the 5 Actions? (Clash, Defy, Talk, Sense, Know)
-- **Vantage:** Certain (auto-success), Strong (no mod), Limited (1-2 Banes), Impossible (cannot attempt)
+- **Vantage:** Certain (auto-success), Strong (1 Boon), Standard (no mod), Limited (1-2 Banes), Impossible (cannot attempt)
 - **Stakes:** Low (-1 tier), Regular (default), High (+1 tier)
 - **Complications:** List any Complications that apply (each reduces outcome by 1 tier)
 - **Consequences:** "On Setback, [X happens]. On Conflict, [Y happens]."
@@ -305,11 +305,13 @@ Catastrophic failure:
 
 ## Vantage (Chapter 2)
 
-Your character's capabilities and current situation—determines what you can attempt.
+External fictional positioning—tools, circumstances, tactical situation.
 
-- **Clear Vantage:** Anyone can try (no modifier)
-- **Limited Vantage:** Requires Expertise, Trait, gear, or fictional setup (may impose 1 Bane if lacking)
-- **No Vantage:** Impossible given who you are or current circumstances (may impose 2 Banes or prevent action entirely)
+- **Certain:** Auto-success (no roll)
+- **Strong:** Advantageous position (1 Boon)
+- **Standard:** Baseline (no modifier)
+- **Limited:** Disadvantaged position (1-2 Banes)
+- **Impossible:** Cannot attempt
 
 **Examples:**
 - Doctor can suture wounds (Expertise grants vantage)

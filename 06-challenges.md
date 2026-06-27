@@ -15,7 +15,7 @@ Challenges are adversaries, obstacles, or situations that oppose the PCs. They c
 - **Social opposition:** Suspicious nobles, hostile factions, stubborn officials
 - **Environmental:** Blizzards, collapsing bridges, raging rivers
 
-**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Strong/Limited/Impossible) to determine if a roll is needed and difficulty.
+**Not all Challenges need special mechanics.** Simple opposition just uses Vantage (Certain/Strong/Standard/Limited/Impossible) to determine if a roll is needed and difficulty.
 
 **Significant Challenges** have **Complications** (passive traits) and **Challenge Moves** (active abilities).
 
@@ -1138,9 +1138,9 @@ When an adversary has **multiple tracks**, players can choose which to pursue ba
 
 **Complications are your primary difficulty lever.** Combine with Vantage and Stakes to calibrate challenge:
 
-**1 Complication:** Requires setup or Momentum spend (manageable solo) + Strong Vantage
+**1 Complication:** Requires setup or Momentum spend (manageable solo) + Standard Vantage
 
-**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Standard or Limited Vantage
+**2 Complications:** Requires teamwork or exceptional rolls (party challenge) + Limited Vantage
 
 **3+ Complications:** Near-impossible without Triumph or extensive preparation (epic moment) + Limited Vantage + High Stakes
 

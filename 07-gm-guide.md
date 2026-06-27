@@ -126,11 +126,12 @@ The stakes are resolved in **one moment**, not ground down over five rolls.
 - If something doesn't make fictional sense, it can't happen (pixie can't wield greatsword unless magic explains it)
 - When in doubt, ask "Does this make sense in the world?"
 
-**Check Vantage:** When a player attempts something, assess their fictional positioning: "Do they have the capability, position, or resources to attempt this?"
+**Check Vantage:** When a player attempts something, assess their external fictional positioning: tools, circumstances, tactical situation.
 
-- **Certain** → Auto-success, no roll needed (trivial for them)
-- **Strong** → Standard roll, no modifier
-- **Limited** → Roll with 1-2 Banes (lacking tools, position, or capability)
+- **Certain** → Auto-success, no roll needed (trivial task)
+- **Strong** → Roll with 1 Boon (advantageous position)
+- **Standard** → Standard roll, no modifier (baseline)
+- **Limited** → Roll with 1-2 Banes (disadvantaged position)
 - **Impossible** → Cannot attempt with this approach; work with player to find an approach they DO have vantage for
 
 Examples:

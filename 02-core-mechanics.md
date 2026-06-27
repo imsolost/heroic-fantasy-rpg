@@ -30,32 +30,32 @@ Make an **Action Roll** when a character faces a risky, difficult, or dramatical
 
 ## Vantage
 
-**Vantage** is your character's frame of reference—the sum of your capabilities (Expertise, Traits, gear) and the current fiction (positioning, preparation, circumstances). It determines what you can attempt and how difficult it is.
+**Vantage** represents your external fictional positioning—tools, circumstances, and tactical situation. It determines what you can attempt and how difficult it is.
 
 **The Vantage Scale:**
 
-Vantage is your fictional positioning that determines how difficult an action is:
-
-**Certain** — Clear capability, proper tools, task is trivial:
+**Certain** — The outcome is assured:
 - No roll required → Auto-success
 
-**Strong** — Capability present, outcome uncertain:
-- Strong roll → No modifier
+**Strong** — Golden opportunity, dominant advantage:
+- Roll with 1 Boon (or 2 Boons in exceptional circumstances)
 
-**Limited** — Lacking ideal tools/positioning OR task stretches capability:
+**Standard** — Head to head, acting under duress, taking a chance:
+- Roll with no modifier (baseline for most rolls)
+
+**Limited** — Serious trouble, overreaching capabilities, dangerous maneuver:
 - Roll with 1-2 Banes (depending on severity)
-- May require Expertise or Trait to attempt reliably
 
 **Impossible** — Lacking fundamental capability OR fiction doesn't support it:
 - Cannot attempt with this approach
 - GM works with player to find an approach they DO have vantage for
 
 **Examples in Play:**
-- "I pick the lock" with tools → Certain (auto-success if simple) or Strong (if complex)
-- "I pick the lock" without tools → Limited (1-2 Banes depending on lock complexity)
-- "I swing my sword" with broken arm → Impossible (cannot attempt, try different approach)
-- "I suture the wound" with medical Expertise → Certain or Strong (depending on wound severity)
-- "I convince the guard" who doesn't speak your language → Impossible (via Talk) → Try different approach (bribe? gesture? find translator?)
+- "I pick the lock" with tools → Certain (if simple) or Standard (if challenging)
+- "I pick the lock" without tools (using hairpin) → Limited (1 Bane, lacking proper tools)
+- "I swing my sword" with broken arm (Burden) → Impossible (cannot attempt)
+- "I attack from high ground with flanking ally" → Strong (1 Boon, advantageous position)
+- "I convince the guard" who doesn't speak your language → Impossible (via Talk) → Try different approach
 
 **See [Vantage](vantage.md) for complete framework.**
 
@@ -520,27 +520,31 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 ### What Potency Grants
 
-When you take a Potent Action, you gain two benefits:
+**When you perform a Potent Action, you gain:**
 
-**1. Improve Vantage by 1 tier:**
-- **Impossible → Limited:** You can now attempt the action (with Banes)
-- **Limited → Strong:** Remove difficulty Banes from the action
-- **Strong → Certain:** Auto-success if straightforward
+- **Vantage +1 tier:** Impossible → Limited → Standard → Strong → Certain
+- **Edge +1:** Ignore 1 Complication
+- **Narrative permission:** Perform actions beyond normal scope (group-scale accomplishments, stretching mortal limits, mystical effects within your domain)
+- **Scale enhancement across one dimension:**
 
-**2. Gain 1 Edge** (ignore 1 Complication on this action)
+**How Potency enhances scale:**
 
-**Narrative Permission:** Potency also grants fictional permission for incredible feats:
-- **Group-scale:** Accomplish what a team could do (lift a boulder, volley of arrows, incite mutiny)
-- **Stretching limits:** Beyond normal capability (leap massive gap, endure fire, marathon run, hold portcullis for minutes)
-- **Mystical:** Supernatural effects within your domain (befriend wild tiger, run across water, manifest divine glory)
+**Heightened Impact** — Do what normally requires a group or extended effort
+- Hold a portcullis long enough for the party to escape
+- Fire a volley of arrows as a single shot
+- Lift a boulder that would require multiple people
 
-### Potency as Scale Enhancement
+**Widespread Effect** — Affect larger groups or areas
+- Strike multiple enemies with one blow
+- Inspire an entire crowd instead of one person
+- Create a massive barrier instead of a small one
 
-**Potency enhances the scale of your action across one of three dimensions:**
+**Extended Duration** — Sustain effects beyond momentary
+- Hold a gate for minutes instead of moments
+- Maintain a blessing for an entire scene
+- Keep a construct active throughout the battle
 
-1. **Heightened Impact:** Do what normally requires a group or extended effort
-2. **Widespread Effect:** Affect larger groups or areas
-3. **Extended Duration:** Sustain effects beyond momentary
+**The dimension of enhancement emerges from your intent and the fiction.** When you declare your Potent Action, describe what you're trying to accomplish and the GM will apply the appropriate scale enhancement.
 
 **When Potency combines with Special Effects:**
 
@@ -581,14 +585,14 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 ### Examples
 
 **Barbarian Holds Portcullis (Potent Feat of Strength):**
-- Normal: Limited (2 Banes - beyond normal strength)
-- With Potency: Strong + 1 Edge + narrative permission (hold it long enough for party to escape)
+- Normal: Limited (lacking proper tools/strength)
+- With Potency: Standard + 1 Edge + narrative permission (hold it long enough for party to escape)
 - Result: Party escapes while Barbarian holds the massive gate
 
-**Sage Casts Fireball on Raiders (Potent Spell + Broad Effect):**
-- Normal: Single target, 1 tick
-- With Potency + Broad Effect: Certain (auto-success), affects large group, 1 Edge
-- Result: Massive explosion engulfs the raiding party
+**Sage Overwhelms Magical Ward (Potent Spell):**
+- Normal: Standard (casting against ward)
+- With Potency: Strong (1 Boon) + 1 Edge (ignore ward's Complication)
+- Result: Spell blasts through the ward effortlessly
 
 **Cleric Wards Party (Potent Blessing + Broad Effect):**
 - Normal: Grant 1 Boon to one ally for next action
@@ -596,10 +600,15 @@ When Potency improves your Vantage to Certain, you auto-succeed if the action is
 - Result: All allies gain 1 Boon on all actions for the entire fight
 
 **Monk Runs Across Water (Potent Feat of Mystical Grace):**
-- Normal: Impossible
-- With Potency: Limited (1 Bane) + 1 Edge + narrative permission
+- Normal: Impossible (physics doesn't allow it)
+- With Potency: Limited (1 Bane, still disadvantaged but mystically possible) + 1 Edge + narrative permission
 - Edge ignores guards' Vigilant Complication
 - Result: Sprints across the pond, leaving guards stranded
+
+**Champion Leaps Massive Gap (Potent Athleticism):**
+- Normal: Strong (running start + athletic prowess)
+- With Potency: Certain (auto-success with superhuman leap)
+- Result: Sails over the chasm effortlessly
 
 ### Combining with Other Mechanics
 

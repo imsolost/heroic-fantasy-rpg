@@ -63,19 +63,19 @@ When a question arises about what you can do, have, or know, check it against yo
 
 ---
 
-## Actions and Effects
+## Actions (What You Do)
 
-When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know). Each Action has a **Primary Effect**—the mechanical outcome when you succeed:
+When you take an action, you name the **Action** (Defy, Clash, Talk, Sense, Know) and describe what you're trying to accomplish. On success, each Action produces a specific outcome:
 
-| Action | Primary Effect | What It Does |
-|--------|----------------|--------------|
-| **Defy** | Overcome | Achieve your risky/extraordinary intent (varies by stated goal) |
-| **Clash** | Harm | Mark Harm or Will track OR defeat weaker foes outright |
-| **Talk** | Influence | Mark Will track OR convince lesser NPCs automatically |
-| **Sense** | Assess | Ask 2 questions |
-| **Know** | Recall | GM tells you something + you ask 1 clarifying question |
+| Action | What It Does |
+|--------|--------------|
+| **Defy** | Achieve your risky/extraordinary intent (varies by stated goal) |
+| **Clash** | Mark Harm or Will track OR defeat weaker foes outright |
+| **Talk** | Mark Will track OR convince lesser NPCs automatically |
+| **Sense** | Ask 2 questions |
+| **Know** | GM tells you something + you ask 1 clarifying question |
 
-**Use Action names at the table** ("I Defy the trap", "I Sense for ambushes"). Primary Effects appear in the rules to describe what mechanically happens.
+**Use Action names at the table:** "I Defy the trap", "I Clash with the guard", "I Sense for ambushes".
 
 ---
 
@@ -88,7 +88,7 @@ Actions are fictional triggers, not rated stats. They describe **what** you're d
 ### 1. Defy — Push Your Limits
 When you act with leverage, speed, or grit to overcome an immediate hazard, bypass an obstacle, or alter the tactical landscape.
 
-**Primary Effect:** Achieve your stated risky or extraordinary intent
+**On success:** Achieve your stated risky or extraordinary intent
 
 Your intent might be one of these fictional effects:
 - Mark Obstacle track (sustained challenges: complex lock, fortified door, prolonged chase)
@@ -109,7 +109,7 @@ Your intent might be one of these fictional effects:
 ### 2. Clash — Harm
 Try to hurt, break, or dominate someone. **Clash breaks resistance through force, confrontation, and dominance.**
 
-**Primary Effect:** Mark 1 tick on Harm or Will track (depending on approach), OR defeat the target entirely (when no track is present)
+**On success:** Mark 1 tick on Harm or Will track (depending on approach), OR defeat the target entirely (when no track is present)
 
 **Physical Examples (mark Harm track):**
 - Sword strikes, thrown daggers, brutal tackles
@@ -133,7 +133,7 @@ Try to hurt, break, or dominate someone. **Clash breaks resistance through force
 ### 3. Talk — Influence
 Convince, persuade, or deceive someone. **Talk changes minds through social influence.**
 
-**Primary Effect:** Mark 1 tick on Will track OR convince the target outright (when no track is present because the target is minor or vulnerable)
+**On success:** Mark 1 tick on Will track OR convince the target outright (when no track is present because the target is minor or vulnerable)
 
 **Examples:** Persuasion, deception, seduction, negotiation, inspiration, building trust, appealing to values
 
@@ -144,7 +144,7 @@ Convince, persuade, or deceive someone. **Talk changes minds through social infl
 ### 4. Sense — Assess
 Get specific and useful information about a person, place, or situation.
 
-**Primary Effect:** Ask 2 questions
+**On success:** Ask 2 questions
 
 **Examples:** Read someone's intentions, spot hidden dangers, assess tactical situation, notice details others miss
 
@@ -153,7 +153,7 @@ Get specific and useful information about a person, place, or situation.
 ### 5. Know — Recall
 Search your memory for important information about a subject.
 
-**Primary Effect:** GM tells you one specific, actionable thing + you may ask one clarifying question
+**On success:** GM tells you one specific, actionable thing + you may ask one clarifying question
 
 **Examples:** Recall monster weaknesses, remember political alliances, know religious customs, identify magical symbols
 

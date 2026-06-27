@@ -606,13 +606,11 @@ Each Action has a core function and specific effects. All Actions use the same f
 
 #### Defy - Push Your Limits
 
-**Primary Effect: Achieve**
-
-Achieve your stated risky or extraordinary intent.
-
 **When you act with leverage, speed, or grit to overcome an immediate hazard, bypass an obstacle, or alter the tactical landscape.**
 
-The primary effect of your success depends on your stated intent:
+**On success:** Achieve your stated risky or extraordinary intent.
+
+What you achieve depends on your stated intent:
 - **Sustained challenge:** Mark progress on Obstacle track (complex lock, fortified door, prolonged chase)
 - **Risky objective:** Achieve your goal (see examples below)
 
@@ -697,11 +695,9 @@ Defy is a **proactive action** — you use it when actively overcoming obstacles
 
 #### Clash - Harm
 
-**Primary Effect: Harm**
-
-Mark progress on a **Harm or Will track** (depending on delivery) OR defeat the target entirely (when no track is present because the target is minor or vulnerable).
-
 **When you try to break someone — physically, mentally, or through dominance — you Clash.**
+
+**On success:** Mark progress on a **Harm or Will track** (depending on delivery) OR defeat the target entirely (when no track is present because the target is minor or vulnerable).
 
 Clash is about **forcing submission** through overwhelming force, fear, or psychological domination. Whether you're breaking their body or breaking their will, the target complies because they're forced to, not because they want to.
 
@@ -778,11 +774,9 @@ The resulting Impact Moves inflict Stress (representing emotional/social pain) a
 
 #### Talk - Influence
 
-**Primary Effect: Influence**
-
-Mark progress on a **Will track** OR convince the target entirely (when no track is present because the target is minor or vulnerable).
-
 **When you try to convince, persuade, or manipulate someone into doing what you want—sway them.**
+
+**On success:** Mark progress on a **Will track** OR convince the target entirely (when no track is present because the target is minor or vulnerable).
 
 Use when:
 - Persuading someone to do something
@@ -823,11 +817,9 @@ Both Talk and social Clash can mark the **Will track**, but produce fundamentall
 
 #### Sense - Assess
 
-**Primary Effect: Assess**
-
-Ask specific questions to get useful information.
-
 **When you closely study a person, place, or situation—learn the truth.**
+
+**On success:** Ask 2 questions to get useful information.
 
 Use when:
 - Reading body language, spotting tells
@@ -867,11 +859,9 @@ Use when:
 
 #### Know - Recall
 
-**Primary Effect: Recall**
-
-The GM tells you one specific, actionable thing your character would know about the situation or subject — a vulnerability, a key detail, or a fact that changes your approach. You may ask one clarifying question.
-
 **When you search your memory for important information about a subject—recall knowledge.**
+
+**On success:** The GM tells you one specific, actionable thing your character would know about the situation or subject — a vulnerability, a key detail, or a fact that changes your approach. You may ask one clarifying question.
 
 Use when:
 - Recalling lore, history, legends, or facts

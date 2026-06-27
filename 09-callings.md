@@ -346,14 +346,14 @@ You have Expertise when organizing groups, establishing chains of command, maint
 **Danger Sense**
 You have Expertise when keeping watch for threats or detecting ambushes. Whenever you enter a dangerous situation, you may ask the GM: "What danger threatens my allies here?" The GM answers with the most immediate threat.
 
-**Immovable Object**
+**Immovable**
 You have Expertise when resisting effects that would move, displace, or knock you prone. Push Yourself to completely ignore such an effect.
 
 **Indomitable**
 When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
 
 **Inspire Greatness [ ] [ ]**
-When you Assist an ally, you can mark this to also give that ally 1 Edge.
+When you Assist an ally, you can mark this to also give that ally 1 Edge on their action.
 
 **Iron Bulwark**
 When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.

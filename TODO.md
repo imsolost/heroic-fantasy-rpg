@@ -2,6 +2,32 @@
 
 ## High Priority
 
+### Book Reorganization
+**Priority:** High  
+**Estimated Effort:** Very Large (multiple focused sessions)  
+**Status:** Proposal complete (see REORGANIZATION-PROPOSAL.md)
+
+Restructure the entire book to organize by reader need and moment of use (Learning / Creating / Playing) rather than by mechanic type. This addresses the root cause of rules drift, repetition, and unclear reader paths.
+
+**Key changes:**
+- 5 Parts: Before You Play / The Rules / Your Character / Running the Game / Appendices
+- Every mechanic gets exactly one canonical home
+- Clear reading paths for players vs GMs
+- Reference layer separated from teaching layer
+- Examples consolidated into Appendix B
+
+**Benefits:**
+- Eliminates rules drift at the structural level
+- Clear cross-references replace duplication
+- Faster mid-session lookup
+- Cleaner onboarding for new players
+
+**See:** REORGANIZATION-PROPOSAL.md for complete structure
+
+---
+
+## High Priority
+
 ### Quick Start / Session Zero Chapter
 **Priority:** High  
 **Estimated Effort:** Medium

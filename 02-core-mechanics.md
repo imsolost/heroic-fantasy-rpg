@@ -85,7 +85,7 @@ Actions are fictional triggers, not rated stats. They describe **what** you're d
 
 **The Five Actions:**
 
-### 1. Defy — Push Your Limits
+### 1. Defy — Push Your Limits, Overcome, Achieve
 When you act with leverage, speed, or grit to overcome an immediate hazard, bypass an obstacle, or alter the tactical landscape.
 
 **On success:** Achieve your stated risky or extraordinary intent
@@ -106,7 +106,7 @@ Your intent might be one of these fictional effects:
 
 ---
 
-### 2. Clash — Harm
+### 2. Clash — Harm, Engage, Fight
 Try to hurt, break, or dominate someone. **Clash breaks resistance through force, confrontation, and dominance.**
 
 **On success:** Mark 1 tick on Harm or Will track (depending on approach), OR defeat the target entirely (when no track is present)
@@ -150,7 +150,7 @@ Get specific and useful information about a person, place, or situation.
 
 ---
 
-### 5. Know — Recall
+### 5. Know — Recall, Analyze, Deduce
 Search your memory for important information about a subject.
 
 **On success:** GM tells you one specific, actionable thing + you may ask one clarifying question
@@ -232,6 +232,14 @@ Boon and Bane represent advantage and disadvantage.
 
 **Multiple sources stack** — each grants +1d, up to the cap.
 
+### Push Yourself
+
+When you make an action roll, you may **mark 1 Stress** to gain **1 Boon** on that roll before rolling. This represents exceptional effort, pushing beyond your normal capabilities.
+
+**Example:** "I dig deep and push through the pain" (mark 1 Stress, gain +1d on your roll)
+
+**Timing:** Declare before you roll. You can combine Push Yourself with Assist from allies, subject to the +2 Boon cap.
+
 ---
 
 ## Working Together
@@ -245,14 +253,6 @@ When an ally makes an action roll, you may **mark 1 Stress** to grant them **1 B
 **Example:** "I steady your bow arm as you draw" (mark 1 Stress, ally gets +1d)
 
 **Limits:** You must be positioned to help fictionally. Multiple allies can Assist the same roll (each marking 1 Stress), but the +2 Boon cap still applies.
-
-### Push Yourself
-
-When you make an action roll, you may **mark 1 Stress** to gain **1 Boon** on that roll before rolling. This represents exceptional effort, pushing beyond your normal capabilities.
-
-**Example:** "I dig deep and push through the pain" (mark 1 Stress, gain +1d on your roll)
-
-**Timing:** Declare before you roll. You can combine Push Yourself with Assist from allies, subject to the +2 Boon cap.
 
 ### Setup
 
@@ -518,14 +518,16 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 **Potent Actions allow you to attempt extraordinary feats beyond normal adventurer capability.** Potency comes from Talents, magical rituals, or special circumstances that explicitly grant "Potent" on a specific type of action (Potent Spell, Potent Feat of Strength, Potent Sermon, etc.).
 
+Compared to a normal action, a Potent action can be more intense or broad, create dramatic opportunities, bend the rules, or do anything else that feels incredible—within reason
+
 ### What Potency Grants
 
 **When you perform a Potent Action, you gain:**
 
 - **Edge +1:** Ignore 1 Complication
 - **Expanded possibility:** Attempt actions beyond normal limits
-  - Impossible actions become possible (though still Limited - roll with 1-2 Banes)
-  - Strong actions become Certain (auto-success if straightforward)
+  - Impossible actions can become possible (though still Limited - roll with 1-2 Banes)
+  - Strong actions can become Certain (auto-success if straightforward)
 - **Narrative permission:** Perform actions beyond normal scope (group-scale accomplishments, stretching mortal limits, mystical effects within your domain)
 - **Scale enhancement across one dimension:**
 
@@ -564,15 +566,15 @@ Without Expertise, this would have been Setback (failure + Major Consequence). E
 
 **The GM determines exact numbers based on fiction.** "Small group" might be 3 goblins or 6 townsfolk depending on context. "Scene duration" lasts until the scene ends or the fiction breaks it.
 
-### How It Works
+### How Potency Works
 
 **1. Declare Potent Action:** Activate the Talent or condition that grants Potency
 
-**2. Assess Improved Vantage:** GM determines your normal Vantage, then improve it by 1 tier
+**2. Assess Improved Vantage:** GM determines if your Vantage has changed due to Potency.
 
-**3. Apply Edge:** If the Challenge has Complications, your 1 Edge ignores 1 of them (choose which)
+**3. Apply Edge:** If the Challenge has Complications, your 1 Edge from Potency ignores 1 of them (choose which)
 
-**4. Roll (if needed):** If Strong or Limited, roll normally. If Certain, auto-succeed.
+**4. Roll (if needed):** If Certain, auto-succeed. Otherwise, calculate your dice pool and roll. 
 
 **5. Resolve Outcome:** Apply results normally. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
 

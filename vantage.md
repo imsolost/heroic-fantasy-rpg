@@ -122,10 +122,13 @@ Disadvantageous external factors: lacking tools, poor positioning, or unfavorabl
 
 **Examples:**
 - Climbing a sheer wall without proper gear
-- Convincing a hostile noble with no leverage
 - Picking a lock without thieves' tools (using hairpin)
-- Fighting from low ground or significantly outnumbered
-- Acting in poor visibility or extreme time pressure
+- Fighting significantly outnumbered
+- Acting in poor visibility (darkness, fog, smoke)
+- Wrong tool for the job (using dagger to pry open door)
+- Extreme weather conditions (intense winds, blizzard)
+- Unstable terrain (slippery ice, narrow ledge)
+- Convincing a hostile noble with no leverage
 
 **When to use:** The character lacks ideal tools, positioning, or capability—or conditions actively hinder success (environmental hazards, Conditions, time pressure).
 

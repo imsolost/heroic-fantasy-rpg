@@ -17,7 +17,7 @@ These work together:
 
 ---
 
-## Three Questions (GM Tool)
+## Two Questions (GM Tool)
 
 Before calling for a roll, ask:
 
@@ -26,20 +26,18 @@ Before calling for a roll, ask:
 - **No** → It's **Impossible** (suggest different approach)
 
 **2. What's their Vantage?** (Given who they are and the situation, where do they fall?)
-- **Certain** → Auto-success (no roll needed)
+- **Certain** → No roll needed (either assured success OR uninteresting failure)
 - **Strong** → Roll with 1 Boon (advantageous position)
 - **Standard** → Roll with no modifier (baseline)
 - **Limited** → Roll with 1-2 Banes (disadvantaged position)
 - **Impossible** → Cannot attempt
 
-**3. Is failure interesting?** (Would failure create drama/complications/stakes?)
-- **No** → Don't roll, let it happen (success or failure, depending on fiction)
-- **Yes** → Call for roll
+**Certain captures two cases:** Clear capability with trivial task (say yes), OR failure wouldn't create drama (say yes or no based on fiction, but don't roll either way).
 
 **Examples:**
-- Swinging sword against dragon's impenetrable hide → **Can't reasonably harm it** (Impossible) → Doesn't work, need different approach (magic weapon, exposed weak point, etc.)
-- Shooting tied-up unconscious villager → **Not risky or interesting** (Question 3 = No) → Just happens
-- Breaking locked door with no one nearby and plenty of time → **Failure not interesting** (Question 3 = No) → Eventually succeeds, just takes time
+- Swinging sword against dragon's impenetrable hide → **Can't reasonably harm it** (Impossible) → Doesn't work, need different approach
+- Shooting tied-up unconscious villager → **Not risky or interesting** (Certain) → Just happens
+- Breaking locked door with no one nearby and plenty of time → **Failure not interesting** (Certain) → Eventually succeeds
 
 ---
 
@@ -48,21 +46,24 @@ Before calling for a roll, ask:
 **Vantage determines whether you roll and how difficult it is.**
 
 ### Certain
-**The outcome is assured.**
+**No roll needed.**
 
-**No roll required.** Success is automatic.
+Either the character has clear capability and the task is trivial, OR failure wouldn't create anything interesting (it would just stall progress without adding drama). Say yes and move on, or say no and suggest a different approach.
 
-You have clear capability, proper tools, and the task is trivial with no meaningful opposition.
+**Two reasons to skip the roll:**
 
-**Examples:**
-- A Champion swinging their weapon against an unaware, helpless target
-- A Hunter tracking obvious prey through muddy ground
-- A Sage reading a text in a language they know
-- A Shadow picking a simple lock with proper tools and time
-- A doctor suturing a wound in a calm moment
-- Climbing a ladder
+1. **Clear capability, trivial task** — Success is assured
+   - A Champion swinging their weapon against an unaware, helpless target
+   - A Shadow picking a simple lock with proper tools and time
+   - A doctor suturing a wound in a calm moment
+   - Climbing a ladder
 
-**When to use:** The character has clear capability, proper tools/positioning, and the task is within their competence with no dramatic tension or meaningful risk of failure.
+2. **Uninteresting failure** — Rolling wouldn't add value even if outcome is uncertain
+   - Breaking down a door with no time pressure and no one nearby (failure just means "try again")
+   - Finding a clue that's required for the story to progress (failure would stall without creating drama)
+   - Routine tasks where success is expected and failure would be tedious rather than dramatic
+
+**When to use:** The outcome is either assured by capability, or failure wouldn't create meaningful consequences or drama.
 
 ---
 

@@ -14,17 +14,14 @@ For Stress & Conditions, see **Chapter 5: Resilience**.
 
 Make an **Action Roll** when a character faces a risky, difficult, or dramatically significant situation.
 
-**Roll when the action is:**
-- **Limited** — Requires significant effort or skill
-- **Dangerous** — Involves risk of serious harm or consequences
-- **Dramatic** — A big moment that affects the character or world
-
 **Don't roll when:**
-- Outcome is certain (trivial tasks, overwhelming advantage)
-- Failure would just stall progress (find a way to say "yes, and..." or reframe)
-- The moment isn't interesting enough to spend time on
+- The outcome is certain (trivial tasks, overwhelming advantage) — **Certain Vantage**
+- Failure would just stall progress without creating drama — **Certain Vantage**
+- The character lacks fundamental capability — **Impossible Vantage**
 
-**Golden rule:** Only roll when **both success AND failure are interesting outcomes**.
+**Roll when:** The outcome is uncertain AND failure would create interesting consequences or drama.
+
+This principle is built into Vantage assessment — **Certain Vantage means no roll** (either for assured success or uninteresting failure).
 
 ---
 

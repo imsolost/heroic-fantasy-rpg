@@ -80,7 +80,9 @@ Ideal positioning, proper tools, and favorable conditions stack in your favor.
 - Perfect lighting + proper tools + ample time
 - Prepared specifically for this (scouted location, studied target, set trap)
 
-**When to use:** The character has created or exploited a significant tactical advantage. Standard is the default—Strong should feel earned and special.
+**When to use:** The character has created or exploited a significant tactical advantage, OR circumstances actively work in their favor. Standard is the default—Strong should feel earned and special.
+
+**Strong Vantage applies when circumstances actively work in your favor** — not merely when they're non-hostile. A friendly NPC, ideal tools, superior position, or any fictional condition that genuinely helps you succeed warrants Strong Vantage.
 
 ---
 
@@ -101,6 +103,8 @@ Neutral external factors: you have capability and tools, but no particular advan
 - Fighting a competent enemy on level ground
 
 **When to use:** The character has the capability and tools, but faces uncertain outcome. This is the default for most action rolls.
+
+**Standard Vantage is the neutral baseline.** Circumstances neither help nor hinder. Most rolls are Standard.
 
 ---
 
@@ -128,9 +132,11 @@ Disadvantageous external factors: lacking tools, poor positioning, or unfavorabl
 - Wrong tool for the job (using dagger to pry open door)
 - Extreme weather conditions (intense winds, blizzard)
 - Unstable terrain (slippery ice, narrow ledge)
-- Convincing a hostile noble with no leverage
+- Negotiating with a hostile merchant trying to swindle you
 
 **When to use:** The character lacks ideal tools, positioning, or capability—or conditions actively hinder success (environmental hazards, Conditions, time pressure).
+
+**Limited Vantage applies when circumstances actively work against you** — not merely when the task is challenging. A hostile NPC, missing tools, poor position, or any fictional condition that genuinely hinders your attempt warrants Limited Vantage.
 
 ---
 
@@ -153,6 +159,48 @@ Disadvantageous external factors: lacking tools, poor positioning, or unfavorabl
 **When to use:** The character lacks fundamental capability, physical/mental capacity is removed by significant Burdens, or the action violates established fiction. Work with the player to find an approach they DO have vantage for.
 
 **Note:** Conditions are temporary impediments (clear on Short Rest) and add Banes to your dice pool. Burdens are long-term impediments (broken arm, lost eye) and can make actions Impossible.
+
+---
+
+## High Stakes (Optional Declaration)
+
+Vantage captures how difficult an action is and whether circumstances help or hinder. Separately, the GM can declare **High Stakes** when the fiction demands consequences more severe than normal.
+
+**The Rule:**
+
+When the fiction demands consequences more severe than normal — a climactic confrontation, a life-or-death moment, a catastrophic potential failure — the GM declares High Stakes before the roll.
+
+**Mechanical effect:** Consequence Tier +1
+- Conflict → Major Consequence (instead of Minor)
+- Setback → Severe Consequence (instead of Major)
+- Disaster → Severe Consequence (already the ceiling; GM may describe it more devastatingly)
+
+**How to Use:**
+
+The GM states it explicitly as part of pre-roll framing:
+
+> "The dragon's attention is fully on you. **This is High Stakes** — if you stumble here, the consequences will be severe. What do you do?"
+
+**When to Use:**
+
+High Stakes should be **rare and reserved for moments the fiction clearly demands it.** Most rolls — even difficult ones, even dangerous ones — do not need it. Limited Vantage (Banes) already makes failure more likely. High Stakes is for when the cost of failure needs to be elevated beyond normal, not just the difficulty.
+
+**Use High Stakes when:**
+- Boss fights or climactic confrontations where standard consequences feel insufficient
+- Life-or-death moments where the fiction demands irreversible weight
+- The single roll that determines whether the ritual completes, the bomb goes off, the ally survives
+
+**Do not use High Stakes when:**
+- The situation is dangerous but Limited Vantage already captures that danger
+- You want consequences to feel dramatic — that's GM narration, not a mechanical modifier
+- Every fight against a significant enemy — reserve it for truly exceptional moments
+
+**Interaction with Vantage:**
+
+High Stakes and Vantage are independent. A roll can be:
+- Standard Vantage + High Stakes (normal difficulty, severe consequences)
+- Limited Vantage + High Stakes (hard AND severe — the climactic boss fight)
+- Strong Vantage + High Stakes (favorable position but enormous stakes — defusing a bomb with the right tools)
 
 ---
 

@@ -1,10 +1,16 @@
 # Stakes: Framing Danger
 
-**Stakes frame the danger of a scene, telling the table about the severity of trouble they should expect.**
+**⚠️ DEPRECATED:** This Stakes system has been retired and replaced by the unified Vantage system. See [vantage.md](vantage.md) for the complete framework.
 
-This can be implied through storytelling cues as you set the scene, or stated explicitly using the categories below. The greater the stakes, the clearer this communication should be.
+**What replaced it:**
+- Vantage now captures both difficulty AND circumstances (favorable/unfavorable)
+- The optional **High Stakes** declaration flag replaces High Stakes consequences
+- See vantage.md for the High Stakes section
+- Consequence calibration guidance remains in Chapter 7 (GM Guide)
 
-**Unless stated otherwise, the scene has Regular Stakes.**
+---
+
+## Original Content (For Reference Only)
 
 ---
 

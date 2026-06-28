@@ -76,12 +76,10 @@ The GM evaluates the situation and communicates clearly:
 - Assess their capability, tools, and positioning (Certain/Strong/Standard/Limited/Impossible - see Vantage section above)
 - See [Vantage](vantage.md) for complete assessment framework
 
-**Stakes (Danger):**
-- How dangerous is failure?
-  - **Low Stakes:** Reduce Consequence Tier by 1 (Conflict = narrative only)
-  - **Regular Stakes:** Standard consequences (default, no adjustment)
-  - **High Stakes:** Increase Consequence Tier by 1 (Conflict = 2 Stress)
-- See [Stakes](stakes.md) for complete calibration guide
+**High Stakes (Optional):**
+- For climactic/life-or-death moments only (rare), GM declares High Stakes
+- **High Stakes:** Consequence Tier +1 (Conflict → Major, Setback → Severe)
+- See [Vantage](vantage.md) for High Stakes guidance
 
 **Task Type:**
 - **Simple Task:** Resolved in one roll (pick lock, convince guard, leap gap)
@@ -89,8 +87,8 @@ The GM evaluates the situation and communicates clearly:
   - State track size: 4-tick (quick), 6-tick (moderate), 8-tick (major), 12-tick (campaign)
 
 **Consequences:**
-- What happens on Setback? (Fail with Major Consequence, or Minor if Low Stakes)
-- What happens on Conflict? (Success with Minor Consequence, or narrative if Low Stakes)
+- What happens on Setback? (Fail with Major Consequence)
+- What happens on Conflict? (Success with Minor Consequence)
 
 **Complications:**
 - Are there Challenge Traits that impose Complications? (enemy armor, magical wards, NPC suspicion)
@@ -101,7 +99,7 @@ The GM evaluates the situation and communicates clearly:
 - Any additional Banes from injuries, Conditions, environment?
 
 **Example:**
-> **GM:** "This is a simple task—one roll to get past. Your Vantage is Limited (1 Bane) because the guard is alert and the corridor is well-lit. Regular Stakes—on Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from your Vantage."
+> **GM:** "This is a simple task—one roll to get past. Your Vantage is Limited (1 Bane) because the guard is alert and the corridor is well-lit. On Setback, you're spotted and he raises the alarm. On Conflict, you get past but he's suspicious and starts investigating. He has no Challenge Traits (no Complications). Your dark clothing gives you 1 Boon, which cancels the Bane from your Vantage."
 
 **Key Principle:** Players should know the stakes before they roll. No surprise consequences.
 
@@ -922,7 +920,7 @@ Complications reduce outcomes step-by-step: Success → Conflict → Setback →
 - Roll Conflict + 2 Complications → Conflict → Setback → Disaster
 - Roll Success + 3+ Complications → Success → Conflict → Setback → Disaster
 
-**Disaster Creates Dramatic Stakes:** This is how heroes get captured, how lasting consequences stick, how truly dangerous situations feel dangerous. If you're facing 2+ Complications, you're in over your head—find another approach or spend resources (Momentum for Edge, Traits to bypass, alternative tracks).
+**Disaster Creates Drama:** This is how heroes get captured, how lasting consequences stick, how truly dangerous situations feel dangerous. If you're facing 2+ Complications, you're in over your head—find another approach or spend resources (Momentum for Edge, Traits to bypass, alternative tracks).
 
 **Key to Appropriate Frequency:** Keep Complications RARE (most foes 0-1 Complications, see Chapter 6). Disaster should feel like "you took on something truly dangerous without preparation" not "this happens every fight."
 

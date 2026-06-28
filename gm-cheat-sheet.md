@@ -9,10 +9,10 @@ Quick reference for running the game. For complete GM guidance, principles, move
 ### 1. Player Declares Intent
 "What do you do?" → Player describes action + goal
 
-### 2. GM Telegraphs Stakes
+### 2. GM Frames the Roll
 - **Action:** Which of the 5 Actions? (Clash, Defy, Talk, Sense, Know)
 - **Vantage:** Certain (auto-success), Strong (1 Boon), Standard (no mod), Limited (1-2 Banes), Impossible (cannot attempt)
-- **Stakes:** Low (-1 tier), Regular (default), High (+1 tier)
+- **High Stakes (optional):** Declare if Consequence Tier +1 (rare, for climactic/life-or-death moments)
 - **Complications:** List any Complications that apply (each reduces outcome by 1 tier)
 - **Consequences:** "On Setback, [X happens]. On Conflict, [Y happens]."
 

@@ -172,23 +172,36 @@ See **vantage.md** for complete Vantage framework and the Three Questions tool.
 
 ---
 
-## Setting Stakes (Danger)
+## High Stakes (Optional Declaration)
 
-**Stakes frame the danger of a scene—how severe the consequences will be.**
+**High Stakes is an optional declaration for climactic, life-or-death moments where consequences need to be more severe.**
 
-**For complete Stakes calibration guide, see [stakes.md](stakes.md).**
+**For complete guidance, see the High Stakes section in [vantage.md](vantage.md).**
 
-### The Three Stakes Levels
+### The Rule
 
-**Low Stakes** — Reduce Consequence Tier by 1 (bar fight, training spar, friendly negotiation)
+When the fiction demands consequences more severe than normal, the GM declares High Stakes before the roll.
 
-**Regular Stakes** — Standard consequences (default, most scenes)
+**Mechanical effect:** Consequence Tier +1
+- Conflict → Major Consequence (instead of Minor)
+- Setback → Severe Consequence (instead of Major)
 
-**High Stakes** — Increase Consequence Tier by 1 (boss fight, life-or-death situation, queen's judgment)
+### When to Use
 
-### Communicating Stakes
+**High Stakes should be rare** — reserved for boss fights, climactic confrontations, or life-or-death moments where the fiction clearly demands elevated consequences.
 
-**Let fiction communicate stakes** ("The dragon's breath could turn you to ash"). For High Stakes, state it explicitly: "This is High Stakes—if you fail, you're Taken Out."
+**Do not use High Stakes when:**
+- Limited Vantage already captures the danger
+- You want consequences to feel dramatic (that's narration, not mechanics)
+- Every fight against a significant enemy
+
+### Communicating High Stakes
+
+**State it explicitly as part of pre-roll framing:**
+
+> "The dragon's attention is fully on you. **This is High Stakes** — if you stumble here, the consequences will be severe. What do you do?"
+
+This gives players the information they need to make informed decisions about spending Momentum or invoking Traits before rolling.
 
 ---
 
@@ -700,12 +713,9 @@ For scene-duration debuffs (Potent Spell + Duration), use different marker:
 
 ## Consequence Calibration Guide
 
-New GMs often struggle with consequence severity — either too harsh (every Conflict marks Stress) or too lenient (consequences feel toothless). Use **Stakes** to calibrate consequence severity, and this guide for variety.
+New GMs often struggle with consequence severity — either too harsh (every Conflict marks Stress) or too lenient (consequences feel toothless). Use this guide for variety and appropriate calibration.
 
-**Stakes adjusts Consequence Tier** (see [Stakes](stakes.md) for complete guide):
-- **Low Stakes:** Reduce by 1 tier (Conflict = narrative only)
-- **Regular Stakes:** Standard consequences (default)
-- **High Stakes:** Increase by 1 tier (Conflict = 2 Stress)
+**High Stakes (optional declaration) increases Consequence Tier by 1** when the fiction demands more severe consequences (see High Stakes section above and [vantage.md](vantage.md)).
 
 ### Default Consequence Templates
 
@@ -762,7 +772,7 @@ New GMs often struggle with consequence severity — either too harsh (every Con
 **When to escalate consequences:**
 - PCs ignored previous warnings (Suspense Moves)
 - Same action repeatedly attempted without changing approach
-- Stakes are genuinely high (climactic battle, life-or-death situation)
+- High Stakes declared (climactic battle, life-or-death situation)
 - Countdown track nearly full (pressure increases as deadline approaches)
 - Elite/Boss enemies (deadlier than standard foes)
 

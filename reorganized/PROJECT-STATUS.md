@@ -75,18 +75,25 @@
 ---
 
 ### Phase 2: Part 0 - Before You Play (1-2 hours)
-**Status:** Not Started  
+**Status:** ✅ COMPLETE (2026-06-29)
 **Priority:** High (required for reading flow)
 
-#### welcome.md
-- [ ] Half-page orientation (what kind of game, who it's for, what's distinctive)
-- [ ] No rules, pure orientation
+#### 01-welcome.md
+- [x] Half-page orientation (what kind of game, who it's for, what's distinctive)
+- [x] No rules, pure orientation
+- [x] What You Need section
+- [x] How to Use This Book section
+- [x] "What Does Play Feel Like?" section
 
-#### core-loop.md
-- [ ] Two pages: six-step sequence
-- [ ] One worked example of play
-- [ ] Show the shape of how a session works
-- [ ] No mechanical detail
+#### 02-core-loop.md
+- [x] Six-step sequence
+- [x] Complete worked example (Shadow crossing courtyard)
+- [x] Shows shape of how a session works
+- [x] Minimal mechanical detail (just the loop)
+- [x] Key principles illustrated
+- [x] Variations on the loop
+
+**Status:** Both documents complete and ready for Part 1
 
 **Dependencies:** Can reference Quick Start for consistency
 
@@ -96,16 +103,20 @@
 **Status:** Not Started  
 **Priority:** High (core content)
 
-#### 01-rolling-dice.md
-- [ ] Dice pool (Approach + Boons - Banes)
-- [ ] Four outcomes (Setback/Conflict/Success/Triumph)
-- [ ] Boon and Bane sources and ±2d cap
-- [ ] Edge definition
-- [ ] Expertise definition
-- [ ] Probability tables
-- [ ] Pool minimum (2d take lowest)
+#### 01-the-action-roll.md
+- [x] What an Action Roll is and when to make one
+- [x] Building dice pool (Approach + Boons - Banes)
+- [x] Four outcomes (Triumph/Success/Conflict/Setback)
+- [x] Boon and Bane sources and ±2d cap
+- [x] Edge definition and usage
+- [x] Expertise definition (Setback → Conflict)
+- [x] Pool minimum (0d = 2d take lowest)
+- [x] Complete Action Roll sequence
+- [x] Probability tables
 
 **Source files:** 02-core-mechanics.md, 04-action-resolution.md
+
+**Status:** ✅ Complete (2026-06-29)
 
 #### 02-taking-action.md
 - [ ] Five Actions with Primary Effects

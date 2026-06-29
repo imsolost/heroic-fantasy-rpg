@@ -209,8 +209,8 @@ This document maps current content to new locations and tracks migration progres
 ## New Content to Write
 
 ### Part 0
-1. **welcome.md** - Half page orientation (what kind of game, who it's for, what's distinctive)
-2. **core-loop.md** - Two pages with six-step sequence + one worked example
+1. **01-welcome.md** - Half page orientation (what kind of game, who it's for, what's distinctive)
+2. **02-core-loop.md** - Two pages with six-step sequence + one worked example
 
 ### Part 1
 1. **05-momentum.md** - NEW chapter consolidating scattered Momentum content

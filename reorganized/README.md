@@ -42,11 +42,11 @@ Read everything in order (Parts 0-4)
 ## Migration Status
 
 ### Part 0: Before You Play
-- [ ] welcome.md - NEW (needs writing)
-- [ ] core-loop.md - NEW (needs writing)
+- [x] 01-welcome.md - ✅ Complete
+- [x] 02-core-loop.md - ✅ Complete (with worked example)
 
 ### Part 1: The Rules
-- [ ] 01-rolling-dice.md - Migrate from 02-core-mechanics.md + 04-action-resolution.md
+- [x] 01-the-action-roll.md - ✅ Complete (dice mechanics, outcomes, Boons/Banes, Edge, Expertise)
 - [ ] 02-taking-action.md - Migrate from 02-core-mechanics.md + 04-action-resolution.md + vantage.md
 - [ ] 03-consequences.md - Migrate from 04-action-resolution.md + 05-resilience.md
 - [ ] 04-resilience.md - Migrate from 05-resilience.md (Push Yourself and Assist canonical home)

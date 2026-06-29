@@ -856,30 +856,37 @@ Use when:
 
 ---
 
-#### Know - Recall
+#### Know - Uncover Answers
 
-**When you search your memory for important information about a subject—recall knowledge.**
-
-**On success:** The GM tells you one specific, actionable thing your character would know about the situation or subject — a vulnerability, a key detail, or a fact that changes your approach. You may ask one clarifying question.
+**When you consider what you know about a subject, ask the GM one question about it and say how you might know the answer.**
 
 Use when:
-- Recalling lore, history, legends, or facts
-- Identifying creatures, artifacts, or phenomena
-- Deducing connections, patterns, or solutions
+- Recalling lore, history, legends, or training
+- Analyzing creatures, artifacts, or phenomena before you
+- Consulting available sources (books, maps, diagrams)
+- Deducing connections, patterns, or solutions through reasoning
 - Applying professional or scholarly expertise
-- Accessing off-screen information not observable in the moment
 
-**Know vs Sense:** Know is for recalling PAST facts, lore, or deducing from existing knowledge. Sense is for observing the PRESENT situation. "What do I know about dragons?" = Know. "What is this dragon doing right now?" = Sense.
+**On success:** The GM answers your question truthfully based on what your character could know or deduce. You may ask one brief clarifying follow-up question.
+
+**Possible questions (about knowledge, lore, or deduction):**
+- Where is ______ located?
+- What could have caused ______?
+- What might be the best way to ______?
+- What have I heard or read about this subject?
+- What is this thing's nature or weakness?
+
+**Know vs Sense:** Know is for KNOWLEDGE—past facts, lore, or deducing from existing knowledge. Sense is for OBSERVING—the present situation unfolding before you. "What do I know about dragons?" = Know. "What is this dragon doing right now?" = Sense.
 
 **Common Consequences:**
 - **Setback:** You misremember critically (false information leads you into danger), waste crucial time, alert danger through investigation
 - **Conflict:** Takes significant time (situation shifts), reveals your interest to observers, information itself creates complication
 
 **Examples:**
-- Recall fire elemental weaknesses → Success → GM: "They're vulnerable to cold iron—your weapon will cut through them easily." You: "How do I exploit that?" GM: "Strike when they're manifesting physically, not in flame form."
-- Identify the artifact → Success → GM: "It's the Sundering Stone—it breaks magical wards when activated." You: "What's the activation trigger?" GM: "Blood from a willing participant."
-- Deduce trap mechanism → Conflict → GM: "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (Minor Consequence)
-- Remember demon lore → Triumph → GM: "This is a bound demon—it cannot leave the summoning circle." You: "How long until the binding breaks?" GM: "Days, not weeks." + gain 1 Momentum
+- PC: "What is this thing's nature or weakness? I studied elemental creatures during my apprenticeship." → Success → GM: "They're vulnerable to cold iron—your weapon will cut through them easily." PC: "How do I exploit that?" GM: "Strike when they're manifesting physically, not in flame form."
+- PC: "What have I heard or read about this artifact? I've cataloged relics for the Order." → Success → GM: "It's the Sundering Stone—it breaks magical wards when activated." PC: "What's the activation trigger?" GM: "Blood from a willing participant."
+- PC: "What could have caused this trap mechanism? I've disarmed similar systems." → Conflict → GM: "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (Minor Consequence)
+- PC: "Where is the demon's binding anchored? I've read the summoning texts." → Triumph → GM: "This is a bound demon—it cannot leave the summoning circle." PC: "How long until the binding breaks?" GM: "Days, not weeks." + gain 1 Momentum
 
 **Know Does NOT Mark Tracks:**
 
@@ -889,7 +896,7 @@ Know provides information only—it doesn't overcome obstacles directly. After g
 
 > **PC approaches locked door with complex mechanism:**
 > 
-> **PC:** "I study the lock mechanism to understand how it works — Know with Cunning."
+> **PC:** "What might be the best way to open this lock? I've picked similar mechanisms before — Know with Cunning."
 > **Rolls:** Success
 > **GM:** "You recognize it's a three-tumbler ward lock—tricky, but beatable if you work the pins in sequence." 
 > **PC:** "What's the sequence?" 
@@ -1128,7 +1135,7 @@ This creates:
 - **Clash → Harm:** Mark 1 tick on Harm track (Conflict/Success) or outright defeat weaker foes
 - **Talk → Influence:** Mark 1 tick on Will track (Conflict/Success) or outright convince lesser creatures
 - **Sense → Assess:** Ask 2 questions (Conflict/Success)
-- **Know → Recall:** GM tells you one specific, actionable thing + you may ask one clarifying question (Conflict/Success)
+- **Know → Uncover Answers:** Ask 1 question (explain how you know) + GM answers + you may ask one clarifying follow-up (Conflict/Success)
 
 **Triumph Benefits:**
 - Gain 1 Momentum

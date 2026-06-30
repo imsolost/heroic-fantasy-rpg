@@ -64,6 +64,8 @@ This framework isn't mandatory — use it as inspiration to create a well-rounde
 
 **No cost** — Traits are free to invoke when relevant.
 
+**Who decides relevance?** The table does. If it's arguable, the player makes a one-sentence case for the connection. When in doubt, lean yes — Traits are meant to fire often. But the connection must be real, not just adjacent (see Example 4 below).
+
 ---
 
 ## The Three Special Effects
@@ -206,6 +208,23 @@ Scout's Trait enabled teamwork without dealing damage directly.
 - **Final:** Mark 1 + 1 additional tick (2 total) + 1 Momentum, no consequences
 
 Triumph + Trait is the heroic peak — maximum output with no cost.
+
+---
+
+### Example 4: Trait Relevance — A Clear "No"
+
+**Setup:**
+- Ranger with "Veteran of the Iron Wars" Trait
+- Rolls Know to recall lore about an ancient elven ward blocking the party's path
+- Outcome: Success
+
+**Can the player invoke?**
+
+> **Player:** "Can I invoke Veteran of the Iron Wars? I've encountered magical defenses in sieges before."
+>
+> **GM:** "Not this time — the Iron Wars were fought against mortal armies. Elven ward-magic is a completely different domain. Your military experience doesn't give you special insight into fey enchantments."
+
+The player succeeded on the Know roll (they still get their answer), but no Special Effect applies. The connection was adjacent — the character *has* seen magic — but not real. "I've been near magic" isn't the same as "my Trait gives me specific knowledge here."
 
 ---
 

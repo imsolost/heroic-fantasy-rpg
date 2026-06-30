@@ -27,6 +27,20 @@ Before diving into consequences, here's a quick reminder of the four outcomes fr
 
 ---
 
+### The Three C's — Don't Confuse Them
+
+| Term | What It Is | Where It Lives |
+|------|-----------|----------------|
+| **Complication** | An enemy tag that reduces your outcome by 1 tier (e.g., Resilient, Deadly) | Enemy stat blocks |
+| **Consequence** | The fallout from your outcome — Minor, Major, or Severe (Stress, narrative setback) | After you roll |
+| **Condition** | A temporary impairment on YOU that applies 1 Bane (e.g., Poisoned 2, Frightened 1) | Your character sheet |
+
+These three things interact in a single roll: you face **Complications** that worsen your outcome, which determines your **Consequence** tier, which might inflict a **Condition** on you.
+
+**Timing mnemonic:** Conditions affect your dice *before* you roll. Complications affect your outcome *after* you roll.
+
+---
+
 ## Consequence Tiers
 
 When you roll **Conflict, Setback, or Disaster**, you face consequences. The severity depends on your outcome:
@@ -151,7 +165,7 @@ Challenges have **Complication tags** that describe when they apply:
 3. **Apply Expertise** → If final outcome is Setback, convert to Conflict
 4. **Apply consequences** → Based on final outcome
 
-**Important:** Expertise does NOT protect against Disaster (if you have 3+ Complications).
+**Important:** Expertise does NOT protect against Disaster. If you have 3+ Complications, even a Success will be reduced to a Disaster.
 
 ---
 

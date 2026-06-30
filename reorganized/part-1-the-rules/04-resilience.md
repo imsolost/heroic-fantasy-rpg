@@ -240,6 +240,26 @@ You are **Taken Out** when:
 >
 > *(After combat, the party takes a Short Rest. Poisoned clears entirely.)*
 
+### Stress Overflow Example
+
+> Finn has **4/5 Stress** marked. An ogre Clashes him — Setback means Major Consequence: mark 2 Stress.
+>
+> **Step 1:** Finn marks 1 Stress (fills box 5). He now has 5/5 Stress.
+>
+> **Step 2:** 1 Stress remains unmarked. That's **1 overflow**.
+>
+> **Step 3:** Finn chooses: take a **Burden** or be **Taken Out**.
+>
+> **Step 4:** Finn takes the Burden. Overflow is 1, so: **Wounded 1 (Burden)**.
+>
+> **Step 5:** Finn clears 3 Stress (always flat). His track goes from 5/5 → **2/5 Stress**.
+>
+> Finn is hurt but has breathing room. The Burden persists until Long Rest.
+
+> **What if Finn had 5/5 Stress instead?** The full 2 Stress is overflow (can't mark any). That's overflow 2 → **Wounded 2 (Burden)**, then clear 3 Stress → goes to **2/5 Stress**.
+>
+> **What if a Severe Consequence dealt 3 Stress at 4/5?** Mark 1 (fills track), overflow 2 → **Wounded 2 (Burden)**, clear 3 → **2/5 Stress**.
+
 ---
 
 ## Design Notes: Why Resilience Works This Way

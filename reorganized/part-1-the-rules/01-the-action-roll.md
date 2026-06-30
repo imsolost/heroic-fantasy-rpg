@@ -329,11 +329,19 @@ Disaster is the worst possible outcome and should feel appropriately devastating
 - Doesn't eliminate consequences (you still suffer Minor Consequence on converted Conflict)
 - Doesn't create Triumph (requires rolling double 6s)
 
+**Edge vs Expertise — both protect you, but differently:**
+- **Edge** ignores a Complication (prevents outcome reduction)
+- **Expertise** converts Setback → Conflict (prevents total failure)
+
+Edge works *before* your outcome is finalized (cancels the Complication). Expertise works *after* (rescues you from Setback). They can both apply on the same roll.
+
 **See Chapter 9 for Calling-specific Expertise.**
 
 ---
 
 ## The Complete Action Roll Sequence
+
+This expands steps 3–4 of the Core Loop from Part 0 — building the pool and interpreting the result.
 
 Here's how all the pieces fit together when you make an Action Roll:
 

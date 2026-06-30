@@ -91,7 +91,7 @@ Your effect is unusually potent, extensive, durable, or difficult to counter.
 
 ### 2. Secondary Effect
 
-Gain a **free successful Defy action** related to your initial action.
+Gain a **free successful Defy action** related to your initial action. These are the same categories as Defy's intent options in Chapter 2.
 
 The secondary action must flow from what you just did — it can't be random or unrelated.
 
@@ -103,7 +103,7 @@ The secondary action must flow from what you just did — it can't be random or 
 | **Seize Control** | Move, restrain, occupy | Knockdown, grapple, shove into hazard, block path |
 | **Create Advantage** | Set up ally or debuff enemy | Grant ally 1 Boon OR 1 Edge, inflict Condition |
 | **Change Situation** | Alter fiction beyond tactics | Shift relationship, alter environment, establish rapport |
-| **Mark Obstacle** | Progress toward overcoming | Mark 1 tick on an Obstacle track |
+| **Overcome Obstacle** | Progress toward overcoming | Mark 1 tick on an Obstacle track |
 
 **Examples:**
 - Clash the knight → Secondary: free Defy to disarm him (Take Something)

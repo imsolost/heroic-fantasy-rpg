@@ -507,9 +507,10 @@ Progress toward breaking an adversary's mental/emotional fortitude or convincing
 
 ### Obstacle Track
 Progress toward overcoming a physical or environmental challenge:
-- **Used by:** Defy (overcoming obstacles), Know (solving puzzles, dispelling wards)
+- **Used by:** Defy (overcoming obstacles)
 - **Examples:** Lock complexity, wall height, trap mechanism, hazard severity, ward strength
 - **When filled:** Obstacle overcome, lock picked, wall climbed, trap disarmed, hazard neutralized
+- **Note:** Know provides information that may improve your Vantage on subsequent Defy rolls, but does not mark Obstacle tracks directly
 
 ### Countdown Track (GM-facing)
 Time pressure or deteriorating situation:
@@ -564,7 +565,7 @@ Track lengths follow the **Tier system** (Tier 0-4):
   - "Tell me what you saw" (Triumph/Success = they answer)
   - "Back down" (Triumph/Success = they flee or submit)
 
-**Obstacle Track (Defy, Know):**
+**Obstacle Track (Defy):**
 - **Use Track:** Complex obstacles requiring multiple actions
   - Fortified positions, complex mechanisms, dangerous hazards (2-6 ticks)
   - Multi-stage climbs, elaborate trap systems, warded doors

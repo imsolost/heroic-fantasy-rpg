@@ -429,7 +429,7 @@ Understanding the odds helps you make informed tactical decisions.
 Now that you understand how the Action Roll works, the next chapters add context:
 
 - **Chapter 2: Taking Action** — What the five Actions do, how Approaches work, how the GM assesses Vantage
-- **Chapter 3: Consequences** — What happens after the Action Roll, how Complications work, Progress tracks
+- **Chapter 3: Outcomes & Consequences** — What happens after the Action Roll, how Complications work, Progress tracks
 - **Chapter 4: Resilience** — Stress, Conditions, Push Yourself, Assist
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects

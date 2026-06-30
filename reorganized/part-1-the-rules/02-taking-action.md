@@ -437,7 +437,7 @@ Most RPGs have either:
 
 Now you know what Actions you can take, how Approaches shape them, and how Vantage determines difficulty. The next chapters cover what happens after the roll:
 
-- **Chapter 3: Consequences** — What the four outcomes mean, how Complications work, Progress tracks
+- **Chapter 3: Outcomes & Consequences** — What the four outcomes mean, how Complications work, Progress tracks
 - **Chapter 4: Resilience** — Stress, Conditions, Push Yourself, Assist
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects

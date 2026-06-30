@@ -1,13 +1,14 @@
-# Chapter 3: Consequences
+# Chapter 3: Outcomes & Consequences
 
 When you make an Action Roll, you get one of four outcomes (see Chapter 1). This chapter explains what those outcomes mean—how they translate into narrative and mechanical consequences, and how the GM determines what happens next.
 
 **What you'll learn:**
+- The four outcomes and what they produce
 - Consequence tiers (Minor, Major, Severe)
 - How Complications reduce outcomes
 - Progress Tracks (Harm, Will, Obstacle, Countdown)
 - Resist Consequence (using Momentum to mitigate harm)
-- How outcomes resolve for each Action
+- How each Action resolves across outcomes
 
 ---
 
@@ -205,8 +206,9 @@ Challenges have **Complication tags** that describe when they apply:
 - **When filled:** Enemy breaks/flees (Clash) or becomes convinced/allied (Talk)
 
 **Obstacle Track** — Progress toward overcoming environmental challenge
-- **Used by:** Defy (overcoming obstacles), Know (solving puzzles)
+- **Used by:** Defy (overcoming obstacles)
 - **When filled:** Obstacle overcome (lock picked, wall climbed, trap disarmed)
+- **Note:** Know provides information that may improve your Vantage, but Defy marks the track
 
 **Countdown Track** (GM-facing only) — Time pressure or escalating threat
 - **Used by:** GM to represent threats
@@ -216,11 +218,11 @@ Challenges have **Complication tags** that describe when they apply:
 
 ### Track Sizes
 
-Track sizes correspond to Challenge Tiers (0-4):
+Track sizes correspond to **Challenge Rating (CR)**:
 
-| Tier | Track Size | Complexity | Examples |
-|------|------------|------------|----------|
-| **0** | 0 ticks | Trivial | Untrained guard, simple lock, friendly NPC (no track, resolved on any success) |
+| CR | Track Size | Complexity | Examples |
+|----|------------|------------|----------|
+| **—** | 0 ticks | Trivial | Untrained guard, simple lock, friendly NPC (no track, resolved on any success) |
 | **1** | 2 ticks | Minion | Bandit, basic obstacle, skeptical merchant |
 | **2** | 4 ticks | Standard | Veteran warrior, complex lock, hostile NPC |
 | **3** | 6 ticks | Elite | Champion fighter, fortified position, hostile faction |
@@ -244,7 +246,7 @@ Track sizes correspond to Challenge Tiers (0-4):
 **Greater Effect (from Trait):** Mark **2 ticks** instead of 1
 
 **Example:**
-- Tier 2 enemy (4-tick Harm track)
+- CR 2 enemy (4-tick Harm track)
 - You Clash twice, both Success → 2 ticks marked
 - You Clash with Trait invoked (Greater Effect) → 2 more ticks marked
 - **Total: 4 ticks → Enemy defeated**
@@ -253,35 +255,33 @@ Track sizes correspond to Challenge Tiers (0-4):
 
 ## Resist Consequence
 
-When you face a consequence, you can spend **1 Momentum** to **Resist Consequence**:
+When you would suffer a consequence (Stress, Condition, or narrative setback), spend **1 Momentum** to automatically reduce the Consequence Tier by 1.
 
-1. Announce you're resisting before the GM narrates the consequence
-2. Spend **1 Momentum**
-3. Roll **Defy** with appropriate Approach
-4. Check outcome:
-   - **Success or Triumph:** Reduce consequence by 1 tier OR avoid it entirely (GM discretion)
-   - **Conflict:** Reduce consequence by 1 tier
-   - **Setback:** Consequence happens as stated (you tried, but failed)
+**No roll required** — the reduction is immediate and guaranteed.
 
-**What you can resist:**
-- Stress (reduce amount or avoid)
-- Conditions (reduce tier or avoid)
-- Narrative setbacks (reduce severity)
-- Being disarmed, knocked down, pushed back
-- Enemy Progress tracks against you
+**What this reduces:**
 
-**You cannot resist:**
-- Consequences of your own choices (you chose to jump off the cliff)
-- Logical fictional outcomes (you're underwater, you can't breathe)
-- GM moves that aren't consequences of a roll (world keeps moving)
+| Consequence | Resisted To |
+|-------------|-------------|
+| Major (2 Stress) | Minor (1 Stress) |
+| Minor (1 Stress) | No Stress |
+| Severe (3 Stress) | Major (2 Stress) |
+| Condition tier 3 | Condition tier 2 |
+| Condition tier 2 | Condition tier 1 |
+| Condition tier 1 | No Condition |
+| Narrative consequence | GM reduces severity |
+
+**When to use:**
+- After the GM announces a consequence, declare "I Resist" and spend 1 Momentum
+- Before Stress Overflow (reduces overflow amount, possibly avoiding Burden choice)
+- Your choice whether the Momentum is worth avoiding/reducing this specific consequence
 
 **Example:**
-- Enemy Clashes, rolls Success → marks your Harm track + you mark 2 Stress (Major Consequence)
-- You: "I spend 1 Momentum to Resist Consequence"
-- You roll Defy with Spirit → Roll Success
-- GM: "Reduce to 1 Stress instead of 2. You grit your teeth and fight through the pain."
+- GM: "The knight's mace slams into your shield. Mark 2 Stress."
+- You: "I spend 1 Momentum to Resist — I roll with the blow."
+- GM: "Reduce to 1 Stress. The impact jars your arm but you stay firm."
 
-**See Chapter 5 (Momentum) for complete Resist Consequence rules.**
+**See Chapter 5 (Momentum) for complete Momentum rules.**
 
 ---
 
@@ -370,19 +370,9 @@ Here's how outcomes resolve for each of the five Actions:
 
 ---
 
-## High Stakes (Optional)
+## High Stakes (see Chapter 2)
 
-For rare climactic moments, the GM may declare **High Stakes** before you roll.
-
-**High Stakes effect:** Consequence tier +1
-- Conflict → Major Consequence
-- Setback → Severe Consequence
-
-**When to use:** Boss fights, life-or-death decisions, catastrophic failures
-
-**Most rolls don't need High Stakes.** Default consequences are sufficient.
-
-**See Vantage Reference (Part 3) for High Stakes guidance.**
+**High Stakes** increases consequence tier by +1: Conflict becomes Major Consequence, Setback becomes Severe Consequence. Declared by the GM before the roll as part of pre-roll framing. Rare — reserved for climactic moments.
 
 ---
 

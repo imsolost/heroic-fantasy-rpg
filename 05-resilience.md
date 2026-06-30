@@ -102,10 +102,6 @@ Each time you make an action roll where the Condition applies, reduce its tier b
 
 **Through action:** Make action rolls where the Condition applies. Each relevant roll reduces the tier by 1.
 
-**Through Trait Special Effects:** When you invoke a Trait and choose Secondary Effect, you may reduce any one Condition by 1 tier — provided the Trait is fictionally relevant to shaking off that Condition.
-
-> *A warrior with the Ironborn Trait shaking off Poisoned through sheer physical resilience. A rogue with Shadow Step reducing Frightened by moving decisively through the darkness.*
-
 ### Common Condition Names
 
 Use these as guidance when inflicting Conditions. The list is not exhaustive — name Conditions to fit the fiction.
@@ -345,7 +341,6 @@ Common special recovery methods:
 | Condition reaches tier 0 | Clears |
 | Short rest (1 hour, safe location) | All Stress and all Conditions clear (Burdens persist) |
 | Long rest (overnight) | All Stress and all Conditions clear; Burdens reduce 1 tier |
-| Secondary Effect (Trait) | Reduce one relevant Condition by 1 tier |
 | Burden | Persistent Condition — recovers via Long Rest (1 tier per rest) or special narrative resolution; does NOT clear on Short Rest |
 | Stress track full | Choose: take a Burden or be Taken Out |
 | Mark Stress | 1 (Minor Consequence) or 2 (Major Consequence) |

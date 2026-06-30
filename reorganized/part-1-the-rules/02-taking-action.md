@@ -23,7 +23,7 @@ Every Action has a clear outcome on success—you know what you're rolling for.
 | **Clash** | Mark Harm or Will track (or defeat weaker foes outright) |
 | **Talk** | Mark Will track (or convince lesser NPCs automatically) |
 | **Sense** | Ask 2 questions |
-| **Know** | GM tells you something + you ask 1 clarifying question |
+| **Know** | GM answers your question truthfully + you ask 1 clarifying follow-up |
 
 **Use Action names at the table:** "I Defy the trap," "I Clash with the guard," "I Talk to the merchant."
 
@@ -140,27 +140,31 @@ See the Clash section above. Talk creates willing agreement; Clash creates force
 
 ### Know — Recall, Analyze, Deduce
 
-**Search your memory for important information about a subject.**
+**When you consider what you know about a subject, ask the GM one question about it and say how you might know the answer.**
 
-**On success:** The GM tells you **one specific, actionable thing** your character would know. You may ask **one clarifying question**.
+Use when:
+- Recalling lore, history, legends, or training
+- Analyzing creatures, artifacts, or phenomena before you
+- Consulting available sources (books, maps, diagrams)
+- Deducing connections, patterns, or solutions through reasoning
+- Applying professional or scholarly expertise
 
-**What you might know:**
-- Monster weaknesses or behaviors
-- Political alliances and faction relationships
-- Religious customs and taboos
-- Historical events relevant to the situation
-- Magical symbols, rituals, or components
-- Noble family lineages
-- Trade routes and economic details
-- Local legends and rumors
+**On success:** The GM answers your question truthfully based on what your character could know or deduce. You may ask **one brief clarifying follow-up question**.
 
-**The GM decides** what your character would reasonably know based on your Traits, Calling, background, and the situation.
+**Possible questions:**
+- Where is ______ located?
+- What could have caused ______?
+- What might be the best way to ______?
+- What have I heard or read about this subject?
+- What is this thing's nature or weakness?
+
+**Know vs Sense:** Know is for **knowledge**—past facts, lore, or deducing from existing knowledge. Sense is for **observing**—the present situation unfolding before you. "What do I know about dragons?" = Know. "What is this dragon doing right now?" = Sense.
 
 **Example:**
-- **Player:** "I use Know to recall what I know about mind flayers."
-- **GM (on success):** "You know they're vulnerable to psychic feedback if you resist their mental assault. When they try to dominate you, if you succeed on your resistance roll, they take psychic backlash."
-- **Player:** "Can I ask: how do I resist their domination?"
-- **GM:** "Roll Spirit to Defy their mental intrusion. If you have Expertise in resisting mental effects, even better."
+- **Player:** "What is this thing's nature or weakness? I studied elemental creatures during my apprenticeship."
+- **GM (on success):** "They're vulnerable to cold iron—your weapon will cut through them easily."
+- **Player (clarifying follow-up):** "How do I exploit that?"
+- **GM:** "Strike when they're manifesting physically, not in flame form."
 
 ---
 

@@ -359,13 +359,14 @@ Here's how outcomes resolve for each of the five Actions:
 
 | Outcome | Result |
 |---------|--------|
-| **Triumph/Success** | GM tells you one specific thing + you ask one clarifying question |
-| **Conflict** | GM tells you one thing + clarifying question + Minor Consequence |
-| **Setback** | GM tells you nothing useful + Major Consequence (false info, attract attention, or waste time) |
+| **Triumph** | GM answers truthfully + clarifying follow-up + gain 1 Momentum |
+| **Success** | GM answers truthfully + one clarifying follow-up |
+| **Conflict** | GM answers truthfully + clarifying follow-up + Minor Consequence (time lost, interest revealed, complication from the info itself) |
+| **Setback** | GM gives false or dangerously incomplete information + Major Consequence (misled into danger, attract attention, waste crucial time) |
 
-**Example (Success):** "You recall that vampires must be invited into a home. Can I ask: does that apply to public buildings?"  
-**Example (Conflict):** "You remember the ritual requires a blood sacrifice, but your research attracts the cult's attention"  
-**Example (Setback):** "You misremember—vampires aren't weak to silver, that's werewolves. The vampire grins as your silver blade bounces off"
+**Example (Success):** "What is this thing's nature or weakness? I studied elemental creatures." → "They're vulnerable to cold iron." Follow-up: "How do I exploit that?" → "Strike when they're manifesting physically."  
+**Example (Conflict):** "What could have caused this trap mechanism? I've disarmed similar systems." → "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (Minor Consequence).  
+**Example (Setback):** "You misremember—vampires aren't weak to silver, that's werewolves. The vampire grins as your silver blade bounces off."
 
 ---
 

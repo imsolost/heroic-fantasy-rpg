@@ -41,13 +41,14 @@ Read everything in order (Parts 0-4)
 
 ## Migration Status
 
-### Part 0: Before You Play
-- [x] 01-welcome.md - ✅ Complete
-- [x] 02-core-loop.md - ✅ Complete (with worked example)
+### Part 0: Before You Play (Unnumbered - Introductory)
+- [x] welcome.md - ✅ Complete
+- [x] core-loop.md - ✅ Complete (with worked example)
 
-### Part 1: The Rules
-- [x] 01-the-action-roll.md - ✅ Complete (dice mechanics, outcomes, Boons/Banes, Edge, Expertise)
-- [ ] 02-taking-action.md - Migrate from 02-core-mechanics.md + 04-action-resolution.md + vantage.md
+### Part 1: The Rules (Chapters 1-6)
+- [x] 01-the-action-roll.md - ✅ Chapter 1 Complete (dice mechanics, outcomes, Boons/Banes, Edge, Expertise)
+- [x] 02-taking-action.md - ✅ Chapter 2 Complete (Actions, Approaches, Vantage)
+- [x] 03-consequences.md - ✅ Chapter 3 Complete (consequence tiers, Complications, Progress Tracks, Resist Consequence)
 - [ ] 03-consequences.md - Migrate from 04-action-resolution.md + 05-resilience.md
 - [ ] 04-resilience.md - Migrate from 05-resilience.md (Push Yourself and Assist canonical home)
 - [ ] 05-momentum.md - NEW (consolidate from scattered references)

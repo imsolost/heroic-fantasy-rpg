@@ -78,14 +78,14 @@
 **Status:** ✅ COMPLETE (2026-06-29)
 **Priority:** High (required for reading flow)
 
-#### 01-welcome.md
+#### welcome.md (unnumbered)
 - [x] Half-page orientation (what kind of game, who it's for, what's distinctive)
 - [x] No rules, pure orientation
 - [x] What You Need section
 - [x] How to Use This Book section
 - [x] "What Does Play Feel Like?" section
 
-#### 02-core-loop.md
+#### core-loop.md (unnumbered)
 - [x] Six-step sequence
 - [x] Complete worked example (Shadow crossing courtyard)
 - [x] Shows shape of how a session works

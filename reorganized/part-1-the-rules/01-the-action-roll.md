@@ -79,12 +79,13 @@ Your **Approach** determines how many dice you start with. Approaches are rated 
 **Boons** represent advantages. Each Boon adds +1 die to your pool.
 
 **Common Boon sources:**
-- **Vantage:** Strong Vantage grants 1 Boon (see Chapter 2)
-- **Assist:** An ally marks 1 Stress to grant you 1 Boon (see Chapter 4)
-- **Push Yourself:** Mark 1 Stress to gain 1 Boon (see Chapter 4)
-- **Create an Opening:** Spend 1 Momentum for 1 Boon + 1 Edge (see Chapter 5)
-- **Talents:** Some Talents grant Boons in specific situations (see Chapter 9)
-- **Favorable circumstances:** GM discretion (ideal tools, perfect positioning, surprise)
+- **Strong Vantage:** Grants 1 Boon (or 2 in exceptional circumstances) - see Chapter 2
+- **Assist:** An ally marks 1 Stress to grant you 1 Boon - see Chapter 4
+- **Push Yourself:** Mark 1 Stress to gain 1 Boon - see Chapter 4
+- **Create an Opening:** Spend 1 Momentum for 1 Boon + 1 Edge - see Chapter 5
+- **Talents:** Some Talents grant Boons in specific situations - see Chapter 9
+
+**Note:** Favorable circumstances (ideal tools, good positioning, surprise) are factored into **Vantage assessment**, not granted as separate Boons. If circumstances are favorable, the GM assesses Strong Vantage, which grants Boons.
 
 **Maximum: +2 Boons**
 
@@ -103,9 +104,10 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 **Banes** represent disadvantages. Each Bane removes -1 die from your pool.
 
 **Common Bane sources:**
-- **Vantage:** Limited Vantage imposes 1-2 Banes (see Chapter 2)
-- **Conditions:** Each Condition applies 1 Bane to relevant actions (see Chapter 4)
-- **Unfavorable circumstances:** GM discretion (poor tools, bad positioning, hostile environment)
+- **Limited Vantage:** Imposes 1-2 Banes - see Chapter 2
+- **Conditions:** Each Condition applies 1 Bane to relevant actions - see Chapter 4
+
+**Note:** Unfavorable circumstances (poor tools, bad positioning, hostile environment) are factored into **Vantage assessment**, not applied as separate Banes. If circumstances are unfavorable, the GM assesses Limited Vantage, which imposes Banes.
 
 **Maximum: -2 Banes**
 
@@ -222,13 +224,9 @@ Your highest die determines one of four outcomes:
 **Success with a Minor Consequence.**
 
 - You accomplish your intent (same as Success)
-- **But** you suffer a Minor Consequence:
-  - Mark 1 Stress, OR
-  - Gain a Tier 1 Condition, OR
-  - Lose position/advantage, OR
-  - The situation escalates slightly
+- **But** you suffer a **Minor Consequence** (the GM makes a soft Impact Move)
 
-The GM makes a **soft Impact Move** (see Chapter 11).
+The GM chooses an appropriate consequence from the situation. **See Chapter 3 for complete consequence guidelines.**
 
 **Example:**
 - Roll 2 dice: 3, 5
@@ -242,14 +240,9 @@ The GM makes a **soft Impact Move** (see Chapter 11).
 **Failure with a Major Consequence.**
 
 - You **do not** accomplish your intent
-- **And** you suffer a Major Consequence:
-  - Mark 2 Stress, OR
-  - Gain a Tier 2-3 Condition, OR
-  - The enemy marks a Progress track against you, OR
-  - You lose something important, OR
-  - Danger escalates dramatically
+- **And** you suffer a **Major Consequence** (the GM makes a hard Impact Move)
 
-The GM makes a **hard Impact Move** (see Chapter 11).
+The GM chooses an appropriate consequence from the situation. **See Chapter 3 for complete consequence guidelines.**
 
 **Example:**
 - Roll 2 dice: 2, 3

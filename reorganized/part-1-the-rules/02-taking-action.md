@@ -134,7 +134,7 @@ See the Clash section above. Talk creates willing agreement; Clash creates force
 - Investigating a crime scene
 - Studying an enemy's fighting style
 
-**Enhanced Effect (from Trait):** Ask **3 questions** instead of 2.
+**Greater Effect (from Trait):** Ask **3 questions** instead of 2.
 
 ---
 

@@ -88,14 +88,7 @@ Automatically reduce the Consequence Tier by 1. No roll required.
 
 ---
 
-## Edge vs. Boon (Reminder)
-
-Create an Opening grants both, but they do different things:
-
-- **Boon** = +1d to your pool (improves probability of better outcomes)
-- **Edge** = ignore 1 Complication (prevents outcome reduction after the roll)
-
-These are separate benefits. Boon helps you roll better; Edge protects your result from enemy defenses.
+**Reminder:** Boon adds dice (pre-roll); Edge ignores Complications (post-roll). See Chapter 1 for full explanation.
 
 ---
 

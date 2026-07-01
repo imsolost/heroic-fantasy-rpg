@@ -45,13 +45,7 @@ Make an Action Roll when a character faces a situation that is **uncertain, risk
 
 These principles are built into **Vantage assessment** (see Chapter 2). When the GM assesses your Vantage as **Certain**, no Action Roll is needed—the outcome is clear. When your Vantage is **Impossible**, you can't attempt this action with this approach.
 
-**Example (no Action Roll needed):**
-- A Champion with weapon Expertise attacking a helpless, tied-up prisoner → **Certain** (no Action Roll, automatic success)
-- Breaking down a door with unlimited time and no consequences → **Certain** (no Action Roll, eventually succeeds)
-
-**Example (Action Roll required):**
-- Same Champion attacking an alert, armored knight → **Uncertain outcome** (Action Roll required)
-- Breaking down a door while guards approach → **Time pressure creates drama** (Action Roll required)
+**See Chapter 2 for worked examples** of when to roll vs. when to say yes.
 
 ---
 

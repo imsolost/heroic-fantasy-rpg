@@ -366,9 +366,9 @@ For **rare climactic moments**—boss fights, life-or-death decisions, catastrop
 
 ## Potent Actions
 
-**High Stakes raises consequences. Potent raises effects.** Where High Stakes makes failure worse (GM-declared), Potent makes success *bigger* (Talent-granted).
+**High Stakes raises consequences. Potent raises effects.** Where High Stakes makes failure worse (GM-declared), Potent makes success *bigger*.
 
-Potent Actions allow you to attempt extraordinary feats beyond normal capability. Potency comes from Talents that explicitly grant it — "Push Yourself to perform a Potent feat of [domain]." Without a Talent granting Potency, you cannot perform a Potent Action.
+Compared to a normal action, a Potent Action can be more intense or broad, create dramatic opportunities, bend the rules, or do anything else that feels incredible — within reason. The most common way to gain access to Potent Actions is through Talents (see Chapter 9).
 
 ### What Potency Grants
 

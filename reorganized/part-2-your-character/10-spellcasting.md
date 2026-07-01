@@ -265,7 +265,7 @@ Meaningful magical effects that influence scenes, harm enemies, solve problems, 
 
 ### Potent Spells — Extraordinary Magic
 
-Potent Spells are the magical equivalent of the "Push Yourself to Potent" pattern from Talents (Chapter 9). They achieve effects beyond what standard spells can accomplish.
+Potent Spells follow the **Potent Action** framework (see Chapter 2). They grant Edge +1, can unlock otherwise impossible magical effects, and enhance scale along one dimension — applied to magic.
 
 **How to access Potent Spells:**
 - **Talents that grant Potency** (e.g., "Divine Favor: Push Yourself to perform a Potent miracle")
@@ -274,7 +274,7 @@ Potent Spells are the magical equivalent of the "Push Yourself to Potent" patter
 
 The cost depends on how you access Potency — Push Yourself marks 1 Stress, Efficient Casting uses a box, etc.
 
-**When you cast a Potent Spell, choose one enhancement:**
+**The three scale dimensions applied to spells:**
 
 **Heightened Impact** — Amplify quality or overcome resistance
 - Fireball bypasses fire resistance or melts stone barriers
@@ -291,8 +291,6 @@ The cost depends on how you access Potency — Push Yourself marks 1 Stress, Eff
 - Stone wall lasts entire scene instead of 1-2 actions
 - Buff grants Boon for the scene instead of next action only
 - Charm persists for entire scene instead of 1-2 actions
-
-The enhancement emerges from your intent and the fiction — describe what you're trying to accomplish, and the GM applies the appropriate scale.
 
 **Examples:**
 

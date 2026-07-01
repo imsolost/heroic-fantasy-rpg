@@ -32,7 +32,7 @@ Every Talent follows one of a few patterns:
 
 **Push Yourself** (in Talent context): Mark 1 Stress to activate the Talent's extraordinary effect. This is the standard Push Yourself mechanic (Chapter 4) used as a Talent's activation cost — but instead of gaining a Boon, you get the specific effect described.
 
-**Potent:** An effect that exceeds normal success — achieving results that would normally require multiple actions, extensive preparation, or special circumstances. The GM determines exact scope, but it should always feel like a step above what a standard success would accomplish.
+**Potent:** An extraordinary effect that exceeds normal success — grants Edge +1, can unlock otherwise impossible actions, and enhances scale along one dimension (Heightened Impact, Widespread Effect, or Extended Duration). See **Chapter 2: Potent Actions** for the complete framework.
 
 ---
 

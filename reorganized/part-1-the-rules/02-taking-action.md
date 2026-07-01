@@ -7,6 +7,7 @@ When you face uncertainty in **Archon**, you take action. This chapter covers **
 - The five Approaches (Daring, Grace, Charm, Cunning, Spirit)
 - How Actions and Approaches combine
 - Vantage: how the GM assesses capability and difficulty
+- High Stakes and Potent Actions (modifiers that raise consequences or effects)
 - When to roll vs. when to just say yes
 
 ---
@@ -360,6 +361,71 @@ For **rare climactic moments**—boss fights, life-or-death decisions, catastrop
 **When NOT to use:** Most rolls. Vantage already handles difficulty. High Stakes is only for when failure demands exceptional narrative weight.
 
 **See the Vantage Reference (Part 3) for complete High Stakes guidance.**
+
+---
+
+## Potent Actions
+
+**High Stakes raises consequences. Potent raises effects.** Where High Stakes makes failure worse (GM-declared), Potent makes success *bigger* (Talent-granted).
+
+Potent Actions allow you to attempt extraordinary feats beyond normal capability. Potency comes from Talents that explicitly grant it — "Push Yourself to perform a Potent feat of [domain]." Without a Talent granting Potency, you cannot perform a Potent Action.
+
+### What Potency Grants
+
+When you perform a Potent Action, you gain all of the following:
+
+**1. Edge +1** — Ignore 1 Complication (stacks with other Edge sources)
+
+**2. Expanded Possibility** — Potency can unlock actions that would otherwise be out of reach:
+- Impossible → Limited (roll with 1-2 Banes, but you *can* attempt it)
+- Strong → Certain (auto-success if straightforward; GM may keep it at Strong if circumstances are still challenging)
+- Standard and Limited Vantage are unaffected — Potency doesn't universally shift Vantage, it only opens the extremes
+
+**3. Narrative permission:** Perform actions beyond normal scope. You can can attempt something that would normally require a group of poeople to accomplish, stretch your capabilities to something just beyond mortal limits, or achieve mystical effects within your domain.
+
+**4. Scale Enhancement** — Choose one dimension of enhancement:
+
+| Dimension | What It Does | Example |
+|-----------|--------------|---------|
+| **Heightened Impact** | Amplify quality, overcome resistance | Hold a portcullis alone, bypass magical ward, healing cures supernatural corruption |
+| **Widespread Effect** | Affect larger groups or areas | Strike multiple enemies, inspire an entire crowd, ward covers whole party |
+| **Extended Duration** | Sustain beyond momentary | Barrier lasts entire scene, blessing persists through a battle |
+
+The dimension emerges from your intent — describe what you're trying to accomplish, and the GM applies the appropriate enhancement.
+
+### How It Works
+
+1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress)
+2. **Declare intent:** Describe what you're attempting and which scale dimension you're aiming for
+3. **GM assesses Vantage:** Factoring in the Potency shift
+4. **Roll (if needed):** If Vantage is now Certain, auto-succeed. Otherwise roll as normal with your +1 Edge.
+5. **Resolve:** Apply outcome. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
+
+### Examples
+
+**Champion holds a collapsing portcullis (Potent feat of strength):**
+- Normal: Impossible (no one person can hold this)
+- With Potency: Limited (1 Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
+
+**Hunter tracks quarry through rain-washed stone (Potent feat of tracking):**
+- Normal: Limited (1 Bane, tracks nearly destroyed)
+- With Potency: Standard (Vantage shifts up) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
+
+**Sage overwhelms a magical ward (Potent Spell):**
+- Normal: Standard (Warded Complication would reduce outcome)
+- With Potency: Standard + 1 Edge (ignore ward's Complication) + Heightened Impact (blast through completely)
+
+**Vanguard shields the entire party from dragonfire (Potent feat with shield):**
+- Normal: Could protect self only
+- With Potency: Standard + 1 Edge + Widespread Effect (cover all nearby allies)
+
+### Potency and Special Effects
+
+When a Potent Action also triggers a Trait invocation (Conflict or better, relevant Trait), Potency amplifies Special Effects:
+
+- **Broad Effect + Potency:** Small group → Large group or wide area
+- **Greater Effect + Potency:** Still marks the same ticks, but Potency's Edge helps them land against defended foes
+- **Secondary Effect + Potency:** The secondary Defy also benefits from Potency's scale
 
 ---
 

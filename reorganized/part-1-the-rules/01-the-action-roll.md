@@ -47,6 +47,12 @@ These principles are built into **Vantage assessment** (see Chapter 2). When the
 
 **See Chapter 2 for worked examples** of when to roll vs. when to say yes.
 
+### Who Rolls?
+
+**Only players roll dice.** The GM never picks up dice — enemies, hazards, and the environment act through GM Moves and consequences imposed on player rolls. When a dragon attacks, you Defy its flames; when a noble deceives you, you Sense the lie. The fiction still shows the dragon breathing fire or the noble lying — but the mechanical resolution always flows through *your* action.
+
+This means every roll has a PC as its subject. If no PC is acting, no roll happens — the GM simply narrates.
+
 ---
 
 ## Building Your Dice Pool

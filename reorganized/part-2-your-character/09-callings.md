@@ -173,6 +173,8 @@ You serve as a bridge between the mortal world and forces beyond — divine, anc
 
 **Example Domains:** Ancestors, Battle, Death, Healing, Life, Nature, Prophecy, Protection, Storms, Sun, Moon, Vengeance, War, Wisdom, etc. Work with your GM to define what each domain can do (see Chapter 10 for examples).
 
+**Spellcasting Approach: Spirit**
+
 **Invoking Your Patron:** When you invoke your patron's power, describe what you ask for within their domains. Choose the Action that matches your intent (Defy to protect, Clash to smite, Talk to bless or curse, Sense for visions, Know to commune for answers). Roll **Spirit + Action**.
 
 You cannot invoke powers outside your patron's domains — your patron grants only what falls within their divine purview. If you wish to expand your spiritual reach, you must gain access to additional domains through Talents or narrative means.
@@ -181,7 +183,7 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and exam
 
 **Divine Favor:** You begin play with Favor. When you have Favor, you have **Expertise** when invoking your patron (Setback → Conflict).
 
-**Losing Favor:** When you roll **Setback** while invoking your patron, you lose Favor. Your patron is silent or displeased. You can still invoke them, but without Expertise.
+**Losing Favor:** When you roll **2 or more 1s** on a patron invocation, you lose Favor — regardless of the action's outcome. Your patron judges how you channel their power, not just whether it works. The more power you draw on (larger dice pools), the greater the chance something in the invocation displeases them. You can still invoke your patron without Favor, but without Expertise.
 
 **Regaining Favor:** Demonstrate devotion to your patron. Work with your GM to determine when Favor returns, typically through:
 - Acting in accordance with your patron's nature (Healing domain: save a life without asking payment)
@@ -202,7 +204,7 @@ Answer 1-2 of these during character creation, or discover the answers through p
 ### Additional Talents
 
 **Chosen Vessel [ ] [ ]**
-Mark this after rolling Setback on a patron invocation. Treat the result as Conflict instead. Using Chosen Vessel always prevents Favor loss — the conversion happens before Favor loss is assessed.
+Mark this after rolling a patron invocation that would cause Favor loss (2+ ones). Prevent the Favor loss — your patron's grace shields you from their displeasure.
 
 **Consecrated Ground**
 When given time, you can sanctify a location no larger than a small building. You and your allies have Expertise on all actions against enemies of your patron within that space. The consecration lasts for the scene. Push Yourself to make it last until your next Long Rest, or to consecrate the space instantly.
@@ -248,6 +250,8 @@ You can use the Sage to play all kinds of scholarly magic-users: an academic wiz
 
 You wield magic through rigorous study and disciplined understanding. Magic is a language, and you have spent years learning to speak it fluently.
 
+**Spellcasting Approach: Cunning**
+
 **Choose Your Path:**
 
 #### Specialist Sage
@@ -272,7 +276,7 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 
 **Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation. **Mark 1 Stress each time** you invoke your theoretical knowledge to improvise a spell, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. If you are a Specialist and your Arcane Formula uses your chosen Sphere, you have Expertise.
 
-**Growth:** When you advance to a new Rank (see Chapter 8), you may learn a new Spell Theorem.
+**Growth:** Sages expand their repertoire through Talents (Spell Codex, Sphere Mastery) and Arcane Formula. See additional Talents below.
 
 ### Background Questions
 
@@ -309,7 +313,7 @@ You have Expertise when designing, preparing, modifying, or improvising rituals.
 Choose a Sphere of Power. You learn two Spell Theorems in that Sphere. Push Yourself to perform a Potent feat of magical theory within it — effects of unusual scale, precision, or permanence that exceed normal theorem limits.
 
 **Spell Codex**
-When you advance to a new Rank, you may learn 2 Spell Theorems instead of 1. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval, maximum 1 learned spell per Long Rest).
+When you take this Talent, learn a number of Spell Theorems equal to your current Rank. Each time you advance to a new Rank, learn 1 additional Spell Theorem. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval).
 
 **Theoretical Genius**
 When you use Arcane Formula, you may ask before rolling: "What is the greatest risk of this improvised spell?" The GM answers honestly. Push Yourself to reduce one consequence of magical experimentation — limiting the fallout without eliminating it entirely.

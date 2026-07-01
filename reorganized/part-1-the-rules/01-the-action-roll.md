@@ -389,15 +389,15 @@ Understanding the odds helps you make informed tactical decisions.
 |------|---------|----------|---------|---------|
 | 2d lowest | 75% | 22% | 3% | 0% |
 | 1d | 50% | 33% | 17% | 0% |
-| 2d | 25% | 37% | 33% | 6% |
-| 3d | 12% | 36% | 41% | 11% |
-| 4d | 6% | 33% | 44% | 17% |
-| 5d | 3% | 28% | 47% | 22% |
+| 2d | 25% | 44% | 28% | 3% |
+| 3d | 12% | 45% | 35% | 7% |
+| 4d | 6% | 42% | 39% | 13% |
+| 5d | 3% | 37% | 40% | 20% |
 
 **Key Insights:**
-- **2d (Standard):** Roughly ⅓ Conflict, ⅓ Success, ⅙ Triumph—balanced odds
+- **2d (Standard):** Conflict is your modal outcome (44%)—you'll often succeed at cost
 - **3d (Standard + 1 Boon):** Setback drops to 12%—competent hero territory
-- **4d (Standard + 2 Boons):** Setback at 6%—very reliable
+- **4d (Standard + 2 Boons):** Setback at 6%, Triumph at 13%—very reliable
 - **0d (2d lowest):** 75% Setback—desperate situation, seek advantages
 
 ### Expertise Impact
@@ -408,9 +408,10 @@ Understanding the odds helps you make informed tactical decisions.
 |------|---------------|----------|---------|---------|
 | 2d lowest | 0% | 97% | 3% | 0% |
 | 1d | 0% | 83% | 17% | 0% |
-| 2d | 0% | 62% | 33% | 6% |
-| 3d | 0% | 48% | 41% | 11% |
-| 4d | 0% | 39% | 44% | 17% |
+| 2d | 0% | 69% | 28% | 3% |
+| 3d | 0% | 58% | 35% | 7% |
+| 4d | 0% | 48% | 39% | 13% |
+| 5d | 0% | 40% | 40% | 20% |
 
 **Expertise eliminates complete failure**—you always succeed at a cost or better.
 

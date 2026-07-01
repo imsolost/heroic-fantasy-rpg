@@ -376,12 +376,9 @@ When you perform a Potent Action, you gain all of the following:
 
 **1. Edge +1** — Ignore 1 Complication (stacks with other Edge sources)
 
-**2. Expanded Possibility** — Potency can unlock actions that would otherwise be out of reach:
-- Impossible → Limited (roll with 1-2 Banes, but you *can* attempt it)
-- Strong → Certain (auto-success if straightforward; GM may keep it at Strong if circumstances are still challenging)
-- Standard and Limited Vantage are unaffected — Potency doesn't universally shift Vantage, it only opens the extremes
+**2. Expanded Possibility** — Potency makes the impossible possible. If the GM would normally rule an action Impossible for this character, Potency shifts it to Limited (roll with 1-2 Banes, but you *can* attempt it). Potency does not shift any other Vantage tier — it only unlocks what would otherwise be completely out of reach.
 
-**3. Narrative permission:** Perform actions beyond normal scope. You can can attempt something that would normally require a group of poeople to accomplish, stretch your capabilities to something just beyond mortal limits, or achieve mystical effects within your domain.
+**3. Narrative permission:** Perform actions beyond normal scope. You can attempt something that would normally require a group of people to accomplish, stretch your capabilities to something just beyond mortal limits, or achieve mystical effects within your domain.
 
 **4. Scale Enhancement** — Choose one dimension of enhancement:
 
@@ -397,34 +394,36 @@ The dimension emerges from your intent — describe what you're trying to accomp
 
 1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress)
 2. **Declare intent:** Describe what you're attempting and which scale dimension you're aiming for
-3. **GM assesses Vantage:** Factoring in the Potency shift
-4. **Roll (if needed):** If Vantage is now Certain, auto-succeed. Otherwise roll as normal with your +1 Edge.
+3. **GM assesses Vantage:** If Impossible, Potency shifts it to Limited. Otherwise Vantage is unchanged.
+4. **Roll:** Roll as normal with your +1 Edge (plus the Boon from Push Yourself, if that's how you activated).
 5. **Resolve:** Apply outcome. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
 
 ### Examples
 
+Remember: when you Push Yourself to activate a Talent, you gain both the normal Boon from Push and the Potency benefits. (Some Talents grant Potency through other means — in those cases, you get Potency without the Push Boon.)
+
 **Champion holds a collapsing portcullis (Potent feat of strength):**
 - Normal: Impossible (no one person can hold this)
-- With Potency: Limited (1 Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
+- With Potency: Limited (1 Bane) + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
 
 **Hunter tracks quarry through rain-washed stone (Potent feat of tracking):**
-- Normal: Limited (1 Bane, tracks nearly destroyed)
-- With Potency: Standard (Vantage shifts up) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
+- Normal: Impossible (rain destroyed all visible tracks — no mortal tracker could follow this)
+- With Potency: Limited (1 Bane) + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
 
 **Sage overwhelms a magical ward (Potent Spell):**
 - Normal: Standard (Warded Complication would reduce outcome)
-- With Potency: Standard + 1 Edge (ignore ward's Complication) + Heightened Impact (blast through completely)
+- With Potency: Standard + 1 Boon (from Push) + 1 Edge (ignores ward's Complication) + Heightened Impact (blast through completely)
 
 **Vanguard shields the entire party from dragonfire (Potent feat with shield):**
 - Normal: Could protect self only
-- With Potency: Standard + 1 Edge + Widespread Effect (cover all nearby allies)
+- With Potency: Standard + 1 Boon (from Push) + 1 Edge + Widespread Effect (cover all nearby allies)
 
 ### Potency and Special Effects
 
 When a Potent Action also triggers a Trait invocation (Conflict or better, relevant Trait), Potency amplifies Special Effects:
 
 - **Broad Effect + Potency:** Small group → Large group or wide area
-- **Greater Effect + Potency:** Still marks the same ticks, but Potency's Edge helps them land against defended foes
+- **Greater Effect + Potency:** These operate on different axes and don't compound for tick-marking. Greater Effect adds ticks; Potency's Edge separately helps you land actions against defended foes
 - **Secondary Effect + Potency:** The secondary Defy also benefits from Potency's scale
 
 ---

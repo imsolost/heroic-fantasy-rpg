@@ -43,7 +43,15 @@ When you make an Action Roll, you may **mark 1 Stress** to gain **1 Boon** on th
 
 **Timing:** Declare before you roll.
 
+**Once per action.** You can only Push Yourself once per Action Roll — you cannot mark 2 Stress for 2 Boons.
+
 You can combine Push Yourself with Assist from allies, subject to the +2 Boon cap.
+
+### Talent Push Effects
+
+Some Talents grant a special effect when you Push Yourself in their domain (see Chapter 9). When you Push Yourself to activate a Talent, you gain the normal benefit of Pushing Yourself (1 Boon) **in addition to** the Talent's special effect — all for the same 1 Stress cost.
+
+You can only activate one Talent per Push. If you have multiple Talents that could apply, choose one.
 
 **Example:**
 > "I dig deep and push through the pain to force the door." (Mark 1 Stress, gain +1d on your roll)

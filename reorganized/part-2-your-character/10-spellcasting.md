@@ -268,11 +268,11 @@ Meaningful magical effects that influence scenes, harm enemies, solve problems, 
 Potent Spells follow the **Potent Action** framework (see Chapter 2). They grant Edge +1, can unlock otherwise impossible magical effects, and enhance scale along one dimension — applied to magic.
 
 **How to access Potent Spells:**
-- **Talents that grant Potency** (e.g., "Divine Favor: Push Yourself to perform a Potent miracle")
-- **Efficient Casting [ ] [ ]** (mark box instead of paying Stress)
-- Other Talent-specific methods
+- **Sphere Mastery** (Sage) — Push Yourself to perform a Potent feat of magical theory within your mastered Sphere
+- **Divine Favor** (Mystic) — Push Yourself to perform a Potent miracle within your domains
+- Other Talents that explicitly grant Potency in their domain
 
-The cost depends on how you access Potency — Push Yourself marks 1 Stress, Efficient Casting uses a box, etc.
+**Cost:** Push Yourself (mark 1 Stress) to activate the Talent. The Sage's Efficient Casting can be marked instead of Stress when Pushing to cast.
 
 **The three scale dimensions applied to spells:**
 

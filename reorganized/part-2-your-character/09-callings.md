@@ -30,7 +30,7 @@ Every Talent follows one of a few patterns:
 
 ### Key Terms
 
-**Push Yourself** (in Talent context): Mark 1 Stress to activate the Talent's extraordinary effect. This is the standard Push Yourself mechanic (Chapter 4) used as a Talent's activation cost — but instead of gaining a Boon, you get the specific effect described.
+**Push Yourself** (in Talent context): Mark 1 Stress to activate the Talent's extraordinary effect. You still gain the normal benefit of Pushing Yourself (1 Boon) in addition to the Talent's special effect. You can only activate one Talent per Push.
 
 **Potent:** An extraordinary effect that exceeds normal success — grants Edge +1, can unlock otherwise impossible actions, and enhances scale along one dimension (Heightened Impact, Widespread Effect, or Extended Duration). See **Chapter 2: Potent Actions** for the complete framework.
 
@@ -297,7 +297,7 @@ Mark this when you would suffer a consequence from a magical source. Reduce the 
 You have Expertise when analyzing, dispelling, countering, or disrupting magic. Push Yourself to completely negate a magical protection, ward, or defensive spell you're acting against.
 
 **Efficient Casting [ ] [ ]**
-Mark this when casting a Potent Spell — whether from a known theorem or an Arcane Formula improvisation. The spell does not cost Stress.
+Mark this instead of marking Stress when you Push Yourself to cast a spell.
 
 **Loremaster**
 You have Expertise regarding history, languages, magical theory, ancient cultures, and forgotten lore. Push Yourself to know something no ordinary scholar could know.
@@ -306,9 +306,7 @@ You have Expertise regarding history, languages, magical theory, ancient culture
 You have Expertise when designing, preparing, modifying, or improvising rituals. Push Yourself to bypass one ritual requirement through theoretical understanding — eliminating a rare component, reducing casting time, or performing a ritual without the normally required participants.
 
 **Sphere Mastery**
-Choose a Sphere you know. You have Expertise whenever acting within that Sphere. Push Yourself to perform a Potent feat of magical theory within it — effects of unusual scale, precision, or permanence that exceed normal theorem limits.
-
-*Note for Specialist Sages: Since you already have Expertise in your chosen Sphere from Spellcraft, take this Talent for a second Sphere to expand your mastery, or take it for your original Sphere to gain the Push benefit.*
+Choose a Sphere of Power. You learn two Spell Theorems in that Sphere. Push Yourself to perform a Potent feat of magical theory within it — effects of unusual scale, precision, or permanence that exceed normal theorem limits.
 
 **Spell Codex**
 When you advance to a new Rank, you may learn 2 Spell Theorems instead of 1. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval, maximum 1 learned spell per Long Rest).

@@ -147,8 +147,10 @@ Your **Drive** is what your character wants most — the motivation that pulls t
 **Why Drive matters:**
 - It tells the GM what temptations, dilemmas, and opportunities to put in front of you
 - The rejection tells the GM what *won't* work as motivation — equally useful
-- It pairs naturally with your Tangle (your Drive often creates the complications your Tangle represents)
 - It gives the party a sense of what you'll fight for and what you'll refuse
+- When your Drive creates a genuine complication, you earn 1 Momentum (see Chapter 5) — no limit beyond the Momentum cap and GM approval
+
+Your Drive is both your motivation and your vulnerability. The same thing that pushes you forward is what gets you into trouble — and the game rewards that.
 
 **Keep it short.** One line each. Drive will evolve through play — what matters at creation is the starting vector, not the final answer.
 
@@ -206,8 +208,6 @@ Record the remaining information on your character sheet:
 
 **Appearance** — What do people notice first? 2-3 vivid details beat a full inventory.
 
-**Tangle (optional)** — A personal complication that earns you Momentum when it creates trouble. Must be specific: "I owe the Thieves Guild a blood debt" not "I have a troubled past." See Chapter 5 for Tangle rules.
-
 **Calling-Specific Questions (optional):** Your Calling in Chapter 9 includes 2-3 background questions that help you flesh out *why* you became this archetype and what you left behind. Answer them now or discover the answers through play.
 
 ---
@@ -249,7 +249,7 @@ If you're stuck on Traits, browse these lists for sparks. Combine, modify, or us
 | 4 | Choose Calling + 1 additional Talent | Calling, Core Talent, Additional Talent |
 | 5 | Drive (+ optional rejection) | What you pursue / what you won't |
 | 6 | Connections (at table, with other players) | At least 1 per other PC |
-| 7 | Name, appearance, resilience, Tangle (opt.) | 5 Stress, 2 Momentum cap, Rank 1 |
+| 7 | Name, appearance, resilience | 5 Stress, 2 Momentum cap, Rank 1 |
 
 ---
 

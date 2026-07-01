@@ -6,7 +6,7 @@ Momentum represents surges of heroic energy — moments where your character is 
 - What Momentum is and how to track it
 - How to earn Momentum
 - How to spend Momentum (Create an Opening, Resist Consequence)
-- Tangles (optional player-driven Momentum)
+- Invoke Your Drive (player-authored complications)
 
 ---
 
@@ -36,11 +36,11 @@ This lets you generate Momentum even without rolling Triumph. It's especially us
 
 **See Chapter 6 (Traits) for complete Special Effect rules.**
 
-### 3. Tangles (Optional)
+### 3. Invoke Your Drive
 
-When you invoke a **Tangle** — a personal complication you've defined for your character — and it creates a genuine narrative complication, you earn **1 Momentum** immediately.
+When your **Drive** creates a genuine complication — pulling you toward trouble, forcing a hard choice, or putting you at odds with the situation — you earn **1 Momentum** immediately.
 
-**See Tangles section below.**
+**See Invoke Your Drive section below.**
 
 ---
 
@@ -96,7 +96,7 @@ Automatically reduce the Consequence Tier by 1. No roll required.
 
 Momentum flows in a cycle:
 
-1. **Earn** through Triumph, Build Momentum, or Tangles
+1. **Earn** through Triumph, Build Momentum, or Invoking Your Drive
 2. **Spend** on Create an Opening or Resist Consequence
 3. **Repeat** — good rolls generate Momentum, which enables better future rolls
 
@@ -107,45 +107,40 @@ Momentum flows in a cycle:
 
 ---
 
-## Tangles (Optional)
+## Invoke Your Drive
 
-**Tangles** are player-authored complications — personal entanglements that make your character's life harder in exchange for Momentum.
+Your **Drive** is what your character wants most (see Chapter 7). It's also what gets them into trouble. When you lean into your Drive in a way that creates a genuine complication, you earn Momentum for it.
 
-### Creating a Tangle
+### How It Works
 
-During character creation or downtime, define a Tangle:
-- Must be **specific**, not generic ("I owe the Thieves Guild a blood debt" not "I have a troubled past")
-- Must be something that can realistically come up in play
-- Describe when and how it might bite you
+- You declare that your Drive is creating trouble (with GM approval)
+- The GM can also suggest your Drive is relevant: "Your need to protect others — does that pull you into this fight?" You can accept or decline.
+- The complication must be **real** — it worsens your situation, creates a new problem, or forces a hard choice
 
-### Triggering a Tangle
+**Timing:** Invoke during a narrative scene or before spotlight is assigned at the start of an exchange — not mid-roll or immediately after dice hit the table.
 
-- You choose to invoke your Tangle (with GM approval)
-- GM can suggest a Tangle trigger, but you can refuse
-- The Tangle must create a genuine narrative complication
-
-**Timing:** Invoke during a narrative scene or before spotlight is assigned at the start of an exchange — never mid-combat or immediately following a dice roll.
-
-**Frequency:** Each Tangle can be invoked **once per session**.
+**No frequency limit** — invoke whenever your Drive genuinely creates trouble. The fictional gate (must be a real complication, GM approves) and the Momentum cap (2) are the natural constraints.
 
 ### Reward
 
-When your Tangle complicates the scene:
+When your Drive complicates the scene:
 - Earn **1 Momentum** immediately
-- The Tangle creates a narrative complication (NPC appears, situation worsens, obligation calls)
+- The fiction changes — a new problem emerges, a situation worsens, or you've committed to something costly
 
-### Example Tangles
+### Examples
 
-- "Wanted by the City Guard" (bounty hunters show up)
-- "Cursed weapon hungers for blood" (weapon tries to force violence)
-- "Owe debt to dangerous merchant" (creditor calls in favor at bad time)
-- "Haunted by dead sibling's ghost" (ghost appears, demands attention)
+| Drive | Complication |
+|-------|-------------|
+| "Redeem my name" | You reveal your identity to clear your honor — but now the guards recognize you |
+| "Kill the beast that took my sister" | You break from the party's plan to chase a lead on the creature's trail |
+| "Uncover what destroyed the old civilization" | You can't leave the crumbling ruin until you've examined the inscription — even as the ceiling groans |
+| "Protect those who can't protect themselves" | You interpose yourself between the stranger and danger — walking into an obvious trap |
 
-### Why Tangles Work
+### Why This Works
 
-Tangles shift spotlight control to players. You author your own trouble for mechanical reward. This creates character-driven drama rather than purely GM-imposed complications.
+Your Drive is both your motivation (what pulls you *forward*) and your vulnerability (what pulls you *into trouble*). The mechanical reward ensures this isn't a punishment — you're trading short-term complication for Momentum that fuels future success. Character-driven drama is rewarded, not just tolerated.
 
-**Tangles are optional.** Groups that prefer GM-driven complications can skip them entirely. The core Momentum economy (Triumph + Build Momentum) functions without Tangles.
+**This is optional.** Groups that prefer GM-driven complications can skip it entirely. The core Momentum economy (Triumph + Build Momentum) functions without invoking Drive.
 
 ---
 

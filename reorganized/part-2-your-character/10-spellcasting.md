@@ -172,8 +172,8 @@ See Chapter 9 for the Mystic's Core Talent (Spiritual Communion), which defines 
 
 #### Example Domains
 
-**Healing** (life, vitality, restoration, purity)
-- Can: Mend wounds, cure disease, restore vitality, cleanse corruption, preserve life
+**Life** (vitality, restoration, growth, purity)
+- Can: Mend wounds, cure disease, restore vitality, cleanse corruption, preserve life, encourage growth
 - Cannot: Raise the dead (beyond a few moments), attack directly, dominate minds
 
 **Nature** (beasts, plants, weather, wilderness)
@@ -202,8 +202,8 @@ See Chapter 9 for the Mystic's Core Talent (Spiritual Communion), which defines 
 
 #### Mystic Domain Magnitude
 
-| Magnitude | Healing | Nature | Death | Protection |
-|-----------|---------|--------|-------|------------|
+| Magnitude | Life | Nature | Death | Protection |
+|-----------|------|--------|-------|------------|
 | **Cantrip** | Ease aches | Speak with animals | Sense dying | Ward small area |
 | **Spell** | Clear 1 Stress / cure disease | Command animals, call vines | Speak with dead, turn undead | Create barriers, bless allies |
 | **Potent** | Clear 2 Stress / remove Condition | Transform into animal, call weather | Raise temporary servant | Consecrate ground, permanent wards |
@@ -348,9 +348,9 @@ A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatur
 
 ## Common Rulings
 
-### Healing Magic
+### Healing and Restoration Magic
 
-Spirit Sphere spells (Sage) or Healing Domain (Mystic) can heal injuries and restore vitality.
+Spirit Sphere spells (Sage) or Life Domain (Mystic) can heal injuries and restore vitality.
 
 **Standard Spell:** Clear 1 Stress OR reduce a Condition by 1 tier
 
@@ -568,7 +568,7 @@ Sages are precise and modular — pick your Sphere, pick your Operation, combine
 
 **Duration:** Instantaneous / Moment (1-2 actions) / Scene (Potent + Extended) / Permanent (Ritual)
 
-**Healing:** Clear 1 Stress or -1 Condition tier (Spell); Clear 2 Stress or remove Condition (Potent). Conflict → narrative consequence, not Stress.
+**Life/Healing:** Clear 1 Stress or -1 Condition tier (Spell); Clear 2 Stress or remove Condition (Potent). Conflict → narrative consequence, not Stress.
 
 **Buffs/Debuffs:** Grant 1 Boon to ally (buff) or against target (debuff). Moment by default, Scene with Potent + Extended.
 

@@ -171,7 +171,7 @@ You serve as a bridge between the mortal world and forces beyond — divine, anc
 
 **Define Your Patron:** Name and describe your patron (deity, ancestral spirit, primal force, cosmic entity, etc.). Choose **2 domains** they hold — these are touchstones for what they can grant.
 
-**Example Domains:** Ancestors, Battle, Death, Healing, Life, Nature, Prophecy, Protection, Storms, Sun, Moon, Vengeance, War, Wisdom, etc. Work with your GM to define what each domain can do (see Chapter 10 for examples).
+**Example Domains:** Ancestors, Battle, Death, Life, Nature, Prophecy, Protection, Storms, Sun, Moon, Vengeance, War, Wisdom, etc. Work with your GM to define what each domain can do (see Chapter 10 for examples).
 
 **Spellcasting Approach: Spirit**
 
@@ -186,7 +186,7 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and exam
 **Losing Favor:** When you roll **2 or more 1s** on a patron invocation, you lose Favor — regardless of the action's outcome. Your patron judges how you channel their power, not just whether it works. The more power you draw on (larger dice pools), the greater the chance something in the invocation displeases them. You can still invoke your patron without Favor, but without Expertise.
 
 **Regaining Favor:** Demonstrate devotion to your patron. Work with your GM to determine when Favor returns, typically through:
-- Acting in accordance with your patron's nature (Healing domain: save a life without asking payment)
+- Acting in accordance with your patron's nature (Life domain: save a life without asking payment)
 - Fulfilling a divine obligation (complete a task, make a significant sacrifice, uphold a vow)
 - Making offerings or performing rituals (dedicate treasure, lead a ceremony, fast in contemplation)
 - Narrative milestone (faith tested or devotion demonstrated)
@@ -261,7 +261,7 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 
 #### Generalist Sage
 - Choose **4 Spell Theorems** from any Spheres (no restriction)
-- **No Expertise:** You have broad theoretical knowledge but have not achieved mastery in any single Sphere
+- **Broad Theory:** You do not suffer the Bane when using Arcane Formula — your wide-ranging study means nothing is truly unfamiliar. You still mark 1 Stress.
 
 **The Seven Spheres of Power:**
 - **Matter** — Physical form, substance, and density
@@ -301,7 +301,7 @@ Mark this when you would suffer a consequence from a magical source. Reduce the 
 You have Expertise when analyzing, dispelling, countering, or disrupting magic. Push Yourself to completely negate a magical protection, ward, or defensive spell you're acting against.
 
 **Efficient Casting [ ] [ ]**
-Mark this instead of marking Stress when you Push Yourself to cast a spell.
+Mark this instead of marking Stress when you Push Yourself to cast a spell or use Arcane Formula.
 
 **Loremaster**
 You have Expertise regarding history, languages, magical theory, ancient cultures, and forgotten lore. Push Yourself to know something no ordinary scholar could know.

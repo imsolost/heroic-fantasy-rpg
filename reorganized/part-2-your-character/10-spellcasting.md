@@ -552,7 +552,7 @@ Encourages creative problem-solving, reduces prep, and makes magic feel responsi
 Cantrips feel magical without requiring rolls. Spells are the standard baseline. Potent Spells require investment (Stress or Talent boxes) for dramatic effects. Rituals create adventure content through their component-gathering structure.
 
 **Sage vs. Mystic design space:**
-Sages are precise and modular — pick your Sphere, pick your Operation, combine. Their limitation is Arcane Formula's Stress cost and Bane for improvising outside known theorems. Mystics are broader but conditional — their domains cover wide ground, but Favor can be lost and must be earned back through roleplay. Both can achieve equivalent effects; the path there feels different.
+Sages are precise and modular — pick your Sphere, pick your Operation, combine. Their limitation is Arcane Formula's Stress cost for improvising outside known theorems (Generalists remove the Bane; Specialists have Expertise in their Sphere). Mystics are broader but volatile — Favor grants Expertise on all domain-related actions (not just spellcasting), but can be lost on any roll showing 2+ ones and must be earned back through roleplay. Both can achieve equivalent effects; the path there feels different.
 
 ---
 

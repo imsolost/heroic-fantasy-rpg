@@ -181,9 +181,9 @@ You cannot invoke powers outside your patron's domains — your patron grants on
 
 See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and example effects.
 
-**Divine Favor:** You begin play with Favor. When you have Favor, you have **Expertise** when invoking your patron (Setback → Conflict).
+**Divine Favor:** You begin play with Favor. When you have Favor, you have **Expertise** on all actions related to your patron's domains — not just spellcasting, but any action that falls within their purview (Setback → Conflict). A Storms patron grants Expertise navigating a hurricane; a Life patron grants Expertise tending wounds; a Death patron grants Expertise communing with spirits.
 
-**Losing Favor:** When you roll **2 or more 1s** on a patron invocation, you lose Favor — regardless of the action's outcome. Your patron judges how you channel their power, not just whether it works. The more power you draw on (larger dice pools), the greater the chance something in the invocation displeases them. You can still invoke your patron without Favor, but without Expertise.
+**Losing Favor:** When you roll **2 or more 1s** on any action where Favor grants Expertise, you lose Favor — regardless of the action's outcome. Your patron judges how you draw on their power, not just whether it works. The more power you draw on (larger dice pools), the greater the chance something displeases them. You can still act within your domains without Favor, but without Expertise.
 
 **Regaining Favor:** Demonstrate devotion to your patron. Work with your GM to determine when Favor returns, typically through:
 - Acting in accordance with your patron's nature (Life domain: save a life without asking payment)
@@ -452,7 +452,7 @@ You can hold ground that should be indefensible. You have Expertise when holding
 - Core Talents from other Callings cannot be taken — they define each archetype's identity
 
 ### Cross-Calling Talents
-You may choose Additional Talents from other Callings if they fit your character's story. Explain how you learned these abilities through training, mentorship, or life experience.
+You may choose Additional Talents from other Callings if they fit your character's story (at most one per Rank — see Chapter 8). Explain how you learned these abilities through training, mentorship, or life experience.
 
 **Examples:**
 - A Champion trains with a Hunter mentor → gains **Wilderness Survivor**
@@ -483,7 +483,7 @@ Core Talents define your Calling's identity. They should feel impactful every se
 Each Calling's Expertise domain is narrow and specific:
 - Champion: All weapons
 - Hunter: Tracking, Trapping, Wilderness Survival
-- Mystic: Patron invocations (while in Favor)
+- Mystic: All domain-related actions (while in Favor)
 - Sage: Chosen Sphere (Specialist) or none (Generalist)
 - Shadow: Stealth, Thievery, Deception
 - Vanguard: None (Core Talent is protective, not Expertise-based)
@@ -501,7 +501,7 @@ Most Talents combine passive competence (Expertise or Edge) with an active extra
 |---------|-------------|----------|-----------------|
 | **Champion** | Martial Superiority | Martial excellence | All weapons |
 | **Hunter** | Hunter's Instinct | Wilderness predator | Tracking, Trapping, Survival |
-| **Mystic** | Spiritual Communion | Divine/primal conduit | Patron invocations (in Favor) |
+| **Mystic** | Spiritual Communion | Divine/primal conduit | All domain-related actions (in Favor) |
 | **Sage** | Spellcraft | Arcane scholar | Chosen Sphere (Specialist) |
 | **Shadow** | Shadowcraft | Infiltration specialist | Stealth, Thievery, Deception |
 | **Vanguard** | Unbreakable Guardian | Unyielding protector | — (protective Core) |

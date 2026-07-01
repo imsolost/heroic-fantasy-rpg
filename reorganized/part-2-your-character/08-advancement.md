@@ -82,6 +82,8 @@ When you gain a Talent, choose from your Calling's Talent list (see Chapter 9).
 
 You may choose **additional Talents** from other Callings if they fit your character's story. **Core Talents cannot be taken across Callings** — they define each archetype's unique identity.
 
+**Limit:** At most one Talent per Rank may be from another Calling. (Over a full campaign reaching Rank 4, you can acquire up to 4 cross-Calling Talents total.)
+
 Explain how your character learned these abilities through training, mentorship, or life experience.
 
 **Examples:**

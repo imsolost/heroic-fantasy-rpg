@@ -580,5 +580,5 @@ Sages are precise and modular — pick your Sphere, pick your Operation, combine
 
 With Parts 1 (The Rules) and 2 (Your Character) complete, the remaining sections cover:
 
-- **Part 3: Reference** — Vantage guide, Complication tags, condition lists, quick-play aids
-- **Part 4: Running the Game** — GM guidance, encounter design, campaign structure
+- **Part 3: Running the Game** — GM guidance, encounter design, campaign structure
+- **Part 4: Reference** — Vantage guide, Complication tags, condition lists, quick-play aids

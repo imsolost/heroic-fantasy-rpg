@@ -326,7 +326,7 @@ You want to cross a courtyard without being spotted. That's **Defy** (overcoming
 - **Cannot attempt** with this approach
 - *Example: Casting spells without being a spellcaster, attacking someone in another city*
 
-**See the Vantage Reference (Part 3) for complete framework, examples, and GM guidance.**
+**See the Vantage Reference (Part 4) for complete framework, examples, and GM guidance.**
 
 ---
 
@@ -360,7 +360,7 @@ For **rare climactic moments**—boss fights, life-or-death decisions, catastrop
 
 **When NOT to use:** Most rolls. Vantage already handles difficulty. High Stakes is only for when failure demands exceptional narrative weight.
 
-**See the Vantage Reference (Part 3) for complete High Stakes guidance.**
+**See the Vantage Reference (Part 4) for complete High Stakes guidance.**
 
 ---
 
@@ -508,4 +508,4 @@ Now you know what Actions you can take, how Approaches shape them, and how Vanta
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects
 
-**For complete Vantage guidance and examples, see the Vantage Reference (Part 3).**
+**For complete Vantage guidance and examples, see the Vantage Reference (Part 4).**

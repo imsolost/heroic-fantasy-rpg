@@ -437,4 +437,4 @@ Now you understand outcomes and consequences. The next chapters cover the resour
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects (Greater Effect, Secondary Effect, Build Momentum)
 
-**For complete Challenge design and Complication rules, see Chapter 13 (Part 4: Running the Game).**
+**For complete Challenge design and Complication rules, see Chapter 13 (Part 3: Running the Game).**

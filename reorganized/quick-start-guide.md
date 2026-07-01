@@ -534,8 +534,8 @@ When Taken Out, you're removed from the scene (unconscious, captured, fled in te
 **Invoke a Trait with "Build Momentum"** (see Traits below)
 - Grant 1 Momentum to yourself or an ally
 
-**Trigger a Tangle** (optional rule)
-- Introduce a character-driven complication (your personality, desires, or backstory creates trouble)
+**Invoke Your Drive**
+- Your Drive creates a genuine complication (pulls you into trouble, forces a hard choice)
 - Gain 1 Momentum
 
 ---
@@ -745,11 +745,13 @@ After your first session, read:
 - Complete Calling descriptions and Talent lists
 - Spellcasting system (if you're playing an Invoker)
 
-**Part 3: Reference**
-- At-table quick reference documents
-- Vantage framework (how GMs assess difficulty)
-- Stakes framework (how GMs set consequences)
-- GM Cheat Sheet
+**Part 3: Running the Game (Chapters 11-16)**
+- GM principles and techniques
+- GM moves (Story, Suspense, Impact)
+- Challenge design (creating enemies and obstacles)
+- Running scenes (investigation, social conflict, battlegrounds)
+- Combat (zones, maneuvers, tactical depth)
+- Advancement (when to award levels, pacing)
 
 ---
 
@@ -759,13 +761,12 @@ After your first session, read:
 
 **Everything players read**, plus:
 
-**Part 4: Running the Game (Chapters 11-16)**
-- GM principles and techniques
-- GM moves (Story, Suspense, Impact)
-- Challenge design (creating enemies and obstacles)
-- Running scenes (investigation, social conflict, battlegrounds)
-- Combat (zones, maneuvers, tactical depth)
-- Advancement (when to award levels, pacing)
+**Part 3: Running the Game (Chapters 11-16)**
+
+**Part 4: Reference**
+- At-table quick reference documents
+- Vantage framework (how GMs assess difficulty)
+- GM Cheat Sheet
 
 **Part 5: Appendices**
 - Design notes (why the game works the way it does)
@@ -781,15 +782,15 @@ After your first session, read:
 2. Play your first session
 3. Read Part 1 (The Rules) — chapters 1-6
 4. Read your Calling in Chapter 9
-5. Reference Part 3 during play
+5. Reference Part 4 during play
 
 **New GM Path:**
 1. ✅ This Quick Start
 2. Read Part 1 (The Rules) — chapters 1-6
-3. Skim Part 4 (Running the Game) — chapters 11-16
+3. Skim Part 3 (Running the Game) — chapters 11-16
 4. Run your first session
-5. Deep-dive Part 4 between sessions
-6. Reference Part 3 during play
+5. Deep-dive Part 3 between sessions
+6. Reference Part 4 during play
 
 ---
 
@@ -809,7 +810,7 @@ After your first session, read:
 ## Optional Rules
 
 This Quick Start teaches the core game. The main rulebook includes optional rules for:
-- **Tangles** — Player-driven complications that earn Momentum
+- **Drive** — Character motivation that earns Momentum when it creates trouble
 - **Spellcasting** — Freeform magic system using Spheres and Operations
 - **Tactical combat** — Zones, positioning, combat maneuvers
 - **Solo/Co-op play** — Playing without a GM (requires oracles/random tables)

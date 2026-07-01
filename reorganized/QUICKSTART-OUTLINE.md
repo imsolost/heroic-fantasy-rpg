@@ -174,7 +174,7 @@ What you can do when the dice come out.
 **Earn Momentum:**
 - Roll Triumph (double 6s)
 - Invoke Trait with Build Momentum effect
-- Trigger a Tangle (optional: introduce character-driven complication)
+- Invoke Your Drive (your motivation creates a genuine complication)
 
 **Spend Momentum:**
 - **Create an Opening (1 Momentum):** Your action gains 1 Boon + 1 Edge (ignore 1 Complication)

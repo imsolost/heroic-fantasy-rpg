@@ -2,7 +2,7 @@
 
 **Started:** 2026-06-29  
 **Last Updated:** 2026-07-01  
-**Status:** Parts 0-2 Complete → Part 3 (Running the Game) Next
+**Status:** Parts 0-3 Complete → Part 4 (Reference) Next
 
 ---
 
@@ -33,17 +33,19 @@
 
 ---
 
-## Remaining Work
-
-### Part 3: Running the Game (Next)
+### Part 3: Running the Game ✅
 - Ch11: GM Principles — Agendas, technique, session structure
-- Ch12: GM Moves — Story/Suspense/Impact moves, decision matrix
-- Ch13: Challenges — Complication tags, Progress track design, Boss design
+- Ch12: GM Moves — Story/Suspense/Impact moves, decision matrix, Suspense resource
+- Ch13: Challenges — Complication tags, Progress track design, Boss design, group tracking
 - Ch14: Running Scenes — Investigation, social conflict, battlegrounds
-- Ch15: Combat — Spotlight rotation, zones, maneuvers
+- Ch15: Combat — Spotlight rotation, zones, maneuvers, epic foe abilities
 - Ch16: Advancement (GM) — When to award levels, pacing, Rank transitions
 
-### Part 4: Reference
+---
+
+## Remaining Work
+
+### Part 4: Reference (Next)
 - Vantage Reference (complete 5-tier framework with examples)
 - GM Cheat Sheet
 - Complication Tags reference

@@ -59,13 +59,13 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 - [x] 09-callings.md - ✅ Complete (6 Callings, Core/Additional Talents, background questions)
 - [x] 10-spellcasting.md - ✅ Complete (Spheres, Domains, magnitude, rituals)
 
-### Part 3: Running the Game
-- [ ] 11-gm-principles.md
-- [ ] 12-gm-moves.md
-- [ ] 13-challenges.md
-- [ ] 14-running-scenes.md
-- [ ] 15-combat.md
-- [ ] 16-advancement-gm.md
+### Part 3: Running the Game (Chapters 11-16)
+- [x] 11-gm-principles.md - ✅ Complete (Agendas, principles, when to roll, session structure)
+- [x] 12-gm-moves.md - ✅ Complete (Story/Suspense/Impact, Hint→Reveal→Strike, Suspense resource)
+- [x] 13-challenges.md - ✅ Complete (Complication tags, tracks, boss design, group tracking)
+- [x] 14-running-scenes.md - ✅ Complete (Investigation, social conflict, battlegrounds)
+- [x] 15-combat.md - ✅ Complete (Spotlight, zones, maneuvers, epic foes, Suspense in combat)
+- [x] 16-advancement-gm.md - ✅ Complete (Milestones, pacing, Rank transitions)
 
 ### Part 4: Reference
 - [ ] vantage-reference.md

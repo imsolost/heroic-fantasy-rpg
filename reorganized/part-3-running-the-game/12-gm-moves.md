@@ -218,7 +218,7 @@ Tough choices turn Conflict from "success minus a bit" into dramatic decisions. 
 
 | Situation | Move Type | Why |
 |-----------|-----------|-----|
-| PC rolls Conflict in combat | Impact Move (Minor) | Enemy responds to PC's action |
+| PC rolls Conflict | Impact Move (Minor) | PC succeeds but suffers a Minor Consequence |
 | PC rolls Setback | Impact Move (Major) | They failed — consequence lands |
 | PC rolls Disaster | Impact Move (Severe) | Complications compounded the failure — deliver the worst consequence (Taken Out, Burden, or catastrophic narrative failure) |
 | Players ask "What do we see?" | Suspense Move | Telegraph danger, create choice |

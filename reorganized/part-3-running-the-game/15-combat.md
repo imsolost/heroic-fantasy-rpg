@@ -33,13 +33,11 @@ There is **no formal initiative system**. The GM follows the spotlight based on 
 
 ### Player Option: Seize Spotlight
 
-**Cost:** 1 Momentum
-
-A player can act immediately, interrupting the current spotlight. This is their normal turn — it doesn't grant an extra action later.
-
-**Example:** Kael sees the orc warboss winding up for a devastating attack on Mira. He spends 1 Momentum to Seize Spotlight and intercepts the blow.
+Spend 1 Momentum to act immediately, interrupting the current spotlight (see **Chapter 5**). This is your normal turn — it doesn't grant an extra action later.
 
 **Timing:** Declare at any time when another PC has the spotlight or when an enemy is about to act (after a Suspense Move but before an Impact Move resolves).
+
+**Example:** Kael sees the orc warboss winding up for a devastating attack on Mira. He spends 1 Momentum to Seize Spotlight and intercepts the blow.
 
 ### GM Option: Seize Initiative
 
@@ -153,23 +151,12 @@ On Conflict or better, a relevant Trait can add a Special Effect on top of your 
 
 ## Working Together in Combat
 
-### Assist (Mark 1 Stress)
+All standard teamwork mechanics (Assist, Push Yourself, Build Momentum) work in combat exactly as described in **Chapters 4–5**. Quick reminders:
 
-Grant an ally 1 Boon on their roll. Describe how you're helping: "I shout a warning!" or "I steady your aim!"
-
-Doesn't consume your action. Multiple allies can Assist the same roll (each marking 1 Stress), but the +2 Boon cap still applies.
-
-### Push Yourself (Mark 1 Stress)
-
-Gain 1 Boon on your own roll. Declare before rolling.
-
-### Setup (Your Action)
-
-Use your action to create an opening for an ally. GM grants them 1 Boon on their next related action at no cost to them.
-
-### Build Momentum (Trait Special Effect)
-
-When you invoke a Trait for Build Momentum, grant 1 Momentum to yourself or an ally. They can spend it to Create an Opening (1 Boon + 1 Edge) or Resist Consequence.
+- **Assist** (1 Stress): Grant ally 1 Boon. Doesn't consume your action. Boon cap still applies.
+- **Push Yourself** (1 Stress): Gain 1 Boon on your own roll. Declare before rolling.
+- **Build Momentum** (Trait Special Effect): Grant 1 Momentum to yourself or an ally.
+- **Seize Spotlight** (1 Momentum): Act immediately, interrupting spotlight order.
 
 ---
 

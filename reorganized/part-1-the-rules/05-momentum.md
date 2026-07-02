@@ -5,7 +5,7 @@ Momentum represents surges of heroic energy — moments where your character is 
 **What you'll learn:**
 - What Momentum is and how to track it
 - How to earn Momentum
-- How to spend Momentum (Create an Opening, Resist Consequence)
+- How to spend Momentum (Create an Opening, Resist Consequence, Seize Spotlight)
 - Invoke Your Drive (player-authored complications)
 
 ---
@@ -46,7 +46,7 @@ When your **Drive** creates a genuine complication — pulling you toward troubl
 
 ## Spending Momentum
 
-There are two ways to spend Momentum:
+There are three ways to spend Momentum:
 
 ### Create an Opening
 
@@ -86,6 +86,18 @@ Automatically reduce the Consequence Tier by 1. No roll required.
 - After the GM announces a consequence, declare "I Resist" and spend 1 Momentum
 - Especially valuable when at high Stress (avoiding overflow) or when a Condition would be crippling
 
+### Seize Spotlight
+
+**Cost:** 1 Momentum
+
+Act immediately, interrupting the normal spotlight order. You take your action right now, before whoever would have gone next.
+
+**When to use:**
+- A situation demands immediate response — an ally is about to be Taken Out, an enemy is escaping, a countdown is about to trigger
+- You see a perfect opening that won't exist if you wait your turn
+
+This is most relevant in combat and other structured scenes where spotlight order matters. Outside of structured scenes, the GM manages pacing naturally and this spend is rarely needed.
+
 ---
 
 **Reminder:** Boon adds dice (pre-roll); Edge ignores Complications (post-roll). See Chapter 1 for full explanation.
@@ -97,7 +109,7 @@ Automatically reduce the Consequence Tier by 1. No roll required.
 Momentum flows in a cycle:
 
 1. **Earn** through Triumph, Build Momentum, or Invoking Your Drive
-2. **Spend** on Create an Opening or Resist Consequence
+2. **Spend** on Create an Opening, Resist Consequence, or Seize Spotlight
 3. **Repeat** — good rolls generate Momentum, which enables better future rolls
 
 **Tactical considerations:**
@@ -150,7 +162,7 @@ Your Drive is both your motivation (what pulls you *forward*) and your vulnerabi
 
 **The cap keeps it bounded.** At 2 (or 3 with Talent), you can't hoard indefinitely. Spend it or lose potential gains from your next Triumph.
 
-**Two spend options create tension.** Save for defense (Resist Consequence) or spend on offense (Create an Opening)? This decision point makes Momentum management genuinely tactical.
+**Three spend options create tension.** Save for defense (Resist Consequence), spend on offense (Create an Opening), or seize the moment (Seize Spotlight)? This decision point makes Momentum management genuinely tactical.
 
 **Build Momentum enables teamwork.** One character generating Momentum for another is the core team-play mechanic. The Champion builds Momentum so the Shadow can Create an Opening against the warded target.
 

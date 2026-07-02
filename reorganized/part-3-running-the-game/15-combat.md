@@ -42,11 +42,18 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 ### Movement
 
-**Moving as part of an action:** When you make an action roll (Clash, Defy, Talk), you can move to a Near zone as part of that action — describe it in your approach.
+| Movement | Rule |
+|----------|------|
+| Within your zone (Close) | Free, part of any action |
+| To adjacent zone (Near) | Part of your action — but moving and acting generally reduces your Vantage |
+| To distant zone (Far) | Full action, Defy to arrive safely |
+| Through enemy zones | Always requires a Defy roll |
 
-**Moving without another action:** If you want to reposition (Near or Far) without doing anything else, Defy to move safely under pressure.
+**Moving Near + acting:** You can move to an adjacent zone and take an action (Clash, Defy, Talk, etc) in the same spotlight pass. The GM factors the movement into your Vantage — charging across open ground toward an archer is Limited Vantage; stepping from cover into an adjacent melee is Standard. Describe your approach and the fiction determines the assessment.
 
-**Moving through enemy zones:** Always requires a Defy roll — enemies try to intercept or block.
+**Moving Far:** Reaching a distant zone takes your entire action. Roll Defy — normal outcomes apply.
+
+**Moving through enemy zones:** Enemies try to intercept or block. Always requires a Defy roll regardless of distance.
 
 ### Positioning and Vantage
 
@@ -56,7 +63,7 @@ Position is one of the factors the GM considers when assessing Vantage (see Chap
 - High ground, cover, flanking with an ally, superior terrain
 
 **Factors that worsen Vantage:**
-- Surrounded, pinned down, poor footing, exposed to multiple threats
+- Surrounded, pinned down, poor footing, exposed to multiple threats, rushing to nearby location
 
 This isn't a separate system — it's the same Vantage assessment the GM always makes, applied to the spatial fiction of combat.
 

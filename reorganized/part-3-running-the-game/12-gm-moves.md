@@ -53,10 +53,10 @@ Suspense Moves escalate tension and telegraph danger. They're warnings — signa
 - **Advance a countdown** — "The ritual is halfway complete. Dark energy swirls."
 
 **When to use (earns +1 Suspense each time):**
-- PC rolls Conflict — telegraph the complication before delivering it
 - You want to create pressure or build to something bigger
 - The fiction demands a warning before consequences
 - You're cutting away to show threats elsewhere or revealing information
+- Between scenes or during downtime — show the world moving against the PCs
 
 ### Two Types of Warning
 
@@ -259,8 +259,8 @@ Tough choices turn Conflict from "success minus a bit" into dramatic decisions. 
 
 1. Players describe what they do
 2. If outcome uncertain → call for a roll
-3. If Conflict → Suspense Move (telegraph danger)
-4. Players respond to danger
+3. If Conflict → deliver Minor Consequence immediately (Impact Move), OR defer it and earn +1 Suspense (skip the prompted Impact Move — deliver it later as part of something bigger)
+4. If danger was deferred or established earlier → players respond
 5. If they ignore or fail → Impact Move (danger strikes)
 
 ### Countdown Pattern

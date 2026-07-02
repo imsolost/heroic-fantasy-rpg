@@ -71,7 +71,7 @@ You gain 1 Edge when you Defy in battle. Mark this to Push Yourself in battle wi
 When you first enter a tense situation, ask: "What is the greatest danger here?" The GM answers honestly. Push Yourself to immediately neutralize or exploit that danger with Potent effect.
 
 **Defy Death [ ] [ ]**
-When you would be Taken Out, you may instead mark this to remain in the fight and immediately clear 1 Stress. Push Yourself to stay standing through a consequence that would floor anyone else.
+When you would be Taken Out, you may instead mark this to remain in the fight and immediately clear 1 Stress. Push Yourself to stay standing through a Consequence that would floor anyone else.
 
 **Fearsome Presence**
 You have Expertise in intimidation, threats, and commanding through force of personality. Push Yourself to perform a Potent feat of intimidation.
@@ -299,7 +299,7 @@ You have Expertise when creating magical devices, wards, constructs, or enchantm
 You have Expertise when examining magical phenomena, disturbances, or residue. When you investigate a location or object touched by magic, ask: "What happened here?" The GM answers honestly. Push Yourself to reconstruct a complete picture — what was cast, by whom, with what intent.
 
 **Arcane Resilience [ ] [ ]**
-Mark this when you would suffer a consequence from a magical source. Reduce the consequence by one severity step.
+Mark this when you would suffer a Consequence from a magical source. Reduce the Consequence by one severity step.
 
 **Counter-Theory**
 You have Expertise when analyzing, dispelling, countering, or disrupting magic. Push Yourself to completely negate a magical protection, ward, or defensive spell you're acting against.
@@ -320,7 +320,7 @@ Choose a Sphere of Power. You learn two Spell Theorems in that Sphere. Push Your
 When you take this Talent, learn a number of Spell Theorems equal to your current Scale tier (Mortal = 1, Heroic = 2, Mythic = 3, Divine = 4). Each time you advance to a new Scale, learn 1 additional Spell Theorem. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval).
 
 **Theoretical Genius**
-When you use Arcane Formula, you may ask before rolling: "What is the greatest risk of this improvised spell?" The GM answers honestly. Push Yourself to reduce one consequence of magical experimentation — limiting the fallout without eliminating it entirely.
+When you use Arcane Formula, you may ask before rolling: "What is the greatest risk of this improvised spell?" The GM answers honestly. Push Yourself to reduce one Consequence of magical experimentation — limiting the fallout without eliminating it entirely.
 
 **Theoretical Leap [ ] [ ]**
 When you encounter a magical effect, creature, or phenomenon you have never seen before, you may mark this to immediately ask the GM: "What is the most important thing my character would recognize about this?" The GM answers honestly.
@@ -381,7 +381,7 @@ You have Expertise when climbing, balancing, infiltrating, or traversing difficu
 You have Expertise when striking from a position of advantage in battle — concealment, surprise, or superior knowledge. Push Yourself to make this attack Potent.
 
 **Slippery [ ] [ ]**
-Mark this to Resist a consequence caused by pursuit, detection, capture, or exposure.
+Mark this to Resist a Consequence caused by pursuit, detection, capture, or exposure.
 
 ---
 

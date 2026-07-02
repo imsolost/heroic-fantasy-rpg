@@ -490,7 +490,7 @@ Most RPGs have either:
 - Fiction-first (describe what you do, then pick the Action that fits)
 
 **Five Approaches provide nuance:**
-- How you act matters (affects Vantage, consequence types, narrative color)
+- How you act matters (affects Vantage, Consequence types, narrative color)
 - Starting array (3/2/1/1/0) gives characters distinct strengths and weaknesses
 - Every character has one Approach at 0—forces teamwork, creates interesting challenges
 

@@ -50,9 +50,9 @@ Magic uses the existing five Actions based on intent:
 
 | Action | Magical Intent | On Success |
 |--------|---------------|------------|
-| **Defy** | Create barriers, resist magic, overcome magical obstacles | Achieve your intent (mark Obstacle track if complex) |
-| **Clash** | Attack with magic, harm enemies | Mark Harm track |
-| **Talk** | Charm, compel, influence minds | Mark Will track |
+| **Defy** | Create barriers, resist magic, overcome magical obstacles | Achieve your intent (mark Obstacle Track if complex) |
+| **Clash** | Attack with magic, harm enemies | Mark Harm Track |
+| **Talk** | Charm, compel, influence minds | Mark Will Track |
 | **Sense** | Divination, detection, scrying | Ask 2 questions (3 with Enhanced Effect) |
 | **Know** | Analyze magic, recall arcane knowledge, identify effects | GM answers + 1 clarifying follow-up |
 
@@ -259,9 +259,9 @@ Meaningful magical effects that influence scenes, harm enemies, solve problems, 
 - Solve an immediate problem or create tactical advantage
 
 **Examples:**
-- Hurl a bolt of fire at an enemy (Clash, marks Harm track)
+- Hurl a bolt of fire at an enemy (Clash, marks Harm Track)
 - Create a barrier to block a doorway (Defy, creates Obstacle)
-- Charm a guard into letting you pass (Talk, marks Will track)
+- Charm a guard into letting you pass (Talk, marks Will Track)
 - Scry a distant location (Sense, ask questions)
 - Identify a magical artifact (Know, learn its properties)
 
@@ -420,8 +420,8 @@ Without a counterspell Talent, you can only **Defy** to resist hostile magic rea
 
 **Dispelling difficulty:**
 - Simple spell: Overcome immediately on Success
-- Potent spell or ward: Progress track (2-4 ticks)
-- Ritual effect: Very difficult (6+ tick track or requires counter-ritual)
+- Potent spell or ward: Progress Track (2-4 ticks)
+- Ritual effect: Very difficult (6+ tick Track or requires counter-ritual)
 
 ---
 
@@ -512,8 +512,8 @@ Physical or metaphysical elements required to channel the power:
 
 Challenges the PCs must overcome, structured as progress tracks or required actions:
 
-- Perform the casting (6-tick Obstacle track — Defy/Know)
-- Calm a raging storm (4-tick Obstacle track — Clash against elemental forces)
+- Perform the casting (6-tick Obstacle Track — Defy/Know)
+- Calm a raging storm (4-tick Obstacle Track — Clash against elemental forces)
 - Summon a divine envoy (Talk or Sense to call and persuade)
 - Defeat the ritual's guardians (Clash against summoned protectors)
 - Maintain concentration (Defy against distractions or enemy interference)
@@ -525,7 +525,7 @@ Challenges the PCs must overcome, structured as progress tracks or required acti
 **2. GM defines components:**
 - Source: Divine favor (must petition the god of death)
 - Anchors: Sanctified Ground (Temple of Death), Auspicious Timing (new moon), Exotic Ingredients (grave dirt from his tomb, vial of his blood)
-- Rites: Travel to the Temple, gather ingredients, perform the casting (6-tick track), summon the god's envoy (Talk to petition for the king's soul)
+- Rites: Travel to the Temple, gather ingredients, perform the casting (6-tick Track), summon the god's envoy (Talk to petition for the king's soul)
 
 **3. PCs gather anchors** — This may take multiple sessions. Acquiring rare components is adventure content.
 

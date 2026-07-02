@@ -227,7 +227,7 @@ Your highest die determines one of four outcomes:
 - You accomplish your intent (same as Success)
 - **But** you suffer a **Minor Consequence** (the GM makes a soft Impact Move)
 
-The GM chooses an appropriate consequence from the situation. **See Chapter 3 for complete consequence guidelines.**
+The GM chooses an appropriate Consequence from the situation. **See Chapter 3 for complete Consequence guidelines.**
 
 **Example:**
 - Roll 2 dice: 3, 5
@@ -243,7 +243,7 @@ The GM chooses an appropriate consequence from the situation. **See Chapter 3 fo
 - You **do not** accomplish your intent
 - **And** you suffer a **Major Consequence** (the GM makes a hard Impact Move)
 
-The GM chooses an appropriate consequence from the situation. **See Chapter 3 for complete consequence guidelines.**
+The GM chooses an appropriate Consequence from the situation. **See Chapter 3 for complete Consequence guidelines.**
 
 **Example:**
 - Roll 2 dice: 2, 3

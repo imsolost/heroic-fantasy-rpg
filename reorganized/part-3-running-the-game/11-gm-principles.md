@@ -142,7 +142,7 @@ Multiple micro-rolls create attrition spirals. Five rolls to cross a dangerous z
 One dramatic roll creates stakes. The outcome determines the cost in a single moment:
 
 - **Triumph:** Heroic crossing, gain advantage
-- **Success:** Clean success, no complication
+- **Success:** Clean success, no Consequence
 - **Conflict:** You make it across, but mark 1 Stress
 - **Setback:** You make it, but take 2 Stress + a Condition
 
@@ -150,7 +150,7 @@ One dramatic roll creates stakes. The outcome determines the cost in a single mo
 
 **Multiple rolls are right when:**
 - Each roll addresses a **distinct dramatic question** (escape the mine → fight the orcs → convince the guards = three separate problems)
-- A **multi-stage challenge** has truly separate obstacles (break the wards, fight the cultists, destroy the altar)
+- A **multi-stage Challenge** has truly separate obstacles (break the wards, fight the cultists, destroy the altar)
 - **Different PCs tackle different parts** (Rogue picks lock, Fighter keeps watch, Sage dispels alarm)
 
 **One roll is right when:**

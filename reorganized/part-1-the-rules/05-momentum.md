@@ -83,7 +83,7 @@ Automatically reduce the Consequence Tier by 1. No roll required.
 **See Chapter 3 (Outcomes & Consequences) for complete Resist Consequence rules.**
 
 **When to use:**
-- After the GM announces a consequence, declare "I Resist" and spend 1 Momentum
+- After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum
 - Especially valuable when at high Stress (avoiding overflow) or when a Condition would be crippling
 
 ### Seize Spotlight

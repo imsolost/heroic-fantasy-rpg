@@ -88,7 +88,7 @@ Impact Moves deliver consequences. They're the payoff of Suspense — danger tha
 ### Consequence Severity
 
 **Minor Consequence (from Conflict):**
-Mark 1 Stress, impose tier 1 Condition, lose position, attract attention, or introduce a complication.
+Mark 1 Stress, impose tier 1 Condition, lose position, attract attention, or introduce a new problem.
 
 **Major Consequence (from Setback):**
 Mark 2 Stress, enemy counterattacks, lose something important, trigger telegraphed danger, or the objective fails.
@@ -241,7 +241,7 @@ Tough choices turn Conflict from "success minus a bit" into dramatic decisions. 
 | Ignoring warnings / time pressure | Impact Move (Major) | Fiction demands escalation |
 | Enemy's turn in combat | Impact Move | Use Challenge Moves if available |
 | Countdown completes | Impact Move (Severe) | Deliver promised consequence |
-| PC rolls Success or Triumph | No move needed | Clean victory, no complication |
+| PC rolls Success or Triumph | No move needed | Clean victory, no Consequence |
 
 ---
 

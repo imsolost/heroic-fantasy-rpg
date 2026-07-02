@@ -61,16 +61,21 @@ This document defines the canonical capitalization for all mechanical terms in t
 - Momentum (the metacurrency)
 - Condition (the mechanical status)
 - Burden (persistent Condition)
-- Consequence (mechanical outcome)
+- Consequence (mechanical outcome — Minor, Major, Severe)
+- Consequence Tier (severity level of a Consequence)
+- Track (when naming a mechanical track: Harm Track, Will Track, Obstacle Track)
 
 **Track Types (Always Capitalized):**
-- Harm (track type)
-- Will (track type)
-- Obstacle (track type)
+- Harm Track (physical damage progress)
+- Will Track (resolve/conviction progress)
+- Obstacle Track (environmental challenge progress)
+- Countdown Track (GM-facing timer)
+- Progress Track (general advancement toward a goal)
 
 **Context-Dependent:**
 - Taken Out (capitalized when referring to the mechanical state)
 - taken out (lowercase in casual narrative usage)
+- track (lowercase when general: "keep track of")
 
 ---
 
@@ -78,6 +83,7 @@ This document defines the canonical capitalization for all mechanical terms in t
 
 **Always Capitalized:**
 - Challenge (when referring to mechanical opposition)
+- Linked Challenge (sequential Challenges that must be overcome in order)
 - Complication (the mechanical tag/feature)
 - Challenge Move (enemy ability type)
 - Impact Move (GM move type)
@@ -158,9 +164,13 @@ This document defines the canonical capitalization for all mechanical terms in t
 ## Combat & Positioning
 
 **Always Capitalized:**
+- Action Roll (the core dice roll mechanic)
 - Close (range band)
 - Near (range band)
 - Far (range band)
+- Cinematic Actions (epic foe extra actions, GM spends Suspense)
+- Seize Spotlight (1 Momentum: PC acts immediately)
+- Seize Initiative (1-2 Suspense: enemy acts immediately)
 
 **Lowercase:**
 - range (general distance concept)
@@ -172,10 +182,10 @@ This document defines the canonical capitalization for all mechanical terms in t
 **Always Capitalized:**
 - Vantage (fictional positioning / difficulty system)
 - Stakes (consequence severity calibration)
-- Soft Move (minor GM consequence)
-- Hard Move (major GM consequence)  
-- Suspense Move (setup / warning move)
-- Impact Move (consequence / follow-through move)
+- Suspense (GM resource earned/spent for moves)
+- Suspense Move (setup / warning move — earns Suspense)
+- Impact Move (consequence / follow-through move — costs Suspense)
+- Challenge Move (enemy signature ability — costs Suspense)
 - Death Move (enemy defeated ability)
 - Countdown (track type)
 
@@ -252,11 +262,9 @@ These terms should be capitalized **only when referring to the mechanical game c
 ## Abbreviations
 
 **Accepted abbreviations:**
-- CR (Challenge Rating) — always capitalized
 - PC (Player Character) — always capitalized
 - NPC (Non-Player Character) — always capitalized
 - GM (Game Master) — always capitalized
-- XP (Experience Points) — always capitalized
 
 **Do NOT abbreviate:**
 - Complications (not "Comps")
@@ -308,6 +316,7 @@ These terms should be capitalized **only when referring to the mechanical game c
 
 ## Version History
 
+- v1.6 (2026-07-02): Added Action Roll, Suspense, Cinematic Actions, Seize Spotlight/Initiative, Track types. Removed CR/XP (no longer in system). Removed Soft/Hard Move (replaced by Suspense/Impact Move). Capitalization audit across manuscript.
 - v1.5 (2026-06-26): Expanded Vantage to 5 tiers. Standard is baseline (no modifiers), Strong is advantageous (1 Boon). Vantage represents external factors only (tools, positioning, circumstances), not task difficulty or character capability.
 - v1.4 (2026-06-25): Renamed Vantage tiers: Standard → Strong, Difficult → Limited (more flexible, covers all situations)
 - v1.3 (2026-06-25): Renamed Vantage tiers: Reasonable → Standard, Doubtful → Difficult (more intuitive)

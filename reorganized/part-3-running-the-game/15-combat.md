@@ -248,7 +248,7 @@ When defeated, the foe triggers one final action:
 
 ### Conditions on Enemies
 
-Enemies use the same Condition system as PCs. Since enemies don't roll dice, their Conditions tick down when a PC makes a relevant action roll against them.
+Enemies use the same Condition system as PCs. Since enemies don't roll dice, their Conditions tick down when a PC makes a relevant Action Roll against them.
 
 - **Blinded Orc:** PCs gain 1 Boon when attacking. Ticks down each time a PC attacks it.
 - **Frightened Captain:** PCs gain 1 Boon on Talk/Clash (intimidation). Ticks down each time a PC targets it socially.

@@ -219,7 +219,7 @@ Challenges have **Complication tags** that describe when they apply:
 - **Used by:** Clash (intimidation) or Talk (persuasion)
 - **When filled:** Enemy breaks/flees (Clash) or becomes convinced/allied (Talk)
 
-**Obstacle Track** — Progress toward overcoming environmental challenge
+**Obstacle Track** — Progress toward overcoming environmental Challenge
 - **Used by:** Defy (overcoming obstacles)
 - **When filled:** Obstacle overcome (lock picked, wall climbed, trap disarmed)
 - **Note:** Know provides information that may improve your Vantage, but Defy marks the track
@@ -267,7 +267,7 @@ Track sizes determine how much effort a Challenge takes to overcome:
 
 ## Resist Consequence
 
-When you would suffer a consequence (Stress, Condition, or narrative setback), spend **1 Momentum** to automatically reduce the Consequence Tier by 1.
+When you would suffer a Consequence (Stress, Condition, or narrative setback), spend **1 Momentum** to automatically reduce the Consequence Tier by 1.
 
 **No roll required** — the reduction is immediate and guaranteed.
 
@@ -281,12 +281,12 @@ When you would suffer a consequence (Stress, Condition, or narrative setback), s
 | Condition tier 3 | Condition tier 2 |
 | Condition tier 2 | Condition tier 1 |
 | Condition tier 1 | No Condition |
-| Narrative consequence | GM reduces severity |
+| Narrative Consequence | GM reduces severity |
 
 **When to use:**
-- After the GM announces a consequence, declare "I Resist" and spend 1 Momentum
+- After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum
 - Before Stress Overflow (reduces overflow amount, possibly avoiding Burden choice)
-- Your choice whether the Momentum is worth avoiding/reducing this specific consequence
+- Your choice whether the Momentum is worth avoiding/reducing this specific Consequence
 
 **Example:**
 - GM: "The knight's mace slams into your shield. Mark 2 Stress."
@@ -382,7 +382,7 @@ Here's how outcomes resolve for each of the five Actions:
 
 ## High Stakes (see Chapter 2)
 
-**High Stakes** increases consequence tier by +1: Conflict becomes Major Consequence, Setback becomes Severe Consequence. Declared by the GM before the roll as part of pre-roll framing. Rare — reserved for climactic moments.
+**High Stakes** increases Consequence Tier by +1: Conflict becomes Major Consequence, Setback becomes Severe Consequence. Declared by the GM before the roll as part of pre-roll framing. Rare — reserved for climactic moments.
 
 ---
 

@@ -91,7 +91,7 @@ A Condition has a **name** and a **tier** (1–3), both set at the moment of inf
 - The name describes the fictional state: Poisoned, Frightened, Blinded, Stunned
 - The tier represents severity and duration
 
-**Each Condition applies 1 Bane to relevant action rolls.** Multiple Conditions stack — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously, but the ±2 pool modifier cap still applies (so 3 Conditions = 3 Banes, but only -2d to your pool).
+**Each Condition applies 1 Bane to relevant Action Rolls.** Multiple Conditions stack — each applying 1 Bane. You can have 3, 4, or more Conditions simultaneously, but the ±2 pool modifier cap still applies (so 3 Conditions = 3 Banes, but only -2d to your pool).
 
 **Conditions only apply (and tick down) when fictionally relevant.** If a Condition clearly has no bearing on the action (Blinded doesn't affect recalling lore), it doesn't apply and doesn't tick down. When in doubt, apply the Condition.
 
@@ -101,11 +101,11 @@ The tier set at infliction is the **maximum severity**. It never escalates beyon
 
 | Tier | Bane | Ticks Down After |
 |------|------|------------------|
-| 1 | 1 Bane | 1 relevant action roll |
-| 2 | 1 Bane | 2 relevant action rolls |
-| 3 | 1 Bane | 3 relevant action rolls |
+| 1 | 1 Bane | 1 relevant Action Roll |
+| 2 | 1 Bane | 2 relevant Action Rolls |
+| 3 | 1 Bane | 3 relevant Action Rolls |
 
-Each time you make an action roll where the Condition applies, reduce its tier by 1. When it reaches 0, it clears.
+Each time you make an Action Roll where the Condition applies, reduce its tier by 1. When it reaches 0, it clears.
 
 **All Conditions clear on Short Rest** (regardless of remaining tier).
 
@@ -289,4 +289,4 @@ Now you understand how heroes absorb punishment and recover. The next chapters c
 - **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Resist Consequence)
 - **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
 
-**For consequence details and when Stress/Conditions are inflicted, see Chapter 3 (Outcomes & Consequences).**
+**For Consequence details and when Stress/Conditions are inflicted, see Chapter 3 (Outcomes & Consequences).**

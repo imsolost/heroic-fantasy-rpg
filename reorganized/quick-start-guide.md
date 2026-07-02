@@ -225,7 +225,7 @@ From your Calling's Talent list, choose 2. Talents give you special abilities, E
 
 ## Step 5: Record Starting Stats
 
-- **Stress Track:** 5 boxes (mark when you suffer harm or push yourself)
+- **Stress Track:** 5 boxes (mark when you suffer harm or Push Yourself)
 - **Momentum Cap:** 2 (increases to 3 with certain Talents)
 - **Scale:** Mortal (Local Heroes—you're skilled, but not legendary yet)
 
@@ -235,7 +235,7 @@ From your Calling's Talent list, choose 2. Talents give you special abilities, E
 
 # Page 5: How to Roll Dice
 
-When you make an action roll, you're building a **dice pool** and looking for the **highest single die**.
+When you make an Action Roll, you're building a **dice pool** and looking for the **highest single die**.
 
 ---
 
@@ -738,7 +738,7 @@ This Quick Start gives you everything you need for your first session. After tha
 After your first session, read:
 
 **Part 1: The Rules (Chapters 1-6)**
-- Complete mechanical detail on dice rolling, actions, consequences, resilience, momentum, and traits
+- Complete mechanical detail on dice rolling, Actions, Consequences, Resilience, Momentum, and Traits
 - Understanding these chapters makes you a more confident player
 
 **Part 2: Your Character (Chapters 7-10)**

@@ -52,11 +52,11 @@ Suspense Moves escalate tension and telegraph danger. They're warnings — signa
 - **Reveal an unwelcome truth** — "You recognize the bandit leader — it's your brother."
 - **Advance a countdown** — "The ritual is halfway complete. Dark energy swirls."
 
-**When to use:**
-- PC rolls Conflict (success + complication — use a Suspense Move for the complication)
+**When to use (earns +1 Suspense each time):**
+- PC rolls Conflict — telegraph the complication before delivering it
 - You want to create pressure or build to something bigger
 - The fiction demands a warning before consequences
-- You're spending Suspense to create dramatic escalation
+- You're cutting away to show threats elsewhere or revealing information
 
 ### Two Types of Warning
 
@@ -134,31 +134,47 @@ Danger follows through. Deliver an Impact Move.
 
 Suspense is a **visible** GM resource that tracks escalating tension. Players can see your Suspense pool — this makes danger transparent and escalation feel earned rather than arbitrary.
 
+The core principle: **the GM earns Suspense by giving — telegraphing danger, offering information, resolving problems, or letting time pass — then spends it to strike.** You must warn before you hit, and the warning is literally what pays for the hit.
+
 ### Starting Suspense
 
-- **Combat or dangerous scene:** Start with Suspense = number of PCs (typically 2-5)
-- **Exploration or social:** Start at 0, build as tension rises
+Begin each session with **2 Suspense**. This gives you a small starting buffer for early drama without frontloading entire encounters.
 
 ### Earning Suspense
 
-- **PC rolls Setback:** +1 Suspense
-- **PCs trigger danger:** +1 Suspense (spring trap, alert guards, break truce)
-- **Time passes or situation worsens:** +1 Suspense (GM discretion, use sparingly)
+| Source | Suspense Gained |
+|--------|----------------|
+| Make a Suspense Move (telegraph, clue, foreshadow) | +1 |
+| Skip a prompted Impact Move (let PCs off easy — for now) | +1 |
+| Party takes a Short Rest | +1 |
+| Party takes a Long Rest | +2 |
+| Challenge-specific (built into stat block) | Varies |
+
+**Suspense Moves earn Suspense.** Every time you telegraph danger, reveal information, cut away to show enemy activity, or resolve a problem for the PCs, you earn 1 Suspense. This mechanically enforces the Hint→Reveal→Strike principle — you can't strike without having warned first, because warnings are what fund strikes.
+
+**Skipping an Impact Move** means the fiction called for a consequence (Conflict result, ignored warning) but you choose to bank the tension instead. The PCs got lucky — for now. Use this when no immediate consequence feels compelling or when you want to shift focus elsewhere.
+
+**Rest earns Suspense** because the world moves while heroes recover. Enemies prepare, threats organize, countdowns advance. Resting is never free — it trades recovery for mounting danger.
+
+**Challenge-specific Suspense** is built into powerful enemies and dangerous encounters. An Ancient Lich might come with 4 Suspense to fuel its Challenge Moves. This ensures bosses feel dangerous regardless of how the PCs are rolling — their threat is pre-loaded, not dependent on PC failure.
 
 ### Spending Suspense
 
-- **Suspense Move (0-1 Suspense):** Most Suspense Moves are free. Spend 1 for especially dramatic escalation.
 - **Impact Move (1-2 Suspense):** Deliver consequence outside of a PC's roll result. Enemy acts, danger strikes, environment shifts.
-- **Activate special ability (1-3 Suspense):** Boss uses signature Challenge Move, reinforcements arrive, battlefield changes.
+- **Activate Challenge Move (1-3 Suspense):** Boss uses signature ability, reinforcements arrive, battlefield changes.
 - **Seize Initiative (1-2 Suspense):** Enemy acts immediately, interrupting the current spotlight.
+- **Escalate (1 Suspense):** Environment shifts — fire spreads, ceiling collapses, storm intensifies.
+
+**Suspense Moves are free to make** — you don't spend Suspense to telegraph. You *earn* it by telegraphing. Only Impact Moves (and their variants) cost Suspense.
 
 ### Why Suspense is Visible
 
-- Players understand threat level: "The GM has 4 Suspense — this is serious."
-- Spending feels earned: "You rolled Setback, I gain 1 Suspense and spend it to trigger the trap."
-- Creates dramatic rhythm: tension builds → spends → builds again.
+- Players understand threat level: "The GM has 4 Suspense — something big is coming."
+- Spending feels earned: the players watched you build it through warnings and scene-setting.
+- Creates genuine dramatic rhythm: the GM gives (earns) → then takes (spends) → then gives again.
+- Resting decisions become strategic: "We need to recover, but the GM will gain 2 Suspense..."
 
-**Don't hoard Suspense.** Spend it to create drama, pressure, and memorable moments. An empty Suspense pool is the calm before the storm.
+**Don't hoard Suspense.** Spend it to create drama, pressure, and memorable moments. An empty Suspense pool is the calm before the storm — and a signal to players that they have breathing room.
 
 ---
 

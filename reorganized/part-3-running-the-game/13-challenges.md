@@ -238,14 +238,14 @@ Three tags doesn't mean "impossible." It means "choose your approach carefully."
 
 ## Challenge Moves
 
-Challenge Moves are powerful active abilities that Challenges use as Impact Moves. They represent signature attacks, special abilities, and dramatic actions — more potent than standard consequences.
+Challenge Moves are powerful active abilities that Challenges use as Impact Moves. The GM **spends Suspense** to activate them — typically 1-2 Suspense for standard abilities, 2-3 for devastating signature attacks. They represent signature attacks, special abilities, and dramatic actions — more potent than standard consequences.
 
 ### Power Level
 
 - Standard Impact Move: 2 Stress
-- Challenge Move: 3 Stress, OR 2 Stress + Condition, OR area effects, OR special abilities
+- Challenge Move (1-2 Suspense): 3 Stress, OR 2 Stress + Condition, OR area effects, OR special abilities
 
-This makes telegraphs meaningful — players *want* to avoid Challenge Moves.
+This makes telegraphs meaningful — players *want* to avoid Challenge Moves, and the Suspense cost means the GM must earn the right to use them.
 
 ### Format
 
@@ -329,6 +329,7 @@ Telegraph the phase shift: "Something changes in its eyes..."
 
 ```
 Ancient Lich (CR 4, Rank 4)
+Suspense: 4
 Tracks: Harm 10, Will 8, Obstacle 6
   - Harm: Physical destruction (very durable undead body)
   - Will: Breaking its grip on this plane (holy/divine persuasion)
@@ -341,10 +342,10 @@ Complications:
 
 Exploitable: Phylactery (destroying via Obstacle track removes Resilient)
 
-Challenge Moves:
-  - Deathly Aura (Passive) — All PCs mark 1 Stress at start of each round
-  - Raise Dead [□□□] — Summon 2-tick minion in Near range (3 uses)
-  - Soul Drain [□□] — Target marks 2 Stress + Exhausted 2 (2 uses)
+Challenge Moves (spend Suspense to activate):
+  - Deathly Aura (Passive, free) — All PCs mark 1 Stress at start of each round
+  - Raise Dead [□□□] (1 Suspense) — Summon 2-tick minion in Near range (3 uses)
+  - Soul Drain [□□] (2 Suspense) — Target marks 2 Stress + Exhausted 2 (2 uses)
 ```
 
 **How PCs defeat it:**
@@ -467,7 +468,7 @@ When a Challenge has 2+ Complications, its dominance must be obvious in the fict
 - "The dragon's scales shimmer with magical wards. Two Complications — you'll need to find a weakness or coordinate an assault."
 
 This signals to players:
-1. Frontal assault will likely fail
+1. Frontal assault will almost certainly fail or backfire without Edge, Triumph, or coordinated tactics
 2. They should use Sense to find weaknesses
 3. They should Build Momentum for coordinated strikes
 4. They should use Create an Opening to gain Edge
@@ -484,7 +485,8 @@ This signals to players:
 3. **Assign tracks** based on valid approaches (Harm, Will, Obstacle)
 4. **Choose Complications** based on Rank guidelines (tag them appropriately)
 5. **Design Challenge Moves** if significant (2-3 for bosses)
-6. **Add exploitable trait** (weakness players can discover and leverage)
+6. **Set Challenge Suspense** (0 for minions, 1-2 for standard, 3-4 for bosses)
+7. **Add exploitable trait** (weakness players can discover and leverage)
 
 ### By Complication Count
 
@@ -516,13 +518,14 @@ This signals to players:
 
 ```
 Drow Assassin (CR 2, Rank 3)
+Suspense: 2
 Tracks: Harm 4, Will 6
 Complications: Deadly, Elusive
 Exploitable: "Professional" (contract appeals grant 1 Boon on Will rolls)
-Challenge Moves:
-  - Poisoned Blade — Close, 1 Stress + Poisoned 3 (unlimited)
-  - Shadow Step [□□] — Teleport to Near/Far (2 uses)
-  - Smoke Bomb [□] — Create Smoke Cloud (Elusive) [□□□] (1 use)
+Challenge Moves (spend Suspense to activate):
+  - Poisoned Blade (1 Suspense) — Close, 1 Stress + Poisoned 3 (unlimited)
+  - Shadow Step [□□] (1 Suspense) — Teleport to Near/Far (2 uses)
+  - Smoke Bomb [□] (2 Suspense) — Create Smoke Cloud (Elusive) [□□□] (1 use)
 ```
 
 **How this plays:** Direct combat faces 2 Complications (hard). Social approach faces long Will track but no Complications (offer a better contract). PCs need teamwork for combat OR creative negotiation for social victory.

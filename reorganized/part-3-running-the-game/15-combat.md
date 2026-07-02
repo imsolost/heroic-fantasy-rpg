@@ -166,29 +166,31 @@ Suspense is a visible GM resource that creates dynamic enemy action. See **Chapt
 
 ### Starting Suspense
 
-Begin combat with Suspense equal to number of PCs (typically 2-5).
+Use whatever Suspense you have when combat begins (session starts at 2, modified by Suspense Moves and rests). Powerful foes bring their own Challenge-specific Suspense (built into their stat block).
 
 ### Earning Suspense in Combat
 
-- PC rolls Setback → +1 Suspense
-- PCs trigger danger → +1 Suspense (spring trap, alert reinforcements)
+- Make a Suspense Move (telegraph an incoming attack, describe the environment shifting) → +1
+- Skip a prompted Impact Move (let a Conflict consequence slide — for now) → +1
 
 ### Spending Suspense in Combat
 
 - **Seize Initiative (1-2 Suspense):** Enemy acts immediately, interrupting spotlight
-- **Activate Special Ability (1-3 Suspense):** Trigger Challenge Move (area attack, summon reinforcements, powerful effect)
+- **Activate Challenge Move (1-3 Suspense):** Trigger signature ability (area attack, summon reinforcements, powerful effect)
 - **Escalate (1 Suspense):** Environment shifts (fire spreads, ceiling collapses, storm intensifies)
 
 ### Example
 
-> **GM:** "Kael, you roll Setback on your Clash. The orc captain laughs as your blade bounces off his shield. I gain 1 Suspense. I'm spending it to Seize Initiative — the captain bellows and two more orcs charge from the treeline. Mira, they're heading straight for you. What do you do?"
+> **GM:** "The orc captain raises his shield and bellows a war cry — his lieutenants tense up, ready to charge." *(Suspense Move: telegraph danger, earn +1 Suspense)*
+>
+> Next round — **GM:** "I'm spending 2 Suspense. The captain's lieutenants charge from the treeline, straight at Mira. What do you do?"
 
 ### Why It Works
 
-- Visible pool makes escalation transparent
-- Players understand threat level ("GM has 4 Suspense — this is serious")
-- Spending feels earned, not arbitrary
-- Creates dramatic rhythm: tension builds → spends → builds again
+- The GM must telegraph before striking — warnings are what fund attacks
+- Visible pool makes escalation transparent ("GM has 3 Suspense — something is coming")
+- Powerful foes bring their own Suspense, ensuring boss fights have teeth regardless of PC luck
+- Spending feels earned — players watched you build it
 
 ---
 

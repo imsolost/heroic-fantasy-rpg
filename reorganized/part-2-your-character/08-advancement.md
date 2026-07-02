@@ -31,6 +31,8 @@ Advancement happens when the GM awards a new level, typically after major story 
 | **9** | +1 Approach (cap 5) | Legendary Approach |
 | **10** | **Rank 4**, +1 Trait, +1 Talent | Mythic Heroes |
 
+The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a second "broaden, then specialize" cycle, ensuring characters keep developing breadth even after their first push toward specialization.
+
 ---
 
 ### Power Curve Summary
@@ -56,6 +58,10 @@ When you gain an Approach increase, raise one Approach by 1 (up to the level's c
 > Level 3 (+1, cap 3): He raises Spirit 2→3. Now 3/3/1/1/1.
 >
 > Level 4 (+1, cap 4): He raises Daring 3→4. Now 4/3/1/1/1.
+>
+> Level 6 (+1, cap 2): The cap resets — he raises Grace 1→2. Now 4/3/2/1/1.
+>
+> Level 7 (+1, cap 3): He raises Cunning 1→2. Now 4/3/2/2/1.
 
 **Strategy:**
 - **Early levels (cap 2-3):** Broaden your competencies, shore up weaknesses

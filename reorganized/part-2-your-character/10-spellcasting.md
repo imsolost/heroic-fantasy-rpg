@@ -208,6 +208,12 @@ See Chapter 9 for the Mystic's Core Talent (Spiritual Communion), which defines 
 | **Spell** | Clear 1 Stress / cure disease | Command animals, call vines | Speak with dead, turn undead | Create barriers, bless allies |
 | **Potent** | Clear 2 Stress / remove Condition | Transform into animal, call weather | Raise temporary servant | Consecrate ground, permanent wards |
 
+| Magnitude | Battle | Prophecy | Storms |
+|-----------|--------|----------|--------|
+| **Cantrip** | Sharpen a blade, steel nerves | Sense impending danger (vague) | Stir a breeze, crackle static |
+| **Spell** | Grant ally 1 Boon in combat / smite foe (mark Harm) | Ask 1 question about the near future / grant vision | Call lightning bolt (mark Harm) / gust to knock prone |
+| **Potent** | Empower entire group for battle / devastate single foe | Foresee and negate an ambush / reveal hidden truth | Call a storm over a wide area / chain lightning across a group |
+
 ---
 
 ### GM Guidance: Adjudicating Touchstones

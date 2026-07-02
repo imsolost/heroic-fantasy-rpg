@@ -28,6 +28,10 @@ Every Talent follows one of a few patterns:
 
 > "You gain 1 Edge when [condition]."
 
+**GM Answers Honestly:** Ask a specific question tied to your expertise; the GM must answer truthfully, even if incompletely.
+
+> "When you [trigger], ask: '[question].' The GM will answer honestly."
+
 ### Key Terms
 
 **Push Yourself** (in Talent context): Mark 1 Stress to activate the Talent's extraordinary effect. You still gain the normal benefit of Pushing Yourself (1 Boon) in addition to the Talent's special effect. You can only activate one Talent per Push.
@@ -209,7 +213,7 @@ Mark this after rolling a patron invocation that would cause Favor loss (2+ ones
 **Consecrated Ground**
 When given time, you can sanctify a location no larger than a small building. You and your allies have Expertise on all actions against enemies of your patron within that space. The consecration lasts for the scene. Push Yourself to make it last until your next Long Rest, or to consecrate the space instantly.
 
-**Divine Favor**
+**Channel Divinity**
 Your patron can act through you directly — not as a channeled gift, but as a direct expression of their power in the world. Push Yourself to perform a Potent miracle within your domains — an effect beyond what your training or faith could normally achieve.
 
 **Divine Wrath**

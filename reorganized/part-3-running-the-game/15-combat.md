@@ -238,13 +238,7 @@ Affects all PCs in a zone. GM describes the attack; each PC rolls Defy to avoid 
 
 ### Multi-Phase
 
-At 50% track, the foe changes tactics:
-- Becomes enraged (remove a Complication, add Deadly)
-- Takes flight (new zone, new Complication)
-- Reveals true form (new Challenge Moves)
-- Discards damaged armor for speed
-
-Telegraph the shift: "Something changes in the dragon's eyes as half its scales are torn away..."
+At 50% track, the foe changes tactics — new Complications, new Challenge Moves, or a shift in fighting style. Telegraph the transition dramatically. See **Chapter 13: Multi-Phase Design** for the full framework and examples.
 
 ### Regeneration
 

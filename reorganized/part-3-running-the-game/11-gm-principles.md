@@ -206,10 +206,7 @@ For the complete Vantage framework with detailed examples and edge cases, see **
 
 - Find a natural breaking point — not mid-combat
 - Preview next session if appropriate ("Next time: the vault awaits...")
-- **End of Session questions** (optional, for advancement):
-  - "Did we learn something important about the world?"
-  - "Did we overcome a significant threat?"
-  - "Did a character relationship change meaningfully?"
+- **End of Session questions** (optional, for advancement — see Chapter 16 for the full list and how answers contribute to milestone progress)
 
 ---
 

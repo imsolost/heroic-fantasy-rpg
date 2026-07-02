@@ -6,7 +6,7 @@ Magic is the art of bending reality to your will — whether through disciplined
 - How casting a spell works (it's just an Action Roll)
 - Touchstones: Spheres of Power (Sage) and Patron Domains (Mystic)
 - Magnitude: Cantrips, Spells, Potent Spells, and Rituals
-- Magic and Rank (narrative scale)
+- Magic and Scale (narrative scope)
 - Common rulings (healing, buffs, countering, detection)
 - Ritual structure
 
@@ -337,18 +337,18 @@ See the **Rituals** section below for complete structure.
 
 ---
 
-## Magic and Rank
+## Magic and Scale
 
-Magic follows the same narrative scale as all other actions. Your Rank (Chapter 8) determines what you can attempt — being a spellcaster doesn't bypass Rank boundaries, it just means you accomplish feats through magic instead of muscle or words.
+Magic follows the same narrative scope as all other actions. Your Scale (Chapter 8) determines what you can attempt — being a spellcaster doesn't bypass Scale boundaries, it just means you accomplish feats through magic instead of muscle or words.
 
-| Rank | Scale | Example Effects |
-|------|-------|-----------------|
-| **1** | Local | Fireball injures one foe, charm one guard, heal moderate wounds, room-sized illusion, teleport across a building |
-| **2** | Regional | Fireball strikes multiple foes, teleport across city, fly/invisible for scene. Rituals: summon powerful spirits, raise stone walls, scry across region |
-| **3** | National | Teleport across kingdoms, freeze a lake, raise a fortress, summon dragons, open portals between worlds, animate construct army |
-| **4** | World | Move entire cities, create pocket dimensions, seal gods, rewrite national curses, alter regional climates permanently |
+| Scale | Scope | Example Effects |
+|-------|-------|-----------------|
+| **Mortal** | Local | Fireball injures one foe, charm one guard, heal moderate wounds, room-sized illusion, teleport across a building |
+| **Heroic** | Regional | Fireball strikes multiple foes, teleport across city, fly/invisible for scene. Rituals: summon powerful spirits, raise stone walls, scry across region |
+| **Mythic** | National | Teleport across kingdoms, freeze a lake, raise a fortress, summon dragons, open portals between worlds, animate construct army |
+| **Divine** | World | Move entire cities, create pocket dimensions, seal gods, rewrite national curses, alter regional climates permanently |
 
-A Rank 2 Sage cannot achieve Rank 4 effects simply because they wield supernatural power.
+A Heroic Scale Sage cannot achieve Divine Scale effects simply because they wield supernatural power.
 
 ---
 

@@ -246,13 +246,13 @@ When defeated, the foe triggers one final action:
 
 ### By Enemy Type
 
-**Minions (CR 1, 2 ticks):** Fast, disposable. Use in groups of 3-6. Describe defeats cinematically: "You cut through the goblins in a blur of steel."
+**Minions (2 ticks):** Fast, disposable. Use in groups of 3-6. Describe defeats cinematically: "You cut through the goblins in a blur of steel."
 
-**Standard Foes (CR 2, 4 ticks):** Competent opposition. Small groups of 2-4. Each gets a moment to act and react.
+**Standard Foes (4 ticks):** Competent opposition. Small groups of 2-4. Each gets a moment to act and react.
 
-**Elite Warriors (CR 3, 6 ticks):** Dangerous individuals. Solo or pairs. Describe injuries accumulating: "He's bleeding but still dangerous..."
+**Elite Warriors (6 ticks):** Dangerous individuals. Solo or pairs. Describe injuries accumulating: "He's bleeding but still dangerous..."
 
-**Epic Foes / Bosses (CR 4+, 8-10 ticks):** Centerpiece encounters. Give special abilities, multiple phases, and Challenge Moves. These fights should take 15-30 minutes.
+**Bosses (8-10 ticks):** Centerpiece encounters. Give special abilities, multiple phases, and Challenge Moves. These fights should take 15-30 minutes.
 
 ### General Pacing Tips
 
@@ -275,7 +275,7 @@ When players place debuffs or Conditions on enemies, allies gain 1 Boon on actio
 
 ## Extended Combat Example
 
-**Setup:** Kael (warrior), Mira (ranger), Ryn (rogue) face an **Orc Warboss** (8 ticks, Resilient + Deadly) and **3 Orc Minions** (2 ticks each, grouped as CR 2).
+**Setup:** Kael (warrior), Mira (ranger), Ryn (rogue) face an **Orc Warboss** (8 ticks, Resilient + Deadly) and **3 Orc Minions** (2 ticks each, grouped as a single 6-tick track).
 
 **Round 1:**
 - **Kael** Defies the Warboss's charge → Conflict → Mark 1 Stress, pressed back
@@ -304,4 +304,4 @@ When players place debuffs or Conditions on enemies, allies gain 1 Boon on actio
 
 ## What's Next
 
-**Chapter 16: Advancement (GM)** covers the other side of progression — when to award levels, pacing advancement across campaigns, and managing Rank transitions.
+**Chapter 16: Advancement (GM)** covers the other side of progression — when to award levels, pacing advancement across campaigns, and managing Scale transitions.

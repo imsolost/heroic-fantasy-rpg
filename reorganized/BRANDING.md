@@ -49,7 +49,7 @@ Capitalize when referring to specific game mechanics:
 - Approaches: Daring, Grace, Charm, Cunning, Spirit
 - Outcomes: Setback, Conflict, Success, Triumph
 - Resources: Stress, Momentum, Edge
-- Character Elements: Trait, Calling, Talent, Rank
+- Character Elements: Trait, Calling, Talent, Scale
 - Mechanics: Boon, Bane, Complication, Vantage, Stakes
 - Progress Tracks: Harm, Will, Obstacle, Countdown
 - Other: Expertise, Push Yourself, Assist, Create an Opening, Resist Consequence

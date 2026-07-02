@@ -202,7 +202,7 @@ Record the remaining information on your character sheet:
 |----------|---------------|-------|
 | **Stress** | 5 boxes | Your resilience buffer (see Chapter 4) |
 | **Momentum Cap** | 2 | Maximum Momentum you can hold (see Chapter 5) |
-| **Rank** | 1 (Local Heroes) | Your narrative scope (see Chapter 8) |
+| **Scale** | Mortal (Local Heroes) | Your narrative scope (see Chapter 8) |
 
 **Name** — Something that fits your world and feels right to say at the table.
 
@@ -249,7 +249,7 @@ If you're stuck on Traits, browse these lists for sparks. Combine, modify, or us
 | 4 | Choose Calling + 1 additional Talent | Calling, Core Talent, Additional Talent |
 | 5 | Drive (+ optional rejection) | What you pursue / what you won't |
 | 6 | Connections (at table, with other players) | At least 1 per other PC |
-| 7 | Name, appearance, resilience | 5 Stress, 2 Momentum cap, Rank 1 |
+| 7 | Name, appearance, resilience | 5 Stress, 2 Momentum cap, Mortal Scale |
 
 ---
 
@@ -257,6 +257,6 @@ If you're stuck on Traits, browse these lists for sparks. Combine, modify, or us
 
 With your character built, the remaining Part 2 chapters expand on what you've chosen:
 
-- **Chapter 8: Advancement** — How your hero grows (levels, Approach increases, new Talents, Rank progression)
+- **Chapter 8: Advancement** — How your hero grows (levels, Approach increases, new Talents, Scale progression)
 - **Chapter 9: Callings** — Complete Talent lists for all six Callings
 - **Chapter 10: Spellcasting** — Full magic system (Sages and Mystics)

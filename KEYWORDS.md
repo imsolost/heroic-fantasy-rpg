@@ -81,8 +81,7 @@ This document defines the canonical capitalization for all mechanical terms in t
 - Complication (the mechanical tag/feature)
 - Challenge Move (enemy ability type)
 - Impact Move (GM move type)
-- Challenge Rating / CR (rating system)
-- Rank (power/scope tier)
+- Scale (narrative scope tier: Mortal, Heroic, Mythic, Divine)
 
 **Complication Tags (Always Capitalized):**
 - Resilient
@@ -240,8 +239,7 @@ These terms should be capitalized **only when referring to the mechanical game c
 ## Numbers & Tiers
 
 **Always Written as:**
-- "Rank 1" / "Rank 2" / "Rank 3" / "Rank 4" (not Rank I, Rank One)
-- "CR 1" / "CR 2" / "CR 3" / "CR 4" (not CR I, Tier 1)
+- "Mortal Scale" / "Heroic Scale" / "Mythic Scale" / "Divine Scale" (always capitalized)
 - "Condition tier 1/2/3" (lowercase "tier" when describing levels)
 - "Burden tier 2" (lowercase "tier")
 - "2 ticks" / "4 ticks" / "6 ticks" / "8 ticks"
@@ -284,8 +282,8 @@ These terms should be capitalized **only when referring to the mechanical game c
 ❌ **Wrong:** "Roll defy using cunning"  
 ✅ **Correct:** "Roll Defy using Cunning"
 
-❌ **Wrong:** "The knight is Rank 2 and has a harm track of 4 ticks"  
-✅ **Correct:** "The knight is Rank 2 and has a Harm track of 4 ticks"
+❌ **Wrong:** "The knight is heroic scale and has a harm track of 4 ticks"  
+✅ **Correct:** "The knight is Heroic Scale and has a Harm track of 4 ticks"
 
 ❌ **Wrong:** "When you take a short rest"  
 ✅ **Correct:** "When you take a Short Rest"

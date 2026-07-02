@@ -22,7 +22,7 @@
 
 ### Part 2: Your Character ✅
 - Ch7: Character Creation — 7-step process (Concept, Approaches, Traits, Calling, Drive, Connections, Final)
-- Ch8: Advancement — Level progression, Approach caps, Talents, Rank descriptions
+- Ch8: Advancement — Level progression, Approach caps, Talents, Scale descriptions
 - Ch9: Callings — 6 Callings with Core Talents, 10-12 Additional Talents each, background questions
 - Ch10: Spellcasting — Sage (Spheres + Operations), Mystic (Patron Domains), magnitude tiers, rituals
 
@@ -39,7 +39,7 @@
 - Ch13: Challenges — Complication tags, Progress track design, Boss design, group tracking
 - Ch14: Running Scenes — Investigation, social conflict, battlegrounds
 - Ch15: Combat — Spotlight rotation, zones, maneuvers, epic foe abilities
-- Ch16: Advancement (GM) — When to award levels, pacing, Rank transitions
+- Ch16: Advancement (GM) — When to award levels, pacing, Scale transitions
 
 ---
 

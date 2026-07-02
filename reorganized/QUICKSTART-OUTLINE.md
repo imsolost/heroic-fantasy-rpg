@@ -74,7 +74,7 @@ Full play-through of one action from start to finish with:
 5. **Record Starting Stats**
    - Stress: 5 boxes
    - Momentum cap: 2
-   - Rank: 1 (Local Heroes)
+   - Scale: Mortal (Local Heroes)
 
 **Visual:** Blank character sheet with annotations
 

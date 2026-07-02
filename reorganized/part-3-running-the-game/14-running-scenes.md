@@ -222,7 +222,7 @@ Track size determines how long the situation lasts:
 - **8 ticks** = Long (6-7 actions, extended scene)
 - **10+ ticks** = Epic (full-session arc)
 
-These numbers measure scene pacing, not combat durability — they use a different baseline than Challenge Rating tracks (where CR 1 = 2 ticks, CR 2 = 4 ticks). A 4-tick Countdown is a tight deadline; a 4-tick Challenge is a weak enemy.
+These numbers measure scene pacing, not combat durability — they use a different baseline than adversary tracks (where Minions = 2 ticks, Standard = 4 ticks). A 4-tick Countdown is a tight deadline; a 4-tick adversary is a standard fight.
 
 ### Combining Tracks for Tension
 

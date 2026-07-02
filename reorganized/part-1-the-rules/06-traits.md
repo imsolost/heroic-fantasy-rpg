@@ -165,7 +165,7 @@ Add detail that grounds the Trait in your world and gives it flavor.
 
 **Setup:**
 - Warrior has "Bladedancer" Trait
-- Enemy: CR 2 Knight with Resilient (1 Complication)
+- Enemy: Knight (4 ticks) with Resilient (1 Complication)
 - Warrior's pool: 3d6
 
 **Resolution:**
@@ -199,7 +199,7 @@ Scout's Trait enabled teamwork without dealing damage directly.
 
 **Setup:**
 - Champion with "Heir of the Storm King" Trait
-- Rolls Triumph against a CR 3 enemy with Resilient + Deadly (2 Complications)
+- Rolls Triumph against an elite enemy (6 ticks) with Resilient + Deadly (2 Complications)
 
 **Resolution:**
 - Triumph ignores ALL Complications → clean Success

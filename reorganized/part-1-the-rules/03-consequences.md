@@ -232,15 +232,15 @@ Challenges have **Complication tags** that describe when they apply:
 
 ### Track Sizes
 
-Track sizes correspond to **Challenge Rating (CR)**:
+Track sizes determine how much effort a Challenge takes to overcome:
 
-| CR | Track Size | Complexity | Examples |
-|----|------------|------------|----------|
-| **—** | 0 ticks | Trivial | Untrained guard, simple lock, friendly NPC (no track, resolved on any success) |
-| **1** | 2 ticks | Minion | Bandit, basic obstacle, skeptical merchant |
-| **2** | 4 ticks | Standard | Veteran warrior, complex lock, hostile NPC |
-| **3** | 6 ticks | Elite | Champion fighter, fortified position, hostile faction |
-| **4** | 8 ticks | Boss | Ancient dragon, legendary obstacle, enemy nation |
+| Track Size | Category | Examples |
+|------------|----------|----------|
+| 0 ticks | Trivial | Untrained guard, simple lock, friendly NPC (no track, resolved on any success) |
+| 2 ticks | Minion / Quick | Bandit, basic obstacle, skeptical merchant |
+| 4 ticks | Standard | Veteran warrior, complex lock, hostile NPC |
+| 6 ticks | Elite / Extended | Champion fighter, fortified position, hostile faction |
+| 8+ ticks | Boss / Grand | Ancient dragon, legendary obstacle, enemy nation |
 
 **Campaign-scale** (optional): 10-12 ticks for multi-session objectives
 
@@ -260,7 +260,7 @@ Track sizes correspond to **Challenge Rating (CR)**:
 **Greater Effect (from Trait):** Mark **2 ticks** instead of 1
 
 **Example:**
-- CR 2 enemy (4-tick Harm track)
+- Standard enemy (4-tick Harm track)
 - You Clash twice, both Success → 2 ticks marked
 - You Clash with Trait invoked (Greater Effect) → 2 more ticks marked
 - **Total: 4 ticks → Enemy defeated**

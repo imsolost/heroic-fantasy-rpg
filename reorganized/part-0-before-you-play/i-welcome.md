@@ -63,7 +63,7 @@ If you've played **Apocalypse World**, **Blades in the Dark**, **Fate**, or **Ir
 
 **You're a team.** Archon doesn't have mechanics for PCs fighting each other or competing for spotlight. You're heroes united by purpose. You Assist each other, build on each other's successes, and face threats together. The tension comes from external forces—monsters, tyrants, conspiracies—not from infighting.
 
-**Campaigns build momentum.** Early sessions establish who you are. Middle sessions test you. Late sessions see you rise to legendary status, confronting threats that would have destroyed you at the start. Your Rank increases (Local Heroes → Seasoned Adventurers → Regional Legends → Mythic Heroes), and the scale of your adventures grows with it.
+**Campaigns build momentum.** Early sessions establish who you are. Middle sessions test you. Late sessions see you rise to legendary status, confronting threats that would have destroyed you at the start. Your Scale advances (Mortal → Heroic → Mythic → Divine), and the scope of your adventures grows with it.
 
 **The story is yours.** From all this—the choices you make, the dice you roll, the consequences you face—a campaign emerges. It's not scripted. It's not pre-planned. It's discovered together, session by session, bold action by bold action.
 

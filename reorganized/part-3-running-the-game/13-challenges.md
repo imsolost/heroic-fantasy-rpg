@@ -9,7 +9,7 @@ Challenges are adversaries, obstacles, and situations that oppose the PCs. This 
 ## What You'll Learn
 
 - What Challenges are and when they need mechanics
-- Rank vs Challenge Rating (two independent scales)
+- Scale and track size
 - Progress tracks (Harm, Will, Obstacle)
 - Complication tags and how they interact
 - Challenge Moves (active enemy abilities)
@@ -34,44 +34,55 @@ Challenges are anything that opposes the PCs:
 
 ---
 
-## Rank and Challenge Rating
+## Scale and Track Size
 
-These are two independent scales that measure different things.
+These are two independent axes that measure different things.
 
-### Rank (Narrative Scope)
+### Scale (Narrative Scope)
 
-Rank measures narrative significance and typical Complication count:
+Scale measures narrative significance and determines the typical Complication budget:
 
-| Rank | Scope | Typical Complications |
-|------|-------|----------------------|
-| 1 | Local stakes | 0 (1 rarely) |
-| 2 | Regional stakes | 0-1 (2 rarely) |
-| 3 | National stakes | 1-2 (3 rarely) |
-| 4 | World-ending stakes | 1-3 (4 rarely) |
+| Scale | Scope | Typical Complications |
+|-------|-------|----------------------|
+| Mortal | Local stakes | 0 (1 rarely) |
+| Heroic | Regional stakes | 0-1 (2 rarely) |
+| Mythic | National stakes | 1-2 (3 rarely) |
+| Divine | World-ending stakes | 1-3 (4 rarely) |
 
-### Challenge Rating / CR (Durability)
+### Track Size (Effort)
 
-CR measures how long it takes to overcome — the track size:
+Track size measures how much effort it takes to overcome a Challenge — how many ticks of progress PCs must mark before it's resolved. Unlike "Challenge Rating" in some other games, this has nothing to do with party level or difficulty. A Mortal Scale party can face an 8-tick boss; a Divine Scale party can face 2-tick minions.
 
-| CR | Track Length | Typical Use |
-|----|-------------|-------------|
-| 1 | 2 ticks | Quick encounters, minions |
-| 2 | 4 ticks | Standard encounters, balanced fights |
-| 3 | 6 ticks | Boss fights, major obstacles |
-| 4+ | 8+ ticks | Epic encounters, legendary entities |
+**Adversaries:**
 
-### Why They Don't Match
+| Name | Track Size | Typical Use |
+|------|-----------|-------------|
+| Minion | 2 ticks | Quick encounters, disposable foes |
+| Standard | 4 ticks | Competent opposition, balanced fights |
+| Elite | 6 ticks | Elite enemies, dangerous individuals |
+| Boss | 8-10 ticks | Epic encounters, set-piece combats |
 
-**Rank = defensive complexity. CR = fight duration.** They serve different purposes and combine freely.
+**Obstacles & Other Challenges:**
 
-**CR 4, Rank 1 — The Goblin King:**
-Long fight (8 ticks), but 0-1 Complications. Climactic finale for starting heroes — tough but not defensively complex.
+| Name | Track Size | Typical Use |
+|------|-----------|-------------|
+| Quick | 2 ticks | A locked door, a brief argument, a simple trap |
+| Standard | 4 ticks | A complex trap, a tense negotiation, a ritual |
+| Extended | 6 ticks | An investigation, a dangerous journey, a siege |
+| Grand | 8+ ticks | A political campaign, a sprawling dungeon, breaking a curse |
 
-**CR 1, Rank 3 — Demon Spawn Minions:**
-Quick to defeat (2 ticks), but 1-2 Complications each. Legendary heroes cutting through individually dangerous but fragile hordes.
+### Why Scale and Track Size Don't Match
 
-**CR 2, Rank 4 — Demigod Soldier:**
-Standard durability (4 ticks), but 1-3 Complications. Intensely dangerous but can be defeated in a single focused confrontation.
+**Scale = defensive complexity (Complications). Track size = fight duration.** They serve different purposes and combine freely.
+
+**8-tick, Mortal Scale — The Goblin King:**
+Long fight, but 0-1 Complications. Climactic finale for starting heroes — tough but not defensively complex.
+
+**2-tick, Mythic Scale — Demon Spawn Minions:**
+Quick to defeat, but 1-2 Complications each. Legendary heroes cutting through individually dangerous but fragile hordes.
+
+**4-tick, Divine Scale — Demigod Soldier:**
+Standard durability, but 1-3 Complications. Intensely dangerous but can be defeated in a single focused confrontation.
 
 ---
 
@@ -85,12 +96,12 @@ Represents physical damage and bodily defeat. When a Harm track fills, the adver
 
 **Marked by:** Clash (physical attacks), Defy when causing damage (shoving off a cliff, tripping into fire), environmental harm.
 
-| CR | Track Length | Examples |
-|----|-------------|----------|
-| 1 | 2 ticks | Goblins, bandits — one solid hit defeats them |
-| 2 | 4 ticks | Knights, veterans — requires sustained effort |
-| 3 | 6 ticks | Dragons, war trolls — extended combat |
-| Boss | 8-10 ticks | Legendary adversaries, climactic encounters |
+| Track Size | Examples |
+|-----------|----------|
+| 2 ticks | Goblins, bandits — one solid hit defeats them |
+| 4 ticks | Knights, veterans — requires sustained effort |
+| 6 ticks | Dragons, war trolls — extended combat |
+| 8-10 ticks | Legendary adversaries, climactic encounters |
 
 ### Will Track
 
@@ -253,12 +264,12 @@ This makes telegraphs meaningful — players *want* to avoid Challenge Moves, an
 
 ### Power Guidelines
 
-**CR 1-2 (Standard foes):**
+**Minion/Standard (2-4 ticks):**
 - 2 Stress single target
 - OR 1-2 Stress + Condition tier 1-2
 - Simple, straightforward effects
 
-**CR 3-4 (Elite/Boss):**
+**Elite/Boss (6+ ticks):**
 - 3 Stress single target (hard cap)
 - OR 2 Stress + Condition tier 2-3
 - OR Area effects (multiple targets, 1-2 Stress each)
@@ -296,8 +307,8 @@ Boss encounters should require **team coordination** and **multiple approaches**
 
 ### Elements of a Boss
 
-**High Rank + Multiple Complications:**
-- Rank 3-4 baseline
+**High Scale + Multiple Complications:**
+- Mythic or Divine Scale baseline
 - 2-3 Complications
 - At least one exploitable weakness
 
@@ -328,7 +339,7 @@ Telegraph the phase shift: "Something changes in its eyes..."
 ### Example Boss: Ancient Lich
 
 ```
-Ancient Lich (CR 4, Rank 4)
+Ancient Lich (Divine Scale)
 Suspense: 4
 Tracks: Harm 10, Will 8, Obstacle 6
   - Harm: Physical destruction (very durable undead body)
@@ -375,11 +386,11 @@ When the track fills, the group is defeated, scattered, or routed.
 
 ### Tier Scaling for Groups
 
-Grouping increases effective tier by +1:
+Grouping increases effective track size:
 
-- Single goblin (no track) → Goblin squad of 3-6 (CR 1, 2 ticks)
-- Single soldier (CR 1, 2 ticks) → Soldier squad of 4-6 (CR 2, 4 ticks)
-- Single veteran (CR 2, 4 ticks) → Veteran warband (CR 3, 6 ticks)
+- Single goblin (no track) → Goblin squad of 3-6 (2 ticks)
+- Single soldier (2 ticks) → Soldier squad of 4-6 (4 ticks)
+- Single veteran (4 ticks) → Veteran warband (6 ticks)
 
 Exact headcount is flexible — "a squad" might be 4 or 8. The track measures collective threat, not precise numbers.
 
@@ -411,11 +422,61 @@ Gives you fodder plus a spotlight enemy without overwhelming bookkeeping.
 
 ---
 
+## Linked Challenges
+
+Sometimes a Challenge has **sequential layers** — defeating one reveals or unlocks the next. Unlike multi-track Challenges (where any track can end the encounter), linked Challenges must be overcome in order.
+
+### How It Works
+
+Each layer is a separate track with its own properties. When the first fills, the next becomes active. The fiction drives the transition.
+
+### Example: Archmage's Defense
+
+```
+Phase 1 — Arcane Shield (Obstacle 6, Resilient + Warded)
+  Must be dismantled before the mage is vulnerable.
+  Exploitable: Channeling nodes (Sense to locate, Defy to disrupt)
+
+Phase 2 — The Archmage (Harm 4, no Complications)
+  Once exposed, the mage is fragile.
+  Challenge Moves: Teleport [□□], Counterspell [□□□]
+```
+
+**How this plays:** The first phase is defensively hard (2 Complications, 6 ticks) but the payoff is a vulnerable second phase. Players feel the reward for cracking the defense.
+
+### Example: Armored War Golem
+
+```
+Phase 1 — Outer Plating (Harm 4, Resilient)
+  Heavy armor absorbs blows.
+  Exploitable: Joints (targeting joints with Sense → Defy bypasses Resilient)
+
+Phase 2 — Exposed Core (Harm 4, Deadly)
+  Now fast and aggressive but unprotected.
+  Challenge Moves: Rampage (area attack), Overload [□] (self-destruct countdown)
+```
+
+### When to Use Linked Challenges
+
+- A foe transforms mid-fight (armor breaks, true form emerges)
+- A defense must be breached before the real threat is accessible
+- You want a dramatic "second wind" moment
+- The Challenge changes character between phases
+
+### Design Tips
+
+- Keep total tick count reasonable (8-12 across all phases for a boss)
+- Change the Complication profile between phases — this is what makes it feel different
+- Telegraph the transition: "Cracks spread across the shield — one more push..."
+- Each phase should reward different approaches or team roles
+
+---
+
 ## Running Multi-Challenge Scenes
 
 A single scene can contain multiple Challenges and tracks running simultaneously:
 
-- **Multiple Challenges:** 3 goblins (CR 1 group) + orc captain (CR 2, Resolute)
+- **Multiple Challenges:** 3 goblins (2-tick group) + orc captain (4 ticks, Resolute)
 - **Challenge + Countdown:** Lich (Harm 10) + Countdown "Phylactery ritual completes" (8 ticks)
 - **Multiple Tracks:** Progress "Navigate the labyrinth" (6 ticks) + Countdown "Minotaur finds you" (4 ticks)
 - **Layered Threats:** Boss fight (Harm track) + environmental hazard (Countdown) + hostages in danger
@@ -480,10 +541,10 @@ This signals to players:
 
 ### Design Steps
 
-1. **Pick CR** based on desired fight length (2 = standard, 3 = boss, 4+ = epic)
-2. **Pick Rank** based on narrative scope (determines Complication budget)
+1. **Pick Scale** based on narrative scope (determines Complication budget)
+2. **Pick track size** based on desired fight length (2 = minion, 4 = standard, 6 = elite, 8+ = boss)
 3. **Assign tracks** based on valid approaches (Harm, Will, Obstacle)
-4. **Choose Complications** based on Rank guidelines (tag them appropriately)
+4. **Choose Complications** based on Scale guidelines (tag them appropriately)
 5. **Design Challenge Moves** if significant (2-3 for bosses)
 6. **Set Challenge Suspense** (0 for minions, 1-2 for standard, 3-4 for bosses)
 7. **Add exploitable trait** (weakness players can discover and leverage)
@@ -501,23 +562,21 @@ This signals to players:
 
 **Concept:** Elite killer hired to eliminate the party's patron. Dangerous in combat, hard to pin down, favors hit-and-run tactics.
 
-**Step 1 — CR:** Significant boss-tier but beatable with coordination. **CR 2** (4-tick Harm).
+**Step 1 — Scale:** Legendary-tier threat requiring tactical thinking. **Mythic Scale** (allows 2-4 Complications).
 
-**Step 2 — Rank:** Legendary-tier threat requiring tactical thinking. **Rank 3** (allows 2-4 Complications).
+**Step 2 — Track Size:** Significant but beatable with coordination. **Harm 4, Will 6** (Standard adversary — disciplined but not immune to a better offer).
 
-**Step 3 — Tracks:** Can be fought physically (Harm) or negotiated with (Will). **Harm 4, Will 6** (disciplined but not immune to a better offer).
+**Step 3 — Complications:** Elite combatant with poisoned weapons (Deadly) + uses shadows and speed (Elusive). **Total: 2.**
 
-**Step 4 — Complications:** Elite combatant with poisoned weapons (Deadly) + uses shadows and speed (Elusive). **Total: 2.**
-
-**Step 5 — Challenge Moves:**
+**Step 4 — Challenge Moves:**
 - Poisoned Blade — Close range, 1 Stress + Poisoned 3 (unlimited)
 - Shadow Step [□□] — Teleport to Near/Far position (2 uses)
 - Smoke Bomb [□] — Create Smoke Cloud (Elusive) [□□□] (1 use)
 
-**Step 6 — Exploitable:** "Professional" — Can be bought off. Appeals to self-interest grant 1 Boon on Talk rolls.
+**Step 5 — Exploitable:** "Professional" — Can be bought off. Appeals to self-interest grant 1 Boon on Talk rolls.
 
 ```
-Drow Assassin (CR 2, Rank 3)
+Drow Assassin (Mythic Scale)
 Suspense: 2
 Tracks: Harm 4, Will 6
 Complications: Deadly, Elusive

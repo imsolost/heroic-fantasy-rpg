@@ -7,7 +7,7 @@ Heroes grow through play — gaining new abilities, broadening their competencie
 - Approach increases and caps
 - Talent acquisition (including cross-Calling and re-skinning)
 - Trait advancement
-- Rank (narrative scope at each tier)
+- Scale (narrative scope at each tier)
 - Retraining
 
 ---
@@ -20,16 +20,16 @@ Advancement happens when the GM awards a new level, typically after major story 
 
 | Level | Gain | Notes |
 |-------|------|-------|
-| **1** | **Start** | Calling (Core Talent + 1 additional Talent), 3 Traits, Rank 1 |
+| **1** | **Start** | Calling (Core Talent + 1 additional Talent), 3 Traits, Mortal Scale |
 | **2** | +1 Approach (cap 2), +1 Talent | |
 | **3** | +1 Approach (cap 3) | |
-| **4** | **Rank 2**, +1 Approach (cap 4), +1 Talent | Seasoned Adventurers |
+| **4** | **Heroic Scale**, +1 Approach (cap 4), +1 Talent | Seasoned Adventurers |
 | **5** | +1 Trait | |
 | **6** | +1 Approach (cap 2), +1 Talent | |
-| **7** | **Rank 3**, +1 Approach (cap 3) | Regional Legends |
+| **7** | **Mythic Scale**, +1 Approach (cap 3) | Regional Legends |
 | **8** | +1 Approach (cap 4), +1 Talent | |
 | **9** | +1 Approach (cap 5) | Legendary Approach |
-| **10** | **Rank 4**, +1 Trait, +1 Talent | Mythic Heroes |
+| **10** | **Divine Scale**, +1 Trait, +1 Talent | Mythic Heroes |
 
 The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a second "broaden, then specialize" cycle, ensuring characters keep developing breadth even after their first push toward specialization.
 
@@ -37,12 +37,12 @@ The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a
 
 ### Power Curve Summary
 
-| Level | Approaches | Talents | Traits | Rank |
-|-------|-----------|---------|--------|------|
-| 1 | 3/2/1/1/0 (7 pts) | 2 | 3 | 1 — Local Heroes |
-| 4 | ~4/3/2/1/0 (10 pts) | 4 | 3 | 2 — Seasoned Adventurers |
-| 7 | ~4/3/3/2/0 (12 pts) | 6 | 4 | 3 — Regional Legends |
-| 10 | ~5/4/3/2/0 (14 pts) | 7 | 5 | 4 — Mythic Heroes |
+| Level | Approaches | Talents | Traits | Scale |
+|-------|-----------|---------|--------|-------|
+| 1 | 3/2/1/1/0 (7 pts) | 2 | 3 | Mortal — Local Heroes |
+| 4 | ~4/3/2/1/0 (10 pts) | 4 | 3 | Heroic — Seasoned Adventurers |
+| 7 | ~4/3/3/2/0 (12 pts) | 6 | 4 | Mythic — Regional Legends |
+| 10 | ~5/4/3/2/0 (14 pts) | 7 | 5 | Divine — Mythic Heroes |
 
 ---
 
@@ -88,7 +88,7 @@ When you gain a Talent, choose from your Calling's Talent list (see Chapter 9).
 
 You may choose **additional Talents** from other Callings if they fit your character's story. **Core Talents cannot be taken across Callings** — they define each archetype's unique identity.
 
-**Limit:** At most one Talent per Rank may be from another Calling. (Over a full campaign reaching Rank 4, you can acquire up to 4 cross-Calling Talents total.)
+**Limit:** At most one Talent per Scale tier may be from another Calling. (Over a full campaign reaching Divine Scale, you can acquire up to 4 cross-Calling Talents total.)
 
 Explain how your character learned these abilities through training, mentorship, or life experience.
 
@@ -149,22 +149,22 @@ New Traits follow the same rules as starting Traits — specific, evocative, 30-
 
 ---
 
-## Rank: Narrative Scope
+## Scale: Narrative Scope
 
-**Rank represents the scale and genre of challenges your character faces.** It grants narrative permission for feats appropriate to your power level but does not add mechanical modifiers to rolls.
+**Scale represents the genre and scope of challenges your character faces.** It grants narrative permission for feats appropriate to your power level but does not add mechanical modifiers to rolls.
 
-Rank increases at Level 4 (Rank 2), Level 7 (Rank 3), and Level 10 (Rank 4).
+Scale advances at Level 4 (Heroic), Level 7 (Mythic), and Level 10 (Divine).
 
-| Rank | Genre | Scale | Tone |
-|------|-------|-------|------|
-| **1** | Grounded Fantasy | Village/local | Realistic struggle, mundane threats feel dangerous |
-| **2** | Heroic Fantasy | City/regional | Peak mortal capability, action-hero competence |
-| **3** | Mythic Fantasy | Regional/national | Superhuman feats, physics-defying |
-| **4** | Demigod Fantasy | World-shaping | Reality-warping, threshold of divinity |
+| Scale | Genre | Scope | Tone |
+|-------|-------|-------|------|
+| **Mortal** | Grounded Fantasy | Village/local | Realistic struggle, mundane threats feel dangerous |
+| **Heroic** | Heroic Fantasy | City/regional | Peak mortal capability, action-hero competence |
+| **Mythic** | Mythic Fantasy | Regional/national | Superhuman feats, physics-defying |
+| **Divine** | Demigod Fantasy | World-shaping | Reality-warping, threshold of divinity |
 
 ---
 
-### Rank 1: Local Heroes (Levels 1-3)
+### Mortal Scale: Local Heroes (Levels 1-3)
 
 **Genre:** Exceptional mortals — the greatest heroes a real-world legend might plausibly produce.
 
@@ -181,7 +181,7 @@ Rank increases at Level 4 (Rank 2), Level 7 (Rank 3), and Level 10 (Rank 4).
 
 ---
 
-### Rank 2: Seasoned Adventurers (Levels 4-6)
+### Heroic Scale: Seasoned Adventurers (Levels 4-6)
 
 **Genre:** Action heroes — impossible competence that exceeds human limits while remaining grounded in mortal achievement.
 
@@ -198,11 +198,11 @@ Rank increases at Level 4 (Rank 2), Level 7 (Rank 3), and Level 10 (Rank 4).
 
 **Tone:** Beyond human capability — we suspend disbelief because of the genre. They exceed what any real person could accomplish, but through extraordinary skill and determination, not supernatural power.
 
-**Key distinction:** A Rank 2 swordmaster defeats a dozen soldiers through superior technique and timing — not by throwing them across the room with one blow.
+**Key distinction:** A Heroic Scale swordmaster defeats a dozen soldiers through superior technique and timing — not by throwing them across the room with one blow.
 
 ---
 
-### Rank 3: Regional Legends (Levels 7-9)
+### Mythic Scale: Regional Legends (Levels 7-9)
 
 **Genre:** Mythic heroes — physics-defying champions whose deeds become folklore.
 
@@ -219,11 +219,11 @@ Rank increases at Level 4 (Rank 2), Level 7 (Rank 3), and Level 10 (Rank 4).
 
 **Tone:** These heroes have crossed the threshold into the mythological — their feats are impossible by mortal standards.
 
-**Key distinction from Rank 2:** Rank 2 heroes push the limits of believability while remaining recognizably mortal. Rank 3 heroes openly violate physics and enter the realm of myth.
+**Key distinction from Heroic:** Heroic Scale heroes push the limits of believability while remaining recognizably mortal. Mythic Scale heroes openly violate physics and enter the realm of myth.
 
 ---
 
-### Rank 4: Mythic Heroes (Level 10)
+### Divine Scale: Demigod Heroes (Level 10)
 
 **Genre:** Demigods — world-shaping figures whose actions alter history.
 
@@ -242,26 +242,26 @@ Rank increases at Level 4 (Rank 2), Level 7 (Rank 3), and Level 10 (Rank 4).
 
 ---
 
-### How Rank Works in Play
+### How Scale Works in Play
 
-**Rank does NOT:**
+**Scale does NOT:**
 - Add mechanical bonuses to rolls
 - Change outcome tiers
-- Grant automatic Complications against higher-Rank foes
+- Grant automatic Complications against higher-Scale foes
 - Override the need for good fictional positioning
 
-**Rank DOES:**
+**Scale DOES:**
 - Define what you can attempt without special preparation
 - Help the GM set appropriate challenge difficulty
-- Determine when rolls are necessary (auto-success below your Rank)
-- Scale the fiction (distance, influence, durability)
+- Determine when rolls are necessary (auto-success below your Scale)
+- Shape the fiction (distance, influence, durability)
 - Grant narrative permission for extraordinary feats
 
-**Facing challenges above your Rank:** You can attempt them, but may need multiple steps, allies, preparation, or special resources.
+**Facing challenges above your Scale:** You can attempt them, but may need multiple steps, allies, preparation, or special resources.
 
-**Facing challenges below your Rank:** Often auto-succeed without rolling, unless complications make it interesting (hostage, time pressure, stealth constraint).
+**Facing challenges below your Scale:** Often auto-succeed without rolling, unless complications make it interesting (hostage, time pressure, stealth constraint).
 
-**Rank applies equally to magic.** A Rank 2 spellcaster cannot achieve Rank 4 effects simply because they wield supernatural power. See Chapter 10 for magical scaling by Rank.
+**Scale applies equally to magic.** A Heroic Scale spellcaster cannot achieve Divine Scale effects simply because they wield supernatural power. See Chapter 10 for magical scaling by Scale.
 
 ---
 
@@ -271,7 +271,7 @@ Rank increases at Level 4 (Rank 2), Level 7 (Rank 3), and Level 10 (Rank 4).
 
 **Talents are the primary reward.** Each Talent meaningfully changes how you play, not just how big your numbers are. Advancement adds *options*, not just *power*.
 
-**Rank is genre, not math.** Separating narrative scope from dice modifiers means a Rank 3 hero still faces meaningful tension — their challenges are simply bigger, not easier.
+**Scale is genre, not math.** Separating narrative scope from dice modifiers means a Mythic Scale hero still faces meaningful tension — their challenges are simply bigger, not easier.
 
 **Retraining respects fiction.** Characters change through play. Locking you into Level 1 choices forever would punish the kind of character growth the game is built to produce.
 

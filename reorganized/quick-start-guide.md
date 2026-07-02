@@ -227,7 +227,7 @@ From your Calling's Talent list, choose 2. Talents give you special abilities, E
 
 - **Stress Track:** 5 boxes (mark when you suffer harm or push yourself)
 - **Momentum Cap:** 2 (increases to 3 with certain Talents)
-- **Rank:** 1 (Local Heroes—you're skilled, but not legendary yet)
+- **Scale:** Mortal (Local Heroes—you're skilled, but not legendary yet)
 
 **You're ready to play!**
 

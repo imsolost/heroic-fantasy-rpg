@@ -55,7 +55,7 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 
 ### Part 2: Your Character (Chapters 7-10)
 - [x] 07-character-creation.md - ✅ Complete (7-step process, Drive, Connections)
-- [x] 08-advancement.md - ✅ Complete (levels, Approaches, Talents, Rank)
+- [x] 08-advancement.md - ✅ Complete (levels, Approaches, Talents, Scale)
 - [x] 09-callings.md - ✅ Complete (6 Callings, Core/Additional Talents, background questions)
 - [x] 10-spellcasting.md - ✅ Complete (Spheres, Domains, magnitude, rituals)
 
@@ -65,7 +65,7 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 - [x] 13-challenges.md - ✅ Complete (Complication tags, tracks, boss design, group tracking)
 - [x] 14-running-scenes.md - ✅ Complete (Investigation, social conflict, battlegrounds)
 - [x] 15-combat.md - ✅ Complete (Spotlight, zones, maneuvers, epic foes, Suspense in combat)
-- [x] 16-advancement-gm.md - ✅ Complete (Milestones, pacing, Rank transitions)
+- [x] 16-advancement-gm.md - ✅ Complete (Milestones, pacing, Scale transitions)
 
 ### Part 4: Reference
 - [ ] vantage-reference.md

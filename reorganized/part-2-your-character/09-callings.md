@@ -317,7 +317,7 @@ You have Expertise when designing, preparing, modifying, or improvising rituals.
 Choose a Sphere of Power. You learn two Spell Theorems in that Sphere. Push Yourself to perform a Potent feat of magical theory within it — effects of unusual scale, precision, or permanence that exceed normal theorem limits.
 
 **Spell Codex**
-When you take this Talent, learn a number of Spell Theorems equal to your current Rank. Each time you advance to a new Rank, learn 1 additional Spell Theorem. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval).
+When you take this Talent, learn a number of Spell Theorems equal to your current Scale tier (Mortal = 1, Heroic = 2, Mythic = 3, Divine = 4). Each time you advance to a new Scale, learn 1 additional Spell Theorem. Additionally, when you witness a spell being cast or discover written magical formulae during play, you may spend a Long Rest studying it to add it to your repertoire (with GM approval).
 
 **Theoretical Genius**
 When you use Arcane Formula, you may ask before rolling: "What is the greatest risk of this improvised spell?" The GM answers honestly. Push Yourself to reduce one consequence of magical experimentation — limiting the fallout without eliminating it entirely.
@@ -456,7 +456,7 @@ You can hold ground that should be indefensible. You have Expertise when holding
 - Core Talents from other Callings cannot be taken — they define each archetype's identity
 
 ### Cross-Calling Talents
-You may choose Additional Talents from other Callings if they fit your character's story (at most one per Rank — see Chapter 8). Explain how you learned these abilities through training, mentorship, or life experience.
+You may choose Additional Talents from other Callings if they fit your character's story (at most one per Scale tier — see Chapter 8). Explain how you learned these abilities through training, mentorship, or life experience.
 
 **Examples:**
 - A Champion trains with a Hunter mentor → gains **Wilderness Survivor**

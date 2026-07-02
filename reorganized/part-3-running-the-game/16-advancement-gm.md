@@ -2,7 +2,7 @@
 
 > *Award levels based on narrative milestones, not session count.*
 
-Chapter 8 covers what players gain at each level. This chapter covers the GM's side — *when* to award levels, how to pace advancement across campaigns, and what changes when the party reaches a new Rank.
+Chapter 8 covers what players gain at each level. This chapter covers the GM's side — *when* to award levels, how to pace advancement across campaigns, and what changes when the party reaches a new Scale.
 
 ---
 
@@ -10,8 +10,8 @@ Chapter 8 covers what players gain at each level. This chapter covers the GM's s
 
 - When to award levels (milestone-based)
 - Campaign pacing by length
-- Managing Rank transitions
-- What changes at each Rank
+- Managing Scale transitions
+- What changes at each Scale
 - End of session questions (optional)
 
 ---
@@ -27,16 +27,16 @@ Chapter 8 covers what players gain at each level. This chapter covers the GM's s
 - Establishing yourselves as competent heroes
 - Typically 2-4 sessions of play
 
-**Level 4 (Rank 2):** After proving yourself exceptional.
+**Level 4 (Heroic Scale):** After proving yourself exceptional.
 - Defeating a dangerous beast, exposing a conspiracy, winning a tournament
 - Completing multiple adventures that demonstrate mastery
-- This is a significant milestone — Rank 2 changes the game's scope
+- This is a significant milestone — Heroic Scale changes the game's scope
 
 **Levels 5-6:** After multiple regional adventures.
 - Building reputation, gaining allies, facing increasingly dangerous threats
 - Operating at a scale where your name is known beyond your starting location
 
-**Level 7 (Rank 3):** After your first truly legendary feat.
+**Level 7 (Mythic Scale):** After your first truly legendary feat.
 - Slaying a young dragon, stopping a regional disaster, achieving something that enters folklore
 - The world starts treating you as more than mortal
 - Another major scope shift
@@ -45,7 +45,7 @@ Chapter 8 covers what players gain at each level. This chapter covers the GM's s
 - Facing legendary monsters, shaping regional politics, performing impossible feats
 - Operating at the highest tiers of power in the setting
 
-**Level 10 (Rank 4):** Campaign climax.
+**Level 10 (Divine Scale):** Campaign climax.
 - Facing the demon lord, ancient dragon, archlich, or world-ending threat
 - Achieving apotheosis or becoming legend
 - The final milestone for most campaigns
@@ -70,7 +70,7 @@ Different campaign lengths demand different advancement speeds.
 ### Short Campaign (10-15 sessions)
 
 - Award levels every 1-2 sessions
-- Reach Level 5-6, ending at Rank 2
+- Reach Level 5-6, ending at Heroic Scale
 - Fast-paced, pulpy, action-heavy
 - Players experience steady power growth
 - Best for: One-shots chained together, short arcs, focused stories
@@ -78,7 +78,7 @@ Different campaign lengths demand different advancement speeds.
 ### Medium Campaign (20-30 sessions)
 
 - Award levels every 2-3 sessions
-- Reach Level 8-9, experience Rank 3
+- Reach Level 8-9, experience Mythic Scale
 - Balanced pacing, time to explore each tier
 - Most common campaign type
 - Best for: Multi-arc stories, region-spanning adventures
@@ -86,26 +86,26 @@ Different campaign lengths demand different advancement speeds.
 ### Long Campaign (40+ sessions)
 
 - Award levels every 3-5 sessions
-- Reach Level 10, experiencing all four Ranks
+- Reach Level 10, experiencing all four Scales
 - Slow burn with time to live in each tier
-- Players deeply inhabit each Rank before ascending
+- Players deeply inhabit each Scale before ascending
 - Best for: Epic sagas, world-shaping narratives, sandbox campaigns
 
 ### Pacing Principles
 
 **Early levels should come faster.** The jump from "nobody" to "competent hero" is exciting and motivating. Don't make players wait 5 sessions to feel like their character has grown.
 
-**Later levels should come slower.** Higher Ranks represent transformative growth — the shift from "action hero" to "mythological figure" should feel earned across multiple significant accomplishments.
+**Later levels should come slower.** Higher Scales represent transformative growth — the shift from "action hero" to "mythological figure" should feel earned across multiple significant accomplishments.
 
 **It's okay to vary the pace.** If the party just accomplished something enormous, award a level even if it's "early." If they're in the middle of a slow-burn investigation arc, hold the level until a satisfying resolution.
 
 ---
 
-## Managing Rank Transitions
+## Managing Scale Transitions
 
-Rank transitions are the biggest shifts in play. When the party reaches Rank 2, 3, or 4, the *kind* of game changes — not just the numbers.
+Scale transitions are the biggest shifts in play. When the party reaches Heroic, Mythic, or Divine Scale, the *kind* of game changes — not just the numbers.
 
-### Rank 1 → Rank 2 (Level 4): From Local to Regional
+### Mortal → Heroic Scale (Level 4): From Local to Regional
 
 **What changes in the fiction:**
 - Threats scale from village problems to regional conspiracies
@@ -125,11 +125,11 @@ Rank transitions are the biggest shifts in play. When the party reaches Rank 2, 
 - Use Will tracks more — social conflicts become viable scene-length encounters
 - Start using Countdown tracks to create time pressure across sessions
 
-### Rank 2 → Rank 3 (Level 7): The Mythological Threshold
+### Heroic → Mythic Scale (Level 7): The Mythological Threshold
 
 **What changes in the fiction:**
 - Heroes exceed real-world capability — feats feel superhuman
-- A Rank 2 Champion defeats dozens of soldiers. A Rank 3 Champion throws ten across the room with one blow.
+- A Heroic Scale Champion defeats dozens of soldiers. A Mythic Scale Champion throws ten across the room with one blow.
 - The world treats them as more-than-mortal
 - Threats are legendary in scope (dragons, ancient evils, planar incursions)
 
@@ -137,7 +137,7 @@ Rank transitions are the biggest shifts in play. When the party reaches Rank 2, 
 - Primary Approaches push to 4-5 (massive dice pools)
 - Potent Actions become more common (more Talents granting them)
 - Characters have enough Talents to handle most situations
-- Fights against Rank 1-2 threats become trivial
+- Fights against Mortal or Heroic Scale threats become trivial
 
 **GM adjustment:**
 - Challenges need 2-3 Complications to remain threatening
@@ -146,7 +146,7 @@ Rank transitions are the biggest shifts in play. When the party reaches Rank 2, 
 - Focus on what they *choose* to do, not whether they *can*
 - Let them feel powerful — then threaten what power can't protect (loved ones, innocents, moral dilemmas)
 
-### Rank 3 → Rank 4 (Level 10): Mythic Heroes
+### Mythic → Divine Scale (Level 10): Demigod Heroes
 
 **What changes in the fiction:**
 - These are demigod-tier characters — the stuff of legends
@@ -185,13 +185,13 @@ These are **optional**. Some groups prefer pure narrative milestones (GM judgmen
 
 **Leveling too slowly.** Players lose motivation if growth feels glacially slow. If it's been 4-5 sessions with no advancement and the table energy is flagging, it's time for a milestone.
 
-**Leveling too fast.** If players never spend time at a Rank long enough to explore it, advancement feels hollow. Rank 2 should last long enough for them to feel *good* at it before Rank 3 changes everything.
+**Leveling too fast.** If players never spend time at a Scale long enough to explore it, advancement feels hollow. Heroic Scale should last long enough for them to feel *good* at it before Mythic Scale changes everything.
 
-**Treating all levels equally.** Rank transitions (4, 7, 10) are bigger deals than intermediate levels (2, 3, 5, 6). Mark them with significant narrative moments — not "you rest at an inn and wake up stronger."
+**Treating all levels equally.** Scale transitions (Levels 4, 7, 10) are bigger deals than intermediate levels (2, 3, 5, 6). Mark them with significant narrative moments — not "you rest at an inn and wake up stronger."
 
 **Letting advancement eclipse narrative.** If players are optimizing for "what gets us XP" rather than "what's interesting for our characters," the advancement incentives are wrong. Switch to pure narrative milestones.
 
-**Forgetting Rank changes the game.** A Rank 1 campaign that reaches Rank 3 needs different challenges, different stakes, and different narrative framing. If you're still running "bandits threaten a village" at Rank 3, the game will feel stale regardless of how high the Approach ratings are.
+**Forgetting Scale changes the game.** A Mortal Scale campaign that reaches Mythic Scale needs different challenges, different stakes, and different narrative framing. If you're still running "bandits threaten a village" at Mythic Scale, the game will feel stale regardless of how high the Approach ratings are.
 
 ---
 

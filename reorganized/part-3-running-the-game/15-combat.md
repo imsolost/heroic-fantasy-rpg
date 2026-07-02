@@ -48,12 +48,17 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 | To adjacent zone (Near) | Part of your action — but moving and acting generally reduces your Vantage |
 | To distant zone (Far) | Full action, Defy to arrive safely |
 | Through enemy zones | Always requires a Defy roll |
+| Through hazards or obstacles | Always requires a Defy roll |
 
 **Moving Near + acting:** You can move to an adjacent zone and take an action (Clash, Defy, Talk, etc) in the same spotlight pass. The GM factors the movement into your Vantage — charging across open ground toward an archer is Limited Vantage; stepping from cover into an adjacent melee is Standard. Describe your approach and the fiction determines the assessment.
 
 **Moving Far:** Reaching a distant zone takes your entire action. Roll Defy — normal outcomes apply.
 
 **Moving through enemy zones:** Enemies try to intercept or block. Always requires a Defy roll regardless of distance.
+
+**Moving through hazards:** Leaping a chasm, crossing a burning floor, or pushing through a barricade requires a Defy roll regardless of distance.
+
+**Difficult Terrain:** Zones with dense undergrowth, deep mud, rubble, or similar obstacles reduce your movement by one step — Near becomes your full action, Far is impossible without a Talent.
 
 ### Positioning and Vantage
 

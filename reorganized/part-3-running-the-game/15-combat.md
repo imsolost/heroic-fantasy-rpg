@@ -20,30 +20,13 @@ This chapter adds tactical depth to combat — spotlight rotation, zones, maneuv
 
 ## Turn Structure
 
-There is **no formal initiative system**. The GM follows the spotlight based on fiction — who's in danger, who just acted, whose turn feels dramatically right.
+There is **no formal initiative system**. The GM assigns spotlight based on fiction and dramatic pacing (see **Chapter 12: Spotlight Management** for full guidance).
 
-**Default rotation:** Ask individual PCs based on the fiction:
-- Who's in immediate danger?
-- Who just triggered a response?
-- Whose turn feels right dramatically?
-
-**When uncertain:** Go clockwise around the table.
-
-**When urgent:** Spend Suspense to Seize Initiative — an enemy acts immediately, interrupting the spotlight.
-
-### Player Option: Seize Spotlight
-
-Spend 1 Momentum to act immediately, interrupting the current spotlight (see **Chapter 5**). This is your normal turn — it doesn't grant an extra action later.
-
-**Timing:** Declare at any time when another PC has the spotlight or when an enemy is about to act (after a Suspense Move but before an Impact Move resolves).
-
-**Example:** Kael sees the orc warboss winding up for a devastating attack on Mira. He spends 1 Momentum to Seize Spotlight and intercepts the blow.
-
-### GM Option: Seize Initiative
-
-**Cost:** 1-2 Suspense
-
-An enemy acts immediately, interrupting the current spotlight. Use this to create urgency and make combat feel dynamic.
+**Quick reference:**
+- Give spotlight to whoever is in danger, just triggered a response, or whose turn feels dramatically right
+- When uncertain, go clockwise
+- **Seize Spotlight** (1 Momentum): PC acts immediately, interrupting the order (see Chapter 5)
+- **Seize Initiative** (1-2 Suspense): Enemy acts immediately, interrupting the order
 
 ---
 
@@ -65,26 +48,34 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 **Moving through enemy zones:** Always requires a Defy roll — enemies try to intercept or block.
 
-### Positioning Benefits
+### Positioning and Vantage
 
-The GM grants Boons or imposes Banes based on fictional positioning:
+Position is one of the factors the GM considers when assessing Vantage (see Chapter 2). Strong positioning improves your Vantage; poor positioning worsens it.
 
-**Advantageous (Boon):**
-- High ground
-- Cover from ranged attacks
-- Flanking an enemy with an ally
-- Superior terrain (stable vs. slippery)
+**Factors that improve Vantage:**
+- High ground, cover, flanking with an ally, superior terrain
 
-**Disadvantageous (Bane):**
-- Surrounded
-- Pinned down or cornered
-- Poor footing (narrow ledge, debris, ice)
-- Exposed to multiple threats
+**Factors that worsen Vantage:**
+- Surrounded, pinned down, poor footing, exposed to multiple threats
 
-### Ranged Attacks
+This isn't a separate system — it's the same Vantage assessment the GM always makes, applied to the spatial fiction of combat.
 
-- **Close/Near:** No penalty with clear line of sight
-- **Far:** 1 Complication unless weapon has "Long Range"
+### Weapon Range
+
+Weapons have a natural range (Close, Near, or Far). Using a weapon outside its range affects your Vantage:
+
+| Weapon Type | Close | Near | Far |
+|-------------|-------|------|-----|
+| **Melee** (sword, axe) | Standard + Strong vs. non-melee | Impossible | Impossible |
+| **Short Range** (thrown, pistol) | Limited | Standard | Impossible |
+| **Long Range** (bow, crossbow) | Impossible | Standard | Limited |
+
+**Key interactions:**
+- Melee weapons grant **Strong Vantage** against foes without a melee weapon of their own (knife-fight advantage)
+- Long range weapons **cannot fire in melee** — too unwieldy at Close range
+- Short range weapons work at Close range but are awkward (Limited)
+
+> **Simple default:** If weapon range isn't important to your table, just use Limited Vantage at Far range and ignore the rest.
 
 ### When to Use Zones
 
@@ -116,7 +107,7 @@ Many maneuvers map directly to Defy's established outcomes:
 - **Create Advantage:** Expose weakness, blind with sand, distract
 - **Change Situation:** Kick brazier, trigger trap, create cover
 
-### Special Effects Add Extra
+### Special Effects Add Something Extra
 
 On Conflict or better, a relevant Trait can add a Special Effect on top of your primary intent:
 
@@ -162,35 +153,22 @@ All standard teamwork mechanics (Assist, Push Yourself, Build Momentum) work in 
 
 ## Suspense in Combat
 
-Suspense is a visible GM resource that creates dynamic enemy action. See **Chapter 12** for complete Suspense rules. Here's how it works specifically in combat.
+Suspense works in combat exactly as described in **Chapter 12** — the same earn/spend rules apply. Key combat-specific notes:
 
-### Starting Suspense
+**Earning:** Suspense Moves in combat usually take the form of telegraphing an attack or describing the environment shifting. Skipping a prompted Impact Move (letting a Conflict consequence slide) also earns +1.
 
-Use whatever Suspense you have when combat begins (session starts at 2, modified by Suspense Moves and rests). Powerful foes bring their own Challenge-specific Suspense (built into their stat block).
-
-### Earning Suspense in Combat
-
-- Make a Suspense Move (telegraph an incoming attack, describe the environment shifting) → +1
-- Skip a prompted Impact Move (let a Conflict consequence slide — for now) → +1
-
-### Spending Suspense in Combat
-
+**Spending in combat typically looks like:**
+- **Impact Move (1-2 Suspense):** Deliver a consequence when no PC roll prompted it
 - **Seize Initiative (1-2 Suspense):** Enemy acts immediately, interrupting spotlight
-- **Activate Challenge Move (1-3 Suspense):** Trigger signature ability (area attack, summon reinforcements, powerful effect)
-- **Escalate (1 Suspense):** Environment shifts (fire spreads, ceiling collapses, storm intensifies)
+- **Challenge Move (1-3 Suspense):** Trigger signature ability (area attack, summon reinforcements)
+- **Escalate (1 Suspense):** Environment shifts (fire spreads, ceiling collapses)
 
-### Example
-
+**Example:**
 > **GM:** "The orc captain raises his shield and bellows a war cry — his lieutenants tense up, ready to charge." *(Suspense Move: telegraph danger, earn +1 Suspense)*
 >
 > Next round — **GM:** "I'm spending 2 Suspense. The captain's lieutenants charge from the treeline, straight at Mira. What do you do?"
 
-### Why It Works
-
-- The GM must telegraph before striking — warnings are what fund attacks
-- Visible pool makes escalation transparent ("GM has 3 Suspense — something is coming")
-- Powerful foes bring their own Suspense, ensuring boss fights have teeth regardless of PC luck
-- Spending feels earned — players watched you build it
+Powerful foes bring their own Challenge-specific Suspense (in their stat block), ensuring boss fights have teeth regardless of the session's Suspense state.
 
 ---
 
@@ -207,7 +185,7 @@ When PCs first engage, each rolls Defy with Spirit:
 
 **Example:** Dragon, demon lord, ancient vampire.
 
-### Legendary Actions
+### Cinematic Actions
 
 GM spends 1-2 Suspense between PC actions to trigger an extra enemy action. Represents exceptional speed and power.
 
@@ -261,15 +239,14 @@ When defeated, the foe triggers one final action:
 - **Vary encounter length.** If last fight was 20 minutes, make the next one 5 minutes. If players just had a brutal boss, give them a quick minion cleanup to feel powerful.
 - **Use environment.** Every fight should have at least one Feature or Threat players can interact with. Empty rooms are boring rooms.
 
-### Tracking Enemy Debuffs
+### Conditions on Enemies
 
-When players place debuffs or Conditions on enemies, allies gain 1 Boon on actions against that target.
+Enemies use the same Condition system as PCs. Since enemies don't roll dice, their Conditions tick down when a PC makes a relevant action roll against them.
 
-**Duration:**
-- Normal spell/Secondary Effect: 1-2 ally actions (GM decides)
-- Potent Spell with duration: All ally actions this scene
+- **Blinded Orc:** PCs gain 1 Boon when attacking. Ticks down each time a PC attacks it.
+- **Frightened Captain:** PCs gain 1 Boon on Talk/Clash (intimidation). Ticks down each time a PC targets it socially.
 
-**Tracking:** Write the debuff and remaining count near the enemy token. Tick down after each ally action that uses the advantage.
+**Duration:** Standard Conditions (from Secondary Effects, spells) last 1-2 relevant PC actions. Potent effects or scene-long durations last until the scene ends or the fiction changes.
 
 ---
 
@@ -283,17 +260,17 @@ When players place debuffs or Conditions on enemies, allies gain 1 Boon on actio
 - **Ryn** uses Sense on the Warboss → Triumph → Spots exposed shoulder, gains Momentum, asks questions about weaknesses
 
 **Round 2:**
-- **Kael** spends Momentum to Seize Spotlight, exploits Ryn's discovery → Clash → Success → 2 ticks on Warboss (weakness bypasses Resilient)
+- **Kael** spends Momentum to Seize Spotlight, exploits Ryn's discovery → Clash → Success → 1 tick on Warboss (weakness grants Edge, bypasses Resilient — outcome stays Success rather than reduced to Conflict)
 - **Warboss** counterattacks (Impact Move) → Kael Defies with Mira's Assist (she marks 1 Stress for Boon) → Success → Clean dodge
-- **Ryn** backstabs Warboss → Success → 2 ticks (4/8 total)
+- **Ryn** backstabs Warboss → Conflict + invokes "Gutter Knife Artist" → Enhanced Effect (Greater) → 2 ticks (4/8 total), mark 1 Stress
 
 **Round 3:**
 - Remaining orcs engage Mira → She Defies → Conflict → Mark 1 Stress
-- **Mira** Clashes orc → Triumph → Remaining orcs drop, gains Momentum
-- **Kael** attacks Warboss → Success → 2 ticks (6/8)
+- **Mira** Clashes orc squad → Triumph → Enhanced Effect (Broad) → Remaining orcs drop, gains Momentum
+- **Kael** attacks Warboss → Success + invokes "Veteran of the Iron Wars" → Enhanced Effect (Greater) → 2 ticks (6/8)
 
 **Round 4:**
-- **Kael** finishing blow → Conflict → 2 ticks (8/8, defeated) + Mark 1 Stress from dying strike
+- **Kael** finishing blow → Conflict + invokes Trait → Enhanced Effect (Greater) → 2 ticks (8/8, defeated) + Mark 1 Stress from dying strike
 - **Death Move:** Warboss curses Kael → Defy → Conflict → Cursed 1
 
 **End result:** Kael 4/5 Stress + Cursed 1, Mira 2/5 Stress, Ryn unscathed.

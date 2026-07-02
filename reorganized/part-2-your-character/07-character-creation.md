@@ -61,7 +61,7 @@ There's no wrong assignment — your Approaches will grow through advancement (s
 
 ## Step 3: Traits
 
-Choose **3 Traits** — evocative narrative descriptors that define who your character is. When a Trait is relevant to your action, you gain a Special Effect (see Chapter 6).
+Choose **3 Traits** — evocative narrative descriptors that define who your character is. When a Trait is relevant and you roll Conflict or better, you gain a Special Effect (see Chapter 6).
 
 **A useful framework:**
 

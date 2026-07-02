@@ -456,22 +456,8 @@ You can hold ground that should be indefensible. You have Expertise when holding
 - Core Talents from other Callings cannot be taken — they define each archetype's identity
 
 ### Cross-Calling Talents
-You may choose Additional Talents from other Callings if they fit your character's story (at most one per Scale tier — see Chapter 8). Explain how you learned these abilities through training, mentorship, or life experience.
 
-**Examples:**
-- A Champion trains with a Hunter mentor → gains **Wilderness Survivor**
-- A Shadow studying with mystics → gains **Spirit Walker**
-- A Sage taking up the sword → gains **Fearsome Presence**
-
-### Re-Skinning Talents
-You're encouraged to re-skin Talents to fit your character's theme. The mechanical effect stays the same; the fictional description changes.
-
-**Examples:**
-- **Battleborn** (Champion) → **Arcane Fortitude** (Sage): Edge on Defy in battle through magical shields
-- **Iron Bulwark** (Vanguard) → **Guardian Spirit** (Mystic): Redirect ally Stress through divine intervention
-- **Ghost** (Shadow) → **Ethereal Step** (Mystic): Expertise in stealth through spiritual phasing
-
-Work with your GM to ensure re-skinned Talents fit the fiction.
+At most one Talent per Scale tier may come from another Calling. See **Chapter 8: Talent Advancement** for full rules, limits, and re-skinning guidance.
 
 ---
 

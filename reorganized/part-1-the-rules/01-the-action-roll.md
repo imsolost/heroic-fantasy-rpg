@@ -43,7 +43,7 @@ Make an Action Roll when a character faces a situation that is **uncertain, risk
 - Failure would just stall progress without adding drama
 - The character lacks fundamental capability to attempt the action
 
-These principles are built into **Vantage assessment** (see Chapter 2). When the GM assesses your Vantage as **Certain**, no Action Roll is needed—the outcome is clear. When your Vantage is **Impossible**, you can't attempt this action with this approach.
+These principles are built into **Vantage assessment** (see Chapter 3). When the GM assesses your Vantage as **Certain**, no Action Roll is needed—the outcome is clear. When your Vantage is **Impossible**, you can't attempt this action with this approach.
 
 **See Chapter 2 for worked examples** of when to roll vs. when to say yes.
 
@@ -105,7 +105,8 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 
 **Common Bane sources:**
 - **Limited Vantage:** Imposes 1-2 Banes - see Chapter 2
-- **Conditions:** Each Condition applies 1 Bane to relevant actions - see Chapter 4
+- **Conditions:** Each active Condition applies 1 Bane to relevant actions - see Chapter 4
+- **Burdens:** Each Burden applies 1 Bane to relevant actions (same as Conditions) - see Chapter 4
 
 **Note:** Unfavorable circumstances (poor tools, bad positioning, hostile environment) are factored into **Vantage assessment**, not applied as separate Banes. If circumstances are unfavorable, the GM assesses Limited Vantage, which imposes Banes.
 
@@ -193,7 +194,7 @@ Your highest die determines one of four outcomes:
 
 - You accomplish your intent completely
 - **Gain 1 Momentum** (see Chapter 5)
-- **Ignore all Complications** (see Chapter 2)
+- **Ignore all Complications** (see Chapter 3)
 
 **You need to actually roll two 6s**—Triumph cannot be created through Expertise, Edge, or other modifiers. Those can improve your outcome up to Success, but Triumph requires the raw roll.
 
@@ -255,10 +256,10 @@ The GM chooses an appropriate consequence from the situation. **See Chapter 3 fo
 
 **Catastrophic failure.**
 
-**Disaster** occurs when a **Setback** is reduced even further by **Complications** (see Chapter 2). This is rare.
+**Disaster** occurs when Complications reduce your outcome below Setback (e.g., a rolled Conflict reduced through 3 Complications, or a Setback reduced through 1). See Chapter 3 for how Complications cascade. This is rare.
 
 - Taken Out (removed from the scene), OR
-- Permanent Burden, OR
+- Persistent Burden, OR
 - Catastrophic narrative failure
 
 Disaster is the worst possible outcome and should feel appropriately devastating.
@@ -276,9 +277,9 @@ Disaster is the worst possible outcome and should feel appropriately devastating
 - **Some Talents:** Grant Edge in specific circumstances
 
 **How Edge works:**
-1. Roll your dice, check outcome
-2. GM applies Complications (reduce outcome by 1 tier per Complication)
-3. Spend Edge to ignore Complications before they apply
+1. Roll your dice, check raw outcome
+2. Before Complications reduce your outcome, spend Edge to cancel them (1 Edge = 1 Complication ignored)
+3. Remaining Complications reduce your outcome by 1 tier each
 4. Determine final outcome
 
 **Example:**
@@ -301,7 +302,7 @@ Disaster is the worst possible outcome and should feel appropriately devastating
 
 **Expertise effect:**
 
-**When you roll Setback while acting within your domain of Expertise, convert it to Conflict.**
+**When your final outcome is Setback while acting within your domain of Expertise, convert it to Conflict.**
 
 - You **succeed** at your intent (mark tracks, ask questions, overcome obstacles)
 - But you **suffer a Minor Consequence** (mark 1 Stress, lose position, etc.)
@@ -366,12 +367,14 @@ Here's how all the pieces fit together when you make an Action Roll:
    - Rolled: 2, 4, 6
    - Highest die is 6 = **Success**
 
-6. **Apply Complications** (GM)
-   - Enemy has **Resilient** (1 Complication: tough armor)
+6. **Spend Edge / Apply Complications** (Player, then GM)
+   - Spend Edge to cancel Complications (1 Edge = 1 ignored)
+   - Remaining Complications reduce outcome by 1 tier each
+   - Enemy has **Resilient** (1 Complication: tough armor), no Edge spent
    - Success reduced by 1 tier → **Conflict**
 
 7. **Apply Expertise** (Player, if applicable)
-   - If you had Expertise and rolled Setback, convert to Conflict
+   - If final outcome is Setback, convert to Conflict
    - (Not applicable in this example—outcome is already Conflict)
 
 8. **Narrate Result** (GM)
@@ -413,7 +416,7 @@ Understanding the odds helps you make informed tactical decisions.
 | 4d | 0% | 48% | 39% | 13% |
 | 5d | 0% | 40% | 40% | 20% |
 
-**Expertise eliminates complete failure**—you always succeed at a cost or better.
+**Expertise nearly eliminates complete failure**—you succeed at a cost or better in most situations. However, Expertise cannot rescue you from Disaster (3+ Complications overwhelming your roll).
 
 ---
 

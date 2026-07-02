@@ -53,7 +53,7 @@ Magic uses the existing five Actions based on intent:
 | **Defy** | Create barriers, resist magic, overcome magical obstacles | Achieve your intent (mark Obstacle track if complex) |
 | **Clash** | Attack with magic, harm enemies | Mark Harm track |
 | **Talk** | Charm, compel, influence minds | Mark Will track |
-| **Sense** | Divination, detection, scrying | Ask 2 questions (3 with Greater Effect) |
+| **Sense** | Divination, detection, scrying | Ask 2 questions (3 with Enhanced Effect) |
 | **Know** | Analyze magic, recall arcane knowledge, identify effects | GM answers + 1 clarifying follow-up |
 
 A fireball is Clash. A magical barrier is Defy. A charm spell is Talk. A scrying spell is Sense. Choose the Action that matches what you're trying to accomplish — the magic is just the method.
@@ -275,7 +275,7 @@ Potent Spells follow the **Potent Action** framework (see Chapter 2). They grant
 
 **How to access Potent Spells:**
 - **Sphere Mastery** (Sage) — Push Yourself to perform a Potent feat of magical theory within your mastered Sphere
-- **Divine Favor** (Mystic) — Push Yourself to perform a Potent miracle within your domains
+- **Channel Divinity** (Mystic) — Push Yourself to perform a Potent miracle within your domains
 - Other Talents that explicitly grant Potency in their domain
 
 **Cost:** Push Yourself (mark 1 Stress) to activate the Talent. The Sage's Efficient Casting can be marked instead of Stress when Pushing to cast.

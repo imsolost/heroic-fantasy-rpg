@@ -121,7 +121,7 @@ Both mark Will, but the outcome and relationship implications differ:
 
 **Clash** (intimidation, taunts, psychological pressure): When successful, they're *broken*, *flee*, or *surrender*. Relationship damaged, coerced.
 
-**Switching mid-track:** Switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at resolve regardless of method. If the switch creates obvious contradiction (building trust → suddenly threatening), impose 1 Bane on the new approach.
+**Switching mid-track:** Switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at resolve regardless of method. If the switch creates obvious contradiction (building trust → suddenly threatening), the GM shifts your Vantage down — you were making friendly progress and now you've put them on guard. That's Limited Vantage until you re-establish your footing.
 
 ### Will-Based Complications
 
@@ -149,7 +149,7 @@ Terrain or objects PCs can use:
 - "Crumbling pillars" — cover, can be toppled onto enemies
 - "Chandelier" — can be cut down, dramatic swing
 - "Narrow bridge" — limits movement, risk of falling
-- "High ground" — grants Boon when attacking from above
+- "High ground" — improves Vantage when attacking from above
 
 ### Threats (Environmental Hazards)
 
@@ -163,7 +163,7 @@ Dangers that can be triggered as Suspense or Impact Moves:
 
 **Features:**
 - Bookshelves (cover, can push onto enemies)
-- Balcony (high ground, grants Boon)
+- Balcony (high ground, improves Vantage)
 - Spiral staircase (choke point, limits flanking)
 
 **Threats:**
@@ -199,7 +199,7 @@ PCs fill these through successful actions. They measure advancement toward a goa
 - "Repair the airship" (8 ticks)
 - "Decipher the ancient map" (4 ticks)
 
-**Mark ticks when:** PCs succeed at relevant actions (typically on Success or Conflict). Greater Effect marks 2 instead of 1.
+**Mark ticks when:** PCs succeed at relevant actions (typically on Success or Conflict). Enhanced Effect (from Trait) marks 2 instead of 1.
 
 ### Countdown Tracks
 

@@ -157,7 +157,7 @@ Track lengths can differ to create tactical puzzles:
 
 ## Complication Tags
 
-Complications reduce your outcome by **-1 tier** after rolling. Each uncanceled Complication shifts your result one step down (Success → Conflict → Setback → Disaster). See **Chapter 3: Consequences** for the complete mechanical framework.
+Complications reduce your outcome by **-1 tier** after rolling. Each uncanceled Complication shifts your result one step down (Success → Conflict → Setback → Disaster). See **Chapter 3: Outcomes & Consequences** for the complete mechanical framework.
 
 **Triumph bypasses all Complications entirely.** It cannot be downgraded.
 
@@ -379,8 +379,7 @@ A single track can represent multiple enemies acting as a coordinated group. Thi
 Instead of tracking 6 individual goblins, use **one track representing the squad**. When you mark ticks, describe individual enemies falling. The track measures the group's remaining threat.
 
 - Success → 1 tick (one goblin drops)
-- Greater Effect → 2 ticks (two goblins drop)
-- Triumph + Greater Effect → 3+ ticks (you cut through several)
+- Enhanced Effect → 2 ticks (two goblins drop)
 
 When the track fills, the group is defeated, scattered, or routed.
 
@@ -562,7 +561,7 @@ This signals to players:
 
 **Concept:** Elite killer hired to eliminate the party's patron. Dangerous in combat, hard to pin down, favors hit-and-run tactics.
 
-**Step 1 — Scale:** Legendary-tier threat requiring tactical thinking. **Mythic Scale** (allows 2-4 Complications).
+**Step 1 — Scale:** Elite threat requiring tactical thinking. **Mythic Scale** (allows 1-3 Complications).
 
 **Step 2 — Track Size:** Significant but beatable with coordination. **Harm 4, Will 6** (Standard adversary — disciplined but not immune to a better offer).
 

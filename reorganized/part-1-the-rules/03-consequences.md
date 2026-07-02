@@ -149,7 +149,7 @@ Challenges have **Complication tags** that describe when they apply:
 | **Vigilant** | Stealth, ambush, or deception attempts (keen senses, paranoia, magical awareness) |
 | **Complex** | Attempts to solve, unlock, or understand (intricate locks, arcane puzzles, alien logic) |
 | **Resolute** | Persuasion, intimidation, or mental influence (strong will, fanaticism, mind shields) |
-| **Deadly** | All combat actions (dangerous, lethal foe) |
+| **Deadly** | Actions attacking or being attacked by this foe — does NOT apply to non-combat actions like negotiation or investigation |
 | **Legendary** | ALL actions (universal opposition) |
 
 **See Chapter 13 (Challenges) for complete Complication rules and Challenge design.**
@@ -257,12 +257,10 @@ Track sizes determine how much effort a Challenge takes to overcome:
 | **Conflict** | 1 tick (you still succeed) |
 | **Setback** | 0 ticks (you fail) |
 
-**Greater Effect (from Trait):** Mark **2 ticks** instead of 1
-
 **Example:**
 - Standard enemy (4-tick Harm track)
 - You Clash twice, both Success → 2 ticks marked
-- You Clash with Trait invoked (Greater Effect) → 2 more ticks marked
+- You Clash with Trait invoked (Enhanced Effect) → 2 more ticks marked
 - **Total: 4 ticks → Enemy defeated**
 
 ---
@@ -361,8 +359,6 @@ Here's how outcomes resolve for each of the five Actions:
 | **Conflict** | Ask 2 questions + Minor Consequence |
 | **Setback** | Ask 0 questions + Major Consequence (you're exposed, trigger danger, or miss critical info) |
 
-**Greater Effect (from Trait):** Ask **3 questions** instead of 2
-
 **Example (Success):** "You scan the room. Ask me two questions."  
 **Example (Conflict):** "You spot the assassin, but he notices you watching—ask 2 questions, but he knows you're onto him"  
 **Example (Setback):** "You lean in to look closer and trigger the pressure plate—mark 2 Stress as the dart hits your neck"
@@ -435,6 +431,6 @@ Now you understand outcomes and consequences. The next chapters cover the resour
 
 - **Chapter 4: Resilience** — Stress, Conditions, Burdens, Push Yourself, Assist
 - **Chapter 5: Momentum** — How to earn and spend Momentum
-- **Chapter 6: Traits** — How Traits grant Special Effects (Greater Effect, Secondary Effect, Build Momentum)
+- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
 
 **For complete Challenge design and Complication rules, see Chapter 13 (Part 3: Running the Game).**

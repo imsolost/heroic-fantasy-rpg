@@ -180,8 +180,8 @@ Now that you've seen the core loop in action, the rest of the rules add detail:
 
 - **Part 1: The Rules** breaks down each step: what Actions do, how Vantage works, what consequences mean, how Momentum flows, etc.
 - **Part 2: Your Character** shows you how to build a hero with Traits, Talents, and a Calling
-- **Part 3: Reference** gives you quick-lookup tables for Vantage, consequences, and other at-table needs
-- **Part 4: Running the Game** (GMs only) provides tools for building challenges, running scenes, and making GM moves
+- **Part 3: Running the Game** (GMs only) provides tools for building challenges, running scenes, and making GM moves
+- **Part 4: Reference** gives you quick-lookup tables for Vantage, consequences, and other at-table needs
 
 But if all you remember is this loop—frame, declare, assess, roll, interpret, narrate—you can play Archon.
 

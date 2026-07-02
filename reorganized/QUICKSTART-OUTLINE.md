@@ -130,7 +130,7 @@ What you can do when the dice come out.
 - On success: mark Will track
 
 **Sense** → Ask questions, gather information
-- On Conflict or Success: ask 2 questions (or 3 with Greater Effect)
+- On Conflict or Success: ask 2 questions (or 3 with Enhanced Effect)
 
 **Know** → Recall knowledge
 - On Conflict or Success: GM tells you one specific thing + you ask clarifying question
@@ -183,7 +183,7 @@ What you can do when the dice come out.
 **Traits** (Origin, Profession, Personal)
 
 When narratively relevant and you roll **Conflict or better**, invoke your Trait for a **Special Effect:**
-- **Greater Effect:** Mark 2 on track instead of 1, OR ask bonus question
+- **Enhanced Effect:** Mark 2 on track instead of 1, OR ask bonus question
 - **Secondary Effect:** Free Defy action (Take Something, Seize Control, Create Advantage, Change Situation)
 - **Build Momentum:** Grant 1 Momentum to self or ally
 

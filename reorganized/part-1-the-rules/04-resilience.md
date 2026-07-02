@@ -287,6 +287,6 @@ You are **Taken Out** when:
 Now you understand how heroes absorb punishment and recover. The next chapters cover the proactive resources:
 
 - **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Resist Consequence)
-- **Chapter 6: Traits** — How Traits grant Special Effects (Greater Effect, Secondary Effect, Build Momentum)
+- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
 
 **For consequence details and when Stress/Conditions are inflicted, see Chapter 3 (Outcomes & Consequences).**

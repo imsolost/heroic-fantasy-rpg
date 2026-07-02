@@ -29,7 +29,7 @@ Advancement happens when the GM awards a new level, typically after major story 
 | **7** | **Mythic Scale**, +1 Approach (cap 3) | Regional Legends |
 | **8** | +1 Approach (cap 4), +1 Talent | |
 | **9** | +1 Approach (cap 5) | Legendary Approach |
-| **10** | **Divine Scale**, +1 Trait, +1 Talent | Mythic Heroes |
+| **10** | **Divine Scale**, +1 Trait, +1 Talent | Demigod Heroes |
 
 The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a second "broaden, then specialize" cycle, ensuring characters keep developing breadth even after their first push toward specialization.
 
@@ -41,8 +41,8 @@ The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a
 |-------|-----------|---------|--------|-------|
 | 1 | 3/2/1/1/0 (7 pts) | 2 | 3 | Mortal — Local Heroes |
 | 4 | ~4/3/2/1/0 (10 pts) | 4 | 3 | Heroic — Seasoned Adventurers |
-| 7 | ~4/3/3/2/0 (12 pts) | 6 | 4 | Mythic — Regional Legends |
-| 10 | ~5/4/3/2/0 (14 pts) | 7 | 5 | Divine — Mythic Heroes |
+| 7 | ~4/3/3/2/0 (12 pts) | 5 | 4 | Mythic — Regional Legends |
+| 10 | ~5/4/3/2/0 (14 pts) | 7 | 5 | Divine — Demigod Heroes |
 
 ---
 
@@ -145,7 +145,7 @@ New Traits follow the same rules as starting Traits — specific, evocative, 30-
 **Why this matters:** If your sword shatters mid-level, you shouldn't wait multiple sessions to mechanically adapt. Narrative consequences should enable immediate mechanical response.
 
 **Example:**
-> Kael (Champion) has "Flashing Steel" (Boon when Clashing with swords). Mid-Level 5, his sword shatters fighting a demon lord. He picks up a massive warhammer. During the next Interlude, he retrains "Flashing Steel" into "Titan's Grip" (Boon and Edge on feats of strength) — no need to wait for Level 6.
+> Kael (Champion) has "Flashing Steel" (Boon when Clashing with swords). Mid-Level 5, his sword shatters fighting a demon lord. He picks up a massive warhammer. During the next Long Rest, he retrains "Flashing Steel" into "Titan's Grip" — no need to wait for Level 6.
 
 ---
 

@@ -135,8 +135,6 @@ See the Clash section above. Talk creates willing agreement; Clash creates force
 - Investigating a crime scene
 - Studying an enemy's fighting style
 
-**Greater Effect (from Trait):** Ask **3 questions** instead of 2.
-
 ---
 
 ### Know — Recall, Analyze, Deduce
@@ -422,8 +420,8 @@ Remember: when you Push Yourself to activate a Talent, you gain both the normal 
 
 When a Potent Action also triggers a Trait invocation (Conflict or better, relevant Trait), Potency amplifies Special Effects:
 
-- **Broad Effect + Potency:** Small group → Large group or wide area
-- **Greater Effect + Potency:** These operate on different axes and don't compound for tick-marking. Greater Effect adds ticks; Potency's Edge separately helps you land actions against defended foes
+- **Enhanced Effect (Broad) + Potency:** Small group → Large group or wide area
+- **Enhanced Effect (Greater) + Potency:** These operate on different axes and don't compound for tick-marking. Greater Effect adds ticks; Potency's Edge separately helps you land actions against defended foes
 - **Secondary Effect + Potency:** The secondary Defy also benefits from Potency's scale
 
 ---

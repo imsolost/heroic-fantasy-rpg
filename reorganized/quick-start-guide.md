@@ -270,9 +270,9 @@ You're attacking an armored knight with your sword.
 - **Daring 3** → Start with 3 dice
 - **Proper weapon** → Already accounted for (no bonus)
 - **Enemy has Resilient (tough armor)** → Complication (reduces outcome tier after roll)
-- **Ally is flanking with you** → +1 die (1 Boon from positioning)
+- **Ally is flanking with you** → Strong Vantage (+1 die)
 
-3 dice + 1 Boon = **4 dice total**
+3 dice + 1 (Strong Vantage) = **4 dice total**
 
 *Roll 4d6: 2, 4, 5, 6 → Highest is **6** = **Success***
 
@@ -384,7 +384,7 @@ Every roll uses one of five actions. The action determines **what you're trying 
 
 **Use Sense when you want to gather information by observing, investigating, or interacting with your environment.**
 
-**On Conflict or Success:** Ask the GM **2 questions** (or 3 with Greater Effect from invoking a Trait). The GM answers honestly.
+**On Conflict or Success:** Ask the GM **2 questions** (or 3 with Enhanced Effect from invoking a Trait). The GM answers honestly.
 
 **Useful questions:**
 - What here is useful or valuable?
@@ -561,10 +561,11 @@ When a Trait is **narratively relevant** to your action and you roll **Conflict 
 
 ---
 
-### Greater Effect
+### Enhanced Effect
 
 **Mark 2 on a Progress track instead of 1** (Harm, Will, Obstacle)
 - OR **Ask 1 additional question** (when using Sense)
+- OR **Affect a small group** instead of a single target (Broad Effect variant)
 
 **Example:** Your Origin *Raised by Wolves* is relevant when tracking prey through the forest. You roll Conflict while using Sense. Invoke your Trait to ask 3 questions instead of 2.
 

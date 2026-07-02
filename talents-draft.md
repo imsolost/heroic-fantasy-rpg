@@ -14,7 +14,7 @@
 
 ### Risk/Reward Mechanics
 
-**All or Nothing**
+**All or Nothing** *(Champion or Shadow)*
 *Risk everything for glory.*
 
 When you declare an action with **High Stakes**, you may invoke this Talent before rolling. If you do, treat all 5s as 6s on this roll. However, all 4s count as 3s (Conflict becomes Setback).
@@ -23,7 +23,7 @@ When you declare an action with **High Stakes**, you may invoke this Talent befo
 
 ---
 
-**Driven By [Vice]**
+**Driven By [Vice]** *(Any Calling)*
 *Your obsession grants strength, but demands sacrifice.*
 
 **Character Creation:** Define your drive (glory, vengeance, wealth, knowledge, justice, etc.).
@@ -36,7 +36,7 @@ When you declare an action with **High Stakes**, you may invoke this Talent befo
 
 ---
 
-**Unstoppable**
+**Unstoppable** *(Champion or Vanguard)*
 *Pain only makes you stronger.*
 
 When you would mark **Stress from a consequence**, you may instead take a **Condition tier 1** and choose one immediate benefit:
@@ -48,7 +48,7 @@ When you would mark **Stress from a consequence**, you may instead take a **Cond
 
 ---
 
-**Frenzy**
+**Frenzy** *(Champion)*
 *You enter a battle-rage, heedless of pain.*
 
 You have a **Frenzy tracker** (☐☐☐, replenishes on Short Rest).
@@ -66,7 +66,7 @@ You have a **Frenzy tracker** (☐☐☐, replenishes on Short Rest).
 
 ### Defensive/Supportive
 
-**Got Your Back**
+**Got Your Back** *(Vanguard or Hunter)*
 *You never abandon an ally in danger.*
 
 When an ally within Close range rolls **Setback**, you may immediately mark **1 Stress** to let them re-roll their Action. If their re-roll is Success or better, you both gain **1 Momentum**.
@@ -75,7 +75,7 @@ When an ally within Close range rolls **Setback**, you may immediately mark **1 
 
 ---
 
-**Guardian**
+**Guardian** *(Vanguard)*
 *You shield the innocent with your own body.*
 
 When you **Assist an ally on a Defy roll** to avoid harm (dodge, resist, endure), you may mark **2 Stress instead of 1**.
@@ -84,7 +84,7 @@ If you do and they still roll **Setback**, you may **take the consequence yourse
 
 ---
 
-**Swift Recovery**
+**Swift Recovery** *(Champion or Vanguard)*
 *Your resilience is legendary.*
 
 When you roll **Triumph on a Defy roll** and currently have **2 or less Stress marked**, you may clear **1 Stress**. Describe how you recover quickly (shake it off, catch your breath, steel your nerves).
@@ -95,7 +95,7 @@ When you roll **Triumph on a Defy roll** and currently have **2 or less Stress m
 
 ### Tactical/Positioning
 
-**Hold the Line**
+**Hold the Line** *(Vanguard or Champion)*
 *None shall pass.*
 
 **Once per scene**, you may declare a zone or chokepoint that enemies **cannot cross without engaging you**.
@@ -104,7 +104,7 @@ When an enemy attempts to move through or past your held position, you may immed
 
 ---
 
-**Tactician**
+**Tactician** *(Hunter or Sage)*
 *You read the battlefield like a book.*
 
 When you roll **Success or better on a Sense roll** in combat or a tense situation, you may identify **up to 3 environmental features or tactical elements** (cover, high ground, hazards, enemy positions, escape routes, etc.).
@@ -115,7 +115,7 @@ When you roll **Success or better on a Sense roll** in combat or a tense situati
 
 ---
 
-**Challenge**
+**Challenge** *(Champion)*
 *Face me, coward!*
 
 **Once per combat**, you may issue a formal challenge to a foe (they must be able to hear and understand you). Name them and declare your intent to face them.
@@ -132,7 +132,7 @@ When you roll **Success or better on a Sense roll** in combat or a tense situati
 
 ### Knowledge/Investigation
 
-**Storied Knowledge**
+**Storied Knowledge** *(Sage or Hunter)*
 *Your travels have taught you many tales.*
 
 When you first encounter a significant creature, location, or artifact, you may declare **one thing you've heard about it** (a strength, weakness, history, or connection). The GM confirms it's true.
@@ -143,7 +143,7 @@ When you first encounter a significant creature, location, or artifact, you may 
 
 ---
 
-**According to Plan**
+**According to Plan** *(Shadow or Sage)*
 *You prepared for this exact situation.*
 
 **Once per session**, when you face a problem, you may declare **"I prepared for this"** and describe a flashback to your earlier preparation (set a trap, planted evidence, hid a weapon, bribed a guard, etc.).
@@ -159,7 +159,7 @@ Roll **Defy with Cunning**.
 
 ### Social/Reputation
 
-**Friendly Face**
+**Friendly Face** *(Shadow or Hunter)*
 *You make friends wherever you go.*
 
 When you **arrive in a new settlement**, you may declare you have a **contact here**—someone you've met before or helped in the past.
@@ -175,7 +175,7 @@ Roll **Talk with Charm**:
 
 ---
 
-**Fearsome Reputation**
+**Fearsome Reputation** *(Champion or Hunter)*
 *Your legend precedes you.*
 
 **Define your reputation** (brutal conqueror, undefeated duelist, monster slayer, etc.). When intelligent creatures who might know your reputation encounter you, the GM should telegraph their reaction (fear, respect, hostility, awe).
@@ -186,7 +186,7 @@ Roll **Talk with Charm**:
 
 ### Offensive/Damage Enhancement
 
-**The Great Destroyer**
+**The Great Destroyer** *(Champion)*
 *You shatter weapons and armor like glass.*
 
 When you roll **Triumph on a Clash roll**, you may invoke your Trait for **Secondary Effect: Take Something**. If you do, you **destroy or break one piece of their equipment** (weapon, shield, armor piece).
@@ -194,6 +194,64 @@ When you roll **Triumph on a Clash roll**, you may invoke your Trait for **Secon
 **If this would remove a Complication** (like "Armored" from breaking their shield), it does.
 
 Describe the devastating blow that shatters their gear.
+
+---
+
+## New Talents (Second Batch)
+
+### Sage
+
+**Metamagic [ ] [ ]**
+When you cast a spell, you may mark a box to weave in an additional quality: *controlled—distant—intense—lasting—subtle—quick*. This modifies the spell beyond its normal magnitude without increasing its cost.
+
+**Magic Sense**
+You always notice magical effects nearby, and recognize a spell when you see one — though its exact purpose may not be clear. When you successfully avoid or disrupt magic, gain 1 Momentum.
+
+**Familiar**
+You manifest a small magical creature bound to your will. You communicate telepathically at any distance and can send it on simple tasks. It uses your Approaches but suffers 1 Bane on all rolls. By entering a trance, you can perceive through its senses. Push Yourself to cast a spell through your familiar as if you were at its location. If your familiar suffers any consequence (Stress, Condition, or harm), it vanishes and reappears after a Short Rest.
+
+### Mystic
+
+**Patron's Mark**
+Your patron's power manifests physically. Choose a feature — *rending claws, spectral wings, burning eyes, iron-scaled skin, a crown of living thorns*. You can manifest or dismiss it at will. While manifested, you have narrative permission for feats it enables and Expertise on actions it directly empowers. Push Yourself to perform a Potent feat through your mark.
+
+**Spirit Talker**
+You can speak with animals, plants, and spirits of the land. They are not compelled to help, but they understand you and can respond. Push Yourself to commune deeply — the spirits grant you a vision. Ask the GM one question about this place, its history, or what has passed through it, and they will answer honestly through the vision.
+
+**Otherworldly Form**
+You can dissolve into a floating, dispersed form flavored by your patron's nature — *a cloud of embers, a drift of shadow, a shimmer of starlight*. Choose three capabilities you have in this form: *appear barely visible—fly high—interact with objects—move swiftly—slip through small gaps—speak*. You cannot attack or cast spells in this form. Shifting takes a moment of concentration; you can return to solid form at will.
+
+### Hunter
+
+**Spirit Touched**
+Natural creatures and spirits regard you favorably by default — they will not attack unprovoked and are inclined to aid you. When you Sense, regardless of the outcome, you may also ask: "What here is a threat to the natural order?" The GM will answer honestly.
+
+**Brave the Elements**
+You and your companions can pass safely through natural hazards — storms, extreme cold, treacherous terrain, raging rivers. What would normally require a roll is handled without one. Supernatural or magically-intensified hazards still require a roll, but you have Expertise.
+
+### Shadow
+
+**Living Shadows**
+Choose Cunning or Spirit as your Living Shadows Approach. You can manipulate shadows with an Action Roll using this Approach. When you do, choose one effect:
+- Wield shadows like piercing blades (Clash at range)
+- Step between shadows in the blink of an eye (teleport between nearby shadows)
+- Shrink, grow, or reshape nearby shadows (create cover, obscure, or intimidate)
+
+### Vanguard (or Champion)
+
+**Authority**
+Your presence commands attention. When you enter a scene or address someone directly, the GM declares the dominant reaction: *admiration—obedience—respect—defiance*. You may spend 1 Momentum to choose the reaction instead. Push Yourself to perform a Potent feat of righteous command — silence a riot with a word, force a demon to kneel, or halt a charge with a raised hand.
+
+*Note: Fits Vanguard (protective authority, command presence) or Champion (martial dominance, leadership). Listed under Vanguard as primary.*
+
+### Champion (or Vanguard)
+
+**Dauntless**
+When you would act from Limited Vantage, gain 1 Boon. Your courage and determination push through circumstances that would give others pause.
+
+### Any Calling (Cross-Calling Candidates)
+
+**Magic Sense** (listed under Sage above) also works well as a cross-Calling pick for any character with magical exposure.
 
 ---
 

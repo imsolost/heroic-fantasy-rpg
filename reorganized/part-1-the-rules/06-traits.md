@@ -132,17 +132,19 @@ This is how support-oriented characters fuel the team's Momentum economy without
 
 ## Trait Breadth Guidance
 
-Traits should be **broad enough to apply frequently** but **not so broad they apply to everything**.
+Traits should be **broad enough to apply to the majority of actions your character takes** — these are heroic defining qualities, and heroes act through their identity most of the time. The interesting moments come not from scarcity, but from the situations where a Trait clearly *doesn't* apply and you're on your own.
 
-**Target: 30-50% of your rolls.** If a Trait applies to most rolls, it's too broad.
+**The goal is differentiation, not limitation.** Your three Traits should cover different aspects of your character so the choice of *which* Trait to invoke (and which Special Effect to take) stays interesting. If all three cover combat, you've lost the decision point.
 
-**Good Traits:**
-- "Bladedancer" — melee combat with blades, knowledge of sword schools, dueling culture
-- "Shadow of the Thieves Guild" — stealth, criminal contacts, lockpicking, deception, underworld knowledge
-- "Veteran of the Iron Wars" — combat, military tactics, dealing with soldiers, recognizing formations
+**Good Traits (distinct coverage):**
+- "Bladedancer" — melee combat, blade knowledge, dueling culture
+- "Shadow of the Thieves Guild" — stealth, crime, lockpicking, deception, underworld
+- "Veteran of the Iron Wars" — combat, military tactics, soldiers, formations
+
+A character with all three has strong coverage in combat and social situations with soldiers or criminals — but "Veteran of the Iron Wars" doesn't help you decipher an Elven magical barrier, and "Shadow of the Thieves Guild" doesn't help you navigate open wilderness.
 
 **Too Broad:**
-- "Competent" — applies to everything
+- "Competent" — applies to everything, removes all decision points
 - "Lucky" — could justify any situation
 
 **Too Narrow:**
@@ -236,7 +238,7 @@ The player succeeded on the Know roll (they still get their answer), but no Spec
 
 **No cost preserves the reward.** Traits are free because they already have a gate — narrative relevance + Conflict or better. Adding a cost on top would make them feel punishing rather than rewarding.
 
-**Breadth guidance prevents abuse.** The 30-50% target ensures Traits feel special when they apply without being so rare they're forgotten.
+**Breadth guidance creates decisions.** Traits fire on the majority of your rolls — that's intentional for a heroic game. The guidance ensures your three Traits cover *different ground* so the choice of which to invoke stays meaningful, and so moments where no Trait applies feel like real vulnerability.
 
 ---
 

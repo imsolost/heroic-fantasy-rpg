@@ -63,9 +63,11 @@ You can only activate one Talent per Push. If you have multiple Talents that cou
 When an ally makes an Action Roll, you may **mark 1 Stress** to grant them **1 Boon** before they roll. You don't need to take an action — describe how you're helping and mark the Stress.
 
 **Requirements:**
-- You must be positioned to help fictionally
+- You must be able to contribute fictionally — a relevant Trait, Talent, Expertise, or clear fictional positioning (proximity, tools, knowledge)
 - Multiple allies can Assist the same roll (each marking 1 Stress)
 - The +2 Boon cap still applies
+
+**When you can't Assist:** You can't Assist a lockpick from across the room. You can't Assist arcane research if you have no magical knowledge. If you can't describe *how* you're helping in a way that makes fictional sense, you can't Assist.
 
 **Example:**
 > "I steady your bow arm as you draw." (Mark 1 Stress, ally gets +1d)

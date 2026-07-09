@@ -27,7 +27,9 @@ Before diving into consequences, here's a quick reminder of the four outcomes fr
 
 ---
 
-### The Three C's — Don't Confuse Them
+### The Three C's — Quick Reminder
+
+(First introduced in Chapter 1. Repeated here because this chapter is where all three interact.)
 
 | Term | What It Is | Where It Lives |
 |------|-----------|----------------|
@@ -267,28 +269,17 @@ Track sizes determine how much effort a Challenge takes to overcome:
 
 ## Resist Consequence
 
-When you would suffer a Consequence (Stress, Condition, or narrative setback), spend **1 Momentum** to automatically reduce the Consequence Tier by 1.
+When you would suffer a Consequence, spend **1 Momentum** to reduce its severity by one step. No roll required — immediate and guaranteed.
 
-**No roll required** — the reduction is immediate and guaranteed.
+After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum. Whatever form the Consequence takes — Stress, a Condition, or a narrative setback — it drops one level. If it was already the minimum (Minor Consequence, Condition tier 1), it's negated entirely.
 
-**What this reduces:**
+**Examples:**
+- Major (2 Stress) → Minor (1 Stress)
+- Minor (1 Stress) → negated
+- Condition tier 2 → Condition tier 1
+- Narrative Consequence → GM reduces severity
 
-| Consequence | Resisted To |
-|-------------|-------------|
-| Major (2 Stress) | Minor (1 Stress) |
-| Minor (1 Stress) | No Stress |
-| Severe (3 Stress) | Major (2 Stress) |
-| Condition tier 3 | Condition tier 2 |
-| Condition tier 2 | Condition tier 1 |
-| Condition tier 1 | No Condition |
-| Narrative Consequence | GM reduces severity |
-
-**When to use:**
-- After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum
-- Before Stress Overflow (reduces overflow amount, possibly avoiding Burden choice)
-- Your choice whether the Momentum is worth avoiding/reducing this specific Consequence
-
-**Example:**
+**Example in play:**
 - GM: "The knight's mace slams into your shield. Mark 2 Stress."
 - You: "I spend 1 Momentum to Resist — I roll with the blow."
 - GM: "Reduce to 1 Stress. The impact jars your arm but you stay firm."

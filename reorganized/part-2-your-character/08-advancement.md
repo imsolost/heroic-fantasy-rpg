@@ -28,8 +28,8 @@ Advancement happens when the GM awards a new level, typically after major story 
 | **6** | +1 Approach (cap 2), +1 Talent | |
 | **7** | **Mythic Scale**, +1 Approach (cap 3) | Regional Legends |
 | **8** | +1 Approach (cap 4), +1 Talent | |
-| **9** | +1 Approach (cap 5) | Legendary Approach |
-| **10** | **Divine Scale**, +1 Trait, +1 Talent | Demigod Heroes |
+| **9** | +1 Approach (cap 5), +1 Trait | Legendary Approach |
+| **10** | **Divine Scale**, +1 Talent | Demigod Heroes |
 
 The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a second "broaden, then specialize" cycle, ensuring characters keep developing breadth even after their first push toward specialization.
 

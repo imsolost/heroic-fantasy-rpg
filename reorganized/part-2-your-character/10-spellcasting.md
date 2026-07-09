@@ -562,6 +562,18 @@ Sages are precise and modular — pick your Sphere, pick your Operation, combine
 
 ---
 
+## Running Sage and Mystic Together
+
+If your table has both a Sage and a Mystic, be aware they operate on different economies despite using the same Action Roll:
+
+**Sage — precision economy.** The gate is *knowledge*: do you have a theorem for this? Without one, you improvise via Arcane Formula (costs 1 Stress, applies 1 Bane unless you're a Generalist). Sages manage a predictable resource cost per cast. Ask: "Do you have a theorem, or are you improvising?"
+
+**Mystic — volatile communion.** The gate is *relationship*: are you in Favor? Within their domains, Mystics have no per-cast cost at all — but Favor can vanish mid-scene on any roll showing 2+ ones, stripping Expertise until they reconnect with their patron. Ask: "Is this within your domains?"
+
+**Don't adjudicate them the same way.** A Sage choosing to improvise is making a tactical resource decision. A Mystic losing Favor is a dramatic event driven by the dice. Both resolve through the same Action + Outcome ladder — the difference is what gates access, not how results are determined.
+
+---
+
 ## Quick Reference
 
 **Casting:** Declare intent → GM assesses magnitude/Vantage → Roll (Cunning for Sage, Spirit for Mystic) + Action → Resolve outcome

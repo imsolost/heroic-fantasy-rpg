@@ -14,29 +14,17 @@ Every hero has something that sets them apart — a gift honed through years of 
 
 ## How to Read Talents
 
-Every Talent follows one of a few patterns:
+Talents use a small vocabulary of mechanical building blocks. Once you know these, every Talent is self-explanatory:
 
-**Expertise + Push:** The most common pattern. You have Expertise in a domain (Setback → Conflict within that domain), plus a "Push Yourself" option for extraordinary feats.
+**Expertise:** Converts a final outcome of Setback → Conflict within a specific domain. You still succeed (with a Minor Consequence) where others would fail outright. See Chapter 1.
 
-> "You have Expertise in [domain]. Push Yourself to perform a Potent feat of [domain]."
+**Push Yourself:** Mark 1 Stress to activate the Talent's extraordinary effect. You still gain the normal benefit of Pushing Yourself (1 Boon) in addition to the Talent's special effect. You can only activate one Talent per Push.
+
+**Potent:** An extraordinary effect that exceeds normal success — grants Edge +1, can unlock otherwise impossible actions, and enhances scale along one dimension (Heightened Impact, Widespread Effect, or Extended Duration). See **Chapter 2: Potent Actions** for the complete framework.
 
 **Markable Boxes [ ] [ ]:** Limited-use abilities. Mark a box to activate the effect. All boxes recover on a Short Rest unless noted otherwise.
 
-> "Mark this to [powerful effect]."
-
-**Passive:** Always active, no cost.
-
-> "You gain 1 Edge when [condition]."
-
-**GM Answers Honestly:** Ask a specific question tied to your expertise; the GM must answer truthfully, even if incompletely.
-
-> "When you [trigger], ask: '[question].' The GM will answer honestly."
-
-### Key Terms
-
-**Push Yourself** (in Talent context): Mark 1 Stress to activate the Talent's extraordinary effect. You still gain the normal benefit of Pushing Yourself (1 Boon) in addition to the Talent's special effect. You can only activate one Talent per Push.
-
-**Potent:** An extraordinary effect that exceeds normal success — grants Edge +1, can unlock otherwise impossible actions, and enhances scale along one dimension (Heightened Impact, Widespread Effect, or Extended Duration). See **Chapter 2: Potent Actions** for the complete framework.
+**"The GM answers honestly":** When a Talent says this, the GM must answer your question truthfully (though possibly incompletely or cryptically). This represents supernatural insight, deep expertise, or divine revelation.
 
 ---
 
@@ -189,6 +177,8 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and exam
 
 **Losing Favor:** When you roll **2 or more 1s** on any action where Favor grants Expertise, you lose Favor — regardless of the action's outcome. Your patron judges how you draw on their power, not just whether it works. The more power you draw on (larger dice pools), the greater the chance something displeases them. You can still act within your domains without Favor, but without Expertise.
 
+> **Note:** This is the one mechanic in Archon where you check more than just your highest die. As a Mystic, you read your highest die for the outcome (like everyone else) and also glance at your pool for 1s. It's a small extra step that reflects your patron's independent judgment.
+
 **Regaining Favor:** Demonstrate devotion to your patron. Work with your GM to determine when Favor returns, typically through:
 - Acting in accordance with your patron's nature (Life domain: save a life without asking payment)
 - Fulfilling a divine obligation (complete a task, make a significant sacrifice, uphold a vow)
@@ -196,6 +186,8 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and exam
 - Narrative milestone (faith tested or devotion demonstrated)
 
 The GM should signal when Favor returns (typically at the end of a scene or after a rest once the condition is met).
+
+> **Design note:** Favor is deliberately outside the Momentum/Stress economy. It represents your patron's independent judgment, not a tactical resource you manage — you can't spend Momentum to prevent losing Favor. The Talent *Chosen Vessel* exists for players who want to soften this, but by default, divine judgment is non-negotiable.
 
 ### Background Questions
 

@@ -292,7 +292,19 @@ Disaster is the worst possible outcome and should feel appropriately devastating
 - **Boons** give you more dice (better chance of rolling well)
 - **Edge** protects your outcome after you roll (negates enemy defenses)
 
-**See Chapter 2 for complete Complication rules.**
+**See Chapter 3 for complete Complication rules.**
+
+### Don't Confuse the Three C's
+
+These three terms sound alike but do different things at different times:
+
+| Term | What It Is | When It Applies |
+|------|-----------|-----------------|
+| **Complication** | An enemy tag that reduces your outcome by 1 tier (e.g., Resilient, Deadly) | After you roll (applied to your outcome) |
+| **Consequence** | The fallout from your outcome — Minor, Major, or Severe | After your final outcome is determined |
+| **Condition** | A temporary impairment on you that applies 1 Bane (e.g., Poisoned 2, Frightened 1) | Before you roll (affects your dice pool) |
+
+**Timing mnemonic:** Conditions affect your dice *before* you roll. Complications affect your outcome *after* you roll. Consequences are what happens as a result.
 
 ---
 
@@ -337,6 +349,15 @@ Disaster is the worst possible outcome and should feel appropriately devastating
 Edge works *before* your outcome is finalized (cancels the Complication). Expertise works *after* (rescues you from Setback). They can both apply on the same roll.
 
 **See Chapter 9 for Calling-specific Expertise.**
+
+**Combined Example — Conditions, Bane Cap, and Expertise:**
+- You're **Poisoned 2** and **Frightened 1** — two active Conditions, each applying 1 Bane (2 Banes total, within the ±2 cap)
+- Base pool: Clash 3 (Approach) + Action, minus 2 Banes = rolling 1 die
+- You roll a 3 — raw outcome: **Setback**
+- No Complications on this enemy, so no reductions
+- You have **Expertise: Heavy Blades** — Setback converts to **Conflict**
+- Final outcome: you mark 1 tick on the enemy's Harm Track and suffer a Minor Consequence
+- Your Poisoned ticks down (2→1) because it was relevant; Frightened ticks down (1→0, clears) because it was relevant
 
 ---
 
@@ -424,7 +445,7 @@ Understanding the odds helps you make informed tactical decisions.
 
 **Dice pools feel satisfying.** Rolling a handful of dice is tactile and visual. More dice = clear advantage.
 
-**Highest die is fast.** No math, no adding. Roll, glance, done. Action Rolls resolve quickly.
+**Highest die is fast.** No math, no adding. Roll, glance, done. Action Rolls resolve quickly. As characters grow, they develop resource layers (Stress, Conditions, Momentum, Talent checkboxes) — but the *resolution* itself stays this simple throughout.
 
 **Four outcomes create nuance.** Success/failure is binary. The Action Roll gives you four shades of outcome: Triumph/Success/Conflict/Setback.
 

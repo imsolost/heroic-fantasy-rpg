@@ -68,11 +68,15 @@ This is the primary way players spend Momentum during action resolution. It simu
 >
 > Kael gains +1 Boon (+1d) and 1 Edge (ignore Resilient). He rolls with an extra die, and if he gets Success, it stays Success rather than being reduced to Conflict.
 
-**Create an Opening vs. Push Yourself:**
-- **Push Yourself** (1 Stress) = 1 Boon only
+**Create an Opening vs. Push Yourself vs. Assist:**
+
+Boons come from three taps on the same well — your Stress (Push Yourself), an ally's Stress (Assist), or Momentum (Create an Opening). The choice is which resource you can afford to spend:
+
+- **Push Yourself** (1 Stress) = 1 Boon
+- **Assist** (ally's 1 Stress) = 1 Boon to you
 - **Create an Opening** (1 Momentum) = 1 Boon + 1 Edge
 
-Create an Opening is strictly better, but costs Momentum (which is harder to earn) instead of Stress (which is easier to spend but depletes your resilience buffer).
+Create an Opening is strictly better, but costs Momentum (which is harder to earn). Push Yourself depletes your resilience buffer. Assist costs someone else's buffer. When you have the choice, spend whichever resource you can best afford to lose right now.
 
 ### Resist Consequence
 

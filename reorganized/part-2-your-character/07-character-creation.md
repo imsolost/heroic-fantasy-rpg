@@ -81,7 +81,7 @@ This framework isn't mandatory — use it as inspiration to create a well-rounde
 - "Veteran of the Iron Wars" instead of "Soldier"
 - "Raised by Wolves in the Ashen Wood" instead of "Raised by Wolves"
 
-**Target: 30-50% of your rolls.** A Trait should apply frequently enough to feel like a core part of your identity, but not so broadly that it triggers on everything.
+**Design your three Traits to cover different ground.** Each should apply to a distinct aspect of your character — the interesting choice is *which* Trait to invoke, not whether one applies at all. Moments where no Trait fits should feel like real vulnerability, not the norm.
 
 **Too broad:** "Competent" (applies to everything), "Lucky" (could justify any situation)
 

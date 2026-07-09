@@ -28,7 +28,7 @@ Challenges are anything that opposes the PCs:
 - **Social opposition:** Suspicious nobles, hostile factions, stubborn officials
 - **Environmental:** Blizzards, collapsing bridges, raging rivers
 
-**Not all Challenges need special mechanics.** Simple opposition just uses Vantage to determine difficulty. A locked door might just be a single roll. A random wolf might just be narrated away.
+**Not all Challenges need special mechanics.** Simple opposition just uses circumstantial Boons/Banes to determine difficulty. A locked door might just be a single roll. A random wolf might just be narrated away.
 
 **Significant Challenges** — the ones that create extended engagement — have **Complications** (passive defenses) and **Challenge Moves** (active abilities).
 

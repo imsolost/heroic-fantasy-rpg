@@ -34,7 +34,7 @@ reorganized/
 Read everything in order (Parts 0-3), use Part 4 at the table
 
 ### Mid-Session Reference
-- Players: Part 4 (Vantage, Cheat Sheet)
+- Players: Part 4 (Quick Reference, Cheat Sheet)
 - GM: GM Cheat Sheet → Part 4 → relevant Part 3 chapter
 
 ---
@@ -47,7 +47,7 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 
 ### Part 1: The Rules (Chapters 1-6)
 - [x] 01-the-action-roll.md - ✅ Complete (dice mechanics, outcomes, Boons/Banes, Edge, Expertise)
-- [x] 02-taking-action.md - ✅ Complete (Actions, Approaches, Vantage, Potent Actions)
+- [x] 02-taking-action.md - ✅ Complete (Actions, Approaches, circumstantial Boons/Banes, Potent Actions)
 - [x] 03-consequences.md - ✅ Complete (consequence tiers, Complications, Progress Tracks)
 - [x] 04-resilience.md - ✅ Complete (Stress, Conditions, Push Yourself, Assist)
 - [x] 05-momentum.md - ✅ Complete (Momentum, Create an Opening, Invoke Your Drive)
@@ -68,7 +68,6 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 - [x] 16-advancement-gm.md - ✅ Complete (Milestones, pacing, Scale transitions)
 
 ### Part 4: Reference
-- [ ] vantage-reference.md
 - [ ] gm-cheat-sheet.md
 - [ ] complication-tags.md
 - [ ] condition-reference.md
@@ -90,7 +89,7 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 - **Invoke Your Drive** → Chapter 5 (Momentum)
 - **Secondary Effects** → Chapter 6 (Traits)
 - **Potent Actions** → Chapter 2 (Taking Action)
-- **Vantage & High Stakes** → Chapter 2 (brief) + Vantage Reference (Part 4)
+- **Circumstantial Boons/Banes & High Stakes** → Chapter 2 (player-facing) + Chapter 11 (GM guidance)
 - **Challenge Design** → Chapter 13 (Part 3)
 
 All other references use cross-references, not duplication.

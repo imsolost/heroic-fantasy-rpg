@@ -74,22 +74,22 @@ You describe what your character does—what they're attempting and how. Choose 
 
 ---
 
-## 3. GM Assesses Vantage
+## 3. GM Assesses the Situation
 
-The GM evaluates **Vantage**—your capability, tools, and circumstances:
+The GM evaluates your capability, tools, and circumstances:
 
 - **Certain** → Automatic success (no roll needed)
-- **Strong** → Roll with 1-2 Boons (advantageous position)
-- **Standard** → Roll with no modifier (baseline)
-- **Limited** → Roll with 1-2 Banes (disadvantaged position)
+- **Advantageous position** → Roll with 1-2 Boons
+- **Baseline** → Roll with no modifier
+- **Disadvantaged position** → Roll with 1-2 Banes
 - **Impossible** → Can't attempt (suggest different approach)
 
 **Optional: High Stakes**  
 For rare climactic moments (boss fights, life-or-death), the GM may declare **High Stakes**—consequences are one tier more severe (Conflict becomes Major, Setback becomes Severe).
 
-> **GM:** "This is **Limited Vantage**—the cliff is crumbling and you lack proper climbing gear. That's 1 Bane. On Conflict, you make it but suffer strain. On Setback, you fall and take serious harm."
+> **GM:** "The cliff is crumbling and you lack proper climbing gear. That's **1 Bane**. On Conflict, you make it but suffer strain. On Setback, you fall and take serious harm."
 
-The GM announces Vantage (and High Stakes if applicable) **before you roll**, so you know what you're getting into. You can always choose a different approach if you don't like the odds.
+The GM announces your Boons/Banes (and High Stakes if applicable) **before you roll**, so you know what you're getting into. You can always choose a different approach if you don't like the odds.
 
 ---
 
@@ -142,9 +142,9 @@ Let's see the full sequence in action:
 
 2. **Player declares:** "I close the distance and strike him in the back of the head with my pommel, trying to knock him out quietly." *(Defy—overcoming the obstacle of the guard)*
 
-3. **GM assesses:** "You're a trained warrior and the guard is distracted—that's **Strong Vantage** (1 Boon). But if you botch this, his shout will wake the whole camp—I'm declaring **High Stakes** (consequences are more severe if you fail)."
+3. **GM assesses:** "You're a trained warrior and the guard is distracted—that's **1 Boon**. But if you botch this, his shout will wake the whole camp—I'm declaring **High Stakes** (consequences are more severe if you fail)."
 
-4. **Player rolls:** Daring 3 + 1 Boon (Strong Vantage) = 4 dice. *Rolls: 2, 4, 6, 6 → Highest is 6*
+4. **Player rolls:** Daring 3 + 1 Boon (distracted guard) = 4 dice. *Rolls: 2, 4, 6, 6 → Highest is 6*
 
 5. **Outcome:** **Success** (rolled a 6)
 
@@ -270,9 +270,9 @@ You're attacking an armored knight with your sword.
 - **Daring 3** → Start with 3 dice
 - **Proper weapon** → Already accounted for (no bonus)
 - **Enemy has Resilient (tough armor)** → Complication (reduces outcome tier after roll)
-- **Ally is flanking with you** → Strong Vantage (+1 die)
+- **Ally is flanking with you** → 1 Boon (+1 die)
 
-3 dice + 1 (Strong Vantage) = **4 dice total**
+3 dice + 1 Boon (flanking) = **4 dice total**
 
 *Roll 4d6: 2, 4, 5, 6 → Highest is **6** = **Success***
 
@@ -622,23 +622,23 @@ These are your goals as GM:
 
 ---
 
-## Assessing Vantage
+## When to Roll (and What Modifier)
 
-**Vantage** represents the character's capability, tools, and circumstances.
+Weigh the character's capability, tools, and circumstances.
 
 **Certain** (no roll needed)
 - Clear capability + proper tools + trivial task
 - *Example: Champion swinging sword in combat, Shadow picking a simple lock with proper tools*
 
-**Strong** (roll with 1 Boon)
-- Advantageous position, ideal circumstances
+**Advantageous** (roll with 1 Boon)
+- Positioning clearly favors them, ideal circumstances
 - *Example: High ground + flanking, surprise attack, perfect setup*
 
-**Standard** (roll with no modifier)
-- Baseline—capable + proper tools, neutral conditions
+**Baseline** (roll with no modifier)
+- Capable + proper tools, neutral conditions
 - *Example: Climbing with rope and handholds, persuading a neutral guard*
 
-**Limited** (1-2 Banes)
+**Disadvantaged** (roll with 1-2 Banes)
 - Lacking ideal tools OR poor positioning
 - *Example: Climbing without gear (1 Bane), climbing crumbling cliff without gear (2 Banes)*
 
@@ -646,7 +646,7 @@ These are your goals as GM:
 - Fundamentally incapable OR fiction doesn't support it
 - *Example: Casting spells without being a spellcaster, attacking someone in another city*
 
-**Announce Vantage before the player rolls** so they can adjust their approach or spend Momentum.
+**Announce Boons/Banes before the player rolls** so they can adjust their approach or spend Momentum.
 
 ---
 
@@ -656,7 +656,7 @@ For **rare climactic moments**, the GM may declare **High Stakes**:
 - Consequence tier +1 (Conflict → Major, Setback → Severe)
 - *Example: Boss fight, defusing a bomb, life-or-death confrontation*
 
-**Most rolls don't need High Stakes.** Vantage already handles difficulty; High Stakes is only for when failure demands exceptional weight.
+**Most rolls don't need High Stakes.** Circumstantial Boons/Banes already handle difficulty; High Stakes is only for when failure demands exceptional weight.
 
 **Announce High Stakes before the player rolls** so they understand the risk.
 
@@ -706,7 +706,7 @@ When the dice demand it or the story calls for it, make a **move**:
 **Ask players to describe their characters in action**
 - "How do you scale the wall differently than your ally?"
 
-**Telegraph Vantage and Stakes before rolls**
+**Telegraph Boons/Banes and Stakes before rolls**
 - "You lack climbing gear—that's 1 Bane. If you fall, it's a twenty-foot drop—High Stakes."
 
 **Let failure create complications, not dead ends**
@@ -766,7 +766,7 @@ After your first session, read:
 
 **Part 4: Reference**
 - At-table quick reference documents
-- Vantage framework (how GMs assess difficulty)
+- When-to-roll guidance (how GMs assess difficulty)
 - GM Cheat Sheet
 
 **Part 5: Appendices**
@@ -827,7 +827,7 @@ In 10 pages, you now know:
 - ✅ The five actions (Defy, Clash, Talk, Sense, Know)
 - ✅ Consequences and resilience (Stress, Conditions, Burdens)
 - ✅ Momentum and Traits (earn and spend)
-- ✅ How to GM (Vantage, Stakes, Complications, Moves)
+- ✅ How to GM (when to roll, Stakes, Complications, Moves)
 
 **That's enough to play.** Everything else is refinement.
 

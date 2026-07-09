@@ -259,7 +259,7 @@ Scale advances at Level 4 (Heroic), Level 7 (Mythic), and Level 10 (Divine).
 
 **Facing challenges above your Scale:** You can attempt them, but may need multiple steps, allies, preparation, or special resources.
 
-**Facing challenges below your Scale:** Often auto-succeed without rolling, unless complications make it interesting (hostage, time pressure, stealth constraint).
+**Facing challenges below your Scale:** Often auto-succeed without rolling, unless complications make it interesting (hostage, time pressure, stealth constraint). This is the **Certain** ruling from Chapter 11, applied through the lens of Scale — a Heroic Scale character picking a simple village lock isn't rolling, because the outcome was never in doubt.
 
 **Scale applies equally to magic.** A Heroic Scale spellcaster cannot achieve Divine Scale effects simply because they wield supernatural power. See Chapter 10 for magical scaling by Scale.
 

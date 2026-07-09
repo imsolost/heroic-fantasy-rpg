@@ -247,7 +247,7 @@ The player succeeded on the Know roll (they still get their answer), but no Spec
 **This completes Part 1: The Rules.** You now know everything about how Archon's core system works:
 
 - Chapter 1: The Action Roll (dice mechanics)
-- Chapter 2: Taking Action (Actions, Approaches, Vantage)
+- Chapter 2: Taking Action (Actions, Approaches, circumstantial Boons/Banes)
 - Chapter 3: Outcomes & Consequences (what happens after the roll)
 - Chapter 4: Resilience (Stress, Conditions, Burdens)
 - Chapter 5: Momentum (earning and spending)

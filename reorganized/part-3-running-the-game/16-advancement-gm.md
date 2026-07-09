@@ -197,4 +197,4 @@ These are **optional**. Some groups prefer pure narrative milestones (GM judgmen
 
 ## What's Next
 
-This concludes Part 3: Running the Game. For at-table reference material — Vantage tiers, Complication tags, consequence templates, and the GM cheat sheet — see **Part 4: Reference**.
+This concludes Part 3: Running the Game. For at-table reference material — when-to-roll guidance, Complication tags, consequence templates, and the GM cheat sheet — see **Part 4: Reference**.

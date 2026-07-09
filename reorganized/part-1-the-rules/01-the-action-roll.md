@@ -20,12 +20,12 @@ An **Action Roll** resolves a single risky, uncertain, or dramatically significa
 
 When you make an Action Roll:
 1. You declare what you're doing and how (Action + Approach)
-2. The GM assesses your positioning and tells you what you're facing (Vantage)
+2. The GM assesses your positioning and tells you your Boons and Banes
 3. You build a dice pool and roll
 4. Everyone interprets the outcome
 5. The GM narrates what happens
 
-**This chapter focuses on steps 3-4: building your pool and interpreting results.** See Chapter 2 for Actions and Approaches, and Vantage assessment.
+**This chapter focuses on steps 3-4: building your pool and interpreting results.** See Chapter 2 for Actions and Approaches, and how circumstances translate into Boons and Banes.
 
 ---
 
@@ -43,7 +43,7 @@ Make an Action Roll when a character faces a situation that is **uncertain, risk
 - Failure would just stall progress without adding drama
 - The character lacks fundamental capability to attempt the action
 
-These principles are built into **Vantage assessment** (see Chapter 3). When the GM assesses your Vantage as **Certain**, no Action Roll is needed—the outcome is clear. When your Vantage is **Impossible**, you can't attempt this action with this approach.
+When the outcome is **Certain**, no Action Roll is needed—the GM narrates what happens. When the action is **Impossible**, you can't attempt it with this approach—find another way. The GM makes both calls before dice come out (see Chapter 11 for GM guidance).
 
 **See Chapter 2 for worked examples** of when to roll vs. when to say yes.
 
@@ -79,20 +79,18 @@ Your **Approach** determines how many dice you start with. Approaches are rated 
 **Boons** represent advantages. Each Boon adds +1 die to your pool.
 
 **Common Boon sources:**
-- **Strong Vantage:** Grants 1 Boon (or 2 in exceptional circumstances) - see Chapter 2
+- **Favorable circumstances:** The GM grants 1 Boon (or 2 in exceptional circumstances) when positioning clearly favors you — high ground, flanking, surprise, ideal tools - see Chapter 2
 - **Assist:** An ally marks 1 Stress to grant you 1 Boon - see Chapter 4
 - **Push Yourself:** Mark 1 Stress to gain 1 Boon - see Chapter 4
 - **Create an Opening:** Spend 1 Momentum for 1 Boon + 1 Edge - see Chapter 5
 - **Talents:** Some Talents grant Boons in specific situations - see Chapter 9
-
-**Note:** Favorable circumstances (ideal tools, good positioning, surprise) are factored into **Vantage assessment**, not granted as separate Boons. If circumstances are favorable, the GM assesses Strong Vantage, which grants Boons.
 
 **Maximum: +2 Boons**
 
 Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** after all sources are combined.
 
 **Example:**
-- Strong Vantage (+1 Boon)
+- High ground over your enemy (+1 Boon)
 - Ally Assists (+1 Boon)
 - You Push Yourself (+1 Boon)
 - **Total: +2 Boons** (third Boon is wasted due to cap)
@@ -104,11 +102,9 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 **Banes** represent disadvantages. Each Bane removes -1 die from your pool.
 
 **Common Bane sources:**
-- **Limited Vantage:** Imposes 1-2 Banes - see Chapter 2
+- **Unfavorable circumstances:** The GM applies 1-2 Banes when circumstances hinder you — missing tools, poor footing, hostile weather, stretching your capability - see Chapter 2
 - **Conditions:** Each active Condition applies 1 Bane to relevant actions - see Chapter 4
 - **Burdens:** Each Burden applies 1 Bane to relevant actions (same as Conditions) - see Chapter 4
-
-**Note:** Unfavorable circumstances (poor tools, bad positioning, hostile environment) are factored into **Vantage assessment**, not applied as separate Banes. If circumstances are unfavorable, the GM assesses Limited Vantage, which imposes Banes.
 
 **Maximum: -2 Banes**
 
@@ -126,18 +122,18 @@ Multiple Bane sources stack, but you can lose **at most -2 dice from Banes** aft
 4. Apply the ±2 cap to whatever remains
 
 **Example 1:**
-- Strong Vantage: +1 Boon
+- Flanking with an ally: +1 Boon
 - Wounded Condition: -1 Bane
 - **Net: 0 modifier** (cancel out)
 
 **Example 2:**
-- Strong Vantage: +1 Boon
+- Flanking with an ally: +1 Boon
 - Ally Assists: +1 Boon
 - Wounded Condition: -1 Bane
 - **Net: +1 Boon** (2 Boons - 1 Bane = 1 Boon remaining)
 
 **Example 3:**
-- Limited Vantage: -2 Banes
+- No climbing gear on a rain-slick cliff: -2 Banes
 - You Push Yourself: +1 Boon
 - Ally Assists: +1 Boon
 - Wounded: -1 Bane
@@ -162,7 +158,7 @@ This represents a desperate, clumsy attempt when you lack capability or favorabl
 
 **Example:**
 - Champion with Charm 0 tries to Talk to a guard
-- Standard Vantage (no modifier)
+- No Boons or Banes apply
 - Pool: 0 dice → Roll 2d6, take lowest
 - Rolls: 4, 6 → Takes **4** (Conflict)
 
@@ -338,7 +334,7 @@ These three terms sound alike but do different things at different times:
 - Sometimes by Traits (GM discretion)
 
 **What Expertise doesn't do:**
-- Doesn't change your Vantage (you can still have Limited Vantage with Expertise)
+- Doesn't remove circumstantial Banes (you can be missing tools and still have Expertise)
 - Doesn't eliminate consequences (you still suffer Minor Consequence on converted Conflict)
 - Doesn't create Triumph (requires rolling double 6s)
 
@@ -370,13 +366,14 @@ Here's how all the pieces fit together when you make an Action Roll:
 1. **Declare Action & Approach** (Player)
    - "I attack the knight with my sword, using Daring"
 
-2. **Assess Vantage** (GM)
-   - GM determines: Certain / Strong / Standard / Limited / Impossible
+2. **Assess Circumstances** (GM)
+   - Certain? Narrate it. Impossible? Suggest another approach.
+   - Otherwise, GM states your Boons/Banes from circumstance
    - GM telegraphs consequences
 
 3. **Build Dice Pool** (Player)
    - Start with Approach (e.g., Daring 3 = 3 dice)
-   - Add Boons (Strong Vantage = +1, total 4 dice)
+   - Add Boons (high ground = +1, total 4 dice)
    - Remove Banes (Wounded Condition = -1, total 3 dice)
    - Apply Boon/Bane cap (already within ±2)
 
@@ -461,7 +458,7 @@ Understanding the odds helps you make informed tactical decisions.
 
 Now that you understand how the Action Roll works, the next chapters add context:
 
-- **Chapter 2: Taking Action** — What the five Actions do, how Approaches work, how the GM assesses Vantage
+- **Chapter 2: Taking Action** — What the five Actions do, how Approaches work, how circumstances become Boons and Banes
 - **Chapter 3: Outcomes & Consequences** — What happens after the Action Roll, how Complications work, Progress tracks
 - **Chapter 4: Resilience** — Stress, Conditions, Push Yourself, Assist
 - **Chapter 5: Momentum** — How to earn and spend Momentum

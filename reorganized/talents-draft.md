@@ -120,7 +120,7 @@ When you roll **Success or better on a Sense roll** in combat or a tense situati
 **Charge** *(Champion or Vanguard)*
 *You close the gap before they can react.*
 
-When you move to an adjacent zone (Near) and Clash in the same spotlight pass, you do not suffer reduced Vantage from the movement. Resolve the Clash at whatever Vantage the destination fiction would grant (as if you were already there).
+When you move to an adjacent zone (Near) and Clash in the same spotlight pass, you do not suffer the Bane from the movement. Resolve the Clash with whatever Boons/Banes the destination fiction would grant (as if you were already there).
 
 ---
 
@@ -134,7 +134,7 @@ After resolving your action, you may move one zone. This repositioning is free â
 **Fleet of Foot** *(Hunter or Shadow)*
 *You cover ground others cannot.*
 
-You may move to a Far zone (2+ zones) as part of your action instead of it consuming your entire turn. The GM factors the extended movement into your Vantage as normal.
+You may move to a Far zone (2+ zones) as part of your action instead of it consuming your entire turn. The GM factors the extended movement into your Boons/Banes as normal.
 
 ---
 
@@ -277,7 +277,7 @@ Your presence commands attention. When you enter a scene or address someone dire
 ### Champion (or Vanguard)
 
 **Dauntless**
-When you would act from Limited Vantage, gain 1 Boon. Your courage and determination push through circumstances that would give others pause.
+When circumstances would apply Banes to your action, ignore 1 of them. Your courage and determination push through circumstances that would give others pause. (Does not apply to Banes from Conditions or Burdens â€” only circumstantial ones.)
 
 ### Any Calling (Cross-Calling Candidates)
 

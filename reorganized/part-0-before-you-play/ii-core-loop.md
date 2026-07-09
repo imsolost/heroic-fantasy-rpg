@@ -14,8 +14,8 @@ The GM describes what's happening in the world—where you are, what you see, wh
 ### 2. Player Declares Action
 You say what your character does and how. You describe your intent and your approach.
 
-### 3. GM Assesses Vantage
-The GM evaluates your capability, tools, and circumstances, and tells you what you're working with—whether you can attempt this, how difficult it is, and what the consequences of failure might be.
+### 3. GM Assesses the Situation
+The GM evaluates your capability, tools, and circumstances, and tells you what you're working with—whether you can attempt this, any Boons or Banes that apply, and what the consequences of failure might be.
 
 ### 4. Player Rolls Dice
 You build a dice pool (your Approach + modifiers), roll, and check the highest die.
@@ -58,7 +58,7 @@ Let's walk through one action in detail to show how all six steps fit together.
 
 ---
 
-### Step 3: GM Assesses Vantage
+### Step 3: GM Assesses the Situation
 
 The GM evaluates the Shadow's fictional positioning:
 
@@ -70,15 +70,15 @@ The GM evaluates the Shadow's fictional positioning:
 - **Favorable:** Guards' backs are turned, shadows along the wall provide concealment, short distance (forty feet)
 - **Unfavorable:** Open ground, moonlight, time pressure (guards will turn around soon)
 
-The GM weighs these factors and assesses **Standard Vantage** (no modifier—you're capable and have the right tools, but it's still risky).
+The GM weighs these factors — the favorable and unfavorable roughly balance out — and rules **no modifier** (you're capable and have the right tools, but it's still risky).
 
 The GM also considers what happens if the roll goes poorly:
 - **On Conflict:** You make it, but the guards hear something and investigate (minor consequence)
 - **On Setback:** A guard spots you, shouts, and the alarm is raised (major consequence)
 
-> **GM:** "Okay, this is **Standard Vantage**—you've got the skills and the setup, but it's still a tense moment. Roll your Grace. On **Conflict**, you make it across but a guard hears something—they'll come investigate. On **Setback**, you're spotted and the alarm goes up. On **Success**, you make it clean. Sound good?"
+> **GM:** "Okay, no Boons or Banes—you've got the skills and the setup, but it's still a tense moment. Roll your Grace. On **Conflict**, you make it across but a guard hears something—they'll come investigate. On **Setback**, you're spotted and the alarm goes up. On **Success**, you make it clean. Sound good?"
 
-**What the GM is doing:** Communicating Vantage before the roll, telegraphing consequences so the player knows what they're risking, giving the player a chance to change their approach if they don't like the odds.
+**What the GM is doing:** Communicating the modifier before the roll, telegraphing consequences so the player knows what they're risking, giving the player a chance to change their approach if they don't like the odds.
 
 ---
 
@@ -87,7 +87,7 @@ The GM also considers what happens if the roll goes poorly:
 The Shadow's **Grace** is **2**, so they start with **2 dice**.
 
 **Modifiers:**
-- No Boons or Banes apply (Standard Vantage, no Conditions, no Complications from enemies)
+- No Boons or Banes apply (neutral circumstances, no Conditions, no Complications from enemies)
 
 **Dice pool: 2d6**
 
@@ -130,7 +130,7 @@ And the loop begins again: GM frames → player declares → GM assesses → pla
 
 **Fiction drives mechanics.** The player didn't say "I roll Stealth." They described what their character was doing, and the GM determined which mechanics applied.
 
-**Vantage is transparent.** The GM told the player what they were rolling and what would happen on each outcome before dice hit the table.
+**The odds are transparent.** The GM told the player what they were rolling and what would happen on each outcome before dice hit the table.
 
 **Conflict isn't failure.** The Shadow succeeded at their goal (crossed the courtyard) but paid a cost (guards heard something). This keeps the story moving forward.
 
@@ -144,7 +144,7 @@ And the loop begins again: GM frames → player declares → GM assesses → pla
 The GM isn't trying to stop the Shadow. They're portraying a dangerous world and asking "What happens?" They want to see how the Shadow handles this.
 
 ### Players Have Agency
-The player chose their approach. If they didn't like the odds at Standard Vantage, they could have:
+The player chose their approach. If they didn't like the odds, they could have:
 - Spent Momentum to Create an Opening (gain a Boon)
 - Asked an ally to Assist (gain a Boon)
 - Changed their approach (wait longer, find a different route)
@@ -161,10 +161,10 @@ It's not "success or failure." It's Triumph / Success / Conflict / Setback—fou
 
 Not every action requires all six steps. Sometimes the loop is faster:
 
-**Certain Vantage (no roll needed):**
+**Certain (no roll needed):**
 1. GM frames → 2. Player declares → 3. GM assesses (Certain) → 6. GM narrates success
 
-**Impossible Vantage (can't attempt):**
+**Impossible (can't attempt):**
 1. GM frames → 2. Player declares → 3. GM assesses (Impossible) → GM suggests different approach
 
 **Group action (multiple players):**
@@ -178,10 +178,10 @@ But the core structure remains: frame, declare, assess, roll (if needed), interp
 
 Now that you've seen the core loop in action, the rest of the rules add detail:
 
-- **Part 1: The Rules** breaks down each step: what Actions do, how Vantage works, what consequences mean, how Momentum flows, etc.
+- **Part 1: The Rules** breaks down each step: what Actions do, how circumstances become Boons and Banes, what consequences mean, how Momentum flows, etc.
 - **Part 2: Your Character** shows you how to build a hero with Traits, Talents, and a Calling
 - **Part 3: Running the Game** (GMs only) provides tools for building challenges, running scenes, and making GM moves
-- **Part 4: Reference** gives you quick-lookup tables for Vantage, consequences, and other at-table needs
+- **Part 4: Reference** gives you quick-lookup tables for consequences, Conditions, and other at-table needs
 
 But if all you remember is this loop—frame, declare, assess, roll, interpret, narrate—you can play Archon.
 

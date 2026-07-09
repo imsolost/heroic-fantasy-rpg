@@ -26,7 +26,7 @@ Spellcasting uses the same Action Roll system as everything else (Chapter 1). Th
 **2. GM Assesses**
 - Is this within your touchstones? (If not, it's Impossible)
 - What magnitude is this? (Cantrip / Spell / Potent Spell)
-- What Vantage applies? (Chapter 2)
+- Any Boons or Banes from circumstance? (Chapter 2)
 - Any Complications from the target?
 - What happens on Conflict or Setback?
 
@@ -221,7 +221,7 @@ See Chapter 9 for the Mystic's Core Talent (Spiritual Communion), which defines 
 When a player proposes a spell effect, ask:
 1. **Does this fit their touchstones?** If yes, proceed. If no, it's not possible.
 2. **Is this reasonable in scope?** (See Magnitude below)
-3. **What's the risk?** (Set Vantage and telegraph consequences)
+3. **What's the risk?** (Assign any Boons/Banes and telegraph consequences)
 
 Touchstones should be flexible but not infinite. An Energy mage can create light (fire produces light) but cannot read thoughts. A Mind mage can compel actions but cannot teleport.
 
@@ -265,7 +265,7 @@ Meaningful magical effects that influence scenes, harm enemies, solve problems, 
 - Scry a distant location (Sense, ask questions)
 - Identify a magical artifact (Know, learn its properties)
 
-**Default Vantage:** Standard (no modifier) for most spells within your touchstones.
+**Default modifier:** None — most spells within your touchstones roll without Boons or Banes.
 
 ---
 
@@ -464,7 +464,7 @@ Describe what your magic looks like. Magic should be visceral and obvious unless
 - Energy wards: Shimmering barriers, crystalline sounds, faint glow
 - Divination: Eyes glow, ethereal visions, sense of distant presence
 
-**Concealing magic:** If you want to cast without being noticed, this may require specific touchstones (Mind for mental-only effects) or impose additional difficulty (Limited Vantage, Complications from alert observers).
+**Concealing magic:** If you want to cast without being noticed, this may require specific touchstones (Mind for mental-only effects) or impose additional difficulty (1-2 Banes, Complications from alert observers).
 
 ---
 
@@ -576,7 +576,7 @@ If your table has both a Sage and a Mystic, be aware they operate on different e
 
 ## Quick Reference
 
-**Casting:** Declare intent → GM assesses magnitude/Vantage → Roll (Cunning for Sage, Spirit for Mystic) + Action → Resolve outcome
+**Casting:** Declare intent → GM assesses magnitude/Boons/Banes → Roll (Cunning for Sage, Spirit for Mystic) + Action → Resolve outcome
 
 **Magnitude:**
 - Cantrip: Automatic, no roll, trivial effects
@@ -599,4 +599,4 @@ If your table has both a Sage and a Mystic, be aware they operate on different e
 With Parts 1 (The Rules) and 2 (Your Character) complete, the remaining sections cover:
 
 - **Part 3: Running the Game** — GM guidance, encounter design, campaign structure
-- **Part 4: Reference** — Vantage guide, Complication tags, condition lists, quick-play aids
+- **Part 4: Reference** — When-to-roll guide, Complication tags, Condition lists, quick-play aids

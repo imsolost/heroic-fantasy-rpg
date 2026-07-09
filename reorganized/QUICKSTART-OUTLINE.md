@@ -207,10 +207,11 @@ When narratively relevant and you roll **Conflict or better**, invoke your Trait
 - Failure is not a wall, it's a complication
 - Think offscreen too
 
-**Assessing Difficulty (Vantage):**
+**Assessing Difficulty (Boons/Banes):**
 - **Certain:** No roll needed (automatic success)
-- **Strong:** Standard roll (1 Boon if advantaged)
-- **Limited:** Roll with 1-2 Banes (poor tools/positioning)
+- **Advantaged:** Roll with 1 Boon (dominant position)
+- **Baseline:** Roll with no modifier
+- **Disadvantaged:** Roll with 1-2 Banes (poor tools/positioning)
 - **Impossible:** Cannot attempt (suggest different approach)
 
 **Setting Stakes:**
@@ -230,7 +231,7 @@ When narratively relevant and you roll **Conflict or better**, invoke your Trait
 **First Session Tips:**
 - Start with action (mid-scene, not tavern)
 - Ask players to describe their characters in action
-- Telegraph Vantage and Stakes before rolls
+- Telegraph Boons/Banes and Stakes before rolls
 - Let failure create interesting complications
 - Keep Momentum flowing (reward bold choices)
 
@@ -245,7 +246,7 @@ After this Quick Start, you have enough to run your first session. For your next
 **Players:**
 - **Part 1: The Rules** (Chapters 1-6) — Complete mechanical detail
 - **Part 2: Your Character** (Chapters 7-10) — Full character creation, advancement, Callings, spellcasting
-- **Part 3: Reference** — At-table quick reference (Vantage, Stakes, Cheat Sheet)
+- **Part 3: Reference** — At-table quick reference (when to roll, Stakes, Cheat Sheet)
 
 **GMs:**
 - Read everything players read, plus:

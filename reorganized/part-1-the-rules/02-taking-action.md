@@ -1,12 +1,12 @@
 # Chapter 2: Taking Action
 
-When you face uncertainty in **Archon**, you take action. This chapter covers **what** you can do (the five Actions), **how** you do it (the five Approaches), and how the GM assesses whether you can attempt it and how difficult it is (Vantage).
+When you face uncertainty in **Archon**, you take action. This chapter covers **what** you can do (the five Actions), **how** you do it (the five Approaches), and how the GM assesses whether you can attempt it and how difficult it is (Boons and Banes from circumstance).
 
 **What you'll learn:**
 - The five Actions (Defy, Clash, Talk, Sense, Know)
 - The five Approaches (Daring, Grace, Charm, Cunning, Spirit)
 - How Actions and Approaches combine
-- Vantage: how the GM assesses capability and difficulty
+- Boons and Banes from circumstance: how the GM assesses capability and difficulty
 - High Stakes and Potent Actions (modifiers that raise consequences or effects)
 - When to roll vs. when to just say yes
 
@@ -289,60 +289,55 @@ You want to cross a courtyard without being spotted. That's **Defy** (overcoming
 - **Cunning:** Wait for the right moment, use distractions, exploit blind spots
 - **Spirit:** Focus intensely, moving with absolute conviction
 
-**Different Approaches can lead to different Vantage assessments:**
-- Grace with dark clothing at night → **Standard** (good tools for stealth)
-- Daring while wearing plate armor in moonlight → **Limited** (terrible for stealth)
-- Cunning after studying guard patterns → **Strong** (you've planned the approach)
+**Different Approaches can lead to different assessments:**
+- Grace with dark clothing at night → **no modifier** (good tools for stealth)
+- Daring while wearing plate armor in moonlight → **1-2 Banes** (terrible for stealth)
+- Cunning after studying guard patterns → **1 Boon** (you've planned the approach)
 
 ---
 
-## Vantage: Assessing Capability and Difficulty
+## Boons and Banes from Circumstance
 
-**Vantage** represents your fictional positioning—capability, tools, and circumstances. The GM assesses Vantage before you roll to determine:
-1. Can you attempt this?
-2. How difficult is it?
+Before you roll, the GM assesses your fictional positioning — capability, tools, and circumstances — and translates it into Boons, Banes, or a decision that no roll is needed at all.
 
-### The Five Vantage Tiers
+**Two things the GM checks first, before any dice math:**
 
-**Certain** — Clear capability + proper tools + trivial task  
-- **No roll required** → Automatic success (or obvious failure)
-- *Example: Champion swinging sword at helpless target, Shadow picking simple lock with tools*
+**Is this Certain?** If your capability, tools, and circumstances make success obvious — or make failure obvious — no roll happens. The GM simply narrates the outcome.
 
-**Strong** — Golden opportunity, dominant advantage  
-- **Roll with 1 Boon** (advantageous position)
-- *Example: High ground + flanking, surprise attack, perfect setup*
+*Example: Champion swinging a sword at a helpless, tied-up prisoner. Shadow picking a simple lock with the right tools and no time pressure.*
 
-**Standard** — Head-to-head, acting under duress, taking a chance  
-- **Roll with no modifier** (baseline for most rolls)
-- *Example: Climbing with rope, persuading neutral guard, casting known spell*
+**Is this Impossible?** If you fundamentally lack the capability for what you're attempting, you can't attempt it this way. The GM tells you so and you look for a different approach.
 
-**Limited** — Lacking ideal tools/positioning, stretching capability  
-- **Roll with 1-2 Banes** (depending on severity)
-- *Example: Climbing without gear (1 Bane), climbing crumbling wall without gear (2 Banes)*
+*Example: Casting spells without being a spellcaster. Attacking someone in another city right now.*
 
-**Impossible** — Lacking fundamental capability or fiction doesn't support it  
-- **Cannot attempt** with this approach
-- *Example: Casting spells without being a spellcaster, attacking someone in another city*
+**If neither applies, you're rolling — and the GM tells you your modifier directly:**
 
-**See the Vantage Reference (Part 4) for complete framework, examples, and GM guidance.**
+- **Golden opportunity, dominant advantage** → Roll with **1 Boon** (occasionally 2, in exceptional circumstances)
+- **Head-to-head, acting under duress, taking a chance** → Roll with **no modifier**
+- **Lacking ideal tools or positioning, stretching your capability** → Roll with **1-2 Banes**, depending on severity
 
----
+**Examples of no modifier (baseline roll):**
+- Fighting an evenly-matched opponent
+- Picking a lock under time pressure but with the right tools
+- Convincing someone who's skeptical but not hostile
+- Climbing with proper gear in fair weather
 
-### How the GM Assesses Vantage
+The GM states the result directly: "That's 1 Bane — you don't have the right gear." No separate difficulty vocabulary to translate — just the modifier and the reason.
 
-The GM asks three questions:
+**Multiple factors stack the same way Boons and Banes always do** (see Chapter 1) — cancel 1:1, then cap at ±2. If you're missing tools *and* the weather's against you, that's 2 Banes, not a jump to some higher tier.
 
-1. **Does the character have the capability?** (Training, Calling, background)
-2. **Do they have appropriate tools?** (Weapons, lockpicks, climbing gear, etc.)
-3. **Are circumstances favorable, neutral, or hostile?** (Positioning, environment, timing)
-
-**Vantage is transparent:** The GM tells you your Vantage **before you roll**, so you can adjust your approach or seek advantages if you don't like the odds.
+**What you're assessing:** External factors — positioning, tools, circumstances, environment. Not task difficulty, not the character's general capability. "The cliff is slippery" grants a Bane; "cliffs are hard" doesn't. If the challenge is inherently difficult, that's what Complications (enemy defenses) are for, not Boons/Banes.
 
 **Example:**
-> **Player:** "I want to climb the sheer cliff face to reach the fortress."  
-> **GM:** "You're a capable adventurer but not a trained climber—that's stretching your capability. You have rope but no proper climbing gear. The cliff is wet from rain. That's **Limited Vantage** (1 Bane). Want to try something else, or look for advantages?"  
-> **Player:** "Can I spend Momentum to Create an Opening?"  
-> **GM:** "Sure. Spend 1 Momentum for 1 Boon + 1 Edge. That cancels the Bane, so you're back to Standard."
+> **Player:** "I want to climb the sheer cliff face to reach the fortress."
+> 
+> **GM:** "You're a capable adventurer but not a trained climber — that's stretching your capability. You have rope but no proper climbing gear, and the cliff is wet from rain. That's 2 Banes. Want to try something else, or look for advantages?"
+> 
+> **Player:** "Can I spend Momentum to Create an Opening?"
+> 
+> **GM:** "Sure. Spend 1 Momentum for 1 Boon + 1 Edge. That cancels one Bane — you're down to 1 Bane now."
+
+**Transparency matters:** The GM tells you your Boon/Bane count *before* you roll — this is your chance to seek advantages (Assist, Push Yourself, Create an Opening) or reconsider your approach.
 
 ---
 
@@ -356,9 +351,7 @@ For **rare climactic moments**—boss fights, life-or-death decisions, catastrop
 
 **When to use:** Boss fights, ritual completion, defusing a bomb, saving a falling ally.
 
-**When NOT to use:** Most rolls. Vantage already handles difficulty. High Stakes is only for when failure demands exceptional narrative weight.
-
-**See the Vantage Reference (Part 4) for complete High Stakes guidance.**
+**When NOT to use:** Most rolls. Circumstantial difficulty is already handled by Boons and Banes. High Stakes is only for when failure demands exceptional narrative weight.
 
 ---
 
@@ -374,7 +367,7 @@ When you perform a Potent Action, you gain all of the following:
 
 **1. Edge +1** — Ignore 1 Complication (stacks with other Edge sources)
 
-**2. Expanded Possibility** — Potency makes the impossible possible. If the GM would normally rule an action Impossible for this character, Potency shifts it to Limited (roll with 1-2 Banes, but you *can* attempt it). Potency does not shift any other Vantage tier — it only unlocks what would otherwise be completely out of reach.
+**2. Expanded Possibility** — Potency makes the impossible possible. If the GM would normally rule an action Impossible for this character, Potency makes it attemptable instead — roll with 1-2 Banes. Potency doesn't improve rolls that were already possible — it only unlocks what would otherwise be completely out of reach.
 
 **3. Narrative permission:** Perform actions beyond normal scope. You can attempt something that would normally require a group of people to accomplish, stretch your capabilities to something just beyond mortal limits, or achieve mystical effects within your domain.
 
@@ -392,7 +385,7 @@ The dimension emerges from your intent — describe what you're trying to accomp
 
 1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress)
 2. **Declare intent:** Describe what you're attempting and which scale dimension you're aiming for
-3. **GM assesses Vantage:** If Impossible, Potency shifts it to Limited. Otherwise Vantage is unchanged.
+3. **GM assesses the attempt:** If the GM would normally rule this Impossible, Potency makes it attemptable instead — roll with 1-2 Banes. Otherwise your Boons/Banes are unchanged.
 4. **Roll:** Roll as normal with your +1 Edge (plus the Boon from Push Yourself, if that's how you activated).
 5. **Resolve:** Apply outcome. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
 
@@ -402,19 +395,19 @@ Remember: when you Push Yourself to activate a Talent, you gain both the normal 
 
 **Champion holds a collapsing portcullis (Potent feat of strength):**
 - Normal: Impossible (no one person can hold this)
-- With Potency: Limited (1 Bane) + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
+- With Potency: Attemptable at 1 Bane + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
 
 **Hunter tracks quarry through rain-washed stone (Potent feat of tracking):**
 - Normal: Impossible (rain destroyed all visible tracks — no mortal tracker could follow this)
-- With Potency: Limited (1 Bane) + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
+- With Potency: Attemptable at 1 Bane + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
 
 **Sage overwhelms a magical ward (Potent Spell):**
-- Normal: Standard (Warded Complication would reduce outcome)
-- With Potency: Standard + 1 Boon (from Push) + 1 Edge (ignores ward's Complication) + Heightened Impact (blast through completely)
+- Normal: Possible, but the Warded Complication would reduce the outcome
+- With Potency: 1 Boon (from Push) + 1 Edge (ignores ward's Complication) + Heightened Impact (blast through completely)
 
 **Vanguard shields the entire party from dragonfire (Potent feat with shield):**
 - Normal: Could protect self only
-- With Potency: Standard + 1 Boon (from Push) + 1 Edge + Widespread Effect (cover all nearby allies)
+- With Potency: 1 Boon (from Push) + 1 Edge + Widespread Effect (cover all nearby allies)
 
 ### Potency and Special Effects
 
@@ -436,9 +429,9 @@ Not every declared action requires a roll.
 - Success **matters to the story**
 
 **Don't make an Action Roll when:**
-- **Certain Vantage:** The outcome is assured (either success or failure)
+- **Certain:** The outcome is assured (either success or failure)
 - **Uninteresting failure:** Rolling wouldn't add value even if outcome is uncertain
-- **Impossible Vantage:** They can't attempt this approach (suggest different approach)
+- **Impossible:** They can't attempt this approach (suggest different approach)
 
 **Examples of "just say yes":**
 - Champion attacking a tied-up, helpless prisoner → Certain, just happens
@@ -471,7 +464,7 @@ When you take action, follow this flow:
 **Example:**
 > "I want to get past the guard without being noticed. I'm using **Defy** to overcome the obstacle. I'm doing it with **Cunning** by waiting for the right moment and using the shadows. I'm wearing dark clothing and I've been watching their patrol pattern for the last ten minutes."
 
-The GM then assesses Vantage, you build your dice pool, and you make the Action Roll (see Chapter 1).
+The GM then tells you your Boons/Banes, you build your dice pool, and you make the Action Roll (see Chapter 1).
 
 ---
 
@@ -490,7 +483,7 @@ Most RPGs have either:
 - Fiction-first (describe what you do, then pick the Action that fits)
 
 **Five Approaches provide nuance:**
-- How you act matters (affects Vantage, Consequence types, narrative color)
+- How you act matters (affects circumstantial Boons/Banes, Consequence types, narrative color)
 - Starting array (3/2/1/1/0) gives characters distinct strengths and weaknesses
 - Every character has one Approach at 0—forces teamwork, creates interesting challenges
 
@@ -498,11 +491,11 @@ Most RPGs have either:
 
 ## What's Next
 
-Now you know what Actions you can take, how Approaches shape them, and how Vantage determines difficulty. The next chapters cover what happens after the roll:
+Now you know what Actions you can take, how Approaches shape them, and how circumstances determine difficulty. The next chapters cover what happens after the roll:
 
 - **Chapter 3: Outcomes & Consequences** — What the four outcomes mean, how Complications work, Progress tracks
 - **Chapter 4: Resilience** — Stress, Conditions, Push Yourself, Assist
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects
 
-**For complete Vantage guidance and examples, see the Vantage Reference (Part 4).**
+**For GM guidance on when to roll and assessing circumstances, see Chapter 11.**

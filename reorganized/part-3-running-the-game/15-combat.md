@@ -45,12 +45,12 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 | Movement | Rule |
 |----------|------|
 | Within your zone (Close) | Free, part of any action |
-| To adjacent zone (Near) | Part of your action — but moving and acting generally reduces your Vantage |
+| To adjacent zone (Near) | Part of your action — but moving and acting generally costs you a Bane |
 | To distant zone (Far) | Full action, Defy to arrive safely |
 | Through enemy zones | Always requires a Defy roll |
 | Through hazards or obstacles | Always requires a Defy roll |
 
-**Moving Near + acting:** You can move to an adjacent zone and take an action (Clash, Defy, Talk, etc) in the same spotlight pass. The GM factors the movement into your Vantage — charging across open ground toward an archer is Limited Vantage; stepping from cover into an adjacent melee is Standard. Describe your approach and the fiction determines the assessment.
+**Moving Near + acting:** You can move to an adjacent zone and take an action (Clash, Defy, Talk, etc) in the same spotlight pass. The GM factors the movement into your Boons/Banes — charging across open ground toward an archer is 1 Bane; stepping from cover into an adjacent melee is no modifier. Describe your approach and the fiction determines the assessment.
 
 **Moving Far:** Reaching a distant zone takes your entire action. Roll Defy — normal outcomes apply.
 
@@ -60,34 +60,34 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 **Difficult Terrain:** Zones with dense undergrowth, deep mud, rubble, or similar obstacles reduce your movement by one step — Near becomes your full action, Far is impossible without a Talent.
 
-### Positioning and Vantage
+### Positioning
 
-Position is one of the factors the GM considers when assessing Vantage (see Chapter 2). Strong positioning improves your Vantage; poor positioning worsens it.
+Position is one of the circumstances the GM weighs when assigning Boons and Banes (see Chapter 2). Strong positioning earns you a Boon; poor positioning costs you a Bane.
 
-**Factors that improve Vantage:**
+**Positioning that grants 1 Boon:**
 - High ground, cover, flanking with an ally, superior terrain
 
-**Factors that worsen Vantage:**
-- Surrounded, pinned down, poor footing, exposed to multiple threats, rushing to nearby location
+**Positioning that applies 1 Bane:**
+- Surrounded, pinned down, poor footing, exposed to multiple threats, rushing to a nearby location
 
-This isn't a separate system — it's the same Vantage assessment the GM always makes, applied to the spatial fiction of combat.
+This isn't a separate system — it's the same circumstantial assessment the GM always makes, applied to the spatial fiction of combat.
 
 ### Weapon Range
 
-Weapons have a natural range (Close, Near, or Far). Using a weapon outside its range affects your Vantage:
+Weapons have a natural range (Close, Near, or Far). Using a weapon outside its range affects your roll:
 
 | Weapon Type | Close | Near | Far |
 |-------------|-------|------|-----|
-| **Melee** (sword, axe) | Standard + Strong vs. non-melee | Impossible | Impossible |
-| **Short Range** (thrown, pistol) | Limited | Standard | Impossible |
-| **Long Range** (bow, crossbow) | Impossible | Standard | Limited |
+| **Melee** (sword, axe) | No modifier (+1 Boon vs. non-melee foe) | Impossible | Impossible |
+| **Short Range** (thrown, pistol) | 1 Bane | No modifier | Impossible |
+| **Long Range** (bow, crossbow) | Impossible | No modifier | 1 Bane |
 
 **Key interactions:**
-- Melee weapons grant **Strong Vantage** against foes without a melee weapon of their own (knife-fight advantage)
+- Melee weapons grant **1 Boon** against foes without a melee weapon of their own (knife-fight advantage)
 - Long range weapons **cannot fire in melee** — too unwieldy at Close range
-- Short range weapons work at Close range but are awkward (Limited)
+- Short range weapons work at Close range but are awkward (1 Bane)
 
-> **Simple default:** If weapon range isn't important to your table, just use Limited Vantage at Far range and ignore the rest.
+> **Simple default:** If weapon range isn't important to your table, just apply 1 Bane at Far range and ignore the rest.
 
 ### When to Use Zones
 

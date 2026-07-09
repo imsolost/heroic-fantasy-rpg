@@ -64,7 +64,7 @@ You **succeed** at your action (mark tracks, get info, overcome obstacles) but f
 **Common Minor Consequences:**
 - Mark **1 Stress**
 - Gain a **Tier 1 Condition** (Wounded 1, Frightened 1, etc.)
-- Lose position or advantage (can shift Vantage down)
+- Lose position or advantage (subsequent rolls suffer 1 Bane until you recover it)
 - Attract attention or raise suspicion
 - Take longer than expected
 - Warn of imminent danger (enemy prepares to strike, trap activates)
@@ -224,7 +224,7 @@ Challenges have **Complication tags** that describe when they apply:
 **Obstacle Track** — Progress toward overcoming environmental Challenge
 - **Used by:** Defy (overcoming obstacles)
 - **When filled:** Obstacle overcome (lock picked, wall climbed, trap disarmed)
-- **Note:** Know provides information that may improve your Vantage, but Defy marks the track
+- **Note:** Know provides information that may earn you a circumstantial Boon, but Defy marks the track
 
 **Countdown Track** (GM-facing only) — Time pressure or escalating threat
 - **Used by:** GM to represent threats

@@ -37,7 +37,7 @@ If you've played **Apocalypse World**, **Blades in the Dark**, **Fate**, or **Ir
 
 **Five actions, not a skill list.** Every risky action falls into one of five categories: **Defy**, **Clash**, **Talk**, **Sense**, or **Know**. What you're trying to accomplish is clear from the action itself.
 
-**Vantage over difficulty.** Instead of static difficulty numbers, the GM assesses your **Vantage**—your capability, tools, and circumstances—and tells you what you're working with before you roll. You always know the odds.
+**Fiction over difficulty numbers.** Instead of static difficulty targets, the GM assesses your capability, tools, and circumstances—and tells you your Boons and Banes before you roll. You always know the odds.
 
 **Traits over skills.** You don't have Stealth 3 or Diplomacy 5. You have **Traits**—short phrases like *"Raised by Wolves"* or *"Former Assassin"*—that grant powerful options when they're narratively relevant.
 
@@ -109,7 +109,7 @@ The rules that follow are comprehensive, but don't let that intimidate you. At i
 3. If the outcome is uncertain, you roll dice
 4. The GM narrates what happens next
 
-Everything else—actions, approaches, Vantage, Momentum, Traits—is detail built on that foundation.
+Everything else—Actions, Approaches, Boons and Banes, Momentum, Traits—is detail built on that foundation.
 
 The next section (**The Core Loop**) walks through one complete action from start to finish. Read that next to see how the game flows, then dive into the full rules.
 

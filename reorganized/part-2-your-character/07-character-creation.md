@@ -41,7 +41,7 @@ Assign the starting array **3 / 2 / 1 / 1 / 0** to your five Approaches:
 
 Your **3** is your primary method — how you solve most problems. Your **0** is a weakness or untrained area.
 
-**See Chapter 2 for how Approaches interact with Actions and Vantage.**
+**See Chapter 2 for how Approaches interact with Actions and circumstantial Boons/Banes.**
 
 ### Choosing Your Array
 

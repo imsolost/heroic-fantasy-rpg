@@ -50,13 +50,13 @@ Capitalize when referring to specific game mechanics:
 - Outcomes: Setback, Conflict, Success, Triumph
 - Resources: Stress, Momentum, Edge
 - Character Elements: Trait, Calling, Talent, Scale
-- Mechanics: Boon, Bane, Complication, Vantage, Stakes
+- Mechanics: Boon, Bane, Complication, Stakes, Certain, Impossible
 - Progress Tracks: Harm, Will, Obstacle, Countdown
 - Other: Expertise, Push Yourself, Assist, Create an Opening, Resist Consequence
 
 Do NOT capitalize when used generically:
-- "You have vantage in this situation" (lowercase - generic usage)
-- "Assess your Vantage" (capitalized - referring to the mechanic)
+- "The conflict escalated" (lowercase - narrative usage)
+- "You rolled Conflict" (capitalized - referring to the outcome)
 
 ---
 

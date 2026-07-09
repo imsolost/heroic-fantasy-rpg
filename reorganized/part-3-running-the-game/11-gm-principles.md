@@ -160,29 +160,58 @@ One dramatic roll creates stakes. The outcome determines the cost in a single mo
 
 ---
 
-## Assessing Vantage
+## When to Roll
 
-When a player declares an action, assess their external fictional positioning before they roll. Vantage reflects tools, circumstances, and tactical situation — not character skill (that's Approaches).
+Before calling for dice, ask three questions:
 
-- **Certain** → Auto-success, no roll needed
-- **Strong** → Roll with 1 Boon
-- **Standard** → Standard roll, no modifier
-- **Limited** → Roll with 1-2 Banes
-- **Impossible** → Cannot attempt with this approach
+**1. Can they attempt this?**
 
-**Three Quick Questions:**
+Do they have the fundamental capability, or does the fiction rule it out entirely? If capability is genuinely absent — no training, no tool that could substitute, no fictional path to success — this is **Impossible**. Say so, and suggest a different approach. Don't make them roll to fail at something they were never going to succeed at.
 
-1. **Can they attempt this?** (Do they have capability, tools, positioning?) If no → Impossible.
-2. **What's their Vantage?** (Given who they are and the situation.) Assign Boons/Banes.
-3. **Is failure interesting?** (Would failure create drama?) If no → Don't roll, let it happen.
+**2. Is the outcome already obvious?**
+
+If success or failure is a foregone conclusion given who they are and what they're facing, this is **Certain**. Don't roll — narrate what happens. Rolling for a foregone conclusion wastes the table's time and cheapens the moments where dice really matter.
+
+**3. If neither of the above — what's their modifier?**
+
+Weigh capability, tools, and circumstances together, then tell the player directly:
+- Dominant advantage → **1 Boon**
+- Straightforward attempt → **no modifier**
+- Missing tools or stretching capability → **1-2 Banes**
+
+**Say Yes When:** success is trivial, failure would just stall progress, there's no time pressure or danger, the action is routine. *(This is your Certain case — narrate it and move on.)*
+
+**Say No When:** the action makes no fictional sense, it's impossible given established facts, it would break the core fiction or tone. *(This is your Impossible case — redirect, don't punish.)*
+
+**Roll When:** the outcome is genuinely uncertain and both success and failure would be interesting. Tell the player their Boon/Bane count before they build their pool.
 
 **Examples:**
+- "I climb the ladder" → Say yes (Certain, unless it's trapped or under fire)
+- "I jump across the 30-foot chasm" → Roll (uncertain, dangerous) — no modifier if they've got room for a running start, 1 Bane if the footing's bad
+- "I flap my arms and fly" → Say no (Impossible — nothing in the fiction supports it)
+- "I pick the lock" without tools → Roll with 1 Bane
+- "I swing my sword" with a broken arm → Impossible — "that won't work, try something else"
+- Convincing a guard who doesn't speak your language, via Talk → Impossible for this approach — suggest gestures (Defy?) or finding a translator instead
 
-- "I pick the lock" without tools → Limited (1 Bane)
-- "I swing sword" with broken arm → Impossible → "That won't work, try something else"
-- Convincing a guard who doesn't speak your language → Impossible via Talk → Suggest a different approach
+**Transparency matters.** Tell players their Boon/Bane count *before* they roll — it's their chance to seek an advantage (Assist, Push Yourself, Create an Opening) or reconsider their approach before committing dice.
 
-For the complete Vantage framework with detailed examples and edge cases, see **Part 4: Vantage Reference**.
+### Granting Circumstantial Boons and Banes
+
+**When to grant 1 Boon:** Positioning clearly favors the PC. High ground, flanking with an ally, superior cover, prepared ambush, exploiting a known weakness. These are fictional advantages, not mechanical spends.
+
+**When to apply 1-2 Banes:** Circumstances hinder the action. Missing tools, poor footing, hostile weather, acting under pressure, rushing, stretching capability beyond training. Stack Banes for multiple hindrances, cap at 2 total.
+
+**What you're assessing:** External factors — tools, positioning, environment, circumstances. Not task difficulty ("this is hard"), not the character's general skill (that's Approaches). "The cliff is slippery" grants a Bane; "cliffs are hard" doesn't. Inherent difficulty comes from Complications on Challenges, not from circumstantial Banes.
+
+**Common Certain rulings:**
+- Routine actions with no pressure (climbing a ladder, walking across a room)
+- Actions with such dominant advantages that failure is implausible (attacking a helpless target)
+- Actions where the character's capability is so far beyond the challenge that the outcome is assured (Heroic Scale picking a Mortal Scale lock)
+
+**Common Impossible rulings:**
+- Actions that break established fiction (casting spells without magic, attacking someone in another city)
+- Actions where the character fundamentally lacks capability (sword-fighting with no arms, reading a language they don't know)
+- Suggest a different approach rather than just saying no — "you can't Talk to them in Common, but you could try gestures with Defy, or find a translator"
 
 ---
 

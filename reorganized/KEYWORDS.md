@@ -180,7 +180,6 @@ This document defines the canonical capitalization for all mechanical terms in t
 ## GM Tools
 
 **Always Capitalized:**
-- Vantage (fictional positioning / difficulty system)
 - Stakes (consequence severity calibration)
 - Suspense (GM resource earned/spent for moves)
 - Suspense Move (setup / warning move — earns Suspense)
@@ -189,20 +188,19 @@ This document defines the canonical capitalization for all mechanical terms in t
 - Death Move (enemy defeated ability)
 - Countdown (track type)
 
-**Vantage Tiers (Always Capitalized):**
-- Certain (auto-success)
-- Strong (roll with 1 Boon - advantageous position)
-- Standard (baseline roll - no modifier)
-- Limited (roll with 1-2 Banes - disadvantaged position)
-- Impossible (cannot attempt)
+**When-to-Roll Rulings (Always Capitalized):**
+- Certain (auto-success — no roll needed, GM narrates)
+- Impossible (cannot attempt with this approach — GM suggests alternative)
+
+Circumstantial difficulty between these poles is expressed directly as Boons and Banes (1 Boon for dominant advantage, no modifier for straightforward attempts, 1-2 Banes for missing tools or stretched capability). There is no separate tier vocabulary.
 
 **Stakes Levels (Always Capitalized):**
 - Low Stakes (reduce Consequence Tier)
 - Regular Stakes (standard consequences)
 - High Stakes (increase Consequence Tier)
 
-**Context-Dependent:**
-- vantage (lowercase when referring to general advantage or positioning, not the system)
+**Retired Terms (do not use):**
+- Vantage / Strong Vantage / Standard Vantage / Limited Vantage — replaced by direct Boon/Bane statements (v2.0). Certain and Impossible survive as standalone when-to-roll rulings.
 
 ---
 
@@ -296,8 +294,8 @@ These terms should be capitalized **only when referring to the mechanical game c
 ❌ **Wrong:** "When you take a short rest"  
 ✅ **Correct:** "When you take a Short Rest"
 
-❌ **Wrong:** "This is standard difficulty"  
-✅ **Correct:** "This is Strong Vantage" or "Your Vantage is Standard" or "You have Limited Vantage"
+❌ **Wrong:** "This is standard difficulty" or "That's Limited Vantage"  
+✅ **Correct:** "That's 1 Bane — you don't have the right gear" or "No modifier — roll your Approach"
 
 ❌ **Wrong:** "The stakes are high"  
 ✅ **Correct:** "This is High Stakes" (when referring to the mechanical system)
@@ -316,6 +314,7 @@ These terms should be capitalized **only when referring to the mechanical game c
 
 ## Version History
 
+- v2.0 (2026-07-06): Retired the Vantage tier system. Circumstances now translate directly into Boons/Banes ("that's 1 Bane, no climbing gear") with no intermediate tier vocabulary. Certain and Impossible survive as standalone when-to-roll rulings (Chapter 11).
 - v1.6 (2026-07-02): Added Action Roll, Suspense, Cinematic Actions, Seize Spotlight/Initiative, Track types. Removed CR/XP (no longer in system). Removed Soft/Hard Move (replaced by Suspense/Impact Move). Capitalization audit across manuscript.
 - v1.5 (2026-06-26): Expanded Vantage to 5 tiers. Standard is baseline (no modifiers), Strong is advantageous (1 Boon). Vantage represents external factors only (tools, positioning, circumstances), not task difficulty or character capability.
 - v1.4 (2026-06-25): Renamed Vantage tiers: Standard → Strong, Difficult → Limited (more flexible, covers all situations)

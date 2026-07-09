@@ -121,7 +121,7 @@ Both mark Will, but the outcome and relationship implications differ:
 
 **Clash** (intimidation, taunts, psychological pressure): When successful, they're *broken*, *flee*, or *surrender*. Relationship damaged, coerced.
 
-**Switching mid-track:** Switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at resolve regardless of method. If the switch creates obvious contradiction (building trust → suddenly threatening), the GM shifts your Vantage down — you were making friendly progress and now you've put them on guard. That's Limited Vantage until you re-establish your footing.
+**Switching mid-track:** Switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at resolve regardless of method. If the switch creates obvious contradiction (building trust → suddenly threatening), the GM applies 1 Bane — you were making friendly progress and now you've put them on guard. The Bane persists until you re-establish your footing.
 
 ### Will-Based Complications
 
@@ -149,7 +149,7 @@ Terrain or objects PCs can use:
 - "Crumbling pillars" — cover, can be toppled onto enemies
 - "Chandelier" — can be cut down, dramatic swing
 - "Narrow bridge" — limits movement, risk of falling
-- "High ground" — improves Vantage when attacking from above
+- "High ground" — grants 1 Boon when attacking from above
 
 ### Threats (Environmental Hazards)
 
@@ -163,7 +163,7 @@ Dangers that can be triggered as Suspense or Impact Moves:
 
 **Features:**
 - Bookshelves (cover, can push onto enemies)
-- Balcony (high ground, improves Vantage)
+- Balcony (high ground, 1 Boon when attacking from it)
 - Spiral staircase (choke point, limits flanking)
 
 **Threats:**

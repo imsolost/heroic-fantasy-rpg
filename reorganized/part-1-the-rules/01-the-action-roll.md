@@ -288,6 +288,8 @@ Disaster is the worst possible outcome and should feel appropriately devastating
 - **Boons** give you more dice (better chance of rolling well)
 - **Edge** protects your outcome after you roll (negates enemy defenses)
 
+**Edge has no cap — by design.** Unlike Boons and Banes (capped at ±2), Edge is naturally bounded: each Edge cancels exactly one Complication, and excess Edge does nothing. Its sources are rare, conditional, and costly — a specialist who positions carefully, spends Momentum, and leans on their Talents *should* be able to cut through a defended foe's Complications entirely. That's mastery working as intended, and it has to be re-earned every roll.
+
 **See Chapter 3 for complete Complication rules.**
 
 ### Don't Confuse the Three C's
@@ -343,6 +345,12 @@ These three terms sound alike but do different things at different times:
 - **Expertise** converts Setback → Conflict (prevents total failure)
 
 Edge works *before* your outcome is finalized (cancels the Complication). Expertise works *after* (rescues you from Setback). They can both apply on the same roll.
+
+**The mental model: Edge protects your ceiling, Expertise raises your floor.**
+- **Edge preserves good rolls.** You rolled Success against a Resilient foe — Edge keeps it a clean Success, no Consequence at all.
+- **Expertise salvages bad rolls.** The dice came up all 1-3s — Expertise turns that Setback into Conflict. You succeed, but you still pay the Minor Consequence.
+
+Stacking both isn't redundant: against a Resilient foe, Edge handles the Complication, and Expertise still covers you when the raw dice themselves betray you. Edge is about the *enemy* not degrading your result; Expertise is about *your own luck* not sinking it.
 
 **See Chapter 9 for Calling-specific Expertise.**
 

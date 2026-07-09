@@ -199,6 +199,8 @@ Challenges have **Complication tags** that describe when they apply:
 - Even with Expertise, outcome is Disaster (Expertise doesn't trigger on Disaster)
 - **Final: Disaster** (Severe Consequence—no progress, catastrophic result)
 
+Three Complications applying to a single action is rare and deliberate (see Chapter 13 for the GM's Complication budget). When you face it, that's the signal: find a different approach that fewer tags apply to, or generate Edge first — don't keep swinging into the fortress wall.
+
 **Example 5: Triumph Ignores All**
 - Roll: Triumph (two 6s)
 - Enemy has 3 Complications

@@ -143,6 +143,13 @@ Traits should be **broad enough to apply to the majority of actions your charact
 
 A character with all three has strong coverage in combat and social situations with soldiers or criminals — but "Veteran of the Iron Wars" doesn't help you decipher an Elven magical barrier, and "Shadow of the Thieves Guild" doesn't help you navigate open wilderness.
 
+**Watch the scene-type spread, not just the domains.** "Different ground" isn't quite enough — three Traits can cover genuinely different domains and still all point at the same *kind* of scene:
+
+- **Bladedancer / Veteran of the Iron Wars / Unbreakable Survivor** — three distinct domains (dueling, tactics, endurance), all combat-adjacent. In a fight this character is spoiled for choice; in a negotiation or an investigation, they go entire scenes without a legitimate invocation. Textbook-correct domains, lopsided play experience.
+- **One swap fixes it:** trade Unbreakable Survivor for **"Silver-Tongued Gambler"** and the same character now has something to invoke at the card table, in the negotiation, and when bluffing past the guards — while Bladedancer and Iron Wars still carry every fight.
+
+Aim for your three Traits to span at least two of: **combat, social, exploration/investigation**. The Origin/Profession/Personal framework nudges you here naturally — your Origin and Personal Traits usually aren't combat skills — but check the spread deliberately before you finalize.
+
 **Too Broad:**
 - "Competent" — applies to everything, removes all decision points
 - "Lucky" — could justify any situation

@@ -83,6 +83,8 @@ This framework isn't mandatory — use it as inspiration to create a well-rounde
 
 **Design your three Traits to cover different ground.** Each should apply to a distinct aspect of your character — the interesting choice is *which* Trait to invoke, not whether one applies at all. Moments where no Trait fits should feel like real vulnerability, not the norm.
 
+**Check the scene-type spread:** your three Traits should span at least two of **combat, social, exploration/investigation**. Three distinct-but-all-combat Traits play great in fights and go silent everywhere else. The Origin/Profession/Personal framework nudges you toward a healthy spread naturally — just verify before you finalize.
+
 **Too broad:** "Competent" (applies to everything), "Lucky" (could justify any situation)
 
 **Too narrow:** "Longsword Expert vs Knights" (one specific situation), "Knows Fire Elemental Weaknesses" (one-use knowledge)

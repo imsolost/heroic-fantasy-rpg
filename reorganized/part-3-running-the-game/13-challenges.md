@@ -229,6 +229,16 @@ Three tags doesn't mean "impossible." It means "choose your approach carefully."
 - **Charm spell:** Warded + Legendary = 2 Complications
 - **Intimidation:** Only Legendary = 1 Complication (social is the weak point!)
 
+### Know the Math: Three Is a Wall
+
+Do the outcome math before you finalize a stat block. Against **2 applicable Complications**, a rolled Success becomes a Setback — harsh, but Expertise or 1 Edge turns it survivable. Against **3 applicable Complications**, every roll except Triumph cascades to **Disaster**, and Expertise can't rescue Disaster. That action is effectively **Edge-gated**: without Edge or a Triumph, it cannot produce progress at all.
+
+Use that deliberately, never accidentally:
+
+- **Keep to the budget.** The Scale table above (0-3 Complications, 4 only for Divine rarities) exists so this situation stays rare.
+- **If one action faces 3 tags, make sure another faces fewer.** The dragon's scales, wards, and senses may make a frontal sword strike Edge-gated — but intimidation faces only Legendary. A fortress face is fine; a fortress *sphere* is an unwinnable encounter.
+- **Telegraph it.** "Your blade skips off scales like stone, and the air around it drinks your spell before it lands" tells players to stop swinging and start looking for the angle — or to build Edge (Create an Opening, setup actions, Potent Actions) before committing.
+
 ### Bypassing Complications
 
 **1. Face Them (Standard):** Roll normally, Complications reduce outcome. Spend Momentum for Edge (Create an Opening) or use Talents that grant Edge.

@@ -30,11 +30,14 @@ Story Moves are your default. Use them anytime to establish the world, frame sit
 - Ask questions ("What does this place remind you of?")
 - Show off-screen events ("Meanwhile, in the capital...")
 - Establish mood and atmosphere
+- Dangle a player's Drive ("Your need to protect others — does that pull you into this fight?")
 
 **Examples:**
 - "The merchant eyes you suspiciously."
 - "You hear distant thunder rolling across the moors."
 - "The tavern is packed with nervous townsfolk whispering about the missing children."
+
+> **Keep Drives alive.** Invoke Your Drive (Chapter 5) is player-initiated, which means it fades from the table's toolkit if never prompted. When the fiction brushes against a character's Drive, dangle it — the player can accept (earning Momentum and a complication) or decline. After a few sessions of prompting, players start volunteering it themselves.
 
 **When:** Anytime. No trigger needed. No resource cost. This is you painting the world.
 

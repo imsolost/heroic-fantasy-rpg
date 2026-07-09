@@ -22,7 +22,7 @@ Advancement happens when the GM awards a new level, typically after major story 
 |-------|------|-------|
 | **1** | **Start** | Calling (Core Talent + 1 additional Talent), 3 Traits, Mortal Scale |
 | **2** | +1 Approach (cap 2), +1 Talent | |
-| **3** | +1 Approach (cap 3) | |
+| **3** | +1 Approach (cap 3) | Good moment to retrain a Talent |
 | **4** | **Heroic Scale**, +1 Approach (cap 4), +1 Talent | Seasoned Adventurers |
 | **5** | +1 Trait | |
 | **6** | +1 Approach (cap 2), +1 Talent | |
@@ -32,6 +32,8 @@ Advancement happens when the GM awards a new level, typically after major story 
 | **10** | **Divine Scale**, +1 Talent | Demigod Heroes |
 
 The cap resets to 2 at Level 6 — this is intentional, not a typo. It creates a second "broaden, then specialize" cycle, ensuring characters keep developing breadth even after their first push toward specialization.
+
+Levels without a new Talent (3, 5, 7, 9) are quieter by design — and they're the natural moments to **retrain** an existing Talent that hasn't earned its slot (see Retraining, below). By Level 3 you've had a few sessions to learn which picks pull their weight.
 
 ---
 
@@ -92,6 +94,8 @@ You may choose **additional Talents** from other Callings if they fit your chara
 
 Explain how your character learned these abilities through training, mentorship, or life experience.
 
+> **Yes, that ceiling is intentional.** Four of your six Additional Talents could eventually come from other Callings — and that's fine, because your **Core Talent is your identity anchor and never changes**. A Champion with Bodyguard, Loremaster, and Sharpshooter is still unmistakably a Champion: universal weapon Expertise, doubled Trait effects in battle. Callings aren't classes — the fictional-justification requirement is the real gate; the per-tier cap just paces the growth. (If a character is spending *every* pick fleeing their Calling, that's a conversation about retraining into a different one, not a rules problem.)
+
 **Examples:**
 - A Champion trains with a Hunter mentor → gains **Wilderness Survivor** (Hunter Talent)
 - A Shadow studying with mystics → gains **Spirit Walker** (Mystic Talent)
@@ -106,7 +110,7 @@ You're encouraged to re-skin Talents to fit your character's theme. The mechanic
 **Examples:**
 - **Battleborn** (Champion) → **Arcane Fortitude** (Sage): Edge on Defy in battle through magical shields instead of physical resilience
 - **Iron Bulwark** (Vanguard) → **Guardian Spirit** (Mystic): Redirect ally Stress through divine intervention instead of physical interposition
-- **Ghost** (Shadow) → **Ethereal Step** (Mystic): Expertise in stealth through spiritual phasing instead of mundane technique
+- **Ghost** (Shadow) → **Ethereal Step** (Mystic): Vanish from an impossible situation by briefly slipping beyond the veil instead of through mundane technique
 
 Work with your GM to ensure re-skinned Talents fit the fiction.
 

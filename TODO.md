@@ -31,9 +31,10 @@ Create a comprehensive example showing how different scene types flow together i
 
 Build out the reference section for mid-session lookup:
 - GM Cheat Sheet (action resolution flow, Consequence calibration, Suspense moves)
-- Player Quick Reference (Action Roll steps, Special Effects, Momentum spends)
+- Player Quick Reference (Action Roll steps, Special Effects, Momentum spends — must include the 2d-take-lowest rule for 0-or-negative pools, which is rare enough that tables re-look it up every time)
 - Challenge Quick Reference (Track Sizes, Complication Tags, Challenge Moves)
 - Condition Reference (all standard Conditions with effects and tick-down rules)
+- Sage Theorem Table (7 Spheres × 9 Operations grid, sparsely filled with the ~30 named example theorems — fast scanning aid for theorem selection and Arcane Formula improvisation)
 
 ---
 

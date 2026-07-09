@@ -18,13 +18,15 @@ Talents use a small vocabulary of mechanical building blocks. Once you know thes
 
 **Expertise:** Converts a final outcome of Setback → Conflict within a specific domain. You still succeed (with a Minor Consequence) where others would fail outright. See Chapter 1.
 
-**Push Yourself:** Mark 1 Stress to activate the Talent's extraordinary effect. You still gain the normal benefit of Pushing Yourself (1 Boon) in addition to the Talent's special effect. You can only activate one Talent per Push.
+**Push Yourself:** Mark 1 Stress to activate the Talent's extraordinary effect. It's **one spend doing double duty**: that single Stress buys both the normal Push benefit (1 Boon) *and* the Talent's special effect — never two separate spends. The limit runs the other way: **one Talent per Push**, so even with two applicable Push Talents, one Stress activates only one of them.
 
 **Potent:** An extraordinary effect that exceeds normal success — grants Edge +1, can unlock otherwise impossible actions, and enhances scale along one dimension (Heightened Impact, Widespread Effect, or Extended Duration). See **Chapter 2: Potent Actions** for the complete framework.
 
 **Markable Boxes [ ] [ ]:** Limited-use abilities. Mark a box to activate the effect. All boxes recover on a Short Rest unless noted otherwise.
 
 **"The GM answers honestly":** When a Talent says this, the GM must answer your question truthfully (though possibly incompletely or cryptically). This represents supernatural insight, deep expertise, or divine revelation.
+
+> **Boxes and Pushes carry different risks — choose consciously.** Box Talents are *safe but capped*: free to use, but limited per rest. Push Talents are *unlimited but taxing*: usable as often as you like, but every activation marks Stress — the same buffer that stands between you and being Taken Out. A box build never risks itself; a Push build trades resilience for power all session long.
 
 ---
 
@@ -185,9 +187,11 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and exam
 - Making offerings or performing rituals (dedicate treasure, lead a ceremony, fast in contemplation)
 - Narrative milestone (faith tested or devotion demonstrated)
 
-The GM should signal when Favor returns (typically at the end of a scene or after a rest once the condition is met).
+The GM should signal when Favor returns (typically at the end of a scene or after a rest once the condition is met). **Pace recovery in scenes, not sessions** — losing Favor should sting, not sideline the Calling. If a Mystic has gone a scene or two without a natural opening to reconnect, put one in their path.
 
 > **Design note:** Favor is deliberately outside the Momentum/Stress economy. It represents your patron's independent judgment, not a tactical resource you manage — you can't spend Momentum to prevent losing Favor. The Talent *Chosen Vessel* exists for players who want to soften this, but by default, divine judgment is non-negotiable.
+
+> **Design note — power and transgression scale together:** The odds of rolling 2+ ones are identical to the odds of rolling Triumph at the same pool size. A Spirit 5 Mystic Triumphs on roughly one domain roll in five — and displeases their patron just as often. That's intentional: drawing deeply on divine power is how you achieve the miraculous *and* how you transgress. The real gamble isn't the Spirit roll itself (a big pool rarely needs Expertise to rescue it) — it's that Favor covers *all* domain actions, including the ones you roll with weaker Approaches. Your mighty smite can cost you the Expertise your storm-tossed Grace roll was counting on. Mystics who want steady reliability stay modest; Mystics who reach for miracles gamble the safety net. *Chosen Vessel* is the hedge.
 
 ### Background Questions
 
@@ -272,6 +276,8 @@ You wield magic through rigorous study and disciplined understanding. Magic is a
 
 **Arcane Formula:** You may attempt a spell outside your known theorems by combining a Sphere + Operation. **Mark 1 Stress each time** you invoke your theoretical knowledge to improvise a spell, then roll **Cunning + appropriate Action** with **1 Bane** — you are working from theory rather than mastered practice. If you are a Specialist and your Arcane Formula uses your chosen Sphere, you have Expertise.
 
+> **Note the asymmetry — it's intentional.** Improvising *outside* their Sphere, a Specialist keeps Arcane Formula's Bane with no Expertise to soften it; a Generalist never faces that Bane in any Sphere. Deep mastery of one field means the others stay theory — that's the cost of specialization, and Broad Theory is what Generalists get instead of depth.
+
 **Growth:** Sages expand their repertoire through Talents (Spell Codex, Sphere Mastery) and Arcane Formula. See additional Talents below.
 
 ### Background Questions
@@ -355,7 +361,7 @@ You have Expertise when escaping physical confinement — restraints, locked roo
 You always have a way out. When a scene turns against you, mark this to describe how you escape — a prepared exit, a distraction, a route no one else noticed. This always succeeds as long as a plausible exit exists. You cannot take others with you unless you Push Yourself.
 
 **Ghost**
-You have Expertise when hiding, infiltrating, escaping notice, or bypassing security. Push Yourself to disappear from a situation that should be impossible to escape.
+Push Yourself to disappear from a situation that should be impossible to escape — vanish from a sealed room, slip a manhunt in an open plaza, fade from sight mid-conversation. Where you went and how is yours to describe; that you're gone is not in question.
 
 **Inside Knowledge [ ] [ ]**
 When you enter a new location — a building, a city district, a criminal organization — you may mark this to ask the GM: "Who here owes me a favor, fears me, or can be bought?" The GM answers honestly with at least one name.
@@ -388,6 +394,8 @@ You can use the Vanguard to play all kinds of protective stalwarts: a heavily ar
 ### Core Talent: Unbreakable Guardian
 
 You are the shield that takes the blow so others don't have to.
+
+**Guardian's Expertise:** You have Expertise when Defying to protect others — interposing your body, blocking a blow meant for another, shielding someone from a blast, covering a retreat. The one thing you never critically fail at is standing between danger and its target.
 
 **Unbreakable:** Increase your maximum Stress by 1 (6 total). When you would mark 2 or more Stress from a single Consequence, reduce it by 1.
 
@@ -428,7 +436,7 @@ When you invoke your Trait, choose an ally within Close range. Until your next a
 When given time, you can establish a Sanctuary — a place of genuine safety for those inside. Within a Sanctuary, allies recover Stress on a Short Rest regardless of circumstances, and enemies require extraordinary effort to breach it. Push Yourself to establish a Sanctuary immediately, even in the middle of a crisis.
 
 **Shield Master**
-You have Expertise when using a shield to protect yourself or others. Push Yourself to perform a Potent feat with your shield — blocking an area attack, creating cover for multiple allies, or turning a blow that would destroy a lesser shield.
+You have Expertise when using a shield to defend yourself. Push Yourself to perform a Potent feat with your shield — blocking an area attack, creating cover for multiple allies, or turning a blow that would destroy a lesser shield.
 
 **Stand Fast**
 You can hold ground that should be indefensible. You have Expertise when holding ground or defending a fixed position. Push Yourself to prevent a threat from advancing, breaching, or overwhelming a position entirely.
@@ -486,7 +494,7 @@ Most Talents combine passive competence (Expertise or Edge) with an active extra
 | **Mystic** | Spiritual Communion | Divine/primal conduit | All domain-related actions (in Favor) |
 | **Sage** | Spellcraft | Arcane scholar | Chosen Sphere (Specialist) |
 | **Shadow** | Shadowcraft | Infiltration specialist | Stealth, Thievery, Deception |
-| **Vanguard** | Unbreakable Guardian | Unyielding protector | — (protective Core) |
+| **Vanguard** | Unbreakable Guardian | Unyielding protector | Defying to protect others |
 
 ---
 

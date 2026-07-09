@@ -413,9 +413,11 @@ All mechanically identical (1 Boon for X actions), but fiction explains why and 
 
 ### Countering Magic
 
-Active nullification of spells requires specialized training — specifically the **Counter-Theory** Talent (Sage) or equivalent.
+Active nullification of spells requires specialized training — specifically the **Counter-Theory** Talent (Sage).
 
 Without a counterspell Talent, you can only **Defy** to resist hostile magic reactively. You cannot interrupt or dispel.
+
+**Mystics have no counterspell — by design.** Mystics commune with power; they don't command it the way a Sage's theory allows. Unraveling another caster's work is precisely the Sage's domain. A Mystic facing hostile magic endures, outlasts, or shelters others from it instead — *Patron's Shield* makes them excellent at exactly that. (A GM may allow a rare patron-flavored exception — a god of magic unbinding a curse — as a Potent invocation with strong narrative justification.)
 
 **With Counter-Theory or equivalent:**
 - Interrupt spellcasting mid-cast (prevent the spell from completing)

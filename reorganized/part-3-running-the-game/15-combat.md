@@ -45,16 +45,16 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 | Movement | Rule |
 |----------|------|
 | Within your zone (Close) | Free, part of any action |
-| To adjacent zone (Near) | Part of your action — but moving and acting generally costs you a Bane |
+| To adjacent zone (Near) | Free, part of your action |
 | To distant zone (Far) | Full action, Defy to arrive safely |
-| Through enemy zones | Always requires a Defy roll |
-| Through hazards or obstacles | Always requires a Defy roll |
+| Leaving or passing through a zone with enemies | Requires a Defy roll |
+| Through hazards or obstacles | Requires a Defy roll |
 
-**Moving Near + acting:** You can move to an adjacent zone and take an action (Clash, Defy, Talk, etc) in the same spotlight pass. The GM factors the movement into your Boons/Banes — charging across open ground toward an archer is 1 Bane; stepping from cover into an adjacent melee is no modifier. Describe your approach and the fiction determines the assessment.
+**Moving Near + acting:** You can move to an adjacent zone and take an action (Clash, Defy, Talk, etc) in the same spotlight pass — describe it as part of your approach. Circumstances still apply as normal: charging across open ground toward a braced archer might cost a Bane, but that's the GM's ordinary circumstantial assessment, not a movement tax.
 
 **Moving Far:** Reaching a distant zone takes your entire action. Roll Defy — normal outcomes apply.
 
-**Moving through enemy zones:** Enemies try to intercept or block. Always requires a Defy roll regardless of distance.
+**Leaving or moving through a zone with enemies:** Enemies try to block, intercept, or punish your retreat. Roll Defy to break away clean — on Conflict you get out but pay a cost, on Setback you don't get away at all. This is what makes melee fighters dangerous: once they've engaged you, escaping is no longer free.
 
 **Moving through hazards:** Leaping a chasm, crossing a burning floor, or pushing through a barricade requires a Defy roll regardless of distance.
 
@@ -68,30 +68,47 @@ Position is one of the circumstances the GM weighs when assigning Boons and Bane
 - High ground, cover, flanking with an ally, superior terrain
 
 **Positioning that applies 1 Bane:**
-- Surrounded, pinned down, poor footing, exposed to multiple threats, rushing to a nearby location
+- Surrounded, pinned down, poor footing, exposed to multiple threats, charging across open ground under fire
 
 This isn't a separate system — it's the same circumstantial assessment the GM always makes, applied to the spatial fiction of combat.
 
-### Weapon Range
+### Range
 
-Weapons have a natural range (Close, Near, or Far). Using a weapon outside its range affects your roll:
+Every attack — weapon or spell — has a natural range (Melee, Short, or Long). Acting outside your range affects your roll:
 
-| Weapon Type | Close | Near | Far |
-|-------------|-------|------|-----|
-| **Melee** (sword, axe) | No modifier (+1 Boon vs. non-melee foe) | Impossible | Impossible |
-| **Short Range** (thrown, pistol) | 1 Bane | No modifier | Impossible |
-| **Long Range** (bow, crossbow) | Impossible | No modifier | 1 Bane |
+| Attack Range | Close | Near | Far |
+|--------------|-------|------|-----|
+| **Melee** (sword, axe, touch) | No modifier (+1 Boon vs. non-melee foe) | Impossible | Impossible |
+| **Short** (thrown, pistol, most spells) | No modifier | No modifier | Impossible |
+| **Long** (bow, crossbow, artillery spells) | Impossible | No modifier | 1 Bane |
+
+**Pressed:** While enemies are in your zone, all **ranged offensive actions** suffer **1 Bane** — whether you're shooting the foe in your face or firing past them at a distant target. Fighting at arm's length makes careful aim impossible.
 
 **Key interactions:**
-- Melee weapons grant **1 Boon** against foes without a melee weapon of their own (knife-fight advantage)
-- Long range weapons **cannot fire in melee** — too unwieldy at Close range
-- Short range weapons work at Close range but are awkward (1 Bane)
+- Melee attacks grant **1 Boon** against foes without a melee weapon of their own (knife-fight advantage)
+- Long range attacks **cannot be used in melee** — too unwieldy at Close range
+- Touching a willing ally isn't a ranged action — laying hands on a wounded companion or whispering a blessing is never Pressed
 
-> **Simple default:** If weapon range isn't important to your table, just apply 1 Bane at Far range and ignore the rest.
+**How range is determined:**
+- **Weapon users:** Your equipment sets your range. Switching weapons and acting in the same spotlight pass costs 1 Bane; switching without acting is free.
+- **Sages:** Choose the range (Melee, Short, or Long) for each Spell Theorem when you learn it. Arcane Formula (improvised casting) chooses range at cast time.
+- **Mystics:** Invocations are **Short range** — your patron's power works through your presence, not at a distance.
 
-### When to Use Zones
+> **Simple default:** If range isn't important to your table, just apply 1 Bane at Far range and ignore the rest.
+
+### Using Zones
 
 Use zones when tactical positioning matters — castle siege, multi-level dungeon, environmental hazards. For simple skirmishes, narrative positioning ("you're pressed against the wall") is sufficient.
+
+**Zones are fiction, not geometry.** A zone is a distinct place in the scene — a room, a rooftop, the treeline, behind the overturned wagon. Don't measure distances; ask "does it feel like a separate area?" If two combatants would describe themselves as being in different places, they're in different zones.
+
+**2-4 zones covers almost any fight.** More zones don't add depth — they add bookkeeping. The tactical texture comes from range bands, Features, and Threats within zones, not map size:
+
+- **2 zones:** A duel on a bridge (the bridge, the riverbank). Enough for melee-vs-ranged tension.
+- **3 zones:** A tavern brawl (main floor, balcony, street outside). Enough for high ground and escape routes.
+- **4 zones:** A castle courtyard siege (gatehouse, courtyard, ramparts, keep entrance). A full set-piece.
+
+**Sketching a battlefield:** When combat starts somewhere tactically interesting, name the zones aloud or jot them on an index card: "The mill floor, the loft above, the millpond outside." Add 1-2 Features and a Threat (see Chapter 14: Battlegrounds) and you have everything a set-piece fight needs.
 
 **Example Zones:**
 - **Tavern brawl:** Bar area, main floor, kitchen, street outside

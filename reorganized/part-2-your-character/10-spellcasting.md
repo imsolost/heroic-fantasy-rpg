@@ -120,6 +120,8 @@ Each Spell Theorem combines a Sphere with an Operation:
 | **Enhance** | Amplify or empower a subject's capabilities beyond normal limits |
 | **Deceive** | Create false images, cognitive misdirection, or sensory lies |
 
+**Range:** When you learn a Spell Theorem, choose its range — **Melee** (touch), **Short**, or **Long**. This works exactly like weapon range in combat (see Chapter 15). Arcane Formula (improvised casting) chooses range at cast time.
+
 #### Example Spell Theorems
 
 **Matter:**
@@ -167,6 +169,8 @@ Each Spell Theorem combines a Sphere with an Operation:
 ### For Mystics: Patron Domains
 
 Mystics use **Domains** as touchstones — thematic areas of divine or primal power granted by their patron. Domains are broader and more narrative than Spheres.
+
+**Range:** Invocations are **Short range** — your patron's power works through your presence, not at a distance (see Chapter 15 for range in combat).
 
 See Chapter 9 for the Mystic's Core Talent (Spiritual Communion), which defines how patrons, Favor, and domain invocation work mechanically.
 

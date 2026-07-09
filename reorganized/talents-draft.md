@@ -118,9 +118,9 @@ When you roll **Success or better on a Sense roll** in combat or a tense situati
 ### Mobility
 
 **Charge** *(Champion or Vanguard)*
-*You close the gap before they can react.*
+*Your momentum is a weapon.*
 
-When you move to an adjacent zone (Near) and Clash in the same spotlight pass, you do not suffer the Bane from the movement. Resolve the Clash with whatever Boons/Banes the destination fiction would grant (as if you were already there).
+When you move to an adjacent zone (Near) and Clash in the same spotlight pass, gain **1 Boon** on the Clash. The distance you cross becomes force behind the blow.
 
 ---
 
@@ -142,6 +142,13 @@ You may move to a Far zone (2+ zones) as part of your action instead of it consu
 *Nothing stands in your path.*
 
 You may move through enemy zones without rolling Defy. Enemies cannot block or intercept your movement. You still provoke reactions from foes with abilities that trigger on nearby movement.
+
+---
+
+**Battle Caster** *(Sage or Mystic)*
+*You weave spells in the press of melee.*
+
+You are never **Pressed** when casting — enemies in your zone don't apply a Bane to your offensive spells, and they can't exploit your casting to intercept or interrupt you.
 
 ---
 

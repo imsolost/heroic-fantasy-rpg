@@ -279,6 +279,8 @@ After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum. W
 - Condition tier 2 → Condition tier 1
 - Narrative Consequence → GM reduces severity
 
+**Resist works on Disaster too.** A Severe Consequence — even one created by Complications cascading a Setback into Disaster — reduces to Major like any other. Spending your last Momentum to turn catastrophe into mere failure is exactly what the mechanic is for.
+
 **Example in play:**
 - GM: "The knight's mace slams into your shield. Mark 2 Stress."
 - You: "I spend 1 Momentum to Resist — I roll with the blow."

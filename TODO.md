@@ -82,6 +82,12 @@ Finalize talents-draft.md:
 
 ## Low Priority / Polish
 
+### Consider Renaming "Complication" (Backburner)
+The Three C's (Complication/Consequence/Condition) share a phonetic shape and collide at the table. Complication is the best rename target — it's our most idiosyncratic usage (most games use "complication" for narrative fallout, forcing constant capitalization-policing) and only touches stat blocks. Requirement: the new word must work for enemies, obstacles, AND environments (not "Defense"). Best candidate so far: **Hindrance** ("each Hindrance reduces your outcome by 1 tier"; "the vault door's Complex Hindrance"). Runner-up: Hurdle. Decide before any published material exists — this is the last cheap window.
+
+### Consolidate Potent Actions Explanations (Backburner)
+Potent Actions is explained nearly verbatim three times (Ch. 2 full, Ch. 9 Talent primer, Ch. 10 magic version). Ch. 2 is the canonical home; shrink Ch. 9/10 to brief cross-referencing summaries during the reference-pass cleanup.
+
 ### Index / Glossary
 Convert KEYWORDS.md into a proper glossary appendix with brief definitions for each term.
 

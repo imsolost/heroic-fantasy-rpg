@@ -97,6 +97,8 @@ A Condition has a **name** and a **tier** (1–3), both set at the moment of inf
 
 **Conditions only apply (and tick down) when fictionally relevant.** If a Condition clearly has no bearing on the action (Blinded doesn't affect recalling lore), it doesn't apply and doesn't tick down. When in doubt, apply the Condition.
 
+**A genuinely borderline case:** You're **Frightened 2** (a dragon's roar shook you) and now you're trying to Talk a panicked crowd into an orderly evacuation. Does fear undermine your steady voice, or is it unrelated to crowd-handling? Reasonable tables could rule either way — so apply it: 1 Bane, and the Condition ticks down. "When in doubt, apply" isn't a punishment; it's how Conditions clear. The player takes a Bane now, and the fear fades one action sooner.
+
 ### Condition Tiers
 
 The tier set at infliction is the **maximum severity**. It never escalates beyond its initial tier.

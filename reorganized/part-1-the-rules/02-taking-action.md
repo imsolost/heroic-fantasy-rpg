@@ -310,6 +310,8 @@ Before you roll, the GM assesses your fictional positioning — capability, tool
 
 *Example: Casting spells without being a spellcaster. Attacking someone in another city right now.*
 
+**A borderline case:** The Shadow wants to leap from the balcony onto the chandelier and swing across the ballroom. Certain? No — a fall is entirely plausible. Impossible? Also no — they're an acrobat and the chandelier is *right there*. This is exactly what rolling is for: genuinely uncertain, both outcomes interesting. Most arguable calls resolve this way — Certain and Impossible are for the clear extremes, and when the table starts debating, that's usually the signal to roll.
+
 **If neither applies, you're rolling — and the GM tells you your modifier directly:**
 
 - **Golden opportunity, dominant advantage** → Roll with **1 Boon** (occasionally 2, in exceptional circumstances)
@@ -352,6 +354,17 @@ For **rare climactic moments**—boss fights, life-or-death decisions, catastrop
 **When to use:** Boss fights, ritual completion, defusing a bomb, saving a falling ally.
 
 **When NOT to use:** Most rolls. Circumstantial difficulty is already handled by Boons and Banes. High Stakes is only for when failure demands exceptional narrative weight.
+
+**Worked example — High Stakes on a stacked roll:**
+> Kael faces the demon lord at the collapsing ritual site. The GM declares **High Stakes** — this is the climax, and failure means the portal opens.
+>
+> Kael Clashes with Daring 4. The footing is shattered stone (**1 Bane**), so he rolls 3 dice: 2, 4, 5 → raw outcome **Conflict**.
+>
+> The demon lord is **Resilient** — 1 Complication reduces Conflict → **Setback**. But Kael has **Expertise: Heavy Blades**, which converts the final Setback back to **Conflict**.
+>
+> Now High Stakes applies to the *final outcome*: Conflict normally means a Minor Consequence, but under High Stakes it's **Major** — Kael's blade bites deep (1 tick marked), and the demon's counterstroke slams him through a pillar: mark 2 Stress.
+>
+> Order of operations: roll → Complications reduce → Expertise rescues → High Stakes sets the Consequence severity of whatever outcome survives.
 
 ---
 

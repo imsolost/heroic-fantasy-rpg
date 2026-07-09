@@ -16,36 +16,9 @@ This chapter covers everything about the Action Roll—the core resolution mecha
 
 ## What Is an Action Roll?
 
-An **Action Roll** resolves a single risky, uncertain, or dramatically significant action.
+An **Action Roll** resolves a single risky, uncertain, or dramatically significant action — steps 3-4 of the Core Loop from Part 0: building your dice pool and interpreting the result. See Chapter 2 for Actions and Approaches, and how circumstances translate into Boons and Banes.
 
-When you make an Action Roll:
-1. You declare what you're doing and how (Action + Approach)
-2. The GM assesses your positioning and tells you your Boons and Banes
-3. You build a dice pool and roll
-4. Everyone interprets the outcome
-5. The GM narrates what happens
-
-**This chapter focuses on steps 3-4: building your pool and interpreting results.** See Chapter 2 for Actions and Approaches, and how circumstances translate into Boons and Banes.
-
----
-
-## When to Make an Action Roll
-
-Make an Action Roll when a character faces a situation that is **uncertain, risky, or dramatically significant**.
-
-**Make an Action Roll when:**
-- The outcome is uncertain
-- Failure would create interesting consequences or drama
-- Success matters to the story
-
-**Don't make an Action Roll when:**
-- The outcome is certain (either assured success or assured failure)
-- Failure would just stall progress without adding drama
-- The character lacks fundamental capability to attempt the action
-
-When the outcome is **Certain**, no Action Roll is needed—the GM narrates what happens. When the action is **Impossible**, you can't attempt it with this approach—find another way. The GM makes both calls before dice come out (see Chapter 11 for GM guidance).
-
-**See Chapter 2 for worked examples** of when to roll vs. when to say yes.
+**Not every action rolls.** When the outcome is **Certain**, the GM narrates what happens — no dice. When the action is **Impossible**, you can't attempt it with this approach — find another way. The GM makes both calls before dice come out (see Chapter 2 for the full framework, Chapter 11 for GM guidance). Dice come out only when the outcome is genuinely uncertain and both success and failure would be interesting.
 
 ### Who Rolls?
 
@@ -252,13 +225,7 @@ The GM chooses an appropriate Consequence from the situation. **See Chapter 3 fo
 
 **Catastrophic failure.**
 
-**Disaster** occurs when Complications reduce your outcome below Setback (e.g., a rolled Conflict reduced through 3 Complications, or a Setback reduced through 1). See Chapter 3 for how Complications cascade. This is rare.
-
-- Taken Out (removed from the scene), OR
-- Persistent Burden, OR
-- Catastrophic narrative failure
-
-Disaster is the worst possible outcome and should feel appropriately devastating.
+**Disaster** occurs when Complications reduce your outcome below Setback (e.g., a rolled Conflict reduced through 3 Complications, or a Setback reduced through 1). It brings a Severe Consequence — the worst the game offers. This is rare; see Chapter 3 for how Complications cascade and what Severe Consequences look like.
 
 ---
 
@@ -340,17 +307,11 @@ These three terms sound alike but do different things at different times:
 - Doesn't eliminate consequences (you still suffer Minor Consequence on converted Conflict)
 - Doesn't create Triumph (requires rolling double 6s)
 
-**Edge vs Expertise — both protect you, but differently:**
-- **Edge** ignores a Complication (prevents outcome reduction)
-- **Expertise** converts Setback → Conflict (prevents total failure)
+**Edge vs Expertise: Edge protects your ceiling, Expertise raises your floor.**
+- **Edge preserves good rolls.** It cancels a Complication *before* your outcome is finalized — you rolled Success against a Resilient foe, and Edge keeps it a clean Success, no Consequence at all.
+- **Expertise salvages bad rolls.** It works *after* — the dice came up all 1-3s, and Expertise turns that Setback into Conflict. You succeed, but still pay the Minor Consequence.
 
-Edge works *before* your outcome is finalized (cancels the Complication). Expertise works *after* (rescues you from Setback). They can both apply on the same roll.
-
-**The mental model: Edge protects your ceiling, Expertise raises your floor.**
-- **Edge preserves good rolls.** You rolled Success against a Resilient foe — Edge keeps it a clean Success, no Consequence at all.
-- **Expertise salvages bad rolls.** The dice came up all 1-3s — Expertise turns that Setback into Conflict. You succeed, but you still pay the Minor Consequence.
-
-Stacking both isn't redundant: against a Resilient foe, Edge handles the Complication, and Expertise still covers you when the raw dice themselves betray you. Edge is about the *enemy* not degrading your result; Expertise is about *your own luck* not sinking it.
+Stacking both isn't redundant: Edge is about the *enemy* not degrading your result; Expertise is about *your own luck* not sinking it. They can both apply on the same roll.
 
 **See Chapter 9 for Calling-specific Expertise.**
 

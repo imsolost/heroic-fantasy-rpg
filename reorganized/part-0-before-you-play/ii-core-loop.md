@@ -122,7 +122,7 @@ Now the situation has changed. The Shadow is at the keep entrance, but guards ar
 - Hide in the shadows and hope they don't spot you (Defy)
 - Signal your allies to create a distraction (Talk or coordinate with the party)
 
-And the loop begins again: GM frames → player declares → GM assesses → player rolls → interpret outcome → GM narrates.
+And the loop begins again.
 
 ---
 
@@ -130,30 +130,11 @@ And the loop begins again: GM frames → player declares → GM assesses → pla
 
 **Fiction drives mechanics.** The player didn't say "I roll Stealth." They described what their character was doing, and the GM determined which mechanics applied.
 
-**The odds are transparent.** The GM told the player what they were rolling and what would happen on each outcome before dice hit the table.
+**The odds are transparent, and players have agency.** The GM told the player what they were rolling and what would happen on each outcome *before* dice hit the table. If they didn't like the odds, they could have spent Momentum to Create an Opening, asked an ally to Assist, or changed their approach entirely.
 
-**Conflict isn't failure.** The Shadow succeeded at their goal (crossed the courtyard) but paid a cost (guards heard something). This keeps the story moving forward.
+**Conflict isn't failure — outcomes are degrees, not binary.** The Shadow succeeded at their goal (crossed the courtyard) but paid a cost (guards heard something). Four shades of outcome — Triumph / Success / Conflict / Setback — each with different weight.
 
-**Every roll changes the fiction.** The courtyard crossing succeeded, but now there's a new problem (investigating guards). The situation evolved.
-
----
-
-## Key Principles Illustrated
-
-### The GM Is a Fan
-The GM isn't trying to stop the Shadow. They're portraying a dangerous world and asking "What happens?" They want to see how the Shadow handles this.
-
-### Players Have Agency
-The player chose their approach. If they didn't like the odds, they could have:
-- Spent Momentum to Create an Opening (gain a Boon)
-- Asked an ally to Assist (gain a Boon)
-- Changed their approach (wait longer, find a different route)
-
-### Consequences Create Momentum
-The investigating guards create new tension, new choices, new opportunities for drama. A clean success would have been fine, but Conflict made the scene more interesting.
-
-### Outcomes Are Degrees, Not Binary
-It's not "success or failure." It's Triumph / Success / Conflict / Setback—four shades of outcome, each with different narrative and mechanical weight.
+**Every roll changes the fiction.** The courtyard crossing succeeded, but now there's a new problem (investigating guards). The GM isn't trying to stop the Shadow — they're portraying a dangerous world and asking "what happens next?"
 
 ---
 

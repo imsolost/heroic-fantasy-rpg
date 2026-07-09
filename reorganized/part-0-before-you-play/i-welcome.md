@@ -49,23 +49,13 @@ If you've played **Apocalypse World**, **Blades in the Dark**, **Fate**, or **Ir
 
 ## What Does Play Feel Like?
 
-**Archon** is a game of heroic fantasy adventure where bold action drives the story forward. You'll explore ancient ruins, battle monsters, negotiate with nobles, and uncover conspiracies. The world you play in is yours to create—Archon provides the rules, the framework, and the heroes. You bring the setting and the story.
-
-**Gameplay flows quickly.** The rules resolve actions decisively—roll dice, check the outcome, move forward. Success is rewarding, failure is dramatic, and consequences cascade into new situations. Common sense trumps detailed tracking. If it makes sense in the fiction, it works.
-
-**The story emerges from your choices and the dice.** You don't plan a story—you play to find out what happens. The GM frames dangerous situations. You decide how to respond. The dice determine outcomes. Consequences create new problems. Momentum lets you seize opportunities. From this push-and-pull, storylines emerge organically.
+**Gameplay flows quickly.** The rules resolve actions decisively—roll dice, check the outcome, move forward. Common sense trumps detailed tracking. If it makes sense in the fiction, it works.
 
 **Heroes are revealed through play.** You start with a Calling and three Traits—enough to know who you are, but not everything about you. Details emerge as you play: where you trained, who you lost, what drives you. Your Traits evolve, you gain new Talents, and your character grows through the choices you make at the table.
-
-**Bold action is rewarded.** When you roll Triumph (double 6s), you gain Momentum—a resource you spend to turn the tide when stakes are high. The game creates a rhythm: take risks, earn Momentum, spend it when it counts. Victory is earned, not guaranteed.
-
-**Failure moves the story forward.** When you roll Setback or Conflict, the situation changes—danger escalates, complications arise, resources are spent. You're never stuck repeating the same roll. Every outcome advances the fiction.
 
 **You're a team.** Archon doesn't have mechanics for PCs fighting each other or competing for spotlight. You're heroes united by purpose. You Assist each other, build on each other's successes, and face threats together. The tension comes from external forces—monsters, tyrants, conspiracies—not from infighting.
 
 **Campaigns build momentum.** Early sessions establish who you are. Middle sessions test you. Late sessions see you rise to legendary status, confronting threats that would have destroyed you at the start. Your Scale advances (Mortal → Heroic → Mythic → Divine), and the scope of your adventures grows with it.
-
-**The story is yours.** From all this—the choices you make, the dice you roll, the consequences you face—a campaign emerges. It's not scripted. It's not pre-planned. It's discovered together, session by session, bold action by bold action.
 
 ---
 

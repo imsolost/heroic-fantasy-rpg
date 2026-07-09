@@ -13,48 +13,13 @@ Traits are evocative narrative descriptors defining who your character is — wh
 
 ## What Traits Do
 
-Traits don't add dice or modify your roll. They activate **after** you roll, granting a bonus effect on top of your action's normal result.
+Every character has **3 Traits** — typically one Origin (where you're from), one Profession (what you do), and one Personal (who you are). See **Chapter 7** for the creation framework and guidance on writing good Traits.
 
-**The flow:**
+Traits don't add dice or modify your roll. They activate **after** you roll, granting a bonus effect on top of your action's normal result:
+
 1. Declare action and roll
 2. Determine outcome (after Complications)
-3. If **Conflict or better** AND a Trait is narratively relevant → invoke for one Special Effect
-
-Traits reward you for engaging with your character's fiction. A "Bladedancer" who Clashes in melee gets more out of it than someone without that identity.
-
----
-
-## The Three Trait Types
-
-Every character has **3 Traits**. A useful framework:
-
-**Origin Trait** — Where you're from, what you are, your heritage
-- Cimmerian Barbarian, Fey-Blooded Bastard, Heir of Isildur, Street Urchin of Ashport
-
-**Profession Trait** — What you do, your training, your role
-- Bladedancer, Ranger of the North, Archaeologist, Glamour-Weaver
-
-**Personal Trait** — Who you are, your personality, your defining quality
-- Unbreakable Survivor, Irrepressible Trickster, Daring Adventurer, Seasoned Leader
-
-This framework isn't mandatory — use it as inspiration to create a well-rounded character.
-
-**Examples:**
-
-| Character | Origin | Profession | Personal |
-|-----------|--------|------------|----------|
-| Conan | Cimmerian Barbarian | Veteran Raider | Unbreakable Survivor |
-| Indiana Jones | Fast-Talking Academic | Archaeologist | Daring Adventurer |
-| Aragorn | Heir of Isildur | Ranger of the North | Seasoned Leader |
-
----
-
-## When You Can Invoke
-
-**Requirements:**
-- Your outcome is **Conflict or better** (you must succeed)
-- The Trait is **narratively relevant** to what you just did
-- You choose **one** Special Effect
+3. If your outcome is **Conflict or better** AND a Trait is **narratively relevant** → invoke it for **one** Special Effect
 
 **On Setback:** Cannot invoke (you failed).
 
@@ -62,7 +27,7 @@ This framework isn't mandatory — use it as inspiration to create a well-rounde
 
 **One Trait per roll** — Even if multiple Traits apply, choose one.
 
-**No cost** — Traits are free to invoke when relevant.
+**No cost** — Traits are free to invoke when relevant. They reward you for engaging with your character's fiction: a "Bladedancer" who Clashes in melee gets more out of it than someone without that identity.
 
 **Who decides relevance?** The table does. If it's arguable, the player makes a one-sentence case for the connection. When in doubt, lean yes — Traits are meant to fire often. But the connection must be real, not just adjacent (see Example 4 below).
 
@@ -107,11 +72,7 @@ The secondary action must flow from what you just did — it can't be random or 
 | **Change Situation** | Alter fiction beyond tactics | Shift relationship, alter environment, establish rapport |
 | **Overcome Obstacle** | Progress toward overcoming | Mark 1 tick on an Obstacle track |
 
-**Examples:**
-- Clash the knight → Secondary: free Defy to disarm him (Take Something)
-- Talk to merchant → Secondary: free Defy to extract a secret (Take Something)
-- Sense the room → Secondary: free Defy to position advantageously (Seize Control)
-- Know about dragons → Secondary: free Defy to expose weakness to allies (Create Advantage)
+**In play:** Clash the knight → Secondary: free Defy to disarm him (Take Something). The secondary flows from the primary — the disarm happens *because* your strike created the opening.
 
 **Create Advantage specifics:**
 - Grants ally **1 Boon** (general advantage) OR **1 Edge** (targets specific Complication)
@@ -134,37 +95,11 @@ This is how support-oriented characters fuel the team's Momentum economy without
 
 Traits should be **broad enough to apply to the majority of actions your character takes** — these are heroic defining qualities, and heroes act through their identity most of the time. The interesting moments come not from scarcity, but from the situations where a Trait clearly *doesn't* apply and you're on your own.
 
-**The goal is differentiation, not limitation.** Your three Traits should cover different aspects of your character so the choice of *which* Trait to invoke (and which Special Effect to take) stays interesting. If all three cover combat, you've lost the decision point.
+**The goal is differentiation, not limitation.** Your three Traits should cover different aspects of your character so the choice of *which* Trait to invoke (and which Special Effect to take) stays interesting. If all three fire in the same kinds of scenes, you've lost the decision point — and gone silent everywhere else.
 
-**Good Traits (distinct coverage):**
-- "Bladedancer" — melee combat, blade knowledge, dueling culture
-- "Shadow of the Thieves Guild" — stealth, crime, lockpicking, deception, underworld
-- "Veteran of the Iron Wars" — combat, military tactics, soldiers, formations
+"Veteran of the Iron Wars" covers combat, tactics, and soldiers — but it doesn't help you decipher an Elven magical barrier. That's the shape of a good Trait: broad within its identity, with real edges.
 
-A character with all three has strong coverage in combat and social situations with soldiers or criminals — but "Veteran of the Iron Wars" doesn't help you decipher an Elven magical barrier, and "Shadow of the Thieves Guild" doesn't help you navigate open wilderness.
-
-**Watch the scene-type spread, not just the domains.** "Different ground" isn't quite enough — three Traits can cover genuinely different domains and still all point at the same *kind* of scene:
-
-- **Bladedancer / Veteran of the Iron Wars / Unbreakable Survivor** — three distinct domains (dueling, tactics, endurance), all combat-adjacent. In a fight this character is spoiled for choice; in a negotiation or an investigation, they go entire scenes without a legitimate invocation. Textbook-correct domains, lopsided play experience.
-- **One swap fixes it:** trade Unbreakable Survivor for **"Silver-Tongued Gambler"** and the same character now has something to invoke at the card table, in the negotiation, and when bluffing past the guards — while Bladedancer and Iron Wars still carry every fight.
-
-Aim for your three Traits to span at least two of: **combat, social, exploration/investigation**. The Origin/Profession/Personal framework nudges you here naturally — your Origin and Personal Traits usually aren't combat skills — but check the spread deliberately before you finalize.
-
-**Too Broad:**
-- "Competent" — applies to everything, removes all decision points
-- "Lucky" — could justify any situation
-
-**Too Narrow:**
-- "Longsword Expert vs Knights" — one specific situation
-- "Knows Fire Elemental Weaknesses" — one-use knowledge
-
-**Be Specific and Evocative:**
-- "Demon Circus Acrobat" instead of "Acrobat"
-- "Shadow of the Thieves Guild" instead of "Thief"
-- "Veteran of the Iron Wars" instead of "Soldier"
-- "Raised by Wolves in the Ashen Wood" instead of "Raised by Wolves"
-
-Add detail that grounds the Trait in your world and gives it flavor.
+**For complete guidance on writing Traits — the Origin/Profession/Personal framework, breadth and scene-type spread, worked examples — see Chapter 7 (Character Creation, Step 3).**
 
 ---
 

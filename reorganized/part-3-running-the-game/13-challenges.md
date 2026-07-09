@@ -237,7 +237,7 @@ Use that deliberately, never accidentally:
 
 - **Keep to the budget.** The Scale table above (0-3 Complications, 4 only for Divine rarities) exists so this situation stays rare.
 - **If one action faces 3 tags, make sure another faces fewer.** The dragon's scales, wards, and senses may make a frontal sword strike Edge-gated — but intimidation faces only Legendary. A fortress face is fine; a fortress *sphere* is an unwinnable encounter.
-- **Telegraph it.** "Your blade skips off scales like stone, and the air around it drinks your spell before it lands" tells players to stop swinging and start looking for the angle — or to build Edge (Create an Opening, setup actions, Potent Actions) before committing.
+- **Telegraph it — state Complication counts upfront.** "The knight's plate armor is impenetrable, and his shield guard leaves no openings. That's two Complications if you attack directly." This tells players to stop swinging and start looking for the angle — Sense for weaknesses, Create an Opening for Edge, or an approach that fewer tags apply to.
 
 ### Bypassing Complications
 
@@ -487,14 +487,8 @@ A single scene can contain multiple Challenges and tracks running simultaneously
 
 - **Multiple Challenges:** 3 goblins (2-tick group) + orc captain (4 ticks, Resolute)
 - **Challenge + Countdown:** Lich (Harm 10) + Countdown "Phylactery ritual completes" (8 ticks)
-- **Multiple Tracks:** Progress "Navigate the labyrinth" (6 ticks) + Countdown "Minotaur finds you" (4 ticks)
-- **Layered Threats:** Boss fight (Harm track) + environmental hazard (Countdown) + hostages in danger
 
-Each Challenge and track operates independently. Mark them based on fiction:
-- PC attacks → mark Harm track
-- Time passes or PCs fail → mark Countdown track
-- Successful navigation → mark Progress track
-- Environmental triggers → use as Suspense/Impact Moves
+Each Challenge and track operates independently — mark each based on what the fiction touches. For Progress-vs-Countdown track play (races, escapes, tense timers), see **Chapter 14: Combining Tracks for Tension**.
 
 ---
 
@@ -525,24 +519,6 @@ Any situation: Taken Out, Burden inflicted, objective fails catastrophically, or
 ### The Golden Rule
 
 **Telegraph before striking.** If players saw the danger coming and had a chance to respond, the consequence feels earned. If it blindsides them, it feels arbitrary — even if mechanically identical.
-
----
-
-## Telegraphing Multiple Complications
-
-When a Challenge has 2+ Complications, its dominance must be obvious in the fiction. Multiple Complications signal that direct action is extremely dangerous.
-
-**Always state Complications upfront:**
-
-- "The knight's plate armor is impenetrable, and his shield guard leaves no openings. That's two Complications if you attack directly."
-- "The dragon's scales shimmer with magical wards. Two Complications — you'll need to find a weakness or coordinate an assault."
-
-This signals to players:
-1. Frontal assault will almost certainly fail or backfire without Edge, Triumph, or coordinated tactics
-2. They should use Sense to find weaknesses
-3. They should Build Momentum for coordinated strikes
-4. They should use Create an Opening to gain Edge
-5. Alternate approaches may bypass defenses entirely
 
 ---
 

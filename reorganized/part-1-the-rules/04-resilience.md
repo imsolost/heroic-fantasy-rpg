@@ -14,9 +14,7 @@ Heroes take hits—physical blows, emotional strain, magical backlash, exhaustio
 
 ## Stress
 
-**Stress is your primary resilience track** — a unified buffer absorbing all incoming costs: physical blows, emotional strain, exertion, fear, and any other consequence the fiction demands.
-
-Stress represents getting tired or rattled, taking a superficial wound, narrowly avoiding injury, or pushing yourself beyond normal limits. It recovers quickly and is not meant to represent lasting harm.
+**Stress is your primary resilience track** — a unified buffer absorbing all incoming costs, whatever form the fiction gives them. It represents getting tired or rattled, taking a superficial wound, narrowly avoiding injury, or pushing beyond normal limits. It recovers quickly and is not meant to represent lasting harm.
 
 ### Stress Track
 
@@ -115,13 +113,13 @@ Each time you make an Action Roll where the Condition applies, reduce its tier b
 
 ### Gaining Conditions
 
-Conditions come from three sources:
+Conditions come from two sources:
 
 **Consequences:** The GM may inflict a Condition (tier 1 for Minor, tier 2-3 for Major/Severe) instead of or alongside marking Stress.
 
 **Challenge Moves:** Enemy abilities inflict Conditions directly, at a tier determined by the move.
 
-**Stress Overflow:** When your Stress track is full and you'd mark more, choosing to take a Burden instead of being Taken Out (see Burdens below).
+(Stress Overflow produces a **Burden**, not a Condition — see Burdens below.)
 
 ### Refresh, Not Stack
 
@@ -177,13 +175,7 @@ When your Stress track is full and you'd mark more Stress, choose: take a Burden
 
 Every Burden has a **recovery method** established when it's assigned. There are two types:
 
-**Long Rest Recovery (default):** The Burden reduces by 1 tier per Long Rest (overnight, safe location). Most physical wounds and emotional trauma use this.
-
-| After | Result |
-|-------|--------|
-| 1 Long Rest | Tier 3 → Tier 2 |
-| 2 Long Rests | Tier 2 → Tier 1 |
-| 3 Long Rests | Tier 1 → Clears |
+**Long Rest Recovery (default):** The Burden reduces by 1 tier per Long Rest (overnight, safe location) — a Tier 3 Burden clears after three. Most physical wounds and emotional trauma use this.
 
 **Narrative Recovery:** The Burden persists until a specific fictional condition is met — rest alone won't help. The GM states the requirement when assigning the Burden.
 

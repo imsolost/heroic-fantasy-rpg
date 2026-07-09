@@ -56,13 +56,13 @@ Magic uses the existing five Actions based on intent:
 | **Sense** | Divination, detection, scrying | Ask 2 questions (3 with Enhanced Effect) |
 | **Know** | Analyze magic, recall arcane knowledge, identify effects | GM answers + 1 clarifying follow-up |
 
-A fireball is Clash. A magical barrier is Defy. A charm spell is Talk. A scrying spell is Sense. Choose the Action that matches what you're trying to accomplish — the magic is just the method.
+Choose the Action that matches what you're trying to accomplish — the magic is just the method.
 
 ---
 
 ## Touchstones
 
-**Touchstones** define what your magic can do. They provide identity (your magic feels distinct), clarity (clear guidelines for what you can attempt), and balance (prevents magic from solving every problem).
+**Touchstones** define what your magic can do.
 
 ---
 
@@ -74,34 +74,33 @@ See Chapter 9 for the Sage's Core Talent (Spellcraft), which defines how Special
 
 #### The Seven Spheres
 
+Each Sphere covers only its own territory — anything another Sphere does is off-limits. The Cannot lines below flag only the non-obvious boundaries and edge cases.
+
 **Matter** — Physical form, substance, and density
 - Can: Transform physical properties, harden/soften materials, change shape, alter density, reshape objects
-- Cannot: Manipulate energy directly, affect minds, teleport, control time
 
 **Energy** — Thermal, elemental, kinetic, and raw force
 - Types: Elemental (fire, cold, lightning, acid), Kinetic (force blasts, telekinesis), Arcane (pure mana, wards), Negative (void, shadow, necrotic)
 - Can: Project, absorb, redirect, or create energy in all its forms
-- Cannot: Affect matter's substance, read minds, manipulate time or space
 
 **Mind** — Thought, emotion, perception, and consciousness
 - Can: Read/alter thoughts, create illusions, compel actions, cloud judgment, enhance mental faculties
-- Cannot: Affect physical matter, heal bodies, manipulate souls, control energy directly
+- Cannot: Heal bodies, manipulate souls (that's Spirit)
 
 **Spirit** — Souls, life force, death, and entities beyond the veil
 - Can: Heal/harm living essence, speak with dead, manipulate undead, ward against spirits, sense souls
-- Cannot: Affect inanimate matter, read thoughts (only souls), control weather or energy
+- Cannot: Read thoughts (only souls — that's Mind)
 
 **Space** — Distance, location, geometry, and dimensional boundaries
 - Can: Teleport, summon/banish, perceive distant locations, create pocket dimensions, fold space
-- Cannot: Affect time, alter matter's properties, control minds, heal
 
 **Time** — Causality, temporal flow, memory, and chronology
 - Can: Hasten/slow targets, glimpse future/past, manipulate duration, age/de-age objects
-- Cannot: Teleport through space, heal (except by reversing time), create matter, read current thoughts
+- Cannot: Heal (except by reversing time), read current thoughts (memory is Time; active thought is Mind)
 
 **Pattern** — Information, probability, raw mana, and magical structure
 - Can: Scrying, detect magic, bless/curse (shift probability), counterspells, dispel effects, analyze magical structure, identify weaknesses
-- Cannot: Direct damage (except to magical constructs), heal, create physical objects
+- Cannot: Direct damage (except to magical constructs)
 - Pattern is meta-magic — the study of magic itself rather than the elements of reality
 
 #### The Nine Operations
@@ -176,33 +175,34 @@ See Chapter 9 for the Mystic's Core Talent (Spiritual Communion), which defines 
 
 #### Example Domains
 
+A domain grants only what falls within its purview — anything belonging to a different domain is off-limits. The Cannot lines flag only the non-obvious boundaries.
+
 **Life** (vitality, restoration, growth, purity)
 - Can: Mend wounds, cure disease, restore vitality, cleanse corruption, preserve life, encourage growth
-- Cannot: Raise the dead (beyond a few moments), attack directly, dominate minds
+- Cannot: Raise the dead (beyond a few moments)
 
 **Nature** (beasts, plants, weather, wilderness)
 - Can: Command animals, summon plants, call storms, traverse wilderness effortlessly
-- Cannot: Heal wounds directly, read minds, manipulate time
+- Cannot: Heal wounds directly (that's Life)
 
 **Death** (mortality, spirits, decay, endings)
 - Can: Speak with dead, guide souls, wither enemies, sense dying, animate undead
-- Cannot: Heal the living, create matter, teleport, read thoughts
+- Cannot: Heal the living
 
 **Protection** (shields, wards, defense, sanctuary)
 - Can: Create barriers, shield allies, ward against harm, deflect attacks, consecrate ground
-- Cannot: Attack directly, heal wounds, divine information, transform
+- Cannot: Attack directly — Protection turns harm aside, it doesn't deal it
 
 **Battle** (war, weapons, martial empowerment)
 - Can: Empower weapons, inspire warriors, smite with divine wrath, grant martial prowess
-- Cannot: Heal (unless combined with another domain), create illusions, scry
+- Cannot: Heal (unless combined with another domain)
 
 **Prophecy** (fate, visions, foresight)
 - Can: Divine future events, read fate, grant visions, sense destiny, interpret omens
-- Cannot: Attack directly, heal, alter physical matter
+- Cannot: Attack directly — Prophecy reveals, it doesn't strike
 
 **Storms** (lightning, wind, thunder, tempest)
 - Can: Call lightning, summon wind, control weather, electrify weapons, clear the sky
-- Cannot: Heal, read minds, manipulate time, create illusions
 
 #### Mystic Domain Magnitude
 
@@ -286,23 +286,9 @@ Potent Spells follow the **Potent Action** framework (see Chapter 2). They grant
 
 **The three scale dimensions applied to spells:**
 
-**Heightened Impact** — Amplify quality or overcome resistance
-- Fireball bypasses fire resistance or melts stone barriers
-- Healing works on supernatural corruption or leaves no scarring
-- Charm affects targets normally resistant to mental influence
-- Stone wall becomes nearly indestructible
-
-**Widespread Effect** — Affect larger groups or areas
-- Fireball affects a small group instead of single target
-- Protection ward covers entire party instead of one ally
-- Charm affects multiple people simultaneously
-
-**Extended Duration** — Sustain effects beyond momentary
-- Stone wall lasts entire scene instead of 1-2 actions
-- Buff grants Boon for the scene instead of next action only
-- Charm persists for entire scene instead of 1-2 actions
-
-**Examples:**
+- **Heightened Impact** — Amplify quality or overcome resistance
+- **Widespread Effect** — Affect larger groups or areas
+- **Extended Duration** — Sustain effects beyond momentary
 
 | Spell | Normal | Potent (Heightened) | Potent (Widespread) | Potent (Extended) |
 |-------|--------|--------------------|--------------------|-------------------|
@@ -328,16 +314,7 @@ Unless stated otherwise:
 
 ### Rituals — Structured Scenes
 
-Extraordinary magic requiring extended effort. Rituals accomplish effects far beyond normal spellcasting and are not resolved with a single Action Roll — they are structured scenes requiring preparation, components, and time.
-
-**Use rituals for:**
-- Raising the dead
-- Binding powerful entities
-- Cursing bloodlines or locations
-- Creating permanent magical effects
-- Altering reality on a grand scale
-
-See the **Rituals** section below for complete structure.
+Effects beyond Potent Spell scope — resurrection, binding entities, permanent enchantments, grand workings — are **Rituals**: structured scenes requiring preparation, components, and time, not single rolls. See the **Rituals** section below.
 
 ---
 
@@ -389,13 +366,7 @@ Since enemies don't roll (only players do), debuffs grant allies 1 Boon on actio
 - Standard Spell: Allies' next 1-2 actions against target gain 1 Boon
 - Potent Spell (Extended): All ally actions against target gain 1 Boon for the scene
 
-**Examples:**
-- Blind: Brilliant flash — allies get Boon (can't see attacks coming)
-- Slow: Enemy moves in slow-motion — allies get Boon (easier to hit)
-- Hex: Curse of misfortune — allies get Boon (magically vulnerable)
-- Mark: Magical tracking mark — allies get Boon (highlighted target)
-
-All mechanically identical (1 Boon for X actions), but fiction explains why and determines what might break the effect.
+The fiction explains *why* and determines what might break the effect; the mechanics are always the same. A brilliant flash (Blind) and a curse of misfortune (Hex) both grant allies 1 Boon — but sight returns when the target shields their eyes, while the curse might demand dispelling.
 
 ---
 
@@ -562,9 +533,6 @@ Encourages creative problem-solving, reduces prep, and makes magic feel responsi
 
 **Why magnitude tiers?**
 Cantrips feel magical without requiring rolls. Spells are the standard baseline. Potent Spells require investment (Stress or Talent boxes) for dramatic effects. Rituals create adventure content through their component-gathering structure.
-
-**Sage vs. Mystic design space:**
-Sages are precise and modular — pick your Sphere, pick your Operation, combine. Their limitation is Arcane Formula's Stress cost for improvising outside known theorems (Generalists remove the Bane; Specialists have Expertise in their Sphere). Mystics are broader but volatile — Favor grants Expertise on all domain-related actions (not just spellcasting), but can be lost on any roll showing 2+ ones and must be earned back through roleplay. Both can achieve equivalent effects; the path there feels different.
 
 ---
 

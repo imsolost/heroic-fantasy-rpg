@@ -14,16 +14,16 @@ When you make an Action Roll, you get one of four outcomes (see Chapter 1). This
 
 ## The Four Outcomes (Quick Reference)
 
-Before diving into consequences, here's a quick reminder of the four outcomes from Chapter 1:
+Before diving into consequences, here's a quick reminder of the four outcomes from Chapter 1 — now with their Consequence tiers:
 
-| Outcome | Die Result | Effect |
-|---------|------------|--------|
-| **Triumph** | Two or more 6s | Heroic success + gain 1 Momentum + ignore all Complications |
-| **Success** | At least one 6 | Clean success, no consequences |
-| **Conflict** | At least one 4-5, no 6s | Success with Minor Consequence |
-| **Setback** | All dice 1-3 | Failure with Major Consequence |
+| Outcome | Die Result | Effect | Consequence Tier |
+|---------|------------|--------|------------------|
+| **Triumph** | Two or more 6s | Heroic success + gain 1 Momentum + ignore all Complications | None |
+| **Success** | At least one 6 | Clean success | None |
+| **Conflict** | At least one 4-5, no 6s | You succeed, but pay a cost | **Minor** |
+| **Setback** | All dice 1-3 | You fail and face serious fallout | **Major** |
 
-**Disaster** (very rare): Setback reduced further by Complications → Severe Consequence
+**Disaster** (very rare): Setback reduced further by Complications → **Severe** Consequence
 
 ---
 
@@ -44,18 +44,6 @@ These three things interact in a single roll: you face **Complications** that wo
 ---
 
 ## Consequence Tiers
-
-When you roll **Conflict, Setback, or Disaster**, you face consequences. The severity depends on your outcome:
-
-| Outcome | Consequence Tier | What This Means |
-|---------|------------------|-----------------|
-| **Triumph** | None | Clean heroic success |
-| **Success** | None | Clean success |
-| **Conflict** | **Minor** | You succeed, but face a complication |
-| **Setback** | **Major** | You fail and face serious consequences |
-| **Disaster** | **Severe** | Catastrophic failure with lasting impact |
-
----
 
 ### Minor Consequences (Conflict)
 
@@ -121,21 +109,17 @@ Catastrophic failure with lasting impact. **Disaster is rare**—it only occurs 
 
 **Complications** are enemy defensive abilities that make them harder to defeat. Each Complication reduces your outcome by **one tier**.
 
-### How Complications Work
+### Resolution Order
 
-1. Roll your dice, determine raw outcome
-2. **Apply Complications:** Each applicable Complication reduces outcome by 1 tier
-   - Success → Conflict
-   - Conflict → Setback
-   - Setback → Disaster
-3. **Expertise** (if applicable): Converts Setback back to Conflict
-4. Apply consequences based on final outcome
+1. **Roll dice** → Determine raw outcome
+2. **Spend Edge** → 1 Edge cancels 1 Complication before it applies (see Chapter 1)
+3. **Apply remaining Complications** → Each reduces outcome by 1 tier (Success → Conflict → Setback → Disaster)
+4. **Apply Expertise** → If the final outcome is Setback, convert to Conflict
+5. **Apply consequences** → Based on final outcome
 
-**Triumph ignores all Complications**—it cannot be reduced.
+**Triumph ignores all Complications** — it cannot be reduced.
 
-**Edge ignores Complications:**
-- Spend 1 Edge to ignore 1 Complication before it applies
-- See Chapter 1 for Edge sources (Create an Opening, some Talents)
+**Expertise does NOT protect against Disaster.** If 3 Complications apply, even a rolled Success cascades to Disaster.
 
 ---
 
@@ -155,19 +139,6 @@ Challenges have **Complication tags** that describe when they apply:
 | **Legendary** | ALL actions (universal opposition) |
 
 **See Chapter 13 (Challenges) for complete Complication rules and Challenge design.**
-
----
-
-### Resolution Order with Complications and Expertise
-
-**Step-by-step:**
-
-1. **Roll dice** → Determine raw outcome
-2. **Apply Complications** → Check which tags apply, reduce outcome by 1 tier per Complication
-3. **Apply Expertise** → If final outcome is Setback, convert to Conflict
-4. **Apply consequences** → Based on final outcome
-
-**Important:** Expertise does NOT protect against Disaster. If you have 3+ Complications, even a Success will be reduced to a Disaster.
 
 ---
 
@@ -336,9 +307,7 @@ Here's how outcomes resolve for each of the five Actions:
 | **Conflict** | Mark 1 on Will track + Minor Consequence |
 | **Setback** | Mark 0 ticks + Major Consequence (they're offended, hostile, or see through you) |
 
-**Talk vs Clash (both mark Will):**
-- **Talk** creates willing agreement (they choose to cooperate)
-- **Clash** creates forced compliance (they submit out of fear)
+**Talk vs Clash (both mark Will):** Talk creates willing agreement; Clash creates forced compliance (see Chapter 2).
 
 **Example (Success):** "The merchant nods. 'You've got a deal.'"  
 **Example (Conflict):** "He agrees, but you sense he resents it—mark 1 on Will, but he'll remember this"  
@@ -369,7 +338,7 @@ Here's how outcomes resolve for each of the five Actions:
 | **Conflict** | GM answers truthfully + clarifying follow-up + Minor Consequence (time lost, interest revealed, complication from the info itself) |
 | **Setback** | GM gives false or dangerously incomplete information + Major Consequence (misled into danger, attract attention, waste crucial time) |
 
-**Example (Success):** "What is this thing's nature or weakness? I studied elemental creatures." → "They're vulnerable to cold iron." Follow-up: "How do I exploit that?" → "Strike when they're manifesting physically."  
+**Example (Success):** "What do these cult markings mean? I've studied forbidden texts." → "They're summoning sigils — the ritual completes at the new moon." Follow-up: "How is it disrupted?" → "Break the central sigil before moonrise."  
 **Example (Conflict):** "What could have caused this trap mechanism? I've disarmed similar systems." → "It's a pressure-plate trap triggered by weight," but you hear footsteps approaching (Minor Consequence).  
 **Example (Setback):** "You misremember—vampires aren't weak to silver, that's werewolves. The vampire grins as your silver blade bounces off."
 

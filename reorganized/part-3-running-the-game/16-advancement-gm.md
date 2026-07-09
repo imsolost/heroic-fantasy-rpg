@@ -128,9 +128,7 @@ Scale transitions are the biggest shifts in play. When the party reaches Heroic,
 ### Heroic → Mythic Scale (Level 7): The Mythological Threshold
 
 **What changes in the fiction:**
-- Heroes exceed real-world capability — feats feel superhuman
-- A Heroic Scale Champion defeats dozens of soldiers. A Mythic Scale Champion throws ten across the room with one blow.
-- The world treats them as more-than-mortal
+- Heroes openly exceed mortal capability — the world treats them as more-than-mortal (see Chapter 8's Scale descriptions)
 - Threats are legendary in scope (dragons, ancient evils, planar incursions)
 
 **What changes mechanically:**
@@ -149,9 +147,7 @@ Scale transitions are the biggest shifts in play. When the party reaches Heroic,
 ### Mythic → Divine Scale (Level 10): Demigod Heroes
 
 **What changes in the fiction:**
-- These are demigod-tier characters — the stuff of legends
-- The threats they face are world-ending (demon lords, elder dragons, cosmic horror)
-- Their actions reshape the world permanently
+- Demigod-tier characters facing world-ending threats; their actions reshape the world permanently (see Chapter 8)
 - The story is approaching its climax
 
 **What changes mechanically:**

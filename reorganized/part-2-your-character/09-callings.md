@@ -161,7 +161,7 @@ You can use the Mystic to play all kinds of spiritually attuned heroes: a shaman
 
 ### Core Talent: Spiritual Communion
 
-You serve as a bridge between the mortal world and forces beyond — divine, ancestral, primal, or cosmic. You do not command power; you commune with it.
+You serve as a bridge between the mortal world and forces beyond — divine, ancestral, primal, or cosmic.
 
 **Define Your Patron:** Name and describe your patron (deity, ancestral spirit, primal force, cosmic entity, etc.). Choose **2 domains** they hold — these are touchstones for what they can grant.
 
@@ -171,13 +171,11 @@ You serve as a bridge between the mortal world and forces beyond — divine, anc
 
 **Invoking Your Patron:** When you invoke your patron's power, describe what you ask for within their domains. Choose the Action that matches your intent (Defy to protect, Clash to smite, Talk to bless or curse, Sense for visions, Know to commune for answers). Roll **Spirit + Action**.
 
-You cannot invoke powers outside your patron's domains — your patron grants only what falls within their divine purview. If you wish to expand your spiritual reach, you must gain access to additional domains through Talents or narrative means.
-
-See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and example effects.
+You cannot invoke powers outside your patron's domains; to expand your spiritual reach, gain additional domains through Talents or narrative means. See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and example effects.
 
 **Divine Favor:** You begin play with Favor. When you have Favor, you have **Expertise** on all actions related to your patron's domains — not just spellcasting, but any action that falls within their purview (Setback → Conflict). A Storms patron grants Expertise navigating a hurricane; a Life patron grants Expertise tending wounds; a Death patron grants Expertise communing with spirits.
 
-**Losing Favor:** When you roll **2 or more 1s** on any action where Favor grants Expertise, you lose Favor — regardless of the action's outcome. Your patron judges how you draw on their power, not just whether it works. The more power you draw on (larger dice pools), the greater the chance something displeases them. You can still act within your domains without Favor, but without Expertise.
+**Losing Favor:** When you roll **2 or more 1s** on any action where Favor grants Expertise, you lose Favor — regardless of the action's outcome. Your patron judges how you draw on their power, not just whether it works. You can still act within your domains without Favor, but without Expertise.
 
 > **Note:** This is the one mechanic in Archon where you check more than just your highest die. As a Mystic, you read your highest die for the outcome (like everyone else) and also glance at your pool for 1s. It's a small extra step that reflects your patron's independent judgment.
 
@@ -189,9 +187,7 @@ See **Chapter 10: Spellcasting** for complete casting rules, magnitude, and exam
 
 The GM should signal when Favor returns (typically at the end of a scene or after a rest once the condition is met). **Pace recovery in scenes, not sessions** — losing Favor should sting, not sideline the Calling. If a Mystic has gone a scene or two without a natural opening to reconnect, put one in their path.
 
-> **Design note:** Favor is deliberately outside the Momentum/Stress economy. It represents your patron's independent judgment, not a tactical resource you manage — you can't spend Momentum to prevent losing Favor. The Talent *Chosen Vessel* exists for players who want to soften this, but by default, divine judgment is non-negotiable.
-
-> **Design note — power and transgression scale together:** The odds of rolling 2+ ones are identical to the odds of rolling Triumph at the same pool size. A Spirit 5 Mystic Triumphs on roughly one domain roll in five — and displeases their patron just as often. That's intentional: drawing deeply on divine power is how you achieve the miraculous *and* how you transgress. The real gamble isn't the Spirit roll itself (a big pool rarely needs Expertise to rescue it) — it's that Favor covers *all* domain actions, including the ones you roll with weaker Approaches. Your mighty smite can cost you the Expertise your storm-tossed Grace roll was counting on. Mystics who want steady reliability stay modest; Mystics who reach for miracles gamble the safety net. *Chosen Vessel* is the hedge.
+> **Design note — power and transgression scale together.** Favor sits deliberately outside the Momentum/Stress economy — you can't spend Momentum to prevent losing it; your patron's judgment is non-negotiable. And the odds of rolling 2+ ones equal the odds of Triumph at the same pool size: drawing deeply on divine power is how you achieve the miraculous *and* how you transgress. The real gamble is that Favor covers *all* domain actions — your mighty smite can cost you the Expertise your weaker rolls were counting on. *Chosen Vessel* is the hedge.
 
 ### Background Questions
 
@@ -387,7 +383,7 @@ Mark this to Resist a Consequence caused by pursuit, detection, capture, or expo
 
 **The unyielding line between danger and those who cannot face it alone**
 
-The Vanguard stands between danger and those who cannot face it alone. When others would fall, the Vanguard takes the blow instead — through sacrifice and sheer resilience, they ensure no ally fights alone. They don't just survive conflict — they decide who bears its cost.
+When others would fall, the Vanguard takes the blow instead. Through sacrifice and sheer resilience, they don't just survive conflict — they decide who bears its cost.
 
 You can use the Vanguard to play all kinds of protective stalwarts: a heavily armored knight, a shield-bearing clan defender, a stoic mercenary captain, or an unarmored brawler bound by a sacred vow to keep others safe.
 
@@ -470,15 +466,7 @@ Callings are not restrictive classes. They define what you *excel at*, not what 
 Core Talents define your Calling's identity. They should feel impactful every session. Martial Superiority turns Champions into combat monsters. Shadowcraft makes Shadows exceptional infiltrators. These are intentionally powerful — they're the reason you chose this Calling.
 
 **Expertise Domains:**
-Each Calling's Expertise domain is narrow and specific:
-- Champion: All weapons
-- Hunter: Tracking, Trapping, Wilderness Survival
-- Mystic: All domain-related actions (while in Favor)
-- Sage: Chosen Sphere (Specialist) or none (Generalist)
-- Shadow: Stealth, Thievery, Deception
-- Vanguard: None (Core Talent is protective, not Expertise-based)
-
-This ensures Expertise remains a specialist tool, not a broad "never fail" button.
+Each Calling's Expertise domain is narrow and specific (see the Quick Reference table below). This ensures Expertise remains a specialist tool, not a broad "never fail" button.
 
 **The "Push Yourself to Potent" Pattern:**
 Most Talents combine passive competence (Expertise or Edge) with an active extraordinary option (Push Yourself → Potent effect). This creates a clear economy: you're always good at your domain (Expertise), and you can spend Stress to be *amazing* at it (Potent). The Stress cost makes it a genuine decision, not a default.

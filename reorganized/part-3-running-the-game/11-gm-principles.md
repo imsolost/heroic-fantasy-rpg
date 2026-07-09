@@ -74,94 +74,6 @@ The world moves even when PCs aren't watching. Villains advance plans, factions 
 
 ## When to Roll
 
-The most common mistake new GMs make is calling for too many rolls. The dice come out when an action is **difficult, dangerous, or dramatic** — not for routine tasks.
-
-### Call for a Roll When:
-
-- The outcome is uncertain
-- Both success and failure are interesting
-- Risk or danger is present
-- The moment is dramatically important
-
-### Say Yes When:
-
-- Success is trivial for this character
-- Failure would just stall progress
-- There's no time pressure or danger
-- The action is routine
-
-### Say No When:
-
-- The action makes no fictional sense
-- It's impossible given established facts
-- It would break the core fiction or tone
-
-**Examples:**
-
-- "I climb the ladder" → Say yes (unless it's trapped, rickety, or under fire)
-- "I jump across the 30-foot chasm" → Call for a roll (dangerous, uncertain)
-- "I flap my arms and fly" → Say no (the fiction doesn't support it)
-
----
-
-## Failure Is Not a Wall
-
-When a PC fails, the **situation changes**. Never leave them in the same spot with no progress.
-
-**Bad failure:**
-- "You fail to pick the lock." (stall — nothing happens, player is stuck)
-- "The guard doesn't believe you." (no consequence, no new situation)
-
-**Good failure:**
-- "You trigger the trap. Mark 2 Stress and the alarm rings." (consequence + new situation)
-- "The guard believes you're lying and calls for backup. What do you do?" (escalation + new choice)
-
-Failure should always push the fiction forward. The situation worsens, new problems emerge, or the approach must change — but the game never grinds to a halt.
-
----
-
-## One Roll Per Dramatic Question
-
-One of the most common mistakes in fiction-first games: breaking a single dramatic moment into multiple micro-rolls that drain tension and create attrition spirals.
-
-### The Principle
-
-**One roll resolves one complete dramatic question or objective.**
-
-- "Cross the collapsing hallway" is **one roll**, not separate rolls for dodging each falling timber
-- "Navigate the treacherous canyon pass" is **one roll**, not one per obstacle
-- "Escape the burning building" is **one roll**, not one per room
-- "Sneak past the guard patrol" is **one roll**, not one per guard
-
-Once a character rolls to handle a specific threat environment, don't force additional rolls for micro-elements within that same threat.
-
-### Why This Matters
-
-Multiple micro-rolls create attrition spirals. Five rolls to cross a dangerous zone means five chances to fail. Each failure marks Stress or imposes Conditions. By the end, PCs are battered before they reach the real encounter. Tension drains into tedium.
-
-One dramatic roll creates stakes. The outcome determines the cost in a single moment:
-
-- **Triumph:** Heroic crossing, gain advantage
-- **Success:** Clean success, no Consequence
-- **Conflict:** You make it across, but mark 1 Stress
-- **Setback:** You make it, but take 2 Stress + a Condition
-
-### When to Call for Multiple Rolls
-
-**Multiple rolls are right when:**
-- Each roll addresses a **distinct dramatic question** (escape the mine → fight the orcs → convince the guards = three separate problems)
-- A **multi-stage Challenge** has truly separate obstacles (break the wards, fight the cultists, destroy the altar)
-- **Different PCs tackle different parts** (Rogue picks lock, Fighter keeps watch, Sage dispels alarm)
-
-**One roll is right when:**
-- There's a **single dramatic objective** (crossing a dangerous zone, escaping pursuit)
-- Micro-elements are part of the **same threat** (each falling beam, each crack in ice, each guard in patrol)
-- Multiple rolls would only create **attrition** without meaningful choice
-
----
-
-## When to Roll
-
 Before calling for dice, ask three questions:
 
 **1. Can they attempt this?**
@@ -212,6 +124,45 @@ Weigh capability, tools, and circumstances together, then tell the player direct
 - Actions that break established fiction (casting spells without magic, attacking someone in another city)
 - Actions where the character fundamentally lacks capability (sword-fighting with no arms, reading a language they don't know)
 - Suggest a different approach rather than just saying no — "you can't Talk to them in Common, but you could try gestures with Defy, or find a translator"
+
+---
+
+## One Roll Per Dramatic Question
+
+One of the most common mistakes in fiction-first games: breaking a single dramatic moment into multiple micro-rolls that drain tension and create attrition spirals.
+
+**One roll resolves one complete dramatic question or objective.**
+
+- "Cross the collapsing hallway" is **one roll**, not separate rolls for dodging each falling timber
+- "Sneak past the guard patrol" is **one roll**, not one per guard
+
+Multiple micro-rolls create attrition spirals: five rolls to cross a dangerous zone means five chances to fail, each marking Stress — PCs arrive battered before the real encounter, and tension drains into tedium. One dramatic roll puts the whole cost in a single moment:
+
+- **Triumph:** Heroic crossing, gain advantage
+- **Success:** Clean success, no Consequence
+- **Conflict:** You make it across, but mark 1 Stress
+- **Setback:** You make it, but take 2 Stress + a Condition
+
+**Multiple rolls are right when:**
+- Each roll addresses a **distinct dramatic question** (escape the mine → fight the orcs → convince the guards = three separate problems)
+- A **multi-stage Challenge** has truly separate obstacles (break the wards, fight the cultists, destroy the altar)
+- **Different PCs tackle different parts** (Rogue picks lock, Fighter keeps watch, Sage dispels alarm)
+
+---
+
+## Failure Is Not a Wall
+
+When a PC fails, the **situation changes**. Never leave them in the same spot with no progress.
+
+**Bad failure:**
+- "You fail to pick the lock." (stall — nothing happens, player is stuck)
+- "The guard doesn't believe you." (no consequence, no new situation)
+
+**Good failure:**
+- "You trigger the trap. Mark 2 Stress and the alarm rings." (consequence + new situation)
+- "The guard believes you're lying and calls for backup. What do you do?" (escalation + new choice)
+
+Failure should always push the fiction forward. The situation worsens, new problems emerge, or the approach must change — but the game never grinds to a halt.
 
 ---
 

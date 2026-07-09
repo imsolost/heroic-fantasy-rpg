@@ -62,15 +62,7 @@ Combat areas can be divided into abstract **zones** for tactical clarity while p
 
 ### Positioning
 
-Position is one of the circumstances the GM weighs when assigning Boons and Banes (see Chapter 2). Strong positioning earns you a Boon; poor positioning costs you a Bane.
-
-**Positioning that grants 1 Boon:**
-- High ground, cover, flanking with an ally, superior terrain
-
-**Positioning that applies 1 Bane:**
-- Surrounded, pinned down, poor footing, exposed to multiple threats, charging across open ground under fire
-
-This isn't a separate system — it's the same circumstantial assessment the GM always makes, applied to the spatial fiction of combat.
+Position is one of the circumstances the GM weighs when assigning Boons and Banes (see Chapters 2 and 11) — not a separate system, just the same assessment applied to combat's spatial fiction. Strong position (high ground, cover, flanking) earns 1 Boon; weak position (surrounded, exposed, poor footing) costs 1 Bane.
 
 ### Range
 
@@ -182,15 +174,9 @@ All standard teamwork mechanics (Assist, Push Yourself, Build Momentum) work in 
 
 ## Suspense in Combat
 
-Suspense works in combat exactly as described in **Chapter 12** — the same earn/spend rules apply. Key combat-specific notes:
+Suspense works in combat exactly as described in **Chapter 12** — the same earn/spend rules and menu apply. Combat-specific notes:
 
 **Earning:** Suspense Moves in combat usually take the form of telegraphing an attack or describing the environment shifting. Skipping a prompted Impact Move (letting a Conflict consequence slide) also earns +1.
-
-**Spending in combat typically looks like:**
-- **Impact Move (1-2 Suspense):** Deliver a consequence when no PC roll prompted it
-- **Seize Initiative (1-2 Suspense):** Enemy acts immediately, interrupting spotlight
-- **Challenge Move (1-3 Suspense):** Trigger signature ability (area attack, summon reinforcements)
-- **Escalate (1 Suspense):** Environment shifts (fire spreads, ceiling collapses)
 
 **Example:**
 > **GM:** "The orc captain raises his shield and bellows a war cry — his lieutenants tense up, ready to charge." *(Suspense Move: telegraph danger, earn +1 Suspense)*
@@ -214,9 +200,9 @@ When PCs first engage, each rolls Defy with Spirit:
 
 **Example:** Dragon, demon lord, ancient vampire.
 
-### Cinematic Actions
+### Relentless (Seize Initiative)
 
-GM spends 1-2 Suspense between PC actions to trigger an extra enemy action. Represents exceptional speed and power.
+Epic foes use **Seize Initiative** (see Chapter 12) freely and often — their exceptional speed and power lets them act between PC actions in ways lesser foes can't.
 
 - Dragon tail sweep (1 Suspense)
 - Kraken tentacle grab (1 Suspense)

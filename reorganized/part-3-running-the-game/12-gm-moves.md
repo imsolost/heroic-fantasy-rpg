@@ -99,6 +99,8 @@ Mark 2 Stress, enemy counterattacks, lose something important, trigger telegraph
 **Severe Consequence (from Disaster or Countdown completion):**
 Taken Out, Burden inflicted, objective fails catastrophically, or the situation changes dramatically against the PCs.
 
+For situational calibration tables, see **Chapter 13: Consequence Calibration**. When in doubt, default to Stress — it's the simplest option and keeps play moving.
+
 ---
 
 ## The Hint → Reveal → Strike Pattern
@@ -153,7 +155,7 @@ Begin each session with **2 Suspense**. This gives you a small starting buffer f
 | Party takes a Long Rest | +2 |
 | Challenge-specific (built into stat block) | Varies |
 
-**Suspense Moves earn Suspense.** Every time you telegraph danger, reveal information, cut away to show enemy activity, or resolve a problem for the PCs, you earn 1 Suspense. This mechanically enforces the Hint→Reveal→Strike principle — you can't strike without having warned first, because warnings are what fund strikes.
+**Suspense Moves earn Suspense.** Every time you telegraph danger, reveal information, cut away to show enemy activity, or resolve a problem for the PCs, you earn 1 Suspense. Telegraphing is free to do — you never spend to warn, only to strike.
 
 **Skipping an Impact Move** means the fiction called for a consequence (Conflict result, ignored warning) but you choose to bank the tension instead. The PCs got lucky — for now. Use this when no immediate consequence feels compelling or when you want to shift focus elsewhere.
 
@@ -167,8 +169,6 @@ Begin each session with **2 Suspense**. This gives you a small starting buffer f
 - **Activate Challenge Move (1-3 Suspense):** Boss uses signature ability, reinforcements arrive, battlefield changes.
 - **Seize Initiative (1-2 Suspense):** Enemy acts immediately, interrupting the current spotlight.
 - **Escalate (1 Suspense):** Environment shifts — fire spreads, ceiling collapses, storm intensifies.
-
-**Suspense Moves are free to make** — you don't spend Suspense to telegraph. You *earn* it by telegraphing. Only Impact Moves (and their variants) cost Suspense.
 
 ### Why Suspense is Visible
 

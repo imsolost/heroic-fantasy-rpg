@@ -168,7 +168,7 @@ This document defines the canonical capitalization for all mechanical terms in t
 - Close (range band)
 - Near (range band)
 - Far (range band)
-- Cinematic Actions (epic foe extra actions, GM spends Suspense)
+- Relentless (epic foes using Seize Initiative freely)
 - Seize Spotlight (1 Momentum: PC acts immediately)
 - Seize Initiative (1-2 Suspense: enemy acts immediately)
 

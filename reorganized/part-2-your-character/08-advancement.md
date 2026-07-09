@@ -126,7 +126,7 @@ At Levels 5 and 10, add a new Trait to your character. It should reflect recent 
 - After surviving the Shadowlands: "Touched by Shadow"
 - After studying with a master: "Bladedancer of the Silk Academy"
 
-New Traits follow the same rules as starting Traits — specific, evocative, 30-50% applicability. See Chapter 6 for Trait rules.
+New Traits follow the same rules as starting Traits — specific, evocative, and covering ground your existing Traits don't. See Chapter 6 for Trait rules.
 
 ---
 
@@ -193,10 +193,7 @@ Scale advances at Level 4 (Heroic), Level 7 (Mythic), and Level 10 (Divine).
 
 **What you can do:**
 - Fight dozens of trained soldiers and plausibly win
-- Lead mercenary companies, intimidate groups into retreat
-- Leap impossible gaps (20-30 feet), scale castle walls in minutes
-- Break through reinforced doors, snap chains with sustained effort
-- Survive falls of 3-4 stories (with injury), go without sleep for days
+- Leap impossible gaps (20-30 feet), survive falls of 3-4 stories, go without sleep for days
 - Decipher unfamiliar languages while reading them, predict enemy tactics from minimal intelligence
 - Sway small crowds, convince minor nobles, assume high-profile identities
 
@@ -213,17 +210,13 @@ Scale advances at Level 4 (Heroic), Level 7 (Mythic), and Level 10 (Divine).
 **Archetypes:** Beowulf, Achilles, Samson, Cú Chulainn, Heracles (mortal years), legendary dragon-slayers, cultivation novel protagonists.
 
 **What you can do:**
-- Snap heavy iron chains with single blows, throw back ten people with one strike, smash boulders
+- Snap iron chains with single blows, throw back ten people with one strike, lift oxen overhead
 - Fight platoons (20-30) solo, lead armies in battle
-- Lift oxen overhead, run up cliffsides, swim ocean channels
-- Endure falls from mountains (with injury), survive lava flows
-- Go without rest, food, or sleep for a week
+- Endure falls from mountains, survive lava flows, go without rest for a week
 - Make breakthrough magical discoveries, create new spells
 - Sway crowds into revolution, convince kings
 
-**Tone:** These heroes have crossed the threshold into the mythological — their feats are impossible by mortal standards.
-
-**Key distinction from Heroic:** Heroic Scale heroes push the limits of believability while remaining recognizably mortal. Mythic Scale heroes openly violate physics and enter the realm of myth.
+**Key distinction from Heroic:** Heroic Scale heroes push the limits of believability while remaining recognizably mortal. Mythic Scale heroes openly violate physics — their feats are impossible by mortal standards and become folklore.
 
 ---
 
@@ -234,12 +227,9 @@ Scale advances at Level 4 (Heroic), Level 7 (Mythic), and Level 10 (Divine).
 **Archetypes:** Gilgamesh, Cú Chulainn (full power), Heracles (apotheosis), Sun Wukong — heroes on the cusp of divinity.
 
 **What you can do:**
-- Topple watchtowers with devastating strikes, shatter fortress foundations
-- Fight entire companies (100+) solo
-- Lift three-story buildings, walk through dragonfire unharmed
-- Cross oceans in hours, survive hostile dimensions for weeks
-- Found kingdoms that endure for generations, reshape landscapes
-- Negotiate peace between nations, become a voice that shapes civilizations
+- Fight entire companies (100+) solo, topple watchtowers with devastating strikes
+- Lift three-story buildings, walk through dragonfire unharmed, cross oceans in hours
+- Found kingdoms, reshape landscapes, negotiate peace between nations
 - Steal from gods, bargain with Death, cross into the underworld and return
 
 **Tone:** Reality-warping and godlike. When they die, temples are built in their honor.

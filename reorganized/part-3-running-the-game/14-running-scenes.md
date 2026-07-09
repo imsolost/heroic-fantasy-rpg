@@ -70,15 +70,11 @@ Every "failure" changes the situation and opens new paths — the stakes get hig
 
 ### Investigation Principles
 
-**1. Information flows forward, complications flow sideways.** Rolls never stop information — they add costs or redirect paths.
+**1. Let players be smart.** If they deduce the answer from available clues, don't demand rolls to "confirm" it.
 
-**2. Failed rolls escalate, don't stall.** Missing a clue makes things more dangerous, not impossible.
+**2. Mysteries have momentum.** Time pressure keeps investigation moving (the ritual completes in 3 days, the assassin strikes tonight).
 
-**3. Let players be smart.** If they deduce the answer from available clues, don't demand rolls to "confirm" it.
-
-**4. Mysteries have momentum.** Time pressure keeps investigation moving (the ritual completes in 3 days, the assassin strikes tonight).
-
-**5. Know and Sense are your investigation tools.** Know = past facts, lore, off-screen information. Sense = present observation, hidden details, connecting evidence.
+**3. Know and Sense are your investigation tools.** Know = past facts, lore, off-screen information. Sense = present observation, hidden details, connecting evidence.
 
 ### Common Investigation Actions
 
@@ -94,7 +90,7 @@ Every "failure" changes the situation and opens new paths — the stakes get hig
 
 ## Social Conflict
 
-Social conflicts use Will tracks (see **Chapter 13**). When a Will track fills, the adversary's resistance collapses — they flee, surrender, concede, or break down.
+Will tracks, marking progress, and the Talk/Clash distinction are covered in **Chapter 13**. This section covers running the social scene itself.
 
 ### What Social Conflict Can Achieve
 
@@ -113,24 +109,9 @@ Filling a Will track represents overcoming resistance in this specific moment:
 
 These require magic, Talents, or long-term roleplay investment — multiple scenes, favors granted, trust built over time.
 
-### Talk vs Clash for Will
+### Switching Methods Mid-Track
 
-Both mark Will, but the outcome and relationship implications differ:
-
-**Talk** (persuasion, negotiation, influence): When successful, they *agree* or become *allied*. Positive relationship possible.
-
-**Clash** (intimidation, taunts, psychological pressure): When successful, they're *broken*, *flee*, or *surrender*. Relationship damaged, coerced.
-
-**Switching mid-track:** Switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at resolve regardless of method. If the switch creates obvious contradiction (building trust → suddenly threatening), the GM applies 1 Bane — you were making friendly progress and now you've put them on guard. The Bane persists until you re-establish your footing.
-
-### Will-Based Complications
-
-These represent psychological defenses:
-
-- **Resolute** — Disciplined, stubborn, faithful. Applies to persuasion, intimidation, deception, magical influence.
-- **Vigilant** — Well-informed, suspicious. Applies to deception, lies, hidden motives.
-
-Handle like physical Complications — Create an Opening, exploit weaknesses, or use teamwork.
+Switching from Talk to Clash (or vice versa) doesn't reset progress — you're chipping away at resolve regardless of method. If the switch creates obvious contradiction (building trust → suddenly threatening), the GM applies 1 Bane — you were making friendly progress and now you've put them on guard. The Bane persists until you re-establish your footing.
 
 ### Telegraphing Social Outcomes
 

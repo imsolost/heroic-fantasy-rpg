@@ -70,13 +70,13 @@ This is the primary way players spend Momentum during action resolution. It simu
 
 **Create an Opening vs. Push Yourself vs. Assist:**
 
-Boons come from three taps on the same well — your Stress (Push Yourself), an ally's Stress (Assist), or Momentum (Create an Opening). The choice is which resource you can afford to spend:
+Boons come from three taps on the same well. The choice is which resource you can best afford to lose right now:
 
 - **Push Yourself** (1 Stress) = 1 Boon
 - **Assist** (ally's 1 Stress) = 1 Boon to you
 - **Create an Opening** (1 Momentum) = 1 Boon + 1 Edge
 
-Create an Opening is strictly better, but costs Momentum (which is harder to earn). Push Yourself depletes your resilience buffer. Assist costs someone else's buffer. When you have the choice, spend whichever resource you can best afford to lose right now.
+Create an Opening is strictly better, but costs Momentum (which is harder to earn). Push Yourself depletes your resilience buffer; Assist costs someone else's.
 
 ### Resist Consequence
 
@@ -108,15 +108,7 @@ This is most relevant in combat and other structured scenes where spotlight orde
 
 ---
 
-## Momentum Economy
-
-Momentum flows in a cycle:
-
-1. **Earn** through Triumph, Build Momentum, or Invoking Your Drive
-2. **Spend** on Create an Opening, Resist Consequence, or Seize Spotlight
-3. **Repeat** — good rolls generate Momentum, which enables better future rolls
-
-**Tactical considerations:**
+## Tactical Considerations
 - **Save or spend?** Holding Momentum for Resist Consequence is safe but passive. Spending on Create an Opening is aggressive but may yield Triumph (which earns it back).
 - **Team play:** Build Momentum lets one character generate Momentum for an ally who needs it more.
 - **Against tough enemies:** Enemies with 2+ Complications require Create an Opening (or Triumph) to overcome reliably. Momentum is the key tactical resource in these fights.

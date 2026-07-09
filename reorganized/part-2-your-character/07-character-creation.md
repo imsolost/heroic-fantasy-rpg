@@ -81,9 +81,11 @@ This framework isn't mandatory — use it as inspiration to create a well-rounde
 - "Veteran of the Iron Wars" instead of "Soldier"
 - "Raised by Wolves in the Ashen Wood" instead of "Raised by Wolves"
 
+**Make them broad.** A Trait should apply to the majority of actions your character takes through that identity — these are heroic defining qualities, not narrow skills. The interesting moments come from the situations where a Trait clearly *doesn't* apply, not from scarcity.
+
 **Design your three Traits to cover different ground.** Each should apply to a distinct aspect of your character — the interesting choice is *which* Trait to invoke, not whether one applies at all. Moments where no Trait fits should feel like real vulnerability, not the norm.
 
-**Check the scene-type spread:** your three Traits should span at least two of **combat, social, exploration/investigation**. Three distinct-but-all-combat Traits play great in fights and go silent everywhere else. The Origin/Profession/Personal framework nudges you toward a healthy spread naturally — just verify before you finalize.
+**Check the scene-type spread:** your three Traits should span at least two of **combat, social, exploration/investigation**. Three distinct-but-all-combat Traits play great in fights and go silent everywhere else — Bladedancer / Veteran of the Iron Wars / Unbreakable Survivor covers three distinct domains (dueling, tactics, endurance), but in a negotiation, that character has nothing. Trade Unbreakable Survivor for "Silver-Tongued Gambler" and they can invoke at the card table, in the negotiation, and bluffing past guards — while the other two still carry every fight.
 
 **Too broad:** "Competent" (applies to everything), "Lucky" (could justify any situation)
 
@@ -151,8 +153,6 @@ Your **Drive** is what your character wants most — the motivation that pulls t
 - The rejection tells the GM what *won't* work as motivation — equally useful
 - It gives the party a sense of what you'll fight for and what you'll refuse
 - When your Drive creates a genuine complication, you earn 1 Momentum (see Chapter 5) — no limit beyond the Momentum cap and GM approval
-
-Your Drive is both your motivation and your vulnerability. The same thing that pushes you forward is what gets you into trouble — and the game rewards that.
 
 **Keep it short.** One line each. Drive will evolve through play — what matters at creation is the starting vector, not the final answer.
 

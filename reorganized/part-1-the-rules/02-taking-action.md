@@ -45,14 +45,10 @@ Your intent might be one of these fictional effects:
 - **Or any other risky objective** (dodge attack, leap chasm, resist interrogation)
 
 **Examples:**
-- Dodging a blade or dragon's breath
-- Leaping across a chasm
+- Dodging a dragon's breath
 - Picking a lock or disarming a trap
 - Resisting poison, fear, or mental compulsion
-- Climbing a crumbling wall
-- Enduring harsh weather or exhaustion
 - Sneaking past guards
-- Wrestling control of a weapon from an enemy
 
 **Don't use Defy when:**
 - Trying to harm/break someone → Use **Clash**
@@ -74,12 +70,9 @@ Your intent might be one of these fictional effects:
 - Defeating their champion to break army morale
 
 **Mental/Social Examples (mark Will track):**
-- Vicious insults meant to break confidence
 - Intimidating through threats: "Lower your price or I'll burn your shop"
 - Interrogating through fear and psychological pressure
-- Commanding through dominance: "You WILL follow my orders"
-- Demoralizing taunts before forcing surrender
-- Breaking enemy morale through displays of overwhelming force
+- Breaking enemy morale through demoralizing taunts or displays of overwhelming force
 
 **Clash vs. Talk:**  
 Both can mark Will tracks, but the outcomes differ:
@@ -100,11 +93,8 @@ If you're directly opposing someone through force (fighting, threatening, comman
 **Examples:**
 - Persuasion ("Join us—together we can stop the tyrant")
 - Deception ("I'm a merchant, not a spy")
-- Seduction ("Stay with me tonight")
 - Negotiation ("I'll pay twice the asking price for discretion")
 - Inspiration ("We fight for those who cannot fight for themselves!")
-- Building trust over time
-- Appealing to values, beliefs, or emotions
 
 **Talk vs. Clash:**  
 See the Clash section above. Talk creates willing agreement; Clash creates forced compliance.
@@ -118,22 +108,15 @@ See the Clash section above. Talk creates willing agreement; Clash creates force
 **On success:** Ask **2 questions**. The GM answers honestly.
 
 **Useful questions:**
-- What here is useful or valuable?
-- What recently happened here?
-- What's about to happen?
-- What here is not what it seems?
+- What here is useful, valuable, or not what it seems?
 - Who or what is the greatest threat?
-- How can I [accomplish specific goal]?
 - What is [person] feeling or intending?
-- Where is the hidden [object]?
+- How can I [accomplish specific goal]?
 
 **Examples:**
 - Reading someone's intentions or emotional state
 - Spotting hidden dangers or ambushes
-- Assessing tactical situation ("What's their weakness?")
-- Noticing details others miss
 - Investigating a crime scene
-- Studying an enemy's fighting style
 
 ---
 
@@ -306,6 +289,8 @@ Before you roll, the GM assesses your fictional positioning — capability, tool
 
 *Example: Champion swinging a sword at a helpless, tied-up prisoner. Shadow picking a simple lock with the right tools and no time pressure.*
 
+Note that pressure changes the ruling. Breaking down a door with no time limit is Certain — you'll get through eventually. The same door while guards close in is a roll. Finding a clue the story requires is Certain — you find it; the roll (if any) is about what it *costs*.
+
 **Is this Impossible?** If you fundamentally lack the capability for what you're attempting, you can't attempt it this way. The GM tells you so and you look for a different approach.
 
 *Example: Casting spells without being a spellcaster. Attacking someone in another city right now.*
@@ -429,32 +414,6 @@ When a Potent Action also triggers a Trait invocation (Conflict or better, relev
 - **Enhanced Effect (Broad) + Potency:** Small group → Large group or wide area
 - **Enhanced Effect (Greater) + Potency:** These operate on different axes and don't compound for tick-marking. Greater Effect adds ticks; Potency's Edge separately helps you land actions against defended foes
 - **Secondary Effect + Potency:** The secondary Defy also benefits from Potency's scale
-
----
-
-## When to Roll vs. When to Say Yes
-
-Not every declared action requires a roll.
-
-**Make an Action Roll when:**
-- The outcome is **uncertain**
-- Failure would create **interesting consequences** or drama
-- Success **matters to the story**
-
-**Don't make an Action Roll when:**
-- **Certain:** The outcome is assured (either success or failure)
-- **Uninteresting failure:** Rolling wouldn't add value even if outcome is uncertain
-- **Impossible:** They can't attempt this approach (suggest different approach)
-
-**Examples of "just say yes":**
-- Champion attacking a tied-up, helpless prisoner → Certain, just happens
-- Breaking down a door with no time pressure → Certain, eventually succeeds
-- Finding a clue that's required for the story to progress → Certain, they find it
-
-**Examples requiring Action Rolls:**
-- Champion attacking an alert, armored knight → Uncertain outcome
-- Breaking down a door while guards approach → Time pressure creates drama
-- Finding a clue while the ritual completes in 60 seconds → Dramatic tension
 
 ---
 

@@ -83,9 +83,8 @@ Read everything in order (Parts 0-3), use Part 4 at the table
 ## Key Principles
 
 ### Every Mechanic Has One Home
-- **Resist Consequence** → Chapter 3 (Consequences)
-- **Push Yourself / Assist** → Chapter 4 (Resilience)
-- **Create an Opening** → Chapter 5 (Momentum)
+- **Push Yourself** → Chapter 4 (Resilience) - Talent activation cost
+- **Create an Opening** → Chapter 5 (Momentum) - works for self or ally
 - **Invoke Your Drive** → Chapter 5 (Momentum)
 - **Secondary Effects** → Chapter 6 (Traits)
 - **Potent Actions** → Chapter 2 (Taking Action)

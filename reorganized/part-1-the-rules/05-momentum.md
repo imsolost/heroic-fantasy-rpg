@@ -5,7 +5,7 @@ Momentum represents surges of heroic energy — moments where your character is 
 **What you'll learn:**
 - What Momentum is and how to track it
 - How to earn Momentum
-- How to spend Momentum (Create an Opening, Resist Consequence, Seize Spotlight)
+- How to spend Momentum (Create an Opening, Seize Spotlight)
 - Invoke Your Drive (player-authored complications)
 
 ---
@@ -46,7 +46,7 @@ When your **Drive** creates a genuine complication — pulling you toward troubl
 
 ## Spending Momentum
 
-There are three ways to spend Momentum:
+There are two ways to spend Momentum:
 
 ### Create an Opening
 
@@ -92,18 +92,6 @@ Create an Opening is more powerful than other ways to gain Boons:
 
 Create an Opening is strictly better for pure offense, but costs Momentum (which is harder to earn than Stress). Momentum is your primary proactive resource for tactical advantages.
 
-### Resist Consequence
-
-**Cost:** 1 Momentum
-
-Automatically reduce the Consequence Tier by 1. No roll required.
-
-**See Chapter 3 (Outcomes & Consequences) for complete Resist Consequence rules.**
-
-**When to use:**
-- After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum
-- Especially valuable when at high Stress (avoiding overflow) or when a Condition would be crippling
-
 ### Seize Spotlight
 
 **Cost:** 1 Momentum
@@ -123,8 +111,8 @@ This is most relevant in combat and other structured scenes where spotlight orde
 ---
 
 ## Tactical Considerations
-- **Save or spend?** Holding Momentum for Resist Consequence is safe but passive. Spending on Create an Opening is aggressive but may yield Triumph (which earns it back).
-- **Team play:** Build Momentum lets one character generate Momentum for an ally who needs it more.
+- **Spend proactively:** Momentum is for offense. Create an Opening before rolling to maximize your chances. Spending it reactively (after a bad roll) isn't an option — commit before you know the outcome.
+- **Team play:** Build Momentum lets one character generate Momentum for an ally who needs it more. Create an Opening lets you spend your Momentum to help allies succeed.
 - **Against tough enemies:** Enemies with 2+ Complications require Create an Opening (or Triumph) to overcome reliably. Momentum is the key tactical resource in these fights.
 
 ---
@@ -172,7 +160,7 @@ Your Drive is both your motivation (what pulls you *forward*) and your vulnerabi
 
 **The cap keeps it bounded.** At 2 (or 3 with Talent), you can't hoard indefinitely. Spend it or lose potential gains from your next Triumph.
 
-**Three spend options create tension.** Save for defense (Resist Consequence), spend on offense (Create an Opening), or seize the moment (Seize Spotlight)? This decision point makes Momentum management genuinely tactical.
+**Two spend options create commitment.** Spend on offense (Create an Opening) or seize the moment (Seize Spotlight)? All spending happens before you roll — no saving it to patch failures. Commit and accept the outcome.
 
 **Build Momentum enables teamwork.** One character generating Momentum for another is the core team-play mechanic. The Champion builds Momentum so the Shadow can Create an Opening against the warded target.
 

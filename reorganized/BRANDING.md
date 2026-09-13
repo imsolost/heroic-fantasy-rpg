@@ -52,7 +52,7 @@ Capitalize when referring to specific game mechanics:
 - Character Elements: Trait, Calling, Talent, Scale
 - Mechanics: Boon, Bane, Complication, Stakes, Certain, Impossible
 - Progress Tracks: Harm, Will, Obstacle, Countdown
-- Other: Expertise, Push Yourself, Assist, Create an Opening, Resist Consequence
+- Other: Expertise, Push Yourself, Create an Opening, Seize Spotlight
 
 Do NOT capitalize when used generically:
 - "The conflict escalated" (lowercase - narrative usage)

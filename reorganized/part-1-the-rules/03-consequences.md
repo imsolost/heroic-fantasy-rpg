@@ -7,7 +7,6 @@ When you make an Action Roll, you get one of four outcomes (see Chapter 1). This
 - Consequence tiers (Minor, Major, Severe)
 - How Complications reduce outcomes
 - Tracks (the unified system for Harm, Will, Obstacle, Countdown, Stress, Afflictions, and Burdens)
-- Resist Consequence (using Momentum to mitigate harm)
 - How each Action resolves across outcomes
 
 ---
@@ -387,29 +386,6 @@ Now that you understand how Tracks work:
 
 ---
 
-## Resist Consequence
-
-When you would suffer a Consequence, spend **1 Momentum** to reduce its severity by one step. No roll required — immediate and guaranteed.
-
-After the GM announces a Consequence, declare "I Resist" and spend 1 Momentum. Whatever form the Consequence takes — Stress, an Affliction, or a narrative setback — it drops one level. If it was already the minimum (Minor Consequence, Affliction size 1), it's negated entirely.
-
-**Examples:**
-- Major (2 Stress) → Minor (1 Stress)
-- Minor (1 Stress) → negated
-- Affliction size 2 → Affliction size 1
-- Narrative Consequence → GM reduces severity
-
-**Resist works on Disaster too.** A Severe Consequence — even one created by Complications cascading a Setback into Disaster — reduces to Major like any other. Spending your last Momentum to turn catastrophe into mere failure is exactly what the mechanic is for.
-
-**Example in play:**
-- GM: "The knight's mace slams into your shield. Mark 2 Stress."
-- You: "I spend 1 Momentum to Resist — I roll with the blow."
-- GM: "Reduce to 1 Stress. The impact jars your arm but you stay firm."
-
-**See Chapter 5 (Momentum) for complete Momentum rules.**
-
----
-
 ## Action Outcomes: What Each Action Produces
 
 Here's how outcomes resolve for each of the five Actions:
@@ -530,7 +506,7 @@ Significant enemies have their own specific consequences based on their nature. 
 
 **Complications create tactical depth.** Enemies aren't just HP bags—their defenses force you to seek advantages (Boons, Edge, Triumph).
 
-**Resist Consequence preserves agency.** You can spend Momentum to mitigate bad outcomes, making heroic last-stands possible.
+**Momentum rewards commitment.** You spend before rolling, not after—commit to your plan, roll the dice, accept the outcome. No safety nets, just heroic determination.
 
 **Tracks unify resolution.** Combat, social conflict, environmental challenges, resilience, and recovery all use the same underlying system—just different track types with different triggers and effects.
 

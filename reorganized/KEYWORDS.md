@@ -207,9 +207,9 @@ Circumstantial difficulty between these poles is expressed directly as Boons and
 ## Special Mechanics
 
 **Always Capitalized:**
-- Create an Opening (Momentum spend)
-- Resist Consequence (Momentum spend)
-- Assist (helping action)
+- Create an Opening (Momentum spend - works for self or ally)
+- Push Yourself (Talent activation cost)
+- Seize Spotlight (Momentum spend)
 - Setup (advantage creation)
 - Teamwork (group action)
 - Build Momentum (Special Effect)

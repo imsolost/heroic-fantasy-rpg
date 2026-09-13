@@ -543,15 +543,9 @@ When Taken Out, you're removed from the scene (unconscious, captured, fled in te
 ### Spend Momentum
 
 **Create an Opening (1 Momentum)**
-- Your action gains **1 Boon** (+1 die)
+- Your action or an ally's action gains **1 Boon** (+1 die)
 - AND **1 Edge** (ignore 1 Complication)
 - Declare before rolling
-
-**Resist Consequence (1 Momentum)**
-- After a consequence is announced, spend 1 Momentum to roll **Defy**
-- On Success: reduce consequence by 1 tier OR avoid it entirely
-- On Conflict: reduce consequence by 1 tier
-- On Setback: consequence happens as stated
 
 ---
 

@@ -3,11 +3,11 @@
 Heroes take hits — physical blows, emotional strain, magical backlash, exhaustion. Chapter 3 taught you how Tracks work. This chapter covers how the three **Character Tracks** work in play.
 
 **What you'll learn:**
-- Stress (your resilience buffer and spendable resource)
+- Stress (your resilience buffer)
 - Afflictions (temporary impairments)
 - Burdens (lasting harm)
 - Taken Out (what happens when you break)
-- Push Yourself and Assist (spending Stress for power)
+- Push Yourself (activating Talents)
 - Recovery (Short Rest and Long Rest)
 
 ---
@@ -16,12 +16,12 @@ Heroes take hits — physical blows, emotional strain, magical backlash, exhaust
 
 | Track | Size | Marks When... | Full Means... | Clears When... |
 |-------|------|---------------|---------------|----------------|
-| **Stress** | 5 boxes | Consequence (1/2), Push Yourself, or Assist | Take Burden or be Taken Out | Short Rest or Long Rest |
+| **Stress** | 5 boxes | Consequence (1/2) or Push Yourself (Talents) | Take Burden or be Taken Out | Short Rest or Long Rest |
 | **Affliction** | 1-3 boxes | Relevant Action Roll (any outcome) | Cleared — worked through it | Short Rest (even if not full) |
 | **Burden** | 1-3 boxes | Long Rest or narrative condition | Cleared — recovered | When track fills |
 
 This chapter explains:
-- **Stress:** Push Yourself, Assist, Overflow math, Taken Out
+- **Stress:** Push Yourself (Talents), Overflow math, Taken Out
 - **Afflictions:** Relevance judgment, common names, stacking rules
 - **Burdens:** Recovery types, gaining sources, narrative restrictions
 - **Recovery:** Short Rest vs Long Rest timing
@@ -40,7 +40,7 @@ This chapter explains:
 - Mark boxes left to right
 - Marks from two sources:
   - **Consequences:** 1 box (Minor), 2 boxes (Major)
-  - **Voluntary:** 1 box for Push Yourself or Assist
+  - **Push Yourself (Talents):** 1 box (when activating a Talent)
 
 **When full and you'd mark more:** See "Stress Overflow" below.
 
@@ -48,40 +48,20 @@ This chapter explains:
 
 ### Push Yourself
 
-When you make an Action Roll, you may **mark 1 Stress** to gain **1 Boon** on that roll. This represents digging deep, pushing past limits, taking risks to succeed.
+Some Talents require you to Push Yourself, marking 1 Stress to activate powerful effects. When you do, describe how you're pushing beyond your normal limits—digging deep through pain, forcing past exhaustion, or tapping into reserves you didn't know you had.
 
-**Timing:** Declare before you roll.
+**You can only Push Yourself once per Action Roll.** If you have multiple Talents that could trigger when you Push Yourself in the current situation, choose one to activate.
 
-**Once per action.** You can only Push Yourself once per Action Roll — you cannot mark 2 Stress for 2 Boons.
+Talents that use this mechanic will say "you may Push Yourself" or "when you Push Yourself" in their text.
 
-You can combine Push Yourself with Assist from allies, subject to the +2 Boon cap.
+**Without a relevant Talent, you cannot Push Yourself.** Push Yourself has no baseline effect—it only works through Talents.
 
-**Example:**
-> "I dig deep and force the portcullis up." (Mark 1 Stress, gain +1d on your roll)
+**Example Talents:**
+> **Surge:** When you Clash, you may Push Yourself (mark 1 Stress) to gain +1 Boon and mark 2 progress instead of 1.
 
----
+> **Shadow Step:** When you Defy to hide or move stealthily, you may Push Yourself (mark 1 Stress) to gain +1 Boon and ignore one Complication.
 
-### Talent Push Effects
-
-Some Talents grant a special effect when you Push Yourself in their domain (see Chapter 9). When you Push Yourself to activate a Talent, you gain the normal benefit of Pushing Yourself (1 Boon) **in addition to** the Talent's special effect — all for the same 1 Stress cost.
-
-You can only activate one Talent per Push. If you have multiple Talents that could apply, choose one.
-
----
-
-### Assist
-
-When an ally makes an Action Roll, you may **mark 1 Stress** to grant them **1 Boon** before they roll. You don't need to take an action — describe how you're helping and mark the Stress.
-
-**Requirements:**
-- You must be able to contribute fictionally — a relevant Trait, Talent, Expertise, or clear fictional positioning (proximity, tools, knowledge)
-- Multiple allies can Assist the same roll (each marking 1 Stress)
-- The +2 Boon cap still applies
-
-**When you can't Assist:** You can't Assist a lockpick from across the room. You can't Assist arcane research if you have no magical knowledge. If you can't describe *how* you're helping in a way that makes fictional sense, you can't Assist.
-
-**Example:**
-> "I steady your bow arm as you draw." (Mark 1 Stress, ally gets +1d)
+**See Chapter 9 for Talents that use Push Yourself.**
 
 ---
 
@@ -89,9 +69,9 @@ When an ally makes an Action Roll, you may **mark 1 Stress** to grant them **1 B
 
 When 3 or more PCs work together on a single task, one person makes the primary roll. The GM decides who rolls based on the fiction — sometimes the most skilled (lifting a boulder together), sometimes the least skilled (sneaking past guards as a group).
 
-Other participants may Assist (mark 1 Stress each to grant +1 Boon each), subject to the +2 Boon cap.
+One other character may Create an Opening for the roller (spend 1 Momentum to grant them +1 Boon and +1 Edge). See Chapter 5 for Create an Opening rules.
 
-**Example:** Four PCs lift a portcullis. The Champion (highest Daring) rolls. Two others Assist (each marking 1 Stress). Champion rolls with +2 Boons.
+**Example:** Four PCs lift a portcullis. The Champion (highest Daring) rolls. The Mage spends 1 Momentum to Create an Opening ("I use magic to reduce the weight"), granting the Champion +1 Boon and +1 Edge.
 
 ---
 
@@ -377,7 +357,7 @@ Afflictions remain relevant within a scene but don't carry over unnecessarily be
 
 **Burdens are rare and weighty.** They signal that something has genuinely changed for the character. The choice between Burden and Taken Out creates dramatic moments.
 
-**Push Yourself and Assist spend resilience for capability.** Stress is both your defensive buffer AND a resource you can burn for power. Every Push Yourself is a calculated risk.
+**Push Yourself activates special abilities.** Stress can be spent to activate Talents, granting powerful contextual effects. This makes Stress both a defensive buffer and fuel for exceptional actions.
 
 ---
 

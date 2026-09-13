@@ -52,31 +52,45 @@ There are three ways to spend Momentum:
 
 **Cost:** 1 Momentum
 
-Your action gains **1 Boon** (+1d to your dice pool) **and 1 Edge** (ignore 1 Complication).
+The character making the next Action Roll (whether yourself or an ally) gains **+1 Boon** (+1d to their dice pool) **and +1 Edge** (ignore 1 Complication).
 
-This is the primary way players spend Momentum during action resolution. It simultaneously boosts your dice pool and cuts through enemy defenses.
+This is the primary way players spend Momentum to boost rolls. It simultaneously boosts the dice pool and cuts through enemy defenses.
+
+Describe how you're creating the advantage:
+- **For yourself:** Finding the right angle, waiting for the perfect moment, exploiting a weakness
+- **For an ally:** Shouting tactical advice, creating a distraction, revealing an opening
+
+**Only one character can Create an Opening for a given roll.** Multiple people cannot stack this benefit.
 
 **When to use:**
 - Facing Complications you need to bypass
 - Need both more dice AND defense penetration
 - Setting up a critical strike against a tough enemy
+- Helping an ally with a crucial roll
 
-**Example:**
+**Example (self):**
 > Kael attacks an armored knight with Resilient (1 Complication).
 >
 > "I spend 1 Momentum to Create an Opening — I feint high, then strike low."
 >
 > Kael gains +1 Boon (+1d) and 1 Edge (ignore Resilient). He rolls with an extra die, and if he gets Success, it stays Success rather than being reduced to Conflict.
 
-**Create an Opening vs. Push Yourself vs. Assist:**
+**Example (ally):**
+> The Rogue is picking a complex lock with the Complex Complication.
+>
+> The Fighter: "I spend 1 Momentum to Create an Opening for you — I keep watch and tell you when the guard turns away, giving you the focus you need."
+>
+> The Rogue gains +1 Boon and 1 Edge (ignore Complex).
 
-Boons come from three taps on the same well. The choice is which resource you can best afford to lose right now:
+**Create an Opening vs. Other Boosts:**
 
-- **Push Yourself** (1 Stress) = 1 Boon
-- **Assist** (ally's 1 Stress) = 1 Boon to you
+Create an Opening is more powerful than other ways to gain Boons:
+
+- **Circumstantial Boons** (GM grants) = 1 Boon
+- **Push Yourself** (via Talent, 1 Stress) = 1 Boon + Talent effect
 - **Create an Opening** (1 Momentum) = 1 Boon + 1 Edge
 
-Create an Opening is strictly better, but costs Momentum (which is harder to earn). Push Yourself depletes your resilience buffer; Assist costs someone else's.
+Create an Opening is strictly better for pure offense, but costs Momentum (which is harder to earn than Stress). Momentum is your primary proactive resource for tactical advantages.
 
 ### Resist Consequence
 

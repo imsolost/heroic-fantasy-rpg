@@ -15,9 +15,9 @@
 ### Part 1: The Rules ✅
 - Ch1: The Action Roll — Dice pools, four outcomes, Boons/Banes, Edge, Expertise, probability
 - Ch2: Taking Action — Five Actions, five Approaches, circumstantial Boons/Banes, High Stakes, Potent Actions
-- Ch3: Consequences — Consequence tiers, Complications, Progress Tracks, Resist Consequence
-- Ch4: Resilience — Stress, Conditions, Burdens, Push Yourself, Assist, Rests
-- Ch5: Momentum — Earning (Triumph, Build Momentum, Drive), spending (Create an Opening, Resist)
+- Ch3: Consequences — Consequence tiers, Complications, Progress Tracks
+- Ch4: Resilience — Stress, Afflictions, Burdens, Push Yourself (Talents), Rests
+- Ch5: Momentum — Earning (Triumph, Build Momentum, Drive), spending (Create an Opening, Seize Spotlight)
 - Ch6: Traits — Three types, Special Effects, adjudication guidance
 
 ### Part 2: Your Character ✅

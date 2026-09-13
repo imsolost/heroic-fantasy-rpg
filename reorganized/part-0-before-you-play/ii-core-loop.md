@@ -130,7 +130,7 @@ And the loop begins again.
 
 **Fiction drives mechanics.** The player didn't say "I roll Stealth." They described what their character was doing, and the GM determined which mechanics applied.
 
-**The odds are transparent, and players have agency.** The GM told the player what they were rolling and what would happen on each outcome *before* dice hit the table. If they didn't like the odds, they could have spent Momentum to Create an Opening, asked an ally to Assist, or changed their approach entirely.
+**The odds are transparent, and players have agency.** The GM told the player what they were rolling and what would happen on each outcome *before* dice hit the table. If they didn't like the odds, they could have spent Momentum to Create an Opening, asked an ally to Create an Opening for them, or changed their approach entirely.
 
 **Conflict isn't failure — outcomes are degrees, not binary.** The Shadow succeeded at their goal (crossed the courtyard) but paid a cost (guards heard something). Four shades of outcome — Triumph / Success / Conflict / Setback — each with different weight.
 

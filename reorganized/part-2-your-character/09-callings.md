@@ -114,7 +114,7 @@ Answer 1-2 of these during character creation, or discover the answers through p
 ### Additional Talents
 
 **Beast Master [ ] [ ]**
-You have Expertise when calming, reading, or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Assist yourself or an ally (grants 1 Boon).
+You have Expertise when calming, reading, or communicating with animals. You're accompanied by a loyal animal companion. Define it with the GM (wolf, hawk, bear, etc.). Mark this to have your companion Create an Opening for yourself or an ally (grants +1 Boon and +1 Edge without spending Momentum).
 
 **Master Tracker**
 You have 1 Edge when tracking. When you successfully track a target, also learn one additional detail about them (how many, how long ago, their condition, their destination). Push Yourself to perform a Potent feat of tracking.
@@ -408,7 +408,7 @@ Answer 1-2 of these during character creation, or discover the answers through p
 ### Additional Talents
 
 **Bodyguard [ ] [ ]**
-Choose an ally within Close range as your ward. You may Assist your ward's defensive actions without marking Stress. Mark this to reduce a Consequence your ward suffers by one step. Your ward remains protected until they leave Close range or you designate a different ally.
+Choose an ally within Close range as your ward. Mark this to Create an Opening for your ward's defensive action (grants +1 Boon and +1 Edge without spending Momentum), OR to reduce a Consequence your ward suffers by one step. Your ward remains protected until they leave Close range or you designate a different ally.
 
 **Commander**
 You have Expertise when organizing groups, establishing chains of command, maintaining discipline, and coordinating sustained operations — sieges, expeditions, campaigns, or any situation requiring a group to function under pressure over time. Push Yourself to inspire extraordinary resolve in a group that is wavering, broken, or on the edge of collapse.
@@ -423,7 +423,7 @@ You have Expertise when resisting effects that would move, displace, or knock yo
 When you have 3 or more Stress marked, you have Expertise on all combat actions. The closer you are to breaking, the harder you become to stop.
 
 **Inspire Greatness [ ] [ ]**
-When you Assist an ally, you can mark this to also give that ally 1 Edge on their action.
+When you Create an Opening for an ally (spend 1 Momentum), you can mark this to grant them an additional +1 Boon (total: +2 Boons and +1 Edge).
 
 **Iron Bulwark**
 When you invoke your Trait, choose an ally within Close range. Until your next action, you may redirect any Stress they would mark to yourself instead.

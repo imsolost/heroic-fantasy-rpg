@@ -365,7 +365,7 @@ Afflictions remain relevant within a scene but don't carry over unnecessarily be
 
 Now you understand how heroes absorb punishment and recover. The next chapters cover the proactive resources:
 
-- **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Resist Consequence)
+- **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Seize Spotlight)
 - **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
 
 **For Consequence details and when Stress/Afflictions are inflicted, see Chapter 3 (Outcomes & Consequences).**

@@ -152,11 +152,10 @@ What you can do when the dice come out.
 **Stakes modify tiers:** Low (-1 tier), Regular (no change), High (+1 tier)
 
 **Stress Track:** 5 boxes
-- Push Yourself: Mark 1 Stress for 1 Boon on your roll
-- Assist ally: Mark 1 Stress for 1 Boon on their roll
+- Push Yourself (via Talents): Mark 1 Stress to gain +1 Boon + Talent effect
 - Overflow: Choose Burden or Taken Out
 
-**Conditions:** Named effects (Wounded, Frightened, Exhausted)
+**Afflictions:** Named effects (Wounded, Frightened, Exhausted)
 - Tier 1-3, each applies 1 Bane
 - Clear on Short Rest (1 hour, safe location)
 
@@ -177,8 +176,8 @@ What you can do when the dice come out.
 - Invoke Your Drive (your motivation creates a genuine complication)
 
 **Spend Momentum:**
-- **Create an Opening (1 Momentum):** Your action gains 1 Boon + 1 Edge (ignore 1 Complication)
-- **Resist Consequence (1 Momentum):** Roll Defy to reduce/avoid any consequence
+- **Create an Opening (1 Momentum):** Your action or an ally's action gains 1 Boon + 1 Edge (ignore 1 Complication)
+- **Seize Spotlight (1 Momentum):** Act immediately, interrupting the normal turn order
 
 **Traits** (Origin, Profession, Personal)
 

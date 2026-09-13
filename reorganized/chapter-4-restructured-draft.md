@@ -1,5 +1,15 @@
 # Chapter 4: Resilience (RESTRUCTURED DRAFT)
 
+**⚠️ THIS IS AN OUTDATED DRAFT - NOT CURRENT RULES**
+
+**This draft contains mechanics that have been removed:**
+- Baseline Push Yourself (+1 Boon for 1 Stress) - now Talent-only
+- Assist (spend Stress for ally) - removed, replaced by Create an Opening (Momentum)
+
+**For current rules, see:** `part-1-the-rules/04-resilience.md`
+
+---
+
 **This draft assumes the unified Track system has been taught in Chapter 3. It focuses only on the unique aspects of each Character Track not covered in the Ch. 3 tables.**
 
 ---
@@ -12,12 +22,12 @@ Heroes take hits — physical blows, emotional strain, magical backlash, exhaust
 
 | Track | Size | Marks When... | Full Means... | Clears When... |
 |-------|------|---------------|---------------|----------------|
-| **Stress** | 5 boxes | Consequence (1/2), Push Yourself, or Assist | Take Burden or be Taken Out | Short Rest or Long Rest |
+| **Stress** | 5 boxes | Consequence (1/2) or Push Yourself (Talents) | Take Burden or be Taken Out | Short Rest or Long Rest |
 | **Affliction** | 1-3 boxes | Relevant Action Roll (any outcome) | Cleared — worked through it | Short Rest (even if not full) |
 | **Burden** | 1-3 boxes | Long Rest or narrative condition | Cleared — recovered | When track fills |
 
 This chapter explains:
-- **Stress:** Push Yourself, Assist, Overflow math, Taken Out
+- **Stress:** Push Yourself (Talents), Overflow math, Taken Out
 - **Afflictions:** Relevance judgment, common names, stacking rules
 - **Burdens:** Recovery types, gaining sources, narrative restrictions
 - **Recovery:** Short Rest vs Long Rest timing
@@ -381,7 +391,7 @@ Afflictions remain relevant within a scene but don't carry over unnecessarily be
 
 Now you understand how heroes absorb punishment and recover. The next chapters cover the proactive resources:
 
-- **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Resist Consequence)
+- **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Seize Spotlight)
 - **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
 
 **For Consequence details and when Stress/Afflictions are inflicted, see Chapter 3 (Outcomes & Consequences).**

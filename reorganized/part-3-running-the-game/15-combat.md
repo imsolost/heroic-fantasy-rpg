@@ -163,10 +163,10 @@ On Conflict or better, a relevant Trait can add a Special Effect on top of your 
 
 ## Working Together in Combat
 
-All standard teamwork mechanics (Assist, Push Yourself, Build Momentum) work in combat exactly as described in **Chapters 4–5**. Quick reminders:
+All standard teamwork mechanics (Create an Opening, Push Yourself, Build Momentum) work in combat exactly as described in **Chapters 4–5**. Quick reminders:
 
-- **Assist** (1 Stress): Grant ally 1 Boon. Doesn't consume your action. Boon cap still applies.
-- **Push Yourself** (1 Stress): Gain 1 Boon on your own roll. Declare before rolling.
+- **Create an Opening** (1 Momentum): Grant yourself or an ally +1 Boon and +1 Edge. Doesn't consume your action. Boon cap still applies.
+- **Push Yourself** (1 Stress, via Talents): Mark 1 Stress to activate a Talent's effect (typically +1 Boon + special benefit). Declare before rolling.
 - **Build Momentum** (Trait Special Effect): Grant 1 Momentum to yourself or an ally.
 - **Seize Spotlight** (1 Momentum): Act immediately, interrupting spotlight order.
 
@@ -276,7 +276,7 @@ Enemies use the same Condition system as PCs. Since enemies don't roll dice, the
 
 **Round 2:**
 - **Kael** spends Momentum to Seize Spotlight, exploits Ryn's discovery → Clash → Success → 1 tick on Warboss (weakness grants Edge, bypasses Resilient — outcome stays Success rather than reduced to Conflict)
-- **Warboss** counterattacks (Impact Move) → Kael Defies with Mira's Assist (she marks 1 Stress for Boon) → Success → Clean dodge
+- **Warboss** counterattacks (Impact Move) → Kael Defies with Mira's help (she spends 1 Momentum to Create an Opening for him: +1 Boon + 1 Edge) → Success → Clean dodge
 - **Ryn** backstabs Warboss → Conflict + invokes "Gutter Knife Artist" → Enhanced Effect (Greater) → 2 ticks (4/8 total), mark 1 Stress
 
 **Round 3:**
@@ -290,7 +290,7 @@ Enemies use the same Condition system as PCs. Since enemies don't roll dice, the
 
 **End result:** Kael 4/5 Stress + Cursed 1, Mira 2/5 Stress, Ryn unscathed.
 
-**Key tactical choices:** Ryn used Sense to bypass Complications. Kael spent Momentum to Seize Spotlight at the right moment. Mira Assisted to protect Kael. Triumph bypassed the orcs' remaining defenses.
+**Key tactical choices:** Ryn used Sense to bypass Complications. Kael spent Momentum to Seize Spotlight at the right moment. Mira Created an Opening to protect Kael. Triumph bypassed the orcs' remaining defenses.
 
 ---
 

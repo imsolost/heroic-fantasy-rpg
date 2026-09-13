@@ -105,7 +105,7 @@ Weigh capability, tools, and circumstances together, then tell the player direct
 - "I swing my sword" with a broken arm → Impossible — "that won't work, try something else"
 - Convincing a guard who doesn't speak your language, via Talk → Impossible for this approach — suggest gestures (Defy?) or finding a translator instead
 
-**Transparency matters.** Tell players their Boon/Bane count *before* they roll — it's their chance to seek an advantage (Assist, Push Yourself, Create an Opening) or reconsider their approach before committing dice.
+**Transparency matters.** Tell players their Boon/Bane count *before* they roll — it's their chance to seek an advantage (Create an Opening, Push Yourself via Talents) or reconsider their approach before committing dice.
 
 ### Granting Circumstantial Boons and Banes
 

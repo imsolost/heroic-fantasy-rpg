@@ -213,7 +213,7 @@ These have a fixed size, or a size set at the moment they're inflicted on a char
 
 | Track Type | Size | Mark When... | Full Means... | Clears When... |
 |------------|------|--------------|---------------|----------------|
-| **Stress** | 5 (fixed) | Consequence lands (1 Minor / 2 Major), or you voluntarily mark 1 (Push Yourself / Assist) | Choose: take a Burden Track, or be Taken Out | Fully on Short Rest or Long Rest |
+| **Stress** | 5 (fixed) | Consequence lands (1 Minor / 2 Major), or Push Yourself (Talents) | Choose: take a Burden Track, or be Taken Out | Fully on Short Rest or Long Rest |
 | **Affliction** | 1-3 (set at infliction) | Any Action Roll where the Affliction applies (poison affects combat, fear affects persuasion) | The Affliction ends — you've worked through it | Automatically on Short Rest (even if not full) |
 | **Burden** | 1-3 (set at infliction) | One Long Rest (default) OR a stated narrative condition (curse broken, antivenom administered) | The Burden ends | When track fills (via Long Rest or narrative condition) |
 
@@ -283,12 +283,11 @@ Countdowns create urgency. The longer PCs deliberate or fail, the closer danger 
 
 **Stress** is your primary defensive buffer — it absorbs incoming costs from Consequences. It's also a resource you can spend voluntarily for power.
 
-**Stress is unique among Tracks:** It's the only one you can mark by choice (Push Yourself, Assist) to gain immediate mechanical benefits.
+**Stress is unique among Tracks:** It's the only one you can mark by choice (Push Yourself via Talents) to gain special abilities.
 
 Mark Stress when:
 - A Consequence lands (1 for Minor, 2 for Major)
-- You **Push Yourself** — mark 1 Stress to gain +1 Boon before your Action Roll
-- You **Assist** an ally — mark 1 Stress to grant them +1 Boon before their roll
+- You **Push Yourself** — mark 1 Stress to activate a Talent's effect
 
 **When your Stress track is full and you'd mark more:**
 1. Calculate overflow (how much Stress couldn't fit)
@@ -297,7 +296,7 @@ Mark Stress when:
 
 **Recovery:** Stress clears fully on Short Rest (1 hour, safe location) or Long Rest (overnight, safe location).
 
-**See Chapter 4 for complete Stress rules, Push Yourself, Assist, and Stress Overflow.**
+**See Chapter 4 for complete Stress rules, Push Yourself (Talents), and Stress Overflow.**
 
 ---
 
@@ -380,7 +379,7 @@ One rule. Five applications. That's the system.
 
 Now that you understand how Tracks work:
 
-- **Chapter 4: Resilience** covers Stress, Afflictions, and Burdens in detail — including Push Yourself, Assist, Taken Out, and recovery timing
+- **Chapter 4: Resilience** covers Stress, Afflictions, and Burdens in detail — including Push Yourself (Talents), Taken Out, and recovery timing
 - **Chapter 13: Challenges** covers designing Harm/Will/Obstacle/Countdown Tracks for enemies and obstacles
 - **Chapter 14: GM Tools** covers when and how to advance Countdown Tracks
 
@@ -541,7 +540,7 @@ Significant enemies have their own specific consequences based on their nature. 
 
 Now you understand outcomes and consequences. The next chapters cover the resources you use to handle consequences:
 
-- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself, Assist
+- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
 

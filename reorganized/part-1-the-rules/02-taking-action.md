@@ -324,7 +324,7 @@ The GM states the result directly: "That's 1 Bane — you don't have the right g
 > 
 > **GM:** "Sure. Spend 1 Momentum for 1 Boon + 1 Edge. That cancels one Bane — you're down to 1 Bane now."
 
-**Transparency matters:** The GM tells you your Boon/Bane count *before* you roll — this is your chance to seek advantages (Assist, Push Yourself, Create an Opening) or reconsider your approach.
+**Transparency matters:** The GM tells you your Boon/Bane count *before* you roll — this is your chance to seek advantages (Create an Opening, Push Yourself via Talents) or reconsider your approach.
 
 ---
 
@@ -381,31 +381,31 @@ The dimension emerges from your intent — describe what you're trying to accomp
 
 ### How It Works
 
-1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress)
+1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress to gain +1 Boon + Talent effect)
 2. **Declare intent:** Describe what you're attempting and which scale dimension you're aiming for
 3. **GM assesses the attempt:** If the GM would normally rule this Impossible, Potency makes it attemptable instead — roll with 1-2 Banes. Otherwise your Boons/Banes are unchanged.
-4. **Roll:** Roll as normal with your +1 Edge (plus the Boon from Push Yourself, if that's how you activated).
+4. **Roll:** Roll as normal with your +1 Edge (plus the +1 Boon from Push Yourself if your Talent grants it).
 5. **Resolve:** Apply outcome. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
 
 ### Examples
 
-Remember: when you Push Yourself to activate a Talent, you gain both the normal Boon from Push and the Potency benefits. (Some Talents grant Potency through other means — in those cases, you get Potency without the Push Boon.)
+Many Potent Talents activate via Push Yourself, granting both the Talent's special effect and +1 Boon. (Some Talents grant Potency through other means — in those cases, you get Potency without the Push Boon.)
 
 **Champion holds a collapsing portcullis (Potent feat of strength):**
 - Normal: Impossible (no one person can hold this)
-- With Potency: Attemptable at 1 Bane + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
+- With Potency: Attemptable at 1 Bane + 1 Boon (from Push Yourself Talent, cancels the Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
 
 **Hunter tracks quarry through rain-washed stone (Potent feat of tracking):**
 - Normal: Impossible (rain destroyed all visible tracks — no mortal tracker could follow this)
-- With Potency: Attemptable at 1 Bane + 1 Boon (from Push, cancels the Bane) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
+- With Potency: Attemptable at 1 Bane + 1 Boon (from Push Yourself Talent, cancels the Bane) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
 
 **Sage overwhelms a magical ward (Potent Spell):**
 - Normal: Possible, but the Warded Complication would reduce the outcome
-- With Potency: 1 Boon (from Push) + 1 Edge (ignores ward's Complication) + Heightened Impact (blast through completely)
+- With Potency: 1 Boon (from Push Yourself Talent) + 1 Edge (ignores ward's Complication) + Heightened Impact (blast through completely)
 
 **Vanguard shields the entire party from dragonfire (Potent feat with shield):**
 - Normal: Could protect self only
-- With Potency: 1 Boon (from Push) + 1 Edge + Widespread Effect (cover all nearby allies)
+- With Potency: 1 Boon (from Push Yourself Talent) + 1 Edge + Widespread Effect (cover all nearby allies)
 
 ### Potency and Special Effects
 
@@ -466,7 +466,7 @@ Most RPGs have either:
 Now you know what Actions you can take, how Approaches shape them, and how circumstances determine difficulty. The next chapters cover what happens after the roll:
 
 - **Chapter 3: Outcomes & Consequences** — What the four outcomes mean, how Complications work, Progress tracks
-- **Chapter 4: Resilience** — Stress, Conditions, Push Yourself, Assist
+- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects
 

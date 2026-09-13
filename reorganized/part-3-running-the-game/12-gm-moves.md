@@ -177,6 +177,8 @@ Begin each session with **2 Suspense**. This gives you a small starting buffer f
 - Creates genuine dramatic rhythm: the GM gives (earns) → then takes (spends) → then gives again.
 - Resting decisions become strategic: "We need to recover, but the GM will gain 2 Suspense..."
 
+**Suspense has no cap — by design.** Unlike Momentum, a large pool doesn't make any single move bigger: spends are bounded per-use (1-3), so 15 Suspense just means more consecutive escalations are available, not stronger ones. A towering pool is itself dramatic — the players can see the storm building.
+
 **Don't hoard Suspense.** Spend it to create drama, pressure, and memorable moments. An empty Suspense pool is the calm before the storm — and a signal to players that they have breathing room.
 
 ---

@@ -2,6 +2,29 @@
 
 ## High Priority
 
+### Momentum Economy Adjustments
+**Estimated Effort:** Small
+
+Following the simplification of action resolution (removal of baseline Push Yourself, merging Assist into Create an Opening), Momentum now serves as the primary proactive resource for both self and allies. Adjustments needed:
+
+1. **Increase Momentum capacity:** Max 3 → Max 5 (provides more tactical headroom)
+2. **Add starting Momentum:** Players start each session with 2 Momentum (ensures tactical options)
+3. **Add Momentum-granting Talents:** Create 4-6 Talents that grant Momentum on specific triggers
+   - On Victory (reduce enemy track to 0)
+   - On Discovery (solve mystery, find secret)
+   - On Breakthrough (fill Obstacle track)
+   - On Conviction (fill Will track via Talk)
+4. **Codify GM Momentum grants:** Add guidelines for when GMs should grant Momentum (clever plans, dramatic moments, excellent roleplay - aim for 1-2 per session distributed across group)
+
+**Location:** 
+- Chapter 5 (Momentum capacity and starting amount)
+- Chapter 9 or Talent sections (new Momentum-granting Talents)
+- Chapter 12 (GM guidance on Momentum grants)
+
+**Dependencies:** None (can be done immediately)
+
+---
+
 ### Session in Play (Extended Example)
 **Estimated Effort:** Large
 
@@ -43,7 +66,7 @@ Build out the reference section for mid-session lookup:
 ### Investigation Challenge Example
 **Estimated Effort:** Small
 
-Add a worked investigation Challenge stat block to Ch. 13 (alongside the combat and obstacle examples). Show using Sense/Know to gather clues, social interactions with witnesses, and an optional Countdown Track.
+Mostly covered by the Corrupt Magistrate example (Ch. 13) — social boss with nested Obstacle track and Countdown. Remaining gap: a pure investigation set-piece (Sense/Know clue-gathering as the primary track). Low priority now; consider for Part 5 extended examples instead.
 
 ---
 

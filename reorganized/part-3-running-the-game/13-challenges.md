@@ -576,6 +576,46 @@ Challenge Moves (spend Suspense to activate):
 
 ---
 
+## Complete Design Example: The Corrupt Magistrate
+
+The same 7-step recipe builds non-combat set-pieces. This is a social boss — no Harm track at all.
+
+**Concept:** Magistrate Veyra controls the city's courts and is burying evidence of the conspiracy. The PCs must break her hold — expose her, flip her, or force her concession. Violence would make them fugitives; this fight happens in hearings, salons, and back rooms.
+
+**Step 1 — Scale:** Regional power broker. **Heroic Scale** (0-1 Complications, 2 rarely — she gets 2; she's exceptional).
+
+**Step 2 — Track Size:** A season of maneuvering compressed into a set-piece. **Will 8** (Boss — her resolve is the fortress).
+
+**Step 3 — Complications:** Decades of political discipline (Resolute) + a network of informants who warn her of every scheme (Vigilant). **Total: 2** — but note the tag matching: Resolute applies to persuasion and pressure, Vigilant to deception and hidden maneuvers. An approach backed by *genuine leverage* — real evidence, a witness she can't discredit — faces neither.
+
+**Step 4 — Challenge Moves:**
+- Call the Guards [□] — The scene turns hostile; PCs must leave or escalate (1 use)
+- Produce False Evidence [□] — A PC gains Discredited 2 (Condition) on social actions in the city (1 use)
+- Twist Your Words — On a Setback against her, she reframes the exchange; +1 tick *removed* from her Will track (unlimited)
+
+**Step 5 — Exploitable:** "Her Ledger" — she keeps records of every bribe. Finding the ledger (Obstacle 4: locked study, coded entries) removes Vigilant permanently and grants 1 Edge on all subsequent Will rolls against her.
+
+**Step 6 — Countdown:** "The evidence burns" (6 ticks) — when it fills, the conspiracy's trail is gone and the PCs need a new road in.
+
+```
+Magistrate Veyra (Heroic Scale)
+Suspense: 3
+Tracks: Will 8
+Complications: Resolute (persuasion/pressure), Vigilant (deception/schemes)
+Exploitable: "Her Ledger" (Obstacle 4 — removes Vigilant, grants 1 Edge on Will rolls)
+Countdown: "The evidence burns" [□□□□□□]
+Challenge Moves (spend Suspense to activate):
+  - Call the Guards [□] (2 Suspense) — scene turns hostile
+  - Produce False Evidence [□] (2 Suspense) — PC gains Discredited 2
+  - Twist Your Words (1 Suspense) — on a Setback against her, remove 1 tick from her Will track
+```
+
+**How this plays:** Charging in with accusations faces Resolute; scheming faces Vigilant. The ledger is the "find the angle" move — an Obstacle track nested inside a social boss, giving the party's infiltrator a starring role in a courtroom drama. The Countdown forces tempo: they can't simply wear her down over months.
+
+**The recipe is approach-agnostic.** Any combat stat block re-skins the same way — same numbers, different fiction. The Drow Assassin's Harm 4/Will 6 with Deadly + Elusive could just as easily be a political rival: "attacks" become smear campaigns, "poison" becomes scandal.
+
+---
+
 ## What's Next
 
 **Chapter 14: Running Scenes** covers specific scene types in depth — investigation, social conflict, and battlegrounds — giving you frameworks for the most common situations you'll face at the table.

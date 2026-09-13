@@ -53,9 +53,8 @@ Your **Approach** determines how many dice you start with. Approaches are rated 
 
 **Common Boon sources:**
 - **Favorable circumstances:** The GM grants 1 Boon (or 2 in exceptional circumstances) when positioning clearly favors you — high ground, flanking, surprise, ideal tools - see Chapter 2
-- **Assist:** An ally marks 1 Stress to grant you 1 Boon - see Chapter 4
-- **Push Yourself:** Mark 1 Stress to gain 1 Boon - see Chapter 4
-- **Create an Opening:** Spend 1 Momentum for 1 Boon + 1 Edge - see Chapter 5
+- **Create an Opening:** Spend 1 Momentum to gain +1 Boon + 1 Edge (for yourself or an ally) - see Chapter 5
+- **Push Yourself:** Activate Talents (mark 1 Stress to gain +1 Boon + Talent effect) - see Chapter 4
 - **Talents:** Some Talents grant Boons in specific situations - see Chapter 9
 
 **Maximum: +2 Boons**
@@ -64,9 +63,9 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 
 **Example:**
 - High ground over your enemy (+1 Boon)
-- Ally Assists (+1 Boon)
-- You Push Yourself (+1 Boon)
-- **Total: +2 Boons** (third Boon is wasted due to cap)
+- Ally Creates an Opening for you (+1 Boon + 1 Edge, costs their Momentum)
+- You could Push Yourself via a Talent (+1 Boon + Talent effect)
+- **Total: +2 Boons** (third Boon would be wasted due to cap)
 
 ---
 
@@ -101,17 +100,17 @@ Multiple Bane sources stack, but you can lose **at most -2 dice from Banes** aft
 
 **Example 2:**
 - Flanking with an ally: +1 Boon
-- Ally Assists: +1 Boon
+- Ally Creates an Opening: +1 Boon + 1 Edge
 - Wounded Condition: -1 Bane
-- **Net: +1 Boon** (2 Boons - 1 Bane = 1 Boon remaining)
+- **Net: +1 Boon** (2 Boons - 1 Bane = 1 Boon remaining, plus 1 Edge)
 
 **Example 3:**
 - No climbing gear on a rain-slick cliff: -2 Banes
-- You Push Yourself: +1 Boon
-- Ally Assists: +1 Boon
+- You Push Yourself via Talent: +1 Boon + Talent effect
+- Ally Creates an Opening: +1 Boon + 1 Edge
 - Wounded: -1 Bane
 - **Calculation:** 2 Boons - 3 Banes = -1 Bane
-- **Net: -1 Bane**
+- **Net: -1 Bane** (plus 1 Edge and Talent effect)
 
 ---
 
@@ -141,7 +140,7 @@ This represents a desperate, clumsy attempt when you lack capability or favorabl
 - Success (6): 3%
 - Triumph: 0% (impossible)
 
-This creates strong incentive to seek advantages (Assist, Push Yourself, Create an Opening) without hard-locking characters from attempting actions.
+This creates strong incentive to seek advantages (Create an Opening, Push Yourself via Talents) without hard-locking characters from attempting actions.
 
 ---
 
@@ -429,7 +428,7 @@ Now that you understand how the Action Roll works, the next chapters add context
 
 - **Chapter 2: Taking Action** — What the five Actions do, how Approaches work, how circumstances become Boons and Banes
 - **Chapter 3: Outcomes & Consequences** — What happens after the Action Roll, how Complications work, Progress tracks
-- **Chapter 4: Resilience** — Stress, Conditions, Push Yourself, Assist
+- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
 - **Chapter 5: Momentum** — How to earn and spend Momentum
 - **Chapter 6: Traits** — How Traits grant Special Effects
 

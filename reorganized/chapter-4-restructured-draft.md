@@ -1,16 +1,12 @@
-# Chapter 4: Resilience
+# Chapter 4: Resilience (RESTRUCTURED DRAFT)
 
-Heroes take hits — physical blows, emotional strain, magical backlash, exhaustion. Chapter 3 taught you how Tracks work. This chapter covers how the three **Character Tracks** work in play.
-
-**What you'll learn:**
-- Stress (your resilience buffer and spendable resource)
-- Afflictions (temporary impairments)
-- Burdens (lasting harm)
-- Taken Out (what happens when you break)
-- Push Yourself and Assist (spending Stress for power)
-- Recovery (Short Rest and Long Rest)
+**This draft assumes the unified Track system has been taught in Chapter 3. It focuses only on the unique aspects of each Character Track not covered in the Ch. 3 tables.**
 
 ---
+
+## Overview
+
+Heroes take hits — physical blows, emotional strain, magical backlash, exhaustion. Chapter 3 taught you how Tracks work. This chapter covers how the three **Character Tracks** work in play.
 
 **Quick reference from Chapter 3:**
 
@@ -120,11 +116,11 @@ When your Stress track is full (5/5) and you would mark more Stress:
 The full 2 Stress is overflow (can't mark any) → Wounded 2 (Burden), then clear 3 Stress → 2/5 Stress.
 
 **What if overflow is 3 or more?**  
-Wounded 3 (Burden) — the maximum Burden size.
+Wounded 3 (Burden) — the maximum Burden tier.
 
 ---
 
-## Afflictions (Temporary Impairments)
+## Afflictions (Temporary Conditions)
 
 **Afflictions** are temporary impairments — poison, fear, blindness, exhaustion. They're short-term states heroes shake off through action and rest.
 

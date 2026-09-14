@@ -14,7 +14,9 @@ Momentum represents surges of heroic energy — moments where your character is 
 
 **Cap:** 2 Momentum maximum (some Talents raise this to 3)
 
-Momentum is tracked per-character. You can hold up to your cap between scenes — it doesn't reset unless the fiction demands it (e.g., long downtime, major narrative shift).
+Momentum is tracked per-character. You can hold up to your cap and carry it between scenes throughout a session.
+
+**Starting Momentum:** At the start of each session, all characters begin with full Momentum (equal to their Momentum cap, generally 2). This represents the heroes rallying and ready to face what's ahead — the surge of determination at the top of the episode.
 
 ---
 
@@ -158,7 +160,7 @@ Your Drive is both your motivation (what pulls you *forward*) and your vulnerabi
 
 **Momentum rewards success with future success.** Rolling well generates the resource you need to overcome harder challenges. This creates a heroic snowball effect — heroes on a hot streak can do incredible things.
 
-**The cap keeps it bounded.** At 2 (or 3 with Talent), you can't hoard indefinitely. Spend it or lose potential gains from your next Triumph.
+**The cap keeps it bounded.** At 2 (or 3 with Talent), you can't hoard indefinitely. Spend it or lose potential gains from your next Triumph. Starting each session at full Momentum ensures every session begins with dynamic play — the heroes rally at the top of the episode, ready to face what's ahead.
 
 **Two spend options create commitment.** Spend on offense (Create an Opening) or seize the moment (Seize Spotlight)? All spending happens before you roll — no saving it to patch failures. Commit and accept the outcome.
 

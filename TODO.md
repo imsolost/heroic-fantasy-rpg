@@ -2,29 +2,6 @@
 
 ## High Priority
 
-### Momentum Economy Adjustments
-**Estimated Effort:** Small
-
-Following the simplification of action resolution (removal of baseline Push Yourself, merging Assist into Create an Opening), Momentum now serves as the primary proactive resource for both self and allies. Adjustments needed:
-
-1. **Increase Momentum capacity:** Max 3 → Max 5 (provides more tactical headroom)
-2. **Add starting Momentum:** Players start each session with 2 Momentum (ensures tactical options)
-3. **Add Momentum-granting Talents:** Create 4-6 Talents that grant Momentum on specific triggers
-   - On Victory (reduce enemy track to 0)
-   - On Discovery (solve mystery, find secret)
-   - On Breakthrough (fill Obstacle track)
-   - On Conviction (fill Will track via Talk)
-4. **Codify GM Momentum grants:** Add guidelines for when GMs should grant Momentum (clever plans, dramatic moments, excellent roleplay - aim for 1-2 per session distributed across group)
-
-**Location:** 
-- Chapter 5 (Momentum capacity and starting amount)
-- Chapter 9 or Talent sections (new Momentum-granting Talents)
-- Chapter 12 (GM guidance on Momentum grants)
-
-**Dependencies:** None (can be done immediately)
-
----
-
 ### Session in Play (Extended Example)
 **Estimated Effort:** Large
 
@@ -121,6 +98,11 @@ Consolidate design rationale into an optional appendix for interested readers.
 ---
 
 ## Completed
+
+### September 2026
+- **Core Simplification** — Removed baseline Push Yourself, Assist mechanic, and Resist Consequence. Push Yourself now Talent-only activation cost. Create an Opening works for self or allies (replacing Assist).
+- **Track System Unification** — Unified all five track types (Progress, Countdown, Stress, Affliction, Burden) under one concept with 4 parameters. Renamed Condition → Affliction.
+- **Momentum Economy** — Added session reset (start each session at full Momentum). Cap remains at 2 (or 3 with Talent). Analysis showed Build Momentum creates self-sustaining economy without need for cap increase.
 
 ### July 2026
 - **Keyword Capitalization Audit** — Consistent capitalization of Action Roll, Consequence, Track, etc. across all chapters. Updated KEYWORDS.md glossary.

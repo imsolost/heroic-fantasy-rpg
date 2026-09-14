@@ -86,9 +86,6 @@ Finalize talents-draft.md:
 ### Consider Renaming "Complication" (Backburner)
 The Three C's (Complication/Consequence/Condition) share a phonetic shape and collide at the table. Complication is the best rename target — it's our most idiosyncratic usage (most games use "complication" for narrative fallout, forcing constant capitalization-policing) and only touches stat blocks. Requirement: the new word must work for enemies, obstacles, AND environments (not "Defense"). Best candidate so far: **Hindrance** ("each Hindrance reduces your outcome by 1 tier"; "the vault door's Complex Hindrance"). Runner-up: Hurdle. Decide before any published material exists — this is the last cheap window.
 
-### Consolidate Potent Actions Explanations (Backburner)
-Potent Actions is explained nearly verbatim three times (Ch. 2 full, Ch. 9 Talent primer, Ch. 10 magic version). Ch. 2 is the canonical home; shrink Ch. 9/10 to brief cross-referencing summaries during the reference-pass cleanup.
-
 ### Index / Glossary
 Convert KEYWORDS.md into a proper glossary appendix with brief definitions for each term.
 
@@ -103,6 +100,7 @@ Consolidate design rationale into an optional appendix for interested readers.
 - **Core Simplification** — Removed baseline Push Yourself, Assist mechanic, and Resist Consequence. Push Yourself now Talent-only activation cost. Create an Opening works for self or allies (replacing Assist).
 - **Track System Unification** — Unified all five track types (Progress, Countdown, Stress, Affliction, Burden) under one concept with 4 parameters. Renamed Condition → Affliction.
 - **Momentum Economy** — Added session reset (start each session at full Momentum). Cap remains at 2 (or 3 with Talent). Analysis showed Build Momentum creates self-sustaining economy without need for cap increase.
+- **Potent Actions Consolidation** — Ch. 2 remains canonical home with full explanation. Ch. 9 already condensed (brief pointer + design note). Ch. 10 condensed further (removed repeated scale dimensions explanation, kept magic-specific examples table).
 
 ### July 2026
 - **Keyword Capitalization Audit** — Consistent capitalization of Action Roll, Consequence, Track, etc. across all chapters. Updated KEYWORDS.md glossary.

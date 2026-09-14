@@ -275,27 +275,23 @@ Meaningful magical effects that influence scenes, harm enemies, solve problems, 
 
 ### Potent Spells — Extraordinary Magic
 
-Potent Spells follow the **Potent Action** framework (see Chapter 2). They grant Edge +1, can unlock otherwise impossible magical effects, and enhance scale along one dimension — applied to magic.
+**Potent Spells use the Potent Action framework** (see Chapter 2 for complete rules: Edge +1, Expanded Possibility, and scale enhancement via Heightened Impact, Widespread Effect, or Extended Duration).
 
 **How to access Potent Spells:**
 - **Sphere Mastery** (Sage) — Push Yourself to perform a Potent feat of magical theory within your mastered Sphere
 - **Channel Divinity** (Mystic) — Push Yourself to perform a Potent miracle within your domains
 - Other Talents that explicitly grant Potency in their domain
 
-**Cost:** Push Yourself (mark 1 Stress) to activate the Talent. The Sage's Efficient Casting can be marked instead of Stress when Pushing to cast.
+**Cost:** Mark 1 Stress to Push Yourself. Sage's Efficient Casting can be marked instead.
 
-**The three scale dimensions applied to spells:**
+**Magic-specific scale examples:**
 
-- **Heightened Impact** — Amplify quality or overcome resistance
-- **Widespread Effect** — Affect larger groups or areas
-- **Extended Duration** — Sustain effects beyond momentary
-
-| Spell | Normal | Potent (Heightened) | Potent (Widespread) | Potent (Extended) |
-|-------|--------|--------------------|--------------------|-------------------|
-| Stone Wall | Barrier, 1-2 actions | Nearly indestructible | 2-3 walls or one much larger | Lasts entire scene |
-| Fireball | Mark Harm, single target | Bypasses fire resistance | Mark Harm on small group | — |
-| Charm | Mark Will, 1-2 actions | Affects resistant targets | Affects multiple people | Lasts entire scene |
-| Invisibility | 1-2 actions | Undetectable (sight, sound, scent) | Small group invisible | Lasts entire scene |
+| Spell | Normal | Heightened | Widespread | Extended |
+|-------|--------|------------|------------|----------|
+| Stone Wall | Barrier, 1-2 actions | Nearly indestructible | 2-3 walls or much larger | Lasts entire scene |
+| Fireball | Mark Harm, single target | Bypasses fire resistance | Small group affected | — |
+| Charm | Mark Will, 1-2 actions | Affects resistant targets | Multiple people | Lasts entire scene |
+| Invisibility | 1-2 actions | Undetectable (all senses) | Small group invisible | Lasts entire scene |
 
 ---
 

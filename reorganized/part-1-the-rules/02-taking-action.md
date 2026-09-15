@@ -36,19 +36,122 @@ Every Action has a clear outcome on success—you know what you're rolling for.
 
 **On success:** Achieve your stated risky or extraordinary intent.
 
-Your intent might be one of these fictional effects:
-- **Mark Obstacle track** (complex lock, prolonged chase, fortified door)
-- **Seize Control** (shove enemy, knock down, grapple, force into corner)
-- **Take Something** (pickpocket, disarm, seize object)
-- **Create Advantage** (cast debuff spell, throw dust in eyes)
-- **Change Environment** (trigger mechanism, collapse support, create cover)
-- **Or any other risky objective** (dodge attack, leap chasm, resist interrogation)
+---
+
+#### What Defy Can Do
+
+Defy is the most versatile Action — it covers any risky, difficult, or extraordinary objective that isn't covered by the other four Actions. Your intent determines the specific fictional effect:
+
+**Mark Obstacle Track**
+Progress toward overcoming a complex obstacle that requires multiple successes — picking an intricate lock, chasing a fleeing enemy through crowded streets, breaking down a reinforced door, or navigating a treacherous mountain pass.
 
 **Examples:**
-- Dodging a dragon's breath
-- Picking a lock or disarming a trap
-- Resisting poison, fear, or mental compulsion
+- "I'm working on the complex lock mechanism" → Mark 1 tick on Obstacle track
+- "I'm gaining ground in the chase" → Mark 1 tick on Chase track
+- "I'm hacking through the fortified door" → Mark 1 tick on Door track
+
+---
+
+**Seize Control**
+Physically move, restrain, reposition, or control an enemy or object. Changes tactical positioning without necessarily dealing harm.
+
+**On success:**
+- Move enemy (shove into hazard, knock prone, push back)
+- Restrain enemy (grapple, pin, entangle)
+- Control object/enemy positioning (block path, occupy chokepoint)
+
+The effect lasts as long as you maintain it or until the enemy acts to break free (typically their next turn).
+
+**Examples:**
+- "I shove the orc toward the cliff edge!" → On success, orc is pushed back (GM may require them to Defy or fall)
+- "I grapple the guard and pin them!" → On success, guard is restrained until they escape
+- "I knock the knight's legs out from under them!" → On success, knight is prone
+
+---
+
+**Take Something**
+Remove, steal, extract, or take something from a target or scene — disarming a weapon, pickpocketing, stealing an object, extracting information through physical means (not persuasion).
+
+**On success:**
+- Disarm weapon or item from enemy
+- Pickpocket object from target
+- Snatch object from scene (grab idol before trap triggers)
+- Extract something physical (pull arrow from wound, remove cursed amulet)
+
+**Examples:**
+- "I knock the sword from their hand!" → On success, enemy is disarmed
+- "I pickpocket the guard's keys while bumping into them" → On success, you have the keys
+- "I grab the ritual focus before the cultist completes the spell!" → On success, you disrupt their casting
+
+---
+
+**Create Advantage**
+Set up favorable conditions for yourself or allies, or impose unfavorable conditions on enemies. This changes the tactical situation without directly dealing harm or progress.
+
+**On success, create one:**
+- **Buff 2** for an ally (or yourself) — Name it (Inspired, Shielded, Flight, etc.). The Buff grants +1 Boon OR fictional positioning to relevant actions. Mark 1 box when used. When both boxes are marked, Buff ends.
+- **Affliction 1** for an enemy — Name it (Blinded, Off-Balance, Disarmed, etc.). PCs gain +1 Boon on relevant actions against the afflicted enemy. Mark 1 box when a PC acts against them. When the box is marked, Affliction ends.
+- **Environmental advantage** — Describe the fictional benefit (cover, difficult terrain for enemies, blocked passage). GM adjudicates effect and duration.
+
+**Greater Effect (Trait invocation):**
+- **Buff 3** (one ally, lasts 3 uses) OR **Broad Effect** (multiple allies each get Buff 2)
+- **Affliction 2-3** (one enemy, PCs gain +1 Boon for 2-3 actions against them) OR **Broad Effect** (multiple enemies each get Affliction 1)
+
+**Examples:**
+- "I throw sand in the knight's eyes!" → Success: Knight gains **Blinded 1** [ ] (PCs gain +1 Boon on sight-dependent actions against knight, clears after first such action)
+- "I cast a protective blessing on my ally!" → Success: Ally gains **Shielded 2** [ ] [ ] (+1 Boon to resist harm for 2 actions)
+- "I inspire the party with a rallying cry!" → Success with Greater Effect: All allies gain **Inspired 2** [ ] [ ] (+1 Boon to bold actions for 2 uses each)
+- "I shove the bandit into the corner, limiting movement!" → Success: Bandit gains **Off-Balance 1** [ ] (PCs gain +1 Boon on attacks/maneuvers against the bandit, clears after first such action)
+- "I cast a flight spell on myself!" → Success: You gain **Flight 2** [ ] [ ] (fictional positioning—reach aerial targets, cross chasms—mark when you leverage it)
+
+**Create Advantage vs. Assist (Momentum):**
+- **Create Advantage:** Costs your action, creates Buff/Affliction tracks, can affect multiple targets with Greater Effect
+- **Assist (Momentum):** Costs 1 Momentum, directly boosts one ally's specific action (+1 Boon +1 Edge), requires positioning and shared risk
+
+See Chapter 3 for Buff and Affliction rules, Chapter 5 for Assist rules, and Chapter 6 for Trait-based Secondary Effects.
+
+---
+
+**Change Environment**
+Alter the physical environment or trigger mechanisms — collapse a support, trigger a trap, create cover, shift terrain, or manipulate the battlefield.
+
+**On success:**
+The environment changes in the way you described. The GM narrates how this affects the scene and what tactical implications it has.
+
+**Examples:**
+- "I collapse the scaffolding onto the enemies below!" → On success, enemies must Defy or take damage/be trapped
+- "I trigger the trap while staying clear!" → On success, trap activates without affecting you
+- "I use telekinesis to pull down the chandelier!" → On success, chandelier falls (creates hazard or blocks area)
+- "I kick over the brazier, spreading flames across the room!" → On success, fire spreads (creates dangerous terrain)
+
+---
+
+**Resist or Endure**
+Overcome mental, physical, or supernatural threats targeting you — resisting poison, fear, mental compulsion, exhausting conditions, or harsh environments.
+
+**On success:**
+You overcome the threat. If there's a track involved (like a poison slowly killing you), mark progress. If it's an immediate threat (dragon's frightful presence, mind control attempt), you shrug it off.
+
+**Examples:**
+- "I resist the dragon's frightful presence!" → On success, no Condition imposed
+- "I endure the poison coursing through my veins!" → On success, mark progress toward overcoming it
+- "I resist the demon's mental compulsion!" → On success, you're not controlled
+- "I push through the exhaustion and keep running!" → On success, you avoid marking Stress from fatigue
+
+---
+
+**Or Any Other Risky Objective**
+Defy is intentionally broad. If you're attempting something risky, difficult, or extraordinary that doesn't fit the other four Actions, it's probably Defy. Describe what you want to accomplish and the GM determines the outcome.
+
+**Examples:**
+- Dodging attacks
+- Leaping across chasms
 - Sneaking past guards
+- Escaping bonds
+- Climbing sheer surfaces
+- Holding your breath underwater
+
+---
 
 **Don't use Defy when:**
 - Trying to harm/break someone → Use **Clash**

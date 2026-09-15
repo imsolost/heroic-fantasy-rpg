@@ -2,6 +2,32 @@
 
 ## High Priority
 
+### Example Accuracy Audit
+**Estimated Effort:** Medium
+
+Review all examples for mechanical accuracy following September 2026 simplification (removed Assist, baseline Push Yourself, Resist Consequence).
+
+**Status:** Phase 1 & 2 complete ✅
+
+**Phase 1 Complete (Critical fixes):**
+- ✅ Quick Start Guide — Fixed Battleborn talent, Stress Track description, and "Use Stress to" section
+- ✅ Chapter 12 — Fixed "Enemy's turn in combat" to clarify enemies act through Consequences or by spending Suspense
+
+**Phase 2 Complete (Core Rules review):**
+- ✅ Chapters 1-2 — All inline examples verified correct
+- ✅ Chapter 4 (Resilience) — Push Yourself correctly defined as formal game term, limited to once per action roll
+- ✅ Chapter 6 (Traits) — All Special Effect examples verified correct
+- ✅ Talents Draft — Terminology verified correct (uses "Push Yourself" as formal game term)
+
+**Phase 3 Next (Later Chapters):**
+- Part 2 (Ch. 7-10) review (some already updated in September)
+- Part 3 (Ch. 13-15) review for GM-facing examples
+- Part 4 (Reference) review
+
+**Full audit:** See `design-docs/example-accuracy-audit.md`
+
+---
+
 ### Session in Play (Extended Example)
 **Estimated Effort:** Large
 
@@ -97,10 +123,14 @@ Consolidate design rationale into an optional appendix for interested readers.
 ## Completed
 
 ### September 2026
-- **Core Simplification** — Removed baseline Push Yourself, Assist mechanic, and Resist Consequence. Push Yourself now Talent-only activation cost. Create an Opening works for self or allies (replacing Assist).
+- **Core Simplification** — Removed baseline Push Yourself and Resist Consequence. Push Yourself now Talent-only activation (formal game term, once per action roll). Assist removed, Create an Opening works for self or allies.
+- **Assist Reintroduction (Sept 14)** — Reintroduced Assist as subsection of Create an Opening with constraints: fictional positioning required + shared risk (helper faces same consequence). Differentiates safe self-buff from committed ally support.
+- **Defy Expansion (Sept 14)** — Expanded Defy section in Ch. 2 with detailed explanations of all intent effects (Mark Obstacle, Seize Control, Take Something, Create Advantage, Change Environment, Resist/Endure). Added full support toolkit overview in Ch. 5. Moved Teamwork section from Ch. 4 to Ch. 5.
+- **Buff Tracks Formalization (Sept 15)** — Formalized Buff mechanic as Character Tracks (parallel to Afflictions). Buffs grant +1 Boon OR fictional positioning, tick down through use (Buff 2 default, Buff 3 with Greater Effect). Resolves duration vagueness and improves tracking clarity. Environmental advantages remain narrative. See design-docs/buff-tracks-formalization.md for full details.
 - **Track System Unification** — Unified all five track types (Progress, Countdown, Stress, Affliction, Burden) under one concept with 4 parameters. Renamed Condition → Affliction.
 - **Momentum Economy** — Added session reset (start each session at full Momentum). Cap remains at 2 (or 3 with Talent). Analysis showed Build Momentum creates self-sustaining economy without need for cap increase.
 - **Potent Actions Consolidation** — Ch. 2 remains canonical home with full explanation. Ch. 9 already condensed (brief pointer + design note). Ch. 10 condensed further (removed repeated scale dimensions explanation, kept magic-specific examples table).
+- **Example Accuracy Audit** — Phase 1 & 2 complete. Fixed Quick Start Guide and Ch. 12. Verified core rules chapters accurate.
 
 ### July 2026
 - **Keyword Capitalization Audit** — Consistent capitalization of Action Roll, Consequence, Track, etc. across all chapters. Updated KEYWORDS.md glossary.

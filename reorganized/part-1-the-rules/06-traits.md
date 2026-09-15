@@ -44,13 +44,14 @@ Your effect is unusually potent, extensive, durable, or difficult to counter.
 **Greater Effect** — Increased magnitude:
 - **Harm/Will/Obstacle tracks:** Mark **1 additional tick**
 - **Sense/Know:** Ask **1 additional question**
+- **Defy (Create Advantage):** Create **Buff 3** (one ally, 3 uses) or **Affliction 2-3** (one enemy)
 - **Any effect:** GM and player describe how it's significantly stronger than normal
 
 **Broad Effect** — Affect a small group or area instead of a single target:
 - Strike cuts through 2-3 foes
 - Words sway a small group
 - Environmental effect spreads to nearby area
-- Debuff affects multiple enemies
+- **Defy (Create Advantage):** Multiple targets each get **Buff 2** or **Affliction 1**
 
 **The GM determines exact scope based on fiction.** "Small group" might be 3 goblins or 6 townsfolk depending on context.
 
@@ -68,15 +69,15 @@ The secondary action must flow from what you just did — it can't be random or 
 |----------------|--------------|----------|
 | **Take Something** | Remove, steal, extract | Disarm weapon, pickpocket, extract secret |
 | **Seize Control** | Move, restrain, occupy | Knockdown, grapple, shove into hazard, block path |
-| **Create Advantage** | Set up ally or debuff enemy | Grant ally 1 Boon OR 1 Edge, inflict Condition |
+| **Create Advantage** | Set up ally or debuff enemy | Create Buff 1 for ally (grants +1 Boon for 1 use) OR Affliction 1 for enemy (PCs gain +1 Boon on one action against them) |
 | **Change Situation** | Alter fiction beyond tactics | Shift relationship, alter environment, establish rapport |
 | **Overcome Obstacle** | Progress toward overcoming | Mark 1 tick on an Obstacle track |
 
 **In play:** Clash the knight → Secondary: free Defy to disarm him (Take Something). The secondary flows from the primary — the disarm happens *because* your strike created the opening.
 
 **Create Advantage specifics:**
-- Grants ally **1 Boon** (general advantage) OR **1 Edge** (targets specific Complication)
-- Lasts 1 action by default
+- Creates **Buff 1** for ally [ ] (grants +1 Boon, lasts 1 use) OR **Affliction 1** for enemy [ ] (PCs gain +1 Boon on one action against them)
+- Smaller than Defy's Create Advantage (which creates Buff 2 or Affliction 1-3) because this is a free secondary effect
 - This is distinct from Create an Opening (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously
 
 ---

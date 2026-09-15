@@ -244,7 +244,7 @@ Tough choices turn Conflict from "success minus a bit" into dramatic decisions. 
 | PC rolls Disaster | Impact Move (Severe) | Complications compounded the failure — deliver the worst consequence (Taken Out, Burden, or catastrophic narrative failure) |
 | Players ask "What do we see?" | Suspense Move | Telegraph danger, create choice |
 | Ignoring warnings / time pressure | Impact Move (Major) | Fiction demands escalation |
-| Enemy's turn in combat | Impact Move | Use Challenge Moves if available |
+| Enemy acts in combat | Impact Move (spend Suspense) | Use Challenge Moves if available; enemies act through Consequences (PC rolls Conflict/Setback) or by spending Suspense to interrupt |
 | Countdown completes | Impact Move (Severe) | Deliver promised consequence |
 | PC rolls Success or Triumph | No move needed | Clean victory, no Consequence |
 

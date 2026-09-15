@@ -215,7 +215,7 @@ Each Calling gives you a **Core Talent** (unique ability) and access to a list o
 From your Calling's Talent list, choose 2. Talents give you special abilities, Expertise in specific areas, or options to Push Yourself (mark Stress to gain an advantage).
 
 **Example Champion Talents:**
-- **Battleborn** — Gain Edge in battle; mark to Push Yourself or Resist without cost
+- **Battleborn** — Gain Edge in battle; mark to Push Yourself without cost
 - **Iron Will** — Expertise against fear, coercion, and mental control
 - **One Against Many** — Gain Edge when alone against multiple foes
 
@@ -225,7 +225,7 @@ From your Calling's Talent list, choose 2. Talents give you special abilities, E
 
 ## Step 5: Record Starting Stats
 
-- **Stress Track:** 5 boxes (mark when you suffer harm or Push Yourself)
+- **Stress Track:** 5 boxes (mark when you suffer harm or via Talent effects)
 - **Momentum Cap:** 2 (increases to 3 with certain Talents)
 - **Scale:** Mortal (Local Heroes—you're skilled, but not legendary yet)
 
@@ -336,16 +336,16 @@ Every roll uses one of five actions. The action determines **what you're trying 
 
 ## Defy → Overcome
 
-**Use Defy when you want to overcome an obstacle, resist danger, or avoid harm.**
+**Use Defy when you want to overcome an obstacle, resist danger, or change the tactical situation.**
 
-- Dodge an attack
-- Leap across a chasm
-- Resist poison or fear
-- Pick a lock
-- Climb a wall
-- Endure harsh weather
+**Common uses:**
+- Dodge attacks or resist harm
+- Overcome obstacles (pick locks, climb walls, leap chasms)
+- Set up allies (create advantages, debuff enemies, reposition)
+- Seize control (shove, grapple, disarm)
+- Change environment (trigger traps, collapse supports, create cover)
 
-**On Success:** Overcome simple obstacle automatically OR mark 1 on a Progress track (for complex obstacles like "escape the collapsing ruin").
+**On Success:** Overcome simple obstacle automatically OR mark 1 on a Progress track (for complex obstacles) OR achieve your stated tactical intent (disarm, reposition, create Buff for ally, inflict Affliction on enemy, etc.).
 
 ---
 
@@ -463,16 +463,14 @@ For rare climactic moments, the GM may declare **High Stakes** before you roll:
 
 **Mark Stress when you:**
 - Suffer physical harm
-- Push yourself beyond limits
 - Endure exhausting or stressful situations
-
-**Use Stress to:**
-- **Push Yourself:** Mark 1 Stress to gain 1 Boon on **your own roll**
-- **Assist an ally:** Mark 1 Stress to give 1 Boon to **their roll**
+- Some Talents let you mark Stress for benefits (Push Yourself)
 
 **When your Stress fills completely:**
 - You can't mark more Stress
 - If forced to, choose: take a **Burden** (persistent Condition) OR be **Taken Out** (removed from the scene)
+
+**Stress is your defensive buffer.** It protects you from harm and Conditions. Some Talents let you voluntarily mark it to Push Yourself (gain Boons or other benefits), but baseline Stress is about absorbing consequences.
 
 ---
 
@@ -543,8 +541,10 @@ When Taken Out, you're removed from the scene (unconscious, captured, fled in te
 ### Spend Momentum
 
 **Create an Opening (1 Momentum)**
-- Your action or an ally's action gains **1 Boon** (+1 die)
-- AND **1 Edge** (ignore 1 Complication)
+- Your next action gains **1 Boon** (+1 die) AND **1 Edge** (ignore 1 Complication)
+- OR grant an ally **1 Boon** (+1 die) AND **1 Edge** (Assist)
+  - **Assist requires:** You can fictionally contribute (close enough, relevant capability)
+  - **Assist risk:** You share any consequence they suffer
 - Declare before rolling
 
 ---

@@ -6,7 +6,7 @@ When you make an Action Roll, you get one of four outcomes (see Chapter 1). This
 - The four outcomes and what they produce
 - Consequence tiers (Minor, Major, Severe)
 - How Complications reduce outcomes
-- Tracks (the unified system for Harm, Will, Obstacle, Countdown, Stress, Afflictions, and Burdens)
+- Tracks (the unified system for Harm, Will, Obstacle, Countdown, Stress, Afflictions, Burdens, and Buffs)
 - How each Action resolves across outcomes
 
 ---
@@ -215,6 +215,7 @@ These have a fixed size, or a size set at the moment they're inflicted on a char
 | **Stress** | 5 (fixed) | Consequence lands (1 Minor / 2 Major), or Push Yourself (Talents) | Choose: take a Burden Track, or be Taken Out | Fully on Short Rest or Long Rest |
 | **Affliction** | 1-3 (set at infliction) | Any Action Roll where the Affliction applies (poison affects combat, fear affects persuasion) | The Affliction ends — you've worked through it | Automatically on Short Rest (even if not full) |
 | **Burden** | 1-3 (set at infliction) | One Long Rest (default) OR a stated narrative condition (curse broken, antivenom administered) | The Burden ends | When track fills (via Long Rest or narrative condition) |
+| **Buff** | 2-3 (set at creation) | Any Action Roll where the Buff applies (grants advantage or fictional positioning) | The Buff ends — you've used it up | Automatically on Short Rest (even if not full) |
 
 ---
 
@@ -301,27 +302,35 @@ Mark Stress when:
 
 ### Affliction Tracks (Temporary Impairments)
 
-**Afflictions** are temporary impairments — poison, fear, blindness, exhaustion. They're short-term states heroes shake off through action and rest.
+**Afflictions** are temporary impairments — poison, fear, blindness, exhaustion. They're short-term states that wear off through action and rest.
 
 An Affliction has a **name** (Poisoned, Frightened, Blinded) and a **size** (1–3 boxes), both set at infliction.
 
-**Each Affliction applies 1 Bane to relevant Action Rolls.** When an Affliction applies, mark 1 box on its track. When the track fills, the Affliction clears — you've fought through it.
+**Afflictions work differently on PCs vs. enemies:**
 
-**"Relevant" means the Affliction would fictionally affect the action.** Poisoned affects combat and physical exertion. Frightened affects rolls involving the source of fear. Blinded affects sight-dependent actions. When in doubt, apply it — that's how Afflictions clear.
+**On a PC:** The Affliction applies **-1 Bane** to the PC's relevant Action Rolls. When the PC rolls a relevant action, mark 1 box. When the track fills, the Affliction clears — you've fought through it.
+
+**On an enemy:** The Affliction grants PCs **+1 Boon** when making relevant actions against that enemy. When a PC acts against the afflicted enemy, mark 1 box. When the track fills, the Affliction clears.
+
+*(Enemies don't roll dice, so Afflictions on enemies make them easier targets rather than penalizing their non-existent rolls.)*
+
+**"Relevant" means the Affliction would fictionally affect the action.** Poisoned affects combat and physical exertion. Frightened affects actions involving the source of fear. Blinded affects sight-dependent actions. When in doubt, apply it — that's how Afflictions clear.
 
 | Size | How It Works |
 |------|--------------|
-| **1-box** | Apply 1 Bane on first relevant roll, mark 1 box, Affliction clears |
-| **2-box** | Apply 1 Bane on first relevant roll, mark 1 box. Apply 1 Bane on second relevant roll, mark 1 box, Affliction clears |
-| **3-box** | Apply 1 Bane on first three relevant rolls (mark 1 box each time). After the third, Affliction clears |
+| **1-box** | Apply effect on first relevant roll, mark 1 box → Affliction clears |
+| **2-box** | Apply effect on first relevant roll, mark 1 box. Apply effect on second relevant roll, mark 1 box → Affliction clears |
+| **3-box** | Apply effect on first three relevant rolls (mark 1 box each time) → Affliction clears after the third |
 
-**Think of it as "progress toward recovery."** Each time you act through the Affliction, you're closer to shaking it off. When the track fills, you've worked through it.
+**Think of it as "progress toward recovery."** Each time the Affliction is relevant to an action, you're closer to shaking it off (PC) or it wearing off (enemy).
 
-**Multiple Afflictions stack** — each applying its own 1 Bane (subject to the ±2 pool modifier cap).
+**Multiple Afflictions stack:**
+- **On PCs:** Each Affliction applies its own -1 Bane (subject to the ±2 pool modifier cap)
+- **On enemies:** Each Affliction grants its own +1 Boon to PCs acting against them (subject to the ±2 cap)
 
-**Refresh, not stack:** The same Affliction cannot stack. If you're Poisoned 2 and would become Poisoned again, it refreshes to Poisoned 2 — it doesn't become Poisoned 3 or 4.
+**Refresh, not stack:** The same Affliction cannot stack. If you're Poisoned 2 [X][ ] and would become Poisoned again, it refreshes to Poisoned 2 [ ][ ] — it doesn't become Poisoned 3 or 4. Same applies to enemies.
 
-**Afflictions always clear on Short Rest**, regardless of how many boxes remain. Fighting through poison accelerates recovery, but resting for an hour always works.
+**Afflictions always clear on Short Rest**, regardless of how many boxes remain. Fighting through an Affliction accelerates its clearance, but resting for an hour always works.
 
 **See Chapter 4 for complete Affliction rules and common Affliction names.**
 
@@ -358,6 +367,85 @@ A Burden has a **name** (Wounded, Cursed, Haunted), a **size** (1–3 boxes), an
 
 ---
 
+### Buff Tracks (Temporary Advantages)
+
+**Buffs** are temporary advantages — blessings, tactical positioning, inspiration, magical enhancements. They're short-term beneficial states that heroes use up through action.
+
+A Buff is a **Character Track** (see above) with a **name** (Flight, Inspired, Shielded) and a **size** (2–3 boxes), both set at creation.
+
+**Each Buff grants +1 Boon OR fictional positioning to relevant Action Rolls.** When a Buff applies, mark 1 box on its track. When the track fills, the Buff ends — you've used it up.
+
+**Think of it as "progress toward depletion."** Each time you use the Buff's benefit, you're closer to exhausting it.
+
+| Size | How It Works |
+|------|--------------|
+| **2-box** (default) | Grants +1 Boon (or positioning) on first relevant roll, mark 1 box. Grants +1 Boon on second relevant roll, mark 1 box → Buff ends |
+| **3-box** (Greater Effect) | Grants +1 Boon (or positioning) on first three relevant rolls (mark 1 box each time) → Buff ends after the third |
+
+**Buffs always clear on Short Rest**, regardless of how many boxes remain. Using up a Buff accelerates depletion, but resting for an hour always clears them.
+
+---
+
+#### What Does "Relevant" Mean?
+
+A Buff only applies (and only ticks down) when it would **fictionally provide an advantage**.
+
+**Clear cases where it applies:**
+- **Inspired 2** grants +1 Boon to any bold or creative action aligning with the inspiration
+- **Shielded 2** grants +1 Boon to resisting physical harm or magical attacks
+- **Flight 2** grants fictional positioning (can reach aerial targets, cross chasms) — mark when you leverage that positioning
+
+**Clear cases where it doesn't apply:**
+- **Inspired 2** (battle fervor) doesn't grant Boon to recalling ancient lore
+- **Shielded 2** (magical barrier) doesn't grant Boon to climbing or social rolls
+- **Flight 2** doesn't grant positioning advantage when fighting grounded enemies on flat terrain
+
+**When in doubt, apply it.** The player gains +1 Boon now, and the Buff ticks down one action sooner.
+
+---
+
+#### Multiple Buffs and Afflictions
+
+**Multiple Buffs stack** — each granting its own +1 Boon. You can have Inspired 2, Shielded 2, and Flight 2 simultaneously — that's +3 Boons total if all three apply to the same roll.
+
+**Buffs and Afflictions can coexist and cancel each other.** If you have Inspired 2 (+1 Boon) and Poisoned 2 (-1 Bane) affecting the same roll, they cancel to net 0 modifiers. **Both mark when used** — the Buff depletes and the Affliction ticks down.
+
+The **±2 pool modifier cap** still applies, so 3 Buffs = +3 Boons worth of benefit, but only **+2d** to your pool.
+
+---
+
+#### Refresh, Not Stack
+
+**The same Buff cannot stack beyond its initial size.** If you're Inspired 2 and would become Inspired again, it **refreshes to Inspired 2** — it doesn't become Inspired 3 or 4.
+
+The fictional justification: you're already riding the high of inspiration; another boost refreshes the duration but doesn't compound it beyond what you're already feeling.
+
+---
+
+#### Common Buff Names
+
+**Offensive:** Inspired, Empowered, Focused, Blessed, Aiming
+
+**Defensive:** Shielded, Warded, Protected, Braced, Fortified
+
+**Positional:** Flight, Invisible, Swift, Enhanced Senses, Enlarged
+
+**Social:** Charming, Intimidating, Commanding, Persuasive
+
+---
+
+#### Gaining Buffs
+
+Buffs come from:
+
+**1. Create Advantage (Defy):** On Success/Conflict, create a Buff 2 for an ally (or yourself). Greater Effect creates Buff 3 OR Broad Effect (multiple allies get Buff 2).
+
+**2. Challenge Moves:** Ally abilities or environmental features may grant Buffs.
+
+**3. Spells and Talents:** Some magical effects or special abilities create Buffs.
+
+---
+
 ## Track Design Summary
 
 **Progress Tracks (Harm/Will/Obstacle)** fill as you succeed → completion means victory.
@@ -366,11 +454,13 @@ A Burden has a **name** (Wounded, Cursed, Haunted), a **size** (1–3 boxes), an
 
 **Stress** fills as you take hits or spend it → completion means Burden-or-Taken-Out.
 
-**Affliction Tracks** fill as you act through them → completion means recovery.
+**Affliction Tracks** fill as you act through them → completion means recovery (negative effects tick down).
 
-**Burden Tracks** fill as recovery conditions are met → completion means recovery.
+**Burden Tracks** fill as recovery conditions are met → completion means recovery (persistent harm heals).
 
-One rule. Five applications. That's the system.
+**Buff Tracks** fill as you use them → completion means depletion (positive effects tick down).
+
+One rule. Six applications. That's the system.
 
 ---
 

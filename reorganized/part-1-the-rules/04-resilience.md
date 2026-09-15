@@ -48,30 +48,20 @@ This chapter explains:
 
 ### Push Yourself
 
-Some Talents require you to Push Yourself, marking 1 Stress to activate powerful effects. When you do, describe how you're pushing beyond your normal limits—digging deep through pain, forcing past exhaustion, or tapping into reserves you didn't know you had.
+**Push Yourself** to activate certain Talents that require it. After using the Talent and resolving any related rolls, mark 1 Stress (unless the Talent waives this cost). Choose your moments wisely.
 
 **You can only Push Yourself once per Action Roll.** If you have multiple Talents that could trigger when you Push Yourself in the current situation, choose one to activate.
 
-Talents that use this mechanic will say "you may Push Yourself" or "when you Push Yourself" in their text.
+When you Push Yourself, describe how you're digging deep—forcing past exhaustion, tapping hidden reserves, or committing everything to this moment.
 
-**Without a relevant Talent, you cannot Push Yourself.** Push Yourself has no baseline effect—it only works through Talents.
+**Without a Talent that uses Push Yourself, you cannot Push Yourself.** Push Yourself has no baseline effect—it exists only to activate specific Talents.
 
 **Example Talents:**
-> **Surge:** When you Clash, you may Push Yourself (mark 1 Stress) to gain +1 Boon and mark 2 progress instead of 1.
+> **Surge:** When you Clash, you may Push Yourself to gain +1 Boon and mark 2 progress instead of 1. (Mark 1 Stress after resolving the roll.)
 
-> **Shadow Step:** When you Defy to hide or move stealthily, you may Push Yourself (mark 1 Stress) to gain +1 Boon and ignore one Complication.
+> **Battleborn [ ] [ ]:** You have 1 Edge in combat. Mark this checkbox to Push Yourself without marking Stress.
 
-**See Chapter 9 for Talents that use Push Yourself.**
-
----
-
-### Teamwork (3+ People)
-
-When 3 or more PCs work together on a single task, one person makes the primary roll. The GM decides who rolls based on the fiction — sometimes the most skilled (lifting a boulder together), sometimes the least skilled (sneaking past guards as a group).
-
-One other character may Create an Opening for the roller (spend 1 Momentum to grant them +1 Boon and +1 Edge). See Chapter 5 for Create an Opening rules.
-
-**Example:** Four PCs lift a portcullis. The Champion (highest Daring) rolls. The Mage spends 1 Momentum to Create an Opening ("I use magic to reduce the weight"), granting the Champion +1 Boon and +1 Edge.
+**See Chapter 9 for complete Talent lists.**
 
 ---
 

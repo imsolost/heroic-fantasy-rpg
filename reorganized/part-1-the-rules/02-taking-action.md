@@ -108,7 +108,7 @@ Set up favorable conditions for yourself or allies, or impose unfavorable condit
 - **Create Advantage:** Costs your action, creates Buff/Affliction tracks, can affect multiple targets with Greater Effect
 - **Assist (Momentum):** Costs 1 Momentum, directly boosts one ally's specific action (+1 Boon +1 Edge), requires positioning and shared risk
 
-See Chapter 3 for Buff and Affliction rules, Chapter 5 for Assist rules, and Chapter 6 for Trait-based Secondary Effects.
+See Chapter 3 for Buff and Affliction rules, Chapter 5 for Assist rules, and Chapter 6 for Trait-based Additional Effects.
 
 ---
 
@@ -460,63 +460,94 @@ For **rare climactic moments**—boss fights, life-or-death decisions, catastrop
 
 **High Stakes raises consequences. Potent raises effects.** Where High Stakes makes failure worse (GM-declared), Potent makes success *bigger*.
 
-Compared to a normal action, a Potent Action can be more intense or broad, create dramatic opportunities, bend the rules, or do anything else that feels incredible — within reason. The most common way to gain access to Potent Actions is through Talents (see Chapter 9).
+Some Talents grant **Potency** — the ability to pull off jaw-dropping feats beyond normal mortal capability (see Chapter 9). Most Potent Talents activate via **Push Yourself** — mark 1 Stress after resolving the roll to gain the following benefits.
 
 ### What Potency Grants
 
-When you perform a Potent Action, you gain all of the following:
+**1. Expanded Possibility** — You may attempt something normally Impossible for your character (roll with 1-2 Banes), OR produce an effect beyond your normal Scale ceiling:
+- **Group action:** Something a team of people could accomplish. Lift a boulder alone, fire a volley of arrows solo, incite mutiny with one speech.
+- **Stretching limits:** Something just beyond normal human limitations. Leap a massive gap, endure dragonfire, tell ridiculous lies with a straight face.
+- **Mystical:** Feats that don't fit above but have similar narrative impact. Befriend a wild tiger, use echoes to trigger a rockslide.
 
-**1. Edge +1** — Ignore 1 Complication (stacks with other Edge sources)
+**2. Free Trait Effect (on Conflict or better)** — If your Potent Action succeeds (Conflict, Success, or Triumph), choose one Trait Effect—**Enhanced Effect**, **Additional Effect**, or **Build Momentum**—without needing a relevant Trait (see Chapter 6 for details on each).
 
-**2. Expanded Possibility** — Potency makes the impossible possible. If the GM would normally rule an action Impossible for this character, Potency makes it attemptable instead — roll with 1-2 Banes. Potency doesn't improve rolls that were already possible — it only unlocks what would otherwise be completely out of reach.
+**On Setback:** Expanded Possibility still applies (you could attempt the action), but there's no Trait Effect since there's no successful outcome.
 
-**3. Narrative permission:** Perform actions beyond normal scope. You can attempt something that would normally require a group of people to accomplish, stretch your capabilities to something just beyond mortal limits, or achieve mystical effects within your domain.
+---
 
-**4. Scale Enhancement** — Choose one dimension of enhancement:
+### Potent + Trait Invocation (Stacking)
 
-| Dimension | What It Does | Example |
-|-----------|--------------|---------|
-| **Heightened Impact** | Amplify quality, overcome resistance | Hold a portcullis alone, bypass magical ward, healing cures supernatural corruption |
-| **Widespread Effect** | Affect larger groups or areas | Strike multiple enemies, inspire an entire crowd, ward covers whole party |
-| **Extended Duration** | Sustain beyond momentary | Barrier lasts entire scene, blessing persists through a battle |
+If your Potent Action also meets Trait invocation requirements (Conflict or better, relevant Trait), you get **two Trait Effects** — one from Potency, one from your Trait. **They must be different:**
 
-The dimension emerges from your intent — describe what you're trying to accomplish, and the GM applies the appropriate enhancement.
+**Valid combinations:**
+- Enhanced (Greater) + Additional Effect
+- Enhanced (Broad) + Build Momentum
+- Additional Effect + Build Momentum
+- Enhanced (Greater) + Enhanced (Broad) *(two different Enhanced choices)*
+
+**Invalid:**
+- Enhanced (Greater) + Enhanced (Greater) *(same choice twice)*
+- Additional + Additional *(can't pick the same effect twice)*
+
+---
 
 ### How It Works
 
-1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress to gain +1 Boon + Talent effect)
-2. **Declare intent:** Describe what you're attempting and which scale dimension you're aiming for
-3. **GM assesses the attempt:** If the GM would normally rule this Impossible, Potency makes it attemptable instead — roll with 1-2 Banes. Otherwise your Boons/Banes are unchanged.
-4. **Roll:** Roll as normal with your +1 Edge (plus the +1 Boon from Push Yourself if your Talent grants it).
-5. **Resolve:** Apply outcome. If Conflict or better with a relevant Trait, invoke for Special Effect as usual.
+1. **Activate:** Trigger the Talent that grants Potency (usually Push Yourself — mark 1 Stress after resolving the roll)
+2. **Declare intent:** Describe what you're attempting ("I hold the collapsing portcullis," "I shield the entire party from dragonfire")
+3. **GM assesses:** If normally Impossible, Potency makes it attemptable with 1-2 Banes. Otherwise Boons/Banes from fiction as usual
+4. **Roll:** Make your Action Roll
+5. **Resolve:** 
+   - On Conflict or better: Choose one Trait Effect from Potency
+   - If you also have a relevant Trait: Choose a second different Trait Effect
+   - On Setback: No Trait Effects (Expanded Possibility already let you attempt it)
+
+---
 
 ### Examples
 
-Many Potent Talents activate via Push Yourself, granting both the Talent's special effect and +1 Boon. (Some Talents grant Potency through other means — in those cases, you get Potency without the Push Boon.)
+**Example 1: Potent without relevant Trait**
 
-**Champion holds a collapsing portcullis (Potent feat of strength):**
-- Normal: Impossible (no one person can hold this)
-- With Potency: Attemptable at 1 Bane + 1 Boon (from Push Yourself Talent, cancels the Bane) + 1 Edge + Heightened Impact (hold it long enough for party to escape)
+> **Champion** uses "Unstoppable Force" Talent (grants Potency) to break down a magically sealed door. Marks 1 Stress, rolls Defy with Daring. Rolls **Conflict**.
+>
+> - GM ruled this Impossible normally (magical seal) → Potency made it attemptable
+> - No relevant Trait for magical doors
+> - **From Potency:** Choose one Trait Effect → picks **Additional Effect** (free Defy to seize control of the room beyond)
+> - **Result:** Break door + immediately charge through and dominate the room + mark 1 Stress (Conflict consequence + Push Yourself cost = 2 Stress total)
 
-**Hunter tracks quarry through rain-washed stone (Potent feat of tracking):**
-- Normal: Impossible (rain destroyed all visible tracks — no mortal tracker could follow this)
-- With Potency: Attemptable at 1 Bane + 1 Boon (from Push Yourself Talent, cancels the Bane) + 1 Edge + Heightened Impact (learn details no normal tracker could: how injured they are, how long ago exactly)
+---
 
-**Sage overwhelms a magical ward (Potent Spell):**
-- Normal: Possible, but the Warded Complication would reduce the outcome
-- With Potency: 1 Boon (from Push Yourself Talent) + 1 Edge (ignores ward's Complication) + Heightened Impact (blast through completely)
+**Example 2: Potent + relevant Trait (double effect)**
 
-**Vanguard shields the entire party from dragonfire (Potent feat with shield):**
-- Normal: Could protect self only
-- With Potency: 1 Boon (from Push Yourself Talent) + 1 Edge + Widespread Effect (cover all nearby allies)
+> **Champion** uses "Unstoppable Force" and Clashes armored knight. Marks 1 Stress, rolls **Conflict**. "War-Hardened" Trait applies.
+>
+> - **From Potency:** Choose one Trait Effect → picks **Enhanced Effect (Greater)** (mark 2 ticks instead of 1)
+> - **From Trait:** Choose different Trait Effect → picks **Additional Effect** (free Defy to shove knight back)
+> - **Result:** Mark 2 ticks + shove enemy backward + mark 1 Stress (Conflict consequence + Push Yourself = 2 Stress total)
 
-### Potency and Special Effects
+---
 
-When a Potent Action also triggers a Trait invocation (Conflict or better, relevant Trait), Potency amplifies Special Effects:
+**Example 3: Potent for group effect + support**
 
-- **Enhanced Effect (Broad) + Potency:** Small group → Large group or wide area
-- **Enhanced Effect (Greater) + Potency:** These operate on different axes and don't compound for tick-marking. Greater Effect adds ticks; Potency's Edge separately helps you land actions against defended foes
-- **Secondary Effect + Potency:** The secondary Defy also benefits from Potency's scale
+> **Mage** uses Potent Spell to shield the party from dragonfire. Marks 1 Stress, rolls Defy with Spirit. Rolls **Success**. "Arcane Prodigy" Trait applies.
+>
+> - GM ruled this Impossible normally (can only shield self) → Potency made it attemptable
+> - **From Potency:** Choose one → picks **Enhanced Effect (Broad)** (shield covers all nearby allies instead of one)
+> - **From Trait:** Choose different → picks **Build Momentum** (generate 1 Momentum for the party)
+> - **Result:** Party-wide shield + 1 Momentum generated + mark 1 Stress (Push Yourself cost only, Success has no consequence)
+
+---
+
+**Example 4: Potent tracking (Expanded Possibility in action)**
+
+> **Hunter** uses Potent feat to track a quarry through rain-washed stone. Marks 1 Stress, rolls Sense with Grace. Rolls **Conflict**.
+>
+> - GM ruled this Impossible normally (rain destroyed all visible tracks — no mortal tracker could follow this)
+> - Potency made it attemptable at 1 Bane
+> - "Master Tracker" Trait applies
+> - **From Potency:** Choose one → picks **Enhanced Effect (Greater)** (ask 1 additional question beyond normal Sense)
+> - **From Trait:** Choose different → picks **Build Momentum** (grant 1 Momentum to self)
+> - **Result:** Track quarry + ask 3 questions (2 base + 1 Greater) + 1 Momentum + mark 1 Stress (Conflict consequence + Push Yourself = 2 Stress)
 
 ---
 

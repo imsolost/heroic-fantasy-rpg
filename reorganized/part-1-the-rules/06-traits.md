@@ -6,7 +6,7 @@ Traits are evocative narrative descriptors defining who your character is — wh
 - What Traits are and what they do
 - The three Trait types (Origin, Profession, Personal)
 - When you can invoke a Trait
-- The three Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
+- The three Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
 - Trait breadth guidance
 
 ---
@@ -57,15 +57,15 @@ Your effect is unusually potent, extensive, durable, or difficult to counter.
 
 ---
 
-### 2. Secondary Effect
+### 2. Additional Effect
 
 Gain a **free successful Defy action** related to your initial action. These are the same categories as Defy's intent options in Chapter 2.
 
-The secondary action must flow from what you just did — it can't be random or unrelated.
+The additional action must flow from what you just did — it can't be random or unrelated.
 
-**What a Secondary Defy can accomplish:**
+**What an Additional Defy can accomplish:**
 
-| Secondary Defy | What It Does | Examples |
+| Additional Defy | What It Does | Examples |
 |----------------|--------------|----------|
 | **Take Something** | Remove, steal, extract | Disarm weapon, pickpocket, extract secret |
 | **Seize Control** | Move, restrain, occupy | Knockdown, grapple, shove into hazard, block path |
@@ -73,11 +73,11 @@ The secondary action must flow from what you just did — it can't be random or 
 | **Change Situation** | Alter fiction beyond tactics | Shift relationship, alter environment, establish rapport |
 | **Overcome Obstacle** | Progress toward overcoming | Mark 1 tick on an Obstacle track |
 
-**In play:** Clash the knight → Secondary: free Defy to disarm him (Take Something). The secondary flows from the primary — the disarm happens *because* your strike created the opening.
+**In play:** Clash the knight → Additional: free Defy to disarm him (Take Something). The additional action flows from the primary — the disarm happens *because* your strike created the opening.
 
 **Create Advantage specifics:**
 - Creates **Buff 1** for ally [ ] (grants +1 Boon, lasts 1 use) OR **Affliction 1** for enemy [ ] (PCs gain +1 Boon on one action against them)
-- Smaller than Defy's Create Advantage (which creates Buff 2 or Affliction 1-3) because this is a free secondary effect
+- Smaller than Defy's Create Advantage (which creates Buff 2 or Affliction 1-3) because this is a free additional effect
 - This is distinct from Create an Opening (Momentum spend), which grants BOTH 1 Boon + 1 Edge simultaneously
 
 ---
@@ -177,7 +177,7 @@ The player succeeded on the Know roll (they still get their answer), but no Spec
 
 **Traits reward engagement with fiction.** You don't just roll dice — you describe actions through the lens of who your character is, and the game rewards that with mechanical potency.
 
-**Three choices create meaningful decisions.** Greater Effect maximizes immediate output. Secondary Effect creates tactical flexibility. Build Momentum invests in future actions. Different situations demand different choices.
+**Three choices create meaningful decisions.** Enhanced Effect maximizes immediate output. Additional Effect creates tactical flexibility. Build Momentum invests in future actions. Different situations demand different choices.
 
 **No cost preserves the reward.** Traits are free because they already have a gate — narrative relevance + Conflict or better. Adding a cost on top would make them feel punishing rather than rewarding.
 

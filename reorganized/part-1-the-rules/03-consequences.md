@@ -608,6 +608,6 @@ Now you understand outcomes and consequences. The next chapters cover the resour
 
 - **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
 - **Chapter 5: Momentum** — How to earn and spend Momentum
-- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
+- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
 
 **For complete Challenge design and Complication rules, see Chapter 13 (Part 3: Running the Game).**

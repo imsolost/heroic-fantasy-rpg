@@ -229,6 +229,6 @@ Your Drive is both your motivation (what pulls you *forward*) and your vulnerabi
 
 Now you understand the proactive resources (Momentum) alongside the reactive ones (Stress, Chapter 4). The final rules chapter covers:
 
-- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Secondary Effect, Build Momentum)
+- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
 
 **Traits are how you invoke Build Momentum, so Chapter 6 completes the Momentum cycle.**

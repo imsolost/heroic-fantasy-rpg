@@ -565,7 +565,7 @@ When a Trait is **narratively relevant** to your action and you roll **Conflict 
 
 ---
 
-### Secondary Effect
+### Additional Effect
 
 **Gain a free Defy action** related to your initial action. Choose one:
 - **Take Something** from the scene or target
@@ -573,7 +573,7 @@ When a Trait is **narratively relevant** to your action and you roll **Conflict 
 - **Create Advantage** (grant yourself or an ally 1 Boon for the scene)
 - **Change Situation** (alter the environment or circumstances)
 
-**Example:** Your Profession *Mercenary Veteran* is relevant when battling bandits. You roll Success on Clash (mark Harm). Invoke your Trait for Secondary Effect: *Seize Control* of the fight by forcing them into a choke point.
+**Example:** Your Profession *Mercenary Veteran* is relevant when battling bandits. You roll Success on Clash (mark Harm). Invoke your Trait for Additional Effect: *Seize Control* of the fight by forcing them into a choke point.
 
 ---
 

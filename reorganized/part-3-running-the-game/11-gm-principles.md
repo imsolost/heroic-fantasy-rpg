@@ -127,6 +127,55 @@ Weigh capability, tools, and circumstances together, then tell the player direct
 
 ---
 
+### Calibration Framework (Informal Tiers)
+
+**These aren't strict tiers — they're calibration helpers.** Use them to gut-check your Boon/Bane assessment, not as rules to memorize.
+
+**The 5-Point Scale:**
+
+| Tier | When to Use | Effect |
+|------|-------------|--------|
+| **Certain** | Success is obvious given who they are and what they're facing | No roll — narrate success |
+| **Favorable** | Circumstances clearly favor them (good tools, positioning, preparation) | Roll with 1-2 Boons |
+| **Standard** | Normal attempt for this character in this situation | Roll with base pool (no modifier) |
+| **Unfavorable** | Circumstances hinder them (missing tools, poor positioning, rushed) | Roll with 1-2 Banes |
+| **Impossible** | Fundamentally lacks capability or breaks established fiction | Can't attempt (or requires Potency) |
+
+**How to Assess (Three Layers):**
+
+1. **Who is this character?** (Traits, Calling, Expertise, training)
+2. **What do they have?** (Tools, preparation, information, positioning, allies)
+3. **What's the situation?** (Opportunities, obstacles, time pressure, stakes)
+
+**Assess by feel, not calculation:** Don't add up bonuses. Just ask: "Does this feel easy, hard, or normal for this character in this situation?" Then translate that feeling to Boons/Banes.
+
+**Examples:**
+
+> **Champion climbing a cliff:**
+> - Who: Trained warrior, but not a specialist climber
+> - What: Has rope and decent gear
+> - Situation: Cliff is wet from rain, party is being chased
+>
+> **GM gut check:** Feels harder than normal → **Unfavorable** → 1-2 Banes
+
+> **Rogue picking a simple lock:**
+> - Who: Professional thief, this is core competency
+> - What: Has lockpicks, no time pressure
+> - Situation: Simple lock, nobody watching
+>
+> **GM gut check:** Trivially easy for this character → **Certain** → No roll, they succeed
+
+> **Mage trying to recall obscure lore about demon-binding:**
+> - Who: Arcane scholar, relevant Trait
+> - What: Has access to their grimoire notes
+> - Situation: Quiet moment, can research
+>
+> **GM gut check:** Should know this, has resources → **Favorable** → 1 Boon
+
+**Tools of the Trade:** Characters have the basic gear appropriate to their background and calling. A thief has lockpicks, a warrior has weapons and armor, a mage has spell components. Don't track mundane gear unless scarcity is dramatically relevant. Ask "would this character not have this?" rather than "did they specifically buy this?"
+
+---
+
 ## One Roll Per Dramatic Question
 
 One of the most common mistakes in fiction-first games: breaking a single dramatic moment into multiple micro-rolls that drain tension and create attrition spirals.

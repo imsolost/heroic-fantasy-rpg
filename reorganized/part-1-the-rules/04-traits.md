@@ -1,4 +1,4 @@
-# Chapter 6: Traits
+# Chapter 4: Traits
 
 Traits are evocative narrative descriptors defining who your character is — where they come from, what they do, and who they are at their core. When a Trait is relevant to what you're doing, you gain a **Special Effect** that amplifies your action beyond its normal result.
 
@@ -187,13 +187,9 @@ The player succeeded on the Know roll (they still get their answer), but no Spec
 
 ## What's Next
 
-**This completes Part 1: The Rules.** You now know everything about how Archon's core system works:
+Now you understand how to amplify your actions with Traits. The next chapters cover the resources that fuel heroic action:
 
-- Chapter 1: The Action Roll (dice mechanics)
-- Chapter 2: Taking Action (Actions, Approaches, circumstantial Boons/Banes)
-- Chapter 3: Outcomes & Consequences (what happens after the roll)
-- Chapter 4: Resilience (Stress, Conditions, Burdens)
-- Chapter 5: Momentum (earning and spending)
-- Chapter 6: Traits (Special Effects)
+- **Chapter 5: Resilience** — Stress, Afflictions, Burdens, Push Yourself (which grants Potency and lets you choose Trait Effects without a relevant Trait)
+- **Chapter 6: Momentum** — How to earn Momentum (including Build Momentum from Traits) and spend it tactically
 
-**Next:** Part 2 (Your Character) covers character creation, advancement, Callings, and Spellcasting — building on the rules you now understand.
+**Together, Traits + Resilience + Momentum form the core resource economy of heroic play.**

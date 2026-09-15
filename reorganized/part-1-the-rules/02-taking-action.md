@@ -108,7 +108,7 @@ Set up favorable conditions for yourself or allies, or impose unfavorable condit
 - **Create Advantage:** Costs your action, creates Buff/Affliction tracks, can affect multiple targets with Greater Effect
 - **Assist (Momentum):** Costs 1 Momentum, directly boosts one ally's specific action (+1 Boon +1 Edge), requires positioning and shared risk
 
-See Chapter 3 for Buff and Affliction rules, Chapter 5 for Assist rules, and Chapter 6 for Trait-based Additional Effects.
+See Chapter 3 for Buff and Affliction rules, Chapter 6 for Assist rules, and Chapter 4 for Trait-based Additional Effects.
 
 ---
 
@@ -469,7 +469,7 @@ Some Talents grant **Potency** — the ability to pull off jaw-dropping feats be
 - **Stretching limits:** Something just beyond normal human limitations. Leap a massive gap, endure dragonfire, tell ridiculous lies with a straight face.
 - **Mystical:** Feats that don't fit above but have similar narrative impact. Befriend a wild tiger, use echoes to trigger a rockslide.
 
-**2. Free Trait Effect (on Conflict or better)** — If your Potent Action succeeds (Conflict, Success, or Triumph), choose one Trait Effect—**Enhanced Effect**, **Additional Effect**, or **Build Momentum**—without needing a relevant Trait (see Chapter 6 for details on each).
+**2. Free Trait Effect (on Conflict or better)** — If your Potent Action succeeds (Conflict, Success, or Triumph), choose one Trait Effect—**Enhanced Effect**, **Additional Effect**, or **Build Momentum**—without needing a relevant Trait (see Chapter 4 for details on each).
 
 **On Setback:** Expanded Possibility still applies (you could attempt the action), but there's no Trait Effect since there's no successful outcome.
 
@@ -600,8 +600,8 @@ Most RPGs have either:
 Now you know what Actions you can take, how Approaches shape them, and how circumstances determine difficulty. The next chapters cover what happens after the roll:
 
 - **Chapter 3: Outcomes & Consequences** — What the four outcomes mean, how Complications work, Progress tracks
-- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
-- **Chapter 5: Momentum** — How to earn and spend Momentum
-- **Chapter 6: Traits** — How Traits grant Special Effects
+- **Chapter 4: Traits** — How Traits grant Special Effects to amplify your successes
+- **Chapter 5: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
+- **Chapter 6: Momentum** — How to earn and spend Momentum
 
 **For GM guidance on when to roll and assessing circumstances, see Chapter 11.**

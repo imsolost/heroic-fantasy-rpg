@@ -241,7 +241,7 @@ These measure advancement toward overcoming a Challenge. When you succeed on a r
 
 **Campaign-scale** (optional): 10-12 boxes for multi-session objectives
 
-**Enhanced Effect** (from Trait invocation, see Chapter 6) marks **1 additional box** on any Progress Track — 2 boxes total instead of 1.
+**Enhanced Effect** (from Trait invocation, see Chapter 4) marks **1 additional box** on any Progress Track — 2 boxes total instead of 1.
 
 *(Enhanced Effect only applies to Progress Tracks because it comes from succeeding on a roll — the same condition that marks these tracks in the first place.)*
 
@@ -296,7 +296,7 @@ Mark Stress when:
 
 **Recovery:** Stress clears fully on Short Rest (1 hour, safe location) or Long Rest (overnight, safe location).
 
-**See Chapter 4 for complete Stress rules, Push Yourself (Talents), and Stress Overflow.**
+**See Chapter 5 for complete Stress rules, Push Yourself (Talents), and Stress Overflow.**
 
 ---
 
@@ -332,7 +332,7 @@ An Affliction has a **name** (Poisoned, Frightened, Blinded) and a **size** (1�
 
 **Afflictions always clear on Short Rest**, regardless of how many boxes remain. Fighting through an Affliction accelerates its clearance, but resting for an hour always works.
 
-**See Chapter 4 for complete Affliction rules and common Affliction names.**
+**See Chapter 5 for complete Affliction rules and common Affliction names.**
 
 ---
 
@@ -363,7 +363,7 @@ A Burden has a **name** (Wounded, Cursed, Haunted), a **size** (1–3 boxes), an
 - **Severe Consequences (Disaster):** GM may assign a Burden alongside other catastrophic effects.
 - **Death Moves:** When significant enemies are defeated, they may leave a lasting mark (size 2 by default).
 
-**See Chapter 4 for complete Burden rules and recovery examples.**
+**See Chapter 5 for complete Burden rules and recovery examples.**
 
 ---
 
@@ -468,7 +468,8 @@ One rule. Six applications. That's the system.
 
 Now that you understand how Tracks work:
 
-- **Chapter 4: Resilience** covers Stress, Afflictions, and Burdens in detail — including Push Yourself (Talents), Taken Out, and recovery timing
+- **Chapter 4: Traits** covers how to amplify your successes with Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
+- **Chapter 5: Resilience** covers Stress, Afflictions, and Burdens in detail — including Push Yourself (Talents), Taken Out, and recovery timing
 - **Chapter 13: Challenges** covers designing Harm/Will/Obstacle/Countdown Tracks for enemies and obstacles
 - **Chapter 14: GM Tools** covers when and how to advance Countdown Tracks
 
@@ -604,10 +605,10 @@ Significant enemies have their own specific consequences based on their nature. 
 
 ## What's Next
 
-Now you understand outcomes and consequences. The next chapters cover the resources you use to handle consequences:
+Now you understand outcomes and consequences. The next chapters cover the resources you use to amplify and handle consequences:
 
-- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
-- **Chapter 5: Momentum** — How to earn and spend Momentum
-- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
+- **Chapter 4: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
+- **Chapter 5: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
+- **Chapter 6: Momentum** — How to earn and spend Momentum
 
 **For complete Challenge design and Complication rules, see Chapter 13 (Part 3: Running the Game).**

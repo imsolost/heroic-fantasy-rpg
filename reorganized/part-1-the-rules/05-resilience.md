@@ -1,4 +1,4 @@
-# Chapter 4: Resilience
+# Chapter 5: Resilience
 
 Heroes take hits — physical blows, emotional strain, magical backlash, exhaustion. Chapter 3 taught you how Tracks work. This chapter covers how the three **Character Tracks** work in play.
 
@@ -355,7 +355,7 @@ Afflictions remain relevant within a scene but don't carry over unnecessarily be
 
 Now you understand how heroes absorb punishment and recover. The next chapters cover the proactive resources:
 
-- **Chapter 5: Momentum** — How to earn and spend Momentum (Create an Opening, Seize Spotlight)
-- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
+- **Chapter 6: Momentum** — How to earn and spend Momentum (Create an Opening, Seize Spotlight)
+- **Chapter 4: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
 
 **For Consequence details and when Stress/Afflictions are inflicted, see Chapter 3 (Outcomes & Consequences).**

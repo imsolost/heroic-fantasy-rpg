@@ -53,8 +53,8 @@ Your **Approach** determines how many dice you start with. Approaches are rated 
 
 **Common Boon sources:**
 - **Favorable circumstances:** The GM grants 1 Boon (or 2 in exceptional circumstances) when positioning clearly favors you — high ground, flanking, surprise, ideal tools - see Chapter 2
-- **Create an Opening:** Spend 1 Momentum to gain +1 Boon + 1 Edge (for yourself or an ally) - see Chapter 5
-- **Push Yourself:** Activate Talents (mark 1 Stress to gain +1 Boon + Talent effect) - see Chapter 4
+- **Create an Opening:** Spend 1 Momentum to gain +1 Boon + 1 Edge (for yourself or an ally) - see Chapter 6
+- **Push Yourself:** Activate Talents (mark 1 Stress to gain +1 Boon + Talent effect) - see Chapter 5
 - **Talents:** Some Talents grant Boons in specific situations - see Chapter 9
 
 **Maximum: +2 Boons**
@@ -75,8 +75,8 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 
 **Common Bane sources:**
 - **Unfavorable circumstances:** The GM applies 1-2 Banes when circumstances hinder you — missing tools, poor footing, hostile weather, stretching your capability - see Chapter 2
-- **Conditions:** Each active Condition applies 1 Bane to relevant actions - see Chapter 4
-- **Burdens:** Each Burden applies 1 Bane to relevant actions (same as Conditions) - see Chapter 4
+- **Conditions:** Each active Condition applies 1 Bane to relevant actions - see Chapter 5
+- **Burdens:** Each Burden applies 1 Bane to relevant actions (same as Conditions) - see Chapter 5
 
 **Maximum: -2 Banes**
 
@@ -161,7 +161,7 @@ Your highest die determines one of four outcomes:
 **Heroic success.**
 
 - You accomplish your intent completely
-- **Gain 1 Momentum** (see Chapter 5)
+- **Gain 1 Momentum** (see Chapter 6)
 - **Ignore all Complications** (see Chapter 3)
 
 **You need to actually roll two 6s**—Triumph cannot be created through Expertise, Edge, or other modifiers. Those can improve your outcome up to Success, but Triumph requires the raw roll.
@@ -235,7 +235,7 @@ The GM chooses an appropriate Consequence from the situation. **See Chapter 3 fo
 **1 Edge = Ignore 1 Complication**
 
 **How to gain Edge:**
-- **Create an Opening:** Spend 1 Momentum for 1 Boon + **1 Edge** (see Chapter 5)
+- **Create an Opening:** Spend 1 Momentum for 1 Boon + **1 Edge** (see Chapter 6)
 - **Some Talents:** Grant Edge in specific circumstances
 
 **How Edge works:**
@@ -428,8 +428,8 @@ Now that you understand how the Action Roll works, the next chapters add context
 
 - **Chapter 2: Taking Action** — What the five Actions do, how Approaches work, how circumstances become Boons and Banes
 - **Chapter 3: Outcomes & Consequences** — What happens after the Action Roll, how Complications work, Progress tracks
-- **Chapter 4: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
-- **Chapter 5: Momentum** — How to earn and spend Momentum
-- **Chapter 6: Traits** — How Traits grant Special Effects
+- **Chapter 4: Traits** — How Traits grant Special Effects to amplify successes
+- **Chapter 5: Resilience** — Stress, Afflictions, Burdens, Push Yourself (Talents)
+- **Chapter 6: Momentum** — How to earn and spend Momentum
 
 But if you remember this chapter—the Action Roll is your core tool for resolving uncertainty.

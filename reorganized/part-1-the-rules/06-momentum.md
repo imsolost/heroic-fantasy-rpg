@@ -1,4 +1,4 @@
-# Chapter 5: Momentum
+# Chapter 6: Momentum
 
 Momentum represents surges of heroic energy — moments where your character is in the zone, riding high on success, or prepared to seize the moment. It's both a reward for rolling well and a tactical resource you spend to push through enemy defenses or shrug off consequences.
 
@@ -36,7 +36,7 @@ When you invoke a Trait on Conflict or better, you may choose **Build Momentum**
 
 This lets you generate Momentum even without rolling Triumph. It's especially useful for support-oriented characters who set up allies rather than dealing damage themselves.
 
-**See Chapter 6 (Traits) for complete Special Effect rules.**
+**See Chapter 4 (Traits) for complete Special Effect rules.**
 
 ### 3. Invoke Your Drive
 
@@ -137,7 +137,7 @@ Not all teamwork requires Momentum spending. Here are alternative ways to suppor
 - Grant yourself or an ally 1 Momentum
 - They can spend it to Create an Opening for themselves (safe) or other uses
 - **Trade-off:** Requires relevant Trait and good roll, indirect support
-- See Chapter 6 for complete Trait rules
+- See Chapter 4 for complete Trait rules
 
 **Group Actions (3+ People):**
 When multiple PCs work together on a single task (lifting a portcullis, sneaking as a group, rowing a boat), the GM decides whether they roll individually or consolidate to a single roll.
@@ -227,8 +227,13 @@ Your Drive is both your motivation (what pulls you *forward*) and your vulnerabi
 
 ## What's Next
 
-Now you understand the proactive resources (Momentum) alongside the reactive ones (Stress, Chapter 4). The final rules chapter covers:
+**This completes Part 1: The Rules.** You now understand the full action resolution system:
 
-- **Chapter 6: Traits** — How Traits grant Special Effects (Enhanced Effect, Additional Effect, Build Momentum)
+- How to roll (Chapter 1)
+- What actions you can take (Chapter 2)
+- What happens after the roll (Chapter 3)
+- How to amplify your successes (Chapter 4: Traits)
+- How to absorb consequences (Chapter 5: Resilience)
+- How to seize tactical advantage (Chapter 6: Momentum)
 
-**Traits are how you invoke Build Momentum, so Chapter 6 completes the Momentum cycle.**
+**Next:** Part 2 (Your Character) covers character creation, advancement, Callings, and Spellcasting — building on the rules you now understand.

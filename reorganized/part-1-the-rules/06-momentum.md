@@ -114,7 +114,6 @@ When you Assist, describe how you're helping: shouting tactical advice, creating
 Create an Opening is more powerful than other ways to gain Boons:
 
 - **Circumstantial Boons** (GM grants) = 1 Boon
-- **Push Yourself** (via Talent, 1 Stress) = 1 Boon + Talent effect
 - **Create an Opening** (1 Momentum) = 1 Boon + 1 Edge
 
 Create an Opening is strictly better for pure offense, but costs Momentum (which is harder to earn than Stress). When Assisting, you also share the risk — making it a genuine commitment, not just spending a resource. Momentum is your primary proactive resource for tactical advantages.

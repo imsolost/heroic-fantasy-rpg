@@ -18,7 +18,7 @@ Talents use a small vocabulary of mechanical building blocks. Once you know thes
 
 **Expertise:** Converts a final outcome of Setback → Conflict within a specific domain. You still succeed (with a Minor Consequence) where others would fail outright. See Chapter 1.
 
-**Push Yourself:** Mark 1 Stress to activate the Talent's extraordinary effect. It's **one spend doing double duty**: that single Stress buys both the normal Push benefit (1 Boon) *and* the Talent's special effect — never two separate spends. The limit runs the other way: **one Talent per Push**, so even with two applicable Push Talents, one Stress activates only one of them.
+**Push Yourself:** Mark 1 Stress to activate the Talent's effect. Push Yourself has no baseline benefit — it exists only to activate Talents that require it. After using the Talent and resolving any related rolls, mark 1 Stress (unless the Talent waives this cost). **One Talent per Push**: even with multiple applicable Push Talents, one Stress activates only one of them.
 
 **Potent:** An extraordinary effect that exceeds normal success — grants Edge +1, can unlock otherwise impossible actions, and enhances scale along one dimension (Heightened Impact, Widespread Effect, or Extended Duration). See **Chapter 2: Potent Actions** for the complete framework.
 

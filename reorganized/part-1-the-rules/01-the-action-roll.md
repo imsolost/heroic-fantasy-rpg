@@ -54,7 +54,7 @@ Your **Approach** determines how many dice you start with. Approaches are rated 
 **Common Boon sources:**
 - **Favorable circumstances:** The GM grants 1 Boon (or 2 in exceptional circumstances) when positioning clearly favors you — high ground, flanking, surprise, ideal tools - see Chapter 2
 - **Create an Opening:** Spend 1 Momentum to gain +1 Boon + 1 Edge (for yourself or an ally) - see Chapter 6
-- **Push Yourself:** Activate Talents (mark 1 Stress to gain +1 Boon + Talent effect) - see Chapter 5
+- **Push Yourself:** Activate certain Talents (mark 1 Stress to gain Talent's effect) - see Chapter 5
 - **Talents:** Some Talents grant Boons in specific situations - see Chapter 9
 
 **Maximum: +2 Boons**
@@ -64,7 +64,7 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 **Example:**
 - High ground over your enemy (+1 Boon)
 - Ally Creates an Opening for you (+1 Boon + 1 Edge, costs their Momentum)
-- You could Push Yourself via a Talent (+1 Boon + Talent effect)
+- You have a Talent that grants +1 Boon in this situation
 - **Total: +2 Boons** (third Boon would be wasted due to cap)
 
 ---
@@ -106,7 +106,7 @@ Multiple Bane sources stack, but you can lose **at most -2 dice from Banes** aft
 
 **Example 3:**
 - No climbing gear on a rain-slick cliff: -2 Banes
-- You Push Yourself via Talent: +1 Boon + Talent effect
+- You activate a Talent that grants +1 Boon
 - Ally Creates an Opening: +1 Boon + 1 Edge
 - Wounded: -1 Bane
 - **Calculation:** 2 Boons - 3 Banes = -1 Bane

@@ -133,7 +133,7 @@ Overcome mental, physical, or supernatural threats targeting you — resisting p
 You overcome the threat. If there's a track involved (like a poison slowly killing you), mark progress. If it's an immediate threat (dragon's frightful presence, mind control attempt), you shrug it off.
 
 **Examples:**
-- "I resist the dragon's frightful presence!" → On success, no Condition imposed
+- "I resist the dragon's frightful presence!" → On success, no Affliction imposed
 - "I endure the poison coursing through my veins!" → On success, mark progress toward overcoming it
 - "I resist the demon's mental compulsion!" → On success, you're not controlled
 - "I push through the exhaustion and keep running!" → On success, you avoid marking Stress from fatigue

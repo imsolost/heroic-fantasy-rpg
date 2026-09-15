@@ -75,8 +75,8 @@ Multiple Boon sources stack, but you can gain **at most +2 dice from Boons** aft
 
 **Common Bane sources:**
 - **Unfavorable circumstances:** The GM applies 1-2 Banes when circumstances hinder you — missing tools, poor footing, hostile weather, stretching your capability - see Chapter 2
-- **Conditions:** Each active Condition applies 1 Bane to relevant actions - see Chapter 5
-- **Burdens:** Each Burden applies 1 Bane to relevant actions (same as Conditions) - see Chapter 5
+- **Afflictions:** Each active Affliction applies 1 Bane to relevant actions - see Chapter 5
+- **Burdens:** Each Burden applies 1 Bane to relevant actions (same as Afflictions) - see Chapter 5
 
 **Maximum: -2 Banes**
 
@@ -95,13 +95,13 @@ Multiple Bane sources stack, but you can lose **at most -2 dice from Banes** aft
 
 **Example 1:**
 - Flanking with an ally: +1 Boon
-- Wounded Condition: -1 Bane
+- Wounded Affliction: -1 Bane
 - **Net: 0 modifier** (cancel out)
 
 **Example 2:**
 - Flanking with an ally: +1 Boon
 - Ally Creates an Opening: +1 Boon + 1 Edge
-- Wounded Condition: -1 Bane
+- Wounded Affliction: -1 Bane
 - **Net: +1 Boon** (2 Boons - 1 Bane = 1 Boon remaining, plus 1 Edge)
 
 **Example 3:**
@@ -258,17 +258,18 @@ The GM chooses an appropriate Consequence from the situation. **See Chapter 3 fo
 
 **See Chapter 3 for complete Complication rules.**
 
-### Don't Confuse the Three C's
+### Complications and Consequences — Quick Reminder
 
-These three terms sound alike but do different things at different times:
+These two terms are used throughout the game:
 
 | Term | What It Is | When It Applies |
 |------|-----------|-----------------|
 | **Complication** | An enemy tag that reduces your outcome by 1 tier (e.g., Resilient, Deadly) | After you roll (applied to your outcome) |
-| **Consequence** | The fallout from your outcome — Minor, Major, or Severe | After your final outcome is determined |
-| **Condition** | A temporary impairment on you that applies 1 Bane (e.g., Poisoned 2, Frightened 1) | Before you roll (affects your dice pool) |
+| **Consequence** | The fallout from your outcome — Minor, Major, or Severe (Stress, Afflictions, narrative setback) | After your final outcome is determined |
 
-**Timing mnemonic:** Conditions affect your dice *before* you roll. Complications affect your outcome *after* you roll. Consequences are what happens as a result.
+**How they interact:** You face **Complications** that worsen your outcome, which determines your **Consequence** tier.
+
+**Timing note:** Afflictions (temporary impairments like Poisoned, Frightened) apply Banes *before* you roll, affecting your dice pool. Complications apply *after* you roll, affecting your outcome.
 
 ---
 
@@ -314,8 +315,8 @@ Stacking both isn't redundant: Edge is about the *enemy* not degrading your resu
 
 **See Chapter 9 for Calling-specific Expertise.**
 
-**Combined Example — Conditions, Bane Cap, and Expertise:**
-- You're **Poisoned 2** and **Frightened 1** — two active Conditions, each applying 1 Bane (2 Banes total, within the ±2 cap)
+**Combined Example — Afflictions, Bane Cap, and Expertise:**
+- You're **Poisoned 2** and **Frightened 1** — two active Afflictions, each applying 1 Bane (2 Banes total, within the ±2 cap)
 - Base pool: Clash 3 (Approach) + Action, minus 2 Banes = rolling 1 die
 - You roll a 3 — raw outcome: **Setback**
 - No Complications on this enemy, so no reductions
@@ -342,7 +343,7 @@ Here's how all the pieces fit together when you make an Action Roll:
 3. **Build Dice Pool** (Player)
    - Start with Approach (e.g., Daring 3 = 3 dice)
    - Add Boons (high ground = +1, total 4 dice)
-   - Remove Banes (Wounded Condition = -1, total 3 dice)
+   - Remove Banes (Wounded Affliction = -1, total 3 dice)
    - Apply Boon/Bane cap (already within ±2)
 
 4. **Roll Dice** (Player)
@@ -410,7 +411,7 @@ Understanding the odds helps you make informed tactical decisions.
 
 **Dice pools feel satisfying.** Rolling a handful of dice is tactile and visual. More dice = clear advantage.
 
-**Highest die is fast.** No math, no adding. Roll, glance, done. Action Rolls resolve quickly. As characters grow, they develop resource layers (Stress, Conditions, Momentum, Talent checkboxes) — but the *resolution* itself stays this simple throughout.
+**Highest die is fast.** No math, no adding. Roll, glance, done. Action Rolls resolve quickly. As characters grow, they develop resource layers (Stress, Afflictions, Momentum, Talent checkboxes) — but the *resolution* itself stays this simple throughout.
 
 **Four outcomes create nuance.** Success/failure is binary. The Action Roll gives you four shades of outcome: Triumph/Success/Conflict/Setback.
 

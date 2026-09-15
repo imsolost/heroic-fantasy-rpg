@@ -210,7 +210,7 @@ A domain grants only what falls within its purview — anything belonging to a d
 |-----------|------|--------|-------|------------|
 | **Cantrip** | Ease aches | Speak with animals | Sense dying | Ward small area |
 | **Spell** | Clear 1 Stress / cure disease | Command animals, call vines | Speak with dead, turn undead | Create barriers, bless allies |
-| **Potent** | Clear 2 Stress / remove Condition | Transform into animal, call weather | Raise temporary servant | Consecrate ground, permanent wards |
+| **Potent** | Clear 2 Stress / remove Affliction | Transform into animal, call weather | Raise temporary servant | Consecrate ground, permanent wards |
 
 | Magnitude | Battle | Prophecy | Storms |
 |-----------|--------|----------|--------|
@@ -335,12 +335,12 @@ A Heroic Scale Sage cannot achieve Divine Scale effects simply because they wiel
 
 Spirit Sphere spells (Sage) or Life Domain (Mystic) can heal injuries and restore vitality.
 
-**Standard Spell:** Clear 1 Stress OR reduce a Condition by 1 tier
+**Standard Spell:** Clear 1 Stress OR reduce an Affliction by 1 tier
 
-**Potent Spell:** Clear 2 Stress OR remove a Condition entirely
+**Potent Spell:** Clear 2 Stress OR remove an Affliction entirely
 
 **On Conflict (healing succeeds, but...):** Prefer narrative consequences over marking Stress:
-- Exhaustion (target gains Exhausted 1 Condition)
+- Exhaustion (target gains Exhausted 1 Affliction)
 - Takes extra time, drawing attention
 - Leaves a glowing magical mark
 - Draws unwanted spiritual attention
@@ -522,7 +522,7 @@ Rituals should always have narrative cost, even on success:
 ## Design Notes
 
 **Why risk-based instead of resource-based?**
-Magic uses the same resolution as all other actions. Casters don't track spell slots or mana — they can always cast, but with risk. Stress and Conditions provide natural limiting factors without artificial per-day budgets.
+Magic uses the same resolution as all other actions. Casters don't track spell slots or mana — they can always cast, but with risk. Stress and Afflictions provide natural limiting factors without artificial per-day budgets.
 
 **Why touchstones instead of spell lists?**
 Encourages creative problem-solving, reduces prep, and makes magic feel responsive to fiction. Clear boundaries (Sphere + Operation) prevent magic from solving every problem while remaining flexible within those boundaries.
@@ -556,7 +556,7 @@ If your table has both a Sage and a Mystic, be aware they operate on different e
 
 **Duration:** Instantaneous / Moment (1-2 actions) / Scene (Potent + Extended) / Permanent (Ritual)
 
-**Life/Healing:** Clear 1 Stress or -1 Condition tier (Spell); Clear 2 Stress or remove Condition (Potent). Conflict → narrative consequence, not Stress.
+**Life/Healing:** Clear 1 Stress or -1 Affliction tier (Spell); Clear 2 Stress or remove Affliction (Potent). Conflict → narrative consequence, not Stress.
 
 **Buffs/Debuffs:** Grant 1 Boon to ally (buff) or against target (debuff). Moment by default, Scene with Potent + Extended.
 
@@ -569,4 +569,4 @@ If your table has both a Sage and a Mystic, be aware they operate on different e
 With Parts 1 (The Rules) and 2 (Your Character) complete, the remaining sections cover:
 
 - **Part 3: Running the Game** — GM guidance, encounter design, campaign structure
-- **Part 4: Reference** — When-to-roll guide, Complication tags, Condition lists, quick-play aids
+- **Part 4: Reference** — When-to-roll guide, Complication tags, Affliction lists, quick-play aids

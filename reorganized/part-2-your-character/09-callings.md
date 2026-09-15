@@ -82,7 +82,7 @@ You have Expertise when fighting unarmed or with improvised weapons. You treat u
 You have Expertise in feats of raw strength, endurance, and athleticism. Push Yourself to perform a Potent feat of physical power — breaking barriers, moving impossible weights, cleaving through a shield wall, or an impossible athletic maneuver.
 
 **Tough as Nails**
-When you clear a Condition or Burden tier through action or rest, reduce it by 2 tiers instead of 1. Push Yourself to act at full capacity despite a Condition or Burden that would disable lesser warriors — fighting on a broken leg, moving through agony, running through collapse.
+When you clear an Affliction or Burden tier through action or rest, reduce it by 2 tiers instead of 1. Push Yourself to act at full capacity despite an Affliction or Burden that would disable lesser warriors — fighting on a broken leg, moving through agony, running through collapse.
 
 **Warlord**
 You have Expertise when directing allies in battle through tactical command — positioning, timing, and coordinated maneuvers rather than inspiration alone. Push Yourself to coordinate a group to accomplish a Potent tactical maneuver — a flawless ambush, a disciplined retreat, a shield wall, a cavalry charge.
@@ -215,7 +215,7 @@ You have Expertise when channeling your patron's judgment against enemies of the
 You have Expertise when performing rituals, ceremonies, blessings, or sacred observances — and when identifying what rituals have been performed or what rites are required. Push Yourself to complete a ritual in dramatically reduced time without sacrificing its effect.
 
 **Miracle Worker**
-You are your patron's instrument of restoration. You have Expertise when tending to wounds, illness, or supernatural corruption. When you successfully heal or restore, clear +1 additional Stress or remove a Tier 1 Condition from the target.
+You are your patron's instrument of restoration. You have Expertise when tending to wounds, illness, or supernatural corruption. When you successfully heal or restore, clear +1 additional Stress or remove a Tier 1 Affliction from the target.
 
 **Oracle [ ] [ ]**
 You have Expertise when interpreting omens, prophecy, dreams, and signs. Mark this to receive a direct vision from your patron — ask the GM one question about the past, present, or future. The GM answers through symbol or revelation (may be cryptic, but is true).
@@ -224,7 +224,7 @@ You have Expertise when interpreting omens, prophecy, dreams, and signs. Mark th
 You have Expertise when Defying supernatural threats — curses, possession, divine wrath, magical compulsion. Push Yourself to extend this protection to a nearby ally for the duration of a scene.
 
 **Sacred Authority**
-You speak with the voice of your patron's institution. You have Expertise when invoking your patron, faith, or sacred office to command or banish. When you successfully command or banish a creature in your patron's name, they also suffer a Condition of your choice (Frightened, Humbled, Banished, etc.).
+You speak with the voice of your patron's institution. You have Expertise when invoking your patron, faith, or sacred office to command or banish. When you successfully command or banish a creature in your patron's name, they also suffer an Affliction of your choice (Frightened, Humbled, Banished, etc.).
 
 **Spirit Guide**
 You are known and respected among spirits, ancestors, and supernatural beings. You have Expertise when negotiating with, appealing to, or making requests of such entities. Push Yourself to call upon a specific spirit for direct, immediate assistance — guidance, protection, information, or intervention.
